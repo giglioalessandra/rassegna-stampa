@@ -4,7 +4,7 @@ name: Aggiorna rassegna stampa
 on:
   schedule:
     # Ogni ora. ATTENZIONE: GitHub usa l'orario UTC (in Italia siamo 1-2 ore avanti).
-    - cron: '0 * * * *'
+    - cron: '0 5,12 * * *'
   workflow_dispatch:   # permette anche l'avvio manuale dal sito di GitHub
 
 # Impedisce che due aggiornamenti si sovrappongano.
