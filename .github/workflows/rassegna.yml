@@ -34,12 +34,35 @@ jobs:
           FTP_PATH: ${{ secrets.FTP_PATH }}
         run: |
           set -uo pipefail
-          if [ -z "${FTP_HOST:-}" ] || [ -z "${FTP_USER:-}" ] || [ -z "${FTP_PASS:-}" ]; then
-            echo "ERRORE: mancano dei segreti FTP."
-            echo "Servono FTP_HOST, FTP_USER, FTP_PASS, FTP_PATH in"
-            echo "Settings -> Secrets and variables -> Actions."
+
+          FTP_HOST="$(printf '%s' "${FTP_HOST:-}" | tr -d '\r\n' | xargs)"
+          FTP_USER="$(printf '%s' "${FTP_USER:-}" | tr -d '\r\n' | xargs)"
+          FTP_PATH="$(printf '%s' "${FTP_PATH:-}" | tr -d '\r\n' | xargs)"
+          FTP_PASS="$(printf '%s' "${FTP_PASS:-}" | tr -d '\r\n')"
+
+          echo "Controllo dei segreti (lunghezza in caratteri):"
+          echo "  FTP_HOST = ${#FTP_HOST}"
+          echo "  FTP_USER = ${#FTP_USER}"
+          echo "  FTP_PASS = ${#FTP_PASS}"
+          echo "  FTP_PATH = ${#FTP_PATH}"
+
+          MANCANTI=""
+          [ -z "$FTP_HOST" ] && MANCANTI="$MANCANTI FTP_HOST"
+          [ -z "$FTP_USER" ] && MANCANTI="$MANCANTI FTP_USER"
+          [ -z "$FTP_PASS" ] && MANCANTI="$MANCANTI FTP_PASS"
+          [ -z "$FTP_PATH" ] && MANCANTI="$MANCANTI FTP_PATH"
+          if [ -n "$MANCANTI" ]; then
+            echo ""
+            echo "=============================================="
+            echo "SEGRETI VUOTI O INESISTENTI:$MANCANTI"
+            echo "=============================================="
+            echo "1) Creati nella scheda VARIABLES invece che SECRETS?"
+            echo "   Settings -> Secrets and variables -> Actions,"
+            echo "   scheda 'Secrets', sezione 'Repository secrets'."
+            echo "2) Nome esatto: FTP_HOST, FTP_USER, FTP_PASS, FTP_PATH"
             exit 1
           fi
+
           DEST="ftp://${FTP_HOST}/${FTP_PATH}/articles.json"
           echo "Destinazione: ${DEST}"
 
@@ -58,13 +81,11 @@ jobs:
           echo "=============================================="
           case $ESITO in
             67)
-              echo "LOGIN RIFIUTATO: nome utente o password FTP sbagliati."
-              echo ""
-              echo "Su Altervista la password FTP e' DIVERSA da quella con cui"
-              echo "entri nel pannello: va impostata a parte nella sezione FTP."
-              echo "  FTP_USER = solo il nome del sito (es. 'alehyppo')"
-              echo "  FTP_PASS = la password FTP presa dal pannello Altervista"
-              echo "Attenzione a spazi o a-capo incollati per sbaglio."
+              echo "LOGIN RIFIUTATO: utente o password FTP non accettati."
+              echo "Nel terminale le stesse credenziali funzionano, quindi"
+              echo "il valore salvato nel segreto e' diverso da quello giusto."
+              echo "Confronta la lunghezza di FTP_PASS qui sopra con i"
+              echo "caratteri della tua password vera."
               ;;
             9|550)
               echo "PERCORSO NON VALIDO: la cartella di FTP_PATH non esiste."
@@ -75,7 +96,6 @@ jobs:
               ;;
             6|7)
               echo "SERVER IRRAGGIUNGIBILE: controlla FTP_HOST."
-              echo "Per Altervista e' del tipo ftp.NOMESITO.altervista.org"
               ;;
             *)
               echo "Codici curl: https://curl.se/libcurl/c/libcurl-errors.html"
