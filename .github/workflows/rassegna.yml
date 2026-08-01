@@ -1,10 +1,13 @@
 name: Aggiorna rassegna stampa
 
+# Quando girare:
 on:
   schedule:
+    # Ogni ora. ATTENZIONE: GitHub usa l'orario UTC (in Italia siamo 1-2 ore avanti).
     - cron: '0 * * * *'
-  workflow_dispatch:
+  workflow_dispatch:   # permette anche l'avvio manuale dal sito di GitHub
 
+# Impedisce che due aggiornamenti si sovrappongano.
 concurrency:
   group: rassegna
   cancel-in-progress: false
@@ -16,8 +19,10 @@ jobs:
 
     steps:
       - name: Scarica il codice
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
+      # Python 3 è già installato sui server di GitHub e lo script usa solo la
+      # libreria standard: non c'è nulla da installare.
       - name: Scarica i feed e genera articles.json
         run: python3 build_cache.py cache
 
@@ -33,27 +38,75 @@ jobs:
           FTP_PASS: ${{ secrets.FTP_PASS }}
           FTP_PATH: ${{ secrets.FTP_PATH }}
         run: |
-          set -euo pipefail
-          if [ -z "${FTP_HOST:-}" ]; then
-            echo "ERRORE: i segreti FTP non sono impostati."
+          set -uo pipefail
+          if [ -z "${FTP_HOST:-}" ] || [ -z "${FTP_USER:-}" ] || [ -z "${FTP_PASS:-}" ]; then
+            echo "ERRORE: mancano dei segreti FTP."
+            echo "Servono FTP_HOST, FTP_USER, FTP_PASS, FTP_PATH in"
+            echo "Settings -> Secrets and variables -> Actions."
             exit 1
           fi
           DEST="ftp://${FTP_HOST}/${FTP_PATH}/articles.json"
-          if curl --ssl-reqd --fail --silent --show-error \
-                  --user "${FTP_USER}:${FTP_PASS}" \
-                  --upload-file cache/articles.json "${DEST}"; then
+          echo "Destinazione: ${DEST}"
+
+          # Prima si prova la connessione cifrata (FTPS). Se l'hosting non la
+          # supporta si ripiega su FTP normale, che è ciò che offre Altervista.
+          curl --ssl-reqd --fail --silent --show-error \
+               --user "${FTP_USER}:${FTP_PASS}" \
+               --upload-file cache/articles.json "${DEST}"
+          ESITO=$?
+          if [ $ESITO -eq 0 ]; then
             echo "Caricato con connessione cifrata (FTPS)."
-          else
-            echo "FTPS non disponibile, uso FTP normale."
-            curl --fail --silent --show-error \
-                 --user "${FTP_USER}:${FTP_PASS}" \
-                 --upload-file cache/articles.json "${DEST}"
-            echo "Caricato via FTP."
+            exit 0
           fi
+
+          echo "FTPS non riuscito (codice $ESITO), riprovo con FTP normale."
+          curl --fail --silent --show-error \
+               --user "${FTP_USER}:${FTP_PASS}" \
+               --upload-file cache/articles.json "${DEST}"
+          ESITO=$?
+          if [ $ESITO -eq 0 ]; then
+            echo "Caricato via FTP."
+            exit 0
+          fi
+
+          # Traduce i codici di curl in spiegazioni utili, invece di lasciare
+          # un nudo "exit code 67" che non dice nulla.
+          echo ""
+          echo "=============================================="
+          echo "CARICAMENTO FALLITO — codice curl $ESITO"
+          echo "=============================================="
+          case $ESITO in
+            67)
+              echo "LOGIN RIFIUTATO: nome utente o password FTP sbagliati."
+              echo ""
+              echo "Su Altervista la password FTP e' DIVERSA da quella con cui"
+              echo "entri nel pannello: va impostata a parte nella sezione FTP."
+              echo "Controlla i segreti:"
+              echo "  FTP_USER = solo il nome del sito (es. 'alehyppo'),"
+              echo "             senza .altervista.org"
+              echo "  FTP_PASS = la password FTP presa dal pannello Altervista"
+              echo "Attenzione a spazi o a-capo incollati per sbaglio."
+              ;;
+            9|550)
+              echo "PERCORSO NON VALIDO: la cartella indicata in FTP_PATH non esiste."
+              echo "FTP_PATH vale ora: '${FTP_PATH}'"
+              echo "Deve essere il percorso dalla radice FTP fino alla cartella"
+              echo "cache, SENZA barra iniziale (es. 'rassegna-stampa/cache')."
+              echo "La cartella deve gia' esistere: il caricamento non la crea."
+              ;;
+            6|7)
+              echo "SERVER IRRAGGIUNGIBILE: controlla FTP_HOST."
+              echo "Per Altervista e' del tipo ftp.NOMESITO.altervista.org"
+              ;;
+            *)
+              echo "Vedi il significato del codice su https://curl.se/libcurl/c/libcurl-errors.html"
+              ;;
+          esac
+          exit 1
 
       - name: Riepilogo
         run: |
-          echo "### Rassegna aggiornata" >> $GITHUB_STEP_SUMMARY
+          echo "### Rassegna aggiornata :newspaper:" >> $GITHUB_STEP_SUMMARY
           python3 -c "
           import json
           d = json.load(open('cache/articles.json'))
