@@ -33,13 +33,19 @@ jobs:
           FTP_PASS: ${{ secrets.FTP_PASS }}
           FTP_PATH: ${{ secrets.FTP_PATH }}
         run: |
-          set -uo pipefail
+          # GitHub avvia i blocchi "run" con "bash -e", che interrompe tutto al
+          # primo comando fallito. Va disattivato, altrimenti curl muore prima
+          # che i messaggi d'errore qui sotto vengano stampati.
+          set +e
+          set -u -o pipefail
 
+          # Toglie a-capo e spazi finiti per sbaglio dentro i segreti.
           FTP_HOST="$(printf '%s' "${FTP_HOST:-}" | tr -d '\r\n' | xargs)"
           FTP_USER="$(printf '%s' "${FTP_USER:-}" | tr -d '\r\n' | xargs)"
           FTP_PATH="$(printf '%s' "${FTP_PATH:-}" | tr -d '\r\n' | xargs)"
           FTP_PASS="$(printf '%s' "${FTP_PASS:-}" | tr -d '\r\n')"
 
+          # Mostra solo QUANTI caratteri contiene ogni segreto, mai il contenuto.
           echo "Controllo dei segreti (lunghezza in caratteri):"
           echo "  FTP_HOST = ${#FTP_HOST}"
           echo "  FTP_USER = ${#FTP_USER}"
@@ -56,16 +62,24 @@ jobs:
             echo "=============================================="
             echo "SEGRETI VUOTI O INESISTENTI:$MANCANTI"
             echo "=============================================="
-            echo "1) Creati nella scheda VARIABLES invece che SECRETS?"
-            echo "   Settings -> Secrets and variables -> Actions,"
-            echo "   scheda 'Secrets', sezione 'Repository secrets'."
-            echo "2) Nome esatto: FTP_HOST, FTP_USER, FTP_PASS, FTP_PATH"
+            echo "GitHub non trova questi valori. Le cause tipiche:"
+            echo ""
+            echo "1) Sono stati creati nella scheda VARIABLES invece che"
+            echo "   nella scheda SECRETS. Sono due schede diverse nella"
+            echo "   stessa pagina: Settings -> Secrets and variables ->"
+            echo "   Actions. Servono in 'Secrets' (Repository secrets)."
+            echo "2) Il nome non coincide: deve essere esattamente"
+            echo "   FTP_HOST, FTP_USER, FTP_PASS, FTP_PATH"
+            echo "   (maiuscole e trattino basso compresi)."
             exit 1
           fi
 
           DEST="ftp://${FTP_HOST}/${FTP_PATH}/articles.json"
           echo "Destinazione: ${DEST}"
 
+          # FTP in chiaro: su Altervista il certificato del server non
+          # corrisponde al nome dell'host, quindi la connessione cifrata non e'
+          # utilizzabile e tentarla genera solo un errore fuorviante (codice 60).
           curl --fail --silent --show-error \
                --user "${FTP_USER}:${FTP_PASS}" \
                --upload-file cache/articles.json "${DEST}"
@@ -81,11 +95,12 @@ jobs:
           echo "=============================================="
           case $ESITO in
             67)
-              echo "LOGIN RIFIUTATO: utente o password FTP non accettati."
-              echo "Nel terminale le stesse credenziali funzionano, quindi"
-              echo "il valore salvato nel segreto e' diverso da quello giusto."
+              echo "LOGIN RIFIUTATO: nome utente o password FTP sbagliati."
+              echo ""
+              echo "Su Altervista la password FTP e' DIVERSA da quella con cui"
+              echo "entri nel pannello: va impostata a parte nella sezione FTP."
               echo "Confronta la lunghezza di FTP_PASS qui sopra con i"
-              echo "caratteri della tua password vera."
+              echo "caratteri della password che funziona nel terminale."
               ;;
             9|550)
               echo "PERCORSO NON VALIDO: la cartella di FTP_PATH non esiste."
@@ -96,6 +111,7 @@ jobs:
               ;;
             6|7)
               echo "SERVER IRRAGGIUNGIBILE: controlla FTP_HOST."
+              echo "Per Altervista e' del tipo ftp.NOMESITO.altervista.org"
               ;;
             *)
               echo "Codici curl: https://curl.se/libcurl/c/libcurl-errors.html"
