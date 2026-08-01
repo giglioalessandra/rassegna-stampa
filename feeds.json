@@ -1,0 +1,18 @@
+[
+  { "name": "ANSA Politica",       "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml", "section": "italia", "priority": 1 },
+  { "name": "ANSA Cronaca",        "url": "https://www.ansa.it/sito/notizie/cronaca/cronaca_rss.xml",   "section": "italia", "priority": 1 },
+  { "name": "ANSA",                "url": "https://www.ansa.it/sito/ansait_rss.xml",                    "section": "italia", "priority": 1 },
+  { "name": "Corriere della Sera", "url": "https://xml2.corriereobjects.it/rss/homepage.xml",           "section": "italia", "priority": 2 },
+  { "name": "la Repubblica",       "url": "https://www.repubblica.it/rss/homepage/rss2.0.xml",          "section": "italia", "priority": 2 },
+  { "name": "Open",                "url": "https://www.open.online/feed/",                             "section": "italia", "priority": 2 },
+  { "name": "Domani",              "url": "https://www.editorialedomani.it/rss",                       "section": "italia", "priority": 2 },
+  { "name": "Il Fatto Quotidiano", "url": "https://www.ilfattoquotidiano.it/feed/",                    "section": "italia", "priority": 3 },
+  { "name": "Nicola Porro",        "url": "https://www.nicolaporro.it/feed/",                          "section": "italia", "priority": 3 },
+
+  { "name": "ANSA Mondo",          "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",      "section": "mondo",  "priority": 1 },
+  { "name": "BBC World",           "url": "https://feeds.bbci.co.uk/news/world/rss.xml",               "section": "mondo",  "priority": 1 },
+  { "name": "Deutsche Welle",      "url": "https://rss.dw.com/rdf/rss-en-world",                       "section": "mondo",  "priority": 1 },
+  { "name": "France 24",           "url": "https://www.france24.com/en/rss",                           "section": "mondo",  "priority": 2 },
+  { "name": "Al Jazeera",          "url": "https://www.aljazeera.com/xml/rss/all.xml",                 "section": "mondo",  "priority": 2 },
+  { "name": "The Guardian World",  "url": "https://www.theguardian.com/world/rss",                     "section": "mondo",  "priority": 2 }
+]
