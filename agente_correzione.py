@@ -124,10 +124,11 @@ def costruisci_istruzioni(is_audio: bool) -> str:
 - Ignora gli aspetti fisiologici del parlato: ripetizioni, intercalari ("eh", "ehm"), false partenze, autocorrezioni, frasi interrotte.
 - Ignora ciò che a voce non si sente: punteggiatura, accenti, apostrofi, elisioni (es. "un escursione" -> "un'escursione"). Non segnalarli mai.
 - Non segnalare punti ambigui o discutibili (es. "un bosco grande" non è un errore) né i titoli dei file audio.
-- Errori di pronuncia: se nella trascrizione compaiono parole che non esistono in italiano ma assomigliano a una parola italiana (es. "preferiria" -> "periferia", "pattugiani" -> "partigiani", "assì" -> "così", confusione b/v), raccoglili in UN unico ultimo punto "Pronuncia". {nota_lingua} Non inventare errori di pronuncia: se non ce ne sono, non scrivere il punto "Pronuncia"."""
+- Errori di pronuncia: se nella trascrizione compaiono parole che non esistono in italiano ma assomigliano a una parola italiana (es. "preferiria" -> "periferia", "pattugiani" -> "partigiani", "assì" -> "così", "teramonti" -> "terremoti", confusione b/v), raccoglili nella categoria "Pronuncia", sempre per ultima. {nota_lingua} Non inventare errori di pronuncia: se non ce ne sono, non scrivere la categoria "Pronuncia"."""
     else:
         regole_forma = """TESTO SCRITTO
-- Correggi anche ortografia, accenti, apostrofi e punteggiatura, ma solo se rilevanti per il livello."""
+- Correggi anche ortografia, accenti, apostrofi e punteggiatura, ma solo se rilevanti per il livello.
+- Non usare la categoria "Pronuncia"."""
 
     return f"""Sei un correttore linguistico esperto in Italiano L2. Livello della classe: {LIVELLO_L2}.
 Produci un feedback da dare direttamente allo studente, basato SOLO sul testo fornito: non aggiungere errori che non sono nel testo.
@@ -141,11 +142,21 @@ ARGOMENTI GRAMMATICALI
 
 {regole_forma}
 
-STILE DEI PUNTI
-- Un punto per argomento, in questa forma: Argomento: spiegazione breve. "originale" -> "correzione"
-- Mantieni il dettaglio tecnico: cosa è stato detto, perché non va bene, forma corretta.
+RAGGRUPPAMENTO PER CATEGORIE
+- Non fare un punto per ogni errore: raggruppa tutti gli errori dello stesso tipo in una sola categoria, unendo i punti che si ripetono (es. più errori di accordo dell'aggettivo diventano un'unica voce).
+- Categorie possibili, in quest'ordine (usa solo quelle che servono a questo studente):
+  1. Articoli
+  2. Preposizioni
+  3. Accordo di genere e numero
+  4. Verbi (accordo con il soggetto, forma, tempi)
+  5. Pronomi
+  6. Ordine delle parole e struttura della frase
+  7. Lessico ed espressioni
+  8. Pronuncia
+- Massimo 5 o 6 categorie per studente. Se gli errori sono molti, scegli per ogni categoria i 3 o 4 esempi più rappresentativi o più frequenti, senza perdere la spiegazione della regola.
+- Mantieni sempre il dettaglio tecnico: la regola in una frase breve, poi gli esempi.
 - Se una frase originale non mostra un errore reale, presentala come "forma corretta da ricordare".
-- Tono incoraggiante nella spiegazione, ma nessun entusiasmo aggiuntivo (niente esclamazioni, niente complimenti).
+- Frasi brevi e semplici, tono chiaro e incoraggiante nella spiegazione, ma nessun entusiasmo aggiuntivo (niente esclamazioni, niente complimenti).
 - Testo semplice: niente markdown, niente grassetti, niente maiuscole per le correzioni (usa le virgolette).
 
 NOME E COGNOME
@@ -156,9 +167,20 @@ FORMATO DI OUTPUT (rispettalo esattamente, senza altro testo prima o dopo)
 COGNOME: [cognome]
 NOME: [nome proprio]
 PUNTI:
-- [punto 1]
-- [punto 2]
-NOTE: [in una riga: punti tolti o riformulati (congiuntivo, trapassato, ecc.) ed eventuali dubbi su nome o cognome; scrivi "nessuna" se non ce ne sono]"""
+- [Categoria]: [regola in una frase breve]
+  - "[originale]" -> "[correzione]"
+  - "[originale]" -> "[correzione]"
+- [Categoria]: [regola in una frase breve]
+  - "[originale]" -> "[correzione]"
+Ogni categoria è una riga che comincia con "- ", senza rientro. Ogni esempio sta su una riga propria, rientrata di due spazi, che comincia con "- ". Nessuna riga vuota dentro PUNTI.
+Esempio di PUNTI (serve solo a mostrare il formato: non copiarne il contenuto, usa solo errori del testo dello studente):
+- Articoli: "uno" davanti a s + consonante, "una" con i nomi femminili.
+  - "un stivale" -> "uno stivale"
+  - "un cultura" -> "una cultura"
+- Preposizioni: con le città si usa "a"; con le stagioni "in".
+  - "in Verona" -> "a Verona"
+  - "nel inverno" -> "in inverno"
+NOTE: [in una riga: punti tolti, uniti o riformulati (congiuntivo, trapassato, ecc.) ed eventuali dubbi su nome o cognome; scrivi "nessuna" se non ce ne sono]"""
 
 def chiama_api_visione(file_path: Path) -> str:
     """Estrae testo da immagini e lo corregge (OCR + Correzione)."""
@@ -309,6 +331,25 @@ def estrai_campo(output: str, etichetta: str) -> str:
     m = re.search(rf'^{etichetta}:[ \t]*(.*)$', output, re.MULTILINE)
     return m.group(1).strip() if m else ""
 
+def estrai_blocchi(corpo: str) -> list:
+    """Raggruppa le righe in blocchi: una riga categoria ("- ...") con i suoi esempi rientrati.
+    Normalizza i rientri (categoria senza rientro, esempi con due spazi) e scarta le righe vuote."""
+    blocchi = []
+    for riga in corpo.splitlines():
+        if not riga.strip().startswith('-'):
+            continue
+        testo = riga.strip()
+        if riga[:1].isspace() and blocchi:
+            blocchi[-1].append("  " + testo)
+        else:
+            blocchi.append([testo])
+    return blocchi
+
+def ordina_categorie(blocchi: list) -> list:
+    """Appiattisce i blocchi in righe, spostando "Pronuncia" per ultima."""
+    blocchi = sorted(blocchi, key=lambda b: b[0].lstrip('- ').lower().startswith('pronuncia'))
+    return [riga for b in blocchi for riga in b]
+
 def analizza_e_formatta_report(identificativo: str, output_gemini: str) -> dict:
     """Formatta il report individuale in testo semplice.
 
@@ -338,7 +379,7 @@ def analizza_e_formatta_report(identificativo: str, output_gemini: str) -> dict:
     punti = []
     if len(sezione) == 2:
         corpo = re.split(r'^NOTE:', sezione[1], maxsplit=1, flags=re.MULTILINE)[0]
-        punti = [r.strip() for r in corpo.splitlines() if r.strip().startswith('-')]
+        punti = ordina_categorie(estrai_blocchi(corpo))
     if len(sezione) < 2:
         # Formato inatteso: meglio segnalarlo che scrivere "nessun punto" al posto di un feedback vero
         print(f"   [!] {identificativo}: risposta AI in formato inatteso.")
