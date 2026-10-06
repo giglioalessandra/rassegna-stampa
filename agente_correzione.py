@@ -144,11 +144,11 @@ ARGOMENTI GRAMMATICALI
 
 RAGGRUPPAMENTO PER CATEGORIE
 - Non fare un punto per ogni errore: raggruppa tutti gli errori dello stesso tipo in una sola categoria, unendo i punti che si ripetono (es. più errori di accordo dell'aggettivo diventano un'unica voce).
-- Categorie possibili, in quest'ordine (usa solo quelle che servono a questo studente):
+- Categorie possibili, in quest'ordine (usa solo quelle che servono a questo studente; come nome scrivi solo il nome della categoria, senza parentesi né spiegazioni):
   1. Articoli
   2. Preposizioni
   3. Accordo di genere e numero
-  4. Verbi (accordo con il soggetto, forma, tempi)
+  4. Verbi (accordo con il soggetto, forma, tempi: scrivi solo "Verbi")
   5. Pronomi
   6. Ordine delle parole e struttura della frase
   7. Lessico ed espressioni
@@ -346,9 +346,19 @@ def estrai_blocchi(corpo: str) -> list:
     return blocchi
 
 def ordina_categorie(blocchi: list) -> list:
-    """Appiattisce i blocchi in righe, spostando "Pronuncia" per ultima."""
-    blocchi = sorted(blocchi, key=lambda b: b[0].lstrip('- ').lower().startswith('pronuncia'))
-    return [riga for b in blocchi for riga in b]
+    """Sposta "Pronuncia" per ultima, lasciando invariato l'ordine delle altre categorie."""
+    return sorted(blocchi, key=lambda b: b[0].lstrip('- ').lower().startswith('pronuncia'))
+
+def formatta_categoria(blocco: list) -> str:
+    """Rende una categoria nel formato finale:
+    NOME IN MAIUSCOLO / regola in una frase / esempi rientrati di due spazi."""
+    intestazione = blocco[0].lstrip('- ').strip()
+    nome, _, regola = intestazione.partition(':')
+    righe = [nome.strip().upper()]
+    if regola.strip():
+        righe.append(regola.strip())
+    righe += blocco[1:]
+    return "\n".join(righe)
 
 def analizza_e_formatta_report(identificativo: str, output_gemini: str) -> dict:
     """Formatta il report individuale in testo semplice.
@@ -379,7 +389,7 @@ def analizza_e_formatta_report(identificativo: str, output_gemini: str) -> dict:
     punti = []
     if len(sezione) == 2:
         corpo = re.split(r'^NOTE:', sezione[1], maxsplit=1, flags=re.MULTILINE)[0]
-        punti = ordina_categorie(estrai_blocchi(corpo))
+        punti = [formatta_categoria(b) for b in ordina_categorie(estrai_blocchi(corpo))]
     if len(sezione) < 2:
         # Formato inatteso: meglio segnalarlo che scrivere "nessun punto" al posto di un feedback vero
         print(f"   [!] {identificativo}: risposta AI in formato inatteso.")
@@ -389,7 +399,7 @@ def analizza_e_formatta_report(identificativo: str, output_gemini: str) -> dict:
             "note": f"{identificativo}: risposta AI in formato inatteso, da rifare.",
         }
     if not punti:
-        punti = ["- Nessun punto da segnalare."]
+        punti = ["Nessun punto da segnalare."]
 
     dubbi = []
     if not cognome: dubbi.append("cognome non riconosciuto")
@@ -398,7 +408,8 @@ def analizza_e_formatta_report(identificativo: str, output_gemini: str) -> dict:
         note = f"{note} ({', '.join(dubbi)})".strip()
 
     saluto = f"Bene {nome}! Attenzione, però:" if nome else "Bene! Attenzione, però:"
-    testo = f"STUDENTE: {identificativo}\n{saluto}\n" + "\n".join(punti)
+    # Riga vuota dopo il saluto e tra una categoria e la successiva
+    testo = f"STUDENTE: {identificativo}\n{saluto}\n\n" + "\n\n".join(punti)
     if note.lower().strip(' .') == "nessuna":
         note = ""
     return {
@@ -411,8 +422,8 @@ def salva_report_finale(report, destinazioni):
     """Salva il file TXT di riepilogo errori (testo semplice, ordinato per cognome)
     e, nella cartella di lavoro, il file con le note di revisione."""
     report = sorted(report, key=lambda r: r["chiave"])
-    # Report separati da una riga vuota, nessun titolo né separatori decorativi
-    testo_errori = "\n\n".join(r["testo"] for r in report) + "\n"
+    # Due righe vuote tra uno studente e il successivo, nessun titolo né separatori decorativi
+    testo_errori = "\n\n\n".join(r["testo"] for r in report) + "\n"
     note = [r["note"] for r in report if r["note"]]
 
     for cartella in destinazioni:
