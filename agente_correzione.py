@@ -28,6 +28,8 @@ CARTELLA_DI_LAVORO = Path(__file__).resolve().parent / "file_da_correggere"
 # trascrizione per ogni file audio/video, e nome dell'alias sul Desktop.
 NOME_CARTELLA_TRASCRIZIONI = "trascrizioni"
 NOME_ALIAS_TRASCRIZIONI = "Trascrizioni"
+# Riga che separa un report studente dal successivo nel file finale
+SEPARATORE_STUDENTI = "=" * 21
 ESTENSIONI_AUDIO = ['.mp3', '.wav', '.m4a', '.mp4', '.ogg', '.flac']
 
 # 2. Configurazione AI
@@ -422,8 +424,8 @@ def salva_report_finale(report, destinazioni):
     """Salva il file TXT di riepilogo errori (testo semplice, ordinato per cognome)
     e, nella cartella di lavoro, il file con le note di revisione."""
     report = sorted(report, key=lambda r: r["chiave"])
-    # Due righe vuote tra uno studente e il successivo, nessun titolo né separatori decorativi
-    testo_errori = "\n\n\n".join(r["testo"] for r in report) + "\n"
+    # Separatore ben visibile, con una riga vuota prima e dopo, tra uno studente e il successivo
+    testo_errori = f"\n\n{SEPARATORE_STUDENTI}\n\n".join(r["testo"] for r in report) + "\n"
     note = [r["note"] for r in report if r["note"]]
 
     for cartella in destinazioni:
