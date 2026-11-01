@@ -1,0 +1,250 @@
+{
+ "generated_at": 1793559526,
+ "quotas": {
+  "politica": 10,
+  "tech": 4,
+  "varia": 5
+ },
+ "items": [
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Meloni, concentrata a chiedere altro mandato. Il Quirinale non è nei miei piani",
+   "summary": "\"Basta razzismo culturale della sinistra su scelta per il Colle\"",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-concentrata-a-chiedere-altro-mandato.-il-quirinale-non-e-nei-miei-piani_a0038a28-b000-402c-8b26-b6dd6250e11e.html",
+   "pub_ts": 1793526929,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-concentrata-a-chiedere-altro-mandato.-il-quirinale-non-e-nei-miei-piani_a0038a28-b000-402c-8b26-b6dd6250e11e.html",
+     "title": "Meloni, concentrata a chiedere altro mandato. Il Quirinale non è nei miei piani"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-concentrata-a-chiedere-un-altro-mandato.-il-quirinale-non-e-nei-miei-piani_facdc2e3-865b-4f6a-9977-dec528bb34e0.html",
+     "title": "Meloni: 'Concentrata a chiedere un altro mandato. Il Quirinale non è nei miei piani'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/meloni-quirinale-anticipazioni-libro-bruno-vespa-riforma-giustizia-sinistra-antifascismo-g4g6maq5",
+     "title": "Meloni: «Il Quirinale non è nei miei piani. L’allarme antifascista? Non funzionerà neanche alle elezioni del 2027»"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/01/meloni-quirinale-secondo-mandato-libro-vespa/",
+     "title": "Meloni allontana l’ipotesi Quirinale: «Non è nei miei piani». E alla sinistra: «Basta con il razzismo culturale»"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/01/news/giorgia_meloni_colle_libro_vespa-425691184/",
+     "title": "Meloni: “Insopportabile razzismo culturale a sinistra sulla scelta del presidente della Repubblica”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Manovra: stretta sugli aumenti degli stipendi dei magistrati, rivisti i criteri",
+   "summary": "Torna la media ponderata, esclusi gli arretrati dal calcolo degli adeguamenti",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-bonus-giorgetti-confermato-piu-soldi-in-busta-paga-a-chi-rinvia_20031262-e476-45eb-82ee-0356dd37c56f.html",
+   "pub_ts": 1793543211,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-bonus-giorgetti-confermato-piu-soldi-in-busta-paga-a-chi-rinvia_20031262-e476-45eb-82ee-0356dd37c56f.html",
+     "title": "Manovra: stretta sugli aumenti degli stipendi dei magistrati, rivisti i criteri"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/01/news/manovra_stretta_sugli_aumenti_degli_stipendi_dei_magistrati-425691701/",
+     "title": "Manovra: stretta sugli aumenti degli stipendi dei magistrati"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/01/manovra-stretta-stipendi-magistrati-aumenti-criteri-istat/",
+     "title": "Manovra, stretta del governo sugli aumenti di stipendio dei magistrati: cosa cambia dal 2027 con la «media ponderata»"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/pensioni-manovra-2027-taglio-rivalutazione-assegni/",
+     "title": "Pensioni, la manovra taglia la rivalutazione. Ecco cosa cambia dal 2027"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il Papa: \"Dopo la tregua per i civili a Oleshky, crescano le inizative di pace\"",
+   "summary": "Leone ha avuto un ruolo di mediazione nella tregua tra russi e ucraini",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/il-papa-dopo-la-tregua-per-i-civili-a-oleshky-crescano-le-inizative-di-pace_a4b8879f-32bd-4dbf-8c3b-bdcf8beca6a5.html",
+   "pub_ts": 1793536115,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/il-papa-dopo-la-tregua-per-i-civili-a-oleshky-crescano-le-inizative-di-pace_a4b8879f-32bd-4dbf-8c3b-bdcf8beca6a5.html",
+     "title": "Il Papa: \"Dopo la tregua per i civili a Oleshky, crescano le inizative di pace\""
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/zelensky-rientrati-in-ucraina-i-residenti-evacuati-da-oleshky_66d44356-c05d-4e6f-8f18-8fe55661236b.html",
+     "title": "Zelensky, 'rientrati in Ucraina i residenti evacuati da Oleshky'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-evacuati-i-civili-da-oleshky-mosca-e-kiev-si-accusano-a-vicenda-di-aver-violato-la-tregua-k2jsyj1b",
+     "title": "Ucraina, evacuati i civili da Oleshky. Mosca e Kiev si accusano a vicenda di aver violato la tregua"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/01/tregua-oleshky-papa-leone-pace-notizie/8556949/",
+     "title": "Ucraina, il Papa: “La tregua a Oleshky porti a nuove iniziative di pace”. Gli evacuati: “Costretti a nutrirci di cani”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "India's opposition holds mega rally seeking election chief's resignation",
+   "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+   "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+   "pub_ts": 1793532368,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "BBC World",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+     "title": "India's opposition holds mega rally seeking election chief's resignation"
+    },
+    {
+     "name": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
+     "title": "Thousands rally in New Delhi to demand India’s election chief resign"
+    },
+    {
+     "name": "France 24",
+     "link": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
+     "title": "Indian opposition parties stage mega rally seeking election chief’s resignation"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump: 'Non abbiamo fretta sull'Iran, abbiamo uno o due siti di cui occuparci'",
+   "summary": "'Teheran vuole un accordo, guardiamo a Pickaxe Mountain'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/01/trump-non-abbiamo-fretta-sulliran-abbiamo-uno-o-due-siti-di-cui_c61082f4-ba5a-417a-a2a5-16dceb809481.html",
+   "pub_ts": 1793537703,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/01/trump-non-abbiamo-fretta-sulliran-abbiamo-uno-o-due-siti-di-cui_c61082f4-ba5a-417a-a2a5-16dceb809481.html",
+     "title": "Trump: 'Non abbiamo fretta sull'Iran, abbiamo uno o due siti di cui occuparci'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-non-abbiamo-fretta-sulliran-abbiamo-uno-o-due-siti-di-cui_ae010ee2-bd06-4f80-8ac8-24cf1ebc3e3e.html",
+     "title": "Trump: 'Non abbiamo fretta sull'Iran, abbiamo uno o due siti di cui occuparci'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Bulgarians vote in presidential run-off amid Black Sea tensions",
+   "summary": "Voters in Bulgaria weigh economic challenges and attacks on ships in a race marked by record low turnout.",
+   "link": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
+   "pub_ts": 1793530665,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
+     "title": "Bulgarians vote in presidential run-off amid Black Sea tensions"
+    },
+    {
+     "name": "France 24",
+     "link": "https://www.france24.com/en/europe/20261101-bulgarians-vote-in-presidential-runoff-amid-security-tensions-in-the-black-sea",
+     "title": "Bulgarians vote in presidential runoff amid security tensions in the Black Sea"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Herzog: 'Mercoledì i dati ufficiali del voto, poi al via le consultazioni'",
+   "summary": "Il presidente di Israele: 'Le porte della Residenza del Presidente spalancate a tutte le liste e a tutti i partiti'. Media: 'La lista unita raccomanderà Eisenkot come premier'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/herzog-mercoledi-i-dati-ufficiali-del-voto-poi-al-via-le-consultazioni_9aa5e803-daf0-4591-b0c6-ea26ce02a358.html",
+   "pub_ts": 1793541828,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/herzog-mercoledi-i-dati-ufficiali-del-voto-poi-al-via-le-consultazioni_9aa5e803-daf0-4591-b0c6-ea26ce02a358.html",
+     "title": "Herzog: 'Mercoledì i dati ufficiali del voto, poi al via le consultazioni'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Zelensky, 'la Russia sta perdendo sul terreno, scelga la via diplomatica'",
+   "summary": "'In ottobre riconquistato più territorio di quello preso dagli occupanti'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-la-russia-sta-perdendo-sul-terreno-scelga-la-via-diplomatica_141a9b75-0126-47f4-b5ba-c9f551dbfe46.html",
+   "pub_ts": 1793537794,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-la-russia-sta-perdendo-sul-terreno-scelga-la-via-diplomatica_141a9b75-0126-47f4-b5ba-c9f551dbfe46.html",
+     "title": "Zelensky, 'la Russia sta perdendo sul terreno, scelga la via diplomatica'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Manifestazione nazionale Usb il 12 dicembre contro caro vita e governo Meloni",
+   "summary": "L'annuncio in assemblea. Mobilitazione continua, previsti presidi e cortei fino al 12",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/manifestazione-nazionale-usb-il-12-dicembre-contro-caro-vita-e-governo-meloni_356df6be-bccb-4a13-b9fe-26f10310587c.html",
+   "pub_ts": 1793536793,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/manifestazione-nazionale-usb-il-12-dicembre-contro-caro-vita-e-governo-meloni_356df6be-bccb-4a13-b9fe-26f10310587c.html",
+     "title": "Manifestazione nazionale Usb il 12 dicembre contro caro vita e governo Meloni"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Meloni, riforma Rai mi sembra a buon punto. Toglieremo argomento a sinistra ridicola",
+   "summary": "La legge di oggi fatta dalla sinistra, che l'ha usata per anni per definire la governance",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-riforma-rai-mi-sembra-a-buon-punto.-toglieremo-argomento-a-sinistra-ridicola_abd4f31d-b1ee-47c9-ac62-916883f96c8e.html",
+   "pub_ts": 1793533715,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-riforma-rai-mi-sembra-a-buon-punto.-toglieremo-argomento-a-sinistra-ridicola_abd4f31d-b1ee-47c9-ac62-916883f96c8e.html",
+     "title": "Meloni, riforma Rai mi sembra a buon punto. Toglieremo argomento a sinistra ridicola"
+    }
+   ]
+  }
+ ]
+}

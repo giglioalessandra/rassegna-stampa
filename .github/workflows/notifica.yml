@@ -1,0 +1,45 @@
+name: Notifica pranzo 12:20
+
+# Alle 12:20 ora italiana arriva una notifica sul telefono (via ntfy.sh)
+# che apre direttamente il tuo casa hub. Due cron UTC coprono ora legale e solare;
+# il controllo sull'ora di Roma fa partire solo quello giusto.
+on:
+  schedule:
+    - cron: '20 10 * * *'   # 12:20 CEST (ora legale)
+    - cron: '20 11 * * *'   # 12:20 CET  (ora solare)
+  workflow_dispatch:
+
+jobs:
+  notifica:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Controlla che a Roma siano le 12
+        id: ora
+        run: |
+          H=$(TZ=Europe/Rome date +%H)
+          if [ "$H" = "12" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "vai=si" >> "$GITHUB_OUTPUT"
+          else
+            echo "vai=no" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Invia la notifica
+        if: steps.ora.outputs.vai == 'si'
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          HUB_URL: ${{ vars.HUB_URL }}
+        run: |
+          test -n "$NTFY_TOPIC" || { echo "Manca il secret NTFY_TOPIC"; exit 1; }
+          TITOLO=$(python3 -c "
+          import json
+          d=json.load(open('cache/rassegna.json'))['items']
+          print(d[0]['title'][:110] if d else 'La rassegna è pronta')")
+          curl -fsS \
+            -H "Title: Rassegna stampa pronta" \
+            -H "Tags: newspaper" \
+            -H "Click: ${HUB_URL:-https://github.com}" \
+            -d "Buon pranzo! 19 notizie selezionate. In apertura: $TITOLO" \
+            "https://ntfy.sh/$NTFY_TOPIC"

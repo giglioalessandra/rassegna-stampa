@@ -24,6 +24,9 @@ jobs:
       - name: Scarica i feed e genera articles.json
         run: python3 build_cache.py cache
 
+      - name: Seleziona la rassegna (10 politica, 4 AI/tech, 5 varie, cronaca solo se grande)
+        run: python3 curate.py cache
+
       - name: Controlla che il file sia stato creato
         run: |
           test -s cache/articles.json
@@ -35,7 +38,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -f cache/articles.json
+          git add -f cache/articles.json cache/rassegna.json
 
           if git diff --staged --quiet; then
             echo "Nessuna novita': le notizie sono identiche a quelle di prima."
