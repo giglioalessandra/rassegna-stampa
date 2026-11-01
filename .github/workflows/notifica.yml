@@ -1,6 +1,6 @@
 name: Notifica pranzo 12:20
 
-# Alle 12:20 ora italiana arriva una notifica sul telefono (via ntfy.sh)
+# Alle 12:20 ora italiana arriva una notifica sul telefono (via Telegram)
 # che apre direttamente il tuo casa hub. Due cron UTC coprono ora legale e solare;
 # il controllo sull'ora di Roma fa partire solo quello giusto.
 on:
@@ -26,20 +26,22 @@ jobs:
             echo "vai=no" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Invia la notifica
+      - name: Invia la notifica su Telegram
         if: steps.ora.outputs.vai == 'si'
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           HUB_URL: ${{ vars.HUB_URL }}
         run: |
-          test -n "$NTFY_TOPIC" || { echo "Manca il secret NTFY_TOPIC"; exit 1; }
-          TITOLO=$(python3 -c "
+          test -n "$TELEGRAM_BOT_TOKEN" || { echo "Manca il secret TELEGRAM_BOT_TOKEN"; exit 1; }
+          test -n "$TELEGRAM_CHAT_ID" || { echo "Manca il secret TELEGRAM_CHAT_ID"; exit 1; }
+          HUB="${HUB_URL:-https://alehyppo.altervista.org/casa/rassegna-stampa/index.php}"
+          TESTO=$(python3 -c "
           import json
           d=json.load(open('cache/rassegna.json'))['items']
-          print(d[0]['title'][:110] if d else 'La rassegna è pronta')")
-          curl -fsS \
-            -H "Title: Rassegna stampa pronta" \
-            -H "Tags: newspaper" \
-            -H "Click: ${HUB_URL:-https://alehyppo.altervista.org/casa/rassegna-stampa/index.php}" \
-            -d "Buon pranzo! 19 notizie selezionate. In apertura: $TITOLO" \
-            "https://ntfy.sh/$NTFY_TOPIC"
+          t=d[0]['title'][:110] if d else 'La rassegna è pronta'
+          print('Buon pranzo! La rassegna stampa è pronta (%d notizie).\nIn apertura: %s' % (len(d), t))")
+          curl -fsS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=${TESTO}" \
+            --data-urlencode "reply_markup={\"inline_keyboard\":[[{\"text\":\"Apri la rassegna\",\"url\":\"${HUB}\"}]]}"
