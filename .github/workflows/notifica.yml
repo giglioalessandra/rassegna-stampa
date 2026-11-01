@@ -40,6 +40,6 @@ jobs:
           curl -fsS \
             -H "Title: Rassegna stampa pronta" \
             -H "Tags: newspaper" \
-            -H "Click: ${HUB_URL:-https://github.com}" \
+            -H "Click: ${HUB_URL:-https://alehyppo.altervista.org/casa/rassegna-stampa/index.php}" \
             -d "Buon pranzo! 19 notizie selezionate. In apertura: $TITOLO" \
             "https://ntfy.sh/$NTFY_TOPIC"
