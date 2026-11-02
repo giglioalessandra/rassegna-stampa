@@ -1,0 +1,47 @@
+name: Notifica pranzo 12:20
+
+# Alle 12:20 ora italiana arriva una notifica sul telefono (via Telegram)
+# che apre direttamente il tuo casa hub. Due cron UTC coprono ora legale e solare;
+# il controllo sull'ora di Roma fa partire solo quello giusto.
+on:
+  schedule:
+    - cron: '20 10 * * *'   # 12:20 CEST (ora legale)
+    - cron: '20 11 * * *'   # 12:20 CET  (ora solare)
+  workflow_dispatch:
+
+jobs:
+  notifica:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Controlla che a Roma siano le 12
+        id: ora
+        run: |
+          H=$(TZ=Europe/Rome date +%H)
+          if [ "$H" = "12" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "vai=si" >> "$GITHUB_OUTPUT"
+          else
+            echo "vai=no" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Invia la notifica su Telegram
+        if: steps.ora.outputs.vai == 'si'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          HUB_URL: ${{ vars.HUB_URL }}
+        run: |
+          test -n "$TELEGRAM_BOT_TOKEN" || { echo "Manca il secret TELEGRAM_BOT_TOKEN"; exit 1; }
+          test -n "$TELEGRAM_CHAT_ID" || { echo "Manca il secret TELEGRAM_CHAT_ID"; exit 1; }
+          HUB="${HUB_URL:-https://alehyppo.altervista.org/casa/rassegna-stampa/index.php}"
+          TESTO=$(python3 -c "
+          import json
+          d=json.load(open('cache/rassegna.json'))['items']
+          t=d[0]['title'][:110] if d else 'La rassegna è pronta'
+          print('Buon pranzo! La rassegna stampa è pronta (%d notizie).\nIn apertura: %s' % (len(d), t))")
+          curl -fsS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=${TESTO}" \
+            --data-urlencode "reply_markup={\"inline_keyboard\":[[{\"text\":\"Apri la rassegna\",\"url\":\"${HUB}\"}]]}"
