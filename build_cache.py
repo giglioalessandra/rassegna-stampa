@@ -185,9 +185,11 @@ def main():
 
     tutti = []
     falliti = 0
+    errori = {}
     for meta, articoli, errore in risultati:
         if errore:
             falliti += 1
+            errori[meta['name']] = errore
             print('  %-22s ERRORE: %s' % (meta['name'], errore))
         else:
             print('  %-22s %d articoli' % (meta['name'], len(articoli)))
@@ -211,6 +213,8 @@ def main():
         return 1
 
     os.makedirs(uscita, exist_ok=True)
+    with open(os.path.join(uscita, 'errors.json'), 'w', encoding='utf-8') as f:
+        json.dump(errori, f, ensure_ascii=False, indent=1)
     percorso = os.path.join(uscita, 'raw.json')
     with open(percorso, 'w', encoding='utf-8') as f:
         json.dump({'updated_at': adesso, 'articles': articoli},
