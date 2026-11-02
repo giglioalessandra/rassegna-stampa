@@ -164,7 +164,10 @@ def lavora_feed(meta):
     except Exception as e:                      # rete, timeout, DNS...
         return meta, [], type(e).__name__ + ': ' + str(e)[:80]
     try:
-        return meta, analizza(dati, meta), None
+        arts = analizza(dati, meta)
+        if not arts:
+            return meta, [], 'nessun articolo; inizio risposta: ' + dati[:160].decode('utf-8', 'replace').replace('\n', ' ')
+        return meta, arts, None
     except ET.ParseError as e:
         return meta, [], 'XML non valido: %s' % str(e)[:80]
 
