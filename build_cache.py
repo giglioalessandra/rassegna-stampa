@@ -206,6 +206,12 @@ def main():
         if a['pub_ts'] >= limite:
             per_link[a['link']] = a
     articoli = sorted(per_link.values(), key=lambda a: a['pub_ts'], reverse=True)
+    recenti = {a['source'] for a in articoli}
+    for meta, arts, errore in risultati:
+        if not errore and arts and meta['name'] not in recenti:
+            piu_recente = max(a['pub_ts'] for a in arts)
+            errori[meta['name']] = 'articoli tutti più vecchi di %d ore (il più recente: %s UTC)' % (
+                MAX_AGE_HOURS, datetime.fromtimestamp(piu_recente, timezone.utc).strftime('%d/%m/%Y %H:%M'))
 
     print('\n%d fonti su %d hanno risposto' % (len(feeds) - falliti, len(feeds)))
     print('%d articoli unici e recenti' % len(articoli))

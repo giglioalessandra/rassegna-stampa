@@ -28,9 +28,5 @@
   {"name": "Wired Italia A", "url": "https://www.wired.it/feed/rss", "section": "tech", "priority": 2},
   {"name": "Wired Italia D", "url": "https://www.wired.it/feed/rss/", "section": "tech", "priority": 2},
   {"name": "Il Post", "url": "https://www.ilpost.it/feed", "section": "misto", "priority": 2},
-  {"name": "EtaBeta Rai A", "url": "https://www.raiplaysound.it/programmi/etabeta.xml", "section": "varia_scienza", "priority": 2},
-  {"name": "EtaBeta Rai B", "url": "https://www.raiplaysound.it/programmi/etabeta/rss", "section": "varia_scienza", "priority": 2},
-  {"name": "EtaBeta Rai C", "url": "https://www.raiplaysound.it/podcast/etabeta.rss", "section": "varia_scienza", "priority": 2},
-  {"name": "EtaBeta Rai D", "url": "https://www.raiplaysound.it/programmi/etabeta/podcast.rss", "section": "varia_scienza", "priority": 2},
   {"name": "Wired Italia E", "url": "https://www.wired.it/feed/rss/", "section": "tech", "priority": 2}
 ]
