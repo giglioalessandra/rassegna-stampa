@@ -25,8 +25,6 @@
   {"name": "Adnkronos Esteri", "url": "https://www.adnkronos.com/RSS_Esteri.xml", "section": "mondo", "priority": 2},
   {"name": "Adnkronos Cultura", "url": "https://www.adnkronos.com/RSS_Cultura.xml", "section": "varia_cultura", "priority": 2},
   {"name": "Rai News", "url": "https://www.rainews.it/rss/tutti", "section": "misto", "priority": 2},
-  {"name": "Wired Italia A", "url": "https://www.wired.it/feed/rss", "section": "tech", "priority": 2},
-  {"name": "Wired Italia D", "url": "https://www.wired.it/feed/rss/", "section": "tech", "priority": 2},
   {"name": "Il Post", "url": "https://www.ilpost.it/feed", "section": "misto", "priority": 2},
-  {"name": "Wired Italia E", "url": "https://www.wired.it/feed/rss/", "section": "tech", "priority": 2}
+  {"name": "Wired Italia", "url": "https://news.google.com/rss/search?q=site:wired.it+when:2d&hl=it&gl=IT&ceid=IT:it", "section": "tech", "priority": 2}
 ]

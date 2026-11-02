@@ -115,6 +115,7 @@ def analizza(xml_bytes, meta):
         titolo = _testo(n.find('title')) or _testo(n.find('atom:title', NS)) \
             or _testo(n.find('rss1:title', NS))
         titolo = pulisci_titolo(titolo)
+        titolo = re.sub(r'\s+-\s+(Wired Italia|WIRED Italia|Wired\.it)$', '', titolo, flags=re.I)
         if not titolo:
             continue
 
