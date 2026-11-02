@@ -41,7 +41,7 @@ RE_ITALIA_POL = re.compile(
     r"govern\w*|manovra|quirinale|palazzo chigi|montecitorio|csm|magistrat\w*|regional\w*|comunal\w*|"
     r"lega|fratelli d'italia|pd|m5s|forza italia|legge di bilancio|ddl|decreto)\b", re.I)
 RE_SPORT_GOSSIP = re.compile(
-    r"\b(formula|f1|antonelli|kimi|ferrari|verstappen|pilota|campione del mondo|titolo mondiale|zanicchi|mediaset|vaffa|reality|tronista|influencer|vip|talk show|televisione|tv show|comics|parata|star wars|cosplay|wnba|basket|volley|scudetto|olimpiad\w*|gol|mondiali di|coppa|campionato|concert\w*|ricoverat\w*|serie a|champions|calcio|juventus|inter\b|milan\b|napoli|roma\b|lazio|gp\b|formula 1|motogp|"
+    r"(\d\s?€|€\s?\d|\bofferta\b|\boffert[ae]\b|\bsconto\b|\bscont[io]\b|\bcoupon\b|\bsu amazon\b|\bprezzo minimo\b)|\b(formula|f1|antonelli|kimi|ferrari|verstappen|pilota|campione del mondo|titolo mondiale|zanicchi|mediaset|vaffa|reality|tronista|influencer|vip|talk show|televisione|tv show|comics|parata|star wars|cosplay|wnba|basket|volley|scudetto|olimpiad\w*|gol|mondiali di|coppa|campionato|concert\w*|ricoverat\w*|serie a|champions|calcio|juventus|inter\b|milan\b|napoli|roma\b|lazio|gp\b|formula 1|motogp|"
     r"tennis|nba|oroscopo|gossip|grande fratello|sanremo|isola dei famosi|football|premier league)\b", re.I)
 RE_AI = re.compile(
     r"\bai\b|\bia\b|intelligenza artificiale|artificial intelligence|openai|anthropic|claude|chatgpt|gemini|"
