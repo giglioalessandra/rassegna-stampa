@@ -1,7 +1,7 @@
 <?php
-// Pagina della rassegna: legge cache/rassegna.json (già selezionato da curate.py).
+// Pagina della rassegna: legge cache/articles.json (già selezionato da curate.py).
 // Va caricata accanto alla cartella cache/ sullo spazio Altervista.
-$f = __DIR__ . '/cache/rassegna.json';
+$f = __DIR__ . '/cache/articles.json';
 $d = is_file($f) ? json_decode(file_get_contents($f), true) : null;
 $items = $d['items'] ?? [];
 $blocchi = [

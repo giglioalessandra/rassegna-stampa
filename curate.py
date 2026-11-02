@@ -2,7 +2,7 @@
 """
 Rassegna Stampa — selezione dei contenuti.
 
-Legge cache/articles.json e produce cache/rassegna.json con:
+Legge cache/raw.json e produce cache/articles.json (la rassegna selezionata) con:
   - 10 notizie di politica Italia/mondo
   - 4 su AI e tecnologia
   - 5 di attualità varia (società/costume/cultura + scienza/tecnologia/ambiente)
@@ -176,7 +176,7 @@ def sottotipo_varia(g):
 
 def main():
     cartella = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(os.path.abspath(__file__)), 'cache')
-    dati = json.load(open(os.path.join(cartella, 'articles.json'), encoding='utf-8'))
+    dati = json.load(open(os.path.join(cartella, 'raw.json'), encoding='utf-8'))
     adesso = int(datetime.now(timezone.utc).timestamp())
     arts = [a for a in dati['articles'] if a['pub_ts'] >= adesso - FINESTRA_ORE * 3600]
 
@@ -220,8 +220,14 @@ def main():
     for s, g in per_cat['cronaca'][:2]:
         out.append(voce(g, 'cronaca'))
 
-    risultato = {'generated_at': adesso, 'quotas': QUOTE, 'items': out}
-    with open(os.path.join(cartella, 'rassegna.json'), 'w', encoding='utf-8') as f:
+    # 'articles' mantiene il formato del vecchio articles.json, così anche una pagina
+    # che non conosce 'items' continua a funzionare.
+    vecchio = [{'title': v['title'], 'link': v['link'], 'description': v['summary'],
+                'pub_ts': v['pub_ts'], 'source': v['sources'][0]['name'],
+                'source_priority': 1, 'section': v['category']} for v in out]
+    risultato = {'generated_at': adesso, 'updated_at': adesso, 'quotas': QUOTE,
+                 'items': out, 'articles': vecchio}
+    with open(os.path.join(cartella, 'articles.json'), 'w', encoding='utf-8') as f:
         json.dump(risultato, f, ensure_ascii=False, indent=1)
 
     conta = {}

@@ -38,7 +38,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -f cache/articles.json cache/rassegna.json
+          git add -f cache/raw.json cache/articles.json
 
           if git diff --staged --quiet; then
             echo "Nessuna novita': le notizie sono identiche a quelle di prima."
@@ -54,7 +54,7 @@ jobs:
           echo "### Rassegna aggiornata" >> $GITHUB_STEP_SUMMARY
           python3 -c "
           import json
-          d = json.load(open('cache/articles.json'))
+          d = json.load(open('cache/raw.json'))
           print('- Articoli:', len(d['articles']))
           fonti = sorted({a['source'] for a in d['articles']})
           print('- Fonti che hanno risposto:', len(fonti))

@@ -3,8 +3,8 @@
 Rassegna Stampa — generatore della cache delle notizie.
 
 Gira su GitHub Actions (non su Altervista, che blocca le connessioni in uscita):
-scarica i feed RSS elencati in feeds.json e produce cache/articles.json, che
-poi viene caricato via FTP sullo spazio web. La pagina index.php legge quel
+scarica i feed RSS elencati in feeds.json e produce cache/raw.json (feed grezzi), da cui curate.py
+ricava cache/articles.json, che poi viene caricato via FTP sullo spazio web. La pagina index.php legge quel
 file e non ha bisogno di collegarsi a nessun sito esterno.
 
 Usa solo la libreria standard di Python: niente da installare.
@@ -211,7 +211,7 @@ def main():
         return 1
 
     os.makedirs(uscita, exist_ok=True)
-    percorso = os.path.join(uscita, 'articles.json')
+    percorso = os.path.join(uscita, 'raw.json')
     with open(percorso, 'w', encoding='utf-8') as f:
         json.dump({'updated_at': adesso, 'articles': articoli},
                   f, ensure_ascii=False, separators=(',', ':'))
