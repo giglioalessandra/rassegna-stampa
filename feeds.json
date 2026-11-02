@@ -25,5 +25,6 @@
   {"name": "Adnkronos Esteri", "url": "https://www.adnkronos.com/RSS_Esteri.xml", "section": "mondo", "priority": 2},
   {"name": "Adnkronos Cultura", "url": "https://www.adnkronos.com/RSS_Cultura.xml", "section": "varia_cultura", "priority": 2},
   {"name": "Rai News", "url": "https://www.rainews.it/rss/tutti", "section": "misto", "priority": 2},
-  {"name": "Il Post", "url": "https://www.ilpost.it/feed", "section": "misto", "priority": 2}
+  {"name": "Il Post", "url": "https://www.ilpost.it/feed", "section": "misto", "priority": 2},
+  {"name": "EtaBeta Rai", "url": "https://giuliomagnifico.github.io/raiplay-feed/feed_etabeta.xml", "section": "varia_scienza", "priority": 2}
 ]
