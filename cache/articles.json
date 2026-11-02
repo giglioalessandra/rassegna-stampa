@@ -1,6 +1,6 @@
 {
- "generated_at": 1793615414,
- "updated_at": 1793615414,
+ "generated_at": 1793616171,
+ "updated_at": 1793616171,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -37,27 +37,49 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-   "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-   "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-   "pub_ts": 1793607648,
+   "title": "La strategia di Trump se perderà il Congresso alle elezioni di Midterm: “Diventerò Mr. Veto”",
+   "summary": "Alla vigilia del voto il leader in difficoltà programma nuovi comizi. La Casa Bianca prepara il piano per governare anche senza il Senato",
+   "link": "https://www.repubblica.it/esteri/2026/11/01/news/se_trump_perde_le_elezioni_diventero_mr_veto-425692335/?rss",
+   "pub_ts": 1793565248,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "BBC World",
-     "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-     "title": "How a Democrat in Michigan rocked the party days before the US midterms"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/01/news/se_trump_perde_le_elezioni_diventero_mr_veto-425692335/?rss",
+     "title": "La strategia di Trump se perderà il Congresso alle elezioni di Midterm: “Diventerò Mr. Veto”"
     },
     {
-     "name": "France 24",
-     "link": "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
-     "title": "Michigan Democrat stuns party to back Republican candidate in critical Senate race"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_7e049007-2213-47b4-a6e3-827a942aa790.html",
+     "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'"
     },
     {
-     "name": "The Guardian World",
-     "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
-     "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/01/news/se_trump_perde_le_elezioni_diventero_mr_veto-425692335/",
+     "title": "La strategia di Trump se perderà il Congresso alle elezioni di Midterm: “Diventerò Mr. Veto”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Jill Lepore: “Le elezioni dominate da IA e data center, ma negli Usa è rivolta”",
+   "summary": "La docente di Harvard: “L’impatto ambientale di quelle strutture sta molto a cuore alla gente, e non creano posti di lavoro”",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/jill_lepore_midterm_elezioni_ia_e_data_center_usa-425693273/?rss",
+   "pub_ts": 1793612663,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/jill_lepore_midterm_elezioni_ia_e_data_center_usa-425693273/?rss",
+     "title": "Jill Lepore: “Le elezioni dominate da IA e data center, ma negli Usa è rivolta”"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/jill_lepore_midterm_elezioni_ia_e_data_center_usa-425693273/",
+     "title": "Jill Lepore: “Le elezioni dominate da IA e data center, ma negli Usa è rivolta”"
     }
    ]
   },
@@ -86,28 +108,6 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump makes final campaign push in final weekend before election",
-   "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-   "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-   "pub_ts": 1793609748,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "BBC World",
-     "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-     "title": "Trump makes final campaign push in final weekend before election"
-    },
-    {
-     "name": "Al Jazeera",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-makes-controversial-claims-at-final-republican-campaign-rallies?traffic_source=rss",
-     "title": "Trump makes controversial claims at final Republican campaign rallies"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
    "title": "Melania Trump: 'Il cessate il fuoco è finito, quasi 800 persone evacuate da Oleshky'",
    "summary": "La first Lady si congratula con Mosca e Kiev: 'Spero che serva da base per una pace duratura'",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/melania-trump-il-cessate-il-fuoco-e-finito-quasi-800-persone-evacuate-da-oleshky_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
@@ -130,44 +130,44 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live",
-   "summary": "In Ukraine, the app started to send out alarming fake messages late on Sunday night Back to the cyber warfare we saw last night in the app hacking in Ukraine, and then Russia. As I noted earlier, this was direct attack on a core channel of communications between Ukrainian authorities and citizens; this app is embedded in everyday life in a war zone. Disinformation is as much a part of war as…",
-   "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-   "pub_ts": 1793615100,
+   "title": "Elezioni Usa, i mercati si preparano all’America “anatra zoppa”: “Rischi sui Big Tech”",
+   "summary": "Le previsioni in vista del voto midterm, con la possibile convivenza tra un Congresso democratico e una presidenza repubblicana",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_usa_i_mercati_si_preparano_all_america_anatra_zoppa-425692930/?rss",
+   "pub_ts": 1793604426,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "The Guardian World",
-     "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-     "title": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_usa_i_mercati_si_preparano_all_america_anatra_zoppa-425692930/?rss",
+     "title": "Elezioni Usa, i mercati si preparano all’America “anatra zoppa”: “Rischi sui Big Tech”"
     },
     {
-     "name": "France 24",
-     "link": "https://www.france24.com/en/video/20261102-ukraine-and-russia-both-hit-by-cyberattacks-on-emergency-apps",
-     "title": "Ukraine and Russia both hit by cyberattacks on emergency apps"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_usa_i_mercati_si_preparano_all_america_anatra_zoppa-425692930/",
+     "title": "Elezioni Usa, i mercati si preparano all’America “anatra zoppa”: “Rischi sui Big Tech”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'",
-   "summary": "Il messaggio agli elettori, 'mai così tanti americani al lavoro'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_7e049007-2213-47b4-a6e3-827a942aa790.html",
-   "pub_ts": 1793565248,
+   "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid",
+   "summary": "Sui telefoni di Kiev domenica notte è apparsa l’allerta nucleare, gettando nel panico molte persone. Dopo tre ore anche quelli di Mosca inondati di messaggi falsi",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
+   "pub_ts": 1793584208,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_7e049007-2213-47b4-a6e3-827a942aa790.html",
-     "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
+     "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/01/news/se_trump_perde_le_elezioni_diventero_mr_veto-425692335/",
-     "title": "La strategia di Trump se perderà il Congresso alle elezioni di Midterm: “Diventerò Mr. Veto”"
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/",
+     "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid"
     }
    ]
   },
@@ -213,85 +213,100 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Manovra: stretta sugli aumenti degli stipendi dei magistrati. Altolà dell'Anm",
-   "summary": "Vincolo green per le imprese. Polemiche su scuola e sanità. Bonus a chi rinvia la pensione",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-stretta-sugli-aumenti-degli-stipendi-dei-magistrati-rivisti-i-criteri_20031262-e476-45eb-82ee-0356dd37c56f.html",
-   "pub_ts": 1793562571,
+   "title": "La giudice polacca Beata Morawiec: “Bene il governo, ripristina lo stato di diritto”",
+   "summary": "Per la magistrata, perseguitata ai tempi del governo sovranista, se non si agisce sulla Corte costituzionale si rischia una multa di Bruxelles",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/polonia_corte_costituzionale_la_giudice_beata_morawiec-425692372/?rss",
+   "pub_ts": 1793577633,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-stretta-sugli-aumenti-degli-stipendi-dei-magistrati-rivisti-i-criteri_20031262-e476-45eb-82ee-0356dd37c56f.html",
-     "title": "Manovra: stretta sugli aumenti degli stipendi dei magistrati. Altolà dell'Anm"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/polonia_corte_costituzionale_la_giudice_beata_morawiec-425692372/?rss",
+     "title": "La giudice polacca Beata Morawiec: “Bene il governo, ripristina lo stato di diritto”"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Palantir AI tech unused or little used by 29 NHS trusts said to have benefited from it",
-   "summary": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health official More than two dozen hospital trusts the NHS claims have benefited from Palantir’s medical data platform are not using all or most of the AI-powered technology, the Guardian can reveal. The 29 hospital trusts that NHS England publicly lists as “realising benefits” from the controversial…",
-   "link": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
-   "pub_ts": 1793614786,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Apple HomeView potrebbe diventare una telecamera di sicurezza",
+   "summary": "Nel codice di HomeView 27.2 sono comparse stringhe che indicano una modalità telecamera di sicurezza con HomeKit Secure Video. The post Apple HomeView potrebbe diventare una telecamera di sicurezza appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/apple-homeview-potrebbe-diventare-telecamera-sicurezza/",
+   "pub_ts": 1793610900,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
-     "name": "Guardian AI",
-     "link": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
-     "title": "Palantir AI tech unused or little used by 29 NHS trusts said to have benefited from it"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/apple-homeview-potrebbe-diventare-telecamera-sicurezza/",
+     "title": "Apple HomeView potrebbe diventare una telecamera di sicurezza"
+    },
+    {
+     "name": "HDblog",
+     "link": "https://www.hdblog.it/apple/articoli/n675604/apple-homeview-telecamera-sicurezza-secure-video/",
+     "title": "Apple HomeView diventerà una telecamera di sicurezza per la casa con Secure Video"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer",
-   "summary": "We cannot let the billionaire class take unprecedented risks with our future America is a divided country in crisis. Despite the sunny economic forecast coming from the Trump administration, millions of Americans are struggling to find and keep jobs, getting crushed under the rising cost of living, and losing health insurance when they need it the most. Meanwhile, via corporate consolidation and…",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
-   "pub_ts": 1793613638,
-   "n_sources": 1,
-   "documented": false,
+   "title": "WhatsApp introduce le azioni rapide per numeri, indirizzi ed email",
+   "summary": "Numeri di telefono, indirizzi ed email diventano interattivi su WhatsApp: come funzionano le nuove azioni rapide, già in fase di rollout. The post WhatsApp introduce le azioni rapide per numeri, indirizzi ed email appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/whatsapp-azioni-rapide-numeri-indirizzi-email/",
+   "pub_ts": 1793605583,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
-     "name": "Guardian AI",
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
-     "title": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/whatsapp-azioni-rapide-numeri-indirizzi-email/",
+     "title": "WhatsApp introduce le azioni rapide per numeri, indirizzi ed email"
+    },
+    {
+     "name": "HDblog",
+     "link": "https://www.hdblog.it/smartphone/articoli/n675601/whatsapp-arrivano-nuove-scorciatoie/",
+     "title": "WhatsApp: arrivano nuove scorciatoie per numeri, date e indirizzi nelle chat"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-   "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "pub_ts": 1793570123,
-   "n_sources": 1,
-   "documented": false,
+   "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'",
+   "summary": "Alex Scheffler alla Bbc: \"Violano il diritto d'autore riproducendo la mia opera\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_c8b77dae-e591-4912-8e75-c76dacaeed0e.html",
+   "pub_ts": 1793550150,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
-     "name": "TechCrunch AI",
-     "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-     "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_c8b77dae-e591-4912-8e75-c76dacaeed0e.html",
+     "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'"
+    },
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_dcf6900e-a9ae-4469-bc85-beb6f4659710.html",
+     "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-   "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "pub_ts": 1793566678,
+   "title": "Questi auricolari sono premium e costano solo 30€ su Amazon",
+   "summary": "Questi incredibili auricolari costano solo 30€ in offerta su Amazon, ma offrono una qualità audio incredibilmente premium e completa. The post Questi auricolari sono premium e costano solo 30€ su Amazon appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/questi-auricolari-sono-premium-costano-solo-30-euro-amazon/",
+   "pub_ts": 1793614583,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "TechCrunch AI",
-     "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-     "title": "AI can make tech CEOs’ lives easier. What about everyone else?"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/questi-auricolari-sono-premium-costano-solo-30-euro-amazon/",
+     "title": "Questi auricolari sono premium e costano solo 30€ su Amazon"
     }
    ]
   },
@@ -326,22 +341,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Omaggio a Guccini in Piazza Maggiore, in migliaia nonostante la pioggia",
-   "summary": "L'abbraccio del pubblico riunito per cantare i brani del 'Maestrone' di Pavana",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/01/in-piazza-maggiore-a-bologna-la-cantata-per-guccini_80699dcc-2ee8-46ee-b69f-2d76042d8dca.html",
-   "pub_ts": 1793607144,
-   "n_sources": 2,
-   "documented": true,
+   "title": "L'impegno sociale di Maria Ponti Pasolini in mostra a Ravenna",
+   "summary": "Dal 6 novembre la sua personalità 'a fuoco' alla biblioteca Classense",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/limpegno-sociale-di-maria-ponti-pasolini-in-mostra-a-ravenna_0a2480e7-82d4-4d2f-ad31-64da4e2644c5.html",
+   "pub_ts": 1793615954,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/01/in-piazza-maggiore-a-bologna-la-cantata-per-guccini_80699dcc-2ee8-46ee-b69f-2d76042d8dca.html",
-     "title": "Omaggio a Guccini in Piazza Maggiore, in migliaia nonostante la pioggia"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/02/bologna-canta-francesco-guccini-in-centinana-in-piazza-maggiore-con-le-chitarre-e-gli-ombrelli-aperti-la-figlia-teresa-papa-si-sarebbe-commosso-il-video/8557339/",
-     "title": "Bologna canta Francesco Guccini: in centinana in Piazza Maggiore con le chitarre e gli ombrelli aperti. La figlia Teresa: “Papà si sarebbe commosso” – IL VIDEO"
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/limpegno-sociale-di-maria-ponti-pasolini-in-mostra-a-ravenna_0a2480e7-82d4-4d2f-ad31-64da4e2644c5.html",
+     "title": "L'impegno sociale di Maria Ponti Pasolini in mostra a Ravenna"
     }
    ],
    "subtype": "cultura"
@@ -367,17 +377,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Woman who flew with swans warns of lead danger",
-   "summary": "Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition.",
-   "link": "https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo?at_medium=RSS&at_campaign=rss",
-   "pub_ts": 1793600520,
+   "title": "Cer e mini-idroelettrico, in Piemonte gli esempi su come abbandonare il fossile",
+   "summary": "La centrale a Montalto e la Comunità di energia rinnovabile della Val Pellice, due progetti che dimostrano come con le rinnovabili si possono dare risposte al Paese senza perdere tempo col nucleare",
+   "link": "https://www.repubblica.it/green-and-blue/2026/11/02/news/energie_rinnovabili_transizione-425693371/?rss",
+   "pub_ts": 1793615485,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "BBC Science & Environment",
-     "link": "https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo?at_medium=RSS&at_campaign=rss",
-     "title": "Woman who flew with swans warns of lead danger"
+     "name": "Repubblica Green",
+     "link": "https://www.repubblica.it/green-and-blue/2026/11/02/news/energie_rinnovabili_transizione-425693371/?rss",
+     "title": "Cer e mini-idroelettrico, in Piemonte gli esempi su come abbandonare il fossile"
     }
    ],
    "subtype": "scienza"
@@ -385,17 +395,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Verdict delayed on controversial sea defences",
-   "summary": "The council have deferred a decision on the building of 17 rock groynes after RNLI safety concerns.",
-   "link": "https://www.bbc.co.uk/news/articles/cq9vz2jj409vo?at_medium=RSS&at_campaign=rss",
-   "pub_ts": 1793600194,
+   "title": "Johan Rockström: “Il paziente Terra è grave ma possiamo curarlo”",
+   "summary": "Sette dei nove limiti planetari sono stati infranti, spingendo gli ecosistemi verso punti di non ritorno. Il climatologo coautore del Planetary Health Check 2026 e Tyler Prize 2024 ci spiega perché non basta tagliare le emissioni: “Per un secolo la natura non ci ha mandato il...",
+   "link": "https://www.repubblica.it/green-and-blue/2026/11/01/news/johan_rockstrom_il_paziente_terra_e_grave_ma_possiamo_curarlo-425682024/?rss",
+   "pub_ts": 1793559600,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "BBC Science & Environment",
-     "link": "https://www.bbc.co.uk/news/articles/cq9vz2jj409vo?at_medium=RSS&at_campaign=rss",
-     "title": "Verdict delayed on controversial sea defences"
+     "name": "Repubblica Green",
+     "link": "https://www.repubblica.it/green-and-blue/2026/11/01/news/johan_rockstrom_il_paziente_terra_e_grave_ma_possiamo_curarlo-425682024/?rss",
+     "title": "Johan Rockström: “Il paziente Terra è grave ma possiamo curarlo”"
     }
    ],
    "subtype": "scienza"
@@ -407,7 +417,7 @@
    "summary": "Sono una italo-argentina e una italo-venezuelana",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/identificate-le-due-vittime-italiane-dellincidente-ferroviario-di-toledo-_ff2f24c6-eabc-4e8d-b16c-f02c4408dc60.html",
    "pub_ts": 1793613613,
-   "n_sources": 6,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
@@ -424,6 +434,11 @@
      "name": "Domani",
      "link": "https://www.editorialedomani.it/fatti/spagna-incidente-toledo-identificate-le-due-vittime-italiane-rq6aflxk",
      "title": "Incidente a Toledo, identificate le due vittime italiane"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/spagna-identificate-due-vittime-italiane-disastro-ferroviario-AJN3Ie1B",
+     "title": "Spagna, identificate le due vittime italiane del disastro ferroviario"
     },
     {
      "name": "Open",
@@ -445,32 +460,27 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Nine killed as small jet crashes on Florida street",
-   "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-   "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-   "pub_ts": 1793610619,
-   "n_sources": 4,
+   "title": "Incendio nel Porto Vecchio di Trieste, morti un uomo e una donna",
+   "summary": "Nei magazzini dismessi dell'area trovano rifugio migranti, crollato un solaio",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/incendio-nel-porto-vecchio-di-trieste-morti-un-uomo-e-una-donna_e3a5928d-fb9b-46c2-8319-75e90e02f6d3.html",
+   "pub_ts": 1793610517,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "BBC World",
-     "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-     "title": "Nine killed as small jet crashes on Florida street"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/incendio-nel-porto-vecchio-di-trieste-morti-un-uomo-e-una-donna_e3a5928d-fb9b-46c2-8319-75e90e02f6d3.html",
+     "title": "Incendio nel Porto Vecchio di Trieste, morti un uomo e una donna"
     },
     {
-     "name": "Deutsche Welle",
-     "link": "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-world-4025-rdf",
-     "title": "US: Nine killed in Florida jet crash"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/incendio-nel-porto-vecchio-di-trieste-morti-un-uomo-e-una-donna_f2f4ebae-5ead-4c3b-bc76-492a243fd9c2.html",
+     "title": "Incendio nel Porto Vecchio di Trieste, morti un uomo e una donna"
     },
     {
-     "name": "France 24",
-     "link": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
-     "title": "Nine killed as business jet crashes into South Florida neighbourhood"
-    },
-    {
-     "name": "The Guardian World",
-     "link": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
-     "title": "All nine people aboard business jet that crashed in Florida have died"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/02/incendio-porto-vecchio-trieste-migranti-notizie/8557410/",
+     "title": "Incendio nel magazzino-rifugio dei migranti della rotta balcanica: due morti al Porto Vecchio di Trieste"
     }
    ]
   }
@@ -486,11 +496,20 @@
    "section": "politica"
   },
   {
-   "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-   "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-   "description": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-   "pub_ts": 1793607648,
-   "source": "BBC World",
+   "title": "La strategia di Trump se perderà il Congresso alle elezioni di Midterm: “Diventerò Mr. Veto”",
+   "link": "https://www.repubblica.it/esteri/2026/11/01/news/se_trump_perde_le_elezioni_diventero_mr_veto-425692335/?rss",
+   "description": "Alla vigilia del voto il leader in difficoltà programma nuovi comizi. La Casa Bianca prepara il piano per governare anche senza il Senato",
+   "pub_ts": 1793565248,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Jill Lepore: “Le elezioni dominate da IA e data center, ma negli Usa è rivolta”",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/jill_lepore_midterm_elezioni_ia_e_data_center_usa-425693273/?rss",
+   "description": "La docente di Harvard: “L’impatto ambientale di quelle strutture sta molto a cuore alla gente, e non creano posti di lavoro”",
+   "pub_ts": 1793612663,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -504,15 +523,6 @@
    "section": "politica"
   },
   {
-   "title": "Trump makes final campaign push in final weekend before election",
-   "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-   "description": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-   "pub_ts": 1793609748,
-   "source": "BBC World",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Melania Trump: 'Il cessate il fuoco è finito, quasi 800 persone evacuate da Oleshky'",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/melania-trump-il-cessate-il-fuoco-e-finito-quasi-800-persone-evacuate-da-oleshky_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
    "description": "La first Lady si congratula con Mosca e Kiev: 'Spero che serva da base per una pace duratura'",
@@ -522,20 +532,20 @@
    "section": "politica"
   },
   {
-   "title": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-   "description": "In Ukraine, the app started to send out alarming fake messages late on Sunday night Back to the cyber warfare we saw last night in the app hacking in Ukraine, and then Russia. As I noted earlier, this was direct attack on a core channel of communications between Ukrainian authorities and citizens; this app is embedded in everyday life in a war zone. Disinformation is as much a part of war as…",
-   "pub_ts": 1793615100,
-   "source": "The Guardian World",
+   "title": "Elezioni Usa, i mercati si preparano all’America “anatra zoppa”: “Rischi sui Big Tech”",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_usa_i_mercati_si_preparano_all_america_anatra_zoppa-425692930/?rss",
+   "description": "Le previsioni in vista del voto midterm, con la possibile convivenza tra un Congresso democratico e una presidenza repubblicana",
+   "pub_ts": 1793604426,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_7e049007-2213-47b4-a6e3-827a942aa790.html",
-   "description": "Il messaggio agli elettori, 'mai così tanti americani al lavoro'",
-   "pub_ts": 1793565248,
-   "source": "ANSA Mondo",
+   "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
+   "description": "Sui telefoni di Kiev domenica notte è apparsa l’allerta nucleare, gettando nel panico molte persone. Dopo tre ore anche quelli di Mosca inondati di messaggi falsi",
+   "pub_ts": 1793584208,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -558,47 +568,47 @@
    "section": "politica"
   },
   {
-   "title": "Manovra: stretta sugli aumenti degli stipendi dei magistrati. Altolà dell'Anm",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-stretta-sugli-aumenti-degli-stipendi-dei-magistrati-rivisti-i-criteri_20031262-e476-45eb-82ee-0356dd37c56f.html",
-   "description": "Vincolo green per le imprese. Polemiche su scuola e sanità. Bonus a chi rinvia la pensione",
-   "pub_ts": 1793562571,
-   "source": "ANSA",
+   "title": "La giudice polacca Beata Morawiec: “Bene il governo, ripristina lo stato di diritto”",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/polonia_corte_costituzionale_la_giudice_beata_morawiec-425692372/?rss",
+   "description": "Per la magistrata, perseguitata ai tempi del governo sovranista, se non si agisce sulla Corte costituzionale si rischia una multa di Bruxelles",
+   "pub_ts": 1793577633,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Palantir AI tech unused or little used by 29 NHS trusts said to have benefited from it",
-   "link": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
-   "description": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health official More than two dozen hospital trusts the NHS claims have benefited from Palantir’s medical data platform are not using all or most of the AI-powered technology, the Guardian can reveal. The 29 hospital trusts that NHS England publicly lists as “realising benefits” from the controversial…",
-   "pub_ts": 1793614786,
-   "source": "Guardian AI",
+   "title": "Apple HomeView potrebbe diventare una telecamera di sicurezza",
+   "link": "https://www.punto-informatico.it/apple-homeview-potrebbe-diventare-telecamera-sicurezza/",
+   "description": "Nel codice di HomeView 27.2 sono comparse stringhe che indicano una modalità telecamera di sicurezza con HomeKit Secure Video. The post Apple HomeView potrebbe diventare una telecamera di sicurezza appeared first on Punto Informatico .",
+   "pub_ts": 1793610900,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
-   "description": "We cannot let the billionaire class take unprecedented risks with our future America is a divided country in crisis. Despite the sunny economic forecast coming from the Trump administration, millions of Americans are struggling to find and keep jobs, getting crushed under the rising cost of living, and losing health insurance when they need it the most. Meanwhile, via corporate consolidation and…",
-   "pub_ts": 1793613638,
-   "source": "Guardian AI",
+   "title": "WhatsApp introduce le azioni rapide per numeri, indirizzi ed email",
+   "link": "https://www.punto-informatico.it/whatsapp-azioni-rapide-numeri-indirizzi-email/",
+   "description": "Numeri di telefono, indirizzi ed email diventano interattivi su WhatsApp: come funzionano le nuove azioni rapide, già in fase di rollout. The post WhatsApp introduce le azioni rapide per numeri, indirizzi ed email appeared first on Punto Informatico .",
+   "pub_ts": 1793605583,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "description": "Data centers are deeply unpopular. But what if we called them something else?",
-   "pub_ts": 1793570123,
-   "source": "TechCrunch AI",
+   "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_c8b77dae-e591-4912-8e75-c76dacaeed0e.html",
+   "description": "Alex Scheffler alla Bbc: \"Violano il diritto d'autore riproducendo la mia opera\"",
+   "pub_ts": 1793550150,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-   "pub_ts": 1793566678,
-   "source": "TechCrunch AI",
+   "title": "Questi auricolari sono premium e costano solo 30€ su Amazon",
+   "link": "https://www.punto-informatico.it/questi-auricolari-sono-premium-costano-solo-30-euro-amazon/",
+   "description": "Questi incredibili auricolari costano solo 30€ in offerta su Amazon, ma offrono una qualità audio incredibilmente premium e completa. The post Questi auricolari sono premium e costano solo 30€ su Amazon appeared first on Punto Informatico .",
+   "pub_ts": 1793614583,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
@@ -612,10 +622,10 @@
    "section": "varia"
   },
   {
-   "title": "Omaggio a Guccini in Piazza Maggiore, in migliaia nonostante la pioggia",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/01/in-piazza-maggiore-a-bologna-la-cantata-per-guccini_80699dcc-2ee8-46ee-b69f-2d76042d8dca.html",
-   "description": "L'abbraccio del pubblico riunito per cantare i brani del 'Maestrone' di Pavana",
-   "pub_ts": 1793607144,
+   "title": "L'impegno sociale di Maria Ponti Pasolini in mostra a Ravenna",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/limpegno-sociale-di-maria-ponti-pasolini-in-mostra-a-ravenna_0a2480e7-82d4-4d2f-ad31-64da4e2644c5.html",
+   "description": "Dal 6 novembre la sua personalità 'a fuoco' alla biblioteca Classense",
+   "pub_ts": 1793615954,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -630,20 +640,20 @@
    "section": "varia"
   },
   {
-   "title": "Woman who flew with swans warns of lead danger",
-   "link": "https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo?at_medium=RSS&at_campaign=rss",
-   "description": "Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition.",
-   "pub_ts": 1793600520,
-   "source": "BBC Science & Environment",
+   "title": "Cer e mini-idroelettrico, in Piemonte gli esempi su come abbandonare il fossile",
+   "link": "https://www.repubblica.it/green-and-blue/2026/11/02/news/energie_rinnovabili_transizione-425693371/?rss",
+   "description": "La centrale a Montalto e la Comunità di energia rinnovabile della Val Pellice, due progetti che dimostrano come con le rinnovabili si possono dare risposte al Paese senza perdere tempo col nucleare",
+   "pub_ts": 1793615485,
+   "source": "Repubblica Green",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Verdict delayed on controversial sea defences",
-   "link": "https://www.bbc.co.uk/news/articles/cq9vz2jj409vo?at_medium=RSS&at_campaign=rss",
-   "description": "The council have deferred a decision on the building of 17 rock groynes after RNLI safety concerns.",
-   "pub_ts": 1793600194,
-   "source": "BBC Science & Environment",
+   "title": "Johan Rockström: “Il paziente Terra è grave ma possiamo curarlo”",
+   "link": "https://www.repubblica.it/green-and-blue/2026/11/01/news/johan_rockstrom_il_paziente_terra_e_grave_ma_possiamo_curarlo-425682024/?rss",
+   "description": "Sette dei nove limiti planetari sono stati infranti, spingendo gli ecosistemi verso punti di non ritorno. Il climatologo coautore del Planetary Health Check 2026 e Tyler Prize 2024 ci spiega perché non basta tagliare le emissioni: “Per un secolo la natura non ci ha mandato il...",
+   "pub_ts": 1793559600,
+   "source": "Repubblica Green",
    "source_priority": 1,
    "section": "varia"
   },
@@ -657,11 +667,11 @@
    "section": "cronaca"
   },
   {
-   "title": "Nine killed as small jet crashes on Florida street",
-   "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-   "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-   "pub_ts": 1793610619,
-   "source": "BBC World",
+   "title": "Incendio nel Porto Vecchio di Trieste, morti un uomo e una donna",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/incendio-nel-porto-vecchio-di-trieste-morti-un-uomo-e-una-donna_e3a5928d-fb9b-46c2-8319-75e90e02f6d3.html",
+   "description": "Nei magazzini dismessi dell'area trovano rifugio migranti, crollato un solaio",
+   "pub_ts": 1793610517,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   }
