@@ -41,7 +41,7 @@ RE_ITALIA_POL = re.compile(
     r"govern\w*|manovra|quirinale|palazzo chigi|montecitorio|csm|magistrat\w*|regional\w*|comunal\w*|"
     r"lega|fratelli d'italia|pd|m5s|forza italia|legge di bilancio|ddl|decreto)\b", re.I)
 RE_SPORT_GOSSIP = re.compile(
-    r"\b(formula|f1|antonelli|kimi|ferrari|verstappen|pilota|campione del mondo|titolo mondiale|zanicchi|mediaset|vaffa|reality|tronista|influencer|vip|talk show|televisione|tv show|comics|parata|star wars|cosplay|wnba|basket|volley|scudetto|olimpiad\w*|gol|mondiali di|coppa|campionato|concert\w*|ricoverat\w*|serie a|champions|calcio|juventus|inter\b|milan\b|napoli|roma\b|lazio|gp\b|formula 1|motogp|"
+    r"(\d\s?€|€\s?\d|\bofferta\b|\boffert[ae]\b|\bsconto\b|\bscont[io]\b|\bcoupon\b|\bsu amazon\b|\bprezzo minimo\b)|\b(formula|f1|antonelli|kimi|ferrari|verstappen|pilota|campione del mondo|titolo mondiale|zanicchi|mediaset|vaffa|reality|tronista|influencer|vip|talk show|televisione|tv show|comics|parata|star wars|cosplay|wnba|basket|volley|scudetto|olimpiad\w*|gol|mondiali di|coppa|campionato|concert\w*|ricoverat\w*|serie a|champions|calcio|juventus|inter\b|milan\b|napoli|roma\b|lazio|gp\b|formula 1|motogp|"
     r"tennis|nba|oroscopo|gossip|grande fratello|sanremo|isola dei famosi|football|premier league)\b", re.I)
 RE_AI = re.compile(
     r"\bai\b|\bia\b|intelligenza artificiale|artificial intelligence|openai|anthropic|claude|chatgpt|gemini|"
@@ -55,6 +55,9 @@ RE_CULTURA = re.compile(
     r"cultur|libr|romanzo|scrittor|film|cinema|regist|festival|mostra|museo|arte\b|artist|teatro|serie tv|"
     r"musica|concerto|album|premio|nobel|strega|oscar|societ|costume|moda|tradizion|giovani|famigli|"
     r"scuola|università|diritti|migranti|book|novel|exhibition|theatre|culture|society|prize", re.I)
+RE_ESTERO = re.compile(
+    r"\b(trump|putin|zelensk\w*|ucraina|russia|gaza|israel\w*|hamas|iran\w*|cina|cinese|usa|stati uniti|americ\w*|"
+    r"europ\w*|ue|nato|onu|francia|germania|regno unito|medio oriente|venezuela|india|giappone|turchia)\b", re.I)
 RE_CRIMINE = re.compile(
     r"\b(arrestat\w*|polizia|carabinieri|omicid\w*|indagat\w*|rapin\w*|furto|spaccio|truffa|fermato|criminalit\w*|"
     r"police|arrested|murder|robbery)\b", re.I)
@@ -121,6 +124,17 @@ def categoria(g):
     cronaca = any(a['source'] == 'ANSA Cronaca' for a in g) and not (sezioni & {'tech', 'varia_scienza', 'varia_cultura'})
     if RE_SPORT_GOSSIP.search(testo):
         return None
+    # Fonti generaliste (es. Il Post, Rai News): si decide dal titolo
+    if sezioni == {'misto'}:
+        if RE_INCIDENTE.search(testo) or RE_GRANDE_EVENTO.search(testo):
+            return 'cronaca' if len(fonti) >= 3 and RE_GRANDE_EVENTO.search(testo) else None
+        if RE_AI.search(testo) and not RE_POLITICA.search(testo):
+            return 'tech'
+        if RE_POLITICA.search(testo) and not (RE_CRIMINE.search(testo) and not RE_ITALIA_POL.search(testo)):
+            return 'politica'
+        if RE_SCIENZA.search(testo) or RE_CULTURA.search(testo):
+            return 'varia'
+        return None
     # AI/tech: il titolo deve parlare davvero di AI o tecnologia
     if sezioni & {'tech'}:
         return 'tech' if RE_AI.search(testo) else None
@@ -144,7 +158,8 @@ def area(g):
     testo = ' '.join(a['title'] for a in g)
     if RE_ITALIA_POL.search(testo):
         return 'italia'
-    if any(a['section'] == 'mondo' for a in g) or any(a['source'].startswith('ANSA') and a['section'] == 'italia' for a in g):
+    if any(a['section'] == 'mondo' for a in g) or any(a['source'].startswith('ANSA') and a['section'] == 'italia' for a in g) \
+            or (all(a['section'] == 'misto' for a in g) and RE_ESTERO.search(testo)):
         return 'mondo'
     return 'italia'
 
@@ -171,7 +186,11 @@ def voce(g, cat):
 
 
 def sottotipo_varia(g):
-    return 'scienza' if any(a['section'] == 'varia_scienza' for a in g) else 'cultura'
+    if any(a['section'] == 'varia_scienza' for a in g):
+        return 'scienza'
+    if all(a['section'] == 'misto' for a in g) and RE_SCIENZA.search(' '.join(a['title'] for a in g)):
+        return 'scienza'
+    return 'cultura'
 
 
 def main():

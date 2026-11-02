@@ -115,6 +115,7 @@ def analizza(xml_bytes, meta):
         titolo = _testo(n.find('title')) or _testo(n.find('atom:title', NS)) \
             or _testo(n.find('rss1:title', NS))
         titolo = pulisci_titolo(titolo)
+        titolo = re.sub(r'\s+-\s+(Wired Italia|WIRED Italia|Wired\.it)$', '', titolo, flags=re.I)
         if not titolo:
             continue
 
@@ -164,7 +165,10 @@ def lavora_feed(meta):
     except Exception as e:                      # rete, timeout, DNS...
         return meta, [], type(e).__name__ + ': ' + str(e)[:80]
     try:
-        return meta, analizza(dati, meta), None
+        arts = analizza(dati, meta)
+        if not arts:
+            return meta, [], 'nessun articolo; inizio risposta: ' + dati[:160].decode('utf-8', 'replace').replace('\n', ' ')
+        return meta, arts, None
     except ET.ParseError as e:
         return meta, [], 'XML non valido: %s' % str(e)[:80]
 
@@ -185,9 +189,11 @@ def main():
 
     tutti = []
     falliti = 0
+    errori = {}
     for meta, articoli, errore in risultati:
         if errore:
             falliti += 1
+            errori[meta['name']] = errore
             print('  %-22s ERRORE: %s' % (meta['name'], errore))
         else:
             print('  %-22s %d articoli' % (meta['name'], len(articoli)))
@@ -201,6 +207,12 @@ def main():
         if a['pub_ts'] >= limite:
             per_link[a['link']] = a
     articoli = sorted(per_link.values(), key=lambda a: a['pub_ts'], reverse=True)
+    recenti = {a['source'] for a in articoli}
+    for meta, arts, errore in risultati:
+        if not errore and arts and meta['name'] not in recenti:
+            piu_recente = max(a['pub_ts'] for a in arts)
+            errori[meta['name']] = 'articoli tutti più vecchi di %d ore (il più recente: %s UTC)' % (
+                MAX_AGE_HOURS, datetime.fromtimestamp(piu_recente, timezone.utc).strftime('%d/%m/%Y %H:%M'))
 
     print('\n%d fonti su %d hanno risposto' % (len(feeds) - falliti, len(feeds)))
     print('%d articoli unici e recenti' % len(articoli))
@@ -211,6 +223,8 @@ def main():
         return 1
 
     os.makedirs(uscita, exist_ok=True)
+    with open(os.path.join(uscita, 'errors.json'), 'w', encoding='utf-8') as f:
+        json.dump(errori, f, ensure_ascii=False, indent=1)
     percorso = os.path.join(uscita, 'raw.json')
     with open(percorso, 'w', encoding='utf-8') as f:
         json.dump({'updated_at': adesso, 'articles': articoli},
