@@ -1,12 +1,39 @@
 {
- "generated_at": 1793616171,
- "updated_at": 1793616171,
+ "generated_at": 1793616213,
+ "updated_at": 1793616213,
  "quotas": {
   "politica": 10,
   "tech": 4,
   "varia": 5
  },
  "items": [
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Israele, Eisenkot cerca alleati, guarda agli arabi di Ra'am e agli ultraortodossi",
+   "summary": "Mercoledì le consultazioni. Mancano i numeri per il governo, ma non per la Knesset",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/israele-eisenkot-cerca-alleati-guarda-agli-arabi-di-raam-e-agli-ultraortodossi_9aa5e803-daf0-4591-b0c6-ea26ce02a358.html",
+   "pub_ts": 1793615340,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/israele-eisenkot-cerca-alleati-guarda-agli-arabi-di-raam-e-agli-ultraortodossi_9aa5e803-daf0-4591-b0c6-ea26ce02a358.html",
+     "title": "Israele, Eisenkot cerca alleati, guarda agli arabi di Ra'am e agli ultraortodossi"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/01/news/israele_eisenkot_apre_governo_arabi_condizioni-425690706/?rss",
+     "title": "Israele, la svolta di Eisenkot: “Sì agli arabi ma a quattro condizioni”"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-gaza-israele-uccide-8-persone-incluso-bambino-eisenkot-cerca-alleati-netanyahu-gioca-per-il-potere-674fae20-5872-4257-9613-83e3558d6b4d.html",
+     "title": "Gaza, Israele uccide 8 persone ma si ritira da Hebron. Eisenkot cerca alleati"
+    }
+   ]
+  },
   {
    "category": "politica",
    "area": "mondo",
@@ -36,6 +63,33 @@
   },
   {
    "category": "politica",
+   "area": "italia",
+   "title": "Conte, è proprio la manovra di Halloween, soldi per armi e tagli su tutto. Da brividi",
+   "summary": "\"Fortunatamente questa Legge di Bilancio è l'ultima per loro. È tempo di mandarli a casa\"",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/conte-e-proprio-la-manovra-di-halloween-soldi-per-armi-e-tagli-su-tutto.-da-brividi_5b5f4e70-670c-4518-84ba-c6adb1b7681b.html",
+   "pub_ts": 1793578380,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/conte-e-proprio-la-manovra-di-halloween-soldi-per-armi-e-tagli-su-tutto.-da-brividi_5b5f4e70-670c-4518-84ba-c6adb1b7681b.html",
+     "title": "Conte, è proprio la manovra di Halloween, soldi per armi e tagli su tutto. Da brividi"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/manovra-economica-sostegni-e-tagli-la-scheda-misure-trebbi-1cfc5425-d49d-410f-89cc-ce3faff20f5c.html",
+     "title": "Manovra economica, sostegni e tagli"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/02/news/manovra_scuola_rivolta_tagli_organico-425692465/",
+     "title": "Manovra, scuola in rivolta contro i tagli in organico: “Uno schiaffo agli studenti”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "mondo",
    "title": "La strategia di Trump se perderà il Congresso alle elezioni di Midterm: “Diventerò Mr. Veto”",
    "summary": "Alla vigilia del voto il leader in difficoltà programma nuovi comizi. La Casa Bianca prepara il piano per governare anche senza il Senato",
@@ -58,6 +112,55 @@
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/01/news/se_trump_perde_le_elezioni_diventero_mr_veto-425692335/",
      "title": "La strategia di Trump se perderà il Congresso alle elezioni di Midterm: “Diventerò Mr. Veto”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Media, 'Lista unita raccomanderà Eisenkot come premier a Herzog'",
+   "summary": "'Si presume che anche l'altro partito arabo Ra'am farà lo stesso'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/media-lista-unita-raccomandera-eisenkot-come-premier-a-herzog_e8003668-a3bc-4b79-ac20-9bb53ca0357a.html",
+   "pub_ts": 1793561187,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/media-lista-unita-raccomandera-eisenkot-come-premier-a-herzog_e8003668-a3bc-4b79-ac20-9bb53ca0357a.html",
+     "title": "Media, 'Lista unita raccomanderà Eisenkot come premier a Herzog'"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/israele-media-formazioni-arabe-proporranno-eisenkot-come-premier-AJC0zH1B",
+     "title": "Israele, media: formazioni arabe proporranno Eisenkot come premier"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/israele-elezioni-news-oggi-1-novembre_6AhIyV20Eb95maIkxo0n8B",
+     "title": "Israele, media: formazioni arabe verso indicazione di Eisenkot come premier"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
+   "summary": "Media, focus sul cessate il fuoco lungo la linea del fronte e il rispetto degli accordi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_e38af278-858a-401f-b271-d12e06ea5154.html",
+   "pub_ts": 1793614920,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_e38af278-858a-401f-b271-d12e06ea5154.html",
+     "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-finita-tregua-oleshky-zelensky-pronto-incontro-poutin-in-turchia-85fd93b2-6e4a-4420-a8c0-1885a24d3aaf.html",
+     "title": "Cyberattacchi in Russia e Ucraina dopo fine tregua. Zelensky pronto a vedere Putin in Turchia"
     }
    ]
   },
@@ -107,72 +210,6 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Melania Trump: 'Il cessate il fuoco è finito, quasi 800 persone evacuate da Oleshky'",
-   "summary": "La first Lady si congratula con Mosca e Kiev: 'Spero che serva da base per una pace duratura'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/melania-trump-il-cessate-il-fuoco-e-finito-quasi-800-persone-evacuate-da-oleshky_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
-   "pub_ts": 1793609541,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/melania-trump-il-cessate-il-fuoco-e-finito-quasi-800-persone-evacuate-da-oleshky_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
-     "title": "Melania Trump: 'Il cessate il fuoco è finito, quasi 800 persone evacuate da Oleshky'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/melania-trump-quasi-800-persone-evacuate-da-oleshky_edd74fce-5b68-4a45-923c-05a18b7a4217.html",
-     "title": "Melania Trump, 'quasi 800 persone evacuate da Oleshky'"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Elezioni Usa, i mercati si preparano all’America “anatra zoppa”: “Rischi sui Big Tech”",
-   "summary": "Le previsioni in vista del voto midterm, con la possibile convivenza tra un Congresso democratico e una presidenza repubblicana",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_usa_i_mercati_si_preparano_all_america_anatra_zoppa-425692930/?rss",
-   "pub_ts": 1793604426,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_usa_i_mercati_si_preparano_all_america_anatra_zoppa-425692930/?rss",
-     "title": "Elezioni Usa, i mercati si preparano all’America “anatra zoppa”: “Rischi sui Big Tech”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_usa_i_mercati_si_preparano_all_america_anatra_zoppa-425692930/",
-     "title": "Elezioni Usa, i mercati si preparano all’America “anatra zoppa”: “Rischi sui Big Tech”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid",
-   "summary": "Sui telefoni di Kiev domenica notte è apparsa l’allerta nucleare, gettando nel panico molte persone. Dopo tre ore anche quelli di Mosca inondati di messaggi falsi",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
-   "pub_ts": 1793584208,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
-     "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/",
-     "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
    "title": "Meloni: 'Il Quirinale non è nei miei piani ma basta razzismo culturale'",
    "summary": "'Penso a chiedere la conferma agli italiani'. Renzi: 'Blocchiamo il suo disegno'",
@@ -207,23 +244,6 @@
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-governo-belga-in-crisi-sulla-manovra-possibili-dimissioni-di-de-wever_a680a19d-e365-4744-9633-d9d37c9cd87a.html",
      "title": "Il governo belga in crisi sulla manovra, possibili dimissioni di De Wever"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "La giudice polacca Beata Morawiec: “Bene il governo, ripristina lo stato di diritto”",
-   "summary": "Per la magistrata, perseguitata ai tempi del governo sovranista, se non si agisce sulla Corte costituzionale si rischia una multa di Bruxelles",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/polonia_corte_costituzionale_la_giudice_beata_morawiec-425692372/?rss",
-   "pub_ts": 1793577633,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/polonia_corte_costituzionale_la_giudice_beata_morawiec-425692372/?rss",
-     "title": "La giudice polacca Beata Morawiec: “Bene il governo, ripristina lo stato di diritto”"
     }
    ]
   },
@@ -341,24 +361,6 @@
   {
    "category": "varia",
    "area": null,
-   "title": "L'impegno sociale di Maria Ponti Pasolini in mostra a Ravenna",
-   "summary": "Dal 6 novembre la sua personalità 'a fuoco' alla biblioteca Classense",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/limpegno-sociale-di-maria-ponti-pasolini-in-mostra-a-ravenna_0a2480e7-82d4-4d2f-ad31-64da4e2644c5.html",
-   "pub_ts": 1793615954,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/limpegno-sociale-di-maria-ponti-pasolini-in-mostra-a-ravenna_0a2480e7-82d4-4d2f-ad31-64da4e2644c5.html",
-     "title": "L'impegno sociale di Maria Ponti Pasolini in mostra a Ravenna"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
    "title": "La Treccani celebra Gigi Riva \"rombo di tuono\" nella collana 'Miti Italiani'",
    "summary": "Il volume sarà presentato il 7 novembre a Cagliari",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/la-treccani-celebra-gigi-riva-rombo-di-tuono-nella-collana-miti-italiani_fb28e12a-2ee8-4cf5-aa7e-2acbc78991d8.html",
@@ -377,6 +379,42 @@
   {
    "category": "varia",
    "area": null,
+   "title": "Roman Polanski, 'io bimbo sopravvissuto nel ghetto di Cracovia'",
+   "summary": "I ricordi e le lettere del padre nel libro tratto dall'intervista per Mémoires de la Shoah",
+   "link": "https://www.ansa.it/sito/notizie/cultura/unlibroalgiorno/2026/11/02/roman-polanski-io-bimbo-sopravvissuto-nel-ghetto-di-cracovia_351e7085-8220-46bb-8c05-2957f14b58e4.html",
+   "pub_ts": 1793612608,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/unlibroalgiorno/2026/11/02/roman-polanski-io-bimbo-sopravvissuto-nel-ghetto-di-cracovia_351e7085-8220-46bb-8c05-2957f14b58e4.html",
+     "title": "Roman Polanski, 'io bimbo sopravvissuto nel ghetto di Cracovia'"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Ginocchio ricostruito con un trapianto, il personal trainer torna in palestra",
+   "summary": "Al Mauriziano, abbinate tecnica BioUni e innesto osteocondrale fresco",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/10/31/ginocchio-ricostruito-con-un-trapianto-il-personal-trainer-torna-in-palestra_adfb1ed8-589d-41b2-934b-dd19047a375f.html",
+   "pub_ts": 1793611365,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/10/31/ginocchio-ricostruito-con-un-trapianto-il-personal-trainer-torna-in-palestra_adfb1ed8-589d-41b2-934b-dd19047a375f.html",
+     "title": "Ginocchio ricostruito con un trapianto, il personal trainer torna in palestra"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
    "title": "Cer e mini-idroelettrico, in Piemonte gli esempi su come abbandonare il fossile",
    "summary": "La centrale a Montalto e la Comunità di energia rinnovabile della Val Pellice, due progetti che dimostrano come con le rinnovabili si possono dare risposte al Paese senza perdere tempo col nucleare",
    "link": "https://www.repubblica.it/green-and-blue/2026/11/02/news/energie_rinnovabili_transizione-425693371/?rss",
@@ -385,27 +423,9 @@
    "documented": false,
    "sources": [
     {
-     "name": "Repubblica Green",
+     "name": "Repubblica Ambiente",
      "link": "https://www.repubblica.it/green-and-blue/2026/11/02/news/energie_rinnovabili_transizione-425693371/?rss",
      "title": "Cer e mini-idroelettrico, in Piemonte gli esempi su come abbandonare il fossile"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Johan Rockström: “Il paziente Terra è grave ma possiamo curarlo”",
-   "summary": "Sette dei nove limiti planetari sono stati infranti, spingendo gli ecosistemi verso punti di non ritorno. Il climatologo coautore del Planetary Health Check 2026 e Tyler Prize 2024 ci spiega perché non basta tagliare le emissioni: “Per un secolo la natura non ci ha mandato il...",
-   "link": "https://www.repubblica.it/green-and-blue/2026/11/01/news/johan_rockstrom_il_paziente_terra_e_grave_ma_possiamo_curarlo-425682024/?rss",
-   "pub_ts": 1793559600,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Repubblica Green",
-     "link": "https://www.repubblica.it/green-and-blue/2026/11/01/news/johan_rockstrom_il_paziente_terra_e_grave_ma_possiamo_curarlo-425682024/?rss",
-     "title": "Johan Rockström: “Il paziente Terra è grave ma possiamo curarlo”"
     }
    ],
    "subtype": "scienza"
@@ -464,7 +484,7 @@
    "summary": "Nei magazzini dismessi dell'area trovano rifugio migranti, crollato un solaio",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/incendio-nel-porto-vecchio-di-trieste-morti-un-uomo-e-una-donna_e3a5928d-fb9b-46c2-8319-75e90e02f6d3.html",
    "pub_ts": 1793610517,
-   "n_sources": 3,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -478,6 +498,11 @@
      "title": "Incendio nel Porto Vecchio di Trieste, morti un uomo e una donna"
     },
     {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/trieste-incendio-in-un-magazzino-del-porto-vecchio-morti-un-uomo-e-una-donna-4525cba9-a021-44a3-85f9-cef2cc2c9212.html",
+     "title": "Trieste, incendio in un magazzino del Porto Vecchio: morti un uomo e una donna"
+    },
+    {
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/02/incendio-porto-vecchio-trieste-migranti-notizie/8557410/",
      "title": "Incendio nel magazzino-rifugio dei migranti della rotta balcanica: due morti al Porto Vecchio di Trieste"
@@ -486,6 +511,15 @@
   }
  ],
  "articles": [
+  {
+   "title": "Israele, Eisenkot cerca alleati, guarda agli arabi di Ra'am e agli ultraortodossi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/israele-eisenkot-cerca-alleati-guarda-agli-arabi-di-raam-e-agli-ultraortodossi_9aa5e803-daf0-4591-b0c6-ea26ce02a358.html",
+   "description": "Mercoledì le consultazioni. Mancano i numeri per il governo, ma non per la Knesset",
+   "pub_ts": 1793615340,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
   {
    "title": "La Bulgaria conferma la filorussa Yotova, battuto l'europeista Ghiurov",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/01/la-bulgaria-conferma-la-filorussa-yotova-battuto-leuropeista-ghiurov_16bd5dad-caaf-47d0-8228-470def3c9a5b.html",
@@ -496,11 +530,38 @@
    "section": "politica"
   },
   {
+   "title": "Conte, è proprio la manovra di Halloween, soldi per armi e tagli su tutto. Da brividi",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/conte-e-proprio-la-manovra-di-halloween-soldi-per-armi-e-tagli-su-tutto.-da-brividi_5b5f4e70-670c-4518-84ba-c6adb1b7681b.html",
+   "description": "\"Fortunatamente questa Legge di Bilancio è l'ultima per loro. È tempo di mandarli a casa\"",
+   "pub_ts": 1793578380,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "La strategia di Trump se perderà il Congresso alle elezioni di Midterm: “Diventerò Mr. Veto”",
    "link": "https://www.repubblica.it/esteri/2026/11/01/news/se_trump_perde_le_elezioni_diventero_mr_veto-425692335/?rss",
    "description": "Alla vigilia del voto il leader in difficoltà programma nuovi comizi. La Casa Bianca prepara il piano per governare anche senza il Senato",
    "pub_ts": 1793565248,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Media, 'Lista unita raccomanderà Eisenkot come premier a Herzog'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/media-lista-unita-raccomandera-eisenkot-come-premier-a-herzog_e8003668-a3bc-4b79-ac20-9bb53ca0357a.html",
+   "description": "'Si presume che anche l'altro partito arabo Ra'am farà lo stesso'",
+   "pub_ts": 1793561187,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_e38af278-858a-401f-b271-d12e06ea5154.html",
+   "description": "Media, focus sul cessate il fuoco lungo la linea del fronte e il rispetto degli accordi",
+   "pub_ts": 1793614920,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -523,33 +584,6 @@
    "section": "politica"
   },
   {
-   "title": "Melania Trump: 'Il cessate il fuoco è finito, quasi 800 persone evacuate da Oleshky'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/melania-trump-il-cessate-il-fuoco-e-finito-quasi-800-persone-evacuate-da-oleshky_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
-   "description": "La first Lady si congratula con Mosca e Kiev: 'Spero che serva da base per una pace duratura'",
-   "pub_ts": 1793609541,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Elezioni Usa, i mercati si preparano all’America “anatra zoppa”: “Rischi sui Big Tech”",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_usa_i_mercati_si_preparano_all_america_anatra_zoppa-425692930/?rss",
-   "description": "Le previsioni in vista del voto midterm, con la possibile convivenza tra un Congresso democratico e una presidenza repubblicana",
-   "pub_ts": 1793604426,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
-   "description": "Sui telefoni di Kiev domenica notte è apparsa l’allerta nucleare, gettando nel panico molte persone. Dopo tre ore anche quelli di Mosca inondati di messaggi falsi",
-   "pub_ts": 1793584208,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Meloni: 'Il Quirinale non è nei miei piani ma basta razzismo culturale'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-concentrata-a-chiedere-un-altro-mandato.-il-quirinale-non-e-nei-miei-piani_facdc2e3-865b-4f6a-9977-dec528bb34e0.html",
    "description": "'Penso a chiedere la conferma agli italiani'. Renzi: 'Blocchiamo il suo disegno'",
@@ -564,15 +598,6 @@
    "description": "Il premier si gioca l'ultima carta, in mattinata dal Re Filippo I",
    "pub_ts": 1793610247,
    "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La giudice polacca Beata Morawiec: “Bene il governo, ripristina lo stato di diritto”",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/polonia_corte_costituzionale_la_giudice_beata_morawiec-425692372/?rss",
-   "description": "Per la magistrata, perseguitata ai tempi del governo sovranista, se non si agisce sulla Corte costituzionale si rischia una multa di Bruxelles",
-   "pub_ts": 1793577633,
-   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -622,15 +647,6 @@
    "section": "varia"
   },
   {
-   "title": "L'impegno sociale di Maria Ponti Pasolini in mostra a Ravenna",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/limpegno-sociale-di-maria-ponti-pasolini-in-mostra-a-ravenna_0a2480e7-82d4-4d2f-ad31-64da4e2644c5.html",
-   "description": "Dal 6 novembre la sua personalità 'a fuoco' alla biblioteca Classense",
-   "pub_ts": 1793615954,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
    "title": "La Treccani celebra Gigi Riva \"rombo di tuono\" nella collana 'Miti Italiani'",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/la-treccani-celebra-gigi-riva-rombo-di-tuono-nella-collana-miti-italiani_fb28e12a-2ee8-4cf5-aa7e-2acbc78991d8.html",
    "description": "Il volume sarà presentato il 7 novembre a Cagliari",
@@ -640,20 +656,29 @@
    "section": "varia"
   },
   {
-   "title": "Cer e mini-idroelettrico, in Piemonte gli esempi su come abbandonare il fossile",
-   "link": "https://www.repubblica.it/green-and-blue/2026/11/02/news/energie_rinnovabili_transizione-425693371/?rss",
-   "description": "La centrale a Montalto e la Comunità di energia rinnovabile della Val Pellice, due progetti che dimostrano come con le rinnovabili si possono dare risposte al Paese senza perdere tempo col nucleare",
-   "pub_ts": 1793615485,
-   "source": "Repubblica Green",
+   "title": "Roman Polanski, 'io bimbo sopravvissuto nel ghetto di Cracovia'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/unlibroalgiorno/2026/11/02/roman-polanski-io-bimbo-sopravvissuto-nel-ghetto-di-cracovia_351e7085-8220-46bb-8c05-2957f14b58e4.html",
+   "description": "I ricordi e le lettere del padre nel libro tratto dall'intervista per Mémoires de la Shoah",
+   "pub_ts": 1793612608,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Johan Rockström: “Il paziente Terra è grave ma possiamo curarlo”",
-   "link": "https://www.repubblica.it/green-and-blue/2026/11/01/news/johan_rockstrom_il_paziente_terra_e_grave_ma_possiamo_curarlo-425682024/?rss",
-   "description": "Sette dei nove limiti planetari sono stati infranti, spingendo gli ecosistemi verso punti di non ritorno. Il climatologo coautore del Planetary Health Check 2026 e Tyler Prize 2024 ci spiega perché non basta tagliare le emissioni: “Per un secolo la natura non ci ha mandato il...",
-   "pub_ts": 1793559600,
-   "source": "Repubblica Green",
+   "title": "Ginocchio ricostruito con un trapianto, il personal trainer torna in palestra",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/10/31/ginocchio-ricostruito-con-un-trapianto-il-personal-trainer-torna-in-palestra_adfb1ed8-589d-41b2-934b-dd19047a375f.html",
+   "description": "Al Mauriziano, abbinate tecnica BioUni e innesto osteocondrale fresco",
+   "pub_ts": 1793611365,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Cer e mini-idroelettrico, in Piemonte gli esempi su come abbandonare il fossile",
+   "link": "https://www.repubblica.it/green-and-blue/2026/11/02/news/energie_rinnovabili_transizione-425693371/?rss",
+   "description": "La centrale a Montalto e la Comunità di energia rinnovabile della Val Pellice, due progetti che dimostrano come con le rinnovabili si possono dare risposte al Paese senza perdere tempo col nucleare",
+   "pub_ts": 1793615485,
+   "source": "Repubblica Ambiente",
    "source_priority": 1,
    "section": "varia"
   },
