@@ -1,8 +1,9 @@
 <?php
-// Pagina della rassegna: legge cache/articles.json (già selezionato da curate.py).
-// Va caricata accanto alla cartella cache/ sullo spazio Altervista.
-$f = __DIR__ . '/cache/articles.json';
+// Pagina della rassegna: legge articles.json (già selezionato da curate.py).
+// Va caricata nella stessa cartella di articles.json; se esiste, usa anche cache/articles.json.
+$f = is_file(__DIR__ . '/articles.json') ? __DIR__ . '/articles.json' : __DIR__ . '/cache/articles.json';
 $d = is_file($f) ? json_decode(file_get_contents($f), true) : null;
+if ($d && !isset($d['items'], $d['generated_at'])) { $d = null; } // file nel vecchio formato
 $items = $d['items'] ?? [];
 $blocchi = [
   'politica' => 'Politica Italia e mondo',
