@@ -1,12 +1,192 @@
 {
- "generated_at": 1793633105,
- "updated_at": 1793633105,
+ "generated_at": 1793661778,
+ "updated_at": 1793661778,
  "quotas": {
   "politica": 10,
   "tech": 4,
   "varia": 5
  },
  "items": [
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence",
+   "summary": "Il sottosegretario Mantovano vedrà anche l'Agenzia per la Cybersicurezza dopo i casi in Sicilia. Problemi in Belgio, Svezia e altri Paesi. Tonnellate di cibo a rischio",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
+   "pub_ts": 1793649920,
+   "n_sources": 7,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
+     "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_c475b1b2-184c-4001-b904-2a40ac6fd530.html",
+     "title": "Attacchi hacker ai supermercati, si muove anche il Copasir"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/domani-a-palazzo-chigi-riunione-con-mantovano-e-i-servizi-su-attacchi-hacker_0ea74377-d447-4d9b-918a-eafe85d7a50b.html",
+     "title": "Domani a Palazzo Chigi riunione con Mantovano e i Servizi su attacchi hacker"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/attacchi-hacker-ai-supermercati-frigoriferi-in-tilt-in-emilia-romagna-toscana-e-sicilia-8be75884-b245-4402-a30b-d76c651f6080.html",
+     "title": "Attacchi hacker ai supermercati: frigoriferi in tilt in Emilia Romagna, Toscana e Sicilia"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/02/supermercati-frigoriferi-hacker-italia-sicilia/",
+     "title": "Anche l’Italia colpita dagli attacchi hacker ai supermercati, frigo in tilt a Catania e Palermo. Chigi convoca un vertice d’urgenza"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/attacco-informatico-ai-congelatori-europei-allerta-anche-in-italia-supermercati-v8jo8wam",
+     "title": "Giallo cyber-attacchi in mezza Europa. Colpita anche l’Italia"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/cyberattacco-supermercati-europa_7gwduwytgj4j9r6C2pXVVv",
+     "title": "Cyberattacchi ai supermercati, frigoriferi in tilt in Europa: \"Hacker in azione, congelatori impostati a 50 gradi\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "L'ultimo appello di Trump, 'votate e fermiamo comunisti e jihadisti'",
+   "summary": "'Con loro un nuovo 1929'. Ma per i sondaggi i dem avanti in tutti gli Stati chiave",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+   "pub_ts": 1793660871,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+     "title": "L'ultimo appello di Trump, 'votate e fermiamo comunisti e jihadisti'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_0580a46a-cd17-4122-a9dc-12a60cc43254.html",
+     "title": "Trump, 'le midterm più importanti della storia, dai dem candidati jihadisti'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/03/midterm-2026-ultimo-appello-trump-jihadisti-comunisti/",
+     "title": "Midterm Usa, l’ultimo appello di Trump: «Votate e fermiamo comunisti e jihadisti»"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-c28c044e-836e-49ee-987a-240d4ed4be95.html",
+     "title": "Midterm, l'ultimo appello di Trump: \"Votate e fermiamo comunisti e jihadisti\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/02/midterm-usa-trump-lincoln-memorial-notizie/8558568/",
+     "title": "Midterm Usa, l’ultimo appello di Trump prima del voto: “Non consentite a jihadisti e comunisti di vincere”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Torna a casa dopo 28 anni e 50mila km: ha fatto il giro del mondo a piedi. Karl Bushby era partito dal Cile nel '98. Oggi l'abbraccio con la mamma a Hull, Inghilterra",
+   "summary": "L'avventuriero britannico Karl Bushby è partito dal Cile nel 1998. Oggi l'abbraccio con la madre a Hull, in Inghilterra. Non ha usato nessun mezzo di traporto",
+   "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/11/02/torna-a-casa-dopo-28-anni-e-50mila-km-ha-fatto-il-giro-del-mondo-a-piedi_fbc984a8-b67d-449a-a20d-f2a9cd52aa7a.html",
+   "pub_ts": 1793648940,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/11/02/torna-a-casa-dopo-28-anni-e-50mila-km-ha-fatto-il-giro-del-mondo-a-piedi_fbc984a8-b67d-449a-a20d-f2a9cd52aa7a.html",
+     "title": "Torna a casa dopo 28 anni e 50mila km: ha fatto il giro del mondo a piedi. Karl Bushby era partito dal Cile nel '98. Oggi l'abbraccio con la mamma a Hull, Inghilterra"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/torna-a-casa-dopo-28-anni-e-50mila-km-ha-fatto-il-giro-del-mondo-a-piedi_438554ca-1b81-4d67-8d73-c371901f3d13.html",
+     "title": "Torna a casa dopo 28 anni e 50mila km: ha fatto il giro del mondo a piedi"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/dopo-28-anni-finisce-il-suo-giro-del-mondo-a-piedi-la-storia-di-karl-bushby-5d34187c-9443-4bc9-b137-2863a13f8999.html",
+     "title": "Dopo 28 anni finisce il suo giro del mondo a piedi: la storia di Karl Bushby"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/uk-karl-bushby-giro-mondo-a-piedi-28-anni_4UQX7biei8ZLK3vw1f1Tjb",
+     "title": "Fa il giro del mondo a piedi e torna dopo 28 anni, finita l'impresa straordinaria di Karl Bushby"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/02/karl-bushby-giro-del-mondo-completato-28-anni/",
+     "title": "Dopo 28 anni, Karl Bushby ha completato il suo giro del mondo a piedi"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni",
+   "summary": "'Il Paese non può permettersi una crisi politica prolungata in questo momento'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
+   "pub_ts": 1793641081,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
+     "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/02/il-paradosso-delle-pensioni-nella-legge-di-bilancio/",
+     "title": "Il paradosso delle pensioni nella legge di bilancio"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/belgio-il-premier-si-dimette-per-il-mancato-accordo-sulla-legge-di-bilancio-il-re-consultazioni-75e3d678-d203-4c34-a730-de0d52750c31.html",
+     "title": "Belgio, il premier si dimette per il mancato accordo sulla legge di bilancio, il re: \"Consultazioni\""
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/belgio-premier-de-wever-rassegna-dimissioni-re-filippo-avvia-consultazioni-AJeg8k1B",
+     "title": "Belgio: il premier De Wever rassegna le dimissioni, re Filippo I avvia consultazioni"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump, 'prezzi del petrolio crollano, un accordo con l'Iran può avvenire!'",
+   "summary": "'Teheran lo vuole, il prima possibile'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/trump-prezzi-del-petrolio-crollano-un-accordo-con-liran-puo-avvenire_d8544b65-3e10-4f2b-ab98-9ad890d84451.html",
+   "pub_ts": 1793654140,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/trump-prezzi-del-petrolio-crollano-un-accordo-con-liran-puo-avvenire_d8544b65-3e10-4f2b-ab98-9ad890d84451.html",
+     "title": "Trump, 'prezzi del petrolio crollano, un accordo con l'Iran può avvenire!'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-iran-piano-usa_4KSOIuUeQAICHrJZwTVGjv",
+     "title": "Iran presenta piano agli Usa per la riapertura di Hormuz. Trump: \"Vicini ad accordo o alla vittoria\""
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/europa-e-usa-positive-crollano-petrolio-e-gas-sulle-speranze-di-dialogo-tra-usa-e-iran-68f6a6c0-c0b1-4506-b35c-0d58fcb2d2bf.html",
+     "title": "Europa e Usa positive, crollano petrolio e gas sulle speranze di dialogo tra Usa e Iran"
+    }
+   ]
+  },
   {
    "category": "politica",
    "area": "mondo",
@@ -37,27 +217,27 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Il governo del Belgio si spacca sulla manovra, il premier si dimette",
-   "summary": "Il re Filippo I ha avviato le consultazioni con i leader di maggioranza",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/il-governo-del-belgio-si-spacca-sulla-manovra-il-premier-si-dimette_802dfb24-d75d-4ac8-8e4b-7fb8977a1bc8.html",
-   "pub_ts": 1793621635,
+   "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra",
+   "summary": "Corsa contro il tempo a Tel Aviv: Bibi spera nel conflitto prima che ci sia un nuovo governo. La sinistra, la destra di Liebermann e Bennett sostengono Eisenkot come premier. Sul tavolo, l’appoggio esterno delle formazioni palestinesi",
+   "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
+   "pub_ts": 1793649521,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/il-governo-del-belgio-si-spacca-sulla-manovra-il-premier-si-dimette_802dfb24-d75d-4ac8-8e4b-7fb8977a1bc8.html",
-     "title": "Il governo del Belgio si spacca sulla manovra, il premier si dimette"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
+     "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-governo-belga-in-crisi-sulla-manovra-possibili-dimissioni-di-de-wever_a680a19d-e365-4744-9633-d9d37c9cd87a.html",
-     "title": "Il governo belga in crisi sulla manovra, possibili dimissioni di De Wever"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/diretta/guerra_iran_usa_israele_news_oggi-425692704/",
+     "title": "Guerra in Iran, le news. Netanyahu: “Aperto al dialogo per un ampio governo, mai con partiti arabi”"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/02/belgio-dimissioni-bart-de-wever-crisi-governo/",
-     "title": "Crisi di governo in Belgio, si dimette il premier De Wever. Lo scontro su tagli e la scelta dell’alleato di Meloni: cosa succede ora"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/02/iran-usa-khamenei-negoziati-notizie/8558071/",
+     "title": "Iran, via libera dell’ayatollah Khamenei a trattare con gli Usa: “Presentato piano a Washington”. Crolla il prezzo del petrolio"
     }
    ]
   },
@@ -67,8 +247,8 @@
    "title": "Israele, i partiti arabi pronti a indicare Eisenkot primo ministro",
    "summary": "Passi avanti tra gli anti-Netanyahu e i palestinesi. Bibi sente Trump: vuole la guerra all’Iran per restare al governo",
    "link": "https://www.repubblica.it/esteri/2026/11/01/news/elezioni_israele_piano_eisenkot_governo_astensione_arabi_partito_ultraortodossi-425691765/?rss",
-   "pub_ts": 1793566940,
-   "n_sources": 3,
+   "pub_ts": 1793644299,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
@@ -77,210 +257,53 @@
      "title": "Israele, i partiti arabi pronti a indicare Eisenkot primo ministro"
     },
     {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/02/governo-israele-lieberman-eisenkot-notizie/8557739/",
+     "title": "Israele, da mercoledì le consultazioni del presidente Herzog. Partiti arabi verso l’appoggio a Eisenkot, ma la strada dell’opposizione resta in salita"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump chiede intervento Corte Suprema sul blocco dei voti in California",
+   "summary": "Dopo che la corte d'appello ha bocciato la richiesta sul blocco 20.000 voti",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-chiede-intervento-corte-suprema-sul-blocco-dei-voti-in-california_5d410039-443b-4b94-9c92-0fff9941d7a9.html",
+   "pub_ts": 1793643326,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/israele-eisenkot-cerca-alleati-guarda-agli-arabi-di-raam-e-agli-ultraortodossi_9aa5e803-daf0-4591-b0c6-ea26ce02a358.html",
-     "title": "Israele, Eisenkot cerca alleati, guarda agli arabi di Ra'am e agli ultraortodossi"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-chiede-intervento-corte-suprema-sul-blocco-dei-voti-in-california_5d410039-443b-4b94-9c92-0fff9941d7a9.html",
+     "title": "Trump chiede intervento Corte Suprema sul blocco dei voti in California"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/02/trump-chiede-sospensione-voti-per-posta-california/",
+     "title": "L’amministrazione Trump ha chiesto alla Corte Suprema di sospendere lo spoglio del voto per posta di 20mila elettori della California"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa",
+   "summary": "L’election day di domani è la somma di molte consultazioni diverse: per il Congresso, si rinnovano tutti i 435 seggi della Camera dei Rappresentanti e 35 seggi su 100 del Senato. Ma si voterà anche per molte altre cariche locali",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/?rss",
+   "pub_ts": 1793642543,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/?rss",
+     "title": "Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/01/news/elezioni_israele_piano_eisenkot_governo_astensione_arabi_partito_ultraortodossi-425691765/",
-     "title": "Israele, i partiti arabi pronti a indicare Eisenkot primo ministro"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Pezeshkian: 'Da Khamenei alcuni poteri al governo per trattare con gli Usa'",
-   "summary": "Il presidente iraniano: 'Ci stiamo adoperando per risolvere le questioni attraverso il dialogo. I nostri avversari non possono costringerci alla resa attraverso un conflitto'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/pezeshkian-da-khamenei-alcuni-poteri-al-governo-per-trattare-con-gli-usa_f5315141-c840-4f45-89ca-066c867cee06.html",
-   "pub_ts": 1793632219,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/pezeshkian-da-khamenei-alcuni-poteri-al-governo-per-trattare-con-gli-usa_f5315141-c840-4f45-89ca-066c867cee06.html",
-     "title": "Pezeshkian: 'Da Khamenei alcuni poteri al governo per trattare con gli Usa'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/pezeshkian-da-khamenei-alcuni-poteri-al-governo-per-trattare-con-gli-usa_3c1782a2-cbba-44a8-815d-4b2ab65fedfd.html",
-     "title": "Pezeshkian, 'da Khamenei alcuni poteri al governo per trattare con gli Usa'"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Exit poll, la presidente Yotova vince il ballottaggio in Bulgaria",
-   "summary": "La capo di Stato filorussa batte l'europeista Ghiurov, 52,5% contro il 43,4",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/exit-poll-la-presidente-yotova-vince-il-ballottaggio-in-bulgaria_2b0ce8ea-aeac-402a-9467-3097e8d028be.html",
-   "pub_ts": 1793632060,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/exit-poll-la-presidente-yotova-vince-il-ballottaggio-in-bulgaria_2b0ce8ea-aeac-402a-9467-3097e8d028be.html",
-     "title": "Exit poll, la presidente Yotova vince il ballottaggio in Bulgaria"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/bulgaria-iliana-yotova-eletta-presidente-repubblica-AJtEO01B",
-     "title": "Bulgaria, Iliana Yotova eletta presidente della Repubblica"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Ucraina, Melania Trump: 'Evacuati da Oleshky in 800'. Hackerate le app di allarme aereo, Russia e Ucraina al buio",
-   "summary": "La first Lady si congratula: 'Spero che serva da base per una pace duratura'. Ma il Cremlino afferma: 'Non ci sono altre missioni umanitarie in vista'. Kiev: Raid russi su Kherson",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/ucraina-melania-trump-evacuati-da-oleshky-in-800.-hackerate-le-app-di-allarme-aereo_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
-   "pub_ts": 1793631818,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/ucraina-melania-trump-evacuati-da-oleshky-in-800.-hackerate-le-app-di-allarme-aereo_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
-     "title": "Ucraina, Melania Trump: 'Evacuati da Oleshky in 800'. Hackerate le app di allarme aereo, Russia e Ucraina al buio"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/melania-trump-quasi-800-persone-evacuate-da-oleshky_edd74fce-5b68-4a45-923c-05a18b7a4217.html",
-     "title": "Melania Trump, 'quasi 800 persone evacuate da Oleshky'"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'",
-   "summary": "Il messaggio agli elettori, 'mai così tanti americani al lavoro'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_7e049007-2213-47b4-a6e3-827a942aa790.html",
-   "pub_ts": 1793626500,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_7e049007-2213-47b4-a6e3-827a942aa790.html",
-     "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-c28c044e-836e-49ee-987a-240d4ed4be95.html",
-     "title": "Midterm, nei sondaggi i democratici prevalgono 52 a 45%. Trump: \"Sarò Mr. Veto se vincono i dem\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni",
-   "summary": "'Il Paese non può permettersi una crisi politica prolungata in questo momento'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
-   "pub_ts": 1793618660,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
-     "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/belgio-premier-de-wever-rassegna-dimissioni-re-filippo-avvia-consultazioni-AJeg8k1B",
-     "title": "Belgio: il premier De Wever rassegna le dimissioni, re Filippo I avvia consultazioni"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Nella manovra previsti 1,2 miliardi di tagli agli interventi per le calamità, tornano ma tre anni dopo",
-   "summary": "Per i ministeri sono previsti tagli complessivi per 4,7 miliardi in tre anni",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/nella-manovra-previsti-12-miliardi-di-tagli-agli-interventi-per-le-calamita-tornano_1ce833d8-40ac-40f4-b1d1-d3f8e388834b.html",
-   "pub_ts": 1793631557,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/nella-manovra-previsti-12-miliardi-di-tagli-agli-interventi-per-le-calamita-tornano_1ce833d8-40ac-40f4-b1d1-d3f8e388834b.html",
-     "title": "Nella manovra previsti 1,2 miliardi di tagli agli interventi per le calamità, tornano ma tre anni dopo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Vannacci, è Meloni a favorire la sinistra chiudendo a Futuro Nazionale",
-   "summary": "'Noi non possiamo discostarci dai prioritari interessi della nazione e degli italiani'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/vannacci-e-meloni-a-favorire-la-sinistra-chiudendo-a-futuro-nazionale_0eb691e5-f392-4f10-8009-b0fd9d34f49b.html",
-   "pub_ts": 1793631051,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/vannacci-e-meloni-a-favorire-la-sinistra-chiudendo-a-futuro-nazionale_0eb691e5-f392-4f10-8009-b0fd9d34f49b.html",
-     "title": "Vannacci, è Meloni a favorire la sinistra chiudendo a Futuro Nazionale"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Ondata di attacchi hacker contro i supermercati di mezza Europa",
-   "summary": "In Belgio, Svezia, Estonia, Lussemburgo e Irlanda. Colpiti i sistema di refrigerazione: improvviso innalzamento delle temperature nei banchi frigo e freezer fino a 50 gradi. Come avvenuto in Francia il 12 ottobre scorso. Tonnellate di cibo sprecato",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/ondata-di-attacchi-hacker-contro-i-supermercati-di-mezza-europa_5e6f0b27-05c9-468a-9004-087167137119.html",
-   "pub_ts": 1793632860,
-   "n_sources": 8,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/ondata-di-attacchi-hacker-contro-i-supermercati-di-mezza-europa_5e6f0b27-05c9-468a-9004-087167137119.html",
-     "title": "Ondata di attacchi hacker contro i supermercati di mezza Europa"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/attacchi_hacker_supermercati_frigoriferi_europa_belgio_svezia_irlanda-425693699/?rss",
-     "title": "Dal Belgio alla Svezia, attacchi hacker contro i supermercati: colpiti i sistemi di refrigerazione"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/attacchi-hacker-ai-supermercati-in-belgio-olanda-irlanda-svezia-estonia-lussemburgo-frigo-fino-a-50-gradi-f8502bef-eb2c-4555-a28e-fc5ec9ca1de7.html",
-     "title": "Attacchi hacker ai supermercati in 6 Paesi europei: frigoriferi fino a 50°"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/02/attacco-hacker-frigoriferi-supermercati-europa/",
-     "title": "Frigoriferi impazziti nei supermercati in mezza Europa, sospetto attacco hacker in Belgio, Svezia, Estonia e Irlanda: «Si è cotto il cibo, tutto da buttare»"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/cyberattacchi-sistemi-refrigerazione-diversi-supermercati-europa-AJ81np1B",
-     "title": "Cyberattacchi colpiscono i sistemi di refrigerazione di supermercati in Svezia, Belgio, Estonia e altri Paesi"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/nuovi-attacchi-freezer-supermercati-europa/",
-     "title": "Nuovi attacchi ai freezer dei supermercati in tutta Europa"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/cyberattacco-supermercati-europa_7gwduwytgj4j9r6C2pXVVv",
-     "title": "Cyberattacchi ai supermercati, frigoriferi in tilt in Europa: \"Hacker in azione, congelatori impostati a 50 gradi\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/02/attacchi-hacker-supermercati-europa-notizie/8557799/",
-     "title": "Attacchi hacker ai supermercati dell’Ue: freezer a 50 gradi dall’Irlanda all’Estonia"
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/",
+     "title": "Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa"
     }
    ]
   },
@@ -291,7 +314,7 @@
    "summary": "Sui telefoni di Kiev domenica notte è apparsa l’allerta nucleare, gettando nel panico molte persone. Dopo tre ore anche quelli di Mosca inondati di messaggi falsi",
    "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
    "pub_ts": 1793632944,
-   "n_sources": 6,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -305,24 +328,41 @@
      "title": "Falsi allarmi per attacchi nucleari in Ucraina e Russia"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/02/russia-ucraina-attacchi-hacker/",
-     "title": "Il caso dei falsi allarmi nucleari in Ucraina e Russia: cosa è successo nella notte della fine della tregua di Oleshky"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucriana-russia-news-2-novembre-2026_7tbXUaID3Cux0Co0Gnh7ND",
-     "title": "Ucraina, finisce la tregua di Oleshky: la Russia riprende gli attacchi su Kherson"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/02/applicazioni-emergenza-russia-ucraina-attacchi-informatici/",
      "title": "Le app di emergenza in Russia e Ucraina sono state colpite da attacchi informatici"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/diretta/guerra_ucraina_russia_news_oggi-425692726/",
-     "title": "Guerra Ucraina - Russia, le news di oggi. Hackerate app di allerta russa e ucraina"
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/",
+     "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Attacchi hacker contro i supermercati in tutta Europa: colpita anche l’Italia",
+   "summary": "Attacchi registrati in Sicilia, Toscana ed Emilia Romagna. Gli episodi, registratisi anche in Estonia, Irlanda, Lussemburgo, Paesi Bassi e Finlandia, seguono i casi francesi di ottobre. Grandi quantità di prodotti alimentari sono state buttate. Ue: “Tentativo deliberato di...",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/attacchi_hacker_supermercati_frigoriferi_europa_belgio_svezia_irlanda-425693699/?rss",
+   "pub_ts": 1793648739,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/attacchi_hacker_supermercati_frigoriferi_europa_belgio_svezia_irlanda-425693699/?rss",
+     "title": "Attacchi hacker contro i supermercati in tutta Europa: colpita anche l’Italia"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/nuovi-attacchi-freezer-supermercati-europa/",
+     "title": "Nuovi attacchi ai freezer dei supermercati in tutta Europa (update)"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/02/supermercati-belgio-svezia-estonia-attacchi-informatici/",
+     "title": "Ci sono stati nuovi attacchi informatici contro i supermercati europei"
     }
    ]
   },
@@ -332,7 +372,7 @@
    "title": "Gary Marcus, 'i cittadini boicottino l'IA, OpenAI potrebbe crollare'",
    "summary": "Psicologo e critico della Silicon Valley: \"Serve una governance globale, l'Ue non cavalchi l'ondata Usa sopravvalutata\"",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/gary-marcus-boicottare-lia-finche-le-aziende-non-la-mettono-a-posto_873d8099-8404-47ef-8c35-a41a78b2dc09.html",
-   "pub_ts": 1793628894,
+   "pub_ts": 1793638417,
    "n_sources": 2,
    "documented": true,
    "sources": [
@@ -373,76 +413,32 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Rai, l'inchiesta 'Hasta el final' vince la 15/a edizione del Premio Roberto Morrione",
-   "summary": "Il Premio Riccardo Laganà all'inchiesta 'Buchi nell'acqua'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/01/rai-linchiesta-hasta-el-final-vince-la-15a-edizione-del-premio-roberto_7d167ccf-359d-4ab8-9c4b-ec1996ce546d.html",
-   "pub_ts": 1793528823,
-   "n_sources": 2,
+   "title": "Le elezioni di midterm: la vignetta di Ellekappa",
+   "summary": "",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_vignetta_ellekappa-425694973/?rss",
+   "pub_ts": 1793660460,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/01/rai-linchiesta-hasta-el-final-vince-la-15a-edizione-del-premio-roberto_7d167ccf-359d-4ab8-9c4b-ec1996ce546d.html",
-     "title": "Rai, l'inchiesta 'Hasta el final' vince la 15/a edizione del Premio Roberto Morrione"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_vignetta_ellekappa-425694973/?rss",
+     "title": "Le elezioni di midterm: la vignetta di Ellekappa"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/elezioni-midterm-usa-si-rinnovano-tutti-i-435-seggi-della-camera-e-un-terzo-del-senato-f69a6cd5-6b24-470a-b0a1-2b09a9f89632.html",
+     "title": "Elezioni midterm: si rinnovano tutti i 435 seggi della Camera e un terzo del Senato"
+    },
+    {
+     "name": "Galileo",
+     "link": "https://www.galileonet.it/elezioni-di-midterm-lia-per-studiare-la-polarizzazione-degli-elettori/",
+     "title": "Elezioni di Midterm: l’IA per studiare la polarizzazione degli elettori"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/vincitore-premio-roberto-morrione-2026-inchiesta-ic9cp9tz",
-     "title": "L’inchiesta “Hasta el final” sulla morte di Mario Paciolla vince la 15esima edizione del Premio Morrione"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Olly conquista il disco di Diamante per Tutta vita",
-   "summary": "È l'artista più giovane e il più veloce a raggiungere questo traguardo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/02/olly-conquista-il-disco-di-diamante-per-tutta-vita_9da524b8-a2b2-4580-b970-3f64240bb9ac.html",
-   "pub_ts": 1793632044,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/02/olly-conquista-il-disco-di-diamante-per-tutta-vita_9da524b8-a2b2-4580-b970-3f64240bb9ac.html",
-     "title": "Olly conquista il disco di Diamante per Tutta vita"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Arte, Paratissima 2026 chiude con oltre 13mila ingressi",
-   "summary": "L'arte emergente protagonista della Torino Art Week",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/arte-paratissima-2026-chiude-con-oltre-13mila-ingressi_2f6a4af2-ec53-482f-99e4-3167e590f1ee.html",
-   "pub_ts": 1793631512,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/arte-paratissima-2026-chiude-con-oltre-13mila-ingressi_2f6a4af2-ec53-482f-99e4-3167e590f1ee.html",
-     "title": "Arte, Paratissima 2026 chiude con oltre 13mila ingressi"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Fp Cgil, con tagli a Ssn fortissimo rischio di chiusura di ospedali",
-   "summary": "'Grave manomissione del diritto alla salute costituzionalmente garantito'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/02/fp-cgil-con-tagli-a-ssn-fortissimo-rischio-di-chiusura-di-ospedali_42697c02-bbec-43c4-b143-d6fecc7960ef.html",
-   "pub_ts": 1793629443,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/02/fp-cgil-con-tagli-a-ssn-fortissimo-rischio-di-chiusura-di-ospedali_42697c02-bbec-43c4-b143-d6fecc7960ef.html",
-     "title": "Fp Cgil, con tagli a Ssn fortissimo rischio di chiusura di ospedali"
+     "link": "https://www.editorialedomani.it/politica/mondo/venti-di-guerra-sulle-elezioni-di-midterm-i-dem-i-piani-bellici-di-trump-sono-folli-wgl0wnt1",
+     "title": "Venti di guerra sulle elezioni di midterm. I dem: «I piani bellici di Trump sono folli»"
     }
    ],
    "subtype": "scienza"
@@ -450,17 +446,76 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Energy drink con caffeina potrebbero collegarsi a eventi cardiaci avversi",
-   "summary": "Segnalazioni Fda di problemi cardiovascolari più frequenti in relazione al loro consumo",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/02/energy-drink-con-caffeina-potrebbero-collegarsi-a-eventi-cardiaci-avversi_e3ee310c-96f2-4327-94ad-6be5f0a5debd.html",
-   "pub_ts": 1793629119,
+   "title": "Esce 'I dodici', il romanzo che racconta gli apostoli nella loro umanità",
+   "summary": "Edito da Minerva con prefazione di Zuppi,da Giannotti e Lupi la gioventù dei primi seguaci",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/02/esce-i-dodici-il-romanzo-che-racconta-gli-apostoli-nella-loro-umanita_486c3270-e606-4212-b6b5-12fcac852afb.html",
+   "pub_ts": 1793635598,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/02/esce-i-dodici-il-romanzo-che-racconta-gli-apostoli-nella-loro-umanita_486c3270-e606-4212-b6b5-12fcac852afb.html",
+     "title": "Esce 'I dodici', il romanzo che racconta gli apostoli nella loro umanità"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/i-dodici-un-romanzo-di-marcello-giannotti-e-tiziana-lupi-racconta-gli-apostoli-prima-della-fede_2Bq7pO1jdBXHyasM6ak6ZI",
+     "title": "'I Dodici', un romanzo di Marcello Giannotti e Tiziana Lupi racconta gli apostoli prima della fede"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Date amplia guardaroba da sneakers a total look col Chiantishire",
+   "summary": "Debutta anche una profumazione d'ambiente dedicata a Firenze",
+   "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/02/date-amplia-guardaroba-da-sneakers-a-total-look-col-chiantishire_6829ab25-dc3e-44a2-9241-12c3f3754fca.html",
+   "pub_ts": 1793642511,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/02/date-amplia-guardaroba-da-sneakers-a-total-look-col-chiantishire_6829ab25-dc3e-44a2-9241-12c3f3754fca.html",
+     "title": "Date amplia guardaroba da sneakers a total look col Chiantishire"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Dustin Hoffman, 'girare 'll laureato' un'esperienza terribile per me'",
+   "summary": "L'attore temeva di non essere all'altezza della parte di Benjamin Braddock",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
+   "pub_ts": 1793640599,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
+     "title": "Dustin Hoffman, 'girare 'll laureato' un'esperienza terribile per me'"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Da liposuzione a lipofilling del seno, il grasso diventa risorsa in chirurgia plastica",
+   "summary": "Due studi internazionali coordinati dall'Italia ne analizzano risultati e potenzialità",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/02/da-liposuzione-a-lipofilling-del-seno-il-grasso-diventa-risorsa-in-chirurgia-plastica_7d40c1b2-feac-48b6-907b-c3b9433175e7.html",
+   "pub_ts": 1793639445,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/02/energy-drink-con-caffeina-potrebbero-collegarsi-a-eventi-cardiaci-avversi_e3ee310c-96f2-4327-94ad-6be5f0a5debd.html",
-     "title": "Energy drink con caffeina potrebbero collegarsi a eventi cardiaci avversi"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/02/da-liposuzione-a-lipofilling-del-seno-il-grasso-diventa-risorsa-in-chirurgia-plastica_7d40c1b2-feac-48b6-907b-c3b9433175e7.html",
+     "title": "Da liposuzione a lipofilling del seno, il grasso diventa risorsa in chirurgia plastica"
     }
    ],
    "subtype": "scienza"
@@ -468,74 +523,69 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Identificate le due vittime italiane dell'incidente ferroviario di Toledo",
-   "summary": "Sono una italo-argentina e una italo-venezuelana",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/identificate-le-due-vittime-italiane-dellincidente-ferroviario-di-toledo-_ff2f24c6-eabc-4e8d-b16c-f02c4408dc60.html",
-   "pub_ts": 1793624086,
-   "n_sources": 7,
+   "title": "Zelensky: 'Attacco devastante in una scuola utilizzata per attività umanitarie'",
+   "summary": "Colpito un centro umanitario, 24 uccisi mentre cercavano aiuti. Hackerate le app di emergenza",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/zelensky-attacco-devastante-in-una-scuola-utilizzata-per-attivita-umanitarie_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
+   "pub_ts": 1793660833,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/identificate-le-due-vittime-italiane-dellincidente-ferroviario-di-toledo-_ff2f24c6-eabc-4e8d-b16c-f02c4408dc60.html",
-     "title": "Identificate le due vittime italiane dell'incidente ferroviario di Toledo"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/zelensky-attacco-devastante-in-una-scuola-utilizzata-per-attivita-umanitarie_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
+     "title": "Zelensky: 'Attacco devastante in una scuola utilizzata per attività umanitarie'"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/identificate-le-due-vittime-italiane-dellincidente-ferroviario-di-toledo_ca3b4fa2-adf3-412d-ba8c-80df226acc43.html",
-     "title": "Identificate le due vittime italiane dell'incidente ferroviario di Toledo"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/zelensky-attacco-devastante-su-komysuhvakha-almeno-18-morti_66bdaee3-db9b-49b8-b429-78b135983319.html",
+     "title": "Zelensky, 'attacco devastante su Komysuhvakha, almeno 18 morti'"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/tragedia-ferroviaria-in-spagna-identificate-le-due-vittime-italiane-chi-erano-fed4004c-b51c-448f-97c9-66f558da37a4.html",
-     "title": "Tragedia ferroviaria in Spagna, identificate le due vittime italiane: chi erano"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-3-novembre_2P47326BVTeziiCmDKvVup",
+     "title": "Ucraina, Russia ha perso territorio a ottobre. Zelensky: \"Putin prepara nuovo attacco\""
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/02/identificate-italiane-morte-incidente-spagna/",
-     "title": "Sono state identificate le due donne italiane morte nell’incidente ferroviario in Spagna"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/spagna-incidente-toledo-identificate-le-due-vittime-italiane-rq6aflxk",
-     "title": "Incidente a Toledo, identificate le due vittime italiane"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/spagna-identificate-due-vittime-italiane-disastro-ferroviario-AJN3Ie1B",
-     "title": "Spagna, identificate le due vittime italiane del disastro ferroviario"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/02/guerra-ucraina-russia-attacco-scuola-rifugio-ultimi-agg-2-nov/",
+     "title": "Ucraina, raid russo su una scuola-rifugio a Zaporizhzhia: 26 morti. Zelensky: «Mosca prepara un nuovo massiccio attacco»"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/02/news/scontro_treni_toledo_vittime_italiane_millan_parlanti_conte_grant-425693138/",
-     "title": "Spagna, identificate le due vittime italiane dell'incidente ferroviario di Toledo"
+     "link": "https://www.repubblica.it/esteri/2026/11/02/diretta/guerra_ucraina_russia_news_oggi-425692726/",
+     "title": "Guerra Ucraina - Russia, le news. Zelensky: “Raid devastante su un centro aiuti, almeno 26 morti”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/02/ucraina-zaporizhzhia-raid-scuola-notizie/8558371/",
+     "title": "Ucraina, Zelensky: “Raid russo su una scuola di Zaporizhzhia usata come centro aiuti”. Almeno 26 morti"
     }
    ]
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "Le salme dei militari in Italia: a Ciampino anche Mattarella e Meloni, camera ardente al Celio",
-   "summary": "Ad accogliere i feretri all'aeroporto di Ciampino Mattarella e Meloni",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/atterrato-a-ciampino-laereo-con-le-salme-dei-militari-morti-in-bosnia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
-   "pub_ts": 1793631545,
+   "title": "In Italia le salme dei quattro militari morti in Bosnia, al Celio la camera ardente",
+   "summary": "Mattarella e Meloni a Ciampino con i familiari delle vittime. Martedì i funerali",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/in-italia-le-salme-dei-quattro-militari-morti-in-bosnia-al-celio-la-camera-ardente_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
+   "pub_ts": 1793644898,
    "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/atterrato-a-ciampino-laereo-con-le-salme-dei-militari-morti-in-bosnia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
-     "title": "Le salme dei militari in Italia: a Ciampino anche Mattarella e Meloni, camera ardente al Celio"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/in-italia-le-salme-dei-quattro-militari-morti-in-bosnia-al-celio-la-camera-ardente_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
+     "title": "In Italia le salme dei quattro militari morti in Bosnia, al Celio la camera ardente"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/mattarella-e-meloni-domani-ai-funerali-dei-militari-morti-in-bosnia_cb4fb520-3810-408b-8657-5ea577bd8ea7.html",
+     "title": "Mattarella e Meloni domani ai funerali dei militari morti in Bosnia"
     },
     {
      "name": "ANSA Cronaca",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/atterrato-a-ciampino-laereo-con-le-salme-dei-militari-morti-in-bosnia_3b2beaf6-842b-4d63-a61d-ddb55172bd60.html",
      "title": "Atterrato a Ciampino l'aereo con le salme dei militari morti in Bosnia"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/02/militari-morti-bosnia-elicottero-mattarella-meloni-ciampino-video/",
-     "title": "Mattarella e Meloni a Ciampino, l’arrivo delle salme dei quattro militari italiani morti in Bosnia – Il video"
     },
     {
      "name": "Rai News",
@@ -550,12 +600,57 @@
     {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/cronaca/2026/11/02/news/elicottero_caduto_bosnia_salme_militari_ciampino-425693463/",
-     "title": "Elicottero caduto in Bosnia, arrivate a Ciampino le salme dei militari italiani"
+     "title": "La carezza di Mattarella per i quattro militari precipitati in Bosnia"
     }
    ]
   }
  ],
  "articles": [
+  {
+   "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
+   "description": "Il sottosegretario Mantovano vedrà anche l'Agenzia per la Cybersicurezza dopo i casi in Sicilia. Problemi in Belgio, Svezia e altri Paesi. Tonnellate di cibo a rischio",
+   "pub_ts": 1793649920,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "L'ultimo appello di Trump, 'votate e fermiamo comunisti e jihadisti'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+   "description": "'Con loro un nuovo 1929'. Ma per i sondaggi i dem avanti in tutti gli Stati chiave",
+   "pub_ts": 1793660871,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Torna a casa dopo 28 anni e 50mila km: ha fatto il giro del mondo a piedi. Karl Bushby era partito dal Cile nel '98. Oggi l'abbraccio con la mamma a Hull, Inghilterra",
+   "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/11/02/torna-a-casa-dopo-28-anni-e-50mila-km-ha-fatto-il-giro-del-mondo-a-piedi_fbc984a8-b67d-449a-a20d-f2a9cd52aa7a.html",
+   "description": "L'avventuriero britannico Karl Bushby è partito dal Cile nel 1998. Oggi l'abbraccio con la madre a Hull, in Inghilterra. Non ha usato nessun mezzo di traporto",
+   "pub_ts": 1793648940,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
+   "description": "'Il Paese non può permettersi una crisi politica prolungata in questo momento'",
+   "pub_ts": 1793641081,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump, 'prezzi del petrolio crollano, un accordo con l'Iran può avvenire!'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/trump-prezzi-del-petrolio-crollano-un-accordo-con-liran-puo-avvenire_d8544b65-3e10-4f2b-ab98-9ad890d84451.html",
+   "description": "'Teheran lo vuole, il prima possibile'",
+   "pub_ts": 1793654140,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
   {
    "title": "Michigan, la rivale di El-Sayed alle primarie voterà per il repubblicano: anche lo staff la scarica",
    "link": "https://www.repubblica.it/esteri/2026/11/02/news/michigan_haley_stevens_la_rivale_di_el-sayed_vota_per_il_repubblicano-425693590/?rss",
@@ -566,11 +661,11 @@
    "section": "politica"
   },
   {
-   "title": "Il governo del Belgio si spacca sulla manovra, il premier si dimette",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/il-governo-del-belgio-si-spacca-sulla-manovra-il-premier-si-dimette_802dfb24-d75d-4ac8-8e4b-7fb8977a1bc8.html",
-   "description": "Il re Filippo I ha avviato le consultazioni con i leader di maggioranza",
-   "pub_ts": 1793621635,
-   "source": "ANSA",
+   "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra",
+   "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
+   "description": "Corsa contro il tempo a Tel Aviv: Bibi spera nel conflitto prima che ci sia un nuovo governo. La sinistra, la destra di Liebermann e Bennett sostengono Eisenkot come premier. Sul tavolo, l’appoggio esterno delle formazioni palestinesi",
+   "pub_ts": 1793649521,
+   "source": "Domani",
    "source_priority": 1,
    "section": "politica"
   },
@@ -578,82 +673,28 @@
    "title": "Israele, i partiti arabi pronti a indicare Eisenkot primo ministro",
    "link": "https://www.repubblica.it/esteri/2026/11/01/news/elezioni_israele_piano_eisenkot_governo_astensione_arabi_partito_ultraortodossi-425691765/?rss",
    "description": "Passi avanti tra gli anti-Netanyahu e i palestinesi. Bibi sente Trump: vuole la guerra all’Iran per restare al governo",
-   "pub_ts": 1793566940,
+   "pub_ts": 1793644299,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Pezeshkian: 'Da Khamenei alcuni poteri al governo per trattare con gli Usa'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/pezeshkian-da-khamenei-alcuni-poteri-al-governo-per-trattare-con-gli-usa_f5315141-c840-4f45-89ca-066c867cee06.html",
-   "description": "Il presidente iraniano: 'Ci stiamo adoperando per risolvere le questioni attraverso il dialogo. I nostri avversari non possono costringerci alla resa attraverso un conflitto'",
-   "pub_ts": 1793632219,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Exit poll, la presidente Yotova vince il ballottaggio in Bulgaria",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/exit-poll-la-presidente-yotova-vince-il-ballottaggio-in-bulgaria_2b0ce8ea-aeac-402a-9467-3097e8d028be.html",
-   "description": "La capo di Stato filorussa batte l'europeista Ghiurov, 52,5% contro il 43,4",
-   "pub_ts": 1793632060,
+   "title": "Trump chiede intervento Corte Suprema sul blocco dei voti in California",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-chiede-intervento-corte-suprema-sul-blocco-dei-voti-in-california_5d410039-443b-4b94-9c92-0fff9941d7a9.html",
+   "description": "Dopo che la corte d'appello ha bocciato la richiesta sul blocco 20.000 voti",
+   "pub_ts": 1793643326,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ucraina, Melania Trump: 'Evacuati da Oleshky in 800'. Hackerate le app di allarme aereo, Russia e Ucraina al buio",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/ucraina-melania-trump-evacuati-da-oleshky-in-800.-hackerate-le-app-di-allarme-aereo_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
-   "description": "La first Lady si congratula: 'Spero che serva da base per una pace duratura'. Ma il Cremlino afferma: 'Non ci sono altre missioni umanitarie in vista'. Kiev: Raid russi su Kherson",
-   "pub_ts": 1793631818,
-   "source": "ANSA",
+   "title": "Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/?rss",
+   "description": "L’election day di domani è la somma di molte consultazioni diverse: per il Congresso, si rinnovano tutti i 435 seggi della Camera dei Rappresentanti e 35 seggi su 100 del Senato. Ma si voterà anche per molte altre cariche locali",
+   "pub_ts": 1793642543,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
-  },
-  {
-   "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_7e049007-2213-47b4-a6e3-827a942aa790.html",
-   "description": "Il messaggio agli elettori, 'mai così tanti americani al lavoro'",
-   "pub_ts": 1793626500,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
-   "description": "'Il Paese non può permettersi una crisi politica prolungata in questo momento'",
-   "pub_ts": 1793618660,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nella manovra previsti 1,2 miliardi di tagli agli interventi per le calamità, tornano ma tre anni dopo",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/nella-manovra-previsti-12-miliardi-di-tagli-agli-interventi-per-le-calamita-tornano_1ce833d8-40ac-40f4-b1d1-d3f8e388834b.html",
-   "description": "Per i ministeri sono previsti tagli complessivi per 4,7 miliardi in tre anni",
-   "pub_ts": 1793631557,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Vannacci, è Meloni a favorire la sinistra chiudendo a Futuro Nazionale",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/vannacci-e-meloni-a-favorire-la-sinistra-chiudendo-a-futuro-nazionale_0eb691e5-f392-4f10-8009-b0fd9d34f49b.html",
-   "description": "'Noi non possiamo discostarci dai prioritari interessi della nazione e degli italiani'",
-   "pub_ts": 1793631051,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Ondata di attacchi hacker contro i supermercati di mezza Europa",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/ondata-di-attacchi-hacker-contro-i-supermercati-di-mezza-europa_5e6f0b27-05c9-468a-9004-087167137119.html",
-   "description": "In Belgio, Svezia, Estonia, Lussemburgo e Irlanda. Colpiti i sistema di refrigerazione: improvviso innalzamento delle temperature nei banchi frigo e freezer fino a 50 gradi. Come avvenuto in Francia il 12 ottobre scorso. Tonnellate di cibo sprecato",
-   "pub_ts": 1793632860,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "tech"
   },
   {
    "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid",
@@ -665,10 +706,19 @@
    "section": "tech"
   },
   {
+   "title": "Attacchi hacker contro i supermercati in tutta Europa: colpita anche l’Italia",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/attacchi_hacker_supermercati_frigoriferi_europa_belgio_svezia_irlanda-425693699/?rss",
+   "description": "Attacchi registrati in Sicilia, Toscana ed Emilia Romagna. Gli episodi, registratisi anche in Estonia, Irlanda, Lussemburgo, Paesi Bassi e Finlandia, seguono i casi francesi di ottobre. Grandi quantità di prodotti alimentari sono state buttate. Ue: “Tentativo deliberato di...",
+   "pub_ts": 1793648739,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
    "title": "Gary Marcus, 'i cittadini boicottino l'IA, OpenAI potrebbe crollare'",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/gary-marcus-boicottare-lia-finche-le-aziende-non-la-mettono-a-posto_873d8099-8404-47ef-8c35-a41a78b2dc09.html",
    "description": "Psicologo e critico della Silicon Valley: \"Serve una governance globale, l'Ue non cavalchi l'ondata Usa sopravvalutata\"",
-   "pub_ts": 1793628894,
+   "pub_ts": 1793638417,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
@@ -683,64 +733,64 @@
    "section": "tech"
   },
   {
-   "title": "Rai, l'inchiesta 'Hasta el final' vince la 15/a edizione del Premio Roberto Morrione",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/01/rai-linchiesta-hasta-el-final-vince-la-15a-edizione-del-premio-roberto_7d167ccf-359d-4ab8-9c4b-ec1996ce546d.html",
-   "description": "Il Premio Riccardo Laganà all'inchiesta 'Buchi nell'acqua'",
-   "pub_ts": 1793528823,
+   "title": "Le elezioni di midterm: la vignetta di Ellekappa",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_vignetta_ellekappa-425694973/?rss",
+   "description": "",
+   "pub_ts": 1793660460,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Esce 'I dodici', il romanzo che racconta gli apostoli nella loro umanità",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/02/esce-i-dodici-il-romanzo-che-racconta-gli-apostoli-nella-loro-umanita_486c3270-e606-4212-b6b5-12fcac852afb.html",
+   "description": "Edito da Minerva con prefazione di Zuppi,da Giannotti e Lupi la gioventù dei primi seguaci",
+   "pub_ts": 1793635598,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Olly conquista il disco di Diamante per Tutta vita",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/02/olly-conquista-il-disco-di-diamante-per-tutta-vita_9da524b8-a2b2-4580-b970-3f64240bb9ac.html",
-   "description": "È l'artista più giovane e il più veloce a raggiungere questo traguardo",
-   "pub_ts": 1793632044,
+   "title": "Date amplia guardaroba da sneakers a total look col Chiantishire",
+   "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/02/date-amplia-guardaroba-da-sneakers-a-total-look-col-chiantishire_6829ab25-dc3e-44a2-9241-12c3f3754fca.html",
+   "description": "Debutta anche una profumazione d'ambiente dedicata a Firenze",
+   "pub_ts": 1793642511,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Arte, Paratissima 2026 chiude con oltre 13mila ingressi",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/arte-paratissima-2026-chiude-con-oltre-13mila-ingressi_2f6a4af2-ec53-482f-99e4-3167e590f1ee.html",
-   "description": "L'arte emergente protagonista della Torino Art Week",
-   "pub_ts": 1793631512,
+   "title": "Dustin Hoffman, 'girare 'll laureato' un'esperienza terribile per me'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
+   "description": "L'attore temeva di non essere all'altezza della parte di Benjamin Braddock",
+   "pub_ts": 1793640599,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Fp Cgil, con tagli a Ssn fortissimo rischio di chiusura di ospedali",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/02/fp-cgil-con-tagli-a-ssn-fortissimo-rischio-di-chiusura-di-ospedali_42697c02-bbec-43c4-b143-d6fecc7960ef.html",
-   "description": "'Grave manomissione del diritto alla salute costituzionalmente garantito'",
-   "pub_ts": 1793629443,
+   "title": "Da liposuzione a lipofilling del seno, il grasso diventa risorsa in chirurgia plastica",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/02/da-liposuzione-a-lipofilling-del-seno-il-grasso-diventa-risorsa-in-chirurgia-plastica_7d40c1b2-feac-48b6-907b-c3b9433175e7.html",
+   "description": "Due studi internazionali coordinati dall'Italia ne analizzano risultati e potenzialità",
+   "pub_ts": 1793639445,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Energy drink con caffeina potrebbero collegarsi a eventi cardiaci avversi",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/02/energy-drink-con-caffeina-potrebbero-collegarsi-a-eventi-cardiaci-avversi_e3ee310c-96f2-4327-94ad-6be5f0a5debd.html",
-   "description": "Segnalazioni Fda di problemi cardiovascolari più frequenti in relazione al loro consumo",
-   "pub_ts": 1793629119,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Identificate le due vittime italiane dell'incidente ferroviario di Toledo",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/identificate-le-due-vittime-italiane-dellincidente-ferroviario-di-toledo-_ff2f24c6-eabc-4e8d-b16c-f02c4408dc60.html",
-   "description": "Sono una italo-argentina e una italo-venezuelana",
-   "pub_ts": 1793624086,
+   "title": "Zelensky: 'Attacco devastante in una scuola utilizzata per attività umanitarie'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/zelensky-attacco-devastante-in-una-scuola-utilizzata-per-attivita-umanitarie_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
+   "description": "Colpito un centro umanitario, 24 uccisi mentre cercavano aiuti. Hackerate le app di emergenza",
+   "pub_ts": 1793660833,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "Le salme dei militari in Italia: a Ciampino anche Mattarella e Meloni, camera ardente al Celio",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/atterrato-a-ciampino-laereo-con-le-salme-dei-militari-morti-in-bosnia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
-   "description": "Ad accogliere i feretri all'aeroporto di Ciampino Mattarella e Meloni",
-   "pub_ts": 1793631545,
+   "title": "In Italia le salme dei quattro militari morti in Bosnia, al Celio la camera ardente",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/in-italia-le-salme-dei-quattro-militari-morti-in-bosnia-al-celio-la-camera-ardente_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
+   "description": "Mattarella e Meloni a Ciampino con i familiari delle vittime. Martedì i funerali",
+   "pub_ts": 1793644898,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
