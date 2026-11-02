@@ -1,6 +1,6 @@
 {
- "generated_at": 1793615293,
- "updated_at": 1793615293,
+ "generated_at": 1793615414,
+ "updated_at": 1793615414,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -130,6 +130,28 @@
   {
    "category": "politica",
    "area": "mondo",
+   "title": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live",
+   "summary": "In Ukraine, the app started to send out alarming fake messages late on Sunday night Back to the cyber warfare we saw last night in the app hacking in Ukraine, and then Russia. As I noted earlier, this was direct attack on a core channel of communications between Ukrainian authorities and citizens; this app is embedded in everyday life in a war zone. Disinformation is as much a part of war as…",
+   "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+   "pub_ts": 1793615100,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "The Guardian World",
+     "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+     "title": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live"
+    },
+    {
+     "name": "France 24",
+     "link": "https://www.france24.com/en/video/20261102-ukraine-and-russia-both-hit-by-cyberattacks-on-emergency-apps",
+     "title": "Ukraine and Russia both hit by cyberattacks on emergency apps"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'",
    "summary": "Il messaggio agli elettori, 'mai così tanti americani al lavoro'",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_7e049007-2213-47b4-a6e3-827a942aa790.html",
@@ -173,23 +195,6 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Iran, pronti a riaprire Hormuz in 2 giorni se Usa accettano condizioni",
-   "summary": "Invece dei 7 inizialmente previsti dai colloqui",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/iran-pronti-a-riaprire-hormuz-in-2-giorni-se-usa-accettano-condizioni_8d60d04e-312a-4cff-b205-b6f223f1e34a.html",
-   "pub_ts": 1793610332,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/iran-pronti-a-riaprire-hormuz-in-2-giorni-se-usa-accettano-condizioni_8d60d04e-312a-4cff-b205-b6f223f1e34a.html",
-     "title": "Iran, pronti a riaprire Hormuz in 2 giorni se Usa accettano condizioni"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
    "title": "Il governo belga in crisi sulla manovra, possibili dimissioni di De Wever",
    "summary": "Il premier si gioca l'ultima carta, in mattinata dal Re Filippo I",
@@ -219,6 +224,23 @@
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-stretta-sugli-aumenti-degli-stipendi-dei-magistrati-rivisti-i-criteri_20031262-e476-45eb-82ee-0356dd37c56f.html",
      "title": "Manovra: stretta sugli aumenti degli stipendi dei magistrati. Altolà dell'Anm"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Palantir AI tech unused or little used by 29 NHS trusts said to have benefited from it",
+   "summary": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health official More than two dozen hospital trusts the NHS claims have benefited from Palantir’s medical data platform are not using all or most of the AI-powered technology, the Guardian can reveal. The 29 hospital trusts that NHS England publicly lists as “realising benefits” from the controversial…",
+   "link": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
+   "pub_ts": 1793614786,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Guardian AI",
+     "link": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
+     "title": "Palantir AI tech unused or little used by 29 NHS trusts said to have benefited from it"
     }
    ]
   },
@@ -270,23 +292,6 @@
      "name": "TechCrunch AI",
      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
      "title": "AI can make tech CEOs’ lives easier. What about everyone else?"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-   "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-   "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-   "pub_ts": 1793497046,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "BBC Technology",
-     "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-     "title": "These firms you've never heard of are feeding fears the AI bubble could burst"
     }
    ]
   },
@@ -517,6 +522,15 @@
    "section": "politica"
   },
   {
+   "title": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+   "description": "In Ukraine, the app started to send out alarming fake messages late on Sunday night Back to the cyber warfare we saw last night in the app hacking in Ukraine, and then Russia. As I noted earlier, this was direct attack on a core channel of communications between Ukrainian authorities and citizens; this app is embedded in everyday life in a war zone. Disinformation is as much a part of war as…",
+   "pub_ts": 1793615100,
+   "source": "The Guardian World",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_7e049007-2213-47b4-a6e3-827a942aa790.html",
    "description": "Il messaggio agli elettori, 'mai così tanti americani al lavoro'",
@@ -531,15 +545,6 @@
    "description": "'Penso a chiedere la conferma agli italiani'. Renzi: 'Blocchiamo il suo disegno'",
    "pub_ts": 1793554774,
    "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Iran, pronti a riaprire Hormuz in 2 giorni se Usa accettano condizioni",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/iran-pronti-a-riaprire-hormuz-in-2-giorni-se-usa-accettano-condizioni_8d60d04e-312a-4cff-b205-b6f223f1e34a.html",
-   "description": "Invece dei 7 inizialmente previsti dai colloqui",
-   "pub_ts": 1793610332,
-   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -560,6 +565,15 @@
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
+  },
+  {
+   "title": "Palantir AI tech unused or little used by 29 NHS trusts said to have benefited from it",
+   "link": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
+   "description": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health official More than two dozen hospital trusts the NHS claims have benefited from Palantir’s medical data platform are not using all or most of the AI-powered technology, the Guardian can reveal. The 29 hospital trusts that NHS England publicly lists as “realising benefits” from the controversial…",
+   "pub_ts": 1793614786,
+   "source": "Guardian AI",
+   "source_priority": 1,
+   "section": "tech"
   },
   {
    "title": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer",
@@ -585,15 +599,6 @@
    "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
    "pub_ts": 1793566678,
    "source": "TechCrunch AI",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-   "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-   "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-   "pub_ts": 1793497046,
-   "source": "BBC Technology",
    "source_priority": 1,
    "section": "tech"
   },
