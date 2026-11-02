@@ -1,0 +1,17 @@
+{
+ "Galileo": "HTTP 415",
+ "EtaBeta Rai": "HTTP 404",
+ "EtaBeta Rai 2": "HTTP 404",
+ "Rai News Tecnologia": "HTTP 404",
+ "Rai News Cultura": "HTTP 404",
+ "Wired Italia B": "HTTP 400",
+ "Wired Italia C": "HTTP 404",
+ "Wired Italia Gadget": "HTTP 404",
+ "Wired Italia Scienza": "HTTP 404",
+ "Il Post A": "HTTP 403",
+ "Il Post Tecnologia": "XML non valido: XML or text declaration not at start of entity: line 2, column 0",
+ "Il Post Scienza": "XML non valido: XML or text declaration not at start of entity: line 2, column 0",
+ "Il Post Mondo": "XML non valido: XML or text declaration not at start of entity: line 2, column 0",
+ "Il Post Italia": "XML non valido: XML or text declaration not at start of entity: line 2, column 0",
+ "Il Post Cultura": "XML non valido: XML or text declaration not at start of entity: line 2, column 0"
+}
