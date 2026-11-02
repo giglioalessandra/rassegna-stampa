@@ -38,7 +38,7 @@ jobs:
           HUB="${HUB_URL:-https://alehyppo.altervista.org/casa/rassegna-stampa/index.php}"
           TESTO=$(python3 -c "
           import json
-          d=json.load(open('cache/rassegna.json'))['items']
+          d=json.load(open('cache/articles.json'))['items']
           t=d[0]['title'][:110] if d else 'La rassegna è pronta'
           print('Buon pranzo! La rassegna stampa è pronta (%d notizie).\nIn apertura: %s' % (len(d), t))")
           curl -fsS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
