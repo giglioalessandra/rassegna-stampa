@@ -41,7 +41,7 @@ RE_ITALIA_POL = re.compile(
     r"govern\w*|manovra|quirinale|palazzo chigi|montecitorio|csm|magistrat\w*|regional\w*|comunal\w*|"
     r"lega|fratelli d'italia|pd|m5s|forza italia|legge di bilancio|ddl|decreto)\b", re.I)
 RE_SPORT_GOSSIP = re.compile(
-    r"\b(comics|parata|star wars|cosplay|wnba|basket|volley|scudetto|olimpiad\w*|gol|mondiali di|coppa|campionato|concert\w*|ricoverat\w*|serie a|champions|calcio|juventus|inter\b|milan\b|napoli|roma\b|lazio|gp\b|formula 1|motogp|"
+    r"\b(formula|f1|antonelli|kimi|ferrari|verstappen|pilota|campione del mondo|titolo mondiale|zanicchi|mediaset|vaffa|reality|tronista|influencer|vip|talk show|televisione|tv show|comics|parata|star wars|cosplay|wnba|basket|volley|scudetto|olimpiad\w*|gol|mondiali di|coppa|campionato|concert\w*|ricoverat\w*|serie a|champions|calcio|juventus|inter\b|milan\b|napoli|roma\b|lazio|gp\b|formula 1|motogp|"
     r"tennis|nba|oroscopo|gossip|grande fratello|sanremo|isola dei famosi|football|premier league)\b", re.I)
 RE_AI = re.compile(
     r"\bai\b|\bia\b|intelligenza artificiale|artificial intelligence|openai|anthropic|claude|chatgpt|gemini|"
@@ -55,6 +55,11 @@ RE_CULTURA = re.compile(
     r"cultur|libr|romanzo|scrittor|film|cinema|regist|festival|mostra|museo|arte\b|artist|teatro|serie tv|"
     r"musica|concerto|album|premio|nobel|strega|oscar|societ|costume|moda|tradizion|giovani|famigli|"
     r"scuola|università|diritti|migranti|book|novel|exhibition|theatre|culture|society|prize", re.I)
+RE_CRIMINE = re.compile(
+    r"\b(arrestat\w*|polizia|carabinieri|omicid\w*|indagat\w*|rapin\w*|furto|spaccio|truffa|fermato|criminalit\w*|"
+    r"police|arrested|murder|robbery)\b", re.I)
+RE_INCIDENTE = re.compile(
+    r"\b(crash\w*|died|dead|killed|incidente|ferroviario|train|schianto|vittime|morti|deragli\w*)\b", re.I)
 RE_GRANDE_EVENTO = re.compile(
     r"strage|terremoto|alluvione|attentato|attacco terroristico|esplosione|crollo|naufragio|"
     r"incendio devastante|disastro|vittime|morti|sequestro|omicidio plurimo|maxi[- ]?operazione|"
@@ -114,20 +119,24 @@ def categoria(g):
     testo = ' '.join(a['title'] for a in g)
     fonti = {a['source'] for a in g}
     cronaca = any(a['source'] == 'ANSA Cronaca' for a in g) and not (sezioni & {'tech', 'varia_scienza', 'varia_cultura'})
-    if RE_SPORT_GOSSIP.search(testo) and not (sezioni & {'tech', 'varia_scienza'}):
+    if RE_SPORT_GOSSIP.search(testo):
         return None
-    if sezioni & {'tech'} and RE_AI.search(testo):
-        return 'tech'
-    if sezioni & {'varia_scienza', 'varia_cultura'}:
-        return 'varia'
-    if RE_POLITICA.search(testo) and sezioni & POLITICA:
-        return 'politica'
-    if cronaca or (sezioni & POLITICA):
-        if RE_GRANDE_EVENTO.search(testo) and len(fonti) >= 3:
-            return 'cronaca'
-        return None
+    # AI/tech: il titolo deve parlare davvero di AI o tecnologia
     if sezioni & {'tech'}:
-        return 'tech'
+        return 'tech' if RE_AI.search(testo) else None
+    # Varia: niente incidenti o grandi eventi (vanno in cronaca o restano fuori)
+    if sezioni & {'varia_scienza', 'varia_cultura'}:
+        if RE_INCIDENTE.search(testo) or RE_GRANDE_EVENTO.search(testo):
+            return None
+        return 'varia'
+    # Grandi eventi di cronaca (anche se arrivano dalle sezioni politiche)
+    if RE_GRANDE_EVENTO.search(testo) and len(fonti) >= 3 and (cronaca or RE_INCIDENTE.search(testo)):
+        return 'cronaca'
+    # Politica: serve un riferimento politico nel titolo; la cronaca nera non vale
+    if RE_POLITICA.search(testo) and sezioni & POLITICA:
+        if RE_CRIMINE.search(testo) and not RE_ITALIA_POL.search(testo):
+            return None
+        return 'politica'
     return None
 
 
