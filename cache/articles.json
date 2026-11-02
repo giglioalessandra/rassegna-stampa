@@ -1,6 +1,6 @@
 {
- "generated_at": 1793616455,
- "updated_at": 1793616455,
+ "generated_at": 1793617422,
+ "updated_at": 1793617422,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -36,38 +36,6 @@
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/",
      "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "La Bulgaria conferma la filorussa Yotova, battuto l'europeista Ghiurov",
-   "summary": "Contraria alle sanzioni, preme per il dialogo con Mosca. Bassa l'affluenza, meno del 30%",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/01/la-bulgaria-conferma-la-filorussa-yotova-battuto-leuropeista-ghiurov_16bd5dad-caaf-47d0-8228-470def3c9a5b.html",
-   "pub_ts": 1793608542,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/01/la-bulgaria-conferma-la-filorussa-yotova-battuto-leuropeista-ghiurov_16bd5dad-caaf-47d0-8228-470def3c9a5b.html",
-     "title": "La Bulgaria conferma la filorussa Yotova, battuto l'europeista Ghiurov"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/exit-poll-la-presidente-yotova-vince-il-ballottaggio-in-bulgaria_2b0ce8ea-aeac-402a-9467-3097e8d028be.html",
-     "title": "Exit poll, la presidente Yotova vince il ballottaggio in Bulgaria"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/02/iliana-yotova-elezioni-bulgaria-ballottaggio-chi-ha-vinto/",
-     "title": "La Bulgaria ha una nuova presidente favorevole a riavvicinarsi alla Russia"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/02/elezioni-bulgaria-yotova-rieletta-notizie/8557332/",
-     "title": "Bulgaria, Yliana Yotova confermata presidente. Socialista ed europeista, promuove l’approccio diplomatico con la Russia: chi è"
     }
    ]
   },
@@ -181,6 +149,28 @@
   },
   {
    "category": "politica",
+   "area": "italia",
+   "title": "Attese in Italia le salme dei quattro militari morti in Bosnia",
+   "summary": "L'areo militare atterrerà a Ciampino. Un sopravvissuto: 'L'impatto è stato violentissimo'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/lunedi-in-italia-le-salme-dei-quattro-militari-morti-in-bosnia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
+   "pub_ts": 1793617140,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/lunedi-in-italia-le-salme-dei-quattro-militari-morti-in-bosnia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
+     "title": "Attese in Italia le salme dei quattro militari morti in Bosnia"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/le-salme-dei-quattro-militari-italiani-morti-in-bosnia-a-ciampino-accolti-da-meloni-e-matterella-7ad3d824-5cb2-47f3-a3f0-c3fe0c3e87c9.html",
+     "title": "Le salme dei quattro militari italiani morti in Bosnia a Ciampino, accolti da Meloni e Matterella"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "mondo",
    "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
    "summary": "Media, focus sul cessate il fuoco lungo la linea del fronte e il rispetto degli accordi",
@@ -198,6 +188,28 @@
      "name": "Rai News",
      "link": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-finita-tregua-oleshky-zelensky-pronto-incontro-poutin-in-turchia-85fd93b2-6e4a-4420-a8c0-1885a24d3aaf.html",
      "title": "Cyberattacchi in Russia e Ucraina dopo fine tregua. Zelensky pronto a vedere Putin in Turchia"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Jill Lepore: “Le elezioni dominate da IA e data center, ma negli Usa è rivolta”",
+   "summary": "La docente di Harvard: “L’impatto ambientale di quelle strutture sta molto a cuore alla gente, e non creano posti di lavoro”",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/jill_lepore_midterm_elezioni_ia_e_data_center_usa-425693273/?rss",
+   "pub_ts": 1793612663,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/jill_lepore_midterm_elezioni_ia_e_data_center_usa-425693273/?rss",
+     "title": "Jill Lepore: “Le elezioni dominate da IA e data center, ma negli Usa è rivolta”"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/jill_lepore_midterm_elezioni_ia_e_data_center_usa-425693273/",
+     "title": "Jill Lepore: “Le elezioni dominate da IA e data center, ma negli Usa è rivolta”"
     }
    ]
   },
@@ -246,23 +258,6 @@
    ]
   },
   {
-   "category": "politica",
-   "area": "italia",
-   "title": "Il governo belga in crisi sulla manovra, possibili dimissioni di De Wever",
-   "summary": "Il premier si gioca l'ultima carta, in mattinata dal Re Filippo I",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-governo-belga-in-crisi-sulla-manovra-possibili-dimissioni-di-de-wever_a680a19d-e365-4744-9633-d9d37c9cd87a.html",
-   "pub_ts": 1793610247,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-governo-belga-in-crisi-sulla-manovra-possibili-dimissioni-di-de-wever_a680a19d-e365-4744-9633-d9d37c9cd87a.html",
-     "title": "Il governo belga in crisi sulla manovra, possibili dimissioni di De Wever"
-    }
-   ]
-  },
-  {
    "category": "tech",
    "area": null,
    "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'",
@@ -287,6 +282,40 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Carceri, un algoritmo per valutare il rischio di violenza. Il test del Michigan e le incognite IA",
+   "summary": "Dal primo dicembre lo Stato americano sperimenterà un nuovo sistema IA per classificare i detenuti in base al livello di sicurezza. Le autorità prevedono stime più precise del 30%, mentre studi e precedenti federali mostrano quanto pesino qualità dei dati, errori e possibilità...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/02/news/carceri_algoritmo_rischio_test_ia-425693428/?rss",
+   "pub_ts": 1793617074,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/02/news/carceri_algoritmo_rischio_test_ia-425693428/?rss",
+     "title": "Carceri, un algoritmo per valutare il rischio di violenza. Il test del Michigan e le incognite IA"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Papa Leone XIV: l’intelligenza artificiale deve essere disarmata",
+   "summary": "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, ovvero non può essere utilizzata per lo sviluppo di armi autonome. The post Papa Leone XIV: l’intelligenza artificiale deve essere disarmata appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/papa-leone-xiv-intelligenza-artificiale-deve-essere-disarmata/",
+   "pub_ts": 1793617322,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/papa-leone-xiv-intelligenza-artificiale-deve-essere-disarmata/",
+     "title": "Papa Leone XIV: l’intelligenza artificiale deve essere disarmata"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "Abbiamo trovato l’invenzione più inutile del 2026: la candela AI",
    "summary": "Una rete neurale addestrata sul comportamento di vere candele in cera alimenta un dispositivo venduto al prezzo di 149 dollari: perché? The post Abbiamo trovato l’invenzione più inutile del 2026: la candela AI appeared first on Punto Informatico .",
    "link": "https://www.punto-informatico.it/invenzione-piu-inutile-2026-candela-ai/",
@@ -298,40 +327,6 @@
      "name": "Punto Informatico",
      "link": "https://www.punto-informatico.it/invenzione-piu-inutile-2026-candela-ai/",
      "title": "Abbiamo trovato l’invenzione più inutile del 2026: la candela AI"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "ChatGPT: link condiviso permetteva di leggere le chat private",
-   "summary": "Una vulnerabilità di ChatGPT consentiva di accedere alle conversazioni private attraverso un link condiviso e l'anteprima della pagina web. The post ChatGPT: link condiviso permetteva di leggere le chat private appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/chatgpt-link-condiviso-permette-leggere-chat-private/",
-   "pub_ts": 1793613015,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/chatgpt-link-condiviso-permette-leggere-chat-private/",
-     "title": "ChatGPT: link condiviso permetteva di leggere le chat private"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Ray-Ban Meta, 4 impostazioni da cambiare prima di uscire di casa",
-   "summary": "Gli occhiali Ray-Ban Meta ascoltano, scattano foto e inviano immagini all'AI. Ecco le 4 impostazioni da controllare prima di indossarli. The post Ray-Ban Meta, 4 impostazioni da cambiare prima di uscire di casa appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/ray-ban-meta-4-impostazioni-cambiare-prima-uscire-casa/",
-   "pub_ts": 1793611433,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/ray-ban-meta-4-impostazioni-cambiare-prima-uscire-casa/",
-     "title": "Ray-Ban Meta, 4 impostazioni da cambiare prima di uscire di casa"
     }
    ]
   },
@@ -366,17 +361,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "L'impegno sociale di Maria Ponti Pasolini in mostra a Ravenna",
-   "summary": "Dal 6 novembre la sua personalità 'a fuoco' alla biblioteca Classense",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/limpegno-sociale-di-maria-ponti-pasolini-in-mostra-a-ravenna_0a2480e7-82d4-4d2f-ad31-64da4e2644c5.html",
-   "pub_ts": 1793615954,
+   "title": "Guadagnino e Moretti tra le stelle del Festival del film di Marrakech",
+   "summary": "Svelato il programma della 23/a edizione che apre con Julianne Moore diretta da Eisemberg",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/guadagnino-e-moretti-tra-le-stelle-del-festival-del-film-di-marrakech_d1cf0064-67a6-41e4-9116-00431dca8bfb.html",
+   "pub_ts": 1793616682,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/limpegno-sociale-di-maria-ponti-pasolini-in-mostra-a-ravenna_0a2480e7-82d4-4d2f-ad31-64da4e2644c5.html",
-     "title": "L'impegno sociale di Maria Ponti Pasolini in mostra a Ravenna"
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/guadagnino-e-moretti-tra-le-stelle-del-festival-del-film-di-marrakech_d1cf0064-67a6-41e4-9116-00431dca8bfb.html",
+     "title": "Guadagnino e Moretti tra le stelle del Festival del film di Marrakech"
     }
    ],
    "subtype": "cultura"
@@ -384,17 +379,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "La Treccani celebra Gigi Riva \"rombo di tuono\" nella collana 'Miti Italiani'",
-   "summary": "Il volume sarà presentato il 7 novembre a Cagliari",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/la-treccani-celebra-gigi-riva-rombo-di-tuono-nella-collana-miti-italiani_fb28e12a-2ee8-4cf5-aa7e-2acbc78991d8.html",
-   "pub_ts": 1793613955,
+   "title": "A Salerno l'armata di Max Papeschi, 46 sculture all'insegna della pace",
+   "summary": "Installazione dal 7 novembre al 4 aprile rilegge in chiave ironica l'immaginario militare",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/a-salerno-larmata-di-max-papeschi-46-sculture-allinsegna-della-pace_2f94ac69-8835-4d15-9d27-ad896ebe3c65.html",
+   "pub_ts": 1793616527,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/la-treccani-celebra-gigi-riva-rombo-di-tuono-nella-collana-miti-italiani_fb28e12a-2ee8-4cf5-aa7e-2acbc78991d8.html",
-     "title": "La Treccani celebra Gigi Riva \"rombo di tuono\" nella collana 'Miti Italiani'"
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/a-salerno-larmata-di-max-papeschi-46-sculture-allinsegna-della-pace_2f94ac69-8835-4d15-9d27-ad896ebe3c65.html",
+     "title": "A Salerno l'armata di Max Papeschi, 46 sculture all'insegna della pace"
     }
    ],
    "subtype": "cultura"
@@ -442,7 +437,7 @@
    "summary": "Sono una italo-argentina e una italo-venezuelana",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/identificate-le-due-vittime-italiane-dellincidente-ferroviario-di-toledo-_ff2f24c6-eabc-4e8d-b16c-f02c4408dc60.html",
    "pub_ts": 1793614331,
-   "n_sources": 8,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
@@ -479,11 +474,6 @@
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/cronaca/2026/11/02/news/scontro_treni_toledo_vittime_italiane_millan_parlanti_conte_grant-425693138/",
      "title": "Spagna, identificate le due vittime italiane dell'incidente ferroviario di Toledo"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/02/incidente-ferroviario-spagna-vittime-italiane-notizie/8557370/",
-     "title": "Identificate le due vittime italiane dell’incidente ferroviario in Spagna: sono Ana Martina Conte Grand e Daniela Millan Parlanti"
     }
    ]
   },
@@ -531,15 +521,6 @@
    "section": "politica"
   },
   {
-   "title": "La Bulgaria conferma la filorussa Yotova, battuto l'europeista Ghiurov",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/01/la-bulgaria-conferma-la-filorussa-yotova-battuto-leuropeista-ghiurov_16bd5dad-caaf-47d0-8228-470def3c9a5b.html",
-   "description": "Contraria alle sanzioni, preme per il dialogo con Mosca. Bassa l'affluenza, meno del 30%",
-   "pub_ts": 1793608542,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Israele, Eisenkot cerca alleati, guarda agli arabi di Ra'am e agli ultraortodossi",
    "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/israele-eisenkot-cerca-alleati-guarda-agli-arabi-di-raam-e-agli-ultraortodossi_9aa5e803-daf0-4591-b0c6-ea26ce02a358.html",
    "description": "Mercoledì le consultazioni. Mancano i numeri per il governo, ma non per la Knesset",
@@ -576,11 +557,29 @@
    "section": "politica"
   },
   {
+   "title": "Attese in Italia le salme dei quattro militari morti in Bosnia",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/lunedi-in-italia-le-salme-dei-quattro-militari-morti-in-bosnia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
+   "description": "L'areo militare atterrerà a Ciampino. Un sopravvissuto: 'L'impatto è stato violentissimo'",
+   "pub_ts": 1793617140,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_e38af278-858a-401f-b271-d12e06ea5154.html",
    "description": "Media, focus sul cessate il fuoco lungo la linea del fronte e il rispetto degli accordi",
    "pub_ts": 1793614920,
    "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Jill Lepore: “Le elezioni dominate da IA e data center, ma negli Usa è rivolta”",
+   "link": "https://www.repubblica.it/esteri/2026/11/02/news/jill_lepore_midterm_elezioni_ia_e_data_center_usa-425693273/?rss",
+   "description": "La docente di Harvard: “L’impatto ambientale di quelle strutture sta molto a cuore alla gente, e non creano posti di lavoro”",
+   "pub_ts": 1793612663,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -603,15 +602,6 @@
    "section": "politica"
   },
   {
-   "title": "Il governo belga in crisi sulla manovra, possibili dimissioni di De Wever",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-governo-belga-in-crisi-sulla-manovra-possibili-dimissioni-di-de-wever_a680a19d-e365-4744-9633-d9d37c9cd87a.html",
-   "description": "Il premier si gioca l'ultima carta, in mattinata dal Re Filippo I",
-   "pub_ts": 1793610247,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_c8b77dae-e591-4912-8e75-c76dacaeed0e.html",
    "description": "Alex Scheffler alla Bbc: \"Violano il diritto d'autore riproducendo la mia opera\"",
@@ -621,28 +611,28 @@
    "section": "tech"
   },
   {
+   "title": "Carceri, un algoritmo per valutare il rischio di violenza. Il test del Michigan e le incognite IA",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/02/news/carceri_algoritmo_rischio_test_ia-425693428/?rss",
+   "description": "Dal primo dicembre lo Stato americano sperimenterà un nuovo sistema IA per classificare i detenuti in base al livello di sicurezza. Le autorità prevedono stime più precise del 30%, mentre studi e precedenti federali mostrano quanto pesino qualità dei dati, errori e possibilità...",
+   "pub_ts": 1793617074,
+   "source": "Repubblica Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Papa Leone XIV: l’intelligenza artificiale deve essere disarmata",
+   "link": "https://www.punto-informatico.it/papa-leone-xiv-intelligenza-artificiale-deve-essere-disarmata/",
+   "description": "Papa Leone XIV ha ricordato che l'intelligenza artificiale deve essere disarmata, ovvero non può essere utilizzata per lo sviluppo di armi autonome. The post Papa Leone XIV: l’intelligenza artificiale deve essere disarmata appeared first on Punto Informatico .",
+   "pub_ts": 1793617322,
+   "source": "Punto Informatico",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
    "title": "Abbiamo trovato l’invenzione più inutile del 2026: la candela AI",
    "link": "https://www.punto-informatico.it/invenzione-piu-inutile-2026-candela-ai/",
    "description": "Una rete neurale addestrata sul comportamento di vere candele in cera alimenta un dispositivo venduto al prezzo di 149 dollari: perché? The post Abbiamo trovato l’invenzione più inutile del 2026: la candela AI appeared first on Punto Informatico .",
    "pub_ts": 1793614241,
-   "source": "Punto Informatico",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "ChatGPT: link condiviso permetteva di leggere le chat private",
-   "link": "https://www.punto-informatico.it/chatgpt-link-condiviso-permette-leggere-chat-private/",
-   "description": "Una vulnerabilità di ChatGPT consentiva di accedere alle conversazioni private attraverso un link condiviso e l'anteprima della pagina web. The post ChatGPT: link condiviso permetteva di leggere le chat private appeared first on Punto Informatico .",
-   "pub_ts": 1793613015,
-   "source": "Punto Informatico",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Ray-Ban Meta, 4 impostazioni da cambiare prima di uscire di casa",
-   "link": "https://www.punto-informatico.it/ray-ban-meta-4-impostazioni-cambiare-prima-uscire-casa/",
-   "description": "Gli occhiali Ray-Ban Meta ascoltano, scattano foto e inviano immagini all'AI. Ecco le 4 impostazioni da controllare prima di indossarli. The post Ray-Ban Meta, 4 impostazioni da cambiare prima di uscire di casa appeared first on Punto Informatico .",
-   "pub_ts": 1793611433,
    "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
@@ -657,19 +647,19 @@
    "section": "varia"
   },
   {
-   "title": "L'impegno sociale di Maria Ponti Pasolini in mostra a Ravenna",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/limpegno-sociale-di-maria-ponti-pasolini-in-mostra-a-ravenna_0a2480e7-82d4-4d2f-ad31-64da4e2644c5.html",
-   "description": "Dal 6 novembre la sua personalità 'a fuoco' alla biblioteca Classense",
-   "pub_ts": 1793615954,
+   "title": "Guadagnino e Moretti tra le stelle del Festival del film di Marrakech",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/guadagnino-e-moretti-tra-le-stelle-del-festival-del-film-di-marrakech_d1cf0064-67a6-41e4-9116-00431dca8bfb.html",
+   "description": "Svelato il programma della 23/a edizione che apre con Julianne Moore diretta da Eisemberg",
+   "pub_ts": 1793616682,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "La Treccani celebra Gigi Riva \"rombo di tuono\" nella collana 'Miti Italiani'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/la-treccani-celebra-gigi-riva-rombo-di-tuono-nella-collana-miti-italiani_fb28e12a-2ee8-4cf5-aa7e-2acbc78991d8.html",
-   "description": "Il volume sarà presentato il 7 novembre a Cagliari",
-   "pub_ts": 1793613955,
+   "title": "A Salerno l'armata di Max Papeschi, 46 sculture all'insegna della pace",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/a-salerno-larmata-di-max-papeschi-46-sculture-allinsegna-della-pace_2f94ac69-8835-4d15-9d27-ad896ebe3c65.html",
+   "description": "Installazione dal 7 novembre al 4 aprile rilegge in chiave ironica l'immaginario militare",
+   "pub_ts": 1793616527,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
