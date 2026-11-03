@@ -1,6 +1,6 @@
 {
- "generated_at": 1793661778,
- "updated_at": 1793661778,
+ "generated_at": 1793686434,
+ "updated_at": 1793686434,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,61 +9,19 @@
  "items": [
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence",
-   "summary": "Il sottosegretario Mantovano vedrà anche l'Agenzia per la Cybersicurezza dopo i casi in Sicilia. Problemi in Belgio, Svezia e altri Paesi. Tonnellate di cibo a rischio",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
-   "pub_ts": 1793649920,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
-     "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_c475b1b2-184c-4001-b904-2a40ac6fd530.html",
-     "title": "Attacchi hacker ai supermercati, si muove anche il Copasir"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/domani-a-palazzo-chigi-riunione-con-mantovano-e-i-servizi-su-attacchi-hacker_0ea74377-d447-4d9b-918a-eafe85d7a50b.html",
-     "title": "Domani a Palazzo Chigi riunione con Mantovano e i Servizi su attacchi hacker"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/attacchi-hacker-ai-supermercati-frigoriferi-in-tilt-in-emilia-romagna-toscana-e-sicilia-8be75884-b245-4402-a30b-d76c651f6080.html",
-     "title": "Attacchi hacker ai supermercati: frigoriferi in tilt in Emilia Romagna, Toscana e Sicilia"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/02/supermercati-frigoriferi-hacker-italia-sicilia/",
-     "title": "Anche l’Italia colpita dagli attacchi hacker ai supermercati, frigo in tilt a Catania e Palermo. Chigi convoca un vertice d’urgenza"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/attacco-informatico-ai-congelatori-europei-allerta-anche-in-italia-supermercati-v8jo8wam",
-     "title": "Giallo cyber-attacchi in mezza Europa. Colpita anche l’Italia"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/cyberattacco-supermercati-europa_7gwduwytgj4j9r6C2pXVVv",
-     "title": "Cyberattacchi ai supermercati, frigoriferi in tilt in Europa: \"Hacker in azione, congelatori impostati a 50 gradi\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "mondo",
-   "title": "L'ultimo appello di Trump, 'votate e fermiamo comunisti e jihadisti'",
-   "summary": "'Con loro un nuovo 1929'. Ma per i sondaggi i dem avanti in tutti gli Stati chiave",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-   "pub_ts": 1793660871,
-   "n_sources": 5,
+   "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”",
+   "summary": "Il presidente mostra al comizio le foto dei lavori al Lincoln Memorial, poi ricorda che il suo nome è sulla scheda: “Sono elezioni decisive”",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/?rss",
+   "pub_ts": 1793664000,
+   "n_sources": 6,
    "documented": true,
    "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/?rss",
+     "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”"
+    },
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
@@ -75,14 +33,14 @@
      "title": "Trump, 'le midterm più importanti della storia, dai dem candidati jihadisti'"
     },
     {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/",
+     "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”"
+    },
+    {
      "name": "Open",
      "link": "https://www.open.online/2026/11/03/midterm-2026-ultimo-appello-trump-jihadisti-comunisti/",
      "title": "Midterm Usa, l’ultimo appello di Trump: «Votate e fermiamo comunisti e jihadisti»"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-c28c044e-836e-49ee-987a-240d4ed4be95.html",
-     "title": "Midterm, l'ultimo appello di Trump: \"Votate e fermiamo comunisti e jihadisti\""
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -130,153 +88,28 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni",
-   "summary": "'Il Paese non può permettersi una crisi politica prolungata in questo momento'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
-   "pub_ts": 1793641081,
+   "area": "mondo",
+   "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California",
+   "summary": "L’amministrazione guidata dal tycoon aveva ipotizzato che le schede per corrispondenza fossero state consegnate a persone non in possesso della cittadinanza americana",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
+   "pub_ts": 1793663150,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
-     "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/02/il-paradosso-delle-pensioni-nella-legge-di-bilancio/",
-     "title": "Il paradosso delle pensioni nella legge di bilancio"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/belgio-il-premier-si-dimette-per-il-mancato-accordo-sulla-legge-di-bilancio-il-re-consultazioni-75e3d678-d203-4c34-a730-de0d52750c31.html",
-     "title": "Belgio, il premier si dimette per il mancato accordo sulla legge di bilancio, il re: \"Consultazioni\""
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/belgio-premier-de-wever-rassegna-dimissioni-re-filippo-avvia-consultazioni-AJeg8k1B",
-     "title": "Belgio: il premier De Wever rassegna le dimissioni, re Filippo I avvia consultazioni"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump, 'prezzi del petrolio crollano, un accordo con l'Iran può avvenire!'",
-   "summary": "'Teheran lo vuole, il prima possibile'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/trump-prezzi-del-petrolio-crollano-un-accordo-con-liran-puo-avvenire_d8544b65-3e10-4f2b-ab98-9ad890d84451.html",
-   "pub_ts": 1793654140,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/trump-prezzi-del-petrolio-crollano-un-accordo-con-liran-puo-avvenire_d8544b65-3e10-4f2b-ab98-9ad890d84451.html",
-     "title": "Trump, 'prezzi del petrolio crollano, un accordo con l'Iran può avvenire!'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-iran-piano-usa_4KSOIuUeQAICHrJZwTVGjv",
-     "title": "Iran presenta piano agli Usa per la riapertura di Hormuz. Trump: \"Vicini ad accordo o alla vittoria\""
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/europa-e-usa-positive-crollano-petrolio-e-gas-sulle-speranze-di-dialogo-tra-usa-e-iran-68f6a6c0-c0b1-4506-b35c-0d58fcb2d2bf.html",
-     "title": "Europa e Usa positive, crollano petrolio e gas sulle speranze di dialogo tra Usa e Iran"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Michigan, la rivale di El-Sayed alle primarie voterà per il repubblicano: anche lo staff la scarica",
-   "summary": "La democratica Haley Stevens ha annunciato l’endorsement a Mike Rogers dopo essersi scontrata con il medico musulmano su uno spot che accusava Israele dell’aumento dei prezzi negli Usa. Trump: “Scelta coraggiosa, la vogliamo con noi”. Rabbia nel partito",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/michigan_haley_stevens_la_rivale_di_el-sayed_vota_per_il_repubblicano-425693590/?rss",
-   "pub_ts": 1793623902,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/michigan_haley_stevens_la_rivale_di_el-sayed_vota_per_il_repubblicano-425693590/?rss",
-     "title": "Michigan, la rivale di El-Sayed alle primarie voterà per il repubblicano: anche lo staff la scarica"
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
+     "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/usa-perche-e-shock-strappo-michigan-conteso-dem-appoggia-repubblicano-e-scarica-el-sayed-AJmALj1B",
-     "title": "Usa, perché è uno shock lo strappo in Michigan: la dem Stevens appoggia il repubblicano e scarica El Sayed"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/corte-suprema-usa-boccia-richiesta-trump-su-blocco-20.000-voti-in-california_2b456d9e-d93d-45a7-9469-eeb17400cf64.html",
+     "title": "Corte Suprema Usa boccia richiesta Trump su blocco 20.000 voti in California"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/michigan_haley_stevens_la_rivale_di_el-sayed_vota_per_il_repubblicano-425693590/",
-     "title": "Michigan, la rivale di El-Sayed alle primarie voterà per il repubblicano: anche lo staff la scarica"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra",
-   "summary": "Corsa contro il tempo a Tel Aviv: Bibi spera nel conflitto prima che ci sia un nuovo governo. La sinistra, la destra di Liebermann e Bennett sostengono Eisenkot come premier. Sul tavolo, l’appoggio esterno delle formazioni palestinesi",
-   "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
-   "pub_ts": 1793649521,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
-     "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/diretta/guerra_iran_usa_israele_news_oggi-425692704/",
-     "title": "Guerra in Iran, le news. Netanyahu: “Aperto al dialogo per un ampio governo, mai con partiti arabi”"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/02/iran-usa-khamenei-negoziati-notizie/8558071/",
-     "title": "Iran, via libera dell’ayatollah Khamenei a trattare con gli Usa: “Presentato piano a Washington”. Crolla il prezzo del petrolio"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Israele, i partiti arabi pronti a indicare Eisenkot primo ministro",
-   "summary": "Passi avanti tra gli anti-Netanyahu e i palestinesi. Bibi sente Trump: vuole la guerra all’Iran per restare al governo",
-   "link": "https://www.repubblica.it/esteri/2026/11/01/news/elezioni_israele_piano_eisenkot_governo_astensione_arabi_partito_ultraortodossi-425691765/?rss",
-   "pub_ts": 1793644299,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/01/news/elezioni_israele_piano_eisenkot_governo_astensione_arabi_partito_ultraortodossi-425691765/?rss",
-     "title": "Israele, i partiti arabi pronti a indicare Eisenkot primo ministro"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/02/governo-israele-lieberman-eisenkot-notizie/8557739/",
-     "title": "Israele, da mercoledì le consultazioni del presidente Herzog. Partiti arabi verso l’appoggio a Eisenkot, ma la strada dell’opposizione resta in salita"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump chiede intervento Corte Suprema sul blocco dei voti in California",
-   "summary": "Dopo che la corte d'appello ha bocciato la richiesta sul blocco 20.000 voti",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-chiede-intervento-corte-suprema-sul-blocco-dei-voti-in-california_5d410039-443b-4b94-9c92-0fff9941d7a9.html",
-   "pub_ts": 1793643326,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-chiede-intervento-corte-suprema-sul-blocco-dei-voti-in-california_5d410039-443b-4b94-9c92-0fff9941d7a9.html",
-     "title": "Trump chiede intervento Corte Suprema sul blocco dei voti in California"
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/",
+     "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California"
     },
     {
      "name": "Il Post",
@@ -287,23 +120,222 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa",
-   "summary": "L’election day di domani è la somma di molte consultazioni diverse: per il Congresso, si rinnovano tutti i 435 seggi della Camera dei Rappresentanti e 35 seggi su 100 del Senato. Ma si voterà anche per molte altre cariche locali",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/?rss",
-   "pub_ts": 1793642543,
-   "n_sources": 2,
+   "area": "mondo",
+   "title": "Il tradimento che scuote i dem: Stevens appoggia il repubblicano. Ora El-Sayed rischia in Michigan",
+   "summary": "Aveva perso le primarie, ma promesso l’appoggio al candidato della sinistra: poi il voltafaccia",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/michigan_midterm_haley_stevens_repubblicano_el_sayed-425694863/?rss",
+   "pub_ts": 1793664000,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/?rss",
-     "title": "Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa"
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/michigan_midterm_haley_stevens_repubblicano_el_sayed-425694863/?rss",
+     "title": "Il tradimento che scuote i dem: Stevens appoggia il repubblicano. Ora El-Sayed rischia in Michigan"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/",
-     "title": "Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa"
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/michigan_midterm_haley_stevens_repubblicano_el_sayed-425694863/",
+     "title": "Il tradimento che scuote i dem: Stevens appoggia il repubblicano. Ora El-Sayed rischia in Michigan"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/usa-perche-e-shock-strappo-michigan-conteso-dem-appoggia-repubblicano-e-scarica-el-sayed-AJmALj1B",
+     "title": "Usa, perché è uno shock lo strappo in Michigan: la dem Stevens appoggia il repubblicano e scarica El Sayed"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Droni ucraini colpiscono una raffineria di petrolio in Russia",
+   "summary": "A 250 chilometri da Mosca, segnalati incendi nell'impianto",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/droni-ucraini-colpiscono-una-raffineria-di-petrolio-in-russia_d6f87d43-f2cd-4c13-99f2-e9900a15ca15.html",
+   "pub_ts": 1793682180,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/droni-ucraini-colpiscono-una-raffineria-di-petrolio-in-russia_d6f87d43-f2cd-4c13-99f2-e9900a15ca15.html",
+     "title": "Droni ucraini colpiscono una raffineria di petrolio in Russia"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-bombe-russe-centro-aiuti-morti-trilaterale-russia-usa-ucraina-10-e-11-novembre-abu-dhabi-7caf9279-7197-473c-affe-74ed8f50cbaa.html",
+     "title": "Attacco russo a Dnipro. Droni su raffineria a Yaroslavl. Verso trilaterale Russia-Usa-Ucraina"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'",
+   "summary": "'Loro desiderano ardentemente un'intesa, noi agiamo da una posizione di totale forza'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_c9eeacb4-c9f2-4b85-99b4-c0fecffad406.html",
+   "pub_ts": 1793675502,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_c9eeacb4-c9f2-4b85-99b4-c0fecffad406.html",
+     "title": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-iran-piano-usa_4KSOIuUeQAICHrJZwTVGjv",
+     "title": "Iran presenta piano agli Usa per la riapertura di Hormuz. Trump: \"Vicini ad accordo o alla vittoria\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Midterm Usa, non solo il Congresso: i dem sognano di riconquistare la maggioranza dei governatori",
+   "summary": "(Adnkronos) - Dalla Georgia al Texas, passando per Ohio e Alaska, le sfide che potrebbero ridisegnare la mappa politica americana",
+   "link": "https://www.adnkronos.com/internazionale/esteri/midterm-2026-sogno-dem-governatori-maggioranza_3soV4DEZLp0DnAHcjoq7kd",
+   "pub_ts": 1793681880,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/midterm-2026-sogno-dem-governatori-maggioranza_3soV4DEZLp0DnAHcjoq7kd",
+     "title": "Midterm Usa, non solo il Congresso: i dem sognano di riconquistare la maggioranza dei governatori"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/midterm-in-gioco-non-solo-il-congresso-lopa-islamo-comunista-sui-dem/",
+     "title": "Midterm, in gioco non solo il Congresso: l’Opa islamo-comunista sui Dem"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Iran, via libera di Khamenei al governo per negoziare con gli Usa. Prezzo del petrolio a -7%",
+   "summary": "Israele bombarda Gaza, altri 5 morti. Da mercoledì le consultazioni: Eisenkot a caccia di alleati. Trump ottimista sui negoziati con Teheran, ma gli USA attaccano l'isola di Qeshm",
+   "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-via-libera-khamenei-al-governo-per-negoziare-con-usa-cala-prezzo-petrolio-0b09617e-b59e-4e4e-84ed-00c15ebf672d.html",
+   "pub_ts": 1793672880,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-via-libera-khamenei-al-governo-per-negoziare-con-usa-cala-prezzo-petrolio-0b09617e-b59e-4e4e-84ed-00c15ebf672d.html",
+     "title": "Iran, via libera di Khamenei al governo per negoziare con gli Usa. Prezzo del petrolio a -7%"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
+     "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni",
+   "summary": "'Il Paese non può permettersi una crisi politica prolungata in questo momento'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
+   "pub_ts": 1793618660,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
+     "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/belgio-premier-de-wever-rassegna-dimissioni-re-filippo-avvia-consultazioni-AJeg8k1B",
+     "title": "Belgio: il premier De Wever rassegna le dimissioni, re Filippo I avvia consultazioni"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video",
+   "summary": "A Otto e Mezzo il procuratore capo di Napoli interviene sulla scarcerazione del ricercatore trentenne e replica agli attacchi della politica: «Non si delegittimi la magistratura» L'articolo Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video proviene da Open.",
+   "link": "https://www.open.online/2026/11/02/gratteri-meloni-caso-siher-attacchi-giudici-video/",
+   "pub_ts": 1793654923,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/02/gratteri-meloni-caso-siher-attacchi-giudici-video/",
+     "title": "Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/maccora-gli-attacchi-ai-giudici-una-deriva-pericolosa-la-protesta-e-legittima-caso-siher-nrqtsn9j",
+     "title": "Caso Siher, Maccora: «Gli attacchi ai giudici? Una deriva pericolosa. La protesta è legittima»"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence",
+   "summary": "Il sottosegretario Mantovano vedrà anche l'Agenzia per la Cybersicurezza dopo i casi in Sicilia. Problemi in Belgio, Svezia e altri Paesi. Tonnellate di cibo a rischio",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
+   "pub_ts": 1793681520,
+   "n_sources": 10,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
+     "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/02/news/attacchi_hacker_supermercati_frigoriferi_europa_belgio_svezia_irlanda-425693699/?rss",
+     "title": "Attacchi hacker contro i supermercati in tutta Europa: colpita anche l’Italia"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_c475b1b2-184c-4001-b904-2a40ac6fd530.html",
+     "title": "Attacchi hacker ai supermercati, si muove anche il Copasir"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/domani-a-palazzo-chigi-riunione-con-mantovano-e-i-servizi-su-attacchi-hacker_0ea74377-d447-4d9b-918a-eafe85d7a50b.html",
+     "title": "Domani a Palazzo Chigi riunione con Mantovano e i Servizi su attacchi hacker"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/attacchi-hacker-ai-supermercati-lalert-dellagenzia-cyber-in-italia-che-invia-un-vademecum-lallarme-eeaedbf8-5081-4fec-bf5c-8650006e2720.html",
+     "title": "Attacchi hacker ai supermercati, l'alert dell'Agenzia cyber in Italia, che invia un vademecum"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/03/news/italia_attacchi_hacker_agenzia_cybersicurezza_distribuzione-425695006/",
+     "title": "Attacco hacker ai supermercati, colpita anche l’Italia. E l’Agenzia convoca la grande distribuzione"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/02/supermercati-frigoriferi-hacker-italia-sicilia/",
+     "title": "Anche l’Italia colpita dagli attacchi hacker ai supermercati, frigo in tilt a Catania e Palermo. Chigi convoca un vertice d’urgenza"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/attacco-informatico-ai-congelatori-europei-allerta-anche-in-italia-supermercati-v8jo8wam",
+     "title": "Giallo cyber-attacchi in mezza Europa. Colpita anche l’Italia"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/nuovi-attacchi-freezer-supermercati-europa/",
+     "title": "Nuovi attacchi ai freezer dei supermercati in tutta Europa (update)"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/cyberattacco-supermercati-europa_7gwduwytgj4j9r6C2pXVVv",
+     "title": "Cyberattacchi ai supermercati, frigoriferi in tilt in Europa: \"Hacker in azione, congelatori impostati a 50 gradi\""
     }
    ]
   },
@@ -314,7 +346,7 @@
    "summary": "Sui telefoni di Kiev domenica notte è apparsa l’allerta nucleare, gettando nel panico molte persone. Dopo tre ore anche quelli di Mosca inondati di messaggi falsi",
    "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
    "pub_ts": 1793632944,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -331,38 +363,6 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/02/applicazioni-emergenza-russia-ucraina-attacchi-informatici/",
      "title": "Le app di emergenza in Russia e Ucraina sono state colpite da attacchi informatici"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/",
-     "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Attacchi hacker contro i supermercati in tutta Europa: colpita anche l’Italia",
-   "summary": "Attacchi registrati in Sicilia, Toscana ed Emilia Romagna. Gli episodi, registratisi anche in Estonia, Irlanda, Lussemburgo, Paesi Bassi e Finlandia, seguono i casi francesi di ottobre. Grandi quantità di prodotti alimentari sono state buttate. Ue: “Tentativo deliberato di...",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/attacchi_hacker_supermercati_frigoriferi_europa_belgio_svezia_irlanda-425693699/?rss",
-   "pub_ts": 1793648739,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/attacchi_hacker_supermercati_frigoriferi_europa_belgio_svezia_irlanda-425693699/?rss",
-     "title": "Attacchi hacker contro i supermercati in tutta Europa: colpita anche l’Italia"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/nuovi-attacchi-freezer-supermercati-europa/",
-     "title": "Nuovi attacchi ai freezer dei supermercati in tutta Europa (update)"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/02/supermercati-belgio-svezia-estonia-attacchi-informatici/",
-     "title": "Ci sono stati nuovi attacchi informatici contro i supermercati europei"
     }
    ]
   },
@@ -391,39 +391,39 @@
   {
    "category": "tech",
    "area": null,
-   "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'",
-   "summary": "Alex Scheffler alla Bbc: \"Violano il diritto d'autore riproducendo la mia opera\"",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_dcf6900e-a9ae-4469-bc85-beb6f4659710.html",
-   "pub_ts": 1793628370,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Anthropic, i ricavi del terzo trimestre balzano a 17 miliardi, perdita a 23,3 miliardi",
+   "summary": "Nei primi 9 mesi al 30 settembre ricavi a 33,24 miliardi su un 'rosso' a 104 miliardi",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/anthropic-ricavi-terzo-trimestre-balzano-a-17-miliardi-perdita-a-233-miliardi_2c663a1d-8017-40be-9fb2-bd63108fc09d.html",
+   "pub_ts": 1793636931,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_dcf6900e-a9ae-4469-bc85-beb6f4659710.html",
-     "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_c8b77dae-e591-4912-8e75-c76dacaeed0e.html",
-     "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/anthropic-ricavi-terzo-trimestre-balzano-a-17-miliardi-perdita-a-233-miliardi_2c663a1d-8017-40be-9fb2-bd63108fc09d.html",
+     "title": "Anthropic, i ricavi del terzo trimestre balzano a 17 miliardi, perdita a 23,3 miliardi"
     }
    ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Le elezioni di midterm: la vignetta di Ellekappa",
-   "summary": "",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_vignetta_ellekappa-425694973/?rss",
-   "pub_ts": 1793660460,
-   "n_sources": 4,
+   "title": "Elezioni midterm Usa, otto duelli verso il fotofinish: ecco chi deciderà la sfida",
+   "summary": "Gli Stati cruciali per il controllo del Senato e della Camera negli Stati Uniti",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_otto_duelli_stati_ecco_chi_decidera_sfida-425694978/?rss",
+   "pub_ts": 1793664000,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_vignetta_ellekappa-425694973/?rss",
-     "title": "Le elezioni di midterm: la vignetta di Ellekappa"
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_otto_duelli_stati_ecco_chi_decidera_sfida-425694978/?rss",
+     "title": "Elezioni midterm Usa, otto duelli verso il fotofinish: ecco chi deciderà la sfida"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_otto_duelli_stati_ecco_chi_decidera_sfida-425694978/",
+     "title": "Elezioni midterm Usa, otto duelli verso il fotofinish: ecco chi deciderà la sfida"
     },
     {
      "name": "Rai News",
@@ -439,6 +439,34 @@
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/venti-di-guerra-sulle-elezioni-di-midterm-i-dem-i-piani-bellici-di-trump-sono-folli-wgl0wnt1",
      "title": "Venti di guerra sulle elezioni di midterm. I dem: «I piani bellici di Trump sono folli»"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Fp Cgil, con tagli a Ssn fortissimo rischio di chiusura di ospedali",
+   "summary": "'Grave manomissione del diritto alla salute costituzionalmente garantito'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/02/fp-cgil-con-tagli-a-ssn-fortissimo-rischio-di-chiusura-di-ospedali_42697c02-bbec-43c4-b143-d6fecc7960ef.html",
+   "pub_ts": 1793664000,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/02/fp-cgil-con-tagli-a-ssn-fortissimo-rischio-di-chiusura-di-ospedali_42697c02-bbec-43c4-b143-d6fecc7960ef.html",
+     "title": "Fp Cgil, con tagli a Ssn fortissimo rischio di chiusura di ospedali"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/03/news/sanita_manovra_bertolaso_tagli_insostenibili_cgil-425695077/",
+     "title": "Sanità, Bertolaso avvisa: “Tagli insostenibili”. Cgil: ospedali a rischio"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/02/sanita-bertolaso-manovra-tagli-insostenibili-pd-denuncia/8558085/",
+     "title": "Sanità, pure Bertolaso contro la manovra: “Tagli insostenibili per le Regioni”. Pd: “Smentita la propaganda del governo”"
     }
    ],
    "subtype": "scienza"
@@ -469,17 +497,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Date amplia guardaroba da sneakers a total look col Chiantishire",
-   "summary": "Debutta anche una profumazione d'ambiente dedicata a Firenze",
-   "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/02/date-amplia-guardaroba-da-sneakers-a-total-look-col-chiantishire_6829ab25-dc3e-44a2-9241-12c3f3754fca.html",
-   "pub_ts": 1793642511,
+   "title": "Raidue: programmi di mercoledì 4 novembre",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/raidue-programmi-di-mercoledi-4-novembre_d129ce77-8445-41c2-bb58-3f72c37352f1.html",
+   "pub_ts": 1793664090,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/02/date-amplia-guardaroba-da-sneakers-a-total-look-col-chiantishire_6829ab25-dc3e-44a2-9241-12c3f3754fca.html",
-     "title": "Date amplia guardaroba da sneakers a total look col Chiantishire"
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/raidue-programmi-di-mercoledi-4-novembre_d129ce77-8445-41c2-bb58-3f72c37352f1.html",
+     "title": "Raidue: programmi di mercoledì 4 novembre"
     }
    ],
    "subtype": "cultura"
@@ -487,49 +515,36 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Dustin Hoffman, 'girare 'll laureato' un'esperienza terribile per me'",
-   "summary": "L'attore temeva di non essere all'altezza della parte di Benjamin Braddock",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
-   "pub_ts": 1793640599,
+   "title": "È morta Erminia Manfredi, il 'punto fermo' nella vita di Nino",
+   "summary": "Muore a 94 anni, ex modella, costumista e scenografa",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/e-morta-erminia-manfredi-vedova-di-nino-e-costumista_18953676-cafd-4617-9e78-fcca8af90610.html",
+   "pub_ts": 1793643122,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
-     "title": "Dustin Hoffman, 'girare 'll laureato' un'esperienza terribile per me'"
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/e-morta-erminia-manfredi-vedova-di-nino-e-costumista_18953676-cafd-4617-9e78-fcca8af90610.html",
+     "title": "È morta Erminia Manfredi, il 'punto fermo' nella vita di Nino"
     }
    ],
    "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Da liposuzione a lipofilling del seno, il grasso diventa risorsa in chirurgia plastica",
-   "summary": "Due studi internazionali coordinati dall'Italia ne analizzano risultati e potenzialità",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/02/da-liposuzione-a-lipofilling-del-seno-il-grasso-diventa-risorsa-in-chirurgia-plastica_7d40c1b2-feac-48b6-907b-c3b9433175e7.html",
-   "pub_ts": 1793639445,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/02/da-liposuzione-a-lipofilling-del-seno-il-grasso-diventa-risorsa-in-chirurgia-plastica_7d40c1b2-feac-48b6-907b-c3b9433175e7.html",
-     "title": "Da liposuzione a lipofilling del seno, il grasso diventa risorsa in chirurgia plastica"
-    }
-   ],
-   "subtype": "scienza"
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "Zelensky: 'Attacco devastante in una scuola utilizzata per attività umanitarie'",
-   "summary": "Colpito un centro umanitario, 24 uccisi mentre cercavano aiuti. Hackerate le app di emergenza",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/zelensky-attacco-devastante-in-una-scuola-utilizzata-per-attivita-umanitarie_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
-   "pub_ts": 1793660833,
+   "title": "Raid sulla scuola diventata rifugio, strage di civili a Zaporizhzhia",
+   "summary": "Le bombe a poche ore dalla fine della tregua di Oleshky causano 24 morti. L’ira di Zelensky: “Così la pace è impossibile”",
+   "link": "https://www.repubblica.it/esteri/2026/12/03/news/raid_scuola_diventata_rifugio_strage_civili_zaporizhzhia_dopo_tregua_oleshky-425694928/?rss",
+   "pub_ts": 1793663846,
    "n_sources": 6,
    "documented": true,
    "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/12/03/news/raid_scuola_diventata_rifugio_strage_civili_zaporizhzhia_dopo_tregua_oleshky-425694928/?rss",
+     "title": "Raid sulla scuola diventata rifugio, strage di civili a Zaporizhzhia"
+    },
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/zelensky-attacco-devastante-in-una-scuola-utilizzata-per-attivita-umanitarie_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
@@ -541,19 +556,14 @@
      "title": "Zelensky, 'attacco devastante su Komysuhvakha, almeno 18 morti'"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-3-novembre_2P47326BVTeziiCmDKvVup",
-     "title": "Ucraina, Russia ha perso territorio a ottobre. Zelensky: \"Putin prepara nuovo attacco\""
-    },
-    {
      "name": "Open",
      "link": "https://www.open.online/2026/11/02/guerra-ucraina-russia-attacco-scuola-rifugio-ultimi-agg-2-nov/",
      "title": "Ucraina, raid russo su una scuola-rifugio a Zaporizhzhia: 26 morti. Zelensky: «Mosca prepara un nuovo massiccio attacco»"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/diretta/guerra_ucraina_russia_news_oggi-425692726/",
-     "title": "Guerra Ucraina - Russia, le news. Zelensky: “Raid devastante su un centro aiuti, almeno 26 morti”"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucriana-russia-news-2-novembre-2026_7tbXUaID3Cux0Co0Gnh7ND",
+     "title": "Ucraina, raid russi su centro di aiuti umanitari in una scuola: almeno 24 morti nella regione di Zaporizhzhia"
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -569,7 +579,7 @@
    "summary": "Mattarella e Meloni a Ciampino con i familiari delle vittime. Martedì i funerali",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/in-italia-le-salme-dei-quattro-militari-morti-in-bosnia-al-celio-la-camera-ardente_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
    "pub_ts": 1793644898,
-   "n_sources": 6,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -588,39 +598,20 @@
      "title": "Atterrato a Ciampino l'aereo con le salme dei militari morti in Bosnia"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/le-salme-dei-quattro-militari-italiani-morti-in-bosnia-a-ciampino-accolti-da-meloni-e-matterella-7ad3d824-5cb2-47f3-a3f0-c3fe0c3e87c9.html",
-     "title": "Schianto dell'elicottero in Bosnia, le salme dei quattro militari morti rientrate in Italia"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/02/salme-incidente-elicottero-bosnia-italia/",
      "title": "Sono stati riportati in Italia i corpi dei quattro militari morti nell’incidente dell’elicottero precipitato in Bosnia Erzegovina"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/02/news/elicottero_caduto_bosnia_salme_militari_ciampino-425693463/",
-     "title": "La carezza di Mattarella per i quattro militari precipitati in Bosnia"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
-   "description": "Il sottosegretario Mantovano vedrà anche l'Agenzia per la Cybersicurezza dopo i casi in Sicilia. Problemi in Belgio, Svezia e altri Paesi. Tonnellate di cibo a rischio",
-   "pub_ts": 1793649920,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "L'ultimo appello di Trump, 'votate e fermiamo comunisti e jihadisti'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-   "description": "'Con loro un nuovo 1929'. Ma per i sondaggi i dem avanti in tutti gli Stati chiave",
-   "pub_ts": 1793660871,
-   "source": "ANSA",
+   "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/?rss",
+   "description": "Il presidente mostra al comizio le foto dei lavori al Lincoln Memorial, poi ricorda che il suo nome è sulla scheda: “Sono elezioni decisive”",
+   "pub_ts": 1793664000,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -634,82 +625,91 @@
    "section": "politica"
   },
   {
+   "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
+   "description": "L’amministrazione guidata dal tycoon aveva ipotizzato che le schede per corrispondenza fossero state consegnate a persone non in possesso della cittadinanza americana",
+   "pub_ts": 1793663150,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il tradimento che scuote i dem: Stevens appoggia il repubblicano. Ora El-Sayed rischia in Michigan",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/michigan_midterm_haley_stevens_repubblicano_el_sayed-425694863/?rss",
+   "description": "Aveva perso le primarie, ma promesso l’appoggio al candidato della sinistra: poi il voltafaccia",
+   "pub_ts": 1793664000,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Droni ucraini colpiscono una raffineria di petrolio in Russia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/droni-ucraini-colpiscono-una-raffineria-di-petrolio-in-russia_d6f87d43-f2cd-4c13-99f2-e9900a15ca15.html",
+   "description": "A 250 chilometri da Mosca, segnalati incendi nell'impianto",
+   "pub_ts": 1793682180,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_c9eeacb4-c9f2-4b85-99b4-c0fecffad406.html",
+   "description": "'Loro desiderano ardentemente un'intesa, noi agiamo da una posizione di totale forza'",
+   "pub_ts": 1793675502,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Midterm Usa, non solo il Congresso: i dem sognano di riconquistare la maggioranza dei governatori",
+   "link": "https://www.adnkronos.com/internazionale/esteri/midterm-2026-sogno-dem-governatori-maggioranza_3soV4DEZLp0DnAHcjoq7kd",
+   "description": "(Adnkronos) - Dalla Georgia al Texas, passando per Ohio e Alaska, le sfide che potrebbero ridisegnare la mappa politica americana",
+   "pub_ts": 1793681880,
+   "source": "Adnkronos Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Iran, via libera di Khamenei al governo per negoziare con gli Usa. Prezzo del petrolio a -7%",
+   "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-via-libera-khamenei-al-governo-per-negoziare-con-usa-cala-prezzo-petrolio-0b09617e-b59e-4e4e-84ed-00c15ebf672d.html",
+   "description": "Israele bombarda Gaza, altri 5 morti. Da mercoledì le consultazioni: Eisenkot a caccia di alleati. Trump ottimista sui negoziati con Teheran, ma gli USA attaccano l'isola di Qeshm",
+   "pub_ts": 1793672880,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
    "description": "'Il Paese non può permettersi una crisi politica prolungata in questo momento'",
-   "pub_ts": 1793641081,
+   "pub_ts": 1793618660,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump, 'prezzi del petrolio crollano, un accordo con l'Iran può avvenire!'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/trump-prezzi-del-petrolio-crollano-un-accordo-con-liran-puo-avvenire_d8544b65-3e10-4f2b-ab98-9ad890d84451.html",
-   "description": "'Teheran lo vuole, il prima possibile'",
-   "pub_ts": 1793654140,
+   "title": "Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video",
+   "link": "https://www.open.online/2026/11/02/gratteri-meloni-caso-siher-attacchi-giudici-video/",
+   "description": "A Otto e Mezzo il procuratore capo di Napoli interviene sulla scarcerazione del ricercatore trentenne e replica agli attacchi della politica: «Non si delegittimi la magistratura» L'articolo Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video proviene da Open.",
+   "pub_ts": 1793654923,
+   "source": "Open",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
+   "description": "Il sottosegretario Mantovano vedrà anche l'Agenzia per la Cybersicurezza dopo i casi in Sicilia. Problemi in Belgio, Svezia e altri Paesi. Tonnellate di cibo a rischio",
+   "pub_ts": 1793681520,
    "source": "ANSA Mondo",
    "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Michigan, la rivale di El-Sayed alle primarie voterà per il repubblicano: anche lo staff la scarica",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/michigan_haley_stevens_la_rivale_di_el-sayed_vota_per_il_repubblicano-425693590/?rss",
-   "description": "La democratica Haley Stevens ha annunciato l’endorsement a Mike Rogers dopo essersi scontrata con il medico musulmano su uno spot che accusava Israele dell’aumento dei prezzi negli Usa. Trump: “Scelta coraggiosa, la vogliamo con noi”. Rabbia nel partito",
-   "pub_ts": 1793623902,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra",
-   "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
-   "description": "Corsa contro il tempo a Tel Aviv: Bibi spera nel conflitto prima che ci sia un nuovo governo. La sinistra, la destra di Liebermann e Bennett sostengono Eisenkot come premier. Sul tavolo, l’appoggio esterno delle formazioni palestinesi",
-   "pub_ts": 1793649521,
-   "source": "Domani",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Israele, i partiti arabi pronti a indicare Eisenkot primo ministro",
-   "link": "https://www.repubblica.it/esteri/2026/11/01/news/elezioni_israele_piano_eisenkot_governo_astensione_arabi_partito_ultraortodossi-425691765/?rss",
-   "description": "Passi avanti tra gli anti-Netanyahu e i palestinesi. Bibi sente Trump: vuole la guerra all’Iran per restare al governo",
-   "pub_ts": 1793644299,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump chiede intervento Corte Suprema sul blocco dei voti in California",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-chiede-intervento-corte-suprema-sul-blocco-dei-voti-in-california_5d410039-443b-4b94-9c92-0fff9941d7a9.html",
-   "description": "Dopo che la corte d'appello ha bocciato la richiesta sul blocco 20.000 voti",
-   "pub_ts": 1793643326,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/?rss",
-   "description": "L’election day di domani è la somma di molte consultazioni diverse: per il Congresso, si rinnovano tutti i 435 seggi della Camera dei Rappresentanti e 35 seggi su 100 del Senato. Ma si voterà anche per molte altre cariche locali",
-   "pub_ts": 1793642543,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
+   "section": "tech"
   },
   {
    "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid",
    "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
    "description": "Sui telefoni di Kiev domenica notte è apparsa l’allerta nucleare, gettando nel panico molte persone. Dopo tre ore anche quelli di Mosca inondati di messaggi falsi",
    "pub_ts": 1793632944,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Attacchi hacker contro i supermercati in tutta Europa: colpita anche l’Italia",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/attacchi_hacker_supermercati_frigoriferi_europa_belgio_svezia_irlanda-425693699/?rss",
-   "description": "Attacchi registrati in Sicilia, Toscana ed Emilia Romagna. Gli episodi, registratisi anche in Estonia, Irlanda, Lussemburgo, Paesi Bassi e Finlandia, seguono i casi francesi di ottobre. Grandi quantità di prodotti alimentari sono state buttate. Ue: “Tentativo deliberato di...",
-   "pub_ts": 1793648739,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "tech"
@@ -724,20 +724,29 @@
    "section": "tech"
   },
   {
-   "title": "L'illustratore del Gruffalò, 'valuto un'azione legale contro le aziende di IA'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_dcf6900e-a9ae-4469-bc85-beb6f4659710.html",
-   "description": "Alex Scheffler alla Bbc: \"Violano il diritto d'autore riproducendo la mia opera\"",
-   "pub_ts": 1793628370,
+   "title": "Anthropic, i ricavi del terzo trimestre balzano a 17 miliardi, perdita a 23,3 miliardi",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/anthropic-ricavi-terzo-trimestre-balzano-a-17-miliardi-perdita-a-233-miliardi_2c663a1d-8017-40be-9fb2-bd63108fc09d.html",
+   "description": "Nei primi 9 mesi al 30 settembre ricavi a 33,24 miliardi su un 'rosso' a 104 miliardi",
+   "pub_ts": 1793636931,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Le elezioni di midterm: la vignetta di Ellekappa",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_vignetta_ellekappa-425694973/?rss",
-   "description": "",
-   "pub_ts": 1793660460,
+   "title": "Elezioni midterm Usa, otto duelli verso il fotofinish: ecco chi deciderà la sfida",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_otto_duelli_stati_ecco_chi_decidera_sfida-425694978/?rss",
+   "description": "Gli Stati cruciali per il controllo del Senato e della Camera negli Stati Uniti",
+   "pub_ts": 1793664000,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Fp Cgil, con tagli a Ssn fortissimo rischio di chiusura di ospedali",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/02/fp-cgil-con-tagli-a-ssn-fortissimo-rischio-di-chiusura-di-ospedali_42697c02-bbec-43c4-b143-d6fecc7960ef.html",
+   "description": "'Grave manomissione del diritto alla salute costituzionalmente garantito'",
+   "pub_ts": 1793664000,
+   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
@@ -751,38 +760,29 @@
    "section": "varia"
   },
   {
-   "title": "Date amplia guardaroba da sneakers a total look col Chiantishire",
-   "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/02/date-amplia-guardaroba-da-sneakers-a-total-look-col-chiantishire_6829ab25-dc3e-44a2-9241-12c3f3754fca.html",
-   "description": "Debutta anche una profumazione d'ambiente dedicata a Firenze",
-   "pub_ts": 1793642511,
+   "title": "Raidue: programmi di mercoledì 4 novembre",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/raidue-programmi-di-mercoledi-4-novembre_d129ce77-8445-41c2-bb58-3f72c37352f1.html",
+   "description": "",
+   "pub_ts": 1793664090,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Dustin Hoffman, 'girare 'll laureato' un'esperienza terribile per me'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
-   "description": "L'attore temeva di non essere all'altezza della parte di Benjamin Braddock",
-   "pub_ts": 1793640599,
+   "title": "È morta Erminia Manfredi, il 'punto fermo' nella vita di Nino",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/e-morta-erminia-manfredi-vedova-di-nino-e-costumista_18953676-cafd-4617-9e78-fcca8af90610.html",
+   "description": "Muore a 94 anni, ex modella, costumista e scenografa",
+   "pub_ts": 1793643122,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Da liposuzione a lipofilling del seno, il grasso diventa risorsa in chirurgia plastica",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/02/da-liposuzione-a-lipofilling-del-seno-il-grasso-diventa-risorsa-in-chirurgia-plastica_7d40c1b2-feac-48b6-907b-c3b9433175e7.html",
-   "description": "Due studi internazionali coordinati dall'Italia ne analizzano risultati e potenzialità",
-   "pub_ts": 1793639445,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Zelensky: 'Attacco devastante in una scuola utilizzata per attività umanitarie'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/zelensky-attacco-devastante-in-una-scuola-utilizzata-per-attivita-umanitarie_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
-   "description": "Colpito un centro umanitario, 24 uccisi mentre cercavano aiuti. Hackerate le app di emergenza",
-   "pub_ts": 1793660833,
-   "source": "ANSA",
+   "title": "Raid sulla scuola diventata rifugio, strage di civili a Zaporizhzhia",
+   "link": "https://www.repubblica.it/esteri/2026/12/03/news/raid_scuola_diventata_rifugio_strage_civili_zaporizhzhia_dopo_tregua_oleshky-425694928/?rss",
+   "description": "Le bombe a poche ore dalla fine della tregua di Oleshky causano 24 morti. L’ira di Zelensky: “Così la pace è impossibile”",
+   "pub_ts": 1793663846,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   },
