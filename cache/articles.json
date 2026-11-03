@@ -1,6 +1,6 @@
 {
- "generated_at": 1793686434,
- "updated_at": 1793686434,
+ "generated_at": 1793717792,
+ "updated_at": 1793717792,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,79 +10,106 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”",
-   "summary": "Il presidente mostra al comizio le foto dei lavori al Lincoln Memorial, poi ricorda che il suo nome è sulla scheda: “Sono elezioni decisive”",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/?rss",
-   "pub_ts": 1793664000,
+   "title": "Midterm, l'America al voto: lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania. LA DIRETTA",
+   "summary": "La mappa delle elezioni, un referendum su Trump. Per i sondaggi i dem avanti negli Stati chiave",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-lunghe-code-ai-seggi-in-georgia-new-york-michigan_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+   "pub_ts": 1793716810,
    "n_sources": 6,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/?rss",
-     "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”"
-    },
-    {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-     "title": "L'ultimo appello di Trump, 'votate e fermiamo comunisti e jihadisti'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-lunghe-code-ai-seggi-in-georgia-new-york-michigan_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+     "title": "Midterm, l'America al voto: lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania. LA DIRETTA"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_0580a46a-cd17-4122-a9dc-12a60cc43254.html",
-     "title": "Trump, 'le midterm più importanti della storia, dai dem candidati jihadisti'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/lunghe-code-ai-seggi-in-georgia-new-york-michigan-e-pennsylvania_0665d80b-129d-45a5-9b3f-dab2e1c7c023.html",
+     "title": "Lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/?rss",
+     "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-cosa-si-decide_63p0nq1kgLfrxch23by1oS",
+     "title": "Elezioni midterm, Usa al voto: dalla chiusura dei seggi ai risultati, guida alla notte elettorale"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/",
-     "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”"
+     "link": "https://www.repubblica.it/esteri/2026/11/03/diretta/midterm_elezioni_usa_trump_2026-425695623/",
+     "title": "Elezioni midterm Usa, news. Milioni alle urne, aperti i primi seggi. Trump: “Vinceremo”"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/03/midterm-2026-ultimo-appello-trump-jihadisti-comunisti/",
-     "title": "Midterm Usa, l’ultimo appello di Trump: «Votate e fermiamo comunisti e jihadisti»"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/02/midterm-usa-trump-lincoln-memorial-notizie/8558568/",
-     "title": "Midterm Usa, l’ultimo appello di Trump prima del voto: “Non consentite a jihadisti e comunisti di vincere”"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/trump-candidati-dem-pericolosi-voto-midterm-piu-importante-storia-usa-AJ6HLE2B",
+     "title": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Torna a casa dopo 28 anni e 50mila km: ha fatto il giro del mondo a piedi. Karl Bushby era partito dal Cile nel '98. Oggi l'abbraccio con la mamma a Hull, Inghilterra",
-   "summary": "L'avventuriero britannico Karl Bushby è partito dal Cile nel 1998. Oggi l'abbraccio con la madre a Hull, in Inghilterra. Non ha usato nessun mezzo di traporto",
-   "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/11/02/torna-a-casa-dopo-28-anni-e-50mila-km-ha-fatto-il-giro-del-mondo-a-piedi_fbc984a8-b67d-449a-a20d-f2a9cd52aa7a.html",
-   "pub_ts": 1793648940,
-   "n_sources": 5,
+   "title": "Trump: a fine anno stop agli aiuti militari a Israele, accordo con Netanyahu",
+   "summary": "Von der Leyen: 'La chiusura di Hormuz è costata all'Ue 127 miliardi in più'. Calcolo sulle importazioni di combustibili fossili. \"Con petrolio e gas anche import di choc\"",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-a-fine-anno-stop-agli-aiuti-militari-a-israele-accordo-con_675d44f6-5c21-4bbd-b26f-ba7aee00c51a.html",
+   "pub_ts": 1793714434,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/11/02/torna-a-casa-dopo-28-anni-e-50mila-km-ha-fatto-il-giro-del-mondo-a-piedi_fbc984a8-b67d-449a-a20d-f2a9cd52aa7a.html",
-     "title": "Torna a casa dopo 28 anni e 50mila km: ha fatto il giro del mondo a piedi. Karl Bushby era partito dal Cile nel '98. Oggi l'abbraccio con la mamma a Hull, Inghilterra"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/torna-a-casa-dopo-28-anni-e-50mila-km-ha-fatto-il-giro-del-mondo-a-piedi_438554ca-1b81-4d67-8d73-c371901f3d13.html",
-     "title": "Torna a casa dopo 28 anni e 50mila km: ha fatto il giro del mondo a piedi"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/dopo-28-anni-finisce-il-suo-giro-del-mondo-a-piedi-la-storia-di-karl-bushby-5d34187c-9443-4bc9-b137-2863a13f8999.html",
-     "title": "Dopo 28 anni finisce il suo giro del mondo a piedi: la storia di Karl Bushby"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-a-fine-anno-stop-agli-aiuti-militari-a-israele-accordo-con_675d44f6-5c21-4bbd-b26f-ba7aee00c51a.html",
+     "title": "Trump: a fine anno stop agli aiuti militari a Israele, accordo con Netanyahu"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/uk-karl-bushby-giro-mondo-a-piedi-28-anni_4UQX7biei8ZLK3vw1f1Tjb",
-     "title": "Fa il giro del mondo a piedi e torna dopo 28 anni, finita l'impresa straordinaria di Karl Bushby"
+     "link": "https://www.adnkronos.com/internazionale/esteri/usa-israele-trump-netanyahu-ultime-news_2mBqIOGHJ7HPlchaKUqGIa",
+     "title": "Israele, Trump: \"Accordo con Netanyahu, entro fine anno stop aiuti Usa\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/diretta/guerra_iran_usa_israele_news_oggi-425695125/",
+     "title": "Guerra in Iran, le news di oggi. Aereo da Israele atterra a Sofia dopo allarme bomba. Trump: “Stop aiuti a Netanyahu a fine anno”"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
+     "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Midterm, Trump seguirà la notte elettorale alla Casa Bianca",
+   "summary": "Ricevimento a porte chiuse nella East Room dall'una di notte",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/midterm-trump-seguira-la-notte-elettorale-alla-casa-bianca_3a51b017-56c9-4677-8a11-7fa5b04439db.html",
+   "pub_ts": 1793711211,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/midterm-trump-seguira-la-notte-elettorale-alla-casa-bianca_3a51b017-56c9-4677-8a11-7fa5b04439db.html",
+     "title": "Midterm, Trump seguirà la notte elettorale alla Casa Bianca"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/stati-uniti-midterm-lultimo-discorso-elettorale-di-trump-non-ho-finito-guerra-in-iran-per-gentilezza-58df7cd0-af25-4abf-8986-08ae309bb876.html",
+     "title": "Midterm, l'ultimo discorso elettorale di Trump: \"Non ho finito guerra in Iran per gentilezza\""
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/02/karl-bushby-giro-del-mondo-completato-28-anni/",
-     "title": "Dopo 28 anni, Karl Bushby ha completato il suo giro del mondo a piedi"
+     "link": "https://www.ilpost.it/2026/11/03/trump-discorso-prima-midterm-vasca-washington/",
+     "title": "Il bizzarro ultimo discorso di Trump prima del voto"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/03/midterm-usa-seggi-exit-poll-risultati-orari-notte-elettorale/8559074/",
+     "title": "Midterm Usa: chiusura dei seggi, exit poll e risultati. Cosa succede e a che ora nella notte elettorale"
     }
    ]
   },
@@ -92,7 +119,7 @@
    "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California",
    "summary": "L’amministrazione guidata dal tycoon aveva ipotizzato che le schede per corrispondenza fossero state consegnate a persone non in possesso della cittadinanza americana",
    "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
-   "pub_ts": 1793663150,
+   "pub_ts": 1793708520,
    "n_sources": 4,
    "documented": true,
    "sources": [
@@ -107,9 +134,9 @@
      "title": "Corte Suprema Usa boccia richiesta Trump su blocco 20.000 voti in California"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/",
-     "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/california-corte-suprema-boccia-la-richiesta-di-trump-di-accantonare-20mila-schede-elettorali-52a892bc-c45b-4f66-9a3c-c0d2babb14a4.html",
+     "title": "California, Corte suprema boccia la richiesta di Trump di accantonare 20mila schede elettorali"
     },
     {
      "name": "Il Post",
@@ -120,50 +147,82 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Il tradimento che scuote i dem: Stevens appoggia il repubblicano. Ora El-Sayed rischia in Michigan",
-   "summary": "Aveva perso le primarie, ma promesso l’appoggio al candidato della sinistra: poi il voltafaccia",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/michigan_midterm_haley_stevens_repubblicano_el_sayed-425694863/?rss",
-   "pub_ts": 1793664000,
+   "area": "italia",
+   "title": "Salvini: 'Dei tagli alla scuola non sapevo niente, ora faremo proposte'",
+   "summary": "'Sicuramente è qualcosa su cui ragionare'. Le opposizioni: 'Dorme in consiglio dei ministri?'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
+   "pub_ts": 1793716487,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/michigan_midterm_haley_stevens_repubblicano_el_sayed-425694863/?rss",
-     "title": "Il tradimento che scuote i dem: Stevens appoggia il repubblicano. Ora El-Sayed rischia in Michigan"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
+     "title": "Salvini: 'Dei tagli alla scuola non sapevo niente, ora faremo proposte'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-gli-alleati-rispettino-le-priorita-della-lega-a-partire-dalle-pensioni_33426517-9983-4afb-803a-82316f0ee9ad.html",
+     "title": "Salvini, gli alleati rispettino le priorità della Lega, a partire dalle pensioni"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/michigan_midterm_haley_stevens_repubblicano_el_sayed-425694863/",
-     "title": "Il tradimento che scuote i dem: Stevens appoggia il repubblicano. Ora El-Sayed rischia in Michigan"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/usa-perche-e-shock-strappo-michigan-conteso-dem-appoggia-repubblicano-e-scarica-el-sayed-AJmALj1B",
-     "title": "Usa, perché è uno shock lo strappo in Michigan: la dem Stevens appoggia il repubblicano e scarica El Sayed"
+     "link": "https://www.repubblica.it/economia/2026/11/03/news/salvini_manovra_lega_pensioni_tagli_scuola_richieste-425695976/",
+     "title": "Manovra, Salvini: “Gli alleati rispettino la Lega sulle pensioni, non sapevo dei tagli alla scuola”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Droni ucraini colpiscono una raffineria di petrolio in Russia",
-   "summary": "A 250 chilometri da Mosca, segnalati incendi nell'impianto",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/droni-ucraini-colpiscono-una-raffineria-di-petrolio-in-russia_d6f87d43-f2cd-4c13-99f2-e9900a15ca15.html",
-   "pub_ts": 1793682180,
-   "n_sources": 2,
+   "title": "L'Ue richiama l'Italia sul tetto agli stranieri a scuola: 'I trattati vietano discriminazioni'",
+   "summary": "La Commissione: \"Seguiamo gli sviluppi del decreto legge italiano\"",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/tetto-stranieri-a-scuola-lue-i-trattati-vietano-discriminazione-_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
+   "pub_ts": 1793715840,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/droni-ucraini-colpiscono-una-raffineria-di-petrolio-in-russia_d6f87d43-f2cd-4c13-99f2-e9900a15ca15.html",
-     "title": "Droni ucraini colpiscono una raffineria di petrolio in Russia"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/tetto-stranieri-a-scuola-lue-i-trattati-vietano-discriminazione-_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
+     "title": "L'Ue richiama l'Italia sul tetto agli stranieri a scuola: 'I trattati vietano discriminazioni'"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-bombe-russe-centro-aiuti-morti-trilaterale-russia-usa-ucraina-10-e-11-novembre-abu-dhabi-7caf9279-7197-473c-affe-74ed8f50cbaa.html",
-     "title": "Attacco russo a Dnipro. Droni su raffineria a Yaroslavl. Verso trilaterale Russia-Usa-Ucraina"
+     "link": "https://www.rainews.it/articoli/2026/11/tetto-stranieri-a-scuola-lue-i-trattati-vietano-discriminazione-17364193-f603-4623-b7a8-c7aa29d417cd.html",
+     "title": "Tetto stranieri a scuola, l'Ue: \"I trattati vietano discriminazione\""
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/politica/tetto-stranieri-scuola-ue-discriminazione_33eI7TbwlJsxihTAT5aZrI",
+     "title": "Scuola, vice presidente Commissione su tetto stranieri: \"Trattati Ue vietano la discriminazione\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Ex Ilva, al via lo spegnimento degli altiforni",
+   "summary": "Dopo la pronuncia della Cassazione stop ai bruciatori dei Cowpers entro la settimana",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ex-ilva-al-via-lo-spegnimento-degli-altiforni-_3908cffc-1580-4da5-80be-6e2132624726.html",
+   "pub_ts": 1793713507,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ex-ilva-al-via-lo-spegnimento-degli-altiforni-_3908cffc-1580-4da5-80be-6e2132624726.html",
+     "title": "Ex Ilva, al via lo spegnimento degli altiforni"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/03/ex-ilva-spegnimento-altiforni/",
+     "title": "Sono iniziate le operazioni di spegnimento degli altiforni dell’ex ILVA di Taranto"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/ex-ilva-al-via-lo-spegnimento-degli-altiforni-confindustria-su-cordata-decisione-non-ancora-presa-71d30d00-acef-425c-8f54-ef72aed9d780.html",
+     "title": "Taranto, iniziato lo spegnimento degli altiforni dell’ex Ilva. Sindacati: il Governo dia risposte"
     }
    ]
   },
@@ -173,8 +232,8 @@
    "title": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'",
    "summary": "'Loro desiderano ardentemente un'intesa, noi agiamo da una posizione di totale forza'",
    "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_c9eeacb4-c9f2-4b85-99b4-c0fecffad406.html",
-   "pub_ts": 1793675502,
-   "n_sources": 2,
+   "pub_ts": 1793712948,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -184,143 +243,175 @@
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-iran-piano-usa_4KSOIuUeQAICHrJZwTVGjv",
-     "title": "Iran presenta piano agli Usa per la riapertura di Hormuz. Trump: \"Vicini ad accordo o alla vittoria\""
+     "link": "https://www.adnkronos.com/internazionale/esteri/iran-usa-notizie-oggi-isola-qeshm_y1qhd5ce0pjjS9ugbvPQK",
+     "title": "Iran, raid Usa su isola di Qeshm. Teheran: \"Siamo in guerra, difenderci nostro diritto\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/03/raid-usa-iran-qeshm-trump-notizie/8558924/",
+     "title": "Gli Stati Uniti tornano a colpire l’Iran: raid sull’isola di Qeshm. Trump: “Facciano un accordo o sarà guerra”. Teheran: “Sta agli Usa scegliere la pace”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Midterm Usa, non solo il Congresso: i dem sognano di riconquistare la maggioranza dei governatori",
-   "summary": "(Adnkronos) - Dalla Georgia al Texas, passando per Ohio e Alaska, le sfide che potrebbero ridisegnare la mappa politica americana",
-   "link": "https://www.adnkronos.com/internazionale/esteri/midterm-2026-sogno-dem-governatori-maggioranza_3soV4DEZLp0DnAHcjoq7kd",
-   "pub_ts": 1793681880,
+   "title": "Osnato (FdI), Salvini? I patti da rispettare sono quelli scritti in manovra",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/osnato-fdi-salvini-i-patti-da-rispettare-sono-quelli-scritti-in-manovra_2a25e942-b438-48e8-9d33-5d01c4e6bc49.html",
+   "pub_ts": 1793711876,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/midterm-2026-sogno-dem-governatori-maggioranza_3soV4DEZLp0DnAHcjoq7kd",
-     "title": "Midterm Usa, non solo il Congresso: i dem sognano di riconquistare la maggioranza dei governatori"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/osnato-fdi-salvini-i-patti-da-rispettare-sono-quelli-scritti-in-manovra_2a25e942-b438-48e8-9d33-5d01c4e6bc49.html",
+     "title": "Osnato (FdI), Salvini? I patti da rispettare sono quelli scritti in manovra"
     },
     {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/midterm-in-gioco-non-solo-il-congresso-lopa-islamo-comunista-sui-dem/",
-     "title": "Midterm, in gioco non solo il Congresso: l’Opa islamo-comunista sui Dem"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/03/salvini-manovra-maggioranza-legge-bilancio-notizie/8559081/",
+     "title": "Salvini critica la Manovra e fa implodere la maggioranza. FdI: “Patti sono sanciti”. Le opposizioni: “Dormiva in Consiglio dei ministri?”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Iran, via libera di Khamenei al governo per negoziare con gli Usa. Prezzo del petrolio a -7%",
-   "summary": "Israele bombarda Gaza, altri 5 morti. Da mercoledì le consultazioni: Eisenkot a caccia di alleati. Trump ottimista sui negoziati con Teheran, ma gli USA attaccano l'isola di Qeshm",
-   "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-via-libera-khamenei-al-governo-per-negoziare-con-usa-cala-prezzo-petrolio-0b09617e-b59e-4e4e-84ed-00c15ebf672d.html",
-   "pub_ts": 1793672880,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-via-libera-khamenei-al-governo-per-negoziare-con-usa-cala-prezzo-petrolio-0b09617e-b59e-4e4e-84ed-00c15ebf672d.html",
-     "title": "Iran, via libera di Khamenei al governo per negoziare con gli Usa. Prezzo del petrolio a -7%"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
-     "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni",
-   "summary": "'Il Paese non può permettersi una crisi politica prolungata in questo momento'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
-   "pub_ts": 1793618660,
+   "title": "In settimana riunione Nato-Usa-E3 a Bruxelles sull'Ucraina",
+   "summary": "Si discuterà la strada da seguire per porre fine alla guerra in modo giusto e sostenibile",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/in-settimana-riunione-nato-usa-e3-a-bruxelles-sullucraina_8a70c890-2e00-435c-9025-9185003b4049.html",
+   "pub_ts": 1793708462,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
-     "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/in-settimana-riunione-nato-usa-e3-a-bruxelles-sullucraina_8a70c890-2e00-435c-9025-9185003b4049.html",
+     "title": "In settimana riunione Nato-Usa-E3 a Bruxelles sull'Ucraina"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/belgio-premier-de-wever-rassegna-dimissioni-re-filippo-avvia-consultazioni-AJeg8k1B",
-     "title": "Belgio: il premier De Wever rassegna le dimissioni, re Filippo I avvia consultazioni"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video",
-   "summary": "A Otto e Mezzo il procuratore capo di Napoli interviene sulla scarcerazione del ricercatore trentenne e replica agli attacchi della politica: «Non si delegittimi la magistratura» L'articolo Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video proviene da Open.",
-   "link": "https://www.open.online/2026/11/02/gratteri-meloni-caso-siher-attacchi-giudici-video/",
-   "pub_ts": 1793654923,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/02/gratteri-meloni-caso-siher-attacchi-giudici-video/",
-     "title": "Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/maccora-gli-attacchi-ai-giudici-una-deriva-pericolosa-la-protesta-e-legittima-caso-siher-nrqtsn9j",
-     "title": "Caso Siher, Maccora: «Gli attacchi ai giudici? Una deriva pericolosa. La protesta è legittima»"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/03/news/italia_esclusa_riunione_e3_ucraina_reazioni_opposizione-425696095/",
+     "title": "L’Italia esclusa dalla riunione E3 sull’Ucraina, Pd e 5S attaccano: “Noi guardiamo, altri decidono”"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence",
-   "summary": "Il sottosegretario Mantovano vedrà anche l'Agenzia per la Cybersicurezza dopo i casi in Sicilia. Problemi in Belgio, Svezia e altri Paesi. Tonnellate di cibo a rischio",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
-   "pub_ts": 1793681520,
-   "n_sources": 10,
+   "title": "La sfida delle startup che stanno adattando l’IA cinese alle esigenze del mercato occidentale",
+   "summary": "Sempre più startup stanno rielaborando i modelli IA cinesi a pesi aperti per renderli utilizzabili dalle aziende occidentali, che esprimono preoccupazioni in materia di censura e sicurezza",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/startup_ia_cinese_mercato_occidentale-425696129/?rss",
+   "pub_ts": 1793710718,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/startup_ia_cinese_mercato_occidentale-425696129/?rss",
+     "title": "La sfida delle startup che stanno adattando l’IA cinese alle esigenze del mercato occidentale"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "L'IA di Anthropic è vicina alla capacità di auto-migliorarsi",
+   "summary": "Lo scenario nei fattori di rischio di Claude, ma l'azienda assicura sui controlli umani",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/03/lia-di-anthropic-e-vicina-alla-capacita-di-auto-migliorarsi_2df0e499-73e0-4882-a24a-c566f36b28a7.html",
+   "pub_ts": 1793708747,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/03/lia-di-anthropic-e-vicina-alla-capacita-di-auto-migliorarsi_2df0e499-73e0-4882-a24a-c566f36b28a7.html",
+     "title": "L'IA di Anthropic è vicina alla capacità di auto-migliorarsi"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "WhatsApp, in arrivo i messaggi fissati senza scadenza",
+   "summary": "Quattro novità per le chat di gruppo, anche lo storico delle chat, stati e filtro menzioni",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/30/whatsapp-annuncia-quattro-novita-per-le-chat-di-gruppo_824b0a8d-c246-4af5-bdde-d007302dcc79.html",
+   "pub_ts": 1793707627,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/30/whatsapp-annuncia-quattro-novita-per-le-chat-di-gruppo_824b0a8d-c246-4af5-bdde-d007302dcc79.html",
+     "title": "WhatsApp, in arrivo i messaggi fissati senza scadenza"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Cammino Santa Barbara, arrivano app, Mìnera Card digitale e Street View",
+   "summary": "La rete conta 247 operatori convenzionati",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/03/cammino-santa-barbara-arrivano-app-minera-card-digitale-e-street-view_baf7e26f-724b-4235-bb3b-17825b260de7.html",
+   "pub_ts": 1793707596,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/03/cammino-santa-barbara-arrivano-app-minera-card-digitale-e-street-view_baf7e26f-724b-4235-bb3b-17825b260de7.html",
+     "title": "Cammino Santa Barbara, arrivano app, Mìnera Card digitale e Street View"
+    }
+   ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Bimbo muore di morbillo negli Usa, violenta polemica su politica vaccinazioni",
+   "summary": "E' primo decesso causato da questa malattia nello Stato di New York negli ultimi 30 anni",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/bimbo-muore-di-morbillo-negli-usa-violenta-polemica-su-politica-vaccinazioni_562f1445-f3dc-4e85-9ba6-5c5b0a2ce337.html",
+   "pub_ts": 1793708182,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
-     "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence"
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/bimbo-muore-di-morbillo-negli-usa-violenta-polemica-su-politica-vaccinazioni_562f1445-f3dc-4e85-9ba6-5c5b0a2ce337.html",
+     "title": "Bimbo muore di morbillo negli Usa, violenta polemica su politica vaccinazioni"
     },
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/attacchi_hacker_supermercati_frigoriferi_europa_belgio_svezia_irlanda-425693699/?rss",
-     "title": "Attacchi hacker contro i supermercati in tutta Europa: colpita anche l’Italia"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bimbo-muore-di-morbillo-negli-stati-uniti-polemica-sulla-politica-sulle_49b959bf-f831-4076-8162-eaa6807a342f.html",
+     "title": "Bimbo muore di morbillo negli Stati Uniti, polemica sulla politica sulle vaccinazioni"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_c475b1b2-184c-4001-b904-2a40ac6fd530.html",
-     "title": "Attacchi hacker ai supermercati, si muove anche il Copasir"
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/03/news/allarme_morbillo_usa_bimbo_muore_stato_new_york_vaccini-425695856/?rss",
+     "title": "Allarme morbillo negli Usa: bimbo muore nello stato di New York. Polemica sulle mancate vaccinazioni"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/domani-a-palazzo-chigi-riunione-con-mantovano-e-i-servizi-su-attacchi-hacker_0ea74377-d447-4d9b-918a-eafe85d7a50b.html",
-     "title": "Domani a Palazzo Chigi riunione con Mantovano e i Servizi su attacchi hacker"
-    },
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/morbillo-usa-new-york-epidemia-bambino-morto_2vFcs4GG0mRKAt0THxtuye",
+     "title": "Usa, bambino muore di morbillo a New York: primo caso in 30 anni"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "TG2 Italia Europa del 03/11/2026",
+   "summary": "Direttore Antonio Preziosi",
+   "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-03112026-b8b39e84-dd6f-4403-b494-ac75692b8272.html",
+   "pub_ts": 1793700152,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/attacchi-hacker-ai-supermercati-lalert-dellagenzia-cyber-in-italia-che-invia-un-vademecum-lallarme-eeaedbf8-5081-4fec-bf5c-8650006e2720.html",
-     "title": "Attacchi hacker ai supermercati, l'alert dell'Agenzia cyber in Italia, che invia un vademecum"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/03/news/italia_attacchi_hacker_agenzia_cybersicurezza_distribuzione-425695006/",
-     "title": "Attacco hacker ai supermercati, colpita anche l’Italia. E l’Agenzia convoca la grande distribuzione"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/02/supermercati-frigoriferi-hacker-italia-sicilia/",
-     "title": "Anche l’Italia colpita dagli attacchi hacker ai supermercati, frigo in tilt a Catania e Palermo. Chigi convoca un vertice d’urgenza"
+     "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-03112026-b8b39e84-dd6f-4403-b494-ac75692b8272.html",
+     "title": "TG2 Italia Europa del 03/11/2026"
     },
     {
      "name": "Domani",
@@ -328,117 +419,9 @@
      "title": "Giallo cyber-attacchi in mezza Europa. Colpita anche l’Italia"
     },
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/nuovi-attacchi-freezer-supermercati-europa/",
-     "title": "Nuovi attacchi ai freezer dei supermercati in tutta Europa (update)"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/cyberattacco-supermercati-europa_7gwduwytgj4j9r6C2pXVVv",
-     "title": "Cyberattacchi ai supermercati, frigoriferi in tilt in Europa: \"Hacker in azione, congelatori impostati a 50 gradi\""
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid",
-   "summary": "Sui telefoni di Kiev domenica notte è apparsa l’allerta nucleare, gettando nel panico molte persone. Dopo tre ore anche quelli di Mosca inondati di messaggi falsi",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
-   "pub_ts": 1793632944,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
-     "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/falsi-allarmi-attacchi-nucleari-ucraina-russia/",
-     "title": "Falsi allarmi per attacchi nucleari in Ucraina e Russia"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/02/applicazioni-emergenza-russia-ucraina-attacchi-informatici/",
-     "title": "Le app di emergenza in Russia e Ucraina sono state colpite da attacchi informatici"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Gary Marcus, 'i cittadini boicottino l'IA, OpenAI potrebbe crollare'",
-   "summary": "Psicologo e critico della Silicon Valley: \"Serve una governance globale, l'Ue non cavalchi l'ondata Usa sopravvalutata\"",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/gary-marcus-boicottare-lia-finche-le-aziende-non-la-mettono-a-posto_873d8099-8404-47ef-8c35-a41a78b2dc09.html",
-   "pub_ts": 1793638417,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/gary-marcus-boicottare-lia-finche-le-aziende-non-la-mettono-a-posto_873d8099-8404-47ef-8c35-a41a78b2dc09.html",
-     "title": "Gary Marcus, 'i cittadini boicottino l'IA, OpenAI potrebbe crollare'"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/gary-marcus-boicottare-lia-finche-le-aziende-non-la-mettono-a-posto_387c9a52-3883-44b2-9a72-0d917671a837.html",
-     "title": "Gary Marcus, 'boicottare l'IA finché le aziende non la mettono a posto'"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Anthropic, i ricavi del terzo trimestre balzano a 17 miliardi, perdita a 23,3 miliardi",
-   "summary": "Nei primi 9 mesi al 30 settembre ricavi a 33,24 miliardi su un 'rosso' a 104 miliardi",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/anthropic-ricavi-terzo-trimestre-balzano-a-17-miliardi-perdita-a-233-miliardi_2c663a1d-8017-40be-9fb2-bd63108fc09d.html",
-   "pub_ts": 1793636931,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/anthropic-ricavi-terzo-trimestre-balzano-a-17-miliardi-perdita-a-233-miliardi_2c663a1d-8017-40be-9fb2-bd63108fc09d.html",
-     "title": "Anthropic, i ricavi del terzo trimestre balzano a 17 miliardi, perdita a 23,3 miliardi"
-    }
-   ]
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Elezioni midterm Usa, otto duelli verso il fotofinish: ecco chi deciderà la sfida",
-   "summary": "Gli Stati cruciali per il controllo del Senato e della Camera negli Stati Uniti",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_otto_duelli_stati_ecco_chi_decidera_sfida-425694978/?rss",
-   "pub_ts": 1793664000,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_otto_duelli_stati_ecco_chi_decidera_sfida-425694978/?rss",
-     "title": "Elezioni midterm Usa, otto duelli verso il fotofinish: ecco chi deciderà la sfida"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_otto_duelli_stati_ecco_chi_decidera_sfida-425694978/",
-     "title": "Elezioni midterm Usa, otto duelli verso il fotofinish: ecco chi deciderà la sfida"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/elezioni-midterm-usa-si-rinnovano-tutti-i-435-seggi-della-camera-e-un-terzo-del-senato-f69a6cd5-6b24-470a-b0a1-2b09a9f89632.html",
-     "title": "Elezioni midterm: si rinnovano tutti i 435 seggi della Camera e un terzo del Senato"
-    },
-    {
-     "name": "Galileo",
-     "link": "https://www.galileonet.it/elezioni-di-midterm-lia-per-studiare-la-polarizzazione-degli-elettori/",
-     "title": "Elezioni di Midterm: l’IA per studiare la polarizzazione degli elettori"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/venti-di-guerra-sulle-elezioni-di-midterm-i-dem-i-piani-bellici-di-trump-sono-folli-wgl0wnt1",
-     "title": "Venti di guerra sulle elezioni di midterm. I dem: «I piani bellici di Trump sono folli»"
+     "name": "Repubblica Ambiente",
+     "link": "https://www.repubblica.it/green-and-blue/2026/11/02/news/foreste_legambiente_130mila_ettari_boschi_distrutti_incendi_2026-425694170/?rss",
+     "title": "Clima, oltre 130mila ettari di foreste in Italia distrutte dagli incendi nel 2026"
     }
    ],
    "subtype": "scienza"
@@ -446,50 +429,45 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Fp Cgil, con tagli a Ssn fortissimo rischio di chiusura di ospedali",
-   "summary": "'Grave manomissione del diritto alla salute costituzionalmente garantito'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/02/fp-cgil-con-tagli-a-ssn-fortissimo-rischio-di-chiusura-di-ospedali_42697c02-bbec-43c4-b143-d6fecc7960ef.html",
-   "pub_ts": 1793664000,
-   "n_sources": 3,
+   "title": "La tv come 'Scena aperta', su Rai 5 il nuovo programma di Bernardini",
+   "summary": "Sei puntate per raccontare musica e teatro con i protagonisti anche live",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/la-tv-come-scena-aperta-su-rai-5-il-nuovo-programma-di-bernardini_b6208a0a-a6df-4aa7-aaa4-e20077036aa0.html",
+   "pub_ts": 1793716870,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/02/fp-cgil-con-tagli-a-ssn-fortissimo-rischio-di-chiusura-di-ospedali_42697c02-bbec-43c4-b143-d6fecc7960ef.html",
-     "title": "Fp Cgil, con tagli a Ssn fortissimo rischio di chiusura di ospedali"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/03/news/sanita_manovra_bertolaso_tagli_insostenibili_cgil-425695077/",
-     "title": "Sanità, Bertolaso avvisa: “Tagli insostenibili”. Cgil: ospedali a rischio"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/la-tv-come-scena-aperta-su-rai-5-il-nuovo-programma-di-bernardini_b6208a0a-a6df-4aa7-aaa4-e20077036aa0.html",
+     "title": "La tv come 'Scena aperta', su Rai 5 il nuovo programma di Bernardini"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/02/sanita-bertolaso-manovra-tagli-insostenibili-pd-denuncia/8558085/",
-     "title": "Sanità, pure Bertolaso contro la manovra: “Tagli insostenibili per le Regioni”. Pd: “Smentita la propaganda del governo”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/03/una-boccata-daria-dalla-tv-in-tv-massimo-bernardini-torna-con-scena-aperta-tra-musica-teatro-e-cinema-dove-e-quando-vederlo/8558901/",
+     "title": "Una boccata d’aria dalla tv, in tv: Massimo Bernardini torna con Scena Aperta, tra musica, teatro e cinema. Dove e quando vederlo"
     }
    ],
-   "subtype": "scienza"
+   "subtype": "cultura"
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Esce 'I dodici', il romanzo che racconta gli apostoli nella loro umanità",
-   "summary": "Edito da Minerva con prefazione di Zuppi,da Giannotti e Lupi la gioventù dei primi seguaci",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/02/esce-i-dodici-il-romanzo-che-racconta-gli-apostoli-nella-loro-umanita_486c3270-e606-4212-b6b5-12fcac852afb.html",
-   "pub_ts": 1793635598,
+   "title": "Michael Douglas su Jack Nicholson, 'sta bene ma gira in pantofole'",
+   "summary": "L'attore aggiorna sullo stato di salute dell'amico da anni scomparso dalla circolazione",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/michael-douglas-su-jack-nicholson-sta-bene-ma-gira-in-pantofole_b0875586-8c37-4646-9210-219904190609.html",
+   "pub_ts": 1793714826,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/02/esce-i-dodici-il-romanzo-che-racconta-gli-apostoli-nella-loro-umanita_486c3270-e606-4212-b6b5-12fcac852afb.html",
-     "title": "Esce 'I dodici', il romanzo che racconta gli apostoli nella loro umanità"
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/michael-douglas-su-jack-nicholson-sta-bene-ma-gira-in-pantofole_b0875586-8c37-4646-9210-219904190609.html",
+     "title": "Michael Douglas su Jack Nicholson, 'sta bene ma gira in pantofole'"
     },
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/i-dodici-un-romanzo-di-marcello-giannotti-e-tiziana-lupi-racconta-gli-apostoli-prima-della-fede_2Bq7pO1jdBXHyasM6ak6ZI",
-     "title": "'I Dodici', un romanzo di Marcello Giannotti e Tiziana Lupi racconta gli apostoli prima della fede"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/03/jack-nicholson-e-scomparso-e-sparito-dalla-circolazione-e-lassu-vicino-a-casa-sua-e-se-ne-va-in-giro-in-pantofole-le-rivelazioni-di-michael-douglas/8559172/",
+     "title": "“Jack Nicholson è scomparso. È sparito dalla circolazione. È lassù vicino a casa sua e se ne va in giro in pantofole”: le rivelazioni di Michael Douglas"
     }
    ],
    "subtype": "cultura"
@@ -497,35 +475,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Raidue: programmi di mercoledì 4 novembre",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/raidue-programmi-di-mercoledi-4-novembre_d129ce77-8445-41c2-bb58-3f72c37352f1.html",
-   "pub_ts": 1793664090,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Dustin Hoffman: 'Girare 'll laureato' un'esperienza terribile per me'",
+   "summary": "L'attore temeva di non essere all'altezza della parte di Benjamin Braddock",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/02/dustin-hoffman-girare-ll-laureato-unesperienza-terribile-per-me_309e12c9-8137-42fa-8dff-f032ac5d46e3.html",
+   "pub_ts": 1793695430,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/raidue-programmi-di-mercoledi-4-novembre_d129ce77-8445-41c2-bb58-3f72c37352f1.html",
-     "title": "Raidue: programmi di mercoledì 4 novembre"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "È morta Erminia Manfredi, il 'punto fermo' nella vita di Nino",
-   "summary": "Muore a 94 anni, ex modella, costumista e scenografa",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/e-morta-erminia-manfredi-vedova-di-nino-e-costumista_18953676-cafd-4617-9e78-fcca8af90610.html",
-   "pub_ts": 1793643122,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
+     "name": "ANSA",
+     "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/02/dustin-hoffman-girare-ll-laureato-unesperienza-terribile-per-me_309e12c9-8137-42fa-8dff-f032ac5d46e3.html",
+     "title": "Dustin Hoffman: 'Girare 'll laureato' un'esperienza terribile per me'"
+    },
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/e-morta-erminia-manfredi-vedova-di-nino-e-costumista_18953676-cafd-4617-9e78-fcca8af90610.html",
-     "title": "È morta Erminia Manfredi, il 'punto fermo' nella vita di Nino"
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
+     "title": "Dustin Hoffman, 'girare 'll laureato' un'esperienza terribile per me'"
     }
    ],
    "subtype": "cultura"
@@ -533,59 +498,22 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Raid sulla scuola diventata rifugio, strage di civili a Zaporizhzhia",
-   "summary": "Le bombe a poche ore dalla fine della tregua di Oleshky causano 24 morti. L’ira di Zelensky: “Così la pace è impossibile”",
-   "link": "https://www.repubblica.it/esteri/2026/12/03/news/raid_scuola_diventata_rifugio_strage_civili_zaporizhzhia_dopo_tregua_oleshky-425694928/?rss",
-   "pub_ts": 1793663846,
+   "title": "I funerali solenni dei quattro militari italiani morti nell'incidente dell'elicottero in Bosnia. L'omelia: \"Seminatori di germogli di pace\"",
+   "summary": "A Roma l'ultimo saluto ai caduti nella missione Eufor. I feretri avvolti nel tricolore. Presenti Mattarella, Meloni e alte cariche dello Stato. Crosetto: 'Lo Stato si inchina a loro, l'Italia migliore'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/i-funerali-solenni-dei-quattro-militari-italiani-morti-nellincidente-dellelicottero-in-bosnia_925b4889-4149-4b99-8c99-c39e52474bfa.html",
+   "pub_ts": 1793710841,
    "n_sources": 6,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/12/03/news/raid_scuola_diventata_rifugio_strage_civili_zaporizhzhia_dopo_tregua_oleshky-425694928/?rss",
-     "title": "Raid sulla scuola diventata rifugio, strage di civili a Zaporizhzhia"
-    },
-    {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/zelensky-attacco-devastante-in-una-scuola-utilizzata-per-attivita-umanitarie_5d7684f7-539f-4f2e-b683-fa74199e5046.html",
-     "title": "Zelensky: 'Attacco devastante in una scuola utilizzata per attività umanitarie'"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/i-funerali-solenni-dei-quattro-militari-italiani-morti-nellincidente-dellelicottero-in-bosnia_925b4889-4149-4b99-8c99-c39e52474bfa.html",
+     "title": "I funerali solenni dei quattro militari italiani morti nell'incidente dell'elicottero in Bosnia. L'omelia: \"Seminatori di germogli di pace\""
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/zelensky-attacco-devastante-su-komysuhvakha-almeno-18-morti_66bdaee3-db9b-49b8-b429-78b135983319.html",
-     "title": "Zelensky, 'attacco devastante su Komysuhvakha, almeno 18 morti'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/02/guerra-ucraina-russia-attacco-scuola-rifugio-ultimi-agg-2-nov/",
-     "title": "Ucraina, raid russo su una scuola-rifugio a Zaporizhzhia: 26 morti. Zelensky: «Mosca prepara un nuovo massiccio attacco»"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucriana-russia-news-2-novembre-2026_7tbXUaID3Cux0Co0Gnh7ND",
-     "title": "Ucraina, raid russi su centro di aiuti umanitari in una scuola: almeno 24 morti nella regione di Zaporizhzhia"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/02/ucraina-zaporizhzhia-raid-scuola-notizie/8558371/",
-     "title": "Ucraina, Zelensky: “Raid russo su una scuola di Zaporizhzhia usata come centro aiuti”. Almeno 26 morti"
-    }
-   ]
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "In Italia le salme dei quattro militari morti in Bosnia, al Celio la camera ardente",
-   "summary": "Mattarella e Meloni a Ciampino con i familiari delle vittime. Martedì i funerali",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/in-italia-le-salme-dei-quattro-militari-morti-in-bosnia-al-celio-la-camera-ardente_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
-   "pub_ts": 1793644898,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/in-italia-le-salme-dei-quattro-militari-morti-in-bosnia-al-celio-la-camera-ardente_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
-     "title": "In Italia le salme dei quattro militari morti in Bosnia, al Celio la camera ardente"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/elicottero-caduto-mons.-saba-i-4-militari-seminatori-di-pace_e2c86599-fc70-4023-bf29-c4ceae47fd3d.html",
+     "title": "Elicottero caduto, mons. Saba, 'i 4 militari seminatori di pace'"
     },
     {
      "name": "ANSA Politica",
@@ -593,9 +521,14 @@
      "title": "Mattarella e Meloni domani ai funerali dei militari morti in Bosnia"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/atterrato-a-ciampino-laereo-con-le-salme-dei-militari-morti-in-bosnia_3b2beaf6-842b-4d63-a61d-ddb55172bd60.html",
-     "title": "Atterrato a Ciampino l'aereo con le salme dei militari morti in Bosnia"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/laddio-ai-militari-morti-in-bosnia-i-feretri-avvolti-nel-tricolore-a615faaa-e71f-4b1d-b7cb-7e320200809b.html",
+     "title": "L'addio ai militari morti in Bosnia: i feretri avvolti nel Tricolore"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/03/news/funerali_militari_morti_bosnia_incidente_aereo_oggi-425695638/",
+     "title": "I funerali dei quattro militari morti in Bosnia. Crosetto: “Lo Stato qui unito per rendere omaggio”"
     },
     {
      "name": "Il Post",
@@ -607,20 +540,29 @@
  ],
  "articles": [
   {
-   "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/?rss",
-   "description": "Il presidente mostra al comizio le foto dei lavori al Lincoln Memorial, poi ricorda che il suo nome è sulla scheda: “Sono elezioni decisive”",
-   "pub_ts": 1793664000,
-   "source": "Repubblica Esteri",
+   "title": "Midterm, l'America al voto: lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania. LA DIRETTA",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-lunghe-code-ai-seggi-in-georgia-new-york-michigan_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+   "description": "La mappa delle elezioni, un referendum su Trump. Per i sondaggi i dem avanti negli Stati chiave",
+   "pub_ts": 1793716810,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Torna a casa dopo 28 anni e 50mila km: ha fatto il giro del mondo a piedi. Karl Bushby era partito dal Cile nel '98. Oggi l'abbraccio con la mamma a Hull, Inghilterra",
-   "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/11/02/torna-a-casa-dopo-28-anni-e-50mila-km-ha-fatto-il-giro-del-mondo-a-piedi_fbc984a8-b67d-449a-a20d-f2a9cd52aa7a.html",
-   "description": "L'avventuriero britannico Karl Bushby è partito dal Cile nel 1998. Oggi l'abbraccio con la madre a Hull, in Inghilterra. Non ha usato nessun mezzo di traporto",
-   "pub_ts": 1793648940,
-   "source": "ANSA",
+   "title": "Trump: a fine anno stop agli aiuti militari a Israele, accordo con Netanyahu",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-a-fine-anno-stop-agli-aiuti-militari-a-israele-accordo-con_675d44f6-5c21-4bbd-b26f-ba7aee00c51a.html",
+   "description": "Von der Leyen: 'La chiusura di Hormuz è costata all'Ue 127 miliardi in più'. Calcolo sulle importazioni di combustibili fossili. \"Con petrolio e gas anche import di choc\"",
+   "pub_ts": 1793714434,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Midterm, Trump seguirà la notte elettorale alla Casa Bianca",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/midterm-trump-seguira-la-notte-elettorale-alla-casa-bianca_3a51b017-56c9-4677-8a11-7fa5b04439db.html",
+   "description": "Ricevimento a porte chiuse nella East Room dall'una di notte",
+   "pub_ts": 1793711211,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -628,26 +570,35 @@
    "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California",
    "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
    "description": "L’amministrazione guidata dal tycoon aveva ipotizzato che le schede per corrispondenza fossero state consegnate a persone non in possesso della cittadinanza americana",
-   "pub_ts": 1793663150,
+   "pub_ts": 1793708520,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Il tradimento che scuote i dem: Stevens appoggia il repubblicano. Ora El-Sayed rischia in Michigan",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/michigan_midterm_haley_stevens_repubblicano_el_sayed-425694863/?rss",
-   "description": "Aveva perso le primarie, ma promesso l’appoggio al candidato della sinistra: poi il voltafaccia",
-   "pub_ts": 1793664000,
-   "source": "Repubblica Esteri",
+   "title": "Salvini: 'Dei tagli alla scuola non sapevo niente, ora faremo proposte'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
+   "description": "'Sicuramente è qualcosa su cui ragionare'. Le opposizioni: 'Dorme in consiglio dei ministri?'",
+   "pub_ts": 1793716487,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Droni ucraini colpiscono una raffineria di petrolio in Russia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/droni-ucraini-colpiscono-una-raffineria-di-petrolio-in-russia_d6f87d43-f2cd-4c13-99f2-e9900a15ca15.html",
-   "description": "A 250 chilometri da Mosca, segnalati incendi nell'impianto",
-   "pub_ts": 1793682180,
-   "source": "ANSA Mondo",
+   "title": "L'Ue richiama l'Italia sul tetto agli stranieri a scuola: 'I trattati vietano discriminazioni'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/tetto-stranieri-a-scuola-lue-i-trattati-vietano-discriminazione-_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
+   "description": "La Commissione: \"Seguiamo gli sviluppi del decreto legge italiano\"",
+   "pub_ts": 1793715840,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Ex Ilva, al via lo spegnimento degli altiforni",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ex-ilva-al-via-lo-spegnimento-degli-altiforni-_3908cffc-1580-4da5-80be-6e2132624726.html",
+   "description": "Dopo la pronuncia della Cassazione stop ai bruciatori dei Cowpers entro la settimana",
+   "pub_ts": 1793713507,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -655,142 +606,115 @@
    "title": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'",
    "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_c9eeacb4-c9f2-4b85-99b4-c0fecffad406.html",
    "description": "'Loro desiderano ardentemente un'intesa, noi agiamo da una posizione di totale forza'",
-   "pub_ts": 1793675502,
+   "pub_ts": 1793712948,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Midterm Usa, non solo il Congresso: i dem sognano di riconquistare la maggioranza dei governatori",
-   "link": "https://www.adnkronos.com/internazionale/esteri/midterm-2026-sogno-dem-governatori-maggioranza_3soV4DEZLp0DnAHcjoq7kd",
-   "description": "(Adnkronos) - Dalla Georgia al Texas, passando per Ohio e Alaska, le sfide che potrebbero ridisegnare la mappa politica americana",
-   "pub_ts": 1793681880,
-   "source": "Adnkronos Esteri",
+   "title": "Osnato (FdI), Salvini? I patti da rispettare sono quelli scritti in manovra",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/osnato-fdi-salvini-i-patti-da-rispettare-sono-quelli-scritti-in-manovra_2a25e942-b438-48e8-9d33-5d01c4e6bc49.html",
+   "description": "",
+   "pub_ts": 1793711876,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Iran, via libera di Khamenei al governo per negoziare con gli Usa. Prezzo del petrolio a -7%",
-   "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-via-libera-khamenei-al-governo-per-negoziare-con-usa-cala-prezzo-petrolio-0b09617e-b59e-4e4e-84ed-00c15ebf672d.html",
-   "description": "Israele bombarda Gaza, altri 5 morti. Da mercoledì le consultazioni: Eisenkot a caccia di alleati. Trump ottimista sui negoziati con Teheran, ma gli USA attaccano l'isola di Qeshm",
-   "pub_ts": 1793672880,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/il-re-del-belgio-congela-le-dimissioni-di-de-wever-e-avvia-consultazioni_03c69f15-0453-412d-9e92-c1a496180562.html",
-   "description": "'Il Paese non può permettersi una crisi politica prolungata in questo momento'",
-   "pub_ts": 1793618660,
+   "title": "In settimana riunione Nato-Usa-E3 a Bruxelles sull'Ucraina",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/in-settimana-riunione-nato-usa-e3-a-bruxelles-sullucraina_8a70c890-2e00-435c-9025-9185003b4049.html",
+   "description": "Si discuterà la strada da seguire per porre fine alla guerra in modo giusto e sostenibile",
+   "pub_ts": 1793708462,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video",
-   "link": "https://www.open.online/2026/11/02/gratteri-meloni-caso-siher-attacchi-giudici-video/",
-   "description": "A Otto e Mezzo il procuratore capo di Napoli interviene sulla scarcerazione del ricercatore trentenne e replica agli attacchi della politica: «Non si delegittimi la magistratura» L'articolo Caso Siher, Gratteri: «Meloni ha parlato prima di leggere. Gli attacchi ai giudici? Non hanno metabolizzato la sconfitta al referendum» – Il video proviene da Open.",
-   "pub_ts": 1793654923,
-   "source": "Open",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
-   "description": "Il sottosegretario Mantovano vedrà anche l'Agenzia per la Cybersicurezza dopo i casi in Sicilia. Problemi in Belgio, Svezia e altri Paesi. Tonnellate di cibo a rischio",
-   "pub_ts": 1793681520,
-   "source": "ANSA Mondo",
+   "title": "La sfida delle startup che stanno adattando l’IA cinese alle esigenze del mercato occidentale",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/startup_ia_cinese_mercato_occidentale-425696129/?rss",
+   "description": "Sempre più startup stanno rielaborando i modelli IA cinesi a pesi aperti per renderli utilizzabili dalle aziende occidentali, che esprimono preoccupazioni in materia di censura e sicurezza",
+   "pub_ts": 1793710718,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Scambio di attacchi cyber tra Ucraina e Russia: in tilt gli allarmi per i raid",
-   "link": "https://www.repubblica.it/esteri/2026/11/02/news/ucraina_russia_attacchi_cyber_app_allarme-425692739/?rss",
-   "description": "Sui telefoni di Kiev domenica notte è apparsa l’allerta nucleare, gettando nel panico molte persone. Dopo tre ore anche quelli di Mosca inondati di messaggi falsi",
-   "pub_ts": 1793632944,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Gary Marcus, 'i cittadini boicottino l'IA, OpenAI potrebbe crollare'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/gary-marcus-boicottare-lia-finche-le-aziende-non-la-mettono-a-posto_873d8099-8404-47ef-8c35-a41a78b2dc09.html",
-   "description": "Psicologo e critico della Silicon Valley: \"Serve una governance globale, l'Ue non cavalchi l'ondata Usa sopravvalutata\"",
-   "pub_ts": 1793638417,
+   "title": "L'IA di Anthropic è vicina alla capacità di auto-migliorarsi",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/03/lia-di-anthropic-e-vicina-alla-capacita-di-auto-migliorarsi_2df0e499-73e0-4882-a24a-c566f36b28a7.html",
+   "description": "Lo scenario nei fattori di rischio di Claude, ma l'azienda assicura sui controlli umani",
+   "pub_ts": 1793708747,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Anthropic, i ricavi del terzo trimestre balzano a 17 miliardi, perdita a 23,3 miliardi",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/02/anthropic-ricavi-terzo-trimestre-balzano-a-17-miliardi-perdita-a-233-miliardi_2c663a1d-8017-40be-9fb2-bd63108fc09d.html",
-   "description": "Nei primi 9 mesi al 30 settembre ricavi a 33,24 miliardi su un 'rosso' a 104 miliardi",
-   "pub_ts": 1793636931,
+   "title": "WhatsApp, in arrivo i messaggi fissati senza scadenza",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/30/whatsapp-annuncia-quattro-novita-per-le-chat-di-gruppo_824b0a8d-c246-4af5-bdde-d007302dcc79.html",
+   "description": "Quattro novità per le chat di gruppo, anche lo storico delle chat, stati e filtro menzioni",
+   "pub_ts": 1793707627,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Elezioni midterm Usa, otto duelli verso il fotofinish: ecco chi deciderà la sfida",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_otto_duelli_stati_ecco_chi_decidera_sfida-425694978/?rss",
-   "description": "Gli Stati cruciali per il controllo del Senato e della Camera negli Stati Uniti",
-   "pub_ts": 1793664000,
-   "source": "Repubblica Esteri",
+   "title": "Cammino Santa Barbara, arrivano app, Mìnera Card digitale e Street View",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/03/cammino-santa-barbara-arrivano-app-minera-card-digitale-e-street-view_baf7e26f-724b-4235-bb3b-17825b260de7.html",
+   "description": "La rete conta 247 operatori convenzionati",
+   "pub_ts": 1793707596,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "Fp Cgil, con tagli a Ssn fortissimo rischio di chiusura di ospedali",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/02/fp-cgil-con-tagli-a-ssn-fortissimo-rischio-di-chiusura-di-ospedali_42697c02-bbec-43c4-b143-d6fecc7960ef.html",
-   "description": "'Grave manomissione del diritto alla salute costituzionalmente garantito'",
-   "pub_ts": 1793664000,
+   "title": "Bimbo muore di morbillo negli Usa, violenta polemica su politica vaccinazioni",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/bimbo-muore-di-morbillo-negli-usa-violenta-polemica-su-politica-vaccinazioni_562f1445-f3dc-4e85-9ba6-5c5b0a2ce337.html",
+   "description": "E' primo decesso causato da questa malattia nello Stato di New York negli ultimi 30 anni",
+   "pub_ts": 1793708182,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Esce 'I dodici', il romanzo che racconta gli apostoli nella loro umanità",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/02/esce-i-dodici-il-romanzo-che-racconta-gli-apostoli-nella-loro-umanita_486c3270-e606-4212-b6b5-12fcac852afb.html",
-   "description": "Edito da Minerva con prefazione di Zuppi,da Giannotti e Lupi la gioventù dei primi seguaci",
-   "pub_ts": 1793635598,
+   "title": "TG2 Italia Europa del 03/11/2026",
+   "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-03112026-b8b39e84-dd6f-4403-b494-ac75692b8272.html",
+   "description": "Direttore Antonio Preziosi",
+   "pub_ts": 1793700152,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "La tv come 'Scena aperta', su Rai 5 il nuovo programma di Bernardini",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/la-tv-come-scena-aperta-su-rai-5-il-nuovo-programma-di-bernardini_b6208a0a-a6df-4aa7-aaa4-e20077036aa0.html",
+   "description": "Sei puntate per raccontare musica e teatro con i protagonisti anche live",
+   "pub_ts": 1793716870,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Raidue: programmi di mercoledì 4 novembre",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/raidue-programmi-di-mercoledi-4-novembre_d129ce77-8445-41c2-bb58-3f72c37352f1.html",
-   "description": "",
-   "pub_ts": 1793664090,
+   "title": "Michael Douglas su Jack Nicholson, 'sta bene ma gira in pantofole'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/michael-douglas-su-jack-nicholson-sta-bene-ma-gira-in-pantofole_b0875586-8c37-4646-9210-219904190609.html",
+   "description": "L'attore aggiorna sullo stato di salute dell'amico da anni scomparso dalla circolazione",
+   "pub_ts": 1793714826,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "È morta Erminia Manfredi, il 'punto fermo' nella vita di Nino",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/e-morta-erminia-manfredi-vedova-di-nino-e-costumista_18953676-cafd-4617-9e78-fcca8af90610.html",
-   "description": "Muore a 94 anni, ex modella, costumista e scenografa",
-   "pub_ts": 1793643122,
-   "source": "ANSA Cultura",
+   "title": "Dustin Hoffman: 'Girare 'll laureato' un'esperienza terribile per me'",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/02/dustin-hoffman-girare-ll-laureato-unesperienza-terribile-per-me_309e12c9-8137-42fa-8dff-f032ac5d46e3.html",
+   "description": "L'attore temeva di non essere all'altezza della parte di Benjamin Braddock",
+   "pub_ts": 1793695430,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Raid sulla scuola diventata rifugio, strage di civili a Zaporizhzhia",
-   "link": "https://www.repubblica.it/esteri/2026/12/03/news/raid_scuola_diventata_rifugio_strage_civili_zaporizhzhia_dopo_tregua_oleshky-425694928/?rss",
-   "description": "Le bombe a poche ore dalla fine della tregua di Oleshky causano 24 morti. L’ira di Zelensky: “Così la pace è impossibile”",
-   "pub_ts": 1793663846,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "cronaca"
-  },
-  {
-   "title": "In Italia le salme dei quattro militari morti in Bosnia, al Celio la camera ardente",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/in-italia-le-salme-dei-quattro-militari-morti-in-bosnia-al-celio-la-camera-ardente_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
-   "description": "Mattarella e Meloni a Ciampino con i familiari delle vittime. Martedì i funerali",
-   "pub_ts": 1793644898,
+   "title": "I funerali solenni dei quattro militari italiani morti nell'incidente dell'elicottero in Bosnia. L'omelia: \"Seminatori di germogli di pace\"",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/i-funerali-solenni-dei-quattro-militari-italiani-morti-nellincidente-dellelicottero-in-bosnia_925b4889-4149-4b99-8c99-c39e52474bfa.html",
+   "description": "A Roma l'ultimo saluto ai caduti nella missione Eufor. I feretri avvolti nel tricolore. Presenti Mattarella, Meloni e alte cariche dello Stato. Crosetto: 'Lo Stato si inchina a loro, l'Italia migliore'",
+   "pub_ts": 1793710841,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
