@@ -1,6 +1,6 @@
 {
- "generated_at": 1793717792,
- "updated_at": 1793717792,
+ "generated_at": 1793739151,
+ "updated_at": 1793739151,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,27 +10,32 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Midterm, l'America al voto: lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania. LA DIRETTA",
-   "summary": "La mappa delle elezioni, un referendum su Trump. Per i sondaggi i dem avanti negli Stati chiave",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-lunghe-code-ai-seggi-in-georgia-new-york-michigan_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-   "pub_ts": 1793716810,
+   "title": "Midterm, l'America al voto: seggi aperti in tutti gli Usa. Primo risultato: Guam ai repubblicani LA DIRETTA",
+   "summary": "La mappa delle elezioni, un referendum su Trump. Il tycoon in trincea teme l'onda blu: 'Se stufi di me farò il premier in Israele'. Il maltempo ostacola il voto nel sud-ovest",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-seggi-aperti-in-tutti-gli-usa.-primo-risultato_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+   "pub_ts": 1793738149,
    "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-lunghe-code-ai-seggi-in-georgia-new-york-michigan_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-     "title": "Midterm, l'America al voto: lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania. LA DIRETTA"
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-seggi-aperti-in-tutti-gli-usa.-primo-risultato_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+     "title": "Midterm, l'America al voto: seggi aperti in tutti gli Usa. Primo risultato: Guam ai repubblicani LA DIRETTA"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/lunghe-code-ai-seggi-in-georgia-new-york-michigan-e-pennsylvania_0665d80b-129d-45a5-9b3f-dab2e1c7c023.html",
-     "title": "Lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/al-via-il-voto-per-le-midterm-negli-usa-aperti-i-seggi-nel-vermont_ddcf1716-275b-444b-b4f7-01d85864560c.html",
+     "title": "Al via il voto per le midterm negli Usa, aperti i seggi nel Vermont"
     },
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/?rss",
      "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-cdee7466-51f5-4976-906e-c89377d0f963.html",
+     "title": "Aperti tutti i seggi. Misure straordinarie per il maltempo. Primo risultato: Guam ai repubblicani."
     },
     {
      "name": "Adnkronos Esteri",
@@ -41,75 +46,176 @@
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/03/diretta/midterm_elezioni_usa_trump_2026-425695623/",
      "title": "Elezioni midterm Usa, news. Milioni alle urne, aperti i primi seggi. Trump: “Vinceremo”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Si dimette il ministro dei Trasporti spagnolo per l'incidente ferroviario a Toledo",
+   "summary": "Il socialista Oscar Puente rinuncia anche alla candidatura alle elezioni del 29 novembre",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/si-dimette-il-ministro-dei-trasporti-spagnolo-per-lincidente-ferroviario-a-toledo_2932ac28-7304-4b62-bbba-feddbfffae7a.html",
+   "pub_ts": 1793738927,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/si-dimette-il-ministro-dei-trasporti-spagnolo-per-lincidente-ferroviario-a-toledo_2932ac28-7304-4b62-bbba-feddbfffae7a.html",
+     "title": "Si dimette il ministro dei Trasporti spagnolo per l'incidente ferroviario a Toledo"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/spagna_ministro_trasporti_oscar_puente_dimissioni_incidente_urda-425697285/?rss",
+     "title": "Spagna, si dimette il ministro dei Trasporti Puente"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/03/scontro-treni-spagna-dimissioni-ministro-trasporti/",
+     "title": "Scontro tra treni in Spagna, si dimette il ministro dei Trasporti: «Non posso restare dopo due incidenti in un anno»"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/spagna-si-dimette-ministro-trasporti-l-incidente-ferroviario-toledo-AJ9ZZo3B",
+     "title": "Spagna, si dimette il ministro dei Trasporti per l’incidente ferroviario a Toledo"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/spagna_ministro_trasporti_oscar_puente_dimissioni_incidente_urda-425697285/",
+     "title": "Spagna, si dimette il ministro dei Trasporti Puente"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Nyt, 'Usa hanno piano per colpire l'Iran subito dopo il voto'",
+   "summary": "'Le condizioni ideali per il tipo di attacco dureranno poco'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/nyt-usa-hanno-piano-per-colpire-liran-subito-dopo-il-voto_fa118783-ff94-47a5-8b96-ad2b2587abea.html",
+   "pub_ts": 1793736564,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/nyt-usa-hanno-piano-per-colpire-liran-subito-dopo-il-voto_fa118783-ff94-47a5-8b96-ad2b2587abea.html",
+     "title": "Nyt, 'Usa hanno piano per colpire l'Iran subito dopo il voto'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/midterm_usa_2026_voto_punizione_presidente_precedenti_spaventano_trump-425695697/?rss",
+     "title": "Midterm Usa, il voto come punizione per il presidente: i precedenti che spaventano Trump"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/usa-israele-trump-netanyahu-ultime-news_2mBqIOGHJ7HPlchaKUqGIa",
+     "title": "Trump spiazza Israele: \"Entro fine anno stop aiuti Usa\". Eisenkot: \"Netanyahu deve dare risposte, ne va della sicurezza nazionale\""
     },
     {
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/trump-candidati-dem-pericolosi-voto-midterm-piu-importante-storia-usa-AJ6HLE2B",
      "title": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/11/03/elezioni-midterm-usa-trump-urne-aperte-notizie/8559580/",
+     "title": "Elezioni midterm Usa, seggi aperti. Trump: “Stop agli aiuti militari a Israele”. Nyt: “Piano per attaccare l’Iran subito dopo il voto”"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Trump: a fine anno stop agli aiuti militari a Israele, accordo con Netanyahu",
-   "summary": "Von der Leyen: 'La chiusura di Hormuz è costata all'Ue 127 miliardi in più'. Calcolo sulle importazioni di combustibili fossili. \"Con petrolio e gas anche import di choc\"",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-a-fine-anno-stop-agli-aiuti-militari-a-israele-accordo-con_675d44f6-5c21-4bbd-b26f-ba7aee00c51a.html",
-   "pub_ts": 1793714434,
-   "n_sources": 4,
+   "area": "italia",
+   "title": "Tetto agli stranieri in classe, è scontro tra Ue e governo",
+   "summary": "L'Unione europea: 'I trattati vietano la discriminazione'. Valditara: 'Andiamo avanti'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/lue-richiama-litalia-sul-tetto-agli-stranieri-a-scuola.-valditara-andiamo_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
+   "pub_ts": 1793734277,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-a-fine-anno-stop-agli-aiuti-militari-a-israele-accordo-con_675d44f6-5c21-4bbd-b26f-ba7aee00c51a.html",
-     "title": "Trump: a fine anno stop agli aiuti militari a Israele, accordo con Netanyahu"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/lue-richiama-litalia-sul-tetto-agli-stranieri-a-scuola.-valditara-andiamo_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
+     "title": "Tetto agli stranieri in classe, è scontro tra Ue e governo"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/usa-israele-trump-netanyahu-ultime-news_2mBqIOGHJ7HPlchaKUqGIa",
-     "title": "Israele, Trump: \"Accordo con Netanyahu, entro fine anno stop aiuti Usa\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/diretta/guerra_iran_usa_israele_news_oggi-425695125/",
-     "title": "Guerra in Iran, le news di oggi. Aereo da Israele atterra a Sofia dopo allarme bomba. Trump: “Stop aiuti a Netanyahu a fine anno”"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/valditara-su-tetto-stranieri-andiamo-avanti-nessuna-discriminazione_88f261c0-ed0c-448f-a6d7-735fe935064c.html",
+     "title": "Valditara, 'su tetto stranieri andiamo avanti, nessuna discriminazione'"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/iran-khamenei-trattativa-usa-ma-netanyahu-guerra-hormuz-hbmvsdjq",
-     "title": "Iran, Khamenei dà il via libera alla trattativa con gli Usa. Ma Netanyahu vuole la guerra"
+     "link": "https://www.editorialedomani.it/politica/europa/scuola-tetto-alunni-stranieri-ue-discriminazione-decreto-valditara-lpfaf2u0",
+     "title": "Il tetto agli alunni “stranieri” per l’Ue «è discriminatorio»"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/03/tetto-stranieri-scuola-ue-vietato-discriminazioni/",
+     "title": "Tetto agli stranieri in classe, l’altolà dell’Ue: «Vietato discriminare per nazionalità». Valditara insiste: «Andiamo avanti»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/politica/tetto-stranieri-scuola-ue-discriminazione_33eI7TbwlJsxihTAT5aZrI",
+     "title": "Scuola, vice presidente Commissione su tetto stranieri: \"Trattati Ue vietano la discriminazione\". Valditara: \"Norma a favore dell'integrazione\""
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Midterm, Trump seguirà la notte elettorale alla Casa Bianca",
-   "summary": "Ricevimento a porte chiuse nella East Room dall'una di notte",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/midterm-trump-seguira-la-notte-elettorale-alla-casa-bianca_3a51b017-56c9-4677-8a11-7fa5b04439db.html",
-   "pub_ts": 1793711211,
+   "title": "Il vertice dei leader anti-Netanyahu: “Il mandato ad Eisenkot”. Ma la maggioranza resta un’enigma",
+   "summary": "Il Blocco del cambiamento si è riunito ad Herzliya in vista delle consultazioni per la formazione del governo",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/israele_opposizione_netanyahu_eisenkot_governo-425696543/?rss",
+   "pub_ts": 1793732144,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/midterm-trump-seguira-la-notte-elettorale-alla-casa-bianca_3a51b017-56c9-4677-8a11-7fa5b04439db.html",
-     "title": "Midterm, Trump seguirà la notte elettorale alla Casa Bianca"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/israele_opposizione_netanyahu_eisenkot_governo-425696543/?rss",
+     "title": "Il vertice dei leader anti-Netanyahu: “Il mandato ad Eisenkot”. Ma la maggioranza resta un’enigma"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/stati-uniti-midterm-lultimo-discorso-elettorale-di-trump-non-ho-finito-guerra-in-iran-per-gentilezza-58df7cd0-af25-4abf-8986-08ae309bb876.html",
-     "title": "Midterm, l'ultimo discorso elettorale di Trump: \"Non ho finito guerra in Iran per gentilezza\""
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/israele-gli-anti-netanyahu-si-compattano-su-eisenkot-partiti-arabi-elezioni-governo-7-ottobre-sm3bhciq",
+     "title": "Israele, gli anti Netanyahu si compattano su Eisenkot"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/israele_opposizione_netanyahu_eisenkot_governo-425696543/",
+     "title": "Il vertice dei leader anti-Netanyahu: “Il mandato ad Eisenkot”. Ma la maggioranza resta un’enigma"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/03/israele-ultraortodossi-netanyahu-governo-notizie/8559153/",
+     "title": "Israele, chi sono i partiti degli ultraortodossi contesi da Netanyahu e dall’opposizione di Eisenkot"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il figlio di Trump evoca l'assassinio di Charlie Kirk nell'ultimo appello al voto",
+   "summary": "Don Jr.: 'Votate come se gli altri fossero pronti a uccidervi per le vostre opinioni'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/il-figlio-di-trump-evoca-lassassinio-di-charlie-kirk-nellultimo-appello-al-voto_dbad6c36-0050-4282-90fd-448743a0259a.html",
+   "pub_ts": 1793730729,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/il-figlio-di-trump-evoca-lassassinio-di-charlie-kirk-nellultimo-appello-al-voto_dbad6c36-0050-4282-90fd-448743a0259a.html",
+     "title": "Il figlio di Trump evoca l'assassinio di Charlie Kirk nell'ultimo appello al voto"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/?rss",
+     "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”"
     },
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/03/trump-discorso-prima-midterm-vasca-washington/",
      "title": "Il bizzarro ultimo discorso di Trump prima del voto"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/03/midterm-usa-seggi-exit-poll-risultati-orari-notte-elettorale/8559074/",
-     "title": "Midterm Usa: chiusura dei seggi, exit poll e risultati. Cosa succede e a che ora nella notte elettorale"
     }
    ]
   },
@@ -119,8 +225,8 @@
    "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California",
    "summary": "L’amministrazione guidata dal tycoon aveva ipotizzato che le schede per corrispondenza fossero state consegnate a persone non in possesso della cittadinanza americana",
    "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
-   "pub_ts": 1793708520,
-   "n_sources": 4,
+   "pub_ts": 1793663150,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -134,11 +240,6 @@
      "title": "Corte Suprema Usa boccia richiesta Trump su blocco 20.000 voti in California"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/california-corte-suprema-boccia-la-richiesta-di-trump-di-accantonare-20mila-schede-elettorali-52a892bc-c45b-4f66-9a3c-c0d2babb14a4.html",
-     "title": "California, Corte suprema boccia la richiesta di Trump di accantonare 20mila schede elettorali"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/02/trump-chiede-sospensione-voti-per-posta-california/",
      "title": "L’amministrazione Trump ha chiesto alla Corte Suprema di sospendere lo spoglio del voto per posta di 20mila elettori della California"
@@ -148,280 +249,181 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Salvini: 'Dei tagli alla scuola non sapevo niente, ora faremo proposte'",
-   "summary": "'Sicuramente è qualcosa su cui ragionare'. Le opposizioni: 'Dorme in consiglio dei ministri?'",
+   "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio",
+   "summary": "Salvini richiama gli alleati. FdI: 'i patti sono quelli scritti'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
-   "pub_ts": 1793716487,
-   "n_sources": 3,
+   "pub_ts": 1793736118,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
-     "title": "Salvini: 'Dei tagli alla scuola non sapevo niente, ora faremo proposte'"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-gli-alleati-rispettino-le-priorita-della-lega-a-partire-dalle-pensioni_33426517-9983-4afb-803a-82316f0ee9ad.html",
-     "title": "Salvini, gli alleati rispettino le priorità della Lega, a partire dalle pensioni"
+     "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/03/news/salvini_manovra_lega_pensioni_tagli_scuola_richieste-425695976/",
-     "title": "Manovra, Salvini: “Gli alleati rispettino la Lega sulle pensioni, non sapevo dei tagli alla scuola”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "L'Ue richiama l'Italia sul tetto agli stranieri a scuola: 'I trattati vietano discriminazioni'",
-   "summary": "La Commissione: \"Seguiamo gli sviluppi del decreto legge italiano\"",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/tetto-stranieri-a-scuola-lue-i-trattati-vietano-discriminazione-_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
-   "pub_ts": 1793715840,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/tetto-stranieri-a-scuola-lue-i-trattati-vietano-discriminazione-_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
-     "title": "L'Ue richiama l'Italia sul tetto agli stranieri a scuola: 'I trattati vietano discriminazioni'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/tetto-stranieri-a-scuola-lue-i-trattati-vietano-discriminazione-17364193-f603-4623-b7a8-c7aa29d417cd.html",
-     "title": "Tetto stranieri a scuola, l'Ue: \"I trattati vietano discriminazione\""
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/politica/tetto-stranieri-scuola-ue-discriminazione_33eI7TbwlJsxihTAT5aZrI",
-     "title": "Scuola, vice presidente Commissione su tetto stranieri: \"Trattati Ue vietano la discriminazione\""
+     "link": "https://www.repubblica.it/economia/2026/11/03/news/condono_edilizio_manovra_emendamento_fdi_proposta_2003-425696778/",
+     "title": "Manovra, rispunta il condono edilizio. Fratelli d’Italia sfida Salvini sulla casa"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Ex Ilva, al via lo spegnimento degli altiforni",
-   "summary": "Dopo la pronuncia della Cassazione stop ai bruciatori dei Cowpers entro la settimana",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ex-ilva-al-via-lo-spegnimento-degli-altiforni-_3908cffc-1580-4da5-80be-6e2132624726.html",
-   "pub_ts": 1793713507,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ex-ilva-al-via-lo-spegnimento-degli-altiforni-_3908cffc-1580-4da5-80be-6e2132624726.html",
-     "title": "Ex Ilva, al via lo spegnimento degli altiforni"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/03/ex-ilva-spegnimento-altiforni/",
-     "title": "Sono iniziate le operazioni di spegnimento degli altiforni dell’ex ILVA di Taranto"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/ex-ilva-al-via-lo-spegnimento-degli-altiforni-confindustria-su-cordata-decisione-non-ancora-presa-71d30d00-acef-425c-8f54-ef72aed9d780.html",
-     "title": "Taranto, iniziato lo spegnimento degli altiforni dell’ex Ilva. Sindacati: il Governo dia risposte"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'",
-   "summary": "'Loro desiderano ardentemente un'intesa, noi agiamo da una posizione di totale forza'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_c9eeacb4-c9f2-4b85-99b4-c0fecffad406.html",
-   "pub_ts": 1793712948,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_c9eeacb4-c9f2-4b85-99b4-c0fecffad406.html",
-     "title": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/iran-usa-notizie-oggi-isola-qeshm_y1qhd5ce0pjjS9ugbvPQK",
-     "title": "Iran, raid Usa su isola di Qeshm. Teheran: \"Siamo in guerra, difenderci nostro diritto\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/03/raid-usa-iran-qeshm-trump-notizie/8558924/",
-     "title": "Gli Stati Uniti tornano a colpire l’Iran: raid sull’isola di Qeshm. Trump: “Facciano un accordo o sarà guerra”. Teheran: “Sta agli Usa scegliere la pace”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Osnato (FdI), Salvini? I patti da rispettare sono quelli scritti in manovra",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/osnato-fdi-salvini-i-patti-da-rispettare-sono-quelli-scritti-in-manovra_2a25e942-b438-48e8-9d33-5d01c4e6bc49.html",
-   "pub_ts": 1793711876,
+   "title": "Ipotesi emendamento FdI per riaprire il condono edilizio per la Campania",
+   "summary": "Sul punto impegni di Cirielli in campagna elettorale",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/ipotesi-emendamento-fdi-per-riaprire-il-condono-edilizio-per-la-campania_0407575f-d33a-4fd5-9a75-0f2442312d6d.html",
+   "pub_ts": 1793730851,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/osnato-fdi-salvini-i-patti-da-rispettare-sono-quelli-scritti-in-manovra_2a25e942-b438-48e8-9d33-5d01c4e6bc49.html",
-     "title": "Osnato (FdI), Salvini? I patti da rispettare sono quelli scritti in manovra"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/ipotesi-emendamento-fdi-per-riaprire-il-condono-edilizio-per-la-campania_0407575f-d33a-4fd5-9a75-0f2442312d6d.html",
+     "title": "Ipotesi emendamento FdI per riaprire il condono edilizio per la Campania"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/03/salvini-manovra-maggioranza-legge-bilancio-notizie/8559081/",
-     "title": "Salvini critica la Manovra e fa implodere la maggioranza. FdI: “Patti sono sanciti”. Le opposizioni: “Dormiva in Consiglio dei ministri?”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/03/condono-edilizio-2003-fdi-campania-notizie/8559577/",
+     "title": "Fratelli d’Italia vuole rilanciare il condono edilizio: verso emendamento alla manovra. Avs: “Strizza l’occhio all’illegalità”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "In settimana riunione Nato-Usa-E3 a Bruxelles sull'Ucraina",
-   "summary": "Si discuterà la strada da seguire per porre fine alla guerra in modo giusto e sostenibile",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/in-settimana-riunione-nato-usa-e3-a-bruxelles-sullucraina_8a70c890-2e00-435c-9025-9185003b4049.html",
-   "pub_ts": 1793708462,
+   "title": "Conte: 'Riconosceremo la Palestina e stracceremo l'accordo militare con Israele'",
+   "summary": "'Sul diritto internazionale l'Italia continua a disertare'. Pd-M5s-Avs: 'Urgente lo stop all'importazione di beni dagli insediamenti israeliani illegali', la Camera boccia la richiesta",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/conte-riconosceremo-la-palestina-e-stracceremo-laccordo-militare-con-israele_3fec33d0-d84b-42d5-a42a-7d1907a18073.html",
+   "pub_ts": 1793722484,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/in-settimana-riunione-nato-usa-e3-a-bruxelles-sullucraina_8a70c890-2e00-435c-9025-9185003b4049.html",
-     "title": "In settimana riunione Nato-Usa-E3 a Bruxelles sull'Ucraina"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/conte-riconosceremo-la-palestina-e-stracceremo-laccordo-militare-con-israele_3fec33d0-d84b-42d5-a42a-7d1907a18073.html",
+     "title": "Conte: 'Riconosceremo la Palestina e stracceremo l'accordo militare con Israele'"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/03/news/italia_esclusa_riunione_e3_ucraina_reazioni_opposizione-425696095/",
-     "title": "L’Italia esclusa dalla riunione E3 sull’Ucraina, Pd e 5S attaccano: “Noi guardiamo, altri decidono”"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/03/conte-palestina-israele-accordo-militare-notizie/8559359/",
+     "title": "Conte: “Riconosceremo la Palestina e stracceremo l’accordo militare con Israele”"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "La sfida delle startup che stanno adattando l’IA cinese alle esigenze del mercato occidentale",
-   "summary": "Sempre più startup stanno rielaborando i modelli IA cinesi a pesi aperti per renderli utilizzabili dalle aziende occidentali, che esprimono preoccupazioni in materia di censura e sicurezza",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/startup_ia_cinese_mercato_occidentale-425696129/?rss",
-   "pub_ts": 1793710718,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/startup_ia_cinese_mercato_occidentale-425696129/?rss",
-     "title": "La sfida delle startup che stanno adattando l’IA cinese alle esigenze del mercato occidentale"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "L'IA di Anthropic è vicina alla capacità di auto-migliorarsi",
-   "summary": "Lo scenario nei fattori di rischio di Claude, ma l'azienda assicura sui controlli umani",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/03/lia-di-anthropic-e-vicina-alla-capacita-di-auto-migliorarsi_2df0e499-73e0-4882-a24a-c566f36b28a7.html",
-   "pub_ts": 1793708747,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/03/lia-di-anthropic-e-vicina-alla-capacita-di-auto-migliorarsi_2df0e499-73e0-4882-a24a-c566f36b28a7.html",
-     "title": "L'IA di Anthropic è vicina alla capacità di auto-migliorarsi"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "WhatsApp, in arrivo i messaggi fissati senza scadenza",
-   "summary": "Quattro novità per le chat di gruppo, anche lo storico delle chat, stati e filtro menzioni",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/30/whatsapp-annuncia-quattro-novita-per-le-chat-di-gruppo_824b0a8d-c246-4af5-bdde-d007302dcc79.html",
-   "pub_ts": 1793707627,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/30/whatsapp-annuncia-quattro-novita-per-le-chat-di-gruppo_824b0a8d-c246-4af5-bdde-d007302dcc79.html",
-     "title": "WhatsApp, in arrivo i messaggi fissati senza scadenza"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Cammino Santa Barbara, arrivano app, Mìnera Card digitale e Street View",
-   "summary": "La rete conta 247 operatori convenzionati",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/03/cammino-santa-barbara-arrivano-app-minera-card-digitale-e-street-view_baf7e26f-724b-4235-bb3b-17825b260de7.html",
-   "pub_ts": 1793707596,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/03/cammino-santa-barbara-arrivano-app-minera-card-digitale-e-street-view_baf7e26f-724b-4235-bb3b-17825b260de7.html",
-     "title": "Cammino Santa Barbara, arrivano app, Mìnera Card digitale e Street View"
-    }
-   ]
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Bimbo muore di morbillo negli Usa, violenta polemica su politica vaccinazioni",
-   "summary": "E' primo decesso causato da questa malattia nello Stato di New York negli ultimi 30 anni",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/bimbo-muore-di-morbillo-negli-usa-violenta-polemica-su-politica-vaccinazioni_562f1445-f3dc-4e85-9ba6-5c5b0a2ce337.html",
-   "pub_ts": 1793708182,
+   "title": "Attacchi hacker in 8 Paesi Ue, frigo in tilt nei supermercati. “Ci aggrediscono sul cibo”",
+   "summary": "Dal Belgio all’Estonia coinvolti vari megastore Termometri a 50 gradi, tonnellate di alimenti andati a male e sprecati",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/attacchi_hacker_paesi_ue_supermercati_bruxelles_allarme-425694889/?rss",
+   "pub_ts": 1793717934,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/bimbo-muore-di-morbillo-negli-usa-violenta-polemica-su-politica-vaccinazioni_562f1445-f3dc-4e85-9ba6-5c5b0a2ce337.html",
-     "title": "Bimbo muore di morbillo negli Usa, violenta polemica su politica vaccinazioni"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/attacchi_hacker_paesi_ue_supermercati_bruxelles_allarme-425694889/?rss",
+     "title": "Attacchi hacker in 8 Paesi Ue, frigo in tilt nei supermercati. “Ci aggrediscono sul cibo”"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bimbo-muore-di-morbillo-negli-stati-uniti-polemica-sulla-politica-sulle_49b959bf-f831-4076-8162-eaa6807a342f.html",
-     "title": "Bimbo muore di morbillo negli Stati Uniti, polemica sulla politica sulle vaccinazioni"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_c475b1b2-184c-4001-b904-2a40ac6fd530.html",
+     "title": "Attacchi hacker ai supermercati, si muove anche il Copasir"
     },
     {
-     "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/2026/11/03/news/allarme_morbillo_usa_bimbo_muore_stato_new_york_vaccini-425695856/?rss",
-     "title": "Allarme morbillo negli Usa: bimbo muore nello stato di New York. Polemica sulle mancate vaccinazioni"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/attacchi-supermercati-restare-senza-cibo/",
+     "title": "Attacchi ai supermercati, il 54% di noi teme di restare senza cibo"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/morbillo-usa-new-york-epidemia-bambino-morto_2vFcs4GG0mRKAt0THxtuye",
-     "title": "Usa, bambino muore di morbillo a New York: primo caso in 30 anni"
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/abbiamo-un-problema-enorme-hacker-scatenati-nei-supermercati-tonnellate-di-cibo-da-buttare/",
+     "title": "Abbiamo un problema (enorme): hacker scatenati nei supermercati, tonnellate di cibo da buttare. Casi in Italia"
     }
-   ],
-   "subtype": "scienza"
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Premio Lagrange a Dashun Wang, 'l'Ia può rendere la scienza più conformista'",
+   "summary": "Premiato per i suoi studi sulla 'scienza della scienza'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/03/premio-lagrange-a-dashun-wang-lia-puo-rendere-la-scienza-piu-conformista_534c4441-146c-47e1-9568-a0a3d4afab67.html",
+   "pub_ts": 1793718947,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/03/premio-lagrange-a-dashun-wang-lia-puo-rendere-la-scienza-piu-conformista_534c4441-146c-47e1-9568-a0a3d4afab67.html",
+     "title": "Premio Lagrange a Dashun Wang, 'l'Ia può rendere la scienza più conformista'"
+    },
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/premio-lagrange-a-dashun-wang-lia-puo-rendere-la-scienza-piu-conformista_cda7d410-665c-4339-84a6-d4b008648055.html",
+     "title": "Premio Lagrange a Dashun Wang, 'l'Ia può rendere la scienza più conformista'"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale",
+   "summary": "E' Dan Driscoll, ha lasciato incarico a settembre dopo notizie di tensioni con Hegseth",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
+   "pub_ts": 1793719327,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
+     "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Testati nello spazio i chip di Google per l'IA",
+   "summary": "A bordo di un satellite di Planet Labs lanciato il primo ottobre",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/11/03/testati-nello-spazio-i-chip-di-google-per-lia_20736b6d-abc9-4d76-83a2-9184dee6c6bd.html",
+   "pub_ts": 1793719214,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/11/03/testati-nello-spazio-i-chip-di-google-per-lia_20736b6d-abc9-4d76-83a2-9184dee6c6bd.html",
+     "title": "Testati nello spazio i chip di Google per l'IA"
+    }
+   ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "TG2 Italia Europa del 03/11/2026",
-   "summary": "Direttore Antonio Preziosi",
-   "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-03112026-b8b39e84-dd6f-4403-b494-ac75692b8272.html",
-   "pub_ts": 1793700152,
+   "title": "Tagli alla sanità in manovra, riunione straordinaria delle Regioni",
+   "summary": "'Stop ai vincoli sul personale e più risorse'. Meloni: 'Più soldi che in passato'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/tagli-alla-sanita-in-manovra-riunione-straordinaria-delle-regioni_7cdaa1d1-eb50-4b15-b477-81428d29baa6.html",
+   "pub_ts": 1793735837,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-03112026-b8b39e84-dd6f-4403-b494-ac75692b8272.html",
-     "title": "TG2 Italia Europa del 03/11/2026"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/tagli-alla-sanita-in-manovra-riunione-straordinaria-delle-regioni_7cdaa1d1-eb50-4b15-b477-81428d29baa6.html",
+     "title": "Tagli alla sanità in manovra, riunione straordinaria delle Regioni"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/attacco-informatico-ai-congelatori-europei-allerta-anche-in-italia-supermercati-v8jo8wam",
-     "title": "Giallo cyber-attacchi in mezza Europa. Colpita anche l’Italia"
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/manovra-per-gemmato-ingeneroso-dire-che-ci-sono-stati-tagli-alla_094e63b5-d54f-4fb6-84dd-46bd9141d4bd.html",
+     "title": "Manovra, per Gemmato 'ingeneroso dire che ci sono stati tagli alla sanità'"
     },
     {
-     "name": "Repubblica Ambiente",
-     "link": "https://www.repubblica.it/green-and-blue/2026/11/02/news/foreste_legambiente_130mila_ettari_boschi_distrutti_incendi_2026-425694170/?rss",
-     "title": "Clima, oltre 130mila ettari di foreste in Italia distrutte dagli incendi nel 2026"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/03/legge-bilancio-governo-meloni-fondi-sanita-proteste/",
+     "title": "I soldi per la sanità aumentano ma per Regioni e medici non bastano. Cosa dicono i conti della Manovra"
     }
    ],
    "subtype": "scienza"
@@ -429,139 +431,152 @@
   {
    "category": "varia",
    "area": null,
-   "title": "La tv come 'Scena aperta', su Rai 5 il nuovo programma di Bernardini",
-   "summary": "Sei puntate per raccontare musica e teatro con i protagonisti anche live",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/la-tv-come-scena-aperta-su-rai-5-il-nuovo-programma-di-bernardini_b6208a0a-a6df-4aa7-aaa4-e20077036aa0.html",
-   "pub_ts": 1793716870,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/la-tv-come-scena-aperta-su-rai-5-il-nuovo-programma-di-bernardini_b6208a0a-a6df-4aa7-aaa4-e20077036aa0.html",
-     "title": "La tv come 'Scena aperta', su Rai 5 il nuovo programma di Bernardini"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/03/una-boccata-daria-dalla-tv-in-tv-massimo-bernardini-torna-con-scena-aperta-tra-musica-teatro-e-cinema-dove-e-quando-vederlo/8558901/",
-     "title": "Una boccata d’aria dalla tv, in tv: Massimo Bernardini torna con Scena Aperta, tra musica, teatro e cinema. Dove e quando vederlo"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Michael Douglas su Jack Nicholson, 'sta bene ma gira in pantofole'",
-   "summary": "L'attore aggiorna sullo stato di salute dell'amico da anni scomparso dalla circolazione",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/michael-douglas-su-jack-nicholson-sta-bene-ma-gira-in-pantofole_b0875586-8c37-4646-9210-219904190609.html",
-   "pub_ts": 1793714826,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/michael-douglas-su-jack-nicholson-sta-bene-ma-gira-in-pantofole_b0875586-8c37-4646-9210-219904190609.html",
-     "title": "Michael Douglas su Jack Nicholson, 'sta bene ma gira in pantofole'"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/03/jack-nicholson-e-scomparso-e-sparito-dalla-circolazione-e-lassu-vicino-a-casa-sua-e-se-ne-va-in-giro-in-pantofole-le-rivelazioni-di-michael-douglas/8559172/",
-     "title": "“Jack Nicholson è scomparso. È sparito dalla circolazione. È lassù vicino a casa sua e se ne va in giro in pantofole”: le rivelazioni di Michael Douglas"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Dustin Hoffman: 'Girare 'll laureato' un'esperienza terribile per me'",
-   "summary": "L'attore temeva di non essere all'altezza della parte di Benjamin Braddock",
-   "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/02/dustin-hoffman-girare-ll-laureato-unesperienza-terribile-per-me_309e12c9-8137-42fa-8dff-f032ac5d46e3.html",
-   "pub_ts": 1793695430,
-   "n_sources": 2,
+   "title": "Bambino morto per morbillo negli Usa, il primo in 30 anni a New York",
+   "summary": "In Italia quasi 600 contagi da inizio anno, nessuna Regione al 95% di bimbi vaccinati",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bambino-morto-per-morbillo-negli-usa-il-primo-in-30-anni-a-new-york_49b959bf-f831-4076-8162-eaa6807a342f.html",
+   "pub_ts": 1793730262,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/02/dustin-hoffman-girare-ll-laureato-unesperienza-terribile-per-me_309e12c9-8137-42fa-8dff-f032ac5d46e3.html",
-     "title": "Dustin Hoffman: 'Girare 'll laureato' un'esperienza terribile per me'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bambino-morto-per-morbillo-negli-usa-il-primo-in-30-anni-a-new-york_49b959bf-f831-4076-8162-eaa6807a342f.html",
+     "title": "Bambino morto per morbillo negli Usa, il primo in 30 anni a New York"
     },
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
-     "title": "Dustin Hoffman, 'girare 'll laureato' un'esperienza terribile per me'"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "I funerali solenni dei quattro militari italiani morti nell'incidente dell'elicottero in Bosnia. L'omelia: \"Seminatori di germogli di pace\"",
-   "summary": "A Roma l'ultimo saluto ai caduti nella missione Eufor. I feretri avvolti nel tricolore. Presenti Mattarella, Meloni e alte cariche dello Stato. Crosetto: 'Lo Stato si inchina a loro, l'Italia migliore'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/i-funerali-solenni-dei-quattro-militari-italiani-morti-nellincidente-dellelicottero-in-bosnia_925b4889-4149-4b99-8c99-c39e52474bfa.html",
-   "pub_ts": 1793710841,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/i-funerali-solenni-dei-quattro-militari-italiani-morti-nellincidente-dellelicottero-in-bosnia_925b4889-4149-4b99-8c99-c39e52474bfa.html",
-     "title": "I funerali solenni dei quattro militari italiani morti nell'incidente dell'elicottero in Bosnia. L'omelia: \"Seminatori di germogli di pace\""
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/elicottero-caduto-mons.-saba-i-4-militari-seminatori-di-pace_e2c86599-fc70-4023-bf29-c4ceae47fd3d.html",
-     "title": "Elicottero caduto, mons. Saba, 'i 4 militari seminatori di pace'"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/02/mattarella-e-meloni-domani-ai-funerali-dei-militari-morti-in-bosnia_cb4fb520-3810-408b-8657-5ea577bd8ea7.html",
-     "title": "Mattarella e Meloni domani ai funerali dei militari morti in Bosnia"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/laddio-ai-militari-morti-in-bosnia-i-feretri-avvolti-nel-tricolore-a615faaa-e71f-4b1d-b7cb-7e320200809b.html",
-     "title": "L'addio ai militari morti in Bosnia: i feretri avvolti nel Tricolore"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/03/news/funerali_militari_morti_bosnia_incidente_aereo_oggi-425695638/",
-     "title": "I funerali dei quattro militari morti in Bosnia. Crosetto: “Lo Stato qui unito per rendere omaggio”"
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/ansa-boxbambino-morto-per-morbillo-in-usa-il-primo-in-30-anni-a-new-york_0cecadd9-3528-4591-96a3-ade71da027ac.html",
+     "title": "Bambino morto per morbillo in Usa, il primo in 30 anni a New York"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/02/salme-incidente-elicottero-bosnia-italia/",
-     "title": "Sono stati riportati in Italia i corpi dei quattro militari morti nell’incidente dell’elicottero precipitato in Bosnia Erzegovina"
+     "link": "https://www.ilpost.it/2026/11/03/new-york-morte-morbillo/",
+     "title": "Lo stato di New York ha registrato la prima morte associata al morbillo dopo oltre trent’anni"
     }
-   ]
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Homo Alien, Veneziani si interroga sulla sostituzione dell'umano",
+   "summary": "Lo sviluppo dell'intelligenza artificiale mette a rischio il futuro dell'uomo",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/homo-alien-veneziani-si-interroga-sulla-sostituzione-dellumano_1c4f836d-8f27-4f8b-83de-1c6da2e7e13d.html",
+   "pub_ts": 1793727595,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/homo-alien-veneziani-si-interroga-sulla-sostituzione-dellumano_1c4f836d-8f27-4f8b-83de-1c6da2e7e13d.html",
+     "title": "Homo Alien, Veneziani si interroga sulla sostituzione dell'umano"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/la-scomparsa-dellumano-secondo-marcello-veneziani-sugli-scaffali-homo-alien_7HmdcD7Rb3prnh0R7gVD4u",
+     "title": "La scomparsa dell'umano secondo Marcello Veneziani, sugli scaffali 'Homo Alien'"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Cate Blanchett ai vertici di un nuovo magazine letterario di Uniqlo",
+   "summary": "L'attrice già ambasciatrice del brand coordinerà voci di donne in 'Stories She Tell'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/03/cate-blanchett-ai-vertici-di-un-nuovo-magazine-letterario-di-uniqlo_d715fb36-ec69-42c6-92f2-83db5956f5f4.html",
+   "pub_ts": 1793725934,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/03/cate-blanchett-ai-vertici-di-un-nuovo-magazine-letterario-di-uniqlo_d715fb36-ec69-42c6-92f2-83db5956f5f4.html",
+     "title": "Cate Blanchett ai vertici di un nuovo magazine letterario di Uniqlo"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/donne/notizie/2026/11/03/cate-blanchett-ai-vertici-di-un-nuovo-magazine-letterario-di-uniqlo_863c12cc-e5e0-4d76-a791-170067d40553.html",
+     "title": "Cate Blanchett ai vertici di un nuovo magazine letterario di Uniqlo"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm",
+   "summary": "L'attrice schierata sui temi \"dell'ambiente e della democrazia\"",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
+   "pub_ts": 1793716914,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
+     "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/02/maratone-speciali-e-approfondimenti-tv-italiana-in-campo-per-il-voto-di-midterm-usa_fc911483-dc78-4207-aff4-3fba74cf2498.html",
+     "title": "Maratone, speciali e approfondimenti, tv italiana in campo per il voto di midterm Usa"
+    }
+   ],
+   "subtype": "cultura"
   }
  ],
  "articles": [
   {
-   "title": "Midterm, l'America al voto: lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania. LA DIRETTA",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-lunghe-code-ai-seggi-in-georgia-new-york-michigan_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-   "description": "La mappa delle elezioni, un referendum su Trump. Per i sondaggi i dem avanti negli Stati chiave",
-   "pub_ts": 1793716810,
+   "title": "Midterm, l'America al voto: seggi aperti in tutti gli Usa. Primo risultato: Guam ai repubblicani LA DIRETTA",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-seggi-aperti-in-tutti-gli-usa.-primo-risultato_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+   "description": "La mappa delle elezioni, un referendum su Trump. Il tycoon in trincea teme l'onda blu: 'Se stufi di me farò il premier in Israele'. Il maltempo ostacola il voto nel sud-ovest",
+   "pub_ts": 1793738149,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump: a fine anno stop agli aiuti militari a Israele, accordo con Netanyahu",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-a-fine-anno-stop-agli-aiuti-militari-a-israele-accordo-con_675d44f6-5c21-4bbd-b26f-ba7aee00c51a.html",
-   "description": "Von der Leyen: 'La chiusura di Hormuz è costata all'Ue 127 miliardi in più'. Calcolo sulle importazioni di combustibili fossili. \"Con petrolio e gas anche import di choc\"",
-   "pub_ts": 1793714434,
+   "title": "Si dimette il ministro dei Trasporti spagnolo per l'incidente ferroviario a Toledo",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/si-dimette-il-ministro-dei-trasporti-spagnolo-per-lincidente-ferroviario-a-toledo_2932ac28-7304-4b62-bbba-feddbfffae7a.html",
+   "description": "Il socialista Oscar Puente rinuncia anche alla candidatura alle elezioni del 29 novembre",
+   "pub_ts": 1793738927,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Midterm, Trump seguirà la notte elettorale alla Casa Bianca",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/midterm-trump-seguira-la-notte-elettorale-alla-casa-bianca_3a51b017-56c9-4677-8a11-7fa5b04439db.html",
-   "description": "Ricevimento a porte chiuse nella East Room dall'una di notte",
-   "pub_ts": 1793711211,
+   "title": "Nyt, 'Usa hanno piano per colpire l'Iran subito dopo il voto'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/nyt-usa-hanno-piano-per-colpire-liran-subito-dopo-il-voto_fa118783-ff94-47a5-8b96-ad2b2587abea.html",
+   "description": "'Le condizioni ideali per il tipo di attacco dureranno poco'",
+   "pub_ts": 1793736564,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Tetto agli stranieri in classe, è scontro tra Ue e governo",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/lue-richiama-litalia-sul-tetto-agli-stranieri-a-scuola.-valditara-andiamo_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
+   "description": "L'Unione europea: 'I trattati vietano la discriminazione'. Valditara: 'Andiamo avanti'",
+   "pub_ts": 1793734277,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il vertice dei leader anti-Netanyahu: “Il mandato ad Eisenkot”. Ma la maggioranza resta un’enigma",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/israele_opposizione_netanyahu_eisenkot_governo-425696543/?rss",
+   "description": "Il Blocco del cambiamento si è riunito ad Herzliya in vista delle consultazioni per la formazione del governo",
+   "pub_ts": 1793732144,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il figlio di Trump evoca l'assassinio di Charlie Kirk nell'ultimo appello al voto",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/il-figlio-di-trump-evoca-lassassinio-di-charlie-kirk-nellultimo-appello-al-voto_dbad6c36-0050-4282-90fd-448743a0259a.html",
+   "description": "Don Jr.: 'Votate come se gli altri fossero pronti a uccidervi per le vostre opinioni'",
+   "pub_ts": 1793730729,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
@@ -570,154 +585,118 @@
    "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California",
    "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
    "description": "L’amministrazione guidata dal tycoon aveva ipotizzato che le schede per corrispondenza fossero state consegnate a persone non in possesso della cittadinanza americana",
-   "pub_ts": 1793708520,
+   "pub_ts": 1793663150,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Salvini: 'Dei tagli alla scuola non sapevo niente, ora faremo proposte'",
+   "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
-   "description": "'Sicuramente è qualcosa su cui ragionare'. Le opposizioni: 'Dorme in consiglio dei ministri?'",
-   "pub_ts": 1793716487,
+   "description": "Salvini richiama gli alleati. FdI: 'i patti sono quelli scritti'",
+   "pub_ts": 1793736118,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "L'Ue richiama l'Italia sul tetto agli stranieri a scuola: 'I trattati vietano discriminazioni'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/tetto-stranieri-a-scuola-lue-i-trattati-vietano-discriminazione-_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
-   "description": "La Commissione: \"Seguiamo gli sviluppi del decreto legge italiano\"",
-   "pub_ts": 1793715840,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Ex Ilva, al via lo spegnimento degli altiforni",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ex-ilva-al-via-lo-spegnimento-degli-altiforni-_3908cffc-1580-4da5-80be-6e2132624726.html",
-   "description": "Dopo la pronuncia della Cassazione stop ai bruciatori dei Cowpers entro la settimana",
-   "pub_ts": 1793713507,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_c9eeacb4-c9f2-4b85-99b4-c0fecffad406.html",
-   "description": "'Loro desiderano ardentemente un'intesa, noi agiamo da una posizione di totale forza'",
-   "pub_ts": 1793712948,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Osnato (FdI), Salvini? I patti da rispettare sono quelli scritti in manovra",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/osnato-fdi-salvini-i-patti-da-rispettare-sono-quelli-scritti-in-manovra_2a25e942-b438-48e8-9d33-5d01c4e6bc49.html",
-   "description": "",
-   "pub_ts": 1793711876,
+   "title": "Ipotesi emendamento FdI per riaprire il condono edilizio per la Campania",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/ipotesi-emendamento-fdi-per-riaprire-il-condono-edilizio-per-la-campania_0407575f-d33a-4fd5-9a75-0f2442312d6d.html",
+   "description": "Sul punto impegni di Cirielli in campagna elettorale",
+   "pub_ts": 1793730851,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "In settimana riunione Nato-Usa-E3 a Bruxelles sull'Ucraina",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/in-settimana-riunione-nato-usa-e3-a-bruxelles-sullucraina_8a70c890-2e00-435c-9025-9185003b4049.html",
-   "description": "Si discuterà la strada da seguire per porre fine alla guerra in modo giusto e sostenibile",
-   "pub_ts": 1793708462,
-   "source": "ANSA Mondo",
+   "title": "Conte: 'Riconosceremo la Palestina e stracceremo l'accordo militare con Israele'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/conte-riconosceremo-la-palestina-e-stracceremo-laccordo-militare-con-israele_3fec33d0-d84b-42d5-a42a-7d1907a18073.html",
+   "description": "'Sul diritto internazionale l'Italia continua a disertare'. Pd-M5s-Avs: 'Urgente lo stop all'importazione di beni dagli insediamenti israeliani illegali', la Camera boccia la richiesta",
+   "pub_ts": 1793722484,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "La sfida delle startup che stanno adattando l’IA cinese alle esigenze del mercato occidentale",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/startup_ia_cinese_mercato_occidentale-425696129/?rss",
-   "description": "Sempre più startup stanno rielaborando i modelli IA cinesi a pesi aperti per renderli utilizzabili dalle aziende occidentali, che esprimono preoccupazioni in materia di censura e sicurezza",
-   "pub_ts": 1793710718,
-   "source": "Repubblica Tecnologia",
+   "title": "Attacchi hacker in 8 Paesi Ue, frigo in tilt nei supermercati. “Ci aggrediscono sul cibo”",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/attacchi_hacker_paesi_ue_supermercati_bruxelles_allarme-425694889/?rss",
+   "description": "Dal Belgio all’Estonia coinvolti vari megastore Termometri a 50 gradi, tonnellate di alimenti andati a male e sprecati",
+   "pub_ts": 1793717934,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "L'IA di Anthropic è vicina alla capacità di auto-migliorarsi",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/03/lia-di-anthropic-e-vicina-alla-capacita-di-auto-migliorarsi_2df0e499-73e0-4882-a24a-c566f36b28a7.html",
-   "description": "Lo scenario nei fattori di rischio di Claude, ma l'azienda assicura sui controlli umani",
-   "pub_ts": 1793708747,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "WhatsApp, in arrivo i messaggi fissati senza scadenza",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/30/whatsapp-annuncia-quattro-novita-per-le-chat-di-gruppo_824b0a8d-c246-4af5-bdde-d007302dcc79.html",
-   "description": "Quattro novità per le chat di gruppo, anche lo storico delle chat, stati e filtro menzioni",
-   "pub_ts": 1793707627,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Cammino Santa Barbara, arrivano app, Mìnera Card digitale e Street View",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/03/cammino-santa-barbara-arrivano-app-minera-card-digitale-e-street-view_baf7e26f-724b-4235-bb3b-17825b260de7.html",
-   "description": "La rete conta 247 operatori convenzionati",
-   "pub_ts": 1793707596,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Bimbo muore di morbillo negli Usa, violenta polemica su politica vaccinazioni",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/bimbo-muore-di-morbillo-negli-usa-violenta-polemica-su-politica-vaccinazioni_562f1445-f3dc-4e85-9ba6-5c5b0a2ce337.html",
-   "description": "E' primo decesso causato da questa malattia nello Stato di New York negli ultimi 30 anni",
-   "pub_ts": 1793708182,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "TG2 Italia Europa del 03/11/2026",
-   "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-03112026-b8b39e84-dd6f-4403-b494-ac75692b8272.html",
-   "description": "Direttore Antonio Preziosi",
-   "pub_ts": 1793700152,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "La tv come 'Scena aperta', su Rai 5 il nuovo programma di Bernardini",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/la-tv-come-scena-aperta-su-rai-5-il-nuovo-programma-di-bernardini_b6208a0a-a6df-4aa7-aaa4-e20077036aa0.html",
-   "description": "Sei puntate per raccontare musica e teatro con i protagonisti anche live",
-   "pub_ts": 1793716870,
+   "title": "Premio Lagrange a Dashun Wang, 'l'Ia può rendere la scienza più conformista'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/03/premio-lagrange-a-dashun-wang-lia-puo-rendere-la-scienza-piu-conformista_534c4441-146c-47e1-9568-a0a3d4afab67.html",
+   "description": "Premiato per i suoi studi sulla 'scienza della scienza'",
+   "pub_ts": 1793718947,
    "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "Michael Douglas su Jack Nicholson, 'sta bene ma gira in pantofole'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/michael-douglas-su-jack-nicholson-sta-bene-ma-gira-in-pantofole_b0875586-8c37-4646-9210-219904190609.html",
-   "description": "L'attore aggiorna sullo stato di salute dell'amico da anni scomparso dalla circolazione",
-   "pub_ts": 1793714826,
-   "source": "ANSA Cultura",
+   "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
+   "description": "E' Dan Driscoll, ha lasciato incarico a settembre dopo notizie di tensioni con Hegseth",
+   "pub_ts": 1793719327,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Testati nello spazio i chip di Google per l'IA",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/11/03/testati-nello-spazio-i-chip-di-google-per-lia_20736b6d-abc9-4d76-83a2-9184dee6c6bd.html",
+   "description": "A bordo di un satellite di Planet Labs lanciato il primo ottobre",
+   "pub_ts": 1793719214,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Tagli alla sanità in manovra, riunione straordinaria delle Regioni",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/tagli-alla-sanita-in-manovra-riunione-straordinaria-delle-regioni_7cdaa1d1-eb50-4b15-b477-81428d29baa6.html",
+   "description": "'Stop ai vincoli sul personale e più risorse'. Meloni: 'Più soldi che in passato'",
+   "pub_ts": 1793735837,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Dustin Hoffman: 'Girare 'll laureato' un'esperienza terribile per me'",
-   "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/02/dustin-hoffman-girare-ll-laureato-unesperienza-terribile-per-me_309e12c9-8137-42fa-8dff-f032ac5d46e3.html",
-   "description": "L'attore temeva di non essere all'altezza della parte di Benjamin Braddock",
-   "pub_ts": 1793695430,
+   "title": "Bambino morto per morbillo negli Usa, il primo in 30 anni a New York",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bambino-morto-per-morbillo-negli-usa-il-primo-in-30-anni-a-new-york_49b959bf-f831-4076-8162-eaa6807a342f.html",
+   "description": "In Italia quasi 600 contagi da inizio anno, nessuna Regione al 95% di bimbi vaccinati",
+   "pub_ts": 1793730262,
    "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "I funerali solenni dei quattro militari italiani morti nell'incidente dell'elicottero in Bosnia. L'omelia: \"Seminatori di germogli di pace\"",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/i-funerali-solenni-dei-quattro-militari-italiani-morti-nellincidente-dellelicottero-in-bosnia_925b4889-4149-4b99-8c99-c39e52474bfa.html",
-   "description": "A Roma l'ultimo saluto ai caduti nella missione Eufor. I feretri avvolti nel tricolore. Presenti Mattarella, Meloni e alte cariche dello Stato. Crosetto: 'Lo Stato si inchina a loro, l'Italia migliore'",
-   "pub_ts": 1793710841,
-   "source": "ANSA",
+   "title": "Homo Alien, Veneziani si interroga sulla sostituzione dell'umano",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/homo-alien-veneziani-si-interroga-sulla-sostituzione-dellumano_1c4f836d-8f27-4f8b-83de-1c6da2e7e13d.html",
+   "description": "Lo sviluppo dell'intelligenza artificiale mette a rischio il futuro dell'uomo",
+   "pub_ts": 1793727595,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "cronaca"
+   "section": "varia"
+  },
+  {
+   "title": "Cate Blanchett ai vertici di un nuovo magazine letterario di Uniqlo",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/03/cate-blanchett-ai-vertici-di-un-nuovo-magazine-letterario-di-uniqlo_d715fb36-ec69-42c6-92f2-83db5956f5f4.html",
+   "description": "L'attrice già ambasciatrice del brand coordinerà voci di donne in 'Stories She Tell'",
+   "pub_ts": 1793725934,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
+   "description": "L'attrice schierata sui temi \"dell'ambiente e della democrazia\"",
+   "pub_ts": 1793716914,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "varia"
   }
  ]
 }
