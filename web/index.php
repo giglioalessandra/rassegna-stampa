@@ -1,78 +1,4 @@
-<?php
-// Pagina della rassegna: legge articles.json (già selezionato da curate.py).
-// Va caricata nella stessa cartella di articles.json; se esiste, usa anche cache/articles.json.
-date_default_timezone_set('Europe/Rome');
-
-$f = is_file(__DIR__ . '/articles.json') ? __DIR__ . '/articles.json' : __DIR__ . '/cache/articles.json';
-$d = is_file($f) ? json_decode(file_get_contents($f), true) : null;
-if ($d && !isset($d['items'], $d['generated_at'])) { $d = null; } // file nel vecchio formato
-$items = $d['items'] ?? [];
-
-function h($s) { return htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8'); }
-
-// Toglie la coda "L'articolo ... proviene da ..." che alcuni feed aggiungono e accorcia il testo.
-function riassunto($s, $max = 260) {
-    $s = trim(preg_replace('/\s*L\'articolo .*? proviene da .*$/us', '', (string)$s));
-    $s = preg_replace('/\s+/u', ' ', $s);
-    if (mb_strlen($s) > $max) {
-        $s = mb_substr($s, 0, $max);
-        $s = preg_replace('/\s+\S*$/u', '', $s) . '…';
-    }
-    return $s;
-}
-
-// "2 ore fa", "ieri", ecc.
-function quando($ts) {
-    $m = max(0, (time() - (int)$ts) / 60);
-    if ($m < 60)   return 'meno di un\'ora fa';
-    if ($m < 1440) { $o = (int)round($m / 60); return $o . ($o == 1 ? ' ora fa' : ' ore fa'); }
-    $g = (int)round($m / 1440);
-    return $g == 1 ? 'ieri' : $g . ' giorni fa';
-}
-
-$giorni = ['domenica','lunedì','martedì','mercoledì','giovedì','venerdì','sabato'];
-$mesi   = ['','gennaio','febbraio','marzo','aprile','maggio','giugno','luglio','agosto','settembre','ottobre','novembre','dicembre'];
-$ts_ref = $d ? (int)$d['generated_at'] : time();
-$data_it = $giorni[(int)date('w', $ts_ref)] . ' ' . (int)date('j', $ts_ref) . ' ' . $mesi[(int)date('n', $ts_ref)] . ' ' . date('Y', $ts_ref);
-
-$blocchi = [
-  'politica' => ['Politica Italia e mondo', 'politica'],
-  'tech'     => ['AI e tecnologia',         'tech'],
-  'varia'    => ['Attualità varia',         'varia'],
-  'cronaca'  => ['Cronaca: grandi eventi',  'cronaca'],
-];
-
-function per_categoria($items, $cat) {
-    $out = [];
-    foreach ($items as $i) { if (($i['category'] ?? '') === $cat) $out[] = $i; }
-    return $out;
-}
-
-function scheda($i) {
-    $etichetta = '';
-    if (!empty($i['subtype'])) {
-        $etichetta = $i['subtype'] === 'scienza' ? 'Scienza e ambiente' : 'Società e cultura';
-    }
-    $n = (int)($i['n_sources'] ?? 1);
-    $riass = riassunto($i['summary'] ?? '');
-    ?>
-    <article class="card">
-      <div class="meta">
-        <?php if ($etichetta): ?><span class="etichetta"><?= h($etichetta) ?></span><?php endif; ?>
-        <span class="quando"><?= h(quando($i['pub_ts'] ?? time())) ?></span>
-      </div>
-      <h3><a href="<?= h($i['link']) ?>"><?= h($i['title']) ?></a></h3>
-      <?php if ($riass): ?><p class="riass"><?= h($riass) ?></p><?php endif; ?>
-      <div class="fonti">
-        <span class="badge <?= $n >= 2 ? 'ok' : 'uno' ?>"><?= $n >= 2 ? 'Confermata da ' . $n . ' fonti' : 'Una sola fonte' ?></span>
-        <?php foreach (($i['sources'] ?? []) as $s): ?>
-          <a class="pill" href="<?= h($s['link']) ?>"><?= h($s['name']) ?></a>
-        <?php endforeach; ?>
-      </div>
-    </article>
-    <?php
-}
-?><!doctype html>
+<!doctype html>
 <html lang="it"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Rassegna stampa</title>
@@ -107,10 +33,15 @@ h3.sotto{margin:22px 0 2px;font-size:.8rem;letter-spacing:.09em;text-transform:u
 .badge.uno{background:#f7ecd3;color:#7a5200}
 .pill{font-size:.85rem;margin:0 8px 6px 0;padding:3px 10px;border-radius:999px;border:1px solid #c9d6ee;color:#1f5fb3;text-decoration:none;background:#f3f7fd}
 .pill:hover{background:#e3ecfa}
+.avviso{background:#fff;border:1px solid #e3dfd5;border-left:5px solid #b3402a;border-radius:10px;padding:14px 16px;margin:16px 0;font-size:.95rem}
+.ricarica{margin-top:10px;padding:10px 18px;background:#1f5fb3;color:#fff;border:0;border-radius:10px;font-size:.95rem;font-weight:700;cursor:pointer}
+.stato{color:#6a7280;text-align:center;padding:36px 12px}
 .vuoto{color:#6a7280;font-style:italic}
 footer{margin-top:36px;padding-top:14px;border-top:1px solid #dcd8cf;color:#6a7280;font-size:.85rem}
 a:focus-visible{outline:3px solid #1f5fb3;outline-offset:2px}
 @media (prefers-color-scheme:dark){
+  .avviso{background:#1d2024;border-color:#2d3138;border-left-color:#ef8a74}
+  .stato{color:#9aa3b0}
   body{background:#15171a;color:#e8e6e1}
   nav.indice{background:#15171a;border-bottom-color:#2d3138}
   nav.indice a{background:#1f2328;border-color:#343a42;color:#e8e6e1}
@@ -127,42 +58,141 @@ a:focus-visible{outline:3px solid #1f5fb3;outline-offset:2px}
 <div class="wrap">
   <header class="testata">
     <h1>Rassegna stampa</h1>
-    <?php if ($d): ?>
-      <p class="data"><?= h($data_it) ?> · aggiornata alle <?= h(date('H:i', $ts_ref)) ?></p>
-    <?php else: ?>
-      <p class="data">Nessuna rassegna disponibile al momento.</p>
-    <?php endif; ?>
+    <p class="data" id="data">caricamento…</p>
   </header>
-
-  <?php if ($d): ?>
-  <nav class="indice" aria-label="Sezioni">
-    <?php foreach ($blocchi as $k => $b): if (!per_categoria($items, $k)) continue; ?>
-      <a href="#<?= h($k) ?>"><?= h($b[0]) ?></a>
-    <?php endforeach; ?>
-  </nav>
-
-  <?php foreach ($blocchi as $k => $b):
-    $sel = per_categoria($items, $k);
-    if (!$sel) continue; ?>
-  <section class="<?= h($b[1]) ?>" id="<?= h($k) ?>">
-    <h2><?= h($b[0]) ?></h2>
-    <?php if ($k === 'politica'):
-      foreach (['italia' => 'Italia', 'mondo' => 'Mondo'] as $ak => $an):
-        $gruppo = array_filter($sel, function ($i) use ($ak) { return ($i['area'] ?? 'italia') === $ak; });
-        if (!$gruppo) continue; ?>
-        <h3 class="sotto"><?= h($an) ?></h3>
-        <?php foreach ($gruppo as $i) scheda($i); ?>
-      <?php endforeach;
-    else:
-      foreach ($sel as $i) scheda($i);
-    endif; ?>
-  </section>
-  <?php endforeach; ?>
-
-  <footer>
-    <?= count($items) ?> notizie selezionate da fonti italiane. «Confermata» significa che più testate
-    hanno riportato lo stesso fatto; le fonti sono sotto ogni notizia.
-  </footer>
-  <?php endif; ?>
+  <nav class="indice" id="indice" aria-label="Sezioni" style="display:none"></nav>
+  <main id="contenuto"><p class="stato">Scarico le notizie…</p></main>
 </div>
+<script>
+/* ===================================================================
+   Le notizie stanno su GitHub e le scarica il browser: il server
+   Altervista non può collegarsi all'esterno. Se GitHub non risponde,
+   si usa l'ultima copia salvata sul dispositivo.
+   =================================================================== */
+var GITHUB_UTENTE = 'giglioalessandra';
+var GITHUB_REPO   = 'rassegna-stampa';
+var GITHUB_RAMO   = 'main';
+var URL_NOTIZIE = 'https://raw.githubusercontent.com/' + GITHUB_UTENTE + '/' +
+                  GITHUB_REPO + '/' + GITHUB_RAMO + '/cache/articles.json';
+
+var BLOCCHI = [
+  ['politica', 'Politica Italia e mondo'],
+  ['tech',     'AI e tecnologia'],
+  ['varia',    'Attualità varia'],
+  ['cronaca',  'Cronaca: grandi eventi']
+];
+var GIORNI = ['domenica','lunedì','martedì','mercoledì','giovedì','venerdì','sabato'];
+var MESI = ['gennaio','febbraio','marzo','aprile','maggio','giugno','luglio','agosto','settembre','ottobre','novembre','dicembre'];
+
+function esc(t) {
+  return String(t == null ? '' : t).replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function urlSicuro(u) { return /^https?:\/\//i.test(u || '') ? u : '#'; }
+function due(n) { return (n < 10 ? '0' : '') + n; }
+
+function riassunto(s) {
+  s = String(s || '').replace(/\s*L'articolo .*? proviene da .*$/i, '').replace(/\s+/g, ' ').trim();
+  if (s.length > 260) { s = s.slice(0, 260).replace(/\s+\S*$/, '') + '…'; }
+  return s;
+}
+function quando(ts, adesso) {
+  var m = Math.max(0, (adesso - ts) / 60);
+  if (m < 60) return "meno di un'ora fa";
+  if (m < 1440) { var o = Math.round(m / 60); return o + (o === 1 ? ' ora fa' : ' ore fa'); }
+  var g = Math.round(m / 1440);
+  return g === 1 ? 'ieri' : g + ' giorni fa';
+}
+
+function scheda(i, adesso) {
+  var etichetta = i.subtype ? (i.subtype === 'scienza' ? 'Scienza e ambiente' : 'Società e cultura') : '';
+  var n = i.n_sources || 1, riass = riassunto(i.summary);
+  var h = '<article class="card"><div class="meta">';
+  if (etichetta) h += '<span class="etichetta">' + esc(etichetta) + '</span>';
+  h += '<span class="quando">' + esc(quando(i.pub_ts, adesso)) + '</span></div>';
+  h += '<h3><a href="' + esc(urlSicuro(i.link)) + '" target="_blank" rel="noopener">' + esc(i.title) + '</a></h3>';
+  if (riass) h += '<p class="riass">' + esc(riass) + '</p>';
+  h += '<div class="fonti"><span class="badge ' + (n >= 2 ? 'ok' : 'uno') + '">' +
+       (n >= 2 ? 'Confermata da ' + n + ' fonti' : 'Una sola fonte') + '</span>';
+  (i.sources || []).forEach(function (s) {
+    h += '<a class="pill" href="' + esc(urlSicuro(s.link)) + '" target="_blank" rel="noopener">' + esc(s.name) + '</a>';
+  });
+  return h + '</div></article>';
+}
+
+function perCategoria(items, cat) {
+  return items.filter(function (i) { return i.category === cat; });
+}
+
+function disegna(dati, avviso) {
+  var items = dati.items || [];
+  var adesso = Math.floor(Date.now() / 1000);
+  var ref = new Date((dati.generated_at || adesso) * 1000);
+  document.getElementById('data').textContent =
+    GIORNI[ref.getDay()] + ' ' + ref.getDate() + ' ' + MESI[ref.getMonth()] + ' ' + ref.getFullYear() +
+    ' · aggiornata alle ' + due(ref.getHours()) + ':' + due(ref.getMinutes());
+
+  var nav = '', html = avviso ? '<div class="avviso">' + avviso + '</div>' : '';
+  BLOCCHI.forEach(function (b) {
+    var sel = perCategoria(items, b[0]);
+    if (!sel.length) return;
+    nav += '<a href="#' + b[0] + '">' + esc(b[1]) + '</a>';
+    html += '<section class="' + b[0] + '" id="' + b[0] + '"><h2>' + esc(b[1]) + '</h2>';
+    if (b[0] === 'politica') {
+      [['italia','Italia'],['mondo','Mondo']].forEach(function (a) {
+        var g = sel.filter(function (i) { return (i.area || 'italia') === a[0]; });
+        if (!g.length) return;
+        html += '<h3 class="sotto">' + a[1] + '</h3>';
+        g.forEach(function (i) { html += scheda(i, adesso); });
+      });
+    } else {
+      sel.forEach(function (i) { html += scheda(i, adesso); });
+    }
+    html += '</section>';
+  });
+  html += '<footer>' + items.length + ' notizie selezionate da fonti italiane. «Confermata» significa che più ' +
+          'testate hanno riportato lo stesso fatto; le fonti sono sotto ogni notizia.</footer>';
+  var indice = document.getElementById('indice');
+  indice.innerHTML = nav;
+  indice.style.display = nav ? '' : 'none';
+  document.getElementById('contenuto').innerHTML = html;
+}
+
+function erroreSchermo(msg) {
+  document.getElementById('data').textContent = 'notizie non disponibili';
+  document.getElementById('indice').style.display = 'none';
+  document.getElementById('contenuto').innerHTML = '<div class="avviso">' + msg +
+    '<br><button class="ricarica" onclick="location.reload()">Riprova</button></div>';
+}
+
+function salvaLocale(d) { try { localStorage.setItem('rassegna_dati_v2', JSON.stringify(d)); } catch (e) {} }
+function leggiLocale() {
+  try { var g = localStorage.getItem('rassegna_dati_v2'); return g ? JSON.parse(g) : null; } catch (e) { return null; }
+}
+
+function carica() {
+  fetch(URL_NOTIZIE, { cache: 'no-store' })
+    .then(function (r) {
+      if (!r.ok) throw new Error('GitHub ha risposto ' + r.status);
+      return r.json();
+    })
+    .then(function (dati) {
+      if (!dati || !dati.items || !dati.items.length) throw new Error('il file delle notizie è vuoto o in un formato vecchio');
+      salvaLocale(dati);
+      disegna(dati, null);
+    })
+    .catch(function (err) {
+      var vecchi = leggiLocale();
+      if (vecchi && vecchi.items && vecchi.items.length) {
+        disegna(vecchi, '<strong>Notizie non aggiornate.</strong> Non sono riuscita a contattare GitHub (' +
+          esc(err.message) + '), quindi vedi l\'ultima copia scaricata su questo dispositivo.');
+      } else {
+        erroreSchermo('<strong>Non riesco a scaricare le notizie.</strong><br>' + esc(err.message) +
+          '<br><br>Controlla che il deposito GitHub <em>' + esc(GITHUB_UTENTE + '/' + GITHUB_REPO) +
+          '</em> sia <strong>pubblico</strong> e contenga <em>cache/articles.json</em>.');
+      }
+    });
+}
+carica();
+</script>
 </body></html>
