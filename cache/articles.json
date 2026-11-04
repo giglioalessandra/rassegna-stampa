@@ -1,6 +1,6 @@
 {
- "generated_at": 1793754577,
- "updated_at": 1793754577,
+ "generated_at": 1793782382,
+ "updated_at": 1793782382,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,11 +10,120 @@
   {
    "category": "politica",
    "area": "mondo",
+   "title": "Midterm: lo tsunami blu travolge l'America di Trump, i democratici conquistano il Congresso - LIVEBLOG",
+   "summary": "Il tycoon: 'Accetto il voto'. Ma poi posta il cappello 'Mr Veto'. I democratici hanno raggiunto quota 218 seggi alla Camera. Obama celebra la vittoria: 'Gli americani vogliono leader che offrono soluzioni'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-lo-tsunami-blu-travolge-lamerica-di-trump-i-democratici-conquistano-il-congresso-liveblog_9fe187a6-3703-47e5-aef0-0d50b44ec158.html",
+   "pub_ts": 1793781491,
+   "n_sources": 9,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-lo-tsunami-blu-travolge-lamerica-di-trump-i-democratici-conquistano-il-congresso-liveblog_9fe187a6-3703-47e5-aef0-0d50b44ec158.html",
+     "title": "Midterm: lo tsunami blu travolge l'America di Trump, i democratici conquistano il Congresso - LIVEBLOG"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_ha_vinto_perso_elezioni_usa_midterm_2026-425697849/?rss",
+     "title": "La sconfitta di Trump travolto dall’onda blu. Ai dem Camera e Senato"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/midterm-usa-diretta-adnkronos-interventi_b5M63Wfvop8NRZfzMxO88",
+     "title": "'Breakfast in America', l'onda blu travolge Trump alle elezioni di midterm: i commenti al voto nella diretta Adnkronos"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-cdee7466-51f5-4976-906e-c89377d0f963.html",
+     "title": "L'onda blu travolge gli Usa, i Democratici conquistano sia la Camera che il Senato"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/",
+     "title": "Le prime pagine di oggi"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/11/04/diretta/risultati_midterm_elezioni_usa_trump_news_oggi-425697662/?ref=RHEX-BG-P1-S1-T1-d759",
+     "title": "Elezioni Midterm Usa, i risultati in diretta. Onda blu alla Camera e al Senato. Trump: “Accetto i risultati”"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/03/elezioni-midterm-usa-risultati-ultime-news/",
+     "title": "Valanga blu alle Midterm, i Democratici vincono Camera e Senato. Trump: «Colpa della guerra in Iran» – La diretta"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/trump-candidati-dem-pericolosi-voto-midterm-piu-importante-storia-usa-AJ6HLE2B",
+     "title": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/midterm-elezioni-2026-risultati-stati-uniti-democratici-talarico-el-sayed-michigan-texas-alaska-oue2yt9r",
+     "title": "Midterm 2026, la sconfitta di Trump: i democratici conquistano il Congresso"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il dem El-Sayed vince la corsa al Senato in Michigan",
+   "summary": "Decision desk Hq, 'batte il repubblicano Rogers'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/il-dem-el-sayed-vince-la-corsa-al-senato-in-michigan_afc33428-dbc0-4079-a300-4cb3992c5620.html",
+   "pub_ts": 1793780040,
+   "n_sources": 8,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/il-dem-el-sayed-vince-la-corsa-al-senato-in-michigan_afc33428-dbc0-4079-a300-4cb3992c5620.html",
+     "title": "Il dem El-Sayed vince la corsa al Senato in Michigan"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/11/04/news/abdul_el_sayed_eletto_primo_senatore_musulmano-425697930/?rss",
+     "title": "El-Sayed, il miracolo tutto americano: eletto, sarà il primo senatore musulmano"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/media-il-dem-el-sayed-vince-la-corsa-al-senato-in-michigan_fd9aa751-e7c6-4e12-bb50-6e199ddf6f82.html",
+     "title": "Media, il dem El-Sayed vince la corsa al Senato in Michigan"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/michigan-chi-e-el-sayed-il-nuovo-senatore-medico-musulmano-di-origini-egiziane-593290fb-8743-4465-ac4c-c1f03db7d5d2.html",
+     "title": "Michigan, chi è El-Sayed: il medico primo senatore musulmano della storia negli Usa"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/mideterm-usa-2026-michigan-el-sayed-chi-e_2jr1iqgDilKnsjo7eHiRm2",
+     "title": "Midterm Usa 2026, il Michigan sceglie El-Sayed: chi è il medico musulmano di origine egiziana"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/04/midterm-usa-abdul-el-sayed-senato-michigan-chi-e/",
+     "title": "Midterm, Abdul El-Sayed vince in Michigan: chi è il primo senatore Usa musulmano della storia"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/11/04/news/abdul_el_sayed_eletto_primo_senatore_musulmano-425697930/",
+     "title": "El-Sayed, il miracolo tutto americano: eletto, sarà il primo senatore musulmano"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/04/midterm-usa-chris-pappas-primo-senatore-gay-chicken-tenders/8559846/",
+     "title": "Midterm, il dem Chris Pappas è il primo senatore dichiaratamente gay"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "Spagna, si dimette il ministro dei Trasporti Puente",
    "summary": "L’annuncio dopo l’intervento al Congresso dopo l’incidente ferroviario di Urda dove sono morte 69 persone. Sánchez elogia la decisione: “Si è assunto le sue responsabilità e poi si è fatto da parte”",
    "link": "https://www.repubblica.it/esteri/2026/11/03/news/spagna_ministro_trasporti_oscar_puente_dimissioni_incidente_urda-425697285/?rss",
    "pub_ts": 1793744135,
-   "n_sources": 8,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
@@ -38,11 +147,6 @@
      "title": "Scontro tra treni in Spagna, si dimette il ministro dei Trasporti: «Non posso restare dopo due incidenti in un anno»"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/spagna-si-dimette-il-ministro-dei-trasporti-oscar-puente-dopo-due-stragi-9280c2a4-f8fa-475b-91e9-8a960a66b38d.html",
-     "title": "Spagna, si dimette il ministro dei Trasporti Oscar Puente dopo due stragi"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/03/dimissioni-ministro-trasporti-spagnolo-oscar-puente/",
      "title": "Si è dimesso il ministro dei Trasporti spagnolo Óscar Puente"
@@ -51,301 +155,254 @@
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/spagna-si-dimette-ministro-trasporti-l-incidente-ferroviario-toledo-AJ9ZZo3B",
      "title": "Spagna, si dimette il ministro dei Trasporti per l’incidente ferroviario a Toledo"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/spagna_ministro_trasporti_oscar_puente_dimissioni_incidente_urda-425697285/",
-     "title": "Spagna, si dimette il ministro dei Trasporti Puente"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump, nessun piano immediato per attaccare l'Iran",
-   "summary": "L'intervista all'Ft, 'stiamo ottenendo tutto ciò che vogliamo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_d6dab7ef-5200-4bc2-8114-9fa9ec26ffa9.html",
-   "pub_ts": 1793749829,
+   "title": "James Talarico, il pastore che ha sconfitto Golia: così il Texas ha spezzato la maledizione",
+   "summary": "All’ex seminarista presbiteriano lo Stato in cui i democratici non vincevano da 38 anni",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/james_talarico_texas_elezioni_midterm_chi_e-425697891/?rss",
+   "pub_ts": 1793781165,
    "n_sources": 5,
    "documented": true,
    "sources": [
     {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/james_talarico_texas_elezioni_midterm_chi_e-425697891/?rss",
+     "title": "James Talarico, il pastore che ha sconfitto Golia: così il Texas ha spezzato la maledizione"
+    },
+    {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_d6dab7ef-5200-4bc2-8114-9fa9ec26ffa9.html",
-     "title": "Trump, nessun piano immediato per attaccare l'Iran"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/media-talarico-strappa-seggio-senato-in-texas-dove-i-dem-non-vincevano_24da0c44-a0c7-4910-acab-70132e85e543.html",
+     "title": "Media, Talarico strappa seggio Senato in Texas, dove i dem non vincevano dal 1988"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/diretta/guerra_iran_usa_israele_news_oggi-425697714/",
-     "title": "Guerra in Iran, le news di oggi. Trump: “Non sono in programma attacchi imminenti”"
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/james_talarico_texas_elezioni_midterm_chi_e-425697891/",
+     "title": "James Talarico, il pastore che ha sconfitto Golia: così il Texas ha sconfitto la maledizione"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/03/trump-interruzione-aiuti-economici-israele/",
-     "title": "Trump dice che gli Stati Uniti non daranno più aiuti economici a Israele"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/james-talarico-chi-e-candidato-senato-democratici-texas-midterm-usa-mft3bqox",
+     "title": "Dopo 38 anni anche il Texas è blu, Talarico eletto al Senato"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/usa-israele-trump-netanyahu-ultime-news_2mBqIOGHJ7HPlchaKUqGIa",
-     "title": "Trump spiazza Israele: \"Entro fine anno stop aiuti Usa\". Eisenkot: \"Netanyahu deve dare risposte, ne va della sicurezza nazionale\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/11/03/elezioni-midterm-usa-trump-urne-aperte-notizie/8559580/",
-     "title": "Elezioni midterm Usa, seggi aperti. Trump: “Stop agli aiuti militari a Israele”. E al Financial Times dice: “Nessun piano immediato per attaccare l’Iran”"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/04/midterm-chi-e-james-talarico-senato-texas/",
+     "title": "Chi è James Talarico, il democratico che vince in Texas dopo 40 anni"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Tetto agli stranieri in classe, è scontro tra Ue e governo",
-   "summary": "L'Unione europea: 'I trattati vietano la discriminazione'. Valditara: 'Andiamo avanti'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/lue-richiama-litalia-sul-tetto-agli-stranieri-a-scuola.-valditara-andiamo_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
-   "pub_ts": 1793734277,
+   "title": "È una sconfitta soprattutto di Donald Trump",
+   "summary": "Come una serie di scelte del presidente su candidati e politiche ha contribuito al disastro dei Repubblicani nelle elezioni di metà mandato",
+   "link": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/",
+   "pub_ts": 1793778511,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/",
+     "title": "È una sconfitta soprattutto di Donald Trump"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/trump-meloni-crisi-elezioni-midterm-usa-insulti-italia-eunkvoow",
+     "title": "Dal «rapporto privilegiato» alla distanza, la sconfitta di Trump non preoccupa Meloni"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/trump-dem-hanno-fatto-un-buon-lavoro-se-mi-fossi-candidato-io-a8d756a2-ca4f-48da-acfe-84a5bc54912d.html",
+     "title": "Trump: \"Accetto la sconfitta, Dem hanno fatto buon lavoro. Metterò veti, ma alla fine collaboreremo\""
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/04/midterm-america-presenta-conto-trump-resa-dei-conti-maga/",
+     "title": "Midterm, l’America presenta il conto a Donald Trump. E apre la resa dei conti tra i Maga"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/midterm-la-sconfitta-di-trump-non-cancella-le-ragioni-dei-suoi-elettori/",
+     "title": "Midterm: la sconfitta di Trump non cancella le ragioni dei suoi elettori"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Midterm, Trump alla Fox: “Parte del risultato è per l'Iran”",
+   "summary": "“Pensavo che alcuni candidati avrebbero fatto meglio”",
+   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/04/midterm-trump-alla-fox-parte-del-risultato-e-per-liran_f9a61ae6-52f6-4384-a337-8855d1d4a2f1.html",
+   "pub_ts": 1793780885,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/lue-richiama-litalia-sul-tetto-agli-stranieri-a-scuola.-valditara-andiamo_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
-     "title": "Tetto agli stranieri in classe, è scontro tra Ue e governo"
+     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/04/midterm-trump-alla-fox-parte-del-risultato-e-per-liran_f9a61ae6-52f6-4384-a337-8855d1d4a2f1.html",
+     "title": "Midterm, Trump alla Fox: “Parte del risultato è per l'Iran”"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/valditara-su-tetto-stranieri-andiamo-avanti-nessuna-discriminazione_88f261c0-ed0c-448f-a6d7-735fe935064c.html",
-     "title": "Valditara, 'su tetto stranieri andiamo avanti, nessuna discriminazione'"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/teheran-il-messaggio-degli-americani-e-no-alla-guerra_6379416f-359f-482d-93bd-2287781e6721.html",
+     "title": "Teheran, 'il messaggio degli americani è no alla guerra'"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/scuola-tetto-alunni-stranieri-ue-discriminazione-decreto-valditara-lpfaf2u0",
-     "title": "Il tetto agli alunni “stranieri” per l’Ue «è discriminatorio»"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/04/midterm-usa-sconfitta-trump-iran-russia-cina/",
+     "title": "L’Iran festeggia la vittoria Dem alle Midterm: «Gli americani dicono no alla guerra, Trump esegua»"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/politica/tetto-stranieri-scuola-ue-discriminazione_33eI7TbwlJsxihTAT5aZrI",
-     "title": "Scuola, vice presidente Commissione su tetto stranieri: \"Trattati Ue vietano la discriminazione\". Valditara: \"Norma a favore dell'integrazione\""
+     "link": "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-news-oggi-4-novembre_1WfQKtrGnniCwcP0HqLY4q",
+     "title": "Iran, la batosta midterm non frena Trump: \"Molti a volere attacco su larga scala\""
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale",
-   "summary": "Con margini ampi i risultati potrebbero essere chiari già questa notte. Se invece gli equilibri dipenderanno da circoscrizioni contese potrebbe essere necessario attendere giorni",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/?rss",
-   "pub_ts": 1793751521,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/?rss",
-     "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/midterm-trump-seguira-la-notte-elettorale-alla-casa-bianca_3a51b017-56c9-4677-8a11-7fa5b04439db.html",
-     "title": "Midterm, Trump seguirà la notte elettorale alla Casa Bianca"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/",
-     "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il vertice dei leader anti-Netanyahu: “Il mandato ad Eisenkot”. Ma la maggioranza resta un’enigma",
-   "summary": "Il Blocco del cambiamento si è riunito ad Herzliya in vista delle consultazioni per la formazione del governo",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/israele_opposizione_netanyahu_eisenkot_governo-425696543/?rss",
-   "pub_ts": 1793732144,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/israele_opposizione_netanyahu_eisenkot_governo-425696543/?rss",
-     "title": "Il vertice dei leader anti-Netanyahu: “Il mandato ad Eisenkot”. Ma la maggioranza resta un’enigma"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/israele-gli-anti-netanyahu-si-compattano-su-eisenkot-partiti-arabi-elezioni-governo-7-ottobre-sm3bhciq",
-     "title": "Israele, gli anti Netanyahu si compattano su Eisenkot"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/03/israele-ultraortodossi-netanyahu-governo-notizie/8559153/",
-     "title": "Israele, chi sono i partiti degli ultraortodossi contesi da Netanyahu e dall’opposizione di Eisenkot"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il figlio di Trump evoca l'assassinio di Charlie Kirk nell'ultimo appello al voto",
-   "summary": "Don Jr.: 'Votate come se gli altri fossero pronti a uccidervi per le vostre opinioni'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/il-figlio-di-trump-evoca-lassassinio-di-charlie-kirk-nellultimo-appello-al-voto_dbad6c36-0050-4282-90fd-448743a0259a.html",
-   "pub_ts": 1793730729,
+   "title": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'",
+   "summary": "Le proiezioni di Decision Desk HQ. Ha difeso lo scranno in stato vinto da Trump nel 2024",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_bb89f906-31d6-484d-a052-06b2d3ffcf0f.html",
+   "pub_ts": 1793777040,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/il-figlio-di-trump-evoca-lassassinio-di-charlie-kirk-nellultimo-appello-al-voto_dbad6c36-0050-4282-90fd-448743a0259a.html",
-     "title": "Il figlio di Trump evoca l'assassinio di Charlie Kirk nell'ultimo appello al voto"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_bb89f906-31d6-484d-a052-06b2d3ffcf0f.html",
+     "title": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'"
     },
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/trump_midterm_cominizio_washington_comunisti_jihadisti-425694947/?rss",
-     "title": "Trump, l’ultimo appello: “Votatemi e fermeremo comunisti e jihadisti”"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/midterm-la-vittoria-in-georgia-di-jon-ossoff-il-senatore-dem-che-guarda-alla-casa-bianca-3a440f46-4924-46b4-bda4-1a8180f379fd.html",
+     "title": "Midterm, la vittoria in Georgia di Jon Ossoff il senatore dem che guarda alla Casa Bianca"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/03/trump-discorso-prima-midterm-vasca-washington/",
-     "title": "Il bizzarro ultimo discorso di Trump prima del voto"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/jon-ossoff-chi-e-democratico-georgia-elezioni-midterm-usa-aa9tczds",
+     "title": "Jon Ossoff trionfa, chi è “l’Obama” della Georgia"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "La scelta degli Stati Uniti: il referendum su Trump risveglia i democratici. Code ai seggi",
-   "summary": "Le prime indicazioni: alla Camera molti collegi passano dal Gop ai progressisti. Senato: Ossoff confermato in Georgia e Warner mantiene la Virginia. Gli exit poll tematici mostrano un crollo della fiducia nel presidente. Code ai seggi",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/stati_uniti_elezioni_midterm_referendum_trump-425697600/?rss",
-   "pub_ts": 1793752345,
-   "n_sources": 2,
+   "area": "italia",
+   "title": "Chi è Keisha Lance Bottoms, la prima governatrice afroamericana eletta in Georgia",
+   "summary": "L’ex sindaca di Atlanta ha sconfitto il repubblicano Rick Jackson, un miliardario dirigente del settore sanitario",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_e_keisha_lance_bottoms_la_prima_governatrice_afroamericana_in_georgia-425697854/?rss",
+   "pub_ts": 1793774280,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/stati_uniti_elezioni_midterm_referendum_trump-425697600/?rss",
-     "title": "La scelta degli Stati Uniti: il referendum su Trump risveglia i democratici. Code ai seggi"
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_e_keisha_lance_bottoms_la_prima_governatrice_afroamericana_in_georgia-425697854/?rss",
+     "title": "Chi è Keisha Lance Bottoms, la prima governatrice afroamericana eletta in Georgia"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/chi-e-keisha-lance-bottoms-la-prima-governatrice-afroamericana-nella-storia-degli-stati-uniti-51d66a71-cb7a-44c3-8fbd-d1d0493eea6b.html",
+     "title": "Chi è Keisha Lance Bottoms, la prima governatrice afroamericana nella storia degli Stati Uniti"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/stati_uniti_elezioni_midterm_referendum_trump-425697600/",
-     "title": "La scelta degli Stati Uniti: il referendum su Trump risveglia i democratici. Code ai seggi"
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_e_keisha_lance_bottoms_la_prima_governatrice_afroamericana_in_georgia-425697854/",
+     "title": "Chi è Keisha Lance Bottoms, la prima governatrice afroamericana eletta in Georgia"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Ipotesi emendamento FdI per riaprire il condono edilizio per la Campania",
-   "summary": "Sul punto impegni di Cirielli in campagna elettorale",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/ipotesi-emendamento-fdi-per-riaprire-il-condono-edilizio-per-la-campania_0407575f-d33a-4fd5-9a75-0f2442312d6d.html",
-   "pub_ts": 1793730851,
+   "title": "Mattarella: 'Serve rinnovamento contro conflitti, disinformazione e cyber-attacchi'",
+   "summary": "Celebriamo l'Unità della Patria e il ruolo dell'Italia per la pace'. Il messaggio al ministro Crosetto per le forze armate",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-celebriamo-lunita-della-patria-e-il-ruolo-dellitalia-per-la-pace_a94b94b9-8c0a-4afe-91a3-213f8d38ce2b.html",
+   "pub_ts": 1793781498,
    "n_sources": 2,
    "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/ipotesi-emendamento-fdi-per-riaprire-il-condono-edilizio-per-la-campania_0407575f-d33a-4fd5-9a75-0f2442312d6d.html",
-     "title": "Ipotesi emendamento FdI per riaprire il condono edilizio per la Campania"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/03/condono-edilizio-2003-fdi-campania-notizie/8559577/",
-     "title": "Fratelli d’Italia vuole rilanciare il condono edilizio: verso emendamento alla manovra. Avs: “Strizza l’occhio all’illegalità”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Nuovo scandalo su Infantino: una domestica senza documenti nella sua casa di Miami, pagata dalla Fifa",
-   "summary": "Il presidente ha avuto una colf senza un regolare permesso di lavoro né di residenza negli Stati Uniti, pagata per oltre due anni attraverso un posto di lavoro fittizio nel massimo organismo del calcio. Domani ha avuto accesso a documenti che potrebbero comportare accuse penali: c’è chi chiede ora un’indagine federale. Infantino è considerato un sostenitore di Trump, che però usa il pugno duro…",
-   "link": "https://www.editorialedomani.it/sport/fifa-scandalo-infantino-domestica-senza-documenti-permesso-soggiorno-lavoro-casa-miami-stati-uniti-trump-qp4r5a6c",
-   "pub_ts": 1793701855,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/sport/fifa-scandalo-infantino-domestica-senza-documenti-permesso-soggiorno-lavoro-casa-miami-stati-uniti-trump-qp4r5a6c",
-     "title": "Nuovo scandalo su Infantino: una domestica senza documenti nella sua casa di Miami, pagata dalla Fifa"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/02/fifa-infantino-tasse-scandalo-stati-uniti/",
-     "title": "La FIFA ha pagato le tasse del suo presidente Gianni Infantino?"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio",
-   "summary": "Salvini richiama gli alleati. FdI: 'i patti sono quelli scritti'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
-   "pub_ts": 1793736118,
-   "n_sources": 1,
-   "documented": false,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
-     "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-celebriamo-lunita-della-patria-e-il-ruolo-dellitalia-per-la-pace_a94b94b9-8c0a-4afe-91a3-213f8d38ce2b.html",
+     "title": "Mattarella: 'Serve rinnovamento contro conflitti, disinformazione e cyber-attacchi'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-serve-rinnovamento-contro-conflitti-disinformazione-e-cyber-attacchi_e9c98651-f96b-4e79-9726-5b4f9755e198.html",
+     "title": "Mattarella, serve rinnovamento contro conflitti, disinformazione e cyber-attacchi"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Odessa sotto attacco. A Bruxelles incontro tra Ue, Nato, e delegazioni di Mosca e Kiev",
+   "summary": "Al vertice Ue anche Francia Germania e Regno Unito. Zelensky da Merz a Berlino, annunciata nuova riunione dei Volenterosi alla vigilia del trilaterale ad Abu Dhabi..\"Melania Trump ospiterà delegati di Russia e Ucraina\". Peskov: \"Non ne so nulla\"",
+   "link": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-bombe-russe-centro-aiuti-morti-trilaterale-russia-usa-ucraina-10-e-11-novembre-abu-dhabi-8516e3a6-8fcd-4356-81f4-59d4bd1c706f.html",
+   "pub_ts": 1793778540,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-bombe-russe-centro-aiuti-morti-trilaterale-russia-usa-ucraina-10-e-11-novembre-abu-dhabi-8516e3a6-8fcd-4356-81f4-59d4bd1c706f.html",
+     "title": "Odessa sotto attacco. A Bruxelles incontro tra Ue, Nato, e delegazioni di Mosca e Kiev"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/04/news/diplomazia_guerra_ucraina_russia_vertice_pace-425697394/",
+     "title": "Ucraina, vertici di pace ma l’Italia è esclusa. Maxi attacco di Mosca"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Midterm, primi seggi chiudono in Indiana e Kentucky - LA DIRETTA",
-   "summary": "Il leader dei dem alla Camera: 'Siamo vicini alla svolta'. Trump proclama 'la settimana dell'anticomunismo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/i-primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky.-i-repubblicani-vincono-a-guamla_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-   "pub_ts": 1793753040,
-   "n_sources": 9,
+   "title": "'Niente Ia e smartphone', al corso di letteratura più duro di Harvard c'è la fila",
+   "summary": "Iscrizioni aumentate del 40%, 180 domande per 90 posti",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/11/02/niente-ia-e-smartphone-al-corso-di-letteratura-piu-duro-di-harvard-ce-la-fila_d00ecf23-5b8f-4138-88fb-c74493658fb9.html",
+   "pub_ts": 1793731782,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/i-primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky.-i-repubblicani-vincono-a-guamla_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-     "title": "Midterm, primi seggi chiudono in Indiana e Kentucky - LA DIRETTA"
+     "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/11/02/niente-ia-e-smartphone-al-corso-di-letteratura-piu-duro-di-harvard-ce-la-fila_d00ecf23-5b8f-4138-88fb-c74493658fb9.html",
+     "title": "'Niente Ia e smartphone', al corso di letteratura più duro di Harvard c'è la fila"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky_4e17d525-11b8-49d5-a7e0-b464f378403e.html",
-     "title": "Primi seggi per le Midterm chiudono in Indiana e Kentucky"
-    },
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/niente-ia-e-smartphone-al-corso-di-letteratura-piu-duro-di-harvard-ce-la-fila_7f63da96-7801-494a-bbc7-02158766ab13.html",
+     "title": "'Niente IA e smartphone', al corso di letteratura più duro di Harvard c'è la fila"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Midterm USA ai dem: cosa cambia per il futuro di AI e data center",
+   "summary": "La sconfitta repubblicana potrebbe avere un impatto sul futuro dell'AI negli Stati Uniti, così come sulla costruzione di nuovi data center. The post Midterm USA ai dem: cosa cambia per il futuro di AI e data center appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/midterm-usa-cosa-cambia-futuro-ai-data-center/",
+   "pub_ts": 1793776511,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-cdee7466-51f5-4976-906e-c89377d0f963.html",
-     "title": "Midterm, per Trump è il giorno del giudizio. Chiusi i seggi nei primi Stati chiave"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/11/04/diretta/risultati_midterm_elezioni_usa_trump_news_oggi-425697662/",
-     "title": "Elezioni Midterm Usa, i risultati in diretta. Primi dati premiano i dem, in Georgia vince Ossoff"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/midterm-usa-cosa-cambia-futuro-ai-data-center/",
+     "title": "Midterm USA ai dem: cosa cambia per il futuro di AI e data center"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-risultati_OlcFniexduRKtBJupDJ58",
-     "title": "Elezioni midterm Usa 2026, chiudono i primi seggi: exit poll bocciano Trump"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/03/elezioni-midterm-usa-risultati-ultime-news/",
-     "title": "Midterm, chiusi i seggi in diversi Stati: «Il senatore dem Ossoff è stato rieletto in Georgia». Trump: «Pronto a usare poteri enormi in caso di sconfitta» – La diretta"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/live/elezioni-meta-mandato-stati-uniti-risultati/",
-     "title": "I primi risultati delle elezioni di metà mandato"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/midterm-usa-2026-risultati-diretta-dove-seguire-spoglio/",
-     "title": "Midterm USA 2026, risultati in diretta: dove seguire lo spoglio"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/11/04/elezioni-midterm-usa-2026-risultati-diretta-live-news-oggi/8559806/",
-     "title": "Elezioni Midterm Usa 2026: i risultati in diretta. Chiudono i seggi anche in Ohio e North Carolina. Il dem Ossoff vince in Georgia"
+     "link": "https://www.adnkronos.com/internazionale/esteri/midterm-zagari-la-corsa-allai-divide-lamerica-data-center-terreno-di-scontro_yJ3smPBXPw3KkQoBjfCj0",
+     "title": "Midterm, Zagari: \"La corsa all'AI divide l'America, data center terreno di scontro\""
     }
    ]
   },
@@ -374,36 +431,70 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Google alle scuole americane: chi rinuncia all’IA non avrà più il motore di ricerca",
-   "summary": "Dal 2027 le scuole americane potranno decidere di tenere fuori dagli account degli studenti gli strumenti di intelligenza artificiale di Google. Ma chi rifiuterà completamente l’IA perderà anche l’accesso al tradizionale motore di ricerca",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/google-scuole-usa-ia-motore-di-ricerca-425697400/?rss",
-   "pub_ts": 1793740101,
+   "title": "Il prezzo del Big Mac lo “consiglia” l’IA: come McDonald’s stima quanto far pagare zona per zona",
+   "summary": "Un'inchiesta Reuters ricostruisce il motore dei prezzi della catena, che stima quanto i clienti di ogni zona sono disposti a pagare. McDonald's nega che l'intelligenza artificiale fissi i listini, ma una class action la accusa di coordinarli. Lo scarto tra due ristoranti di...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/04/news/il_prezzo_del_big_mac_lo_consiglia_l_ia_come_mcdonald_s_stima_quanto_far_pagare_zona_per_zona-425698174/?rss",
+   "pub_ts": 1793780179,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/google-scuole-usa-ia-motore-di-ricerca-425697400/?rss",
-     "title": "Google alle scuole americane: chi rinuncia all’IA non avrà più il motore di ricerca"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/04/news/il_prezzo_del_big_mac_lo_consiglia_l_ia_come_mcdonald_s_stima_quanto_far_pagare_zona_per_zona-425698174/?rss",
+     "title": "Il prezzo del Big Mac lo “consiglia” l’IA: come McDonald’s stima quanto far pagare zona per zona"
     }
    ]
   },
   {
-   "category": "tech",
+   "category": "varia",
    "area": null,
-   "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale",
-   "summary": "E' Dan Driscoll, ha lasciato incarico a settembre dopo notizie di tensioni con Hegseth",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
-   "pub_ts": 1793719327,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Raidue: programmi di mercoledì 4 novembre",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/raidue-programmi-di-mercoledi-4-novembre_d129ce77-8445-41c2-bb58-3f72c37352f1.html",
+   "pub_ts": 1793776913,
+   "n_sources": 3,
+   "documented": true,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
-     "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/raidue-programmi-di-mercoledi-4-novembre_d129ce77-8445-41c2-bb58-3f72c37352f1.html",
+     "title": "Raidue: programmi di mercoledì 4 novembre"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/04/mercoledi-4-novembre-3/",
+     "title": "Mercoledì 4 novembre"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/le-previsioni-del-tempo-per-mercoledi-4-novembre-14789c3d-896e-431e-9898-ab469ced581a.html",
+     "title": "Le previsioni del tempo per mercoledì 4 novembre"
     }
-   ]
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Roy Cooper vince in North Carolina, dem strappano un seggio al Senato",
+   "summary": "Battuto il repubblicano Michael Whatley, succederà al senatore uscente Thom Tillis",
+   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/04/roy-cooper-vince-in-north-carolina-dem-strappano-un-seggio-al-senato_40a6d9ea-fb12-49cc-80ce-7583ac32068a.html",
+   "pub_ts": 1793769844,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/04/roy-cooper-vince-in-north-carolina-dem-strappano-un-seggio-al-senato_40a6d9ea-fb12-49cc-80ce-7583ac32068a.html",
+     "title": "Roy Cooper vince in North Carolina, dem strappano un seggio al Senato"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/04/cooper-vince-in-north-carolina-dem-strappano-un-seggio-al-senato_efb80f6f-74e0-4a8e-93a6-649237dd998b.html",
+     "title": "'Cooper vince in North Carolina, dem strappano un seggio al Senato'"
+    }
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -412,7 +503,7 @@
    "summary": "'Stop ai vincoli sul personale e più risorse'. Meloni: 'Più soldi che in passato'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/tagli-alla-sanita-in-manovra-riunione-straordinaria-delle-regioni_7cdaa1d1-eb50-4b15-b477-81428d29baa6.html",
    "pub_ts": 1793735837,
-   "n_sources": 3,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
@@ -424,11 +515,6 @@
      "name": "ANSA Salute",
      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/manovra-per-gemmato-ingeneroso-dire-che-ci-sono-stati-tagli-alla_094e63b5-d54f-4fb6-84dd-46bd9141d4bd.html",
      "title": "Manovra, per Gemmato 'ingeneroso dire che ci sono stati tagli alla sanità'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/03/legge-bilancio-governo-meloni-fondi-sanita-proteste/",
-     "title": "I soldi per la sanità aumentano ma per Regioni e medici non bastano. Cosa dicono i conti della Manovra"
     }
    ],
    "subtype": "scienza"
@@ -436,18 +522,13 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Bambino morto per morbillo negli Usa, il primo in 30 anni a New York",
+   "title": "Bambino morto per morbillo in Usa, il primo in 30 anni a New York",
    "summary": "In Italia quasi 600 contagi da inizio anno, nessuna Regione al 95% di bimbi vaccinati",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bambino-morto-per-morbillo-negli-usa-il-primo-in-30-anni-a-new-york_49b959bf-f831-4076-8162-eaa6807a342f.html",
-   "pub_ts": 1793730262,
-   "n_sources": 3,
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/ansa-boxbambino-morto-per-morbillo-in-usa-il-primo-in-30-anni-a-new-york_0cecadd9-3528-4591-96a3-ade71da027ac.html",
+   "pub_ts": 1793729291,
+   "n_sources": 2,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bambino-morto-per-morbillo-negli-usa-il-primo-in-30-anni-a-new-york_49b959bf-f831-4076-8162-eaa6807a342f.html",
-     "title": "Bambino morto per morbillo negli Usa, il primo in 30 anni a New York"
-    },
     {
      "name": "ANSA Salute",
      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/ansa-boxbambino-morto-per-morbillo-in-usa-il-primo-in-30-anni-a-new-york_0cecadd9-3528-4591-96a3-ade71da027ac.html",
@@ -464,79 +545,46 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm",
-   "summary": "L'attrice schierata sui temi \"dell'ambiente e della democrazia\"",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
-   "pub_ts": 1793716914,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
-     "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/02/maratone-speciali-e-approfondimenti-tv-italiana-in-campo-per-il-voto-di-midterm-usa_fc911483-dc78-4207-aff4-3fba74cf2498.html",
-     "title": "Maratone, speciali e approfondimenti, tv italiana in campo per il voto di midterm Usa"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/trump-candidati-dem-pericolosi-voto-midterm-piu-importante-storia-usa-AJ6HLE2B",
-     "title": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Homo Alien, Veneziani si interroga sulla sostituzione dell'umano",
-   "summary": "Lo sviluppo dell'intelligenza artificiale mette a rischio il futuro dell'uomo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/homo-alien-veneziani-si-interroga-sulla-sostituzione-dellumano_1c4f836d-8f27-4f8b-83de-1c6da2e7e13d.html",
-   "pub_ts": 1793727595,
+   "title": "Bimbo muore di morbillo negli Usa, violenta polemica su politica vaccinazioni",
+   "summary": "E' primo decesso causato da questa malattia nello Stato di New York negli ultimi 30 anni",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/bimbo-muore-di-morbillo-negli-usa-violenta-polemica-su-politica-vaccinazioni_562f1445-f3dc-4e85-9ba6-5c5b0a2ce337.html",
+   "pub_ts": 1793708182,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/homo-alien-veneziani-si-interroga-sulla-sostituzione-dellumano_1c4f836d-8f27-4f8b-83de-1c6da2e7e13d.html",
-     "title": "Homo Alien, Veneziani si interroga sulla sostituzione dell'umano"
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/bimbo-muore-di-morbillo-negli-usa-violenta-polemica-su-politica-vaccinazioni_562f1445-f3dc-4e85-9ba6-5c5b0a2ce337.html",
+     "title": "Bimbo muore di morbillo negli Usa, violenta polemica su politica vaccinazioni"
     },
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/la-scomparsa-dellumano-secondo-marcello-veneziani-sugli-scaffali-homo-alien_7HmdcD7Rb3prnh0R7gVD4u",
-     "title": "La scomparsa dell'umano secondo Marcello Veneziani, sugli scaffali 'Homo Alien'"
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/03/news/allarme_morbillo_usa_bimbo_muore_stato_new_york_vaccini-425695856/?rss",
+     "title": "Allarme morbillo negli Usa: bimbo muore nello stato di New York. Polemica sulle mancate vaccinazioni"
     }
    ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Cate Blanchett ai vertici di un nuovo magazine letterario di Uniqlo",
-   "summary": "L'attrice già ambasciatrice del brand coordinerà voci di donne in 'Stories She Tell'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/03/cate-blanchett-ai-vertici-di-un-nuovo-magazine-letterario-di-uniqlo_d715fb36-ec69-42c6-92f2-83db5956f5f4.html",
-   "pub_ts": 1793725934,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/03/cate-blanchett-ai-vertici-di-un-nuovo-magazine-letterario-di-uniqlo_d715fb36-ec69-42c6-92f2-83db5956f5f4.html",
-     "title": "Cate Blanchett ai vertici di un nuovo magazine letterario di Uniqlo"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/donne/notizie/2026/11/03/cate-blanchett-ai-vertici-di-un-nuovo-magazine-letterario-di-uniqlo_863c12cc-e5e0-4d76-a791-170067d40553.html",
-     "title": "Cate Blanchett ai vertici di un nuovo magazine letterario di Uniqlo"
-    }
-   ],
-   "subtype": "cultura"
+   "subtype": "scienza"
   }
  ],
  "articles": [
+  {
+   "title": "Midterm: lo tsunami blu travolge l'America di Trump, i democratici conquistano il Congresso - LIVEBLOG",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-lo-tsunami-blu-travolge-lamerica-di-trump-i-democratici-conquistano-il-congresso-liveblog_9fe187a6-3703-47e5-aef0-0d50b44ec158.html",
+   "description": "Il tycoon: 'Accetto il voto'. Ma poi posta il cappello 'Mr Veto'. I democratici hanno raggiunto quota 218 seggi alla Camera. Obama celebra la vittoria: 'Gli americani vogliono leader che offrono soluzioni'",
+   "pub_ts": 1793781491,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il dem El-Sayed vince la corsa al Senato in Michigan",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/il-dem-el-sayed-vince-la-corsa-al-senato-in-michigan_afc33428-dbc0-4079-a300-4cb3992c5620.html",
+   "description": "Decision desk Hq, 'batte il repubblicano Rogers'",
+   "pub_ts": 1793780040,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
   {
    "title": "Spagna, si dimette il ministro dei Trasporti Puente",
    "link": "https://www.repubblica.it/esteri/2026/11/03/news/spagna_ministro_trasporti_oscar_puente_dimissioni_incidente_urda-425697285/?rss",
@@ -547,92 +595,83 @@
    "section": "politica"
   },
   {
-   "title": "Trump, nessun piano immediato per attaccare l'Iran",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_d6dab7ef-5200-4bc2-8114-9fa9ec26ffa9.html",
-   "description": "L'intervista all'Ft, 'stiamo ottenendo tutto ciò che vogliamo'",
-   "pub_ts": 1793749829,
+   "title": "James Talarico, il pastore che ha sconfitto Golia: così il Texas ha spezzato la maledizione",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/james_talarico_texas_elezioni_midterm_chi_e-425697891/?rss",
+   "description": "All’ex seminarista presbiteriano lo Stato in cui i democratici non vincevano da 38 anni",
+   "pub_ts": 1793781165,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "È una sconfitta soprattutto di Donald Trump",
+   "link": "https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm/",
+   "description": "Come una serie di scelte del presidente su candidati e politiche ha contribuito al disastro dei Repubblicani nelle elezioni di metà mandato",
+   "pub_ts": 1793778511,
+   "source": "Il Post",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Midterm, Trump alla Fox: “Parte del risultato è per l'Iran”",
+   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/04/midterm-trump-alla-fox-parte-del-risultato-e-per-liran_f9a61ae6-52f6-4384-a337-8855d1d4a2f1.html",
+   "description": "“Pensavo che alcuni candidati avrebbero fatto meglio”",
+   "pub_ts": 1793780885,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_bb89f906-31d6-484d-a052-06b2d3ffcf0f.html",
+   "description": "Le proiezioni di Decision Desk HQ. Ha difeso lo scranno in stato vinto da Trump nel 2024",
+   "pub_ts": 1793777040,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Tetto agli stranieri in classe, è scontro tra Ue e governo",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/lue-richiama-litalia-sul-tetto-agli-stranieri-a-scuola.-valditara-andiamo_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
-   "description": "L'Unione europea: 'I trattati vietano la discriminazione'. Valditara: 'Andiamo avanti'",
-   "pub_ts": 1793734277,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/?rss",
-   "description": "Con margini ampi i risultati potrebbero essere chiari già questa notte. Se invece gli equilibri dipenderanno da circoscrizioni contese potrebbe essere necessario attendere giorni",
-   "pub_ts": 1793751521,
+   "title": "Chi è Keisha Lance Bottoms, la prima governatrice afroamericana eletta in Georgia",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_e_keisha_lance_bottoms_la_prima_governatrice_afroamericana_in_georgia-425697854/?rss",
+   "description": "L’ex sindaca di Atlanta ha sconfitto il repubblicano Rick Jackson, un miliardario dirigente del settore sanitario",
+   "pub_ts": 1793774280,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Il vertice dei leader anti-Netanyahu: “Il mandato ad Eisenkot”. Ma la maggioranza resta un’enigma",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/israele_opposizione_netanyahu_eisenkot_governo-425696543/?rss",
-   "description": "Il Blocco del cambiamento si è riunito ad Herzliya in vista delle consultazioni per la formazione del governo",
-   "pub_ts": 1793732144,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il figlio di Trump evoca l'assassinio di Charlie Kirk nell'ultimo appello al voto",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/il-figlio-di-trump-evoca-lassassinio-di-charlie-kirk-nellultimo-appello-al-voto_dbad6c36-0050-4282-90fd-448743a0259a.html",
-   "description": "Don Jr.: 'Votate come se gli altri fossero pronti a uccidervi per le vostre opinioni'",
-   "pub_ts": 1793730729,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La scelta degli Stati Uniti: il referendum su Trump risveglia i democratici. Code ai seggi",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/stati_uniti_elezioni_midterm_referendum_trump-425697600/?rss",
-   "description": "Le prime indicazioni: alla Camera molti collegi passano dal Gop ai progressisti. Senato: Ossoff confermato in Georgia e Warner mantiene la Virginia. Gli exit poll tematici mostrano un crollo della fiducia nel presidente. Code ai seggi",
-   "pub_ts": 1793752345,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Ipotesi emendamento FdI per riaprire il condono edilizio per la Campania",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/ipotesi-emendamento-fdi-per-riaprire-il-condono-edilizio-per-la-campania_0407575f-d33a-4fd5-9a75-0f2442312d6d.html",
-   "description": "Sul punto impegni di Cirielli in campagna elettorale",
-   "pub_ts": 1793730851,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nuovo scandalo su Infantino: una domestica senza documenti nella sua casa di Miami, pagata dalla Fifa",
-   "link": "https://www.editorialedomani.it/sport/fifa-scandalo-infantino-domestica-senza-documenti-permesso-soggiorno-lavoro-casa-miami-stati-uniti-trump-qp4r5a6c",
-   "description": "Il presidente ha avuto una colf senza un regolare permesso di lavoro né di residenza negli Stati Uniti, pagata per oltre due anni attraverso un posto di lavoro fittizio nel massimo organismo del calcio. Domani ha avuto accesso a documenti che potrebbero comportare accuse penali: c’è chi chiede ora un’indagine federale. Infantino è considerato un sostenitore di Trump, che però usa il pugno duro…",
-   "pub_ts": 1793701855,
-   "source": "Domani",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
-   "description": "Salvini richiama gli alleati. FdI: 'i patti sono quelli scritti'",
-   "pub_ts": 1793736118,
+   "title": "Mattarella: 'Serve rinnovamento contro conflitti, disinformazione e cyber-attacchi'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-celebriamo-lunita-della-patria-e-il-ruolo-dellitalia-per-la-pace_a94b94b9-8c0a-4afe-91a3-213f8d38ce2b.html",
+   "description": "Celebriamo l'Unità della Patria e il ruolo dell'Italia per la pace'. Il messaggio al ministro Crosetto per le forze armate",
+   "pub_ts": 1793781498,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Midterm, primi seggi chiudono in Indiana e Kentucky - LA DIRETTA",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/i-primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky.-i-repubblicani-vincono-a-guamla_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-   "description": "Il leader dei dem alla Camera: 'Siamo vicini alla svolta'. Trump proclama 'la settimana dell'anticomunismo'",
-   "pub_ts": 1793753040,
+   "title": "Odessa sotto attacco. A Bruxelles incontro tra Ue, Nato, e delegazioni di Mosca e Kiev",
+   "link": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-bombe-russe-centro-aiuti-morti-trilaterale-russia-usa-ucraina-10-e-11-novembre-abu-dhabi-8516e3a6-8fcd-4356-81f4-59d4bd1c706f.html",
+   "description": "Al vertice Ue anche Francia Germania e Regno Unito. Zelensky da Merz a Berlino, annunciata nuova riunione dei Volenterosi alla vigilia del trilaterale ad Abu Dhabi..\"Melania Trump ospiterà delegati di Russia e Ucraina\". Peskov: \"Non ne so nulla\"",
+   "pub_ts": 1793778540,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "'Niente Ia e smartphone', al corso di letteratura più duro di Harvard c'è la fila",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/11/02/niente-ia-e-smartphone-al-corso-di-letteratura-piu-duro-di-harvard-ce-la-fila_d00ecf23-5b8f-4138-88fb-c74493658fb9.html",
+   "description": "Iscrizioni aumentate del 40%, 180 domande per 90 posti",
+   "pub_ts": 1793731782,
    "source": "ANSA",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Midterm USA ai dem: cosa cambia per il futuro di AI e data center",
+   "link": "https://www.punto-informatico.it/midterm-usa-cosa-cambia-futuro-ai-data-center/",
+   "description": "La sconfitta repubblicana potrebbe avere un impatto sul futuro dell'AI negli Stati Uniti, così come sulla costruzione di nuovi data center. The post Midterm USA ai dem: cosa cambia per il futuro di AI e data center appeared first on Punto Informatico .",
+   "pub_ts": 1793776511,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
@@ -646,22 +685,31 @@
    "section": "tech"
   },
   {
-   "title": "Google alle scuole americane: chi rinuncia all’IA non avrà più il motore di ricerca",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/google-scuole-usa-ia-motore-di-ricerca-425697400/?rss",
-   "description": "Dal 2027 le scuole americane potranno decidere di tenere fuori dagli account degli studenti gli strumenti di intelligenza artificiale di Google. Ma chi rifiuterà completamente l’IA perderà anche l’accesso al tradizionale motore di ricerca",
-   "pub_ts": 1793740101,
+   "title": "Il prezzo del Big Mac lo “consiglia” l’IA: come McDonald’s stima quanto far pagare zona per zona",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/04/news/il_prezzo_del_big_mac_lo_consiglia_l_ia_come_mcdonald_s_stima_quanto_far_pagare_zona_per_zona-425698174/?rss",
+   "description": "Un'inchiesta Reuters ricostruisce il motore dei prezzi della catena, che stima quanto i clienti di ogni zona sono disposti a pagare. McDonald's nega che l'intelligenza artificiale fissi i listini, ma una class action la accusa di coordinarli. Lo scarto tra due ristoranti di...",
+   "pub_ts": 1793780179,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
-   "description": "E' Dan Driscoll, ha lasciato incarico a settembre dopo notizie di tensioni con Hegseth",
-   "pub_ts": 1793719327,
-   "source": "ANSA Tecnologia",
+   "title": "Raidue: programmi di mercoledì 4 novembre",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/03/raidue-programmi-di-mercoledi-4-novembre_d129ce77-8445-41c2-bb58-3f72c37352f1.html",
+   "description": "",
+   "pub_ts": 1793776913,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "tech"
+   "section": "varia"
+  },
+  {
+   "title": "Roy Cooper vince in North Carolina, dem strappano un seggio al Senato",
+   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/04/roy-cooper-vince-in-north-carolina-dem-strappano-un-seggio-al-senato_40a6d9ea-fb12-49cc-80ce-7583ac32068a.html",
+   "description": "Battuto il repubblicano Michael Whatley, succederà al senatore uscente Thom Tillis",
+   "pub_ts": 1793769844,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "varia"
   },
   {
    "title": "Tagli alla sanità in manovra, riunione straordinaria delle Regioni",
@@ -673,38 +721,20 @@
    "section": "varia"
   },
   {
-   "title": "Bambino morto per morbillo negli Usa, il primo in 30 anni a New York",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/bambino-morto-per-morbillo-negli-usa-il-primo-in-30-anni-a-new-york_49b959bf-f831-4076-8162-eaa6807a342f.html",
+   "title": "Bambino morto per morbillo in Usa, il primo in 30 anni a New York",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/ansa-boxbambino-morto-per-morbillo-in-usa-il-primo-in-30-anni-a-new-york_0cecadd9-3528-4591-96a3-ade71da027ac.html",
    "description": "In Italia quasi 600 contagi da inizio anno, nessuna Regione al 95% di bimbi vaccinati",
-   "pub_ts": 1793730262,
-   "source": "ANSA",
+   "pub_ts": 1793729291,
+   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
-   "description": "L'attrice schierata sui temi \"dell'ambiente e della democrazia\"",
-   "pub_ts": 1793716914,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Homo Alien, Veneziani si interroga sulla sostituzione dell'umano",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/homo-alien-veneziani-si-interroga-sulla-sostituzione-dellumano_1c4f836d-8f27-4f8b-83de-1c6da2e7e13d.html",
-   "description": "Lo sviluppo dell'intelligenza artificiale mette a rischio il futuro dell'uomo",
-   "pub_ts": 1793727595,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Cate Blanchett ai vertici di un nuovo magazine letterario di Uniqlo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/03/cate-blanchett-ai-vertici-di-un-nuovo-magazine-letterario-di-uniqlo_d715fb36-ec69-42c6-92f2-83db5956f5f4.html",
-   "description": "L'attrice già ambasciatrice del brand coordinerà voci di donne in 'Stories She Tell'",
-   "pub_ts": 1793725934,
-   "source": "ANSA Cultura",
+   "title": "Bimbo muore di morbillo negli Usa, violenta polemica su politica vaccinazioni",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/bimbo-muore-di-morbillo-negli-usa-violenta-polemica-su-politica-vaccinazioni_562f1445-f3dc-4e85-9ba6-5c5b0a2ce337.html",
+   "description": "E' primo decesso causato da questa malattia nello Stato di New York negli ultimi 30 anni",
+   "pub_ts": 1793708182,
+   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   }
