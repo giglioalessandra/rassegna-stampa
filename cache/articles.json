@@ -1,6 +1,6 @@
 {
- "generated_at": 1793739151,
- "updated_at": 1793739151,
+ "generated_at": 1793754577,
+ "updated_at": 1793754577,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,69 +10,42 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Midterm, l'America al voto: seggi aperti in tutti gli Usa. Primo risultato: Guam ai repubblicani LA DIRETTA",
-   "summary": "La mappa delle elezioni, un referendum su Trump. Il tycoon in trincea teme l'onda blu: 'Se stufi di me farò il premier in Israele'. Il maltempo ostacola il voto nel sud-ovest",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-seggi-aperti-in-tutti-gli-usa.-primo-risultato_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-   "pub_ts": 1793738149,
-   "n_sources": 6,
+   "title": "Spagna, si dimette il ministro dei Trasporti Puente",
+   "summary": "L’annuncio dopo l’intervento al Congresso dopo l’incidente ferroviario di Urda dove sono morte 69 persone. Sánchez elogia la decisione: “Si è assunto le sue responsabilità e poi si è fatto da parte”",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/spagna_ministro_trasporti_oscar_puente_dimissioni_incidente_urda-425697285/?rss",
+   "pub_ts": 1793744135,
+   "n_sources": 8,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-seggi-aperti-in-tutti-gli-usa.-primo-risultato_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-     "title": "Midterm, l'America al voto: seggi aperti in tutti gli Usa. Primo risultato: Guam ai repubblicani LA DIRETTA"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/al-via-il-voto-per-le-midterm-negli-usa-aperti-i-seggi-nel-vermont_ddcf1716-275b-444b-b4f7-01d85864560c.html",
-     "title": "Al via il voto per le midterm negli Usa, aperti i seggi nel Vermont"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/?rss",
-     "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-cdee7466-51f5-4976-906e-c89377d0f963.html",
-     "title": "Aperti tutti i seggi. Misure straordinarie per il maltempo. Primo risultato: Guam ai repubblicani."
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-cosa-si-decide_63p0nq1kgLfrxch23by1oS",
-     "title": "Elezioni midterm, Usa al voto: dalla chiusura dei seggi ai risultati, guida alla notte elettorale"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/diretta/midterm_elezioni_usa_trump_2026-425695623/",
-     "title": "Elezioni midterm Usa, news. Milioni alle urne, aperti i primi seggi. Trump: “Vinceremo”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Si dimette il ministro dei Trasporti spagnolo per l'incidente ferroviario a Toledo",
-   "summary": "Il socialista Oscar Puente rinuncia anche alla candidatura alle elezioni del 29 novembre",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/si-dimette-il-ministro-dei-trasporti-spagnolo-per-lincidente-ferroviario-a-toledo_2932ac28-7304-4b62-bbba-feddbfffae7a.html",
-   "pub_ts": 1793738927,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/si-dimette-il-ministro-dei-trasporti-spagnolo-per-lincidente-ferroviario-a-toledo_2932ac28-7304-4b62-bbba-feddbfffae7a.html",
-     "title": "Si dimette il ministro dei Trasporti spagnolo per l'incidente ferroviario a Toledo"
-    },
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/03/news/spagna_ministro_trasporti_oscar_puente_dimissioni_incidente_urda-425697285/?rss",
      "title": "Spagna, si dimette il ministro dei Trasporti Puente"
     },
     {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/si-dimette-il-ministro-dei-trasporti-spagnolo-per-lincidente-ferroviario-a-toledo_2932ac28-7304-4b62-bbba-feddbfffae7a.html",
+     "title": "Si dimette il ministro dei Trasporti spagnolo per l'incidente ferroviario a Toledo"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/dimissioni-ministro-trasporti-dopo-scontro-treni-morti_5vA4JVYZ3rXFfcOxYuFoB",
+     "title": "Scontro treni Toledo, il ministro dei Trasporti spagnolo si dimette"
+    },
+    {
      "name": "Open",
      "link": "https://www.open.online/2026/11/03/scontro-treni-spagna-dimissioni-ministro-trasporti/",
      "title": "Scontro tra treni in Spagna, si dimette il ministro dei Trasporti: «Non posso restare dopo due incidenti in un anno»"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/spagna-si-dimette-il-ministro-dei-trasporti-oscar-puente-dopo-due-stragi-9280c2a4-f8fa-475b-91e9-8a960a66b38d.html",
+     "title": "Spagna, si dimette il ministro dei Trasporti Oscar Puente dopo due stragi"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/03/dimissioni-ministro-trasporti-spagnolo-oscar-puente/",
+     "title": "Si è dimesso il ministro dei Trasporti spagnolo Óscar Puente"
     },
     {
      "name": "Sole 24 Ore Mondo",
@@ -89,22 +62,27 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Nyt, 'Usa hanno piano per colpire l'Iran subito dopo il voto'",
-   "summary": "'Le condizioni ideali per il tipo di attacco dureranno poco'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/nyt-usa-hanno-piano-per-colpire-liran-subito-dopo-il-voto_fa118783-ff94-47a5-8b96-ad2b2587abea.html",
-   "pub_ts": 1793736564,
+   "title": "Trump, nessun piano immediato per attaccare l'Iran",
+   "summary": "L'intervista all'Ft, 'stiamo ottenendo tutto ciò che vogliamo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_d6dab7ef-5200-4bc2-8114-9fa9ec26ffa9.html",
+   "pub_ts": 1793749829,
    "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/nyt-usa-hanno-piano-per-colpire-liran-subito-dopo-il-voto_fa118783-ff94-47a5-8b96-ad2b2587abea.html",
-     "title": "Nyt, 'Usa hanno piano per colpire l'Iran subito dopo il voto'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_d6dab7ef-5200-4bc2-8114-9fa9ec26ffa9.html",
+     "title": "Trump, nessun piano immediato per attaccare l'Iran"
     },
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/midterm_usa_2026_voto_punizione_presidente_precedenti_spaventano_trump-425695697/?rss",
-     "title": "Midterm Usa, il voto come punizione per il presidente: i precedenti che spaventano Trump"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/diretta/guerra_iran_usa_israele_news_oggi-425697714/",
+     "title": "Guerra in Iran, le news di oggi. Trump: “Non sono in programma attacchi imminenti”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/03/trump-interruzione-aiuti-economici-israele/",
+     "title": "Trump dice che gli Stati Uniti non daranno più aiuti economici a Israele"
     },
     {
      "name": "Adnkronos Esteri",
@@ -112,14 +90,9 @@
      "title": "Trump spiazza Israele: \"Entro fine anno stop aiuti Usa\". Eisenkot: \"Netanyahu deve dare risposte, ne va della sicurezza nazionale\""
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/trump-candidati-dem-pericolosi-voto-midterm-piu-importante-storia-usa-AJ6HLE2B",
-     "title": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»"
-    },
-    {
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/11/03/elezioni-midterm-usa-trump-urne-aperte-notizie/8559580/",
-     "title": "Elezioni midterm Usa, seggi aperti. Trump: “Stop agli aiuti militari a Israele”. Nyt: “Piano per attaccare l’Iran subito dopo il voto”"
+     "title": "Elezioni midterm Usa, seggi aperti. Trump: “Stop agli aiuti militari a Israele”. E al Financial Times dice: “Nessun piano immediato per attaccare l’Iran”"
     }
    ]
   },
@@ -130,7 +103,7 @@
    "summary": "L'Unione europea: 'I trattati vietano la discriminazione'. Valditara: 'Andiamo avanti'",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/03/lue-richiama-litalia-sul-tetto-agli-stranieri-a-scuola.-valditara-andiamo_264b57eb-6c24-4ef2-a41d-dc73ebaa3c3f.html",
    "pub_ts": 1793734277,
-   "n_sources": 5,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -149,14 +122,36 @@
      "title": "Il tetto agli alunni “stranieri” per l’Ue «è discriminatorio»"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/03/tetto-stranieri-scuola-ue-vietato-discriminazioni/",
-     "title": "Tetto agli stranieri in classe, l’altolà dell’Ue: «Vietato discriminare per nazionalità». Valditara insiste: «Andiamo avanti»"
-    },
-    {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/politica/tetto-stranieri-scuola-ue-discriminazione_33eI7TbwlJsxihTAT5aZrI",
      "title": "Scuola, vice presidente Commissione su tetto stranieri: \"Trattati Ue vietano la discriminazione\". Valditara: \"Norma a favore dell'integrazione\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale",
+   "summary": "Con margini ampi i risultati potrebbero essere chiari già questa notte. Se invece gli equilibri dipenderanno da circoscrizioni contese potrebbe essere necessario attendere giorni",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/?rss",
+   "pub_ts": 1793751521,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/?rss",
+     "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/midterm-trump-seguira-la-notte-elettorale-alla-casa-bianca_3a51b017-56c9-4677-8a11-7fa5b04439db.html",
+     "title": "Midterm, Trump seguirà la notte elettorale alla Casa Bianca"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/",
+     "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale"
     }
    ]
   },
@@ -167,7 +162,7 @@
    "summary": "Il Blocco del cambiamento si è riunito ad Herzliya in vista delle consultazioni per la formazione del governo",
    "link": "https://www.repubblica.it/esteri/2026/11/03/news/israele_opposizione_netanyahu_eisenkot_governo-425696543/?rss",
    "pub_ts": 1793732144,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -179,11 +174,6 @@
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/israele-gli-anti-netanyahu-si-compattano-su-eisenkot-partiti-arabi-elezioni-governo-7-ottobre-sm3bhciq",
      "title": "Israele, gli anti Netanyahu si compattano su Eisenkot"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/israele_opposizione_netanyahu_eisenkot_governo-425696543/",
-     "title": "Il vertice dei leader anti-Netanyahu: “Il mandato ad Eisenkot”. Ma la maggioranza resta un’enigma"
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -222,49 +212,22 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California",
-   "summary": "L’amministrazione guidata dal tycoon aveva ipotizzato che le schede per corrispondenza fossero state consegnate a persone non in possesso della cittadinanza americana",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
-   "pub_ts": 1793663150,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
-     "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/corte-suprema-usa-boccia-richiesta-trump-su-blocco-20.000-voti-in-california_2b456d9e-d93d-45a7-9469-eeb17400cf64.html",
-     "title": "Corte Suprema Usa boccia richiesta Trump su blocco 20.000 voti in California"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/02/trump-chiede-sospensione-voti-per-posta-california/",
-     "title": "L’amministrazione Trump ha chiesto alla Corte Suprema di sospendere lo spoglio del voto per posta di 20mila elettori della California"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio",
-   "summary": "Salvini richiama gli alleati. FdI: 'i patti sono quelli scritti'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
-   "pub_ts": 1793736118,
+   "title": "La scelta degli Stati Uniti: il referendum su Trump risveglia i democratici. Code ai seggi",
+   "summary": "Le prime indicazioni: alla Camera molti collegi passano dal Gop ai progressisti. Senato: Ossoff confermato in Georgia e Warner mantiene la Virginia. Gli exit poll tematici mostrano un crollo della fiducia nel presidente. Code ai seggi",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/stati_uniti_elezioni_midterm_referendum_trump-425697600/?rss",
+   "pub_ts": 1793752345,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
-     "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/stati_uniti_elezioni_midterm_referendum_trump-425697600/?rss",
+     "title": "La scelta degli Stati Uniti: il referendum su Trump risveglia i democratici. Code ai seggi"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/03/news/condono_edilizio_manovra_emendamento_fdi_proposta_2003-425696778/",
-     "title": "Manovra, rispunta il condono edilizio. Fratelli d’Italia sfida Salvini sulla casa"
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/stati_uniti_elezioni_midterm_referendum_trump-425697600/",
+     "title": "La scelta degli Stati Uniti: il referendum su Trump risveglia i democratici. Code ai seggi"
     }
    ]
   },
@@ -293,54 +256,96 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Conte: 'Riconosceremo la Palestina e stracceremo l'accordo militare con Israele'",
-   "summary": "'Sul diritto internazionale l'Italia continua a disertare'. Pd-M5s-Avs: 'Urgente lo stop all'importazione di beni dagli insediamenti israeliani illegali', la Camera boccia la richiesta",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/conte-riconosceremo-la-palestina-e-stracceremo-laccordo-militare-con-israele_3fec33d0-d84b-42d5-a42a-7d1907a18073.html",
-   "pub_ts": 1793722484,
+   "title": "Nuovo scandalo su Infantino: una domestica senza documenti nella sua casa di Miami, pagata dalla Fifa",
+   "summary": "Il presidente ha avuto una colf senza un regolare permesso di lavoro né di residenza negli Stati Uniti, pagata per oltre due anni attraverso un posto di lavoro fittizio nel massimo organismo del calcio. Domani ha avuto accesso a documenti che potrebbero comportare accuse penali: c’è chi chiede ora un’indagine federale. Infantino è considerato un sostenitore di Trump, che però usa il pugno duro…",
+   "link": "https://www.editorialedomani.it/sport/fifa-scandalo-infantino-domestica-senza-documenti-permesso-soggiorno-lavoro-casa-miami-stati-uniti-trump-qp4r5a6c",
+   "pub_ts": 1793701855,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/conte-riconosceremo-la-palestina-e-stracceremo-laccordo-militare-con-israele_3fec33d0-d84b-42d5-a42a-7d1907a18073.html",
-     "title": "Conte: 'Riconosceremo la Palestina e stracceremo l'accordo militare con Israele'"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/sport/fifa-scandalo-infantino-domestica-senza-documenti-permesso-soggiorno-lavoro-casa-miami-stati-uniti-trump-qp4r5a6c",
+     "title": "Nuovo scandalo su Infantino: una domestica senza documenti nella sua casa di Miami, pagata dalla Fifa"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/03/conte-palestina-israele-accordo-militare-notizie/8559359/",
-     "title": "Conte: “Riconosceremo la Palestina e stracceremo l’accordo militare con Israele”"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/02/fifa-infantino-tasse-scandalo-stati-uniti/",
+     "title": "La FIFA ha pagato le tasse del suo presidente Gianni Infantino?"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio",
+   "summary": "Salvini richiama gli alleati. FdI: 'i patti sono quelli scritti'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
+   "pub_ts": 1793736118,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
+     "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Attacchi hacker in 8 Paesi Ue, frigo in tilt nei supermercati. “Ci aggrediscono sul cibo”",
-   "summary": "Dal Belgio all’Estonia coinvolti vari megastore Termometri a 50 gradi, tonnellate di alimenti andati a male e sprecati",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/attacchi_hacker_paesi_ue_supermercati_bruxelles_allarme-425694889/?rss",
-   "pub_ts": 1793717934,
-   "n_sources": 4,
+   "title": "Midterm, primi seggi chiudono in Indiana e Kentucky - LA DIRETTA",
+   "summary": "Il leader dei dem alla Camera: 'Siamo vicini alla svolta'. Trump proclama 'la settimana dell'anticomunismo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/i-primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky.-i-repubblicani-vincono-a-guamla_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+   "pub_ts": 1793753040,
+   "n_sources": 9,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/03/news/attacchi_hacker_paesi_ue_supermercati_bruxelles_allarme-425694889/?rss",
-     "title": "Attacchi hacker in 8 Paesi Ue, frigo in tilt nei supermercati. “Ci aggrediscono sul cibo”"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/i-primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky.-i-repubblicani-vincono-a-guamla_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+     "title": "Midterm, primi seggi chiudono in Indiana e Kentucky - LA DIRETTA"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_c475b1b2-184c-4001-b904-2a40ac6fd530.html",
-     "title": "Attacchi hacker ai supermercati, si muove anche il Copasir"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky_4e17d525-11b8-49d5-a7e0-b464f378403e.html",
+     "title": "Primi seggi per le Midterm chiudono in Indiana e Kentucky"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-cdee7466-51f5-4976-906e-c89377d0f963.html",
+     "title": "Midterm, per Trump è il giorno del giudizio. Chiusi i seggi nei primi Stati chiave"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/11/04/diretta/risultati_midterm_elezioni_usa_trump_news_oggi-425697662/",
+     "title": "Elezioni Midterm Usa, i risultati in diretta. Primi dati premiano i dem, in Georgia vince Ossoff"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-2026-risultati_OlcFniexduRKtBJupDJ58",
+     "title": "Elezioni midterm Usa 2026, chiudono i primi seggi: exit poll bocciano Trump"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/03/elezioni-midterm-usa-risultati-ultime-news/",
+     "title": "Midterm, chiusi i seggi in diversi Stati: «Il senatore dem Ossoff è stato rieletto in Georgia». Trump: «Pronto a usare poteri enormi in caso di sconfitta» – La diretta"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/live/elezioni-meta-mandato-stati-uniti-risultati/",
+     "title": "I primi risultati delle elezioni di metà mandato"
     },
     {
      "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/attacchi-supermercati-restare-senza-cibo/",
-     "title": "Attacchi ai supermercati, il 54% di noi teme di restare senza cibo"
+     "link": "https://www.punto-informatico.it/midterm-usa-2026-risultati-diretta-dove-seguire-spoglio/",
+     "title": "Midterm USA 2026, risultati in diretta: dove seguire lo spoglio"
     },
     {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/abbiamo-un-problema-enorme-hacker-scatenati-nei-supermercati-tonnellate-di-cibo-da-buttare/",
-     "title": "Abbiamo un problema (enorme): hacker scatenati nei supermercati, tonnellate di cibo da buttare. Casi in Italia"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/11/04/elezioni-midterm-usa-2026-risultati-diretta-live-news-oggi/8559806/",
+     "title": "Elezioni Midterm Usa 2026: i risultati in diretta. Chiudono i seggi anche in Ohio e North Carolina. Il dem Ossoff vince in Georgia"
     }
    ]
   },
@@ -369,6 +374,23 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Google alle scuole americane: chi rinuncia all’IA non avrà più il motore di ricerca",
+   "summary": "Dal 2027 le scuole americane potranno decidere di tenere fuori dagli account degli studenti gli strumenti di intelligenza artificiale di Google. Ma chi rifiuterà completamente l’IA perderà anche l’accesso al tradizionale motore di ricerca",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/google-scuole-usa-ia-motore-di-ricerca-425697400/?rss",
+   "pub_ts": 1793740101,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/google-scuole-usa-ia-motore-di-ricerca-425697400/?rss",
+     "title": "Google alle scuole americane: chi rinuncia all’IA non avrà più il motore di ricerca"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale",
    "summary": "E' Dan Driscoll, ha lasciato incarico a settembre dopo notizie di tensioni con Hegseth",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
@@ -380,23 +402,6 @@
      "name": "ANSA Tecnologia",
      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
      "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Testati nello spazio i chip di Google per l'IA",
-   "summary": "A bordo di un satellite di Planet Labs lanciato il primo ottobre",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/11/03/testati-nello-spazio-i-chip-di-google-per-lia_20736b6d-abc9-4d76-83a2-9184dee6c6bd.html",
-   "pub_ts": 1793719214,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/11/03/testati-nello-spazio-i-chip-di-google-per-lia_20736b6d-abc9-4d76-83a2-9184dee6c6bd.html",
-     "title": "Testati nello spazio i chip di Google per l'IA"
     }
    ]
   },
@@ -459,6 +464,34 @@
   {
    "category": "varia",
    "area": null,
+   "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm",
+   "summary": "L'attrice schierata sui temi \"dell'ambiente e della democrazia\"",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
+   "pub_ts": 1793716914,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
+     "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/02/maratone-speciali-e-approfondimenti-tv-italiana-in-campo-per-il-voto-di-midterm-usa_fc911483-dc78-4207-aff4-3fba74cf2498.html",
+     "title": "Maratone, speciali e approfondimenti, tv italiana in campo per il voto di midterm Usa"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/trump-candidati-dem-pericolosi-voto-midterm-piu-importante-storia-usa-AJ6HLE2B",
+     "title": "Trump: «Candidati dem pericolosi, voto di Midterm più importante della storia Usa»"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
    "title": "Homo Alien, Veneziani si interroga sulla sostituzione dell'umano",
    "summary": "Lo sviluppo dell'intelligenza artificiale mette a rischio il futuro dell'uomo",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/homo-alien-veneziani-si-interroga-sulla-sostituzione-dellumano_1c4f836d-8f27-4f8b-83de-1c6da2e7e13d.html",
@@ -501,55 +534,23 @@
     }
    ],
    "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm",
-   "summary": "L'attrice schierata sui temi \"dell'ambiente e della democrazia\"",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
-   "pub_ts": 1793716914,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
-     "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/02/maratone-speciali-e-approfondimenti-tv-italiana-in-campo-per-il-voto-di-midterm-usa_fc911483-dc78-4207-aff4-3fba74cf2498.html",
-     "title": "Maratone, speciali e approfondimenti, tv italiana in campo per il voto di midterm Usa"
-    }
-   ],
-   "subtype": "cultura"
   }
  ],
  "articles": [
   {
-   "title": "Midterm, l'America al voto: seggi aperti in tutti gli Usa. Primo risultato: Guam ai repubblicani LA DIRETTA",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/03/midterm-lamerica-al-voto-seggi-aperti-in-tutti-gli-usa.-primo-risultato_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
-   "description": "La mappa delle elezioni, un referendum su Trump. Il tycoon in trincea teme l'onda blu: 'Se stufi di me farò il premier in Israele'. Il maltempo ostacola il voto nel sud-ovest",
-   "pub_ts": 1793738149,
-   "source": "ANSA",
+   "title": "Spagna, si dimette il ministro dei Trasporti Puente",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/spagna_ministro_trasporti_oscar_puente_dimissioni_incidente_urda-425697285/?rss",
+   "description": "L’annuncio dopo l’intervento al Congresso dopo l’incidente ferroviario di Urda dove sono morte 69 persone. Sánchez elogia la decisione: “Si è assunto le sue responsabilità e poi si è fatto da parte”",
+   "pub_ts": 1793744135,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Si dimette il ministro dei Trasporti spagnolo per l'incidente ferroviario a Toledo",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/si-dimette-il-ministro-dei-trasporti-spagnolo-per-lincidente-ferroviario-a-toledo_2932ac28-7304-4b62-bbba-feddbfffae7a.html",
-   "description": "Il socialista Oscar Puente rinuncia anche alla candidatura alle elezioni del 29 novembre",
-   "pub_ts": 1793738927,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nyt, 'Usa hanno piano per colpire l'Iran subito dopo il voto'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/nyt-usa-hanno-piano-per-colpire-liran-subito-dopo-il-voto_fa118783-ff94-47a5-8b96-ad2b2587abea.html",
-   "description": "'Le condizioni ideali per il tipo di attacco dureranno poco'",
-   "pub_ts": 1793736564,
+   "title": "Trump, nessun piano immediato per attaccare l'Iran",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_d6dab7ef-5200-4bc2-8114-9fa9ec26ffa9.html",
+   "description": "L'intervista all'Ft, 'stiamo ottenendo tutto ciò che vogliamo'",
+   "pub_ts": 1793749829,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
@@ -560,6 +561,15 @@
    "description": "L'Unione europea: 'I trattati vietano la discriminazione'. Valditara: 'Andiamo avanti'",
    "pub_ts": 1793734277,
    "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale",
+   "link": "https://www.repubblica.it/esteri/2026/11/03/news/risultati_elezioni_usa_midterm_a_che_ora_italia-425695537/?rss",
+   "description": "Con margini ampi i risultati potrebbero essere chiari già questa notte. Se invece gli equilibri dipenderanno da circoscrizioni contese potrebbe essere necessario attendere giorni",
+   "pub_ts": 1793751521,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -582,20 +592,11 @@
    "section": "politica"
   },
   {
-   "title": "Midterm Usa, la Corte suprema boccia la richiesta di Trump di bloccare 20mila voti in California",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/corte_suprema_boccia_trump_voti_california-425695130/?rss",
-   "description": "L’amministrazione guidata dal tycoon aveva ipotizzato che le schede per corrispondenza fossero state consegnate a persone non in possesso della cittadinanza americana",
-   "pub_ts": 1793663150,
+   "title": "La scelta degli Stati Uniti: il referendum su Trump risveglia i democratici. Code ai seggi",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/stati_uniti_elezioni_midterm_referendum_trump-425697600/?rss",
+   "description": "Le prime indicazioni: alla Camera molti collegi passano dal Gop ai progressisti. Senato: Ossoff confermato in Georgia e Warner mantiene la Virginia. Gli exit poll tematici mostrano un crollo della fiducia nel presidente. Code ai seggi",
+   "pub_ts": 1793752345,
    "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
-   "description": "Salvini richiama gli alleati. FdI: 'i patti sono quelli scritti'",
-   "pub_ts": 1793736118,
-   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -609,20 +610,29 @@
    "section": "politica"
   },
   {
-   "title": "Conte: 'Riconosceremo la Palestina e stracceremo l'accordo militare con Israele'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/conte-riconosceremo-la-palestina-e-stracceremo-laccordo-militare-con-israele_3fec33d0-d84b-42d5-a42a-7d1907a18073.html",
-   "description": "'Sul diritto internazionale l'Italia continua a disertare'. Pd-M5s-Avs: 'Urgente lo stop all'importazione di beni dagli insediamenti israeliani illegali', la Camera boccia la richiesta",
-   "pub_ts": 1793722484,
-   "source": "ANSA Politica",
+   "title": "Nuovo scandalo su Infantino: una domestica senza documenti nella sua casa di Miami, pagata dalla Fifa",
+   "link": "https://www.editorialedomani.it/sport/fifa-scandalo-infantino-domestica-senza-documenti-permesso-soggiorno-lavoro-casa-miami-stati-uniti-trump-qp4r5a6c",
+   "description": "Il presidente ha avuto una colf senza un regolare permesso di lavoro né di residenza negli Stati Uniti, pagata per oltre due anni attraverso un posto di lavoro fittizio nel massimo organismo del calcio. Domani ha avuto accesso a documenti che potrebbero comportare accuse penali: c’è chi chiede ora un’indagine federale. Infantino è considerato un sostenitore di Trump, che però usa il pugno duro…",
+   "pub_ts": 1793701855,
+   "source": "Domani",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Attacchi hacker in 8 Paesi Ue, frigo in tilt nei supermercati. “Ci aggrediscono sul cibo”",
-   "link": "https://www.repubblica.it/esteri/2026/11/03/news/attacchi_hacker_paesi_ue_supermercati_bruxelles_allarme-425694889/?rss",
-   "description": "Dal Belgio all’Estonia coinvolti vari megastore Termometri a 50 gradi, tonnellate di alimenti andati a male e sprecati",
-   "pub_ts": 1793717934,
-   "source": "Repubblica Esteri",
+   "title": "Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/salvini-dei-tagli-alla-scuola-non-sapevo-niente-ora-faremo_2efb7e04-432c-4fc0-9e02-df66ae981476.html",
+   "description": "Salvini richiama gli alleati. FdI: 'i patti sono quelli scritti'",
+   "pub_ts": 1793736118,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Midterm, primi seggi chiudono in Indiana e Kentucky - LA DIRETTA",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/i-primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky.-i-repubblicani-vincono-a-guamla_cac22026-2d64-44b0-8b5f-ee46bcd00316.html",
+   "description": "Il leader dei dem alla Camera: 'Siamo vicini alla svolta'. Trump proclama 'la settimana dell'anticomunismo'",
+   "pub_ts": 1793753040,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
   },
@@ -636,19 +646,19 @@
    "section": "tech"
   },
   {
-   "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
-   "description": "E' Dan Driscoll, ha lasciato incarico a settembre dopo notizie di tensioni con Hegseth",
-   "pub_ts": 1793719327,
-   "source": "ANSA Tecnologia",
+   "title": "Google alle scuole americane: chi rinuncia all’IA non avrà più il motore di ricerca",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/03/news/google-scuole-usa-ia-motore-di-ricerca-425697400/?rss",
+   "description": "Dal 2027 le scuole americane potranno decidere di tenere fuori dagli account degli studenti gli strumenti di intelligenza artificiale di Google. Ma chi rifiuterà completamente l’IA perderà anche l’accesso al tradizionale motore di ricerca",
+   "pub_ts": 1793740101,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Testati nello spazio i chip di Google per l'IA",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/11/03/testati-nello-spazio-i-chip-di-google-per-lia_20736b6d-abc9-4d76-83a2-9184dee6c6bd.html",
-   "description": "A bordo di un satellite di Planet Labs lanciato il primo ottobre",
-   "pub_ts": 1793719214,
+   "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
+   "description": "E' Dan Driscoll, ha lasciato incarico a settembre dopo notizie di tensioni con Hegseth",
+   "pub_ts": 1793719327,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
@@ -672,6 +682,15 @@
    "section": "varia"
   },
   {
+   "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
+   "description": "L'attrice schierata sui temi \"dell'ambiente e della democrazia\"",
+   "pub_ts": 1793716914,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
    "title": "Homo Alien, Veneziani si interroga sulla sostituzione dell'umano",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/02/homo-alien-veneziani-si-interroga-sulla-sostituzione-dellumano_1c4f836d-8f27-4f8b-83de-1c6da2e7e13d.html",
    "description": "Lo sviluppo dell'intelligenza artificiale mette a rischio il futuro dell'uomo",
@@ -686,15 +705,6 @@
    "description": "L'attrice già ambasciatrice del brand coordinerà voci di donne in 'Stories She Tell'",
    "pub_ts": 1793725934,
    "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Jane Fonda in campo per oltre 250 candidati al voto di Midterm",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/jane-fonda-in-campo-per-oltre-250-candidati-al-voto-di-midterm_0acba92b-6305-4244-ab9a-4d5481bec7ec.html",
-   "description": "L'attrice schierata sui temi \"dell'ambiente e della democrazia\"",
-   "pub_ts": 1793716914,
-   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "varia"
   }
