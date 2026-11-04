@@ -1,6 +1,6 @@
 {
- "generated_at": 1793811561,
- "updated_at": 1793811561,
+ "generated_at": 1793831570,
+ "updated_at": 1793831570,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,33 +9,85 @@
  "items": [
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Padre ferita Crans, 'dalla Svizzera una specie di ammissione di colpa'",
-   "summary": "\"La rinuncia al rimborso delle spese mediche è una buona notizia\"",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/padre-ferita-crans-dalla-svizzera-una-specie-di-ammissione-di-colpa_63c9078e-0b94-42ae-b891-49d37719b96c.html",
-   "pub_ts": 1793797938,
-   "n_sources": 8,
+   "area": "mondo",
+   "title": "Don Jr si schiera con Vance, sconfitta è colpa della guerra in Iran",
+   "summary": "Il figlio del presidente commenta su X",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/don-jr-si-schiera-con-vance-sconfitta-e-colpa-della-guerra-in-iran_a8d00941-ee2c-4e97-adb8-7f64d05110ae.html",
+   "pub_ts": 1793828125,
+   "n_sources": 10,
    "documented": true,
    "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/don-jr-si-schiera-con-vance-sconfitta-e-colpa-della-guerra-in-iran_a8d00941-ee2c-4e97-adb8-7f64d05110ae.html",
+     "title": "Don Jr si schiera con Vance, sconfitta è colpa della guerra in Iran"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/midterm_israele_trump_netanyahu_iran_guerra-425698811/?rss",
+     "title": "Midterm, le conseguenze della sconfitta di Trump su Netanyahu"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/04/elezioni-midterm-usa-risultati-ultime-news/",
+     "title": "Trump e la sconfitta alle Midterm: «Colpa del carovita». Vance prova a smarcarsi, petrolio chiude con un tonfo a Wall Street – La diretta"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-cosa-ha-detto-vance_6m7UldXoQHJG8UySYD7mUG",
+     "title": "Elezioni midterm, Vance: \"Abbiamo perso per la guerra in Iran\". Trump: \"Ma ne è valsa la pena\""
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/wall-street-festeggia-la-vittoria-dei-democratici-giu-petrolio-e-gas-8e075ff8-71b8-4719-a0fa-a43661695af7.html",
+     "title": "Wall Street festeggia la vittoria dei democratici, giù petrolio e gas"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/midterm_israele_trump_netanyahu_iran_guerra-425698811/",
+     "title": "Midterm, le conseguenze della sconfitta di Trump su Netanyahu"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/europa/midterm-usa-germania-merz-reazioni-afd-guerra-in-iran-r5bhks8r",
+     "title": "Midterm, in Germania il ministro della Difesa ridimensiona le aspettative sul cambiamento, AfD: «È colpa della guerra in Iran»"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/episodes/una-brutta-sconfitta-per-trump-con-eugenio-cau/",
+     "title": "Una brutta sconfitta per Trump, con Eugenio Cau"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/04/vance-reazione-elezioni-midterm-guerra-trump/8560686/",
+     "title": "Il mea culpa di Vance dopo la sconfitta nelle Midterm: “Colpa della guerra”. Ma Trump: “La rifarei”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/midterm-la-sconfitta-di-trump-non-cancella-le-ragioni-dei-suoi-elettori/",
+     "title": "Midterm: la sconfitta di Trump non cancella le ragioni dei suoi elettori"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "La Svizzera pagherà le spese mediche dei feriti di Crans-Montana",
+   "summary": "Meloni: 'Felice di questa soluzione'. Il padre di una ferita: 'È un'ammissione di colpa'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/la-svizzera-paghera-le-spese-mediche-dei-feriti-di-crans-montana_f4521456-de88-429a-9286-6ca82525a4d8.html",
+   "pub_ts": 1793814973,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/la-svizzera-paghera-le-spese-mediche-dei-feriti-di-crans-montana_f4521456-de88-429a-9286-6ca82525a4d8.html",
+     "title": "La Svizzera pagherà le spese mediche dei feriti di Crans-Montana"
+    },
     {
      "name": "ANSA Cronaca",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/padre-ferita-crans-dalla-svizzera-una-specie-di-ammissione-di-colpa_63c9078e-0b94-42ae-b891-49d37719b96c.html",
      "title": "Padre ferita Crans, 'dalla Svizzera una specie di ammissione di colpa'"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/la-svizzera-rinuncia-al-rimborso-delle-spese-mediche-dei-feriti-di-crans_f4521456-de88-429a-9286-6ca82525a4d8.html",
-     "title": "La Svizzera rinuncia al rimborso delle spese mediche dei feriti di Crans"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://torino.repubblica.it/cronaca/2026/11/04/news/crans-montana_padre_els_svizzera_specie_ammissione_di_colpa-425698906/",
-     "title": "Crans-Montana, il padre di Elsa: “Dalla Svizzera una specie di ammissione di colpa”"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/crans-montana-la-svizzera-rinuncia-al-rimborso-delle-spese-mediche-dei-feriti-991e0e41-e902-45a7-8a9c-e70b00b24b37.html",
-     "title": "Crans-Montana, la Svizzera rinuncia al rimborso delle spese mediche dei feriti"
     },
     {
      "name": "Il Post",
@@ -61,159 +113,65 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Midterm: uno tsunami blu, l'America boccia Trump. La Casa Bianca: 'Lui resta il vostro presidente'- LIVEBLOG",
-   "summary": "I democratici conquistano il Congresso e diversi fortini rossi, espugnati anche feudi storici come Texas e Kansas. Il tycoon: 'Accetto il voto'. Ma poi posta il cappello 'Mr Veto'. Le Borse corrono dopo il voto",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-i-democratici-conquistano-il-congresso-e-strappano-governatori-chiave-liveblog_9fe187a6-3703-47e5-aef0-0d50b44ec158.html",
-   "pub_ts": 1793810495,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-i-democratici-conquistano-il-congresso-e-strappano-governatori-chiave-liveblog_9fe187a6-3703-47e5-aef0-0d50b44ec158.html",
-     "title": "Midterm: uno tsunami blu, l'America boccia Trump. La Casa Bianca: 'Lui resta il vostro presidente'- LIVEBLOG"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/vance-la-ragione-per-cui-abbiamo-perso-le-midterm-e-la-guerra-in-iran_edaaece9-e084-4b75-8b50-b58b51be3aef.html",
-     "title": "Vance, 'la ragione per cui abbiamo perso le midterm è la guerra in Iran'"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/ansa-tempo-reale-lo-tsunami-blu-travolge-lamerica-di-trump_f3e0254b-92bc-440d-9294-69424086b452.html",
-     "title": ">ANSA-TEMPO REALE/ Lo 'tsunami blu' travolge l'America di Trump"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/04/elezioni-midterm-usa-risultati-ultime-news/",
-     "title": "Tsunami Dem alle Midterm, Vance ammette: «Perso per colpa della guerra in Iran». Il post minaccioso della Casa Bianca: «Trump è ancora il vostro presidente»"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-cosa-ha-detto-vance_6m7UldXoQHJG8UySYD7mUG",
-     "title": "Elezioni midterm, Vance: \"Abbiamo perso per la guerra in Iran, l'ha detto anche Trump\""
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/midterm-usa-germania-merz-reazioni-afd-guerra-in-iran-r5bhks8r",
-     "title": "Midterm, in Germania il ministro della Difesa ridimensiona le aspettative sul cambiamento, AfD: «È colpa della guerra in Iran»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/11/04/diretta/risultati_midterm_elezioni_usa_trump_news_oggi-425697662/",
-     "title": "Elezioni midterm Usa. Onda blu alla Camera e al Senato. Vance: “Abbiamo perso per colpa della guerra”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
-   "title": "Midterm, le conseguenze della sconfitta di Trump su Netanyahu",
-   "summary": "Dall’incognita della ripresa del conflitto con l’Iran ai finanziamenti militari allo Stato ebraico fino all’attenzione sul senatore musulmano El-Sayed",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/midterm_israele_trump_netanyahu_iran_guerra-425698811/?rss",
-   "pub_ts": 1793801091,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/midterm_israele_trump_netanyahu_iran_guerra-425698811/?rss",
-     "title": "Midterm, le conseguenze della sconfitta di Trump su Netanyahu"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-trump-no-vax_5SdPHByZHeGtVvY8P7DSNa",
-     "title": "Midterm, Bassetti e Pregliasco: \"Voto Usa è sconfitta per Trump e anti-scienza\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/midterm_israele_trump_netanyahu_iran_guerra-425698811/",
-     "title": "Midterm, le conseguenze della sconfitta di Trump su Netanyahu"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/episodes/una-brutta-sconfitta-per-trump-con-eugenio-cau/",
-     "title": "Una brutta sconfitta per Trump, con Eugenio Cau"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/trump-meloni-crisi-elezioni-midterm-usa-insulti-italia-eunkvoow",
-     "title": "Dal «rapporto privilegiato» alla distanza, la sconfitta di Trump non preoccupa Meloni"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/midterm-la-sconfitta-di-trump-non-cancella-le-ragioni-dei-suoi-elettori/",
-     "title": "Midterm: la sconfitta di Trump non cancella le ragioni dei suoi elettori"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Russia, è morto a 81 anni uno dei creatori del Novichok",
-   "summary": "Vladimir Uglev è stato uno degli sviluppatori dell'agente nervino usato per avvelenare fra gli altri Navalny nel 2020 e Sergei e Yulia Skripal, nel 2018",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/russia_novichok_morto_creatore_vladimir_uglev-425698345/?rss",
-   "pub_ts": 1793805758,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/russia_novichok_morto_creatore_vladimir_uglev-425698345/?rss",
-     "title": "Russia, è morto a 81 anni uno dei creatori del Novichok"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/04/media-e-morto-vladimir-uglev-uno-dei-creatori-del-novichok_3e8df851-555f-49c4-8273-e1d9b7745ecb.html",
-     "title": "'E' morto Vladimir Uglev, uno dei creatori del Novichok'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/russia_novichok_morto_creatore_vladimir_uglev-425698345/",
-     "title": "Russia, è morto a 81 anni uno dei creatori del Novichok"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/e-morto-vladimir-uglev-dei-creatori-novichok-AJz9AD4B",
-     "title": "Morto Vladimir Uglev: addio a uno dei creatori del Novichok"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/04/undefined-66/8560441/",
-     "title": "Morto Vladimir Uglev, uno degli scienziati coinvolti nello sviluppo del Novichok che uccise Aleksei Navalny"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'",
-   "summary": "Le proiezioni di Decision Desk HQ. Ha difeso lo scranno in stato vinto da Trump nel 2024",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_bb89f906-31d6-484d-a052-06b2d3ffcf0f.html",
-   "pub_ts": 1793807588,
+   "title": "Manovra: FdI alle Regioni, le risorse non sono infinite",
+   "summary": "'Quelli sulla sanità non sono tagli ma un mancato ulteriore aumento'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-fdi-alle-regioni-le-risorse-non-sono-infinite_aa352050-80a9-4cf2-bc8c-a86a07823ec6.html",
+   "pub_ts": 1793825460,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_bb89f906-31d6-484d-a052-06b2d3ffcf0f.html",
-     "title": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-fdi-alle-regioni-le-risorse-non-sono-infinite_aa352050-80a9-4cf2-bc8c-a86a07823ec6.html",
+     "title": "Manovra: FdI alle Regioni, le risorse non sono infinite"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/jon-ossoff-chi-e-democratico-che-ha-sconfitto-trump-georgia-e-ora-guarda-2028-AJ77EZ4B",
-     "title": "Jon Ossoff, chi è il democratico che ha sconfitto Trump in Georgia e ora guarda al 2028"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/regioni-allunanimita-in-manovra-risorse-insufficienti-per-la-sanita_4b49e5c7-8fdd-49fe-aff5-a45f437cea28.html",
+     "title": "Regioni all'unanimità, 'in manovra risorse insufficienti per la sanità'"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/anche-la-sanita-e-il-morbillo-hanno-sconfitto-trump-e42895cb-3da6-453e-8586-94e9f202f255.html",
-     "title": "Anche la sanità ( e il morbillo) hanno sconfitto Trump"
+     "link": "https://www.rainews.it/video/2026/11/manovra-meloni-risorse-concentrate-su-famiglie-e-fragili-fbc0b947-b416-4d13-bc2a-d3d338f11f67.html",
+     "title": "Manovra, Meloni: \"Risorse concentrate su famiglie e fragili\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/04/news/manovra_regioni_fondi_insufficienti_sanita_governo-425699475/",
+     "title": "Manovra, tutte le Regioni all’attacco: “Fondi insufficienti per la sanità. Lea a rischio”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Stati Uniti, tutti i primati storici delle midterm",
+   "summary": "Dalla prima governatrice nativa eletta in New Mexico al primo latino alla guida della California: queste elezioni hanno spezzato la maggioranza repubblicana e abbattuto alcune barriere storiche",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/risultati_storici_midterm_bottoms_haaland_becerra_pappas-425698963/?rss",
+   "pub_ts": 1793818933,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/risultati_storici_midterm_bottoms_haaland_becerra_pappas-425698963/?rss",
+     "title": "Stati Uniti, tutti i primati storici delle midterm"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/",
+     "title": "E adesso che succede negli Stati Uniti?"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/risultati_storici_midterm_bottoms_haaland_becerra_pappas-425698963/",
+     "title": "Stati Uniti, tutti i primati storici delle midterm"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/jon-ossoff-chi-e-democratico-georgia-elezioni-midterm-usa-aa9tczds",
-     "title": "Jon Ossoff trionfa, chi è “l’Obama” della Georgia"
+     "link": "https://www.editorialedomani.it/idee/cultura/letteratura-americana-midterm-elezioni-libri-oates-robinson-strout-king-scrittori-come-leggere-stati-uniti-yitbdou2",
+     "title": "Negli occhi degli scrittori: come leggere gli Stati Uniti"
     }
    ]
   },
@@ -252,44 +210,71 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump e la guerra in Iran, che cosa può fare senza la maggioranza al Congresso",
-   "summary": "La legge prevede che il presidente chieda l’autorizzazione a Camera e Senato o che termini le operazioni belliche dopo 60 giorni. Ma diversi presidenti in passato hanno ignorato la volontà dell’Aula e la sconfitta alle midterm",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/conseguenze_midterm_trump_guerra_iran_cosa_succede_ora-425698096/?rss",
-   "pub_ts": 1793797652,
+   "title": "'Gli americani hanno detto no alla guerra', ma Teheran non si illude",
+   "summary": "Khamenei: 'Se attaccano risposta più ampia'. L'Iran minaccia le basi in Europa e in Italia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/khamenei-chi-si-aspetta-un-cambiamento-nella-politica-usa-sbaglia-di-grosso_60de3609-89e4-4ddf-9dc3-fb4483a930e3.html",
+   "pub_ts": 1793826567,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/conseguenze_midterm_trump_guerra_iran_cosa_succede_ora-425698096/?rss",
-     "title": "Trump e la guerra in Iran, che cosa può fare senza la maggioranza al Congresso"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/khamenei-chi-si-aspetta-un-cambiamento-nella-politica-usa-sbaglia-di-grosso_60de3609-89e4-4ddf-9dc3-fb4483a930e3.html",
+     "title": "'Gli americani hanno detto no alla guerra', ma Teheran non si illude"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/ambiente/midterm-nuovo-congresso-cosa-fare-politiche-climatiche-trump-accordo-parigi-il3y9vwq",
-     "title": "Cosa può fare il nuovo Congresso Usa con le politiche climatiche di Trump"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/teheran-il-messaggio-degli-americani-e-no-alla-guerra_6379416f-359f-482d-93bd-2287781e6721.html",
+     "title": "Teheran, 'il messaggio degli americani è no alla guerra'"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/conseguenze_midterm_trump_guerra_iran_cosa_succede_ora-425698096/",
-     "title": "Trump e la guerra in Iran, che cosa può fare senza la maggioranza al Congresso"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/iran-minaccia-italia-europa-attacco-usa_2aB4m09qazBcM3fUyOef4C",
+     "title": "Guerra in Iran, deputato Teheran minaccia anche l'Italia: \"Se Usa ci attaccano colpiremo l'Europa\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "L'America boccia Trump, uno tsunami blu alle midterm",
+   "summary": "Dem conquistano il Congresso e i fortini rossi. Il tycoon: 'Resto il vostro presidente'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/lamerica-boccia-trump-uno-tsunami-blu-alle-midterm-_fe1d49b4-c431-4e19-826f-0b6efcdbcb77.html",
+   "pub_ts": 1793826032,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/lamerica-boccia-trump-uno-tsunami-blu-alle-midterm-_fe1d49b4-c431-4e19-826f-0b6efcdbcb77.html",
+     "title": "L'America boccia Trump, uno tsunami blu alle midterm"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/ansa-tempo-reale-lo-tsunami-blu-travolge-lamerica-di-trump_f3e0254b-92bc-440d-9294-69424086b452.html",
+     "title": ">ANSA-TEMPO REALE/ Lo 'tsunami blu' travolge l'America di Trump"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-stampa-estera-prime-pagine_2iBFLOADBrCTQRwPSlV9eW",
+     "title": "Midterm, lo \"tsunami blu\" contro Trump fa il giro del mondo: la notizia sui quotidiani esteri"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Midterm, Pappas sarà il primo senatore Usa dichiaratamente gay",
-   "summary": "I festeggiamenti in New Hampshire insieme a suo marito",
-   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/04/midterm-pappas-sara-il-primo-senatore-usa-dichiaratamente-gay_d8698be9-527d-4c11-a641-58197f385d4b.html",
-   "pub_ts": 1793783922,
+   "title": "L'exploit di El Sayed, il primo musulmano al Senato",
+   "summary": "Stravince nonostante lo strappo della rivale dem. Una vittoria targata Ocasio-Cortez",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/il-dem-el-sayed-vince-in-michigan.-e-prende-in-giro-vance-jd-habibi_afc33428-dbc0-4079-a300-4cb3992c5620.html",
+   "pub_ts": 1793825407,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/04/midterm-pappas-sara-il-primo-senatore-usa-dichiaratamente-gay_d8698be9-527d-4c11-a641-58197f385d4b.html",
-     "title": "Midterm, Pappas sarà il primo senatore Usa dichiaratamente gay"
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/il-dem-el-sayed-vince-in-michigan.-e-prende-in-giro-vance-jd-habibi_afc33428-dbc0-4079-a300-4cb3992c5620.html",
+     "title": "L'exploit di El Sayed, il primo musulmano al Senato"
     },
     {
      "name": "Repubblica Esteri",
@@ -305,45 +290,50 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Mattarella: 'Serve rinnovamento contro conflitti, disinformazione e cyber-attacchi'",
-   "summary": "'Celebriamo l'Unità della Patria e il ruolo dell'Italia per la pace'. Il messaggio al ministro Crosetto per le forze armate",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-serve-rinnovamento-contro-conflitti-disinformazione-e-cyber-attacchi_a94b94b9-8c0a-4afe-91a3-213f8d38ce2b.html",
-   "pub_ts": 1793802238,
-   "n_sources": 2,
+   "area": "mondo",
+   "title": "La sconfitta di Trump travolto dall’onda blu. Ai dem Camera e Senato",
+   "summary": "Ribaltone nei collegi del Gop, al Congresso i democratici saranno maggioranza. Vittorie pesanti in Georgia, North Carolina, Texas, Michigan e Kansas. Affluenza alta. E gli exit poll tematici mostrano che il 75% degli elettori non si fida del presidente",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_ha_vinto_perso_elezioni_usa_midterm_2026-425697849/?rss",
+   "pub_ts": 1793808240,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-serve-rinnovamento-contro-conflitti-disinformazione-e-cyber-attacchi_a94b94b9-8c0a-4afe-91a3-213f8d38ce2b.html",
-     "title": "Mattarella: 'Serve rinnovamento contro conflitti, disinformazione e cyber-attacchi'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_ha_vinto_perso_elezioni_usa_midterm_2026-425697849/?rss",
+     "title": "La sconfitta di Trump travolto dall’onda blu. Ai dem Camera e Senato"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-serve-rinnovamento-contro-conflitti-disinformazione-e-cyber-attacchi_e9c98651-f96b-4e79-9726-5b4f9755e198.html",
-     "title": "Mattarella, serve rinnovamento contro conflitti, disinformazione e cyber-attacchi"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-cdee7466-51f5-4976-906e-c89377d0f963.html",
+     "title": "L'onda blu travolge gli Usa, i Democratici conquistano sia la Camera che il Senato"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_ha_vinto_perso_elezioni_usa_midterm_2026-425697849/",
+     "title": "La sconfitta di Trump travolto dall’onda blu. Ai dem Camera e Senato"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Chi è Keisha Lance Bottoms, la prima governatrice afroamericana eletta in Georgia",
-   "summary": "L’ex sindaca di Atlanta ha sconfitto il repubblicano Rick Jackson, un miliardario dirigente del settore sanitario",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_e_keisha_lance_bottoms_la_prima_governatrice_afroamericana_in_georgia-425697854/?rss",
-   "pub_ts": 1793798068,
+   "title": "L'Italia celebra le Forze armate, 'le istituzioni siano con i militari'",
+   "summary": "Crosetto: 'Senza difesa non c'è libertà'. Cerimonia a Firenze con Mattarella.",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/litalia-celebra-forze-armate-le-istituzioni-siano-con-i-militari_b220598f-f15f-43f3-8487-99ffb9dca950.html",
+   "pub_ts": 1793824902,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_e_keisha_lance_bottoms_la_prima_governatrice_afroamericana_in_georgia-425697854/?rss",
-     "title": "Chi è Keisha Lance Bottoms, la prima governatrice afroamericana eletta in Georgia"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/litalia-celebra-forze-armate-le-istituzioni-siano-con-i-militari_b220598f-f15f-43f3-8487-99ffb9dca950.html",
+     "title": "L'Italia celebra le Forze armate, 'le istituzioni siano con i militari'"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/keisha-lance-bottoms-e-prima-governatrice-afroamericana-storia-stati-uniti-AJAPlI4B",
-     "title": "Keisha Lance Bottoms espugna la Georgia: chi è la prima governatrice afroamericana nella storia Usa"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/mattarella-giornata-forze-armate-celebriamo-unita-patria-liberazione-crosetto-meloni-lb4m4ams",
+     "title": "Mattarella per la Giornata delle forze armate: «Celebriamo l’unità della Patria e la Liberazione»"
     }
    ]
   },
@@ -366,28 +356,6 @@
      "name": "ANSA Cultura",
      "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/03/premio-lagrange-a-dashun-wang-lia-puo-rendere-la-scienza-piu-conformista_534c4441-146c-47e1-9568-a0a3d4afab67.html",
      "title": "Premio Lagrange a Dashun Wang, 'l'Ia può rendere la scienza più conformista'"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Nuovi governatori democratici: stop ai data center AI",
-   "summary": "I nuovi governatori democratici hanno promesso che bloccheranno la costruzione dei data center tramite moratorie o vincoli molto stringenti. The post Nuovi governatori democratici: stop ai data center AI appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/nuovi-governatori-democratici-stop-data-center-ai/",
-   "pub_ts": 1793789046,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/nuovi-governatori-democratici-stop-data-center-ai/",
-     "title": "Nuovi governatori democratici: stop ai data center AI"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/03/datacenter-stati-uniti/",
-     "title": "L’ostilità ai data center mette d’accordo elettori Democratici e Repubblicani"
     }
    ]
   },
@@ -426,42 +394,21 @@
    ]
   },
   {
-   "category": "varia",
+   "category": "tech",
    "area": null,
-   "title": "Regioni all'unanimità, 'in manovra risorse insufficienti per la sanità'",
-   "summary": "Appello al governo per incremento del fondo sanitario nazionale",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/regioni-allunanimita-in-manovra-risorse-insufficienti-per-la-sanita_4b49e5c7-8fdd-49fe-aff5-a45f437cea28.html",
-   "pub_ts": 1793810312,
-   "n_sources": 5,
-   "documented": true,
+   "title": "Avvocato generale Corte Ue, uso di articoli attraverso IA può violare diritti editori",
+   "summary": "Il parere su un caso ungherese, è il primo sull'intelligenza artificiale generativa",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/avvocato-generale-corte-ue-uso-di-articoli-attraverso-ia-puo-violare-diritti-editori_10b68afa-90b2-4d01-ac6b-260e6df04a3f.html",
+   "pub_ts": 1793802302,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/regioni-allunanimita-in-manovra-risorse-insufficienti-per-la-sanita_4b49e5c7-8fdd-49fe-aff5-a45f437cea28.html",
-     "title": "Regioni all'unanimità, 'in manovra risorse insufficienti per la sanità'"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/03/tagli-alla-sanita-in-manovra-riunione-straordinaria-delle-regioni_7cdaa1d1-eb50-4b15-b477-81428d29baa6.html",
-     "title": "Tagli alla sanità in manovra, riunione straordinaria delle Regioni"
-    },
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/03/manovra-per-gemmato-ingeneroso-dire-che-ci-sono-stati-tagli-alla_094e63b5-d54f-4fb6-84dd-46bd9141d4bd.html",
-     "title": "Manovra, per Gemmato 'ingeneroso dire che ci sono stati tagli alla sanità'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/04/manovra-regioni-chiedono-aumento-fondo-sanitario/",
-     "title": "La Manovra fa perdere la pazienza alle Regioni: «Correggetela, mancando fondi alla sanità»"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/04/manovra-sanita-de-pascale-regioni-consulta-notizie/8560434/",
-     "title": "Il presidente dell’Emilia-Romagna De Pascale: “Se la manovra non cambia sulla sanità, le Regioni portino il governo alla Consulta”"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/avvocato-generale-corte-ue-uso-di-articoli-attraverso-ia-puo-violare-diritti-editori_10b68afa-90b2-4d01-ac6b-260e6df04a3f.html",
+     "title": "Avvocato generale Corte Ue, uso di articoli attraverso IA può violare diritti editori"
     }
-   ],
-   "subtype": "scienza"
+   ]
   },
   {
    "category": "varia",
@@ -469,8 +416,8 @@
    "title": "Addio a Tinto Brass, maestro del cinema erotico",
    "summary": "Morto a Roma 93 anni. Una vita tra censure, tribunali e voyeurismo",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
-   "pub_ts": 1793809920,
-   "n_sources": 4,
+   "pub_ts": 1793828050,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
@@ -480,13 +427,23 @@
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/addio-a-tinto-brass-una-vita-contro-ogni-censura-suo-il-cinema-della-trasgressione-f6d61109-fc96-4c42-bf34-88f40a42b3b8.html",
-     "title": "Addio a Tinto Brass, una vita contro ogni censura. Suo il cinema della trasgressione"
+     "link": "https://www.rainews.it/video/2026/11/addio-a-tinto-brass-una-vita-tra-cinema-sperimentale-arte-e-liberta-despressione-37ea27e3-6a32-475c-b5c7-e1e4bc65479f.html",
+     "title": "Addio a Tinto Brass: una vita tra cinema sperimentale, arte e libertà d'espressione"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/04/morto-tinto-brass/",
-     "title": "È morto Tinto Brass"
+     "link": "https://www.ilpost.it/2026/11/04/tinto-brass-cinema-sperimentale/",
+     "title": "Tinto Brass prima di Tinto Brass"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/spettacoli/cinema/2026/11/04/news/serena_grandi_tinto_brass_carriera_intervista-425699229/",
+     "title": "Serena Grandi: “Tinto Brass mi ha regalato una carriera. Altre colleghe lo hanno rinnegato, io mai”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/04/tinto-brass-carriera-cinema-notizie/8560786/",
+     "title": "Tinto Brass non meritava certi sberleffi: il mio omaggio al Maestro"
     },
     {
      "name": "Nicola Porro",
@@ -499,22 +456,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Il dem El-Sayed vince in Michigan. E prende in giro Vance: 'JD habibi'",
-   "summary": "Il politico dem musulmano era stato attaccato dal vicepresidente e da Trump per la sua religione. Ha vinto la corsa al Senato battendo il repubblicano Mike Rogers",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/il-dem-el-sayed-vince-in-michigan.-e-prende-in-giro-vance-jd-habibi_afc33428-dbc0-4079-a300-4cb3992c5620.html",
-   "pub_ts": 1793809873,
-   "n_sources": 4,
+   "title": "Media, il dem El-Sayed vince la corsa al Senato in Michigan",
+   "summary": "Decision desk Hq, 'batte il repubblicano Rogers'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/media-il-dem-el-sayed-vince-la-corsa-al-senato-in-michigan_fd9aa751-e7c6-4e12-bb50-6e199ddf6f82.html",
+   "pub_ts": 1793773768,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/il-dem-el-sayed-vince-in-michigan.-e-prende-in-giro-vance-jd-habibi_afc33428-dbc0-4079-a300-4cb3992c5620.html",
-     "title": "Il dem El-Sayed vince in Michigan. E prende in giro Vance: 'JD habibi'"
-    },
-    {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/el-sayed-prende-in-giro-vance-dopo-la-vittoria-jd-habibi_94deb76d-cb9d-47b2-aed5-f9887f4ba739.html",
-     "title": "El-Sayed prende in giro Vance dopo la vittoria, 'JD habibi'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/media-il-dem-el-sayed-vince-la-corsa-al-senato-in-michigan_fd9aa751-e7c6-4e12-bb50-6e199ddf6f82.html",
+     "title": "Media, il dem El-Sayed vince la corsa al Senato in Michigan"
     },
     {
      "name": "ANSA Cultura",
@@ -532,27 +484,45 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Domande intime all'ex sacerdote Ravagnani su Rai 2, polemica su Diaco",
-   "summary": "A BellaMà l'intervista al concorrente di Ballando: \"Ti piacciono gli uomini o le donne?\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/04/domande-intime-allex-sacerdote-ravagnani-su-rai-2-polemica-su-diaco_7bd73572-592f-4fef-99fe-c02c6205ee0f.html",
-   "pub_ts": 1793806440,
-   "n_sources": 3,
+   "title": "I governatori 'mancano risorse essenziali, via il voucher'",
+   "summary": "'Più risorse libere e stop ai vincoli. Alla Lombardia 500 milioni in meno, al Veneto 350'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/i-governatori-mancano-risorse-essenziali-via-il-voucher_1f3b20ed-edaa-41b5-9005-e4e5e7b80e33.html",
+   "pub_ts": 1793830447,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/i-governatori-mancano-risorse-essenziali-via-il-voucher_1f3b20ed-edaa-41b5-9005-e4e5e7b80e33.html",
+     "title": "I governatori 'mancano risorse essenziali, via il voucher'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/i-governatori-mancano-le-risorse-essenziali-via-il-voucher_c25a4384-93a3-4986-9d00-56fad965dec3.html",
+     "title": "I governatori: 'Mancano le risorse essenziali, via il voucher'"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Pastorale Americana di Roth torna in libreria, una lettura collettiva per riscoprirlo",
+   "summary": "Feltrinelli e Adelphi celebrano capolavoro con presentazione in contemporanea in 15 città",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/04/pastorale-americana-di-roth-torna-in-libreria-una-lettura-collettiva-per-riscoprirlo_c3523aa5-d65a-4f58-8407-58a95b34694c.html",
+   "pub_ts": 1793814970,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/04/domande-intime-allex-sacerdote-ravagnani-su-rai-2-polemica-su-diaco_7bd73572-592f-4fef-99fe-c02c6205ee0f.html",
-     "title": "Domande intime all'ex sacerdote Ravagnani su Rai 2, polemica su Diaco"
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/04/pastorale-americana-di-roth-torna-in-libreria-una-lettura-collettiva-per-riscoprirlo_c3523aa5-d65a-4f58-8407-58a95b34694c.html",
+     "title": "Pastorale Americana di Roth torna in libreria, una lettura collettiva per riscoprirlo"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/ravagnani-le-domande-di-diaco-sulla-sua-sessualita-accendono-la-polemica-carlucci-inaccettabile-d6f63a5a-515b-4d03-9552-81b7617e93f5.html",
-     "title": "Ravagnani, le domande di Diaco sulla sua sessualità accendono la polemica. Carlucci: \"Inaccettabile\""
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/04/milly-carlucci-difende-alberto-ravagnani-polemica-diaco-bellama/",
-     "title": "Caso Ravagnani: sulle domande di Diaco a BellaMa’ interviene Milly Carlucci e la squadra di Ballando. «Fatto inaccettabile»"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/pastorale-americana-di-philip-roth-torna-in-libreria-con-15-appuntamenti-in-tutta-italia_sXUgTZQlru40zjoO43D18",
+     "title": "'Pastorale americana' di Philip Roth torna in libreria con 15 appuntamenti in tutta Italia"
     }
    ],
    "subtype": "cultura"
@@ -560,22 +530,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Mamma con tumore al pancreas, impegno Lombardia per farle arrivare la cura Usa",
-   "summary": "Bertolaso, doveroso impegnati per dare risposte a chi è in questa situazione",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_72c6f85b-b055-4731-8245-a016207057ab.html",
-   "pub_ts": 1793809455,
+   "title": "Centro nazionale sangue, 'alzare livello d'attenzione dopo la Francia'",
+   "summary": "'Strutture trasfusionali verifichino temperature e adeguino misure sicurezza'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/centro-nazionale-sangue-alzare-livello-dattenzione-dopo-la-francia_51e8e0f1-4388-49e4-a9d4-15fff4c97dcf.html",
+   "pub_ts": 1793813579,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_72c6f85b-b055-4731-8245-a016207057ab.html",
-     "title": "Mamma con tumore al pancreas, impegno Lombardia per farle arrivare la cura Usa"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/centro-nazionale-sangue-alzare-livello-dattenzione-dopo-la-francia_51e8e0f1-4388-49e4-a9d4-15fff4c97dcf.html",
+     "title": "Centro nazionale sangue, 'alzare livello d'attenzione dopo la Francia'"
     },
     {
      "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_a72d25b1-51f3-4072-abca-3910d48b3625.html",
-     "title": "Mamma con tumore al pancreas, impegno Lombardia per farle arrivare la cura Usa"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/centro-nazionale-sangue-alzare-livello-dattenzione-dopo-la-francia_d18c82de-e67f-439d-9e56-0f764f469471.html",
+     "title": "Centro nazionale sangue, 'alzare livello d'attenzione dopo la Francia'"
     }
    ],
    "subtype": "scienza"
@@ -583,47 +553,38 @@
  ],
  "articles": [
   {
-   "title": "Padre ferita Crans, 'dalla Svizzera una specie di ammissione di colpa'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/padre-ferita-crans-dalla-svizzera-una-specie-di-ammissione-di-colpa_63c9078e-0b94-42ae-b891-49d37719b96c.html",
-   "description": "\"La rinuncia al rimborso delle spese mediche è una buona notizia\"",
-   "pub_ts": 1793797938,
-   "source": "ANSA Cronaca",
+   "title": "Don Jr si schiera con Vance, sconfitta è colpa della guerra in Iran",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/don-jr-si-schiera-con-vance-sconfitta-e-colpa-della-guerra-in-iran_a8d00941-ee2c-4e97-adb8-7f64d05110ae.html",
+   "description": "Il figlio del presidente commenta su X",
+   "pub_ts": 1793828125,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Midterm: uno tsunami blu, l'America boccia Trump. La Casa Bianca: 'Lui resta il vostro presidente'- LIVEBLOG",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/midterm-i-democratici-conquistano-il-congresso-e-strappano-governatori-chiave-liveblog_9fe187a6-3703-47e5-aef0-0d50b44ec158.html",
-   "description": "I democratici conquistano il Congresso e diversi fortini rossi, espugnati anche feudi storici come Texas e Kansas. Il tycoon: 'Accetto il voto'. Ma poi posta il cappello 'Mr Veto'. Le Borse corrono dopo il voto",
-   "pub_ts": 1793810495,
+   "title": "La Svizzera pagherà le spese mediche dei feriti di Crans-Montana",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/la-svizzera-paghera-le-spese-mediche-dei-feriti-di-crans-montana_f4521456-de88-429a-9286-6ca82525a4d8.html",
+   "description": "Meloni: 'Felice di questa soluzione'. Il padre di una ferita: 'È un'ammissione di colpa'",
+   "pub_ts": 1793814973,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Midterm, le conseguenze della sconfitta di Trump su Netanyahu",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/midterm_israele_trump_netanyahu_iran_guerra-425698811/?rss",
-   "description": "Dall’incognita della ripresa del conflitto con l’Iran ai finanziamenti militari allo Stato ebraico fino all’attenzione sul senatore musulmano El-Sayed",
-   "pub_ts": 1793801091,
-   "source": "Repubblica Esteri",
+   "title": "Manovra: FdI alle Regioni, le risorse non sono infinite",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-fdi-alle-regioni-le-risorse-non-sono-infinite_aa352050-80a9-4cf2-bc8c-a86a07823ec6.html",
+   "description": "'Quelli sulla sanità non sono tagli ma un mancato ulteriore aumento'",
+   "pub_ts": 1793825460,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Russia, è morto a 81 anni uno dei creatori del Novichok",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/russia_novichok_morto_creatore_vladimir_uglev-425698345/?rss",
-   "description": "Vladimir Uglev è stato uno degli sviluppatori dell'agente nervino usato per avvelenare fra gli altri Navalny nel 2020 e Sergei e Yulia Skripal, nel 2018",
-   "pub_ts": 1793805758,
+   "title": "Stati Uniti, tutti i primati storici delle midterm",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/risultati_storici_midterm_bottoms_haaland_becerra_pappas-425698963/?rss",
+   "description": "Dalla prima governatrice nativa eletta in New Mexico al primo latino alla guida della California: queste elezioni hanno spezzato la maggioranza repubblicana e abbattuto alcune barriere storiche",
+   "pub_ts": 1793818933,
    "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_bb89f906-31d6-484d-a052-06b2d3ffcf0f.html",
-   "description": "Le proiezioni di Decision Desk HQ. Ha difeso lo scranno in stato vinto da Trump nel 2024",
-   "pub_ts": 1793807588,
-   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -637,38 +598,47 @@
    "section": "politica"
   },
   {
-   "title": "Trump e la guerra in Iran, che cosa può fare senza la maggioranza al Congresso",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/conseguenze_midterm_trump_guerra_iran_cosa_succede_ora-425698096/?rss",
-   "description": "La legge prevede che il presidente chieda l’autorizzazione a Camera e Senato o che termini le operazioni belliche dopo 60 giorni. Ma diversi presidenti in passato hanno ignorato la volontà dell’Aula e la sconfitta alle midterm",
-   "pub_ts": 1793797652,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Midterm, Pappas sarà il primo senatore Usa dichiaratamente gay",
-   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/04/midterm-pappas-sara-il-primo-senatore-usa-dichiaratamente-gay_d8698be9-527d-4c11-a641-58197f385d4b.html",
-   "description": "I festeggiamenti in New Hampshire insieme a suo marito",
-   "pub_ts": 1793783922,
+   "title": "'Gli americani hanno detto no alla guerra', ma Teheran non si illude",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/khamenei-chi-si-aspetta-un-cambiamento-nella-politica-usa-sbaglia-di-grosso_60de3609-89e4-4ddf-9dc3-fb4483a930e3.html",
+   "description": "Khamenei: 'Se attaccano risposta più ampia'. L'Iran minaccia le basi in Europa e in Italia",
+   "pub_ts": 1793826567,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Mattarella: 'Serve rinnovamento contro conflitti, disinformazione e cyber-attacchi'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-serve-rinnovamento-contro-conflitti-disinformazione-e-cyber-attacchi_a94b94b9-8c0a-4afe-91a3-213f8d38ce2b.html",
-   "description": "'Celebriamo l'Unità della Patria e il ruolo dell'Italia per la pace'. Il messaggio al ministro Crosetto per le forze armate",
-   "pub_ts": 1793802238,
+   "title": "L'America boccia Trump, uno tsunami blu alle midterm",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/lamerica-boccia-trump-uno-tsunami-blu-alle-midterm-_fe1d49b4-c431-4e19-826f-0b6efcdbcb77.html",
+   "description": "Dem conquistano il Congresso e i fortini rossi. Il tycoon: 'Resto il vostro presidente'",
+   "pub_ts": 1793826032,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Chi è Keisha Lance Bottoms, la prima governatrice afroamericana eletta in Georgia",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_e_keisha_lance_bottoms_la_prima_governatrice_afroamericana_in_georgia-425697854/?rss",
-   "description": "L’ex sindaca di Atlanta ha sconfitto il repubblicano Rick Jackson, un miliardario dirigente del settore sanitario",
-   "pub_ts": 1793798068,
+   "title": "L'exploit di El Sayed, il primo musulmano al Senato",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/il-dem-el-sayed-vince-in-michigan.-e-prende-in-giro-vance-jd-habibi_afc33428-dbc0-4079-a300-4cb3992c5620.html",
+   "description": "Stravince nonostante lo strappo della rivale dem. Una vittoria targata Ocasio-Cortez",
+   "pub_ts": 1793825407,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La sconfitta di Trump travolto dall’onda blu. Ai dem Camera e Senato",
+   "link": "https://www.repubblica.it/esteri/2026/11/04/news/chi_ha_vinto_perso_elezioni_usa_midterm_2026-425697849/?rss",
+   "description": "Ribaltone nei collegi del Gop, al Congresso i democratici saranno maggioranza. Vittorie pesanti in Georgia, North Carolina, Texas, Michigan e Kansas. Affluenza alta. E gli exit poll tematici mostrano che il 75% degli elettori non si fida del presidente",
+   "pub_ts": 1793808240,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "L'Italia celebra le Forze armate, 'le istituzioni siano con i militari'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/litalia-celebra-forze-armate-le-istituzioni-siano-con-i-militari_b220598f-f15f-43f3-8487-99ffb9dca950.html",
+   "description": "Crosetto: 'Senza difesa non c'è libertà'. Cerimonia a Firenze con Mattarella.",
+   "pub_ts": 1793824902,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -678,15 +648,6 @@
    "description": "Premiato per i suoi studi sulla 'scienza della scienza'",
    "pub_ts": 1793802300,
    "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Nuovi governatori democratici: stop ai data center AI",
-   "link": "https://www.punto-informatico.it/nuovi-governatori-democratici-stop-data-center-ai/",
-   "description": "I nuovi governatori democratici hanno promesso che bloccheranno la costruzione dei data center tramite moratorie o vincoli molto stringenti. The post Nuovi governatori democratici: stop ai data center AI appeared first on Punto Informatico .",
-   "pub_ts": 1793789046,
-   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
@@ -709,46 +670,55 @@
    "section": "tech"
   },
   {
-   "title": "Regioni all'unanimità, 'in manovra risorse insufficienti per la sanità'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/regioni-allunanimita-in-manovra-risorse-insufficienti-per-la-sanita_4b49e5c7-8fdd-49fe-aff5-a45f437cea28.html",
-   "description": "Appello al governo per incremento del fondo sanitario nazionale",
-   "pub_ts": 1793810312,
-   "source": "ANSA Cronaca",
+   "title": "Avvocato generale Corte Ue, uso di articoli attraverso IA può violare diritti editori",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/avvocato-generale-corte-ue-uso-di-articoli-attraverso-ia-puo-violare-diritti-editori_10b68afa-90b2-4d01-ac6b-260e6df04a3f.html",
+   "description": "Il parere su un caso ungherese, è il primo sull'intelligenza artificiale generativa",
+   "pub_ts": 1793802302,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
    "title": "Addio a Tinto Brass, maestro del cinema erotico",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
    "description": "Morto a Roma 93 anni. Una vita tra censure, tribunali e voyeurismo",
-   "pub_ts": 1793809920,
+   "pub_ts": 1793828050,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Il dem El-Sayed vince in Michigan. E prende in giro Vance: 'JD habibi'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/il-dem-el-sayed-vince-in-michigan.-e-prende-in-giro-vance-jd-habibi_afc33428-dbc0-4079-a300-4cb3992c5620.html",
-   "description": "Il politico dem musulmano era stato attaccato dal vicepresidente e da Trump per la sua religione. Ha vinto la corsa al Senato battendo il repubblicano Mike Rogers",
-   "pub_ts": 1793809873,
-   "source": "ANSA",
+   "title": "Media, il dem El-Sayed vince la corsa al Senato in Michigan",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/media-il-dem-el-sayed-vince-la-corsa-al-senato-in-michigan_fd9aa751-e7c6-4e12-bb50-6e199ddf6f82.html",
+   "description": "Decision desk Hq, 'batte il repubblicano Rogers'",
+   "pub_ts": 1793773768,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Domande intime all'ex sacerdote Ravagnani su Rai 2, polemica su Diaco",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/04/domande-intime-allex-sacerdote-ravagnani-su-rai-2-polemica-su-diaco_7bd73572-592f-4fef-99fe-c02c6205ee0f.html",
-   "description": "A BellaMà l'intervista al concorrente di Ballando: \"Ti piacciono gli uomini o le donne?\"",
-   "pub_ts": 1793806440,
+   "title": "I governatori 'mancano risorse essenziali, via il voucher'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/i-governatori-mancano-risorse-essenziali-via-il-voucher_1f3b20ed-edaa-41b5-9005-e4e5e7b80e33.html",
+   "description": "'Più risorse libere e stop ai vincoli. Alla Lombardia 500 milioni in meno, al Veneto 350'",
+   "pub_ts": 1793830447,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Pastorale Americana di Roth torna in libreria, una lettura collettiva per riscoprirlo",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/04/pastorale-americana-di-roth-torna-in-libreria-una-lettura-collettiva-per-riscoprirlo_c3523aa5-d65a-4f58-8407-58a95b34694c.html",
+   "description": "Feltrinelli e Adelphi celebrano capolavoro con presentazione in contemporanea in 15 città",
+   "pub_ts": 1793814970,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Mamma con tumore al pancreas, impegno Lombardia per farle arrivare la cura Usa",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_72c6f85b-b055-4731-8245-a016207057ab.html",
-   "description": "Bertolaso, doveroso impegnati per dare risposte a chi è in questa situazione",
-   "pub_ts": 1793809455,
+   "title": "Centro nazionale sangue, 'alzare livello d'attenzione dopo la Francia'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/centro-nazionale-sangue-alzare-livello-dattenzione-dopo-la-francia_51e8e0f1-4388-49e4-a9d4-15fff4c97dcf.html",
+   "description": "'Strutture trasfusionali verifichino temperature e adeguino misure sicurezza'",
+   "pub_ts": 1793813579,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
