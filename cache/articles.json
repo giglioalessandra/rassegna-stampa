@@ -1,6 +1,6 @@
 {
- "generated_at": 1793848930,
- "updated_at": 1793848930,
+ "generated_at": 1793880238,
+ "updated_at": 1793880238,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,37 +10,42 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Midterm, le conseguenze della sconfitta di Trump su Netanyahu",
-   "summary": "Dall’incognita della ripresa del conflitto con l’Iran ai finanziamenti militari allo Stato ebraico fino all’attenzione sul senatore musulmano El-Sayed",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/midterm_israele_trump_netanyahu_iran_guerra-425698811/?rss",
-   "pub_ts": 1793842380,
-   "n_sources": 6,
+   "title": "La sconfitta di Trump nella vignetta di Ellekappa",
+   "summary": "",
+   "link": "https://www.repubblica.it/esteri/2026/11/05/news/sconfitta_trump_vignetta_ellekappa-425700037/?rss",
+   "pub_ts": 1793873637,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/midterm_israele_trump_netanyahu_iran_guerra-425698811/?rss",
-     "title": "Midterm, le conseguenze della sconfitta di Trump su Netanyahu"
+     "link": "https://www.repubblica.it/esteri/2026/11/05/news/sconfitta_trump_vignetta_ellekappa-425700037/?rss",
+     "title": "La sconfitta di Trump nella vignetta di Ellekappa"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/trump-sconfitto-trascina-con-se-anche-il-futuro-di-netanyahu-74b5488e-d601-400c-9d65-3206b4512392.html",
-     "title": "Trump sconfitto alle elezioni di midterm trascina con sè anche il futuro di Netanyahu"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-cosa-ha-detto-vance_6m7UldXoQHJG8UySYD7mUG",
-     "title": "Elezioni midterm, Vance: \"Abbiamo perso per la guerra in Iran\". Trump: \"Ma ne è valsa la pena\""
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/vance-la-ragione-per-cui-abbiamo-perso-le-midterm-e-la-guerra-in-iran_edaaece9-e084-4b75-8b50-b58b51be3aef.html",
+     "title": "Vance, 'la ragione per cui abbiamo perso le midterm è la guerra in Iran'"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/episodes/una-brutta-sconfitta-per-trump-con-eugenio-cau/",
-     "title": "Una brutta sconfitta per Trump, con Eugenio Cau"
+     "link": "https://www.ilpost.it/2026/11/05/trump-meta-mandato-medio-oriente/",
+     "title": "Dopo la sconfitta, Trump è in difficoltà anche in Medio Oriente"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-vance-scontro-guerra-iran-sconfitta-midterm_3vye4Iw9Eq6dWMyrY156kO",
+     "title": "Trump dopo la sconfitta alle midterm: \"La guerra in Iran? La rifarei\". E avverte: \"Finisce quando voglio io\""
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/trump-meloni-crisi-elezioni-midterm-usa-insulti-italia-eunkvoow",
-     "title": "Dal «rapporto privilegiato» alla distanza, la sconfitta di Trump non preoccupa Meloni"
+     "link": "https://www.editorialedomani.it/politica/mondo/midterm-iran-stati-uniti-unico-regime-change-riuscito-trump-teheran-festeggia-m2i8ff0r",
+     "title": "Il “regime change” di Trump è riuscito in Texas. Teheran festeggia la sua sconfitta alle midterm"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/susan-collins-sconfitta-dell-ultima-moderata-senato-travolta-dall-era-trump-AJDv5S4B",
+     "title": "Susan Collins, la sconfitta dell’ultima moderata del Senato travolta dall’era Trump"
     },
     {
      "name": "Nicola Porro",
@@ -55,7 +60,7 @@
    "title": "Vance si smarca da Donald e apre le ostilità nel Gop: “La sconfitta è colpa della guerra in Iran”",
    "summary": "Il vicepresidente contro il tycoon nel tentativo di prendersi la corrente Maga e correre per la Casa Bianca nel 2028. Hegseth rischia di saltare",
    "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_guerra_partito_repubblicano_vance_si_smarca_da_donald_colpa_guerra_iran-425699918/?rss",
-   "pub_ts": 1793836800,
+   "pub_ts": 1793866363,
    "n_sources": 6,
    "documented": true,
    "sources": [
@@ -65,9 +70,14 @@
      "title": "Vance si smarca da Donald e apre le ostilità nel Gop: “La sconfitta è colpa della guerra in Iran”"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/vance-la-ragione-per-cui-abbiamo-perso-le-midterm-e-la-guerra-in-iran_edaaece9-e084-4b75-8b50-b58b51be3aef.html",
-     "title": "Vance, 'la ragione per cui abbiamo perso le midterm è la guerra in Iran'"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/midterm-usa-guerra-iran-analisi_2zRp8vkgx10IhZJALpnK0q",
+     "title": "Midterm Usa, per Vance sconfitta è colpa della guerra in Iran. Trump non arretra: \"Vero, ma lo rifarei\". La \"duplice lettura\" di Teheran"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/midterm-e-iran-axios-trump-incerto-dopo-la-sconfitta-b411b0ca-e32a-4081-939b-48efe01d2179.html",
+     "title": "Usa-Iran dopo le midterm. Axios: \"Trump incerto dopo la sconfitta\""
     },
     {
      "name": "la Repubblica",
@@ -77,187 +87,78 @@
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/04/analisi-sconfitta-repubblicani-midterm-jd-vance/",
-     "title": "Per JD Vance il motivo della sconfitta dei Repubblicani è la guerra in Iran"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/midterm-usa-germania-merz-reazioni-afd-guerra-in-iran-r5bhks8r",
-     "title": "Midterm, in Germania il ministro della Difesa ridimensiona le aspettative sul cambiamento, AfD: «È colpa della guerra in Iran»"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/04/vance-reazione-elezioni-midterm-guerra-trump/8560686/",
-     "title": "Il mea culpa di Vance dopo la sconfitta nelle Midterm: “Colpa della guerra”. Ma Trump: “La rifarei”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "La sconfitta di Trump nella vignetta di Ellekappa",
-   "summary": "",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/sconfitta_trump_vignetta_ellekappa-425700037/?rss",
-   "pub_ts": 1793833357,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/sconfitta_trump_vignetta_ellekappa-425700037/?rss",
-     "title": "La sconfitta di Trump nella vignetta di Ellekappa"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-trump-scenario-europa_7JscI1GaN1ttwmZXiR4VSy",
-     "title": "Dall'Iran all'energia e all'Ucraina, cosa deve aspettarsi l'Europa dalla sconfitta di Trump alle midterm Usa"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/04/elezioni-midterm-usa-risultati-ultime-news/",
-     "title": "Trump e la sconfitta alle Midterm: «Colpa del carovita». Vance prova a smarcarsi, petrolio chiude con un tonfo a Wall Street – La diretta"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/midterm-iran-stati-uniti-unico-regime-change-riuscito-trump-teheran-festeggia-m2i8ff0r",
-     "title": "Il “regime change” di Trump è riuscito in Texas. Teheran festeggia la sua sconfitta alle midterm"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/susan-collins-sconfitta-dell-ultima-moderata-senato-travolta-dall-era-trump-AJDv5S4B",
-     "title": "Susan Collins, la sconfitta dell’ultima moderata del Senato travolta dall’era Trump"
+     "title": "JD Vance si è già distanziato da Trump"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/midterm-va-bene-trump-ma-sapete-cosa-successe-a-obama/",
-     "title": "Midterm, va bene Trump. Ma sapete cosa successe a Obama?"
+     "link": "https://www.nicolaporro.it/terremoto-tra-i-repubblicani-vance-scarica-trump-perso-per-colpa-della-guerra-in-iran/",
+     "title": "Terremoto tra i repubblicani, Vance scarica Trump: “Perso per colpa della guerra in Iran”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "La Svizzera pagherà le spese mediche dei feriti di Crans-Montana",
-   "summary": "Meloni: 'Felice di questa soluzione'. Il padre di una ferita: 'È un'ammissione di colpa'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/la-svizzera-paghera-le-spese-mediche-dei-feriti-di-crans-montana_f4521456-de88-429a-9286-6ca82525a4d8.html",
-   "pub_ts": 1793814973,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/la-svizzera-paghera-le-spese-mediche-dei-feriti-di-crans-montana_f4521456-de88-429a-9286-6ca82525a4d8.html",
-     "title": "La Svizzera pagherà le spese mediche dei feriti di Crans-Montana"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/padre-ferita-crans-dalla-svizzera-una-specie-di-ammissione-di-colpa_63c9078e-0b94-42ae-b891-49d37719b96c.html",
-     "title": "Padre ferita Crans, 'dalla Svizzera una specie di ammissione di colpa'"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/04/incendio-crans-montana-svizzera-rinuncia-pagamento-cure-mediche/",
-     "title": "La Svizzera ha rinunciato a chiedere il pagamento delle cure mediche ricevute nel paese dagli italiani feriti nell’incendio di Crans-Montana"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/crans-montana-svizzera-spese-sanitarie-tajani-meloni_7e47arcCmB9QoxfpOE5n0m",
-     "title": "Crans Montana, la Svizzera si farà carico delle spese sanitarie per le cure dei giovani italiani. Meloni: \"Nessun onere sulle famiglie\""
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/la-svizzera-rinuncia-rimborso-spese-mediche-feriti-italiani-crans-montana-AJLCtM4B",
-     "title": "La Svizzera rinuncia al rimborso delle spese mediche dei feriti italiani di Crans-Montana"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/crans-montana-la-svizzera-ritrova-dignita-rinuncia-ai-rimborsi-per-i-feriti-di-crans-montana/",
-     "title": "Crans Montana, la Svizzera ritrova dignità: “Rinuncia ai rimborsi per le cure dei feriti”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Manovra: FdI alle Regioni, le risorse non sono infinite",
-   "summary": "'Quelli sulla sanità non sono tagli ma un mancato ulteriore aumento'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-fdi-alle-regioni-le-risorse-non-sono-infinite_aa352050-80a9-4cf2-bc8c-a86a07823ec6.html",
-   "pub_ts": 1793825460,
-   "n_sources": 4,
+   "title": "Mattarella: \"Chi nasce al Sud possa restare o tornare, è interesse nazionale\"",
+   "summary": "Il presidente al ventennale della Fondazione Con il Sud",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/mattarella-chi-nasce-al-sud-possa-restare-o-tornare-e-interesse-nazionale_61b4159f-b7b8-4648-90fa-b533c7aacb82.html",
+   "pub_ts": 1793879724,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-fdi-alle-regioni-le-risorse-non-sono-infinite_aa352050-80a9-4cf2-bc8c-a86a07823ec6.html",
-     "title": "Manovra: FdI alle Regioni, le risorse non sono infinite"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/regioni-allunanimita-in-manovra-risorse-insufficienti-per-la-sanita_4b49e5c7-8fdd-49fe-aff5-a45f437cea28.html",
-     "title": "Regioni all'unanimità, 'in manovra risorse insufficienti per la sanità'"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/mattarella-chi-nasce-al-sud-possa-restare-o-tornare-e-interesse-nazionale_61b4159f-b7b8-4648-90fa-b533c7aacb82.html",
+     "title": "Mattarella: \"Chi nasce al Sud possa restare o tornare, è interesse nazionale\""
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/manovra-meloni-risorse-concentrate-su-famiglie-e-fragili-fbc0b947-b416-4d13-bc2a-d3d338f11f67.html",
-     "title": "Manovra, Meloni: \"Risorse concentrate su famiglie e fragili\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/04/news/manovra_regioni_fondi_insufficienti_sanita_governo-425699475/",
-     "title": "Manovra, tutte le Regioni all’attacco: “Fondi insufficienti per la sanità. Lea a rischio”"
+     "link": "https://www.rainews.it/articoli/2026/11/mattarella-incontro-fondazione-con-il-sud-chi-nasce-nel-meridione-possa-scegliere-di-restarvi-37552a34-c4a2-4a7c-968d-5dda49f8c51f.html",
+     "title": "Mattarella, incontro Fondazione con il Sud: \"Chi nasce nel Meridione possa scegliere di restarvi\""
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "'Gli americani hanno detto no alla guerra', ma Teheran non si illude",
-   "summary": "Khamenei: 'Se attaccano risposta più ampia'. L'Iran minaccia le basi in Europa e in Italia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/khamenei-chi-si-aspetta-un-cambiamento-nella-politica-usa-sbaglia-di-grosso_60de3609-89e4-4ddf-9dc3-fb4483a930e3.html",
-   "pub_ts": 1793826567,
-   "n_sources": 3,
+   "title": "Zelensky, spero che l'esito delle midterm significhi più aiuti a Kiev",
+   "summary": "Presidente rompe silenzio su voto Usa, 'I Dem molto chiari nel sostegno all'Ucraina'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-spero-che-lesito-delle-midterm-significhi-piu-aiuti-a-kiev_fecec247-fe83-4a18-b29e-c9290c18939a.html",
+   "pub_ts": 1793874057,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/khamenei-chi-si-aspetta-un-cambiamento-nella-politica-usa-sbaglia-di-grosso_60de3609-89e4-4ddf-9dc3-fb4483a930e3.html",
-     "title": "'Gli americani hanno detto no alla guerra', ma Teheran non si illude"
-    },
-    {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/04/teheran-il-messaggio-degli-americani-e-no-alla-guerra_6379416f-359f-482d-93bd-2287781e6721.html",
-     "title": "Teheran, 'il messaggio degli americani è no alla guerra'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-spero-che-lesito-delle-midterm-significhi-piu-aiuti-a-kiev_fecec247-fe83-4a18-b29e-c9290c18939a.html",
+     "title": "Zelensky, spero che l'esito delle midterm significhi più aiuti a Kiev"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/iran-minaccia-italia-europa-attacco-usa_2aB4m09qazBcM3fUyOef4C",
-     "title": "Guerra in Iran, deputato Teheran minaccia anche l'Italia: \"Se Usa ci attaccano colpiremo l'Europa\""
+     "link": "https://www.adnkronos.com/internazionale/esteri/zelensky-elezioni-midterm-trump-ucraina-russia-guerra-news_4BqdWo6PvxCjRmhvpxTtji",
+     "title": "Ucraina, Zelensky esulta per vittoria Dem: \"Ora spero più sostegno Usa\""
     }
    ]
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "L'America boccia Trump, uno tsunami blu alle midterm",
-   "summary": "Dem conquistano il Congresso e i fortini rossi. Il tycoon: 'Resto il vostro presidente'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/lamerica-boccia-trump-uno-tsunami-blu-alle-midterm-_fe1d49b4-c431-4e19-826f-0b6efcdbcb77.html",
-   "pub_ts": 1793826032,
-   "n_sources": 3,
+   "area": "mondo",
+   "title": "Partito ultraortodosso non raccomanda candidati, rotta alleanza con Netanyahu",
+   "summary": "Herzog avvia la seconda giornata di consultazioni per indicare il nuovo premier",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/partito-ultraortodosso-non-raccomanda-candidati-rotta-alleanza-con-netanyahu_bf2bc32b-7956-4c33-90dc-eddff6f89dda.html",
+   "pub_ts": 1793866526,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/lamerica-boccia-trump-uno-tsunami-blu-alle-midterm-_fe1d49b4-c431-4e19-826f-0b6efcdbcb77.html",
-     "title": "L'America boccia Trump, uno tsunami blu alle midterm"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/partito-ultraortodosso-non-raccomanda-candidati-rotta-alleanza-con-netanyahu_bf2bc32b-7956-4c33-90dc-eddff6f89dda.html",
+     "title": "Partito ultraortodosso non raccomanda candidati, rotta alleanza con Netanyahu"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/ansa-tempo-reale-lo-tsunami-blu-travolge-lamerica-di-trump_f3e0254b-92bc-440d-9294-69424086b452.html",
-     "title": ">ANSA-TEMPO REALE/ Lo 'tsunami blu' travolge l'America di Trump"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-stampa-estera-prime-pagine_2iBFLOADBrCTQRwPSlV9eW",
-     "title": "Midterm, lo \"tsunami blu\" contro Trump fa il giro del mondo: la notizia sui quotidiani esteri"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/05/partito-ultraortodosso-non-raccomanda-candidati-rotta-alleanza-con-netanyahu_8d8e2e87-2164-476d-a6b9-6ab783d59c5a.html",
+     "title": "Partito ultraortodosso non raccomanda candidati, rotta alleanza con Netanyahu"
     }
    ]
   },
@@ -267,8 +168,8 @@
    "title": "Stati Uniti, tutti i primati storici delle midterm",
    "summary": "Dalla prima governatrice nativa eletta in New Mexico al primo latino alla guida della California: queste elezioni hanno spezzato la maggioranza repubblicana e abbattuto alcune barriere storiche",
    "link": "https://www.repubblica.it/esteri/2026/11/04/news/risultati_storici_midterm_bottoms_haaland_becerra_pappas-425698963/?rss",
-   "pub_ts": 1793818933,
-   "n_sources": 3,
+   "pub_ts": 1793866002,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
@@ -280,38 +181,28 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/",
      "title": "E adesso che succede negli Stati Uniti?"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/idee/cultura/letteratura-americana-midterm-elezioni-libri-oates-robinson-strout-king-scrittori-come-leggere-stati-uniti-yitbdou2",
-     "title": "Negli occhi degli scrittori: come leggere gli Stati Uniti"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "James Talarico, il pastore che ha sconfitto Golia: così il Texas ha spezzato la maledizione",
-   "summary": "All’ex seminarista presbiteriano lo Stato in cui i democratici non vincevano da 38 anni",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/james_talarico_texas_elezioni_midterm_chi_e-425697891/?rss",
-   "pub_ts": 1793804619,
-   "n_sources": 3,
+   "area": "italia",
+   "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione",
+   "summary": "Il leader cerca di ostentare forza, ma il suo team può sfaldarsi: Hegseth potrebbe saltare e Rubio ritirarsi per prendersi il partito",
+   "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/?rss",
+   "pub_ts": 1793836800,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/james_talarico_texas_elezioni_midterm_chi_e-425697891/?rss",
-     "title": "James Talarico, il pastore che ha sconfitto Golia: così il Texas ha spezzato la maledizione"
+     "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/?rss",
+     "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/media-talarico-strappa-seggio-senato-in-texas-dove-i-dem-non-vincevano_24da0c44-a0c7-4910-acab-70132e85e543.html",
-     "title": "Media, Talarico strappa seggio Senato in Texas, dove i dem non vincevano dal 1988"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/james-talarico-chi-e-candidato-senato-democratici-texas-midterm-usa-mft3bqox",
-     "title": "Dopo 38 anni anche il Texas è blu, Talarico eletto al Senato"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/",
+     "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione"
     }
    ]
   },
@@ -338,70 +229,114 @@
    ]
   },
   {
-   "category": "tech",
-   "area": null,
-   "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale",
-   "summary": "E' Dan Driscoll, ha lasciato incarico a settembre dopo notizie di tensioni con Hegseth",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
-   "pub_ts": 1793803711,
-   "n_sources": 1,
-   "documented": false,
+   "category": "politica",
+   "area": "italia",
+   "title": "Il vice primo ministro della Baviera Hubert Aiwanger è stato trovato morto in una camera d’albergo",
+   "summary": "Trovato morto in una camera dell’hotel Neuer Fritz di Berlino: aveva 55 anni ed era anche ministro statale dell’Economia e leader del partito di centrodestra Freie Wähler (Liberi Elettori), nel pomeriggio avrebbe dovuto tenere un discorso",
+   "link": "https://www.rainews.it/articoli/2026/11/il-vice-primo-ministro-della-baviera-hubert-aiwanger-e-stato-trovato-morto-in-una-camera-dalbergo--edd1f187-07e4-487c-9e37-c66d077fa6f8.html",
+   "pub_ts": 1793873340,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
-     "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/il-vice-primo-ministro-della-baviera-hubert-aiwanger-e-stato-trovato-morto-in-una-camera-dalbergo--edd1f187-07e4-487c-9e37-c66d077fa6f8.html",
+     "title": "Il vice primo ministro della Baviera Hubert Aiwanger è stato trovato morto in una camera d’albergo"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/hubert-aiwanger-politico-tedesco-morto/",
+     "title": "Il vice primo ministro della Baviera Hubert Aiwanger è stato trovato morto in una camera d’albergo di Berlino"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "L'Italia celebra le Forze armate, 'le istituzioni siano con i militari'",
+   "summary": "Crosetto: 'Senza difesa non c'è libertà'. Cerimonia a Firenze con Mattarella.",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/litalia-celebra-forze-armate-le-istituzioni-siano-con-i-militari_b220598f-f15f-43f3-8487-99ffb9dca950.html",
+   "pub_ts": 1793824902,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/litalia-celebra-forze-armate-le-istituzioni-siano-con-i-militari_b220598f-f15f-43f3-8487-99ffb9dca950.html",
+     "title": "L'Italia celebra le Forze armate, 'le istituzioni siano con i militari'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/mattarella-giornata-forze-armate-celebriamo-unita-patria-liberazione-crosetto-meloni-lb4m4ams",
+     "title": "Mattarella per la Giornata delle forze armate: «Celebriamo l’unità della Patria e la Liberazione»"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Testati nello spazio i chip di Google per l'IA",
-   "summary": "A bordo di un satellite di Planet Labs lanciato il primo ottobre",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/11/03/testati-nello-spazio-i-chip-di-google-per-lia_20736b6d-abc9-4d76-83a2-9184dee6c6bd.html",
-   "pub_ts": 1793802311,
+   "title": "L'Onu ai sindaci: l’IA non decide, e a volte la scelta giusta è spegnerla",
+   "summary": "ITU e UN-Habitat hanno presentato a Barcellona la prima guida Onu per le città nell'era dell'intelligenza artificiale: 167 pagine, un semaforo del rischio e un caso concreto, quello di Rotterdam, in cui l'algoritmo è stato fermato",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/l_onu_ai_sindaci_l_ia_non_decide_e_a_volte_la_scelta_giusta_e_spegnerla-425701330/?rss",
+   "pub_ts": 1793880063,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/11/03/testati-nello-spazio-i-chip-di-google-per-lia_20736b6d-abc9-4d76-83a2-9184dee6c6bd.html",
-     "title": "Testati nello spazio i chip di Google per l'IA"
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/l_onu_ai_sindaci_l_ia_non_decide_e_a_volte_la_scelta_giusta_e_spegnerla-425701330/?rss",
+     "title": "L'Onu ai sindaci: l’IA non decide, e a volte la scelta giusta è spegnerla"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Avvocato generale Corte Ue, uso di articoli attraverso IA può violare diritti editori",
-   "summary": "Il parere su un caso ungherese, è il primo sull'intelligenza artificiale generativa",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/avvocato-generale-corte-ue-uso-di-articoli-attraverso-ia-puo-violare-diritti-editori_10b68afa-90b2-4d01-ac6b-260e6df04a3f.html",
-   "pub_ts": 1793802302,
+   "title": "Anche Apple mette a dieta l’IA: tagliati di un terzo i budget di alcuni ingegneri",
+   "summary": "Dopo Accenture, Uber e altri colossi tecnologici, anche Cupertino comincia a contenere i consumi di IA. Per alcuni il tetto giornaliero è già sceso da 300 a 200 dollari e potrebbe dimezzarsi ancora, mentre per certi gruppi di lavoro potrebbe scendere da 100 a 25 dollari. Il...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/anche_apple_mette_a_dieta_l_ia_tagliati_di_un_terzo_i_budget_degli_ingegneri-425701280/?rss",
+   "pub_ts": 1793878906,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/avvocato-generale-corte-ue-uso-di-articoli-attraverso-ia-puo-violare-diritti-editori_10b68afa-90b2-4d01-ac6b-260e6df04a3f.html",
-     "title": "Avvocato generale Corte Ue, uso di articoli attraverso IA può violare diritti editori"
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/anche_apple_mette_a_dieta_l_ia_tagliati_di_un_terzo_i_budget_degli_ingegneri-425701280/?rss",
+     "title": "Anche Apple mette a dieta l’IA: tagliati di un terzo i budget di alcuni ingegneri"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Premio Lagrange a Dashun Wang, 'l'Ia può rendere la scienza più conformista'",
-   "summary": "Premiato per i suoi studi sulla 'scienza della scienza'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/premio-lagrange-a-dashun-wang-lia-puo-rendere-la-scienza-piu-conformista_cda7d410-665c-4339-84a6-d4b008648055.html",
-   "pub_ts": 1793802300,
+   "title": "Quando l'IA ti lascia: chi si affeziona a un compagno virtuale teme l'aggiornamento che lo cancella",
+   "summary": "Uno studio delle università di Surrey e Cardiff, firmato anche dall'italiana Valentina Pitardi, ha analizzato i racconti degli utenti di Replika: il legame con l'IA consola, ma la consapevolezza che un'azienda possa cambiarla o spegnerla rende fragili",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/quando_l_ia_ti_lascia_chi_si_affeziona_a_un_compagno_virtuale_teme_l_aggiornamento_che_lo_cancella-425699414/?rss",
+   "pub_ts": 1793833200,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/premio-lagrange-a-dashun-wang-lia-puo-rendere-la-scienza-piu-conformista_cda7d410-665c-4339-84a6-d4b008648055.html",
-     "title": "Premio Lagrange a Dashun Wang, 'l'Ia può rendere la scienza più conformista'"
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/quando_l_ia_ti_lascia_chi_si_affeziona_a_un_compagno_virtuale_teme_l_aggiornamento_che_lo_cancella-425699414/?rss",
+     "title": "Quando l'IA ti lascia: chi si affeziona a un compagno virtuale teme l'aggiornamento che lo cancella"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Il primo film al cinema fatto quasi interamente con l’intelligenza artificiale",
+   "summary": "\"Sanxingdui: Future Past\" è uscito in Cina, è costato molto e sta ottenendo incassi deludenti",
+   "link": "https://www.ilpost.it/2026/11/05/sanxingdui-future-past-film-cinese-ai-flop/",
+   "pub_ts": 1793878337,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/sanxingdui-future-past-film-cinese-ai-flop/",
+     "title": "Il primo film al cinema fatto quasi interamente con l’intelligenza artificiale"
     }
    ]
   },
@@ -411,19 +346,14 @@
    "title": "Addio a Tinto Brass, maestro del cinema erotico",
    "summary": "Morto a Roma 93 anni. Una vita tra censure, tribunali e voyeurismo",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
-   "pub_ts": 1793828050,
-   "n_sources": 6,
+   "pub_ts": 1793862761,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
      "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
      "title": "Addio a Tinto Brass, maestro del cinema erotico"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/addio-a-tinto-brass-una-vita-tra-cinema-sperimentale-arte-e-liberta-despressione-37ea27e3-6a32-475c-b5c7-e1e4bc65479f.html",
-     "title": "Addio a Tinto Brass: una vita tra cinema sperimentale, arte e libertà d'espressione"
     },
     {
      "name": "Il Post",
@@ -436,11 +366,6 @@
      "title": "Tinto Brass e gli ultimi mesi da “prigioniero” a Isola Farnese: la frana e l’appello a Mattarella"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/04/tinto-brass-carriera-cinema-notizie/8560786/",
-     "title": "Tinto Brass non meritava certi sberleffi: il mio omaggio al Maestro"
-    },
-    {
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/e-morto-tinto-brass/",
      "title": "È morto Tinto Brass"
@@ -451,107 +376,112 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Domande intime all'ex sacerdote Ravagnani, polemica su Diaco",
-   "summary": "Milly Carlucci: 'Inaccettabile'. Scontro anche in Cda Rai",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/domande-intime-allex-sacerdote-ravagnani-polemica-su-diaco_fcf301f6-74af-43e8-815c-193900c62cb4.html",
-   "pub_ts": 1793827940,
+   "title": "Società dell'obesità, 'in manovra ci siano le risorse per le cure'",
+   "summary": "'Garantire farmaci ai pazienti gravi e in difficoltà.Non possiamo attendere un altro anno'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/societa-dellobesita-in-manovra-ci-siano-le-risorse-per-le-cure_34b6a1ff-71ba-4ae7-bb9d-69b68df53779.html",
+   "pub_ts": 1793877970,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/domande-intime-allex-sacerdote-ravagnani-polemica-su-diaco_fcf301f6-74af-43e8-815c-193900c62cb4.html",
-     "title": "Domande intime all'ex sacerdote Ravagnani, polemica su Diaco"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/domande-intime-allex-sacerdote-ravagnani-polemica-su-diaco_ebcdf818-bd85-4bdf-b29b-03a7e0711c5e.html",
-     "title": "Domande intime all'ex sacerdote Ravagnani, polemica su Diaco"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/alberto-ravagnani-ospite-di-diaco-polemica-per-le-domande-sulla-sua-vita-privata-4eaaa969-4013-450b-8b40-b0ee80c10181.html",
-     "title": "Alberto Ravagnani ospite di Diaco, polemica per le domande sulla sua vita privata"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "I governatori 'mancano risorse essenziali, via il voucher'",
-   "summary": "'Più risorse libere e stop ai vincoli. Alla Lombardia 500 milioni in meno, al Veneto 350'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/i-governatori-mancano-risorse-essenziali-via-il-voucher_1f3b20ed-edaa-41b5-9005-e4e5e7b80e33.html",
-   "pub_ts": 1793830447,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/i-governatori-mancano-risorse-essenziali-via-il-voucher_1f3b20ed-edaa-41b5-9005-e4e5e7b80e33.html",
-     "title": "I governatori 'mancano risorse essenziali, via il voucher'"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/societa-dellobesita-in-manovra-ci-siano-le-risorse-per-le-cure_34b6a1ff-71ba-4ae7-bb9d-69b68df53779.html",
+     "title": "Società dell'obesità, 'in manovra ci siano le risorse per le cure'"
     },
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/i-governatori-mancano-le-risorse-essenziali-via-il-voucher_c25a4384-93a3-4986-9d00-56fad965dec3.html",
-     "title": "I governatori: 'Mancano le risorse essenziali, via il voucher'"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Pastorale Americana di Roth torna in libreria, una lettura collettiva per riscoprirlo",
-   "summary": "Feltrinelli e Adelphi celebrano capolavoro con presentazione in contemporanea in 15 città",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/04/pastorale-americana-di-roth-torna-in-libreria-una-lettura-collettiva-per-riscoprirlo_c3523aa5-d65a-4f58-8407-58a95b34694c.html",
-   "pub_ts": 1793814970,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/04/pastorale-americana-di-roth-torna-in-libreria-una-lettura-collettiva-per-riscoprirlo_c3523aa5-d65a-4f58-8407-58a95b34694c.html",
-     "title": "Pastorale Americana di Roth torna in libreria, una lettura collettiva per riscoprirlo"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/pastorale-americana-di-philip-roth-torna-in-libreria-con-15-appuntamenti-in-tutta-italia_sXUgTZQlru40zjoO43D18",
-     "title": "'Pastorale americana' di Philip Roth torna in libreria con 15 appuntamenti in tutta Italia"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Centro nazionale sangue, 'alzare livello d'attenzione dopo la Francia'",
-   "summary": "'Strutture trasfusionali verifichino temperature e adeguino misure sicurezza'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/centro-nazionale-sangue-alzare-livello-dattenzione-dopo-la-francia_51e8e0f1-4388-49e4-a9d4-15fff4c97dcf.html",
-   "pub_ts": 1793813579,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/centro-nazionale-sangue-alzare-livello-dattenzione-dopo-la-francia_51e8e0f1-4388-49e4-a9d4-15fff4c97dcf.html",
-     "title": "Centro nazionale sangue, 'alzare livello d'attenzione dopo la Francia'"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-fdi-alle-regioni-le-risorse-non-sono-infinite_aa352050-80a9-4cf2-bc8c-a86a07823ec6.html",
+     "title": "Manovra: FdI alle Regioni, le risorse non sono infinite"
     },
     {
      "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/centro-nazionale-sangue-alzare-livello-dattenzione-dopo-la-francia_d18c82de-e67f-439d-9e56-0f764f469471.html",
-     "title": "Centro nazionale sangue, 'alzare livello d'attenzione dopo la Francia'"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/regioni-allunanimita-in-manovra-risorse-insufficienti-per-la-sanita_4b49e5c7-8fdd-49fe-aff5-a45f437cea28.html",
+     "title": "Regioni all'unanimità, 'in manovra risorse insufficienti per la sanità'"
     }
    ],
    "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Adolescenti iperconnessi, 1 su 4 sui social 4 ore al giorno e 3 su 4 usano l'IA",
+   "summary": "Indagine Cnr. Uno su 2 esce solo per la scuola. Ricorrono a Ia per compiti e sostegno",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/04/adolescenti-iperconnessi-1-su-4-sui-social-4-ore-al-giorno-e-3-su-4-usano-lia_97092553-5a5f-4446-9d82-6fbdc77d0045.html",
+   "pub_ts": 1793868180,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/04/adolescenti-iperconnessi-1-su-4-sui-social-4-ore-al-giorno-e-3-su-4-usano-lia_97092553-5a5f-4446-9d82-6fbdc77d0045.html",
+     "title": "Adolescenti iperconnessi, 1 su 4 sui social 4 ore al giorno e 3 su 4 usano l'IA"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/adolescenti-iperconnessi-1-su-4-sui-social-4-ore-al-giorno-e-3-su-4-usano-lia-5f27fc7a-bde9-461f-b45d-88983d711cb7.html",
+     "title": "Adolescenti iperconnessi: 1 su 4 sui social per 4 ore al giorno e 3 su 4 usano l'IA"
+    },
+    {
+     "name": "Galileo",
+     "link": "https://www.galileonet.it/adolescenti-indagine-mib-cnr-irpps/",
+     "title": "Indagine sugli adolescenti, iperconnessi ma anche isolati"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
+   "summary": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
+   "pub_ts": 1793877604,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
+     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
+     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia",
+   "summary": "Raccoglie 325 nuovi titoli, che saranno presentati all'International Children's Book Fair",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/05/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_c843034d-0320-48f4-b2e8-89e01d3ccbd0.html",
+   "pub_ts": 1793874722,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/05/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_c843034d-0320-48f4-b2e8-89e01d3ccbd0.html",
+     "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_5mTuK2CBgbegMXketMk9de",
+     "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia"
+    }
+   ],
+   "subtype": "cultura"
   }
  ],
  "articles": [
   {
-   "title": "Midterm, le conseguenze della sconfitta di Trump su Netanyahu",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/midterm_israele_trump_netanyahu_iran_guerra-425698811/?rss",
-   "description": "Dall’incognita della ripresa del conflitto con l’Iran ai finanziamenti militari allo Stato ebraico fino all’attenzione sul senatore musulmano El-Sayed",
-   "pub_ts": 1793842380,
+   "title": "La sconfitta di Trump nella vignetta di Ellekappa",
+   "link": "https://www.repubblica.it/esteri/2026/11/05/news/sconfitta_trump_vignetta_ellekappa-425700037/?rss",
+   "description": "",
+   "pub_ts": 1793873637,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
@@ -560,52 +490,34 @@
    "title": "Vance si smarca da Donald e apre le ostilità nel Gop: “La sconfitta è colpa della guerra in Iran”",
    "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_guerra_partito_repubblicano_vance_si_smarca_da_donald_colpa_guerra_iran-425699918/?rss",
    "description": "Il vicepresidente contro il tycoon nel tentativo di prendersi la corrente Maga e correre per la Casa Bianca nel 2028. Hegseth rischia di saltare",
-   "pub_ts": 1793836800,
+   "pub_ts": 1793866363,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "La sconfitta di Trump nella vignetta di Ellekappa",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/sconfitta_trump_vignetta_ellekappa-425700037/?rss",
-   "description": "",
-   "pub_ts": 1793833357,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La Svizzera pagherà le spese mediche dei feriti di Crans-Montana",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/la-svizzera-paghera-le-spese-mediche-dei-feriti-di-crans-montana_f4521456-de88-429a-9286-6ca82525a4d8.html",
-   "description": "Meloni: 'Felice di questa soluzione'. Il padre di una ferita: 'È un'ammissione di colpa'",
-   "pub_ts": 1793814973,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Manovra: FdI alle Regioni, le risorse non sono infinite",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-fdi-alle-regioni-le-risorse-non-sono-infinite_aa352050-80a9-4cf2-bc8c-a86a07823ec6.html",
-   "description": "'Quelli sulla sanità non sono tagli ma un mancato ulteriore aumento'",
-   "pub_ts": 1793825460,
+   "title": "Mattarella: \"Chi nasce al Sud possa restare o tornare, è interesse nazionale\"",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/mattarella-chi-nasce-al-sud-possa-restare-o-tornare-e-interesse-nazionale_61b4159f-b7b8-4648-90fa-b533c7aacb82.html",
+   "description": "Il presidente al ventennale della Fondazione Con il Sud",
+   "pub_ts": 1793879724,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "'Gli americani hanno detto no alla guerra', ma Teheran non si illude",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/khamenei-chi-si-aspetta-un-cambiamento-nella-politica-usa-sbaglia-di-grosso_60de3609-89e4-4ddf-9dc3-fb4483a930e3.html",
-   "description": "Khamenei: 'Se attaccano risposta più ampia'. L'Iran minaccia le basi in Europa e in Italia",
-   "pub_ts": 1793826567,
-   "source": "ANSA",
+   "title": "Zelensky, spero che l'esito delle midterm significhi più aiuti a Kiev",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-spero-che-lesito-delle-midterm-significhi-piu-aiuti-a-kiev_fecec247-fe83-4a18-b29e-c9290c18939a.html",
+   "description": "Presidente rompe silenzio su voto Usa, 'I Dem molto chiari nel sostegno all'Ucraina'",
+   "pub_ts": 1793874057,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "L'America boccia Trump, uno tsunami blu alle midterm",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/lamerica-boccia-trump-uno-tsunami-blu-alle-midterm-_fe1d49b4-c431-4e19-826f-0b6efcdbcb77.html",
-   "description": "Dem conquistano il Congresso e i fortini rossi. Il tycoon: 'Resto il vostro presidente'",
-   "pub_ts": 1793826032,
+   "title": "Partito ultraortodosso non raccomanda candidati, rotta alleanza con Netanyahu",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/partito-ultraortodosso-non-raccomanda-candidati-rotta-alleanza-con-netanyahu_bf2bc32b-7956-4c33-90dc-eddff6f89dda.html",
+   "description": "Herzog avvia la seconda giornata di consultazioni per indicare il nuovo premier",
+   "pub_ts": 1793866526,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -614,16 +526,16 @@
    "title": "Stati Uniti, tutti i primati storici delle midterm",
    "link": "https://www.repubblica.it/esteri/2026/11/04/news/risultati_storici_midterm_bottoms_haaland_becerra_pappas-425698963/?rss",
    "description": "Dalla prima governatrice nativa eletta in New Mexico al primo latino alla guida della California: queste elezioni hanno spezzato la maggioranza repubblicana e abbattuto alcune barriere storiche",
-   "pub_ts": 1793818933,
+   "pub_ts": 1793866002,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "James Talarico, il pastore che ha sconfitto Golia: così il Texas ha spezzato la maledizione",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/james_talarico_texas_elezioni_midterm_chi_e-425697891/?rss",
-   "description": "All’ex seminarista presbiteriano lo Stato in cui i democratici non vincevano da 38 anni",
-   "pub_ts": 1793804619,
+   "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione",
+   "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/?rss",
+   "description": "Il leader cerca di ostentare forza, ma il suo team può sfaldarsi: Hegseth potrebbe saltare e Rubio ritirarsi per prendersi il partito",
+   "pub_ts": 1793836800,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
@@ -638,38 +550,56 @@
    "section": "politica"
   },
   {
-   "title": "OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/openai-nomina-ex-segretario-esercito-usa-per-ruolo-legato-a-sicurezza-nazionale_2cb472dc-1627-4076-a0c8-69e2622ccb0e.html",
-   "description": "E' Dan Driscoll, ha lasciato incarico a settembre dopo notizie di tensioni con Hegseth",
-   "pub_ts": 1793803711,
-   "source": "ANSA Tecnologia",
+   "title": "Il vice primo ministro della Baviera Hubert Aiwanger è stato trovato morto in una camera d’albergo",
+   "link": "https://www.rainews.it/articoli/2026/11/il-vice-primo-ministro-della-baviera-hubert-aiwanger-e-stato-trovato-morto-in-una-camera-dalbergo--edd1f187-07e4-487c-9e37-c66d077fa6f8.html",
+   "description": "Trovato morto in una camera dell’hotel Neuer Fritz di Berlino: aveva 55 anni ed era anche ministro statale dell’Economia e leader del partito di centrodestra Freie Wähler (Liberi Elettori), nel pomeriggio avrebbe dovuto tenere un discorso",
+   "pub_ts": 1793873340,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "L'Italia celebra le Forze armate, 'le istituzioni siano con i militari'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/litalia-celebra-forze-armate-le-istituzioni-siano-con-i-militari_b220598f-f15f-43f3-8487-99ffb9dca950.html",
+   "description": "Crosetto: 'Senza difesa non c'è libertà'. Cerimonia a Firenze con Mattarella.",
+   "pub_ts": 1793824902,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "L'Onu ai sindaci: l’IA non decide, e a volte la scelta giusta è spegnerla",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/l_onu_ai_sindaci_l_ia_non_decide_e_a_volte_la_scelta_giusta_e_spegnerla-425701330/?rss",
+   "description": "ITU e UN-Habitat hanno presentato a Barcellona la prima guida Onu per le città nell'era dell'intelligenza artificiale: 167 pagine, un semaforo del rischio e un caso concreto, quello di Rotterdam, in cui l'algoritmo è stato fermato",
+   "pub_ts": 1793880063,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Testati nello spazio i chip di Google per l'IA",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/11/03/testati-nello-spazio-i-chip-di-google-per-lia_20736b6d-abc9-4d76-83a2-9184dee6c6bd.html",
-   "description": "A bordo di un satellite di Planet Labs lanciato il primo ottobre",
-   "pub_ts": 1793802311,
-   "source": "ANSA Tecnologia",
+   "title": "Anche Apple mette a dieta l’IA: tagliati di un terzo i budget di alcuni ingegneri",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/anche_apple_mette_a_dieta_l_ia_tagliati_di_un_terzo_i_budget_degli_ingegneri-425701280/?rss",
+   "description": "Dopo Accenture, Uber e altri colossi tecnologici, anche Cupertino comincia a contenere i consumi di IA. Per alcuni il tetto giornaliero è già sceso da 300 a 200 dollari e potrebbe dimezzarsi ancora, mentre per certi gruppi di lavoro potrebbe scendere da 100 a 25 dollari. Il...",
+   "pub_ts": 1793878906,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Avvocato generale Corte Ue, uso di articoli attraverso IA può violare diritti editori",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/avvocato-generale-corte-ue-uso-di-articoli-attraverso-ia-puo-violare-diritti-editori_10b68afa-90b2-4d01-ac6b-260e6df04a3f.html",
-   "description": "Il parere su un caso ungherese, è il primo sull'intelligenza artificiale generativa",
-   "pub_ts": 1793802302,
-   "source": "ANSA Tecnologia",
+   "title": "Quando l'IA ti lascia: chi si affeziona a un compagno virtuale teme l'aggiornamento che lo cancella",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/quando_l_ia_ti_lascia_chi_si_affeziona_a_un_compagno_virtuale_teme_l_aggiornamento_che_lo_cancella-425699414/?rss",
+   "description": "Uno studio delle università di Surrey e Cardiff, firmato anche dall'italiana Valentina Pitardi, ha analizzato i racconti degli utenti di Replika: il legame con l'IA consola, ma la consapevolezza che un'azienda possa cambiarla o spegnerla rende fragili",
+   "pub_ts": 1793833200,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Premio Lagrange a Dashun Wang, 'l'Ia può rendere la scienza più conformista'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/03/premio-lagrange-a-dashun-wang-lia-puo-rendere-la-scienza-piu-conformista_cda7d410-665c-4339-84a6-d4b008648055.html",
-   "description": "Premiato per i suoi studi sulla 'scienza della scienza'",
-   "pub_ts": 1793802300,
-   "source": "ANSA Tecnologia",
+   "title": "Il primo film al cinema fatto quasi interamente con l’intelligenza artificiale",
+   "link": "https://www.ilpost.it/2026/11/05/sanxingdui-future-past-film-cinese-ai-flop/",
+   "description": "\"Sanxingdui: Future Past\" è uscito in Cina, è costato molto e sta ottenendo incassi deludenti",
+   "pub_ts": 1793878337,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "tech"
   },
@@ -677,44 +607,44 @@
    "title": "Addio a Tinto Brass, maestro del cinema erotico",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
    "description": "Morto a Roma 93 anni. Una vita tra censure, tribunali e voyeurismo",
-   "pub_ts": 1793828050,
+   "pub_ts": 1793862761,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Domande intime all'ex sacerdote Ravagnani, polemica su Diaco",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/domande-intime-allex-sacerdote-ravagnani-polemica-su-diaco_fcf301f6-74af-43e8-815c-193900c62cb4.html",
-   "description": "Milly Carlucci: 'Inaccettabile'. Scontro anche in Cda Rai",
-   "pub_ts": 1793827940,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "I governatori 'mancano risorse essenziali, via il voucher'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/i-governatori-mancano-risorse-essenziali-via-il-voucher_1f3b20ed-edaa-41b5-9005-e4e5e7b80e33.html",
-   "description": "'Più risorse libere e stop ai vincoli. Alla Lombardia 500 milioni in meno, al Veneto 350'",
-   "pub_ts": 1793830447,
+   "title": "Società dell'obesità, 'in manovra ci siano le risorse per le cure'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/societa-dellobesita-in-manovra-ci-siano-le-risorse-per-le-cure_34b6a1ff-71ba-4ae7-bb9d-69b68df53779.html",
+   "description": "'Garantire farmaci ai pazienti gravi e in difficoltà.Non possiamo attendere un altro anno'",
+   "pub_ts": 1793877970,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Pastorale Americana di Roth torna in libreria, una lettura collettiva per riscoprirlo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/04/pastorale-americana-di-roth-torna-in-libreria-una-lettura-collettiva-per-riscoprirlo_c3523aa5-d65a-4f58-8407-58a95b34694c.html",
-   "description": "Feltrinelli e Adelphi celebrano capolavoro con presentazione in contemporanea in 15 città",
-   "pub_ts": 1793814970,
+   "title": "Adolescenti iperconnessi, 1 su 4 sui social 4 ore al giorno e 3 su 4 usano l'IA",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/04/adolescenti-iperconnessi-1-su-4-sui-social-4-ore-al-giorno-e-3-su-4-usano-lia_97092553-5a5f-4446-9d82-6fbdc77d0045.html",
+   "description": "Indagine Cnr. Uno su 2 esce solo per la scuola. Ricorrono a Ia per compiti e sostegno",
+   "pub_ts": 1793868180,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
+   "description": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
+   "pub_ts": 1793877604,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/05/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_c843034d-0320-48f4-b2e8-89e01d3ccbd0.html",
+   "description": "Raccoglie 325 nuovi titoli, che saranno presentati all'International Children's Book Fair",
+   "pub_ts": 1793874722,
    "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Centro nazionale sangue, 'alzare livello d'attenzione dopo la Francia'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/04/centro-nazionale-sangue-alzare-livello-dattenzione-dopo-la-francia_51e8e0f1-4388-49e4-a9d4-15fff4c97dcf.html",
-   "description": "'Strutture trasfusionali verifichino temperature e adeguino misure sicurezza'",
-   "pub_ts": 1793813579,
-   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   }
