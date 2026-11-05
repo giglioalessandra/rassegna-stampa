@@ -1,6 +1,6 @@
 {
- "generated_at": 1793880238,
- "updated_at": 1793880238,
+ "generated_at": 1793910732,
+ "updated_at": 1793910732,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,23 +9,184 @@
  "items": [
   {
    "category": "politica",
+   "area": "mondo",
+   "title": "Si dimette il presidente del Paraguay per lo scandalo Ueno Bank",
+   "summary": "Rimasto isolato, Santiago Peña era a un passo dall'impeachment",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/si-dimette-il-presidente-del-paraguay-per-lo-scandalo-ueno-bank_3ad9a3cf-4a34-4522-9a75-5ab89940db3a.html",
+   "pub_ts": 1793909580,
+   "n_sources": 10,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/si-dimette-il-presidente-del-paraguay-per-lo-scandalo-ueno-bank_3ad9a3cf-4a34-4522-9a75-5ab89940db3a.html",
+     "title": "Si dimette il presidente del Paraguay per lo scandalo Ueno Bank"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/05/news/paraguay_senza_piu_soldi_in_banca_per_il_crac_della_ueno-425701871/?rss",
+     "title": "Incubo Paraguay, mezzo Paese si sveglia senza più soldi in banca. Il presidente si dimette"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/paraguay-presidente-pena-si-dimette-il-caos-ueno-bank-AJ9OSV6B",
+     "title": "Paraguay, il presidente Peña si dimette dopo il caos di Ueno Bank"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/paraguay-in-tilt-crac-banca-ueno-si-dimette-presidente-pena-q8a8wsei",
+     "title": "Paraguay in tilt: crac della banca Ueno e si dimette il presidente"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/caos-in-paraguay-si-dimette-il-presidente-pea-10380868-4095-49b0-baa6-3471cd8413ab.html",
+     "title": "Caos in Paraguay, si dimette il presidente Peña"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/05/soldi-conti-correnti-banca-paraguay-dimissioni-presidente/",
+     "title": "Senza soldi sui conti correnti e con una banca in crac: cos’è successo in Paraguay e perché il presidente si è dimesso"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/paraguay-presidente-santiago-pena-dimissioni-ueno-bank/",
+     "title": "Uno scandalo bancario ha fatto dimettere il presidente del Paraguay"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/paraguay-crac-ueno-bank-dimissioni-pena_3uaNAkEwArgh1ojR8XUgm6",
+     "title": "Caos in Paraguay, Ueno Bank e mezzo Paese si sveglia col conto svuotato: il presidente Peñ﻿a si dimette"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/05/news/paraguay_senza_piu_soldi_in_banca_per_il_crac_della_ueno-425701871/",
+     "title": "Incubo Paraguay, mezzo Paese si sveglia senza più soldi in banca. Il presidente si dimette"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/05/paraguay-banca-fallita-e-risparmi-congelati-si-dimette-il-presidente-pena-che-aveva-legami-con-ueno-bank/8562256/",
+     "title": "Paraguay, la banca fallisce e tre milioni di persone si svegliano con il conto svuotato: si dimette il presidente Peña"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione",
+   "summary": "Minaccia via email, almeno 7 riguardano l'Italia. L'ipotesi del coordinamento",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+   "pub_ts": 1793906310,
+   "n_sources": 8,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+     "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/allarmi-bomba-su-due-voli-atterrati-a-malpensa-artificieri-in-azione_d0ede39a-06b2-4f43-baee-c1002f7e6898.html",
+     "title": "Allarmi bomba su due voli atterrati a Malpensa, artificieri in azione"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/allarmi-bomba-su-quattro-aerei-diretti-a-praga-minacce-poco-credibili_b0db946f-5800-4455-9b40-6a148043eee2.html",
+     "title": "Allarmi bomba su quattro aerei diretti a Praga, 'minacce poco credibili'"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/cosa-sappiamo-allarmi-bomba-aerei-europa/",
+     "title": "Cosa sappiamo degli allarmi bomba sugli aerei in Italia e in Europa"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/allarme-bomba-su-voli-la-mail-firmata-combattenti-dello-stato-maschile-vogliamo-annientarvi-fe172ebb-20c8-41d0-a236-745c83f78feb.html",
+     "title": "Allarmi bomba in Europa, la mail firmata 'Combattenti dello Stato Maschile': \"Vogliamo annientarvi\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-aerei-roma-malpensa-caccia-aeronautica-t7z60e1h",
+     "title": "Almeno 25 allarmi bomba in Europa: si alzano i caccia per scortare gli aerei"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/05/guerra-ibrida-allarmi-bomba-hacker-notizie/8562085/",
+     "title": "“Falsi allarmi bomba su aerei, nelle scuole e attacchi hacker? Guerra ibrida per seminare caos e terrore. Possibile un coordinamento unico”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/allarmi-bomba-ecco-il-testo-della-lettera-minatoria-in-italiano-vogliamo-annientarvi/",
+     "title": "Allarmi bomba, ecco il testo della lettera minatoria (in italiano): “Vogliamo annientarvi”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "italia",
-   "title": "La sconfitta di Trump nella vignetta di Ellekappa",
-   "summary": "",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/sconfitta_trump_vignetta_ellekappa-425700037/?rss",
-   "pub_ts": 1793873637,
+   "title": "Impugnata la legge del Veneto sul fine vita, il governo si divide",
+   "summary": "Salvini non vota, Calderoli contrario. Zaia difende scelta. Tajani: 'Ora una normativa nazionale'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
+   "pub_ts": 1793909107,
    "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/sconfitta_trump_vignetta_ellekappa-425700037/?rss",
-     "title": "La sconfitta di Trump nella vignetta di Ellekappa"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
+     "title": "Impugnata la legge del Veneto sul fine vita, il governo si divide"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/vance-la-ragione-per-cui-abbiamo-perso-le-midterm-e-la-guerra-in-iran_edaaece9-e084-4b75-8b50-b58b51be3aef.html",
-     "title": "Vance, 'la ragione per cui abbiamo perso le midterm è la guerra in Iran'"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/il-governo-impugna-la-legge-del-veneto-sul-fine-vita-salvini-non_1a4520b4-1790-46bc-bb6c-6a8087285d0f.html",
+     "title": "Il governo impugna la legge del Veneto sul fine vita, Salvini non vota in Cdm"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/05/legge-fine-vita-governo-ricorso-voto-contrario-calderoli-salvini-assente/",
+     "title": "Fine vita, il governo impugna la legge del Veneto. Ma il ministro Calderoli vota contro, Salvini diserta"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/governo-impugna-la-legge-del-veneto-sul-fine-vita-87343237-78a7-4a5d-912a-5b12929d1f14.html",
+     "title": "Il governo impugna la legge del Veneto sul fine vita"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/governo-impugna-legge-regionale-veneto-suicidio-assistito/",
+     "title": "Il governo impugnerà anche la legge sul suicidio assistito del Veneto, l’unica regione di centrodestra ad averne una"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/05/news/fine_vita_governo_impugna_legge_del_veneto_calderoli_contrario_salvini_diserta-425702223/",
+     "title": "Fine vita, il governo impugna la legge del Veneto. Calderoli contrario, Salvini diserta"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/05/legge-fine-vita-veneto-impugnazione-governo-notizie/8562303/",
+     "title": "Legge sul fine vita in Veneto impugnata dal governo, Magi (+Europa): “Esecutivo talebano anche con i suoi stessi governatori, altro che autonomia”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "De Blasio: “Trump ha perso perché non è più un outsider ma simbolo della corruzione”",
+   "summary": "L’ex sindaco di New York: “Il presidente paga gli errori nel Golfo, gli omicidi a Minneapolis di cittadini americani e i dazi, che hanno contribuito al carovita”",
+   "link": "https://www.repubblica.it/esteri/2026/11/05/news/intervista_de_blasio_midterm_trump_ha_perso_perche_simbolo_corruzione-425699991/?rss",
+   "pub_ts": 1793904104,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/05/news/intervista_de_blasio_midterm_trump_ha_perso_perche_simbolo_corruzione-425699991/?rss",
+     "title": "De Blasio: “Trump ha perso perché non è più un outsider ma simbolo della corruzione”"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-sconfitta-analisi-crepet_44Qsd2c22DQCEetjCtw2VA",
+     "title": "Midterm Usa, Crepet: \"Sconfitta elettorale non indebolisce Trump, si sente l'ultimo salvatore del Paese\""
     },
     {
      "name": "Il Post",
@@ -33,9 +194,9 @@
      "title": "Dopo la sconfitta, Trump è in difficoltà anche in Medio Oriente"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-vance-scontro-guerra-iran-sconfitta-midterm_3vye4Iw9Eq6dWMyrY156kO",
-     "title": "Trump dopo la sconfitta alle midterm: \"La guerra in Iran? La rifarei\". E avverte: \"Finisce quando voglio io\""
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/spettacoli/cinema/2026/11/05/news/hollywood_sconfitta_trump_midterm_fonda_ruffalo_longoria-425701040/",
+     "title": "Da Jane Fonda a Mark Ruffalo, Hollywood festeggia la sconfitta di Trump. Longoria: “Orgoglio texano”"
     },
     {
      "name": "Domani",
@@ -43,89 +204,74 @@
      "title": "Il “regime change” di Trump è riuscito in Texas. Teheran festeggia la sua sconfitta alle midterm"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/susan-collins-sconfitta-dell-ultima-moderata-senato-travolta-dall-era-trump-AJDv5S4B",
-     "title": "Susan Collins, la sconfitta dell’ultima moderata del Senato travolta dall’era Trump"
-    },
-    {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/midterm-la-sconfitta-di-trump-non-cancella-le-ragioni-dei-suoi-elettori/",
-     "title": "Midterm: la sconfitta di Trump non cancella le ragioni dei suoi elettori"
+     "link": "https://www.nicolaporro.it/perche-trump-ha-meritato-la-sconfitta/",
+     "title": "Perché Trump ha meritato la sconfitta"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Vance si smarca da Donald e apre le ostilità nel Gop: “La sconfitta è colpa della guerra in Iran”",
-   "summary": "Il vicepresidente contro il tycoon nel tentativo di prendersi la corrente Maga e correre per la Casa Bianca nel 2028. Hegseth rischia di saltare",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_guerra_partito_repubblicano_vance_si_smarca_da_donald_colpa_guerra_iran-425699918/?rss",
-   "pub_ts": 1793866363,
-   "n_sources": 6,
+   "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”",
+   "summary": "A rischio il segretario alla Guerra: parte dei repubblicani voteranno la sua rimozione. Il presidente lo difende, ma potrebbe scaricarlo. Per lui pronto un posto da senatore",
+   "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/?rss",
+   "pub_ts": 1793907881,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_guerra_partito_repubblicano_vance_si_smarca_da_donald_colpa_guerra_iran-425699918/?rss",
-     "title": "Vance si smarca da Donald e apre le ostilità nel Gop: “La sconfitta è colpa della guerra in Iran”"
+     "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/?rss",
+     "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/midterm-usa-guerra-iran-analisi_2zRp8vkgx10IhZJALpnK0q",
-     "title": "Midterm Usa, per Vance sconfitta è colpa della guerra in Iran. Trump non arretra: \"Vero, ma lo rifarei\". La \"duplice lettura\" di Teheran"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/midterm-e-iran-axios-trump-incerto-dopo-la-sconfitta-b411b0ca-e32a-4081-939b-48efe01d2179.html",
-     "title": "Usa-Iran dopo le midterm. Axios: \"Trump incerto dopo la sconfitta\""
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-a-abc-news-intendo-mantenere-hegseth-al-suo-posto_510a8684-832b-4fea-a97c-97bc000dd39a.html",
+     "title": "Trump a Abc news, 'intendo mantenere Hegseth al suo posto'"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_guerra_partito_repubblicano_vance_si_smarca_da_donald_colpa_guerra_iran-425699918/",
-     "title": "Vance si smarca da Donald e apre le ostilità nel Gop: “La sconfitta è colpa della guerra in Iran”"
+     "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/",
+     "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Melania Trump consegna alle delegazioni due lettere per Putin e Zelensky",
+   "summary": "'Scritte personalmente'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/melania-trump-consegna-alle-delegazioni-due-lettere-per-putin-e-zelensky_9b36e016-ca96-43db-9c8d-18642e877d98.html",
+   "pub_ts": 1793906604,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/melania-trump-consegna-alle-delegazioni-due-lettere-per-putin-e-zelensky_9b36e016-ca96-43db-9c8d-18642e877d98.html",
+     "title": "Melania Trump consegna alle delegazioni due lettere per Putin e Zelensky"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/04/analisi-sconfitta-repubblicani-midterm-jd-vance/",
-     "title": "JD Vance si è già distanziato da Trump"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/05/melania-trump-negoziati-russia-ucraina-putin-zelensky-video/",
+     "title": "Melania Trump, prove di pace Russia-Ucraina. L’evento alla Casa Bianca e la sorpresa: «Ho due lettere per Putin e Zelensky» – Il video"
     },
     {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/terremoto-tra-i-repubblicani-vance-scarica-trump-perso-per-colpa-della-guerra-in-iran/",
-     "title": "Terremoto tra i repubblicani, Vance scarica Trump: “Perso per colpa della guerra in Iran”"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/05/diretta/guerra_ucraina_russia_news_oggi-425700306/",
+     "title": "Guerra Ucraina - Russia, le news. Melania Trump: “Tregua duratura in Ucraina”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Mattarella: \"Chi nasce al Sud possa restare o tornare, è interesse nazionale\"",
-   "summary": "Il presidente al ventennale della Fondazione Con il Sud",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/mattarella-chi-nasce-al-sud-possa-restare-o-tornare-e-interesse-nazionale_61b4159f-b7b8-4648-90fa-b533c7aacb82.html",
-   "pub_ts": 1793879724,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/mattarella-chi-nasce-al-sud-possa-restare-o-tornare-e-interesse-nazionale_61b4159f-b7b8-4648-90fa-b533c7aacb82.html",
-     "title": "Mattarella: \"Chi nasce al Sud possa restare o tornare, è interesse nazionale\""
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/mattarella-incontro-fondazione-con-il-sud-chi-nasce-nel-meridione-possa-scegliere-di-restarvi-37552a34-c4a2-4a7c-968d-5dda49f8c51f.html",
-     "title": "Mattarella, incontro Fondazione con il Sud: \"Chi nasce nel Meridione possa scegliere di restarvi\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
    "title": "Zelensky, spero che l'esito delle midterm significhi più aiuti a Kiev",
    "summary": "Presidente rompe silenzio su voto Usa, 'I Dem molto chiari nel sostegno all'Ucraina'",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-spero-che-lesito-delle-midterm-significhi-piu-aiuti-a-kiev_fecec247-fe83-4a18-b29e-c9290c18939a.html",
-   "pub_ts": 1793874057,
-   "n_sources": 2,
+   "pub_ts": 1793898060,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -135,210 +281,215 @@
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/zelensky-elezioni-midterm-trump-ucraina-russia-guerra-news_4BqdWo6PvxCjRmhvpxTtji",
-     "title": "Ucraina, Zelensky esulta per vittoria Dem: \"Ora spero più sostegno Usa\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Partito ultraortodosso non raccomanda candidati, rotta alleanza con Netanyahu",
-   "summary": "Herzog avvia la seconda giornata di consultazioni per indicare il nuovo premier",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/partito-ultraortodosso-non-raccomanda-candidati-rotta-alleanza-con-netanyahu_bf2bc32b-7956-4c33-90dc-eddff6f89dda.html",
-   "pub_ts": 1793866526,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/partito-ultraortodosso-non-raccomanda-candidati-rotta-alleanza-con-netanyahu_bf2bc32b-7956-4c33-90dc-eddff6f89dda.html",
-     "title": "Partito ultraortodosso non raccomanda candidati, rotta alleanza con Netanyahu"
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-italia-armi-crosetto-news_784xxorvvsciPoVwztacjK",
+     "title": "Ucraina, Crosetto: \"Pronto nuovo pacchetto di aiuti\". Il 10 novembre audizione al Copasir"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/05/partito-ultraortodosso-non-raccomanda-candidati-rotta-alleanza-con-netanyahu_8d8e2e87-2164-476d-a6b9-6ab783d59c5a.html",
-     "title": "Partito ultraortodosso non raccomanda candidati, rotta alleanza con Netanyahu"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Stati Uniti, tutti i primati storici delle midterm",
-   "summary": "Dalla prima governatrice nativa eletta in New Mexico al primo latino alla guida della California: queste elezioni hanno spezzato la maggioranza repubblicana e abbattuto alcune barriere storiche",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/risultati_storici_midterm_bottoms_haaland_becerra_pappas-425698963/?rss",
-   "pub_ts": 1793866002,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/04/news/risultati_storici_midterm_bottoms_haaland_becerra_pappas-425698963/?rss",
-     "title": "Stati Uniti, tutti i primati storici delle midterm"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/04/cosa-succede-stati-uniti-elezioni-meta-mandato/",
-     "title": "E adesso che succede negli Stati Uniti?"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/05/aiuti-militari-ucraina-crosetto-copasir-notizie/8561997/",
+     "title": "Aiuti militari all’Ucraina, Crosetto in Senato: “Pacchetto pronto, rispettiamo i patti con la Nato e coi nostri alleati europei”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione",
-   "summary": "Il leader cerca di ostentare forza, ma il suo team può sfaldarsi: Hegseth potrebbe saltare e Rubio ritirarsi per prendersi il partito",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/?rss",
-   "pub_ts": 1793836800,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/?rss",
-     "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/",
-     "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "L’impatto del voto Usa sul mondo, dalla guerra all’Iran ai rapporti con Putin e Netanyahu: ecco le svolte possibili",
-   "summary": "Un’incognita su tutte: le scelte che Trump farà sul Medio Oriente, lo scacchiere a causa del quale, forse, ha perso le elezioni",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_svolte_possibili_casa_bianca_politica_estera_netanyahu_putin-425700065/?rss",
-   "pub_ts": 1793836800,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_svolte_possibili_casa_bianca_politica_estera_netanyahu_putin-425700065/?rss",
-     "title": "L’impatto del voto Usa sul mondo, dalla guerra all’Iran ai rapporti con Putin e Netanyahu: ecco le svolte possibili"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_svolte_possibili_casa_bianca_politica_estera_netanyahu_putin-425700065/",
-     "title": "L’impatto del voto Usa sul mondo, dalla guerra all’Iran ai rapporti con Putin e Netanyahu: ecco le svolte possibili"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Il vice primo ministro della Baviera Hubert Aiwanger è stato trovato morto in una camera d’albergo",
-   "summary": "Trovato morto in una camera dell’hotel Neuer Fritz di Berlino: aveva 55 anni ed era anche ministro statale dell’Economia e leader del partito di centrodestra Freie Wähler (Liberi Elettori), nel pomeriggio avrebbe dovuto tenere un discorso",
-   "link": "https://www.rainews.it/articoli/2026/11/il-vice-primo-ministro-della-baviera-hubert-aiwanger-e-stato-trovato-morto-in-una-camera-dalbergo--edd1f187-07e4-487c-9e37-c66d077fa6f8.html",
-   "pub_ts": 1793873340,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/il-vice-primo-ministro-della-baviera-hubert-aiwanger-e-stato-trovato-morto-in-una-camera-dalbergo--edd1f187-07e4-487c-9e37-c66d077fa6f8.html",
-     "title": "Il vice primo ministro della Baviera Hubert Aiwanger è stato trovato morto in una camera d’albergo"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/05/hubert-aiwanger-politico-tedesco-morto/",
-     "title": "Il vice primo ministro della Baviera Hubert Aiwanger è stato trovato morto in una camera d’albergo di Berlino"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "L'Italia celebra le Forze armate, 'le istituzioni siano con i militari'",
-   "summary": "Crosetto: 'Senza difesa non c'è libertà'. Cerimonia a Firenze con Mattarella.",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/litalia-celebra-forze-armate-le-istituzioni-siano-con-i-militari_b220598f-f15f-43f3-8487-99ffb9dca950.html",
-   "pub_ts": 1793824902,
+   "title": "Meloni scrive a Costa: 'Su Kiev serve una voce, a dicembre l'Ue decida'",
+   "summary": "L'offensiva contro il format E3 ma l'intesa resta lontana. Presto il pacchetto aiuti",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/meloni-a-costa-improcrastinabile-che-leuropa-parli-a-una-voce-sullucraina_702bc9dd-8958-4fb3-bb3e-581d4888fdcf.html",
+   "pub_ts": 1793906728,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/litalia-celebra-forze-armate-le-istituzioni-siano-con-i-militari_b220598f-f15f-43f3-8487-99ffb9dca950.html",
-     "title": "L'Italia celebra le Forze armate, 'le istituzioni siano con i militari'"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/meloni-a-costa-improcrastinabile-che-leuropa-parli-a-una-voce-sullucraina_702bc9dd-8958-4fb3-bb3e-581d4888fdcf.html",
+     "title": "Meloni scrive a Costa: 'Su Kiev serve una voce, a dicembre l'Ue decida'"
     },
     {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/05/news/ucraina_meloni_costa_ue_dicembre_negoziatore-425701460/",
+     "title": "Ucraina, Meloni a Costa: “Ue deve parlare a una voce sola, entro dicembre si decida il negoziatore”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni",
+   "summary": "Inutile riempire i magazzini di quadricotteri, obsoleti dopo pochi mesi. La strategia dell’Esercito è addestrare subito tanti piloti e prendere i sistemi in massa solo nel momento di necessità. Una sfida anche per l’industria",
+   "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/?rss",
+   "pub_ts": 1793890443,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/?rss",
+     "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/",
+     "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Israele, con la Lista Unita araba Gadi Eisenkot ha la maggioranza",
+   "summary": "Il presidente israeliano Isaac Herzog prosegue la seconda giornata di consultazioni per l’incarico verso la formazione del prossimo governo. La maggioranza utile per sedersi in Parlamento è di 61 seggi",
+   "link": "https://www.editorialedomani.it/politica/mondo/guerra-stati-uniti-iran-ultime-notizie-oggi-5-novembre-swzi1wmr",
+   "pub_ts": 1793908631,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/mattarella-giornata-forze-armate-celebriamo-unita-patria-liberazione-crosetto-meloni-lb4m4ams",
-     "title": "Mattarella per la Giornata delle forze armate: «Celebriamo l’unità della Patria e la Liberazione»"
+     "link": "https://www.editorialedomani.it/politica/mondo/guerra-stati-uniti-iran-ultime-notizie-oggi-5-novembre-swzi1wmr",
+     "title": "Israele, con la Lista Unita araba Gadi Eisenkot ha la maggioranza"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/05/israele-eisenkot-supera-netanyahu-nelle-consultazioni-67-deputati-lo-indicano-per-guidare-il-governo/8562340/",
+     "title": "Israele, Eisenkot “supera” Netanyahu nelle consultazioni: 67 deputati lo indicano per guidare il governo. Herzog deciderà domenica"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "L'Onu ai sindaci: l’IA non decide, e a volte la scelta giusta è spegnerla",
-   "summary": "ITU e UN-Habitat hanno presentato a Barcellona la prima guida Onu per le città nell'era dell'intelligenza artificiale: 167 pagine, un semaforo del rischio e un caso concreto, quello di Rotterdam, in cui l'algoritmo è stato fermato",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/l_onu_ai_sindaci_l_ia_non_decide_e_a_volte_la_scelta_giusta_e_spegnerla-425701330/?rss",
-   "pub_ts": 1793880063,
+   "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA",
+   "summary": "Il 9 novembre, Barachini presidente di giuria. Lectio magistralis di padre Benanti",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_432cb0e6-c762-4533-9364-d2e2ce7cb63b.html",
+   "pub_ts": 1793883874,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_432cb0e6-c762-4533-9364-d2e2ce7cb63b.html",
+     "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA"
+    },
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_0835d49c-08bc-447d-b09c-7f2bb66cc647.html",
+     "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Deepfake, arrivano nuovi strumenti per smascherare video e foto manipolati con l'IA",
+   "summary": "Pangram contro la disinformazione online. Esperto, 'l'IA rende dubbi contenuti autentici'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/05/deepfake-arrivano-nuovi-strumenti-per-smascherare-video-e-foto-manipolati-con_4bfdc0ce-efe7-4119-a456-ddf91334a4c1.html",
+   "pub_ts": 1793900602,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/05/deepfake-arrivano-nuovi-strumenti-per-smascherare-video-e-foto-manipolati-con_4bfdc0ce-efe7-4119-a456-ddf91334a4c1.html",
+     "title": "Deepfake, arrivano nuovi strumenti per smascherare video e foto manipolati con l'IA"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Zoom si affida alle IA con un occhio aperto sulla cybersecurity e sulla sovranità digitale",
+   "summary": "Agenti IA, deepfake, riunioni e documenti riservati e strumenti per proteggere le informazioni sensibili. Ecco cosa ha presentato Zoom durante l’evento Zoomtopia",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/zoom_ia_cybersecurity_digitale-425701805/?rss",
+   "pub_ts": 1793891075,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/l_onu_ai_sindaci_l_ia_non_decide_e_a_volte_la_scelta_giusta_e_spegnerla-425701330/?rss",
-     "title": "L'Onu ai sindaci: l’IA non decide, e a volte la scelta giusta è spegnerla"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/zoom_ia_cybersecurity_digitale-425701805/?rss",
+     "title": "Zoom si affida alle IA con un occhio aperto sulla cybersecurity e sulla sovranità digitale"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Anche Apple mette a dieta l’IA: tagliati di un terzo i budget di alcuni ingegneri",
-   "summary": "Dopo Accenture, Uber e altri colossi tecnologici, anche Cupertino comincia a contenere i consumi di IA. Per alcuni il tetto giornaliero è già sceso da 300 a 200 dollari e potrebbe dimezzarsi ancora, mentre per certi gruppi di lavoro potrebbe scendere da 100 a 25 dollari. Il...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/anche_apple_mette_a_dieta_l_ia_tagliati_di_un_terzo_i_budget_degli_ingegneri-425701280/?rss",
-   "pub_ts": 1793878906,
+   "title": "Apple MacBook Pro OLED, la prova: lo schermo conquista e toccarlo è un vantaggio",
+   "summary": "Apple porta per la prima volta il touchscreen sul MacBook Pro e lo accompagna con un nuovo pannello Tandem OLED, un design più leggero e i chip M5 Pro e M5 Max. Il risultato è un portatile che conserva l’impostazione classica del Mac, ma aggiunge un nuovo modo di interagire con...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/recensione-macbook-pro-oled-touchscreen-prezzo-425701634/?rss",
+   "pub_ts": 1793887260,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/anche_apple_mette_a_dieta_l_ia_tagliati_di_un_terzo_i_budget_degli_ingegneri-425701280/?rss",
-     "title": "Anche Apple mette a dieta l’IA: tagliati di un terzo i budget di alcuni ingegneri"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/recensione-macbook-pro-oled-touchscreen-prezzo-425701634/?rss",
+     "title": "Apple MacBook Pro OLED, la prova: lo schermo conquista e toccarlo è un vantaggio"
     }
    ]
   },
   {
-   "category": "tech",
+   "category": "varia",
    "area": null,
-   "title": "Quando l'IA ti lascia: chi si affeziona a un compagno virtuale teme l'aggiornamento che lo cancella",
-   "summary": "Uno studio delle università di Surrey e Cardiff, firmato anche dall'italiana Valentina Pitardi, ha analizzato i racconti degli utenti di Replika: il legame con l'IA consola, ma la consapevolezza che un'azienda possa cambiarla o spegnerla rende fragili",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/quando_l_ia_ti_lascia_chi_si_affeziona_a_un_compagno_virtuale_teme_l_aggiornamento_che_lo_cancella-425699414/?rss",
-   "pub_ts": 1793833200,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Pierpaolo Piccioli lascia la direzione creativa di Balenciaga",
+   "summary": "L'uscita avviene a un mese dall'addio di Anthony Vaccarello a Yves Saint Laurent, altro marchio del gruppo Kering",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/05/pierpaolo-piccioli-lascia-la-direzione-creativa-di-balenciaga_739bd5d0-5502-4645-ac13-2d9564b8eb1b.html",
+   "pub_ts": 1793905038,
+   "n_sources": 4,
+   "documented": true,
    "sources": [
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/quando_l_ia_ti_lascia_chi_si_affeziona_a_un_compagno_virtuale_teme_l_aggiornamento_che_lo_cancella-425699414/?rss",
-     "title": "Quando l'IA ti lascia: chi si affeziona a un compagno virtuale teme l'aggiornamento che lo cancella"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Il primo film al cinema fatto quasi interamente con l’intelligenza artificiale",
-   "summary": "\"Sanxingdui: Future Past\" è uscito in Cina, è costato molto e sta ottenendo incassi deludenti",
-   "link": "https://www.ilpost.it/2026/11/05/sanxingdui-future-past-film-cinese-ai-flop/",
-   "pub_ts": 1793878337,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
+     "name": "ANSA",
+     "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/05/pierpaolo-piccioli-lascia-la-direzione-creativa-di-balenciaga_739bd5d0-5502-4645-ac13-2d9564b8eb1b.html",
+     "title": "Pierpaolo Piccioli lascia la direzione creativa di Balenciaga"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/05/kering-piccioli-lascia-la-direzione-creativa-di-balenciaga_2fec7f90-877e-417e-801d-2c1d7d409d57.html",
+     "title": "Kering, Piccioli lascia la direzione creativa di Balenciaga"
+    },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/05/sanxingdui-future-past-film-cinese-ai-flop/",
-     "title": "Il primo film al cinema fatto quasi interamente con l’intelligenza artificiale"
+     "link": "https://www.ilpost.it/2026/11/05/pierpaolo-piccioli-lascia-direttore-creativo-balenciaga/",
+     "title": "Pierpaolo Piccioli non è più il direttore creativo di Balenciaga, dopo soli 16 mesi"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/05/pierpaolo-piccioli-lascia-balenciaga-dopo-16-mesi-abbiamo-creduto-in-un-sogno-la-nostra-identita-nostri-valori-sono-le-uniche-cose-che-possediamo-veramente-il-manifesto-liberta-creativa-kering/8561994/",
+     "title": "Pierpaolo Piccioli lascia Balenciaga dopo 16 mesi: “Abbiamo creduto in un sogno. La nostra identità e i nostri valori sono le uniche cose che possediamo veramente”. Il manifesto sulla libertà creativa e la stoccata a Kering"
     }
-   ]
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Mamma con tumore al pancreas, impegno Lombardia per farle arrivare la cura Usa",
+   "summary": "Bertolaso, doveroso impegnati per dare risposte a chi è in questa situazione",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_72c6f85b-b055-4731-8245-a016207057ab.html",
+   "pub_ts": 1793897295,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_72c6f85b-b055-4731-8245-a016207057ab.html",
+     "title": "Mamma con tumore al pancreas, impegno Lombardia per farle arrivare la cura Usa"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_a72d25b1-51f3-4072-abca-3910d48b3625.html",
+     "title": "Mamma con tumore al pancreas, impegno della Lombardia per farle arrivare la cura dagli Usa"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/milanoquotidiano/regione-lombardia-paghera-il-farmaco-sperimentale-per-la-mamma-36enne-con-il-tumore-al-pancreas/",
+     "title": "Regione Lombardia pagherà il farmaco sperimentale per la mamma 36enne con il tumore al pancreas"
+    }
+   ],
+   "subtype": "scienza"
   },
   {
    "category": "varia",
@@ -346,8 +497,8 @@
    "title": "Addio a Tinto Brass, maestro del cinema erotico",
    "summary": "Morto a Roma 93 anni. Una vita tra censure, tribunali e voyeurismo",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
-   "pub_ts": 1793862761,
-   "n_sources": 4,
+   "pub_ts": 1793893654,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -357,13 +508,8 @@
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/04/tinto-brass-cinema-sperimentale/",
-     "title": "Tinto Brass prima di Tinto Brass"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://roma.repubblica.it/cronaca/2026/11/04/news/tinto_brass_isola_farnese_casa_frana_isolamento_appello_mattarella-425698988/",
-     "title": "Tinto Brass e gli ultimi mesi da “prigioniero” a Isola Farnese: la frana e l’appello a Mattarella"
+     "link": "https://www.ilpost.it/2026/11/05/ruolo-cinema-erotico-italia/",
+     "title": "Dov’è finito il cinema erotico"
     },
     {
      "name": "Nicola Porro",
@@ -376,131 +522,102 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Società dell'obesità, 'in manovra ci siano le risorse per le cure'",
-   "summary": "'Garantire farmaci ai pazienti gravi e in difficoltà.Non possiamo attendere un altro anno'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/societa-dellobesita-in-manovra-ci-siano-le-risorse-per-le-cure_34b6a1ff-71ba-4ae7-bb9d-69b68df53779.html",
-   "pub_ts": 1793877970,
-   "n_sources": 3,
+   "title": "Isabella Rossellini, 'mio padre Roberto era un cavalluccio marino'",
+   "summary": "L'attrice inaugura all'Academy Museum la retrospettiva dedicata al maestro del neorealismo",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/isabella-rossellini-mio-padre-roberto-era-un-cavalluccio-marino_b987033c-bf3d-4c4f-89a0-603ca38b6d19.html",
+   "pub_ts": 1793902896,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/societa-dellobesita-in-manovra-ci-siano-le-risorse-per-le-cure_34b6a1ff-71ba-4ae7-bb9d-69b68df53779.html",
-     "title": "Società dell'obesità, 'in manovra ci siano le risorse per le cure'"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/isabella-rossellini-mio-padre-roberto-era-un-cavalluccio-marino_b987033c-bf3d-4c4f-89a0-603ca38b6d19.html",
+     "title": "Isabella Rossellini, 'mio padre Roberto era un cavalluccio marino'"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-fdi-alle-regioni-le-risorse-non-sono-infinite_aa352050-80a9-4cf2-bc8c-a86a07823ec6.html",
-     "title": "Manovra: FdI alle Regioni, le risorse non sono infinite"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/regioni-allunanimita-in-manovra-risorse-insufficienti-per-la-sanita_4b49e5c7-8fdd-49fe-aff5-a45f437cea28.html",
-     "title": "Regioni all'unanimità, 'in manovra risorse insufficienti per la sanità'"
+     "name": "Repubblica Cultura",
+     "link": "https://www.repubblica.it/robinson/2026/11/05/news/isabella_rossellini_intervista_padre_roberto_120_anni_nascita-425698718/?rss",
+     "title": "Isabella Rossellini: “Mio padre inseguiva soltanto la libertà”"
     }
    ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Adolescenti iperconnessi, 1 su 4 sui social 4 ore al giorno e 3 su 4 usano l'IA",
-   "summary": "Indagine Cnr. Uno su 2 esce solo per la scuola. Ricorrono a Ia per compiti e sostegno",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/04/adolescenti-iperconnessi-1-su-4-sui-social-4-ore-al-giorno-e-3-su-4-usano-lia_97092553-5a5f-4446-9d82-6fbdc77d0045.html",
-   "pub_ts": 1793868180,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/04/adolescenti-iperconnessi-1-su-4-sui-social-4-ore-al-giorno-e-3-su-4-usano-lia_97092553-5a5f-4446-9d82-6fbdc77d0045.html",
-     "title": "Adolescenti iperconnessi, 1 su 4 sui social 4 ore al giorno e 3 su 4 usano l'IA"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/adolescenti-iperconnessi-1-su-4-sui-social-4-ore-al-giorno-e-3-su-4-usano-lia-5f27fc7a-bde9-461f-b45d-88983d711cb7.html",
-     "title": "Adolescenti iperconnessi: 1 su 4 sui social per 4 ore al giorno e 3 su 4 usano l'IA"
-    },
-    {
-     "name": "Galileo",
-     "link": "https://www.galileonet.it/adolescenti-indagine-mib-cnr-irpps/",
-     "title": "Indagine sugli adolescenti, iperconnessi ma anche isolati"
-    }
-   ],
-   "subtype": "scienza"
+   "subtype": "cultura"
   },
   {
    "category": "varia",
    "area": null,
    "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
    "summary": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
-   "pub_ts": 1793877604,
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
+   "pub_ts": 1793902387,
    "n_sources": 2,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
-     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
-    },
     {
      "name": "ANSA Cronaca",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
      "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
+    },
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
+     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
     }
    ],
    "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia",
-   "summary": "Raccoglie 325 nuovi titoli, che saranno presentati all'International Children's Book Fair",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/05/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_c843034d-0320-48f4-b2e8-89e01d3ccbd0.html",
-   "pub_ts": 1793874722,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/05/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_c843034d-0320-48f4-b2e8-89e01d3ccbd0.html",
-     "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_5mTuK2CBgbegMXketMk9de",
-     "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia"
-    }
-   ],
-   "subtype": "cultura"
   }
  ],
  "articles": [
   {
-   "title": "La sconfitta di Trump nella vignetta di Ellekappa",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/sconfitta_trump_vignetta_ellekappa-425700037/?rss",
-   "description": "",
-   "pub_ts": 1793873637,
+   "title": "Si dimette il presidente del Paraguay per lo scandalo Ueno Bank",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/si-dimette-il-presidente-del-paraguay-per-lo-scandalo-ueno-bank_3ad9a3cf-4a34-4522-9a75-5ab89940db3a.html",
+   "description": "Rimasto isolato, Santiago Peña era a un passo dall'impeachment",
+   "pub_ts": 1793909580,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+   "description": "Minaccia via email, almeno 7 riguardano l'Italia. L'ipotesi del coordinamento",
+   "pub_ts": 1793906310,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Impugnata la legge del Veneto sul fine vita, il governo si divide",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
+   "description": "Salvini non vota, Calderoli contrario. Zaia difende scelta. Tajani: 'Ora una normativa nazionale'",
+   "pub_ts": 1793909107,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "De Blasio: “Trump ha perso perché non è più un outsider ma simbolo della corruzione”",
+   "link": "https://www.repubblica.it/esteri/2026/11/05/news/intervista_de_blasio_midterm_trump_ha_perso_perche_simbolo_corruzione-425699991/?rss",
+   "description": "L’ex sindaco di New York: “Il presidente paga gli errori nel Golfo, gli omicidi a Minneapolis di cittadini americani e i dazi, che hanno contribuito al carovita”",
+   "pub_ts": 1793904104,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Vance si smarca da Donald e apre le ostilità nel Gop: “La sconfitta è colpa della guerra in Iran”",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_guerra_partito_repubblicano_vance_si_smarca_da_donald_colpa_guerra_iran-425699918/?rss",
-   "description": "Il vicepresidente contro il tycoon nel tentativo di prendersi la corrente Maga e correre per la Casa Bianca nel 2028. Hegseth rischia di saltare",
-   "pub_ts": 1793866363,
+   "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”",
+   "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/?rss",
+   "description": "A rischio il segretario alla Guerra: parte dei repubblicani voteranno la sua rimozione. Il presidente lo difende, ma potrebbe scaricarlo. Per lui pronto un posto da senatore",
+   "pub_ts": 1793907881,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Mattarella: \"Chi nasce al Sud possa restare o tornare, è interesse nazionale\"",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/mattarella-chi-nasce-al-sud-possa-restare-o-tornare-e-interesse-nazionale_61b4159f-b7b8-4648-90fa-b533c7aacb82.html",
-   "description": "Il presidente al ventennale della Fondazione Con il Sud",
-   "pub_ts": 1793879724,
-   "source": "ANSA Politica",
+   "title": "Melania Trump consegna alle delegazioni due lettere per Putin e Zelensky",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/melania-trump-consegna-alle-delegazioni-due-lettere-per-putin-e-zelensky_9b36e016-ca96-43db-9c8d-18642e877d98.html",
+   "description": "'Scritte personalmente'",
+   "pub_ts": 1793906604,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -508,143 +625,116 @@
    "title": "Zelensky, spero che l'esito delle midterm significhi più aiuti a Kiev",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-spero-che-lesito-delle-midterm-significhi-piu-aiuti-a-kiev_fecec247-fe83-4a18-b29e-c9290c18939a.html",
    "description": "Presidente rompe silenzio su voto Usa, 'I Dem molto chiari nel sostegno all'Ucraina'",
-   "pub_ts": 1793874057,
+   "pub_ts": 1793898060,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Partito ultraortodosso non raccomanda candidati, rotta alleanza con Netanyahu",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/partito-ultraortodosso-non-raccomanda-candidati-rotta-alleanza-con-netanyahu_bf2bc32b-7956-4c33-90dc-eddff6f89dda.html",
-   "description": "Herzog avvia la seconda giornata di consultazioni per indicare il nuovo premier",
-   "pub_ts": 1793866526,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Stati Uniti, tutti i primati storici delle midterm",
-   "link": "https://www.repubblica.it/esteri/2026/11/04/news/risultati_storici_midterm_bottoms_haaland_becerra_pappas-425698963/?rss",
-   "description": "Dalla prima governatrice nativa eletta in New Mexico al primo latino alla guida della California: queste elezioni hanno spezzato la maggioranza repubblicana e abbattuto alcune barriere storiche",
-   "pub_ts": 1793866002,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/?rss",
-   "description": "Il leader cerca di ostentare forza, ma il suo team può sfaldarsi: Hegseth potrebbe saltare e Rubio ritirarsi per prendersi il partito",
-   "pub_ts": 1793836800,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "L’impatto del voto Usa sul mondo, dalla guerra all’Iran ai rapporti con Putin e Netanyahu: ecco le svolte possibili",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_svolte_possibili_casa_bianca_politica_estera_netanyahu_putin-425700065/?rss",
-   "description": "Un’incognita su tutte: le scelte che Trump farà sul Medio Oriente, lo scacchiere a causa del quale, forse, ha perso le elezioni",
-   "pub_ts": 1793836800,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il vice primo ministro della Baviera Hubert Aiwanger è stato trovato morto in una camera d’albergo",
-   "link": "https://www.rainews.it/articoli/2026/11/il-vice-primo-ministro-della-baviera-hubert-aiwanger-e-stato-trovato-morto-in-una-camera-dalbergo--edd1f187-07e4-487c-9e37-c66d077fa6f8.html",
-   "description": "Trovato morto in una camera dell’hotel Neuer Fritz di Berlino: aveva 55 anni ed era anche ministro statale dell’Economia e leader del partito di centrodestra Freie Wähler (Liberi Elettori), nel pomeriggio avrebbe dovuto tenere un discorso",
-   "pub_ts": 1793873340,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "L'Italia celebra le Forze armate, 'le istituzioni siano con i militari'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/04/litalia-celebra-forze-armate-le-istituzioni-siano-con-i-militari_b220598f-f15f-43f3-8487-99ffb9dca950.html",
-   "description": "Crosetto: 'Senza difesa non c'è libertà'. Cerimonia a Firenze con Mattarella.",
-   "pub_ts": 1793824902,
+   "title": "Meloni scrive a Costa: 'Su Kiev serve una voce, a dicembre l'Ue decida'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/meloni-a-costa-improcrastinabile-che-leuropa-parli-a-una-voce-sullucraina_702bc9dd-8958-4fb3-bb3e-581d4888fdcf.html",
+   "description": "L'offensiva contro il format E3 ma l'intesa resta lontana. Presto il pacchetto aiuti",
+   "pub_ts": 1793906728,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "L'Onu ai sindaci: l’IA non decide, e a volte la scelta giusta è spegnerla",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/l_onu_ai_sindaci_l_ia_non_decide_e_a_volte_la_scelta_giusta_e_spegnerla-425701330/?rss",
-   "description": "ITU e UN-Habitat hanno presentato a Barcellona la prima guida Onu per le città nell'era dell'intelligenza artificiale: 167 pagine, un semaforo del rischio e un caso concreto, quello di Rotterdam, in cui l'algoritmo è stato fermato",
-   "pub_ts": 1793880063,
+   "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni",
+   "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/?rss",
+   "description": "Inutile riempire i magazzini di quadricotteri, obsoleti dopo pochi mesi. La strategia dell’Esercito è addestrare subito tanti piloti e prendere i sistemi in massa solo nel momento di necessità. Una sfida anche per l’industria",
+   "pub_ts": 1793890443,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Israele, con la Lista Unita araba Gadi Eisenkot ha la maggioranza",
+   "link": "https://www.editorialedomani.it/politica/mondo/guerra-stati-uniti-iran-ultime-notizie-oggi-5-novembre-swzi1wmr",
+   "description": "Il presidente israeliano Isaac Herzog prosegue la seconda giornata di consultazioni per l’incarico verso la formazione del prossimo governo. La maggioranza utile per sedersi in Parlamento è di 61 seggi",
+   "pub_ts": 1793908631,
+   "source": "Domani",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_432cb0e6-c762-4533-9364-d2e2ce7cb63b.html",
+   "description": "Il 9 novembre, Barachini presidente di giuria. Lectio magistralis di padre Benanti",
+   "pub_ts": 1793883874,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Deepfake, arrivano nuovi strumenti per smascherare video e foto manipolati con l'IA",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/05/deepfake-arrivano-nuovi-strumenti-per-smascherare-video-e-foto-manipolati-con_4bfdc0ce-efe7-4119-a456-ddf91334a4c1.html",
+   "description": "Pangram contro la disinformazione online. Esperto, 'l'IA rende dubbi contenuti autentici'",
+   "pub_ts": 1793900602,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Zoom si affida alle IA con un occhio aperto sulla cybersecurity e sulla sovranità digitale",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/zoom_ia_cybersecurity_digitale-425701805/?rss",
+   "description": "Agenti IA, deepfake, riunioni e documenti riservati e strumenti per proteggere le informazioni sensibili. Ecco cosa ha presentato Zoom durante l’evento Zoomtopia",
+   "pub_ts": 1793891075,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Anche Apple mette a dieta l’IA: tagliati di un terzo i budget di alcuni ingegneri",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/anche_apple_mette_a_dieta_l_ia_tagliati_di_un_terzo_i_budget_degli_ingegneri-425701280/?rss",
-   "description": "Dopo Accenture, Uber e altri colossi tecnologici, anche Cupertino comincia a contenere i consumi di IA. Per alcuni il tetto giornaliero è già sceso da 300 a 200 dollari e potrebbe dimezzarsi ancora, mentre per certi gruppi di lavoro potrebbe scendere da 100 a 25 dollari. Il...",
-   "pub_ts": 1793878906,
+   "title": "Apple MacBook Pro OLED, la prova: lo schermo conquista e toccarlo è un vantaggio",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/recensione-macbook-pro-oled-touchscreen-prezzo-425701634/?rss",
+   "description": "Apple porta per la prima volta il touchscreen sul MacBook Pro e lo accompagna con un nuovo pannello Tandem OLED, un design più leggero e i chip M5 Pro e M5 Max. Il risultato è un portatile che conserva l’impostazione classica del Mac, ma aggiunge un nuovo modo di interagire con...",
+   "pub_ts": 1793887260,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Quando l'IA ti lascia: chi si affeziona a un compagno virtuale teme l'aggiornamento che lo cancella",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/quando_l_ia_ti_lascia_chi_si_affeziona_a_un_compagno_virtuale_teme_l_aggiornamento_che_lo_cancella-425699414/?rss",
-   "description": "Uno studio delle università di Surrey e Cardiff, firmato anche dall'italiana Valentina Pitardi, ha analizzato i racconti degli utenti di Replika: il legame con l'IA consola, ma la consapevolezza che un'azienda possa cambiarla o spegnerla rende fragili",
-   "pub_ts": 1793833200,
-   "source": "Repubblica Tecnologia",
+   "title": "Pierpaolo Piccioli lascia la direzione creativa di Balenciaga",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/05/pierpaolo-piccioli-lascia-la-direzione-creativa-di-balenciaga_739bd5d0-5502-4645-ac13-2d9564b8eb1b.html",
+   "description": "L'uscita avviene a un mese dall'addio di Anthony Vaccarello a Yves Saint Laurent, altro marchio del gruppo Kering",
+   "pub_ts": 1793905038,
+   "source": "ANSA",
    "source_priority": 1,
-   "section": "tech"
+   "section": "varia"
   },
   {
-   "title": "Il primo film al cinema fatto quasi interamente con l’intelligenza artificiale",
-   "link": "https://www.ilpost.it/2026/11/05/sanxingdui-future-past-film-cinese-ai-flop/",
-   "description": "\"Sanxingdui: Future Past\" è uscito in Cina, è costato molto e sta ottenendo incassi deludenti",
-   "pub_ts": 1793878337,
-   "source": "Il Post",
+   "title": "Mamma con tumore al pancreas, impegno Lombardia per farle arrivare la cura Usa",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_72c6f85b-b055-4731-8245-a016207057ab.html",
+   "description": "Bertolaso, doveroso impegnati per dare risposte a chi è in questa situazione",
+   "pub_ts": 1793897295,
+   "source": "ANSA Salute",
    "source_priority": 1,
-   "section": "tech"
+   "section": "varia"
   },
   {
    "title": "Addio a Tinto Brass, maestro del cinema erotico",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
    "description": "Morto a Roma 93 anni. Una vita tra censure, tribunali e voyeurismo",
-   "pub_ts": 1793862761,
+   "pub_ts": 1793893654,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Società dell'obesità, 'in manovra ci siano le risorse per le cure'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/societa-dellobesita-in-manovra-ci-siano-le-risorse-per-le-cure_34b6a1ff-71ba-4ae7-bb9d-69b68df53779.html",
-   "description": "'Garantire farmaci ai pazienti gravi e in difficoltà.Non possiamo attendere un altro anno'",
-   "pub_ts": 1793877970,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Adolescenti iperconnessi, 1 su 4 sui social 4 ore al giorno e 3 su 4 usano l'IA",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/04/adolescenti-iperconnessi-1-su-4-sui-social-4-ore-al-giorno-e-3-su-4-usano-lia_97092553-5a5f-4446-9d82-6fbdc77d0045.html",
-   "description": "Indagine Cnr. Uno su 2 esce solo per la scuola. Ricorrono a Ia per compiti e sostegno",
-   "pub_ts": 1793868180,
-   "source": "ANSA Salute",
+   "title": "Isabella Rossellini, 'mio padre Roberto era un cavalluccio marino'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/isabella-rossellini-mio-padre-roberto-era-un-cavalluccio-marino_b987033c-bf3d-4c4f-89a0-603ca38b6d19.html",
+   "description": "L'attrice inaugura all'Academy Museum la retrospettiva dedicata al maestro del neorealismo",
+   "pub_ts": 1793902896,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
    "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
    "description": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
-   "pub_ts": 1793877604,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/05/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_c843034d-0320-48f4-b2e8-89e01d3ccbd0.html",
-   "description": "Raccoglie 325 nuovi titoli, che saranno presentati all'International Children's Book Fair",
-   "pub_ts": 1793874722,
-   "source": "ANSA Cultura",
+   "pub_ts": 1793902387,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "varia"
   }
