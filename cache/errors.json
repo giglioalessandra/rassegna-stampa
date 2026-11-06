@@ -1,4 +1,10 @@
 {
- "Repubblica Green": "articoli tutti più vecchi di 60 ore (il più recente: 05/11/2026 03:00 UTC)",
+ "la Repubblica": "HTTP 403",
+ "Repubblica Esteri": "HTTP 403",
+ "Repubblica Tecnologia": "HTTP 403",
+ "Repubblica Cultura": "HTTP 403",
+ "Repubblica Green": "HTTP 403",
+ "Repubblica Salute": "HTTP 403",
+ "Repubblica Ambiente": "HTTP 403",
  "EtaBeta Rai": "articoli tutti più vecchi di 60 ore (il più recente: 31/10/2026 00:00 UTC)"
 }

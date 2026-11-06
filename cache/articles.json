@@ -1,6 +1,6 @@
 {
- "generated_at": 1793910732,
- "updated_at": 1793910732,
+ "generated_at": 1793928419,
+ "updated_at": 1793928419,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,22 +10,69 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Si dimette il presidente del Paraguay per lo scandalo Ueno Bank",
-   "summary": "Rimasto isolato, Santiago Peña era a un passo dall'impeachment",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/si-dimette-il-presidente-del-paraguay-per-lo-scandalo-ueno-bank_3ad9a3cf-4a34-4522-9a75-5ab89940db3a.html",
-   "pub_ts": 1793909580,
-   "n_sources": 10,
+   "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione",
+   "summary": "Minaccia via email, almeno 7 riguardano l'Italia. L'ipotesi del coordinamento",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+   "pub_ts": 1793919821,
+   "n_sources": 8,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+     "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/ue-su-allarmi-bomba-qualsiasi-minaccia-contro-civili-e-inaccettabile_1e1240f7-e4c3-436a-af69-74843ee2ff8d.html",
+     "title": "Ue su allarmi bomba, 'qualsiasi minaccia contro civili è inaccettabile'"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/allarmi-bomba-su-due-voli-atterrati-a-malpensa-artificieri-in-azione_d0ede39a-06b2-4f43-baee-c1002f7e6898.html",
+     "title": "Allarmi bomba su due voli atterrati a Malpensa, artificieri in azione"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/aeroporti-chi-e-pozdnyakov-male-state-allarme-bomba_57gN6tp9T5LKO4fJrpIkA0",
+     "title": "Allarmi bomba sugli aerei, chi è la mente del gruppo che terrorizza l'Europa: suprematista, antifemminista e contro l'Ucraina"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-e-aerei-in-tilt-operazione-terrore-nei-cieli-h9xv803a",
+     "title": "Allarmi bomba e aerei in tilt. Operazione terrore nei cieli"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/cosa-sappiamo-allarmi-bomba-aerei-europa/",
+     "title": "Cosa sappiamo degli allarmi bomba sugli aerei in Italia e in Europa"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/05/guerra-ibrida-allarmi-bomba-hacker-notizie/8562085/",
+     "title": "“Falsi allarmi bomba su aerei, nelle scuole e attacchi hacker? Guerra ibrida per seminare caos e terrore. Possibile un coordinamento unico”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/panico-nei-cieli-deuropa-raffica-di-allarmi-bomba-decollano-i-caccia-dirottati-aerei/",
+     "title": "Panico nei cieli d’Europa, raffica di allarmi bomba: decollano i caccia, dirottati aerei"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Paraguay, dal 6 novembre i rimborsi ai correntisti di Ueno Bank",
+   "summary": "Prima tranche fino a 10 milioni di guaraní, pagamenti entro cinque giorni lavorativi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/paraguay-dal-6-novembre-i-rimborsi-ai-correntisti-di-ueno-bank_a3ae84c2-22f0-4155-b5f5-1be5314b3fa5.html",
+   "pub_ts": 1793927346,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/si-dimette-il-presidente-del-paraguay-per-lo-scandalo-ueno-bank_3ad9a3cf-4a34-4522-9a75-5ab89940db3a.html",
-     "title": "Si dimette il presidente del Paraguay per lo scandalo Ueno Bank"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/paraguay_senza_piu_soldi_in_banca_per_il_crac_della_ueno-425701871/?rss",
-     "title": "Incubo Paraguay, mezzo Paese si sveglia senza più soldi in banca. Il presidente si dimette"
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/paraguay-dal-6-novembre-i-rimborsi-ai-correntisti-di-ueno-bank_a3ae84c2-22f0-4155-b5f5-1be5314b3fa5.html",
+     "title": "Paraguay, dal 6 novembre i rimborsi ai correntisti di Ueno Bank"
     },
     {
      "name": "Sole 24 Ore Mondo",
@@ -43,11 +90,6 @@
      "title": "Caos in Paraguay, si dimette il presidente Peña"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/05/soldi-conti-correnti-banca-paraguay-dimissioni-presidente/",
-     "title": "Senza soldi sui conti correnti e con una banca in crac: cos’è successo in Paraguay e perché il presidente si è dimesso"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/05/paraguay-presidente-santiago-pena-dimissioni-ueno-bank/",
      "title": "Uno scandalo bancario ha fatto dimettere il presidente del Paraguay"
@@ -56,11 +98,6 @@
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/paraguay-crac-ueno-bank-dimissioni-pena_3uaNAkEwArgh1ojR8XUgm6",
      "title": "Caos in Paraguay, Ueno Bank e mezzo Paese si sveglia col conto svuotato: il presidente Peñ﻿a si dimette"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/paraguay_senza_piu_soldi_in_banca_per_il_crac_della_ueno-425701871/",
-     "title": "Incubo Paraguay, mezzo Paese si sveglia senza più soldi in banca. Il presidente si dimette"
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -72,52 +109,47 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione",
-   "summary": "Minaccia via email, almeno 7 riguardano l'Italia. L'ipotesi del coordinamento",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
-   "pub_ts": 1793906310,
-   "n_sources": 8,
+   "title": "Trump non si arrende: 'Le elezioni negli Usa sono truccate'",
+   "summary": "Il tycoon pronto con i blitz prima di diventare 'anatra zoppa', dalla difesa ai migranti",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/05/-trump-non-si-arrende-le-elezioni-negli-usa-sono-truccate_f97bbbdf-4ed5-49b4-a42c-7e13e9cdfec8.html",
+   "pub_ts": 1793919499,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
-     "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/allarmi-bomba-su-due-voli-atterrati-a-malpensa-artificieri-in-azione_d0ede39a-06b2-4f43-baee-c1002f7e6898.html",
-     "title": "Allarmi bomba su due voli atterrati a Malpensa, artificieri in azione"
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/05/-trump-non-si-arrende-le-elezioni-negli-usa-sono-truccate_f97bbbdf-4ed5-49b4-a42c-7e13e9cdfec8.html",
+     "title": "Trump non si arrende: 'Le elezioni negli Usa sono truccate'"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/allarmi-bomba-su-quattro-aerei-diretti-a-praga-minacce-poco-credibili_b0db946f-5800-4455-9b40-6a148043eee2.html",
-     "title": "Allarmi bomba su quattro aerei diretti a Praga, 'minacce poco credibili'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-le-nostre-elezioni-sono-cosi-truccate-non-avete-idea_a717c9e7-e6b8-445a-b87a-c6995c2d5acc.html",
+     "title": "Trump, 'le nostre elezioni sono così truccate, non avete idea'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/05/midterm-trump-elezioni-truccate-iran/",
+     "title": "Midterm, Trump non si arrende: «Elezioni truccate». E sull’Iran minaccia: «Forse sarò costretto a distruggerlo»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-midterm-truccate-iran-ucraina_7MEd8vZ470kKfbpSx2dcQU",
+     "title": "Trump dopo la sconfitta: \"Le nostre elezioni sono truccate. L'Iran? Forse dovrò distruggerlo, presto saprete\""
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/05/cosa-sappiamo-allarmi-bomba-aerei-europa/",
-     "title": "Cosa sappiamo degli allarmi bomba sugli aerei in Italia e in Europa"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/allarme-bomba-su-voli-la-mail-firmata-combattenti-dello-stato-maschile-vogliamo-annientarvi-fe172ebb-20c8-41d0-a236-745c83f78feb.html",
-     "title": "Allarmi bomba in Europa, la mail firmata 'Combattenti dello Stato Maschile': \"Vogliamo annientarvi\""
+     "link": "https://www.ilpost.it/2026/11/05/trump-meta-mandato-medio-oriente/",
+     "title": "Dopo la sconfitta, Trump è in difficoltà anche in Medio Oriente"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-aerei-roma-malpensa-caccia-aeronautica-t7z60e1h",
-     "title": "Almeno 25 allarmi bomba in Europa: si alzano i caccia per scortare gli aerei"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/05/guerra-ibrida-allarmi-bomba-hacker-notizie/8562085/",
-     "title": "“Falsi allarmi bomba su aerei, nelle scuole e attacchi hacker? Guerra ibrida per seminare caos e terrore. Possibile un coordinamento unico”"
+     "link": "https://www.editorialedomani.it/politica/europa/midterm-usa-effetti-ue-destre-europa-meloni-le-pen-xx5cbt9p",
+     "title": "Gli effetti del midterm sull’Europa: «Trump chi?», i sovranisti si riassettano"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/allarmi-bomba-ecco-il-testo-della-lettera-minatoria-in-italiano-vogliamo-annientarvi/",
-     "title": "Allarmi bomba, ecco il testo della lettera minatoria (in italiano): “Vogliamo annientarvi”"
+     "link": "https://www.nicolaporro.it/perche-trump-ha-meritato-la-sconfitta/",
+     "title": "Perché Trump ha meritato la sconfitta"
     }
    ]
   },
@@ -128,7 +160,7 @@
    "summary": "Salvini non vota, Calderoli contrario. Zaia difende scelta. Tajani: 'Ora una normativa nazionale'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
    "pub_ts": 1793909107,
-   "n_sources": 7,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
@@ -157,11 +189,6 @@
      "title": "Il governo impugnerà anche la legge sul suicidio assistito del Veneto, l’unica regione di centrodestra ad averne una"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/05/news/fine_vita_governo_impugna_legge_del_veneto_calderoli_contrario_salvini_diserta-425702223/",
-     "title": "Fine vita, il governo impugna la legge del Veneto. Calderoli contrario, Salvini diserta"
-    },
-    {
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/05/legge-fine-vita-veneto-impugnazione-governo-notizie/8562303/",
      "title": "Legge sul fine vita in Veneto impugnata dal governo, Magi (+Europa): “Esecutivo talebano anche con i suoi stessi governatori, altro che autonomia”"
@@ -170,81 +197,12 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "De Blasio: “Trump ha perso perché non è più un outsider ma simbolo della corruzione”",
-   "summary": "L’ex sindaco di New York: “Il presidente paga gli errori nel Golfo, gli omicidi a Minneapolis di cittadini americani e i dazi, che hanno contribuito al carovita”",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/intervista_de_blasio_midterm_trump_ha_perso_perche_simbolo_corruzione-425699991/?rss",
-   "pub_ts": 1793904104,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/intervista_de_blasio_midterm_trump_ha_perso_perche_simbolo_corruzione-425699991/?rss",
-     "title": "De Blasio: “Trump ha perso perché non è più un outsider ma simbolo della corruzione”"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-sconfitta-analisi-crepet_44Qsd2c22DQCEetjCtw2VA",
-     "title": "Midterm Usa, Crepet: \"Sconfitta elettorale non indebolisce Trump, si sente l'ultimo salvatore del Paese\""
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/05/trump-meta-mandato-medio-oriente/",
-     "title": "Dopo la sconfitta, Trump è in difficoltà anche in Medio Oriente"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/spettacoli/cinema/2026/11/05/news/hollywood_sconfitta_trump_midterm_fonda_ruffalo_longoria-425701040/",
-     "title": "Da Jane Fonda a Mark Ruffalo, Hollywood festeggia la sconfitta di Trump. Longoria: “Orgoglio texano”"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/midterm-iran-stati-uniti-unico-regime-change-riuscito-trump-teheran-festeggia-m2i8ff0r",
-     "title": "Il “regime change” di Trump è riuscito in Texas. Teheran festeggia la sua sconfitta alle midterm"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/perche-trump-ha-meritato-la-sconfitta/",
-     "title": "Perché Trump ha meritato la sconfitta"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”",
-   "summary": "A rischio il segretario alla Guerra: parte dei repubblicani voteranno la sua rimozione. Il presidente lo difende, ma potrebbe scaricarlo. Per lui pronto un posto da senatore",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/?rss",
-   "pub_ts": 1793907881,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/?rss",
-     "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-a-abc-news-intendo-mantenere-hegseth-al-suo-posto_510a8684-832b-4fea-a97c-97bc000dd39a.html",
-     "title": "Trump a Abc news, 'intendo mantenere Hegseth al suo posto'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/",
-     "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
+   "area": "italia",
    "title": "Melania Trump consegna alle delegazioni due lettere per Putin e Zelensky",
    "summary": "'Scritte personalmente'",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/melania-trump-consegna-alle-delegazioni-due-lettere-per-putin-e-zelensky_9b36e016-ca96-43db-9c8d-18642e877d98.html",
-   "pub_ts": 1793906604,
-   "n_sources": 3,
+   "pub_ts": 1793928060,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
@@ -253,85 +211,53 @@
      "title": "Melania Trump consegna alle delegazioni due lettere per Putin e Zelensky"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/05/melania-trump-negoziati-russia-ucraina-putin-zelensky-video/",
-     "title": "Melania Trump, prove di pace Russia-Ucraina. L’evento alla Casa Bianca e la sorpresa: «Ho due lettere per Putin e Zelensky» – Il video"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/diretta/guerra_ucraina_russia_news_oggi-425700306/",
-     "title": "Guerra Ucraina - Russia, le news. Melania Trump: “Tregua duratura in Ucraina”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Zelensky, spero che l'esito delle midterm significhi più aiuti a Kiev",
-   "summary": "Presidente rompe silenzio su voto Usa, 'I Dem molto chiari nel sostegno all'Ucraina'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-spero-che-lesito-delle-midterm-significhi-piu-aiuti-a-kiev_fecec247-fe83-4a18-b29e-c9290c18939a.html",
-   "pub_ts": 1793898060,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-spero-che-lesito-delle-midterm-significhi-piu-aiuti-a-kiev_fecec247-fe83-4a18-b29e-c9290c18939a.html",
-     "title": "Zelensky, spero che l'esito delle midterm significhi più aiuti a Kiev"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-italia-armi-crosetto-news_784xxorvvsciPoVwztacjK",
-     "title": "Ucraina, Crosetto: \"Pronto nuovo pacchetto di aiuti\". Il 10 novembre audizione al Copasir"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/05/aiuti-militari-ucraina-crosetto-copasir-notizie/8561997/",
-     "title": "Aiuti militari all’Ucraina, Crosetto in Senato: “Pacchetto pronto, rispettiamo i patti con la Nato e coi nostri alleati europei”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Meloni scrive a Costa: 'Su Kiev serve una voce, a dicembre l'Ue decida'",
-   "summary": "L'offensiva contro il format E3 ma l'intesa resta lontana. Presto il pacchetto aiuti",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/meloni-a-costa-improcrastinabile-che-leuropa-parli-a-una-voce-sullucraina_702bc9dd-8958-4fb3-bb3e-581d4888fdcf.html",
-   "pub_ts": 1793906728,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/meloni-a-costa-improcrastinabile-che-leuropa-parli-a-una-voce-sullucraina_702bc9dd-8958-4fb3-bb3e-581d4888fdcf.html",
-     "title": "Meloni scrive a Costa: 'Su Kiev serve una voce, a dicembre l'Ue decida'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/05/news/ucraina_meloni_costa_ue_dicembre_negoziatore-425701460/",
-     "title": "Ucraina, Meloni a Costa: “Ue deve parlare a una voce sola, entro dicembre si decida il negoziatore”"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/melania-trump-scrive-a-putin-e-zelensky-tregua-a-oleshky-ispiri-pace-meloni-ue-parli-a-una-voce-2598bcbf-233d-4a6b-b322-d4d5f1d430e7.html",
+     "title": "Melania Trump scrive a Putin e Zelensky: tregua a Oleshky ispiri pace. Meloni: Ue parli a una voce"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni",
-   "summary": "Inutile riempire i magazzini di quadricotteri, obsoleti dopo pochi mesi. La strategia dell’Esercito è addestrare subito tanti piloti e prendere i sistemi in massa solo nel momento di necessità. Una sfida anche per l’industria",
-   "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/?rss",
-   "pub_ts": 1793890443,
+   "title": "Trump, 'vicini a un accordo tra Russia e Ucraina, riguarderà anche Europa'",
+   "summary": "Tycoon vede alla Casa Bianca inviato Putin ma non delegazione ucraina",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-vicini-a-un-accordo-tra-russia-e-ucraina-riguardera-anche-europa_67553661-865d-4fa1-b4e1-ceb51a1e699b.html",
+   "pub_ts": 1793916578,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/?rss",
-     "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-vicini-a-un-accordo-tra-russia-e-ucraina-riguardera-anche-europa_67553661-865d-4fa1-b4e1-ceb51a1e699b.html",
+     "title": "Trump, 'vicini a un accordo tra Russia e Ucraina, riguarderà anche Europa'"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/",
-     "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/05/trump-accordo-russia-ucraina-europa/",
+     "title": "Trump: «Vicini a un accordo tra Russia e Ucraina, riguarderà anche l’Europa»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "In California il governatore Gavin Newsom ha commutato tutte le 548 condanne a morte in ergastoli",
+   "summary": "",
+   "link": "https://www.ilpost.it/2026/11/05/commutazione-condanne-a-morte-ergastoli-california/",
+   "pub_ts": 1793915271,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/commutazione-condanne-a-morte-ergastoli-california/",
+     "title": "In California il governatore Gavin Newsom ha commutato tutte le 548 condanne a morte in ergastoli"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/california-condanna-a-morte-ergastoli-newsom_1CuyC6rpRJ55Xhbu2AGYB2",
+     "title": "In California il governatore Newsom commuta in ergastoli oltre 500 condanne a morte"
     }
    ]
   },
@@ -354,6 +280,50 @@
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/05/israele-eisenkot-supera-netanyahu-nelle-consultazioni-67-deputati-lo-indicano-per-guidare-il-governo/8562340/",
      "title": "Israele, Eisenkot “supera” Netanyahu nelle consultazioni: 67 deputati lo indicano per guidare il governo. Herzog deciderà domenica"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Terremoto repubblicano dopo il collasso alle urne. Rubio e Vance pronti a tradire Trump",
+   "summary": "Nel Gop è tutti contro tutti dopo la débâcle alle midterm, si parla di impeachment per Hegseth. Il segretario di Stato starebbe per dimettersi in vista delle presidenziali. Voci sul vicepresidente: «Sta lavorando ad una nuova coalizione di destra»",
+   "link": "https://www.editorialedomani.it/politica/mondo/midterm-terremoto-repubblicano-rubio-vance-pronti-a-tradire-trump-qfxnh20s",
+   "pub_ts": 1793907508,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/midterm-terremoto-repubblicano-rubio-vance-pronti-a-tradire-trump-qfxnh20s",
+     "title": "Terremoto repubblicano dopo il collasso alle urne. Rubio e Vance pronti a tradire Trump"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/04/analisi-sconfitta-repubblicani-midterm-jd-vance/",
+     "title": "JD Vance si è già distanziato da Trump"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Montenegro verso l’ingresso nella Ue nel 2028",
+   "summary": "BRUXELLES – Il Montenegro potrebbe aderire all’Unione europea già nel 2028, secondo un rapporto dedicato all’allargamento pubblicato mercoledì 4 novembre dalla Commissione europea qui a Bruxelles. L’esecutivo comunitario si aspetta...",
+   "link": "https://www.ilsole24ore.com/art/montenegro-l-ingresso-ue-2028-AJ9P625B",
+   "pub_ts": 1793855700,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/montenegro-l-ingresso-ue-2028-AJ9P625B",
+     "title": "Montenegro verso l’ingresso nella Ue nel 2028"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/midterm-tempesta-perfetta-fine-di-un-ciclo-politico-e-reset-verso-il-2028/",
+     "title": "Midterm, tempesta perfetta: fine di un ciclo politico e reset verso il 2028"
     }
    ]
   },
@@ -399,34 +369,34 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Zoom si affida alle IA con un occhio aperto sulla cybersecurity e sulla sovranità digitale",
-   "summary": "Agenti IA, deepfake, riunioni e documenti riservati e strumenti per proteggere le informazioni sensibili. Ecco cosa ha presentato Zoom durante l’evento Zoomtopia",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/zoom_ia_cybersecurity_digitale-425701805/?rss",
-   "pub_ts": 1793891075,
+   "title": "Meta, Tik Tok e Google hanno fatto causa alla California",
+   "summary": "Sostengono che una recente legge sulla tutela dei minori violi il primo emendamento, con possibili conseguenze a livello nazionale",
+   "link": "https://www.ilpost.it/2026/11/06/meta-tiktok-google-causa-california-adolescenti/",
+   "pub_ts": 1793920979,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/zoom_ia_cybersecurity_digitale-425701805/?rss",
-     "title": "Zoom si affida alle IA con un occhio aperto sulla cybersecurity e sulla sovranità digitale"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/06/meta-tiktok-google-causa-california-adolescenti/",
+     "title": "Meta, Tik Tok e Google hanno fatto causa alla California"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Apple MacBook Pro OLED, la prova: lo schermo conquista e toccarlo è un vantaggio",
-   "summary": "Apple porta per la prima volta il touchscreen sul MacBook Pro e lo accompagna con un nuovo pannello Tandem OLED, un design più leggero e i chip M5 Pro e M5 Max. Il risultato è un portatile che conserva l’impostazione classica del Mac, ma aggiunge un nuovo modo di interagire con...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/recensione-macbook-pro-oled-touchscreen-prezzo-425701634/?rss",
-   "pub_ts": 1793887260,
+   "title": "GPT-6 Cyber trova le vulnerabilità e non attacca nessuno",
+   "summary": "GPT-6 Cyber è il nuovo modello di OpenAI che può essere utilizzato per trovare vulnerabilità e scrivere exploit (accesso limitato ad alcuni partner). The post GPT-6 Cyber trova le vulnerabilità e non attacca nessuno appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/gpt-6-cyber-trova-le-vulnerabilita-e-non-attacca-nessuno/",
+   "pub_ts": 1793903355,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/recensione-macbook-pro-oled-touchscreen-prezzo-425701634/?rss",
-     "title": "Apple MacBook Pro OLED, la prova: lo schermo conquista e toccarlo è un vantaggio"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/gpt-6-cyber-trova-le-vulnerabilita-e-non-attacca-nessuno/",
+     "title": "GPT-6 Cyber trova le vulnerabilità e non attacca nessuno"
     }
    ]
   },
@@ -494,50 +464,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Addio a Tinto Brass, maestro del cinema erotico",
-   "summary": "Morto a Roma 93 anni. Una vita tra censure, tribunali e voyeurismo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
-   "pub_ts": 1793893654,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
-     "title": "Addio a Tinto Brass, maestro del cinema erotico"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/05/ruolo-cinema-erotico-italia/",
-     "title": "Dov’è finito il cinema erotico"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/e-morto-tinto-brass/",
-     "title": "È morto Tinto Brass"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Isabella Rossellini, 'mio padre Roberto era un cavalluccio marino'",
-   "summary": "L'attrice inaugura all'Academy Museum la retrospettiva dedicata al maestro del neorealismo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/isabella-rossellini-mio-padre-roberto-era-un-cavalluccio-marino_b987033c-bf3d-4c4f-89a0-603ca38b6d19.html",
-   "pub_ts": 1793902896,
+   "title": "Report torna con un'inchiesta su Lavitola, \"restiamo indipendenti\"",
+   "summary": "Di Pasquale e Piervincenzi: \"Ci occuperemo di politica\". Corsini: \"Da me nessuna tagliola\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/05/report-torna-con-uninchiesta-su-lavitola-restiamo-indipendenti_18259882-4eb6-4e14-ae55-c5b1016cd0b8.html",
+   "pub_ts": 1793902595,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/isabella-rossellini-mio-padre-roberto-era-un-cavalluccio-marino_b987033c-bf3d-4c4f-89a0-603ca38b6d19.html",
-     "title": "Isabella Rossellini, 'mio padre Roberto era un cavalluccio marino'"
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/05/report-torna-con-uninchiesta-su-lavitola-restiamo-indipendenti_18259882-4eb6-4e14-ae55-c5b1016cd0b8.html",
+     "title": "Report torna con un'inchiesta su Lavitola, \"restiamo indipendenti\""
     },
     {
-     "name": "Repubblica Cultura",
-     "link": "https://www.repubblica.it/robinson/2026/11/05/news/isabella_rossellini_intervista_padre_roberto_120_anni_nascita-425698718/?rss",
-     "title": "Isabella Rossellini: “Mio padre inseguiva soltanto la libertà”"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/05/report-riparte-da-uninchiesta-su-lavitola-dopo-lallontanamento-di-ranucci-non-potevamo-non-farlo/8562205/",
+     "title": "Report riparte da un’inchiesta su Lavitola dopo l’allontanamento di Ranucci: “Non potevamo non farlo”"
     }
    ],
    "subtype": "cultura"
@@ -564,23 +506,55 @@
     }
    ],
    "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia",
+   "summary": "Raccoglie 325 nuovi titoli, che saranno presentati all'International Children's Book Fair",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/05/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_c843034d-0320-48f4-b2e8-89e01d3ccbd0.html",
+   "pub_ts": 1793901456,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/05/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_c843034d-0320-48f4-b2e8-89e01d3ccbd0.html",
+     "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_5mTuK2CBgbegMXketMk9de",
+     "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia"
+    }
+   ],
+   "subtype": "cultura"
   }
  ],
  "articles": [
   {
-   "title": "Si dimette il presidente del Paraguay per lo scandalo Ueno Bank",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/si-dimette-il-presidente-del-paraguay-per-lo-scandalo-ueno-bank_3ad9a3cf-4a34-4522-9a75-5ab89940db3a.html",
-   "description": "Rimasto isolato, Santiago Peña era a un passo dall'impeachment",
-   "pub_ts": 1793909580,
+   "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+   "description": "Minaccia via email, almeno 7 riguardano l'Italia. L'ipotesi del coordinamento",
+   "pub_ts": 1793919821,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Paraguay, dal 6 novembre i rimborsi ai correntisti di Ueno Bank",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/paraguay-dal-6-novembre-i-rimborsi-ai-correntisti-di-ueno-bank_a3ae84c2-22f0-4155-b5f5-1be5314b3fa5.html",
+   "description": "Prima tranche fino a 10 milioni di guaraní, pagamenti entro cinque giorni lavorativi",
+   "pub_ts": 1793927346,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
-   "description": "Minaccia via email, almeno 7 riguardano l'Italia. L'ipotesi del coordinamento",
-   "pub_ts": 1793906310,
+   "title": "Trump non si arrende: 'Le elezioni negli Usa sono truccate'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/05/-trump-non-si-arrende-le-elezioni-negli-usa-sono-truccate_f97bbbdf-4ed5-49b4-a42c-7e13e9cdfec8.html",
+   "description": "Il tycoon pronto con i blitz prima di diventare 'anatra zoppa', dalla difesa ai migranti",
+   "pub_ts": 1793919499,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -595,56 +569,29 @@
    "section": "politica"
   },
   {
-   "title": "De Blasio: “Trump ha perso perché non è più un outsider ma simbolo della corruzione”",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/intervista_de_blasio_midterm_trump_ha_perso_perche_simbolo_corruzione-425699991/?rss",
-   "description": "L’ex sindaco di New York: “Il presidente paga gli errori nel Golfo, gli omicidi a Minneapolis di cittadini americani e i dazi, che hanno contribuito al carovita”",
-   "pub_ts": 1793904104,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/?rss",
-   "description": "A rischio il segretario alla Guerra: parte dei repubblicani voteranno la sua rimozione. Il presidente lo difende, ma potrebbe scaricarlo. Per lui pronto un posto da senatore",
-   "pub_ts": 1793907881,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Melania Trump consegna alle delegazioni due lettere per Putin e Zelensky",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/melania-trump-consegna-alle-delegazioni-due-lettere-per-putin-e-zelensky_9b36e016-ca96-43db-9c8d-18642e877d98.html",
    "description": "'Scritte personalmente'",
-   "pub_ts": 1793906604,
+   "pub_ts": 1793928060,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Zelensky, spero che l'esito delle midterm significhi più aiuti a Kiev",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-spero-che-lesito-delle-midterm-significhi-piu-aiuti-a-kiev_fecec247-fe83-4a18-b29e-c9290c18939a.html",
-   "description": "Presidente rompe silenzio su voto Usa, 'I Dem molto chiari nel sostegno all'Ucraina'",
-   "pub_ts": 1793898060,
+   "title": "Trump, 'vicini a un accordo tra Russia e Ucraina, riguarderà anche Europa'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-vicini-a-un-accordo-tra-russia-e-ucraina-riguardera-anche-europa_67553661-865d-4fa1-b4e1-ceb51a1e699b.html",
+   "description": "Tycoon vede alla Casa Bianca inviato Putin ma non delegazione ucraina",
+   "pub_ts": 1793916578,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Meloni scrive a Costa: 'Su Kiev serve una voce, a dicembre l'Ue decida'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/meloni-a-costa-improcrastinabile-che-leuropa-parli-a-una-voce-sullucraina_702bc9dd-8958-4fb3-bb3e-581d4888fdcf.html",
-   "description": "L'offensiva contro il format E3 ma l'intesa resta lontana. Presto il pacchetto aiuti",
-   "pub_ts": 1793906728,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni",
-   "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/?rss",
-   "description": "Inutile riempire i magazzini di quadricotteri, obsoleti dopo pochi mesi. La strategia dell’Esercito è addestrare subito tanti piloti e prendere i sistemi in massa solo nel momento di necessità. Una sfida anche per l’industria",
-   "pub_ts": 1793890443,
-   "source": "Repubblica Esteri",
+   "title": "In California il governatore Gavin Newsom ha commutato tutte le 548 condanne a morte in ergastoli",
+   "link": "https://www.ilpost.it/2026/11/05/commutazione-condanne-a-morte-ergastoli-california/",
+   "description": "",
+   "pub_ts": 1793915271,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "politica"
   },
@@ -654,6 +601,24 @@
    "description": "Il presidente israeliano Isaac Herzog prosegue la seconda giornata di consultazioni per l’incarico verso la formazione del prossimo governo. La maggioranza utile per sedersi in Parlamento è di 61 seggi",
    "pub_ts": 1793908631,
    "source": "Domani",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Terremoto repubblicano dopo il collasso alle urne. Rubio e Vance pronti a tradire Trump",
+   "link": "https://www.editorialedomani.it/politica/mondo/midterm-terremoto-repubblicano-rubio-vance-pronti-a-tradire-trump-qfxnh20s",
+   "description": "Nel Gop è tutti contro tutti dopo la débâcle alle midterm, si parla di impeachment per Hegseth. Il segretario di Stato starebbe per dimettersi in vista delle presidenziali. Voci sul vicepresidente: «Sta lavorando ad una nuova coalizione di destra»",
+   "pub_ts": 1793907508,
+   "source": "Domani",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Montenegro verso l’ingresso nella Ue nel 2028",
+   "link": "https://www.ilsole24ore.com/art/montenegro-l-ingresso-ue-2028-AJ9P625B",
+   "description": "BRUXELLES – Il Montenegro potrebbe aderire all’Unione europea già nel 2028, secondo un rapporto dedicato all’allargamento pubblicato mercoledì 4 novembre dalla Commissione europea qui a Bruxelles. L’esecutivo comunitario si aspetta...",
+   "pub_ts": 1793855700,
+   "source": "Sole 24 Ore Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -676,20 +641,20 @@
    "section": "tech"
   },
   {
-   "title": "Zoom si affida alle IA con un occhio aperto sulla cybersecurity e sulla sovranità digitale",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/zoom_ia_cybersecurity_digitale-425701805/?rss",
-   "description": "Agenti IA, deepfake, riunioni e documenti riservati e strumenti per proteggere le informazioni sensibili. Ecco cosa ha presentato Zoom durante l’evento Zoomtopia",
-   "pub_ts": 1793891075,
-   "source": "Repubblica Tecnologia",
+   "title": "Meta, Tik Tok e Google hanno fatto causa alla California",
+   "link": "https://www.ilpost.it/2026/11/06/meta-tiktok-google-causa-california-adolescenti/",
+   "description": "Sostengono che una recente legge sulla tutela dei minori violi il primo emendamento, con possibili conseguenze a livello nazionale",
+   "pub_ts": 1793920979,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Apple MacBook Pro OLED, la prova: lo schermo conquista e toccarlo è un vantaggio",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/05/news/recensione-macbook-pro-oled-touchscreen-prezzo-425701634/?rss",
-   "description": "Apple porta per la prima volta il touchscreen sul MacBook Pro e lo accompagna con un nuovo pannello Tandem OLED, un design più leggero e i chip M5 Pro e M5 Max. Il risultato è un portatile che conserva l’impostazione classica del Mac, ma aggiunge un nuovo modo di interagire con...",
-   "pub_ts": 1793887260,
-   "source": "Repubblica Tecnologia",
+   "title": "GPT-6 Cyber trova le vulnerabilità e non attacca nessuno",
+   "link": "https://www.punto-informatico.it/gpt-6-cyber-trova-le-vulnerabilita-e-non-attacca-nessuno/",
+   "description": "GPT-6 Cyber è il nuovo modello di OpenAI che può essere utilizzato per trovare vulnerabilità e scrivere exploit (accesso limitato ad alcuni partner). The post GPT-6 Cyber trova le vulnerabilità e non attacca nessuno appeared first on Punto Informatico .",
+   "pub_ts": 1793903355,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
@@ -712,19 +677,10 @@
    "section": "varia"
   },
   {
-   "title": "Addio a Tinto Brass, maestro del cinema erotico",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/addio-a-tinto-brass-maestro-del-cinema-erotico_bf039226-75f9-4f5f-867e-ae386d7959e0.html",
-   "description": "Morto a Roma 93 anni. Una vita tra censure, tribunali e voyeurismo",
-   "pub_ts": 1793893654,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Isabella Rossellini, 'mio padre Roberto era un cavalluccio marino'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/isabella-rossellini-mio-padre-roberto-era-un-cavalluccio-marino_b987033c-bf3d-4c4f-89a0-603ca38b6d19.html",
-   "description": "L'attrice inaugura all'Academy Museum la retrospettiva dedicata al maestro del neorealismo",
-   "pub_ts": 1793902896,
+   "title": "Report torna con un'inchiesta su Lavitola, \"restiamo indipendenti\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/05/report-torna-con-uninchiesta-su-lavitola-restiamo-indipendenti_18259882-4eb6-4e14-ae55-c5b1016cd0b8.html",
+   "description": "Di Pasquale e Piervincenzi: \"Ci occuperemo di politica\". Corsini: \"Da me nessuna tagliola\"",
+   "pub_ts": 1793902595,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -735,6 +691,15 @@
    "description": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
    "pub_ts": 1793902387,
    "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Vetrina trilingue di Newitalianbooks a Shanghai con il libro italiano per l'infanzia",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/05/vetrina-trilingue-di-newitalianbooks-a-shanghai-con-il-libro-italiano-per-linfanzia_c843034d-0320-48f4-b2e8-89e01d3ccbd0.html",
+   "description": "Raccoglie 325 nuovi titoli, che saranno presentati all'International Children's Book Fair",
+   "pub_ts": 1793901456,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   }
