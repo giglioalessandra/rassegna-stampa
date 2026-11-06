@@ -1,6 +1,6 @@
 {
- "generated_at": 1793956170,
- "updated_at": 1793956170,
+ "generated_at": 1793985506,
+ "updated_at": 1793985506,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,48 +9,122 @@
  "items": [
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Midterm, anche l'amico Farage abbandona Trump: “Non mi porta voti. E che errore madornale in Iran”",
-   "summary": "Intervista al leader della destra britannica: “Il presidente Usa ha infranto la promessa di non scatenare guerre all’estero e la sta pagando. E non ho mai pensato che il mio rapporto con Donald mi avrebbe aiutato politicamente nel Regno Unito\"",
-   "link": "https://www.repubblica.it/esteri/2026/11/06/news/midterm_usa_farage_abbandona_trump_non_mi_porta_voti_errore_guerra_iran-425703408/?rss",
-   "pub_ts": 1793954270,
+   "area": "italia",
+   "title": "Ancora allarmi bomba nei cieli europei, coinvolti due voli da e per l'Italia. Email: 'E' solo l'inizio'",
+   "summary": "Un Ryanair proveniente da Fiumicino e atterrato a Lisbona e un Wizzair Praga-Roma deviato su Venezia. Allerta anche all'aeroporto di Copenaghen e su 4 aerei che sorvolavano la Francia: tre sono atterrati a Orly e il quarto a Bordeaux",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/allarme-bomba-su-un-aereo-proveniente-da-roma-atterrato-a-lisbona_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
+   "pub_ts": 1793981581,
    "n_sources": 8,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/06/news/midterm_usa_farage_abbandona_trump_non_mi_porta_voti_errore_guerra_iran-425703408/?rss",
-     "title": "Midterm, anche l'amico Farage abbandona Trump: “Non mi porta voti. E che errore madornale in Iran”"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/allarme-bomba-su-un-aereo-proveniente-da-roma-atterrato-a-lisbona_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
+     "title": "Ancora allarmi bomba nei cieli europei, coinvolti due voli da e per l'Italia. Email: 'E' solo l'inizio'"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/05/trump-insiste-o-certifico-laccordo-con-liran-o-li-distruggo_e529db6a-39d7-4945-ad0f-2e0b85f99004.html",
-     "title": "Trump insiste, 'o certifico l'accordo con l'Iran o li distruggo'"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html",
+     "title": "Nuovi allarmi bomba, coinvolti due voli in Italia"
     },
     {
      "name": "Open",
-     "link": "https://www.open.online/2026/11/06/donald-trump-guerra-iran-opzioni/",
-     "title": "Le tre opzioni di Trump sull’Iran"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/06/news/midterm_usa_farage_abbandona_trump_non_mi_porta_voti_errore_guerra_iran-425703408/",
-     "title": "Midterm, anche l'amico Farage abbandona Trump: “Non mi porta voti. E che errore madornale in Iran”"
+     "link": "https://www.open.online/2026/11/06/lisbona-allarme-aereo-roma/",
+     "title": "Allarmi bomba in Europa, coinvolti due voli da e per l’Italia. Caccia ungheresi in azione. La rivendicazione: «È solo l’inizio» – La diretta"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/trump-sconfitto-trascina-con-se-anche-il-futuro-di-netanyahu-c1669e0a-9b44-4088-8a18-7e2d14f5a988.html",
-     "title": "Trump: forse dovrò distruggere Iran. Teheran: risponderemo senza alcuna restrizione geografica"
+     "link": "https://www.rainews.it/maratona/2026/11/allarme-bomba-su-voli-fiumicino-malpensa-623c1d23-2439-4b79-b58d-c61ddb25677d.html",
+     "title": "Allarmi bomba in Europa, anche voli da e per l'Italia. Minacce a media Irlandesi, redazioni evacuate"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/06/allarmi-bomba-aerei-roma/",
+     "title": "Il quarto giorno di allarmi bomba in Europa"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/irlanda-allarmi-bomba-contro-media-evacuazioni-dublino-AJ2UR66B",
+     "title": "Irlanda, allarmi bomba contro i media: evacuazioni a Dublino"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-midterm-nuovo-congresso-democratici_74MsDACtJMSeSTjPVSsLAS",
-     "title": "Trump e il nuovo Congresso, dai dazi all'Iran: le sfide tra presidente e democratici"
+     "link": "https://www.adnkronos.com/internazionale/esteri/allarmi-bomba-irlanda_2AtPgQ8eC1PPg2jrMYKD4C",
+     "title": "Allarme bomba in Irlanda, evacuate sedi di tv e quotidiano a Dublino: \"Sembra minaccia coordinata con aerei\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/06/diretta/alllarmi_bomba_ryanair_roma_lisbona-425703663/",
+     "title": "Nuovi allarmi bomba: voli bloccati, evacuati tv e giornali. La rivendicazione: “È solo l’inizio”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Monta la protesta in Paraguay, al via il processo di impeachment a Santiago Peña",
+   "summary": "In piazza anche migliaia di impiegati della holding finita in bancarotta con Ueno Bank",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/monta-la-protesta-in-paraguay-nonostante-si-vada-verso-limpeachment-al-presidente_b5c78e44-e52e-43f5-ad28-a2227aab6d8e.html",
+   "pub_ts": 1793984806,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/monta-la-protesta-in-paraguay-nonostante-si-vada-verso-limpeachment-al-presidente_b5c78e44-e52e-43f5-ad28-a2227aab6d8e.html",
+     "title": "Monta la protesta in Paraguay, al via il processo di impeachment a Santiago Peña"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/paraguay-dal-6-novembre-i-rimborsi-ai-correntisti-di-ueno-bank_a3ae84c2-22f0-4155-b5f5-1be5314b3fa5.html",
+     "title": "Paraguay, dal 6 novembre i rimborsi ai correntisti di Ueno Bank"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/paraguay-crac-ueno-bank-legami-presidente-pena-crisi-bancaria_4zPPDMxbzGvKtDgmVCXaY0",
+     "title": "Paraguay, dai legami con Ueno Bank all'impeachment: la crisi che ha travolto Pena"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/paraguay-presidente-pena-si-dimette-il-caos-ueno-bank-AJ9OSV6B",
+     "title": "Paraguay, il presidente Peña si dimette dopo il caos di Ueno Bank"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/midterm-usa-effetti-ue-destre-europa-meloni-le-pen-xx5cbt9p",
-     "title": "Gli effetti del midterm sull’Europa: «Trump chi?», i sovranisti si riassettano"
+     "link": "https://www.editorialedomani.it/politica/mondo/paraguay-in-tilt-crac-banca-ueno-si-dimette-presidente-pena-q8a8wsei",
+     "title": "Paraguay in tilt: crac della banca Ueno e si dimette il presidente"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Portavoce dipartimento Stato, 'notizie su dimissioni Rubio sono fake news'",
+   "summary": "'Assolutamente infondate'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/portavoce-dipartimento-stato-notizie-su-dimissioni-rubio-sono-fake-news_2994e8a5-949f-44c4-a4c2-81576ccb1b20.html",
+   "pub_ts": 1793976780,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/portavoce-dipartimento-stato-notizie-su-dimissioni-rubio-sono-fake-news_2994e8a5-949f-44c4-a4c2-81576ccb1b20.html",
+     "title": "Portavoce dipartimento Stato, 'notizie su dimissioni Rubio sono fake news'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
+     "title": "Trump: \"Le nostre elezioni sono truccate\". Il Dipartimento di Stato smentisce le dimissioni di Rubio"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-midterm-truccate-iran-ucraina_7MEd8vZ470kKfbpSx2dcQU",
+     "title": "Trump dopo la sconfitta: \"Le nostre elezioni sono truccate. L'Iran? Forse dovrò distruggerlo, presto saprete\""
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/trump-meta-mandato-medio-oriente/",
+     "title": "Dopo la sconfitta, Trump è in difficoltà anche in Medio Oriente"
     },
     {
      "name": "Nicola Porro",
@@ -62,79 +136,172 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Paraguay nel caos con i conti in banca bloccati, si dimette Pena",
-   "summary": "Da oggi i rimborsi ai correntisti di Ueno Bank",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/paraguay-nel-caos-con-i-conti-in-banca-bloccati-si-dimette-pena_77185d4b-03d6-4cfb-8b27-276b2aba3123.html",
-   "pub_ts": 1793953383,
-   "n_sources": 7,
+   "title": "La Consulta: 'La Procura può procedere su Bartolozzi per false dichiarazioni'",
+   "summary": "Il tribunale dei ministri doveva dire perché sul caso Almasri non era concorrente in altri reati",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/consulta-la-procura-puo-procedere-su-bartolozzi-per-false-dichiarazioni-_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
+   "pub_ts": 1793983920,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/paraguay-nel-caos-con-i-conti-in-banca-bloccati-si-dimette-pena_77185d4b-03d6-4cfb-8b27-276b2aba3123.html",
-     "title": "Paraguay nel caos con i conti in banca bloccati, si dimette Pena"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/consulta-la-procura-puo-procedere-su-bartolozzi-per-false-dichiarazioni-_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
+     "title": "La Consulta: 'La Procura può procedere su Bartolozzi per false dichiarazioni'"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/paraguay-dal-6-novembre-i-rimborsi-ai-correntisti-di-ueno-bank_a3ae84c2-22f0-4155-b5f5-1be5314b3fa5.html",
-     "title": "Paraguay, dal 6 novembre i rimborsi ai correntisti di Ueno Bank"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/consulta-la-procura-puo-procedere-su-bartolozzi-per-false-dichiarazioni_7022d3d2-003d-430c-bbc8-6a8870e8a85e.html",
+     "title": "Consulta, la procura può procedere su Bartolozzi per false dichiarazioni"
     },
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/paraguay_senza_piu_soldi_in_banca_per_il_crac_della_ueno-425701871/?rss",
-     "title": "Incubo Paraguay, mezzo Paese si sveglia senza più soldi in banca. Il presidente si dimette"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/paraguay-presidente-pena-si-dimette-il-caos-ueno-bank-AJ9OSV6B",
-     "title": "Paraguay, il presidente Peña si dimette dopo il caos di Ueno Bank"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/caso-almasri-consulta-su-bartolozzi-no-obbligo-autorizzazione-cc5f8710-2ca0-40da-9cda-966d9a0286b8.html",
+     "title": "Caso Almasri, Consulta: su Bartolozzi nessun obbligo Procura e Tribunale di chiedere autorizzazione"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/paraguay-in-tilt-crac-banca-ueno-si-dimette-presidente-pena-q8a8wsei",
-     "title": "Paraguay in tilt: crac della banca Ueno e si dimette il presidente"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/paraguay-crac-ueno-bank-dimissioni-pena_3uaNAkEwArgh1ojR8XUgm6",
-     "title": "Caos in Paraguay, Ueno Bank e mezzo Paese si sveglia col conto svuotato: il presidente Peñ﻿a si dimette"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/06/crac-ueno-bank-paraguay-impeachment-pena-notizie/8562647/",
-     "title": "Crac Ueno Bank, Peña in stato di accusa: il presidente del Paraguay era socio dei gruppi che controllavano la banca"
+     "link": "https://www.editorialedomani.it/politica/italia/bartolozzi-consulta-ricorso-parzialmente-ammissibile-camera-roma-procura-go9f5je1",
+     "title": "Caso Almasri, la Consulta: Bartolozzi potrà essere processata, non serviva l’autorizzazione della Camera"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Al via il viaggio apostolico del Papa in Sudamerica. 'Desideri di pace per quei popoli'",
-   "summary": "Il Pontefice partito da Fiumicino, prima tappa Montevideo. Il messaggio di saluto a Mattarella",
-   "link": "https://www.ansa.it/vaticano/notizie/2026/11/06/al-via-il-viaggio-apostolico-del-papa-in-sudamerica.-desideri-di-pace-per-quei_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-   "pub_ts": 1793955291,
+   "title": "Tajani conferma, 'italiani fermati in Cisgiordania, non hanno fatto nulla'",
+   "summary": "'Seguiamo il caso, speriamo siano rimandati al più presto in Italia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla_50e96e81-bb2e-463a-bd84-7a998d685c3a.html",
+   "pub_ts": 1793981863,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/vaticano/notizie/2026/11/06/al-via-il-viaggio-apostolico-del-papa-in-sudamerica.-desideri-di-pace-per-quei_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-     "title": "Al via il viaggio apostolico del Papa in Sudamerica. 'Desideri di pace per quei popoli'"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla_50e96e81-bb2e-463a-bd84-7a998d685c3a.html",
+     "title": "Tajani conferma, 'italiani fermati in Cisgiordania, non hanno fatto nulla'"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/il-papa-in-sudamerica-dopo-il-tumore-le-tappe-del-viaggio_9c1d5d36-f115-42f3-9c82-296c69fc8c89.html",
-     "title": "Il Papa in Sudamerica dopo il tumore, le tappe del viaggio"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
+     "title": "Attivisti fermati in Cisgiordania, ci sono anche sei italiani"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/papa-leone-xiv-viaggio-apostolico-in-uruguay-argentina-e-peru-pontefice-38858411-8e7e-4d4e-8e59-931552e919c8.html",
-     "title": "Papa Leone partito per il Sudamerica, saluto a Mattarella: \"In America Latina con desideri di pace\""
+     "link": "https://www.rainews.it/maratona/2026/11/trump-sconfitto-trascina-con-se-anche-il-futuro-di-netanyahu-c1669e0a-9b44-4088-8a18-7e2d14f5a988.html",
+     "title": "Cisgiordania, Tajani: \"Fermati sei italiani, non hanno fatto nulla. Siano rimandati in Italia\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/06/cisgiordania-attivisti-italiani-arrestati-notizie/8563438/",
+     "title": "Israele arresta la consigliera di Avs Giorgia Lombardi insieme ad altri 13 volontari in Cisgiordania. Tajani: “Non hanno fatto nulla”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Giorgia Meloni in sella ad un cavallo bianco alla fiera di Verona",
+   "summary": "La premier ha fatto visita a Fieracavalli, storico evento equestre veneto",
+   "link": "https://www.ansa.it/sito/videogallery/short_video/2026/11/06/giorgia-meloni-in-sella-ad-un-cavallo-bianco-alla-fiera-di-verona_ff2d38e9-c47e-4f21-88a4-30744026578c.html",
+   "pub_ts": 1793984340,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/videogallery/short_video/2026/11/06/giorgia-meloni-in-sella-ad-un-cavallo-bianco-alla-fiera-di-verona_ff2d38e9-c47e-4f21-88a4-30744026578c.html",
+     "title": "Giorgia Meloni in sella ad un cavallo bianco alla fiera di Verona"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/meloni-a-fieracavalli-la-premier-sale-in-sella_8e93170d-026d-46e2-97d1-39ae07a89002.html",
+     "title": "Meloni a Fieracavalli, la premier sale in sella"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/fieracavalli-a-verona-la-piu-grande-di-sempre-attesa-la-meloni-nel-pomeriggio-6f2cc649-4edf-416a-b55c-34152962cd03.html",
+     "title": "Fieracavalli a Verona, la più grande di sempre. Anche la premier Giorgia Meloni tra i padiglioni"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump ammette con i sostenitori: 'Le midterm non sono andate come volevamo'",
+   "summary": "Il messaggio tramite la sua campagna, 'non mi arrenderò mai' . Il cappellino 'Veto' è diventato parte dell'arredamento dello Studio Ovale",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/06/trump-ammette-con-i-sostenitori-le-midterm-non-sono-andate-come-volevamo_4b1dc648-5e25-4e4c-856c-8a949fe1762f.html",
+   "pub_ts": 1793983995,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/06/trump-ammette-con-i-sostenitori-le-midterm-non-sono-andate-come-volevamo_4b1dc648-5e25-4e4c-856c-8a949fe1762f.html",
+     "title": "Trump ammette con i sostenitori: 'Le midterm non sono andate come volevamo'"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/06/diretta/trump_elezioni_midterm_iran_impeachment_ultime_news-425703304/",
+     "title": "Trump e le elezioni di midterm, le news. Rubio: “Pronto a sostenere Vance nel 2028”"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/papa-leone-america-latina-ombra-trump-a1jcwh4w",
-     "title": "Leone parte per l’America Latina, con l’ombra di Trump"
+     "link": "https://www.editorialedomani.it/politica/mondo/usa-hegseth-sfida-il-congresso-limpeachment-fallira-rubio-pronto-a-sostenere-vance-per-il-2028-yqojkls8",
+     "title": "Usa, Hegseth sfida il Congresso: «L’impeachment fallirà». Rubio pronto a sostenere Vance per il 2028"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Opposizioni all'attacco su Altieri all'Anac, Meloni: 'Era nelle nostre competenze'",
+   "summary": "Pd: 'La nomina è un fatto gravissimo'. M5s: 'Il governo vuole mettere il controllore sotto tutela politica'. Nasce un caso sull'incompatibilità",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/opposizioni-allattacco-su-altieri-allanac-meloni-era-nelle-nostre-competenze_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+   "pub_ts": 1793982426,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/opposizioni-allattacco-su-altieri-allanac-meloni-era-nelle-nostre-competenze_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+     "title": "Opposizioni all'attacco su Altieri all'Anac, Meloni: 'Era nelle nostre competenze'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/opposizioni-allattacco-su-altieri-allanac-meloni-era-nelle-nostre-competenze_f62f5871-1581-45e0-8e5f-a5550e6e6e2b.html",
+     "title": "Opposizioni all'attacco su Altieri all'Anac, Meloni: 'Era nelle nostre competenze'"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://milano.repubblica.it/cronaca/2026/11/06/news/trifone_altieri_nomina_presidente_anac_meloni_nostra_competenza_farlo_polemica-425704304/",
+     "title": "Trifone Altieri nominato alla guida di Anac, Meloni tira dritto: “Era nelle nostre competenze farlo”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Impugnata la legge del Veneto sul fine vita, il governo si divide",
+   "summary": "Salvini non vota, Calderoli contrario. Zaia difende scelta. Tajani: 'Ora una normativa nazionale'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
+   "pub_ts": 1793978868,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
+     "title": "Impugnata la legge del Veneto sul fine vita, il governo si divide"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/governo-impugna-legge-regionale-veneto-suicidio-assistito/",
+     "title": "Il governo impugnerà anche la legge sul suicidio assistito del Veneto, l’unica regione di centrodestra ad averne una"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/caro-porro-ti-dico-perche-il-governo-ha-fatto-bene-a-bocciare-la-legge-sul-fine-vita/",
+     "title": "Caro Porro, ti dico perché il governo ha fatto bene a bocciare la legge sul fine vita"
     }
    ]
   },
@@ -144,19 +311,14 @@
    "title": "California, il governatore Newsom grazia tutti i 548 condannati a morte del suo Stato",
    "summary": "Non era mai successo nella storia. Il democratico presto dovrebbe dimettersi per correre alle presidenziali del 2028",
    "link": "https://www.repubblica.it/esteri/2026/11/05/news/california_il_governatore_newsom_grazia_tutti_i_548_condannati_a_morte-425702602/?rss",
-   "pub_ts": 1793943780,
-   "n_sources": 4,
+   "pub_ts": 1793915271,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/05/news/california_il_governatore_newsom_grazia_tutti_i_548_condannati_a_morte-425702602/?rss",
      "title": "California, il governatore Newsom grazia tutti i 548 condannati a morte del suo Stato"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/california-senza-piu-detenuti-nel-braccio-della-morte-la-decisione-del-governatore-newsom-db0aa8f5-d05a-4cfb-82de-275733c9f127.html",
-     "title": "California senza più detenuti nel braccio della morte: la decisione del governatore Newsom"
     },
     {
      "name": "Il Post",
@@ -171,78 +333,19 @@
    ]
   },
   {
-   "category": "politica",
-   "area": "italia",
-   "title": "Impugnata la legge del Veneto sul fine vita, il governo si divide",
-   "summary": "Salvini non vota, Calderoli contrario. Zaia difende scelta. Tajani: 'Ora una normativa nazionale'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
-   "pub_ts": 1793923200,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
-     "title": "Impugnata la legge del Veneto sul fine vita, il governo si divide"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/il-governo-impugna-la-legge-del-veneto-sul-fine-vita-salvini-non_1a4520b4-1790-46bc-bb6c-6a8087285d0f.html",
-     "title": "Il governo impugna la legge del Veneto sul fine vita, Salvini non vota in Cdm"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/06/news/fine_vita_legge_veneta_lite_cdm_salvini_va_via-425702867/",
-     "title": "Fine vita, la legge veneta impugnata dal governo: lite in Cdm, Salvini va via"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/05/governo-impugna-legge-regionale-veneto-suicidio-assistito/",
-     "title": "Il governo impugnerà anche la legge sul suicidio assistito del Veneto, l’unica regione di centrodestra ad averne una"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Hegseth contrattacca: 'Impeachment non è servito con Trump e non servirà con me'",
-   "summary": "Il deputato repubblicano 'Massie scontento e sconfitto'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/hegseth-contrattacca-impeachment-non-e-servito-con-trump-e-non-servira-con_f03ea8b4-6728-4ca4-856f-3902e7c08eff.html",
-   "pub_ts": 1793936792,
+   "category": "tech",
+   "area": null,
+   "title": "Meta, Google e TikTok fanno causa alla California",
+   "summary": "La legge AB 1709, in vigore dal 1 gennaio, non vieta i social ai ragazzi: toglie le funzioni che litengono incollati allo schermo. Una strada diversa dal divieto totale scelto dall'Australia e, inparte, dall'Europa. Le piattaforme la contestano",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/meta_google_e_tiktok_fanno_causa_alla_california_minori_social-425704578/?rss",
+   "pub_ts": 1793977865,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/hegseth-contrattacca-impeachment-non-e-servito-con-trump-e-non-servira-con_f03ea8b4-6728-4ca4-856f-3902e7c08eff.html",
-     "title": "Hegseth contrattacca: 'Impeachment non è servito con Trump e non servirà con me'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/?rss",
-     "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/",
-     "title": "Hegseth paga il crollo elettorale, pronto l’impeachment dei dem. Trump: “Resterà al suo posto”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Usa, 13enne pianifica il suicidio su Google: i genitori fanno causa all’azienda",
-   "summary": "La ragazzina avrebbe organizzato anche il suo funerale con un computer della scuola L'articolo Usa, 13enne pianifica il suicidio su Google: i genitori fanno causa all’azienda proviene da Open.",
-   "link": "https://www.open.online/2026/11/06/usa-suicidio-funerale-giovane-causa-google/",
-   "pub_ts": 1793953168,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/06/usa-suicidio-funerale-giovane-causa-google/",
-     "title": "Usa, 13enne pianifica il suicidio su Google: i genitori fanno causa all’azienda"
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/meta_google_e_tiktok_fanno_causa_alla_california_minori_social-425704578/?rss",
+     "title": "Meta, Google e TikTok fanno causa alla California"
     },
     {
      "name": "Adnkronos Esteri",
@@ -250,180 +353,115 @@
      "title": "\"Gemini aiutò nostra figlia 13enne a suicidarsi\", genitori accusano e fanno causa a Google"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/usa-genitori-fanno-causa-a-google-gemini-ha-spinto-nostra-figlia-verso-il-suicidio-23352813-dfd8-43ce-8df7-21cef92f70b5.html",
-     "title": "Usa, genitori fanno causa a Google: \"Gemini ha spinto nostra figlia verso il suicidio\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Ucraina, attacco russo alle infrastrutture energetiche nelle regioni di Kiev e Mykolaiv",
-   "summary": "Nella regione di Kiev si registrano tre feriti a seguito di un attacco notturno delle truppe russe",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/ucraina-attacco-russo-alle-infrastrutture-energetiche-nelle-regioni-di-kiev-e-mykolaiv_c1163e7e-2c0f-47e8-8f27-148f3c38a8fc.html",
-   "pub_ts": 1793953342,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/ucraina-attacco-russo-alle-infrastrutture-energetiche-nelle-regioni-di-kiev-e-mykolaiv_c1163e7e-2c0f-47e8-8f27-148f3c38a8fc.html",
-     "title": "Ucraina, attacco russo alle infrastrutture energetiche nelle regioni di Kiev e Mykolaiv"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/melania-trump-scrive-a-putin-e-zelensky-tregua-a-oleshky-ispiri-pace-meloni-ue-parli-a-una-voce-2598bcbf-233d-4a6b-b322-d4d5f1d430e7.html",
-     "title": "Attacco russo su infrastrutture energetiche. Zelensky: Kiev si adegui al nuovo quadro politico Usa"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump ha aggiunto il cappellino 'Veto' all'arredamento dello Studio Ovale",
-   "summary": "Il copricapo è ora appoggiato sul Resolute Desk",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/trump-ha-aggiunto-il-cappellino-veto-allarredamento-dello-studio-ovale_04fca80e-faec-479e-9e07-960fbcca83a3.html",
-   "pub_ts": 1793942891,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/trump-ha-aggiunto-il-cappellino-veto-allarredamento-dello-studio-ovale_04fca80e-faec-479e-9e07-960fbcca83a3.html",
-     "title": "Trump ha aggiunto il cappellino 'Veto' all'arredamento dello Studio Ovale"
-    },
-    {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/06/trump-studio-ovale-monumento-nazionale/",
-     "title": "Trump ha dichiarato lo Studio Ovale monumento nazionale, ma i suoi successori potranno ancora modificarlo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "La guida dell’Anac al leghista pugliese Altieri: “Decisione gravissima”",
-   "summary": "Meloni sceglie Trifone “Nuccio” Altieri per l’Anticorruzione: vigilerà sugli appalti pubblici. Opposizioni all’attacco",
-   "link": "https://www.repubblica.it/economia/2026/11/06/news/anac_trifone_nuccio_altieri_presidente_leghista_chi_e-425702946/",
-   "pub_ts": 1793953178,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/06/news/anac_trifone_nuccio_altieri_presidente_leghista_chi_e-425702946/",
-     "title": "La guida dell’Anac al leghista pugliese Altieri: “Decisione gravissima”"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/06/nomine-lega-anac-consob-opposizioni-notizie/8562645/",
-     "title": "Il leghista Altieri all’Anac, le opposizioni insorgono: “Attacco all’autonomia dell’Anticorruzione, l’hanno uccisa”"
+     "link": "https://www.ilpost.it/2026/11/06/meta-tiktok-google-causa-california-adolescenti/",
+     "title": "Meta, TikTok e Google hanno fatto causa alla California"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA",
-   "summary": "Il 9 novembre, Barachini presidente di giuria. Lectio magistralis di padre Benanti",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_432cb0e6-c762-4533-9364-d2e2ce7cb63b.html",
-   "pub_ts": 1793883874,
+   "title": "I risultati dell’indagine Ue su TikTok: l’algoritmo spinge gli utenti dentro spirali pericolose",
+   "summary": "La Commissione europea ha comunicato i risultati preliminari della sua indagine sugli algoritmi di TikTok: il social favorirebbe contenuti potenzialmente dannosi su depressione, isolamento e aspetto fisico. Se la violazione del Digital Services Act sarà confermata, la...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/tiktok-ue-algoritmo-contenuti-dannosi-dsa-425704142/?rss",
+   "pub_ts": 1793975484,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_432cb0e6-c762-4533-9364-d2e2ce7cb63b.html",
-     "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA"
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/tiktok-ue-algoritmo-contenuti-dannosi-dsa-425704142/?rss",
+     "title": "I risultati dell’indagine Ue su TikTok: l’algoritmo spinge gli utenti dentro spirali pericolose"
     },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/tiktok-algoritmo-suggerimenti-non-rispetta-dsa/",
+     "title": "TikTok: l’algoritmo dei suggerimenti non rispetta il DSA"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Meta lancia negli Usa le videochiamate con Muse, il suo avatar IA",
+   "summary": "Il chatbot è animato e risponde con varie sembianze. Entro l'anno il ciondolo interattivo",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/06/meta-lancia-negli-usa-le-videochiamate-con-muse-il-suo-avatar-ia_1e03bdc3-0f8b-43b0-8440-30a0c586add8.html",
+   "pub_ts": 1793980445,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
     {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_0835d49c-08bc-447d-b09c-7f2bb66cc647.html",
-     "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/06/meta-lancia-negli-usa-le-videochiamate-con-muse-il-suo-avatar-ia_1e03bdc3-0f8b-43b0-8440-30a0c586add8.html",
+     "title": "Meta lancia negli Usa le videochiamate con Muse, il suo avatar IA"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "App IO: arriva il messaggio di Agenzia delle Entrate sul rimborso",
-   "summary": "L'Agenzia delle Entrate comunica attraverso l'app IO, a chi ne ha diritto, l'erogazione di un rimborso: vediamo di cosa si tratta. The post App IO: arriva il messaggio di Agenzia delle Entrate sul rimborso appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/app-io-messaggio-agenzia-entrate-rimborso/",
-   "pub_ts": 1793955885,
+   "title": "Amodei chiede di rallentare lo sviluppo delle IA, ma Anthropic corre a doppia velocità",
+   "summary": "Uno studio indipendente rivela che i modelli di Anthropic migliorano più in fretta rispetto al passato recente, nel prospetto informativo che accompagna l’Ipo, l’azienda guidata da Dario Amodei indica l’accelerazione eccessiva tra i rischi legati allo sviluppo delle IA",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/amodei_rallentare_ia_ma_anthropic_corre-425704050/?rss",
+   "pub_ts": 1793974809,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/app-io-messaggio-agenzia-entrate-rimborso/",
-     "title": "App IO: arriva il messaggio di Agenzia delle Entrate sul rimborso"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Airbnb lancia un agente AI per pianificare e prenotare viaggi",
-   "summary": "Airbnb sta lavorando a un agente AI per pianificare e prenotare viaggi, in arrivo nella prima metà del 2027. Ecco come funziona. The post Airbnb lancia un agente AI per pianificare e prenotare viaggi appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/airbnb-agente-ai-pianificare-prenotare-viaggi/",
-   "pub_ts": 1793955335,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/airbnb-agente-ai-pianificare-prenotare-viaggi/",
-     "title": "Airbnb lancia un agente AI per pianificare e prenotare viaggi"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "La sfida del cybercrime globale: \"Nessun Paese può difendersi da solo\"",
-   "summary": "Dalla criminalità organizzata ai ransomware, la lotta ai reati informatici passa dalla collaborazione internazionale. La Convenzione di Budapest resta il principale strumento di coordinamento tra gli Stati",
-   "link": "https://www.rainews.it/articoli/2026/11/la-sfida-del-cybercrime-globale-nessun-paese-puo-difendersi-da-solo-e5b2b931-e794-40bb-b292-43ffc9ca9516.html",
-   "pub_ts": 1793955000,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/la-sfida-del-cybercrime-globale-nessun-paese-puo-difendersi-da-solo-e5b2b931-e794-40bb-b292-43ffc9ca9516.html",
-     "title": "La sfida del cybercrime globale: \"Nessun Paese può difendersi da solo\""
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/amodei_rallentare_ia_ma_anthropic_corre-425704050/?rss",
+     "title": "Amodei chiede di rallentare lo sviluppo delle IA, ma Anthropic corre a doppia velocità"
     }
    ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "L'attore Russell Brand condannato per stupro, va in carcere",
-   "summary": "Il giudice, 'lunga pena detentiva'. Tra le vittime una fan, altre donne lo accusano",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/05/lattore-e-web-star-russell-brand-condannato-per-stupro-e-aggressioni-sessuali_2879daed-a49e-4150-b9ae-20434d1286db.html",
-   "pub_ts": 1793945510,
-   "n_sources": 4,
+   "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
+   "summary": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
+   "pub_ts": 1793981898,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
+     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
+    },
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
+     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/06/trapianto-fegato-molinette-torino-notizie/8562829/",
+     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino. Salvato anche un bambino di 22 mesi"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Riaprono nel parco archeologico di Ercolano due domus chiuse per decenni",
+   "summary": "Tornano accessibili al pubblico la Casa dell'atrio a mosaico e la Casa a graticcio",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/riaprono-nel-parco-archeologico-di-ercolano-due-domus-chiuse-per-decenni_b678a6dd-9f14-4945-bc8c-c9c74be470f2.html",
+   "pub_ts": 1793970361,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/05/lattore-e-web-star-russell-brand-condannato-per-stupro-e-aggressioni-sessuali_2879daed-a49e-4150-b9ae-20434d1286db.html",
-     "title": "L'attore Russell Brand condannato per stupro, va in carcere"
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/riaprono-nel-parco-archeologico-di-ercolano-due-domus-chiuse-per-decenni_b678a6dd-9f14-4945-bc8c-c9c74be470f2.html",
+     "title": "Riaprono nel parco archeologico di Ercolano due domus chiuse per decenni"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/russell-brand-condanna-stupro-uk_Fi5bKfuGzRbrJZIEfXE4q",
-     "title": "Russell Brand condannato per stupro e aggressione sessuale: l'attore va in carcere"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/russell-brand-va-in-carcere-colpevole-di-stupro-e-tre-aggressioni-sessuali-d1b9d984-2504-4d82-b954-caf1be3a4d68.html",
-     "title": "Russell Brand va in carcere: colpevole di stupro e tre aggressioni sessuali"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/05/russel-brand-colpevole-stupro-violenza-sessuale/",
-     "title": "Il comico inglese Russell Brand è stato dichiarato colpevole di uno stupro e tre violenze sessuali"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/a-ercolano-riaprono-dopo-decenni-due-grandi-domus_2lqb2O5PWggi64SwSioMRk",
+     "title": "A Ercolano riaprono dopo decenni due grandi domus"
     }
    ],
    "subtype": "cultura"
@@ -431,27 +469,45 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Tuttifrutti. \"Wild Horse Nine\" con John Malkovich e la serie TV ad alta tensione \"Nocturne\"",
-   "summary": "Esce l'album che celebra i 50 anni di carriera di Gianna Nannini. Il dialogo tra culture alla Fondazione Prada a Milano, la collezione Sonnabend in mostra a Roma, il controtenore Carlo Vistoli e la musica sacra",
-   "link": "https://www.rainews.it/video/2026/11/tuttifrutti-wild-horse-nine-con-john-malkovich-e-la-serie-tv-ad-alta-tensione-nocturne-d81e5fd5-2195-4fea-b1c9-a3c4c9a2b073.html",
-   "pub_ts": 1793951640,
-   "n_sources": 3,
+   "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic",
+   "summary": "Giuli, 'avanti nell'impegno di restituire alla collettività testimonianze fondamentali'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
+   "pub_ts": 1793967107,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/tuttifrutti-wild-horse-nine-con-john-malkovich-e-la-serie-tv-ad-alta-tensione-nocturne-d81e5fd5-2195-4fea-b1c9-a3c4c9a2b073.html",
-     "title": "Tuttifrutti. \"Wild Horse Nine\" con John Malkovich e la serie TV ad alta tensione \"Nocturne\""
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
+     "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic"
     },
     {
-     "name": "Sole 24 Ore Cultura",
-     "link": "https://www.ilsole24ore.com/art/film-uscita-cosa-vedere-cinema-fine-settimana-AJ5Atr6B",
-     "title": "“Wild Horse Nine”, sceneggiatura a orologeria e grandissimi attori"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/il-mic-acquista-il-manoscritto-originale-di-forse-che-si-forse-che-no-di-gabriele-dannunzio_7BKG382LzTjmNPNlCAROki",
+     "title": "Il MiC acquista il manoscritto originale di 'Forse che sì forse che no' di Gabriele d'Annunzio"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Polizia Gb si aspetta molte altre accuse di violenze sessuali a Russell Brand",
+   "summary": "Dopo la condanna per stupro. Una dj, 'Bbc ha permesso la sua condotta'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/06/polizia-gb-si-aspetta-molte-altre-accuse-di-violenze-sessuali-a-russell-brand_7a69d88d-4dfb-45b1-99bd-202138562d52.html",
+   "pub_ts": 1793963186,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/06/polizia-gb-si-aspetta-molte-altre-accuse-di-violenze-sessuali-a-russell-brand_7a69d88d-4dfb-45b1-99bd-202138562d52.html",
+     "title": "Polizia Gb si aspetta molte altre accuse di violenze sessuali a Russell Brand"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/episodes/wild-horse-nine-e-il-miglior-film-dazione-dellanno/",
-     "title": "“Wild Horse Nine” e il miglior film d’azione dell’anno"
+     "link": "https://www.ilpost.it/2026/11/05/russel-brand-colpevole-stupro-violenza-sessuale/",
+     "title": "Il comico inglese Russell Brand è stato dichiarato colpevole di uno stupro e tre violenze sessuali"
     }
    ],
    "subtype": "cultura"
@@ -478,88 +534,78 @@
     }
    ],
    "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Al Torino Film Festival John Travolta, Pamela Anderson e Fanny Ardant",
-   "summary": "Base: \"Un festival al femminile, dieci registe su sedici film\". Chiude Villeneuve",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/al-torino-film-festival-john-travolta-pamela-anderson-e-fanny-ardant_c4e261cd-99f9-4790-a142-fb2e62b32988.html",
-   "pub_ts": 1793951820,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/al-torino-film-festival-john-travolta-pamela-anderson-e-fanny-ardant_c4e261cd-99f9-4790-a142-fb2e62b32988.html",
-     "title": "Al Torino Film Festival John Travolta, Pamela Anderson e Fanny Ardant"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/presentata-la-nuova-edizione-di-torino-film-festival-9b4eaec5-1981-4c03-899a-0cacdbc287b9.html",
-     "title": "Presentata la nuova edizione di Torino Film Festival"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
-   "summary": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
-   "pub_ts": 1793902387,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
-     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
-    },
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
-     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
-    }
-   ],
-   "subtype": "scienza"
   }
  ],
  "articles": [
   {
-   "title": "Midterm, anche l'amico Farage abbandona Trump: “Non mi porta voti. E che errore madornale in Iran”",
-   "link": "https://www.repubblica.it/esteri/2026/11/06/news/midterm_usa_farage_abbandona_trump_non_mi_porta_voti_errore_guerra_iran-425703408/?rss",
-   "description": "Intervista al leader della destra britannica: “Il presidente Usa ha infranto la promessa di non scatenare guerre all’estero e la sta pagando. E non ho mai pensato che il mio rapporto con Donald mi avrebbe aiutato politicamente nel Regno Unito\"",
-   "pub_ts": 1793954270,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Paraguay nel caos con i conti in banca bloccati, si dimette Pena",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/paraguay-nel-caos-con-i-conti-in-banca-bloccati-si-dimette-pena_77185d4b-03d6-4cfb-8b27-276b2aba3123.html",
-   "description": "Da oggi i rimborsi ai correntisti di Ueno Bank",
-   "pub_ts": 1793953383,
+   "title": "Ancora allarmi bomba nei cieli europei, coinvolti due voli da e per l'Italia. Email: 'E' solo l'inizio'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/allarme-bomba-su-un-aereo-proveniente-da-roma-atterrato-a-lisbona_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
+   "description": "Un Ryanair proveniente da Fiumicino e atterrato a Lisbona e un Wizzair Praga-Roma deviato su Venezia. Allerta anche all'aeroporto di Copenaghen e su 4 aerei che sorvolavano la Francia: tre sono atterrati a Orly e il quarto a Bordeaux",
+   "pub_ts": 1793981581,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Al via il viaggio apostolico del Papa in Sudamerica. 'Desideri di pace per quei popoli'",
-   "link": "https://www.ansa.it/vaticano/notizie/2026/11/06/al-via-il-viaggio-apostolico-del-papa-in-sudamerica.-desideri-di-pace-per-quei_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-   "description": "Il Pontefice partito da Fiumicino, prima tappa Montevideo. Il messaggio di saluto a Mattarella",
-   "pub_ts": 1793955291,
+   "title": "Monta la protesta in Paraguay, al via il processo di impeachment a Santiago Peña",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/monta-la-protesta-in-paraguay-nonostante-si-vada-verso-limpeachment-al-presidente_b5c78e44-e52e-43f5-ad28-a2227aab6d8e.html",
+   "description": "In piazza anche migliaia di impiegati della holding finita in bancarotta con Ueno Bank",
+   "pub_ts": 1793984806,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "California, il governatore Newsom grazia tutti i 548 condannati a morte del suo Stato",
-   "link": "https://www.repubblica.it/esteri/2026/11/05/news/california_il_governatore_newsom_grazia_tutti_i_548_condannati_a_morte-425702602/?rss",
-   "description": "Non era mai successo nella storia. Il democratico presto dovrebbe dimettersi per correre alle presidenziali del 2028",
-   "pub_ts": 1793943780,
-   "source": "Repubblica Esteri",
+   "title": "Portavoce dipartimento Stato, 'notizie su dimissioni Rubio sono fake news'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/portavoce-dipartimento-stato-notizie-su-dimissioni-rubio-sono-fake-news_2994e8a5-949f-44c4-a4c2-81576ccb1b20.html",
+   "description": "'Assolutamente infondate'",
+   "pub_ts": 1793976780,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La Consulta: 'La Procura può procedere su Bartolozzi per false dichiarazioni'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/consulta-la-procura-puo-procedere-su-bartolozzi-per-false-dichiarazioni-_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
+   "description": "Il tribunale dei ministri doveva dire perché sul caso Almasri non era concorrente in altri reati",
+   "pub_ts": 1793983920,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Tajani conferma, 'italiani fermati in Cisgiordania, non hanno fatto nulla'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla_50e96e81-bb2e-463a-bd84-7a998d685c3a.html",
+   "description": "'Seguiamo il caso, speriamo siano rimandati al più presto in Italia'",
+   "pub_ts": 1793981863,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Giorgia Meloni in sella ad un cavallo bianco alla fiera di Verona",
+   "link": "https://www.ansa.it/sito/videogallery/short_video/2026/11/06/giorgia-meloni-in-sella-ad-un-cavallo-bianco-alla-fiera-di-verona_ff2d38e9-c47e-4f21-88a4-30744026578c.html",
+   "description": "La premier ha fatto visita a Fieracavalli, storico evento equestre veneto",
+   "pub_ts": 1793984340,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump ammette con i sostenitori: 'Le midterm non sono andate come volevamo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/06/trump-ammette-con-i-sostenitori-le-midterm-non-sono-andate-come-volevamo_4b1dc648-5e25-4e4c-856c-8a949fe1762f.html",
+   "description": "Il messaggio tramite la sua campagna, 'non mi arrenderò mai' . Il cappellino 'Veto' è diventato parte dell'arredamento dello Studio Ovale",
+   "pub_ts": 1793983995,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Opposizioni all'attacco su Altieri all'Anac, Meloni: 'Era nelle nostre competenze'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/opposizioni-allattacco-su-altieri-allanac-meloni-era-nelle-nostre-competenze_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+   "description": "Pd: 'La nomina è un fatto gravissimo'. M5s: 'Il governo vuole mettere il controllore sotto tutela politica'. Nasce un caso sull'incompatibilità",
+   "pub_ts": 1793982426,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -567,107 +613,89 @@
    "title": "Impugnata la legge del Veneto sul fine vita, il governo si divide",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
    "description": "Salvini non vota, Calderoli contrario. Zaia difende scelta. Tajani: 'Ora una normativa nazionale'",
-   "pub_ts": 1793923200,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Hegseth contrattacca: 'Impeachment non è servito con Trump e non servirà con me'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/hegseth-contrattacca-impeachment-non-e-servito-con-trump-e-non-servira-con_f03ea8b4-6728-4ca4-856f-3902e7c08eff.html",
-   "description": "Il deputato repubblicano 'Massie scontento e sconfitto'",
-   "pub_ts": 1793936792,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Usa, 13enne pianifica il suicidio su Google: i genitori fanno causa all’azienda",
-   "link": "https://www.open.online/2026/11/06/usa-suicidio-funerale-giovane-causa-google/",
-   "description": "La ragazzina avrebbe organizzato anche il suo funerale con un computer della scuola L'articolo Usa, 13enne pianifica il suicidio su Google: i genitori fanno causa all’azienda proviene da Open.",
-   "pub_ts": 1793953168,
-   "source": "Open",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Ucraina, attacco russo alle infrastrutture energetiche nelle regioni di Kiev e Mykolaiv",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/ucraina-attacco-russo-alle-infrastrutture-energetiche-nelle-regioni-di-kiev-e-mykolaiv_c1163e7e-2c0f-47e8-8f27-148f3c38a8fc.html",
-   "description": "Nella regione di Kiev si registrano tre feriti a seguito di un attacco notturno delle truppe russe",
-   "pub_ts": 1793953342,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump ha aggiunto il cappellino 'Veto' all'arredamento dello Studio Ovale",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/trump-ha-aggiunto-il-cappellino-veto-allarredamento-dello-studio-ovale_04fca80e-faec-479e-9e07-960fbcca83a3.html",
-   "description": "Il copricapo è ora appoggiato sul Resolute Desk",
-   "pub_ts": 1793942891,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La guida dell’Anac al leghista pugliese Altieri: “Decisione gravissima”",
-   "link": "https://www.repubblica.it/economia/2026/11/06/news/anac_trifone_nuccio_altieri_presidente_leghista_chi_e-425702946/",
-   "description": "Meloni sceglie Trifone “Nuccio” Altieri per l’Anticorruzione: vigilerà sugli appalti pubblici. Opposizioni all’attacco",
-   "pub_ts": 1793953178,
-   "source": "la Repubblica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_432cb0e6-c762-4533-9364-d2e2ce7cb63b.html",
-   "description": "Il 9 novembre, Barachini presidente di giuria. Lectio magistralis di padre Benanti",
-   "pub_ts": 1793883874,
+   "pub_ts": 1793978868,
    "source": "ANSA Politica",
    "source_priority": 1,
-   "section": "tech"
+   "section": "politica"
   },
   {
-   "title": "App IO: arriva il messaggio di Agenzia delle Entrate sul rimborso",
-   "link": "https://www.punto-informatico.it/app-io-messaggio-agenzia-entrate-rimborso/",
-   "description": "L'Agenzia delle Entrate comunica attraverso l'app IO, a chi ne ha diritto, l'erogazione di un rimborso: vediamo di cosa si tratta. The post App IO: arriva il messaggio di Agenzia delle Entrate sul rimborso appeared first on Punto Informatico .",
-   "pub_ts": 1793955885,
-   "source": "Punto Informatico",
+   "title": "California, il governatore Newsom grazia tutti i 548 condannati a morte del suo Stato",
+   "link": "https://www.repubblica.it/esteri/2026/11/05/news/california_il_governatore_newsom_grazia_tutti_i_548_condannati_a_morte-425702602/?rss",
+   "description": "Non era mai successo nella storia. Il democratico presto dovrebbe dimettersi per correre alle presidenziali del 2028",
+   "pub_ts": 1793915271,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Meta, Google e TikTok fanno causa alla California",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/meta_google_e_tiktok_fanno_causa_alla_california_minori_social-425704578/?rss",
+   "description": "La legge AB 1709, in vigore dal 1 gennaio, non vieta i social ai ragazzi: toglie le funzioni che litengono incollati allo schermo. Una strada diversa dal divieto totale scelto dall'Australia e, inparte, dall'Europa. Le piattaforme la contestano",
+   "pub_ts": 1793977865,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Airbnb lancia un agente AI per pianificare e prenotare viaggi",
-   "link": "https://www.punto-informatico.it/airbnb-agente-ai-pianificare-prenotare-viaggi/",
-   "description": "Airbnb sta lavorando a un agente AI per pianificare e prenotare viaggi, in arrivo nella prima metà del 2027. Ecco come funziona. The post Airbnb lancia un agente AI per pianificare e prenotare viaggi appeared first on Punto Informatico .",
-   "pub_ts": 1793955335,
-   "source": "Punto Informatico",
+   "title": "I risultati dell’indagine Ue su TikTok: l’algoritmo spinge gli utenti dentro spirali pericolose",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/tiktok-ue-algoritmo-contenuti-dannosi-dsa-425704142/?rss",
+   "description": "La Commissione europea ha comunicato i risultati preliminari della sua indagine sugli algoritmi di TikTok: il social favorirebbe contenuti potenzialmente dannosi su depressione, isolamento e aspetto fisico. Se la violazione del Digital Services Act sarà confermata, la...",
+   "pub_ts": 1793975484,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "La sfida del cybercrime globale: \"Nessun Paese può difendersi da solo\"",
-   "link": "https://www.rainews.it/articoli/2026/11/la-sfida-del-cybercrime-globale-nessun-paese-puo-difendersi-da-solo-e5b2b931-e794-40bb-b292-43ffc9ca9516.html",
-   "description": "Dalla criminalità organizzata ai ransomware, la lotta ai reati informatici passa dalla collaborazione internazionale. La Convenzione di Budapest resta il principale strumento di coordinamento tra gli Stati",
-   "pub_ts": 1793955000,
-   "source": "Rai News",
+   "title": "Meta lancia negli Usa le videochiamate con Muse, il suo avatar IA",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/06/meta-lancia-negli-usa-le-videochiamate-con-muse-il-suo-avatar-ia_1e03bdc3-0f8b-43b0-8440-30a0c586add8.html",
+   "description": "Il chatbot è animato e risponde con varie sembianze. Entro l'anno il ciondolo interattivo",
+   "pub_ts": 1793980445,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "L'attore Russell Brand condannato per stupro, va in carcere",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/05/lattore-e-web-star-russell-brand-condannato-per-stupro-e-aggressioni-sessuali_2879daed-a49e-4150-b9ae-20434d1286db.html",
-   "description": "Il giudice, 'lunga pena detentiva'. Tra le vittime una fan, altre donne lo accusano",
-   "pub_ts": 1793945510,
+   "title": "Amodei chiede di rallentare lo sviluppo delle IA, ma Anthropic corre a doppia velocità",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/amodei_rallentare_ia_ma_anthropic_corre-425704050/?rss",
+   "description": "Uno studio indipendente rivela che i modelli di Anthropic migliorano più in fretta rispetto al passato recente, nel prospetto informativo che accompagna l’Ipo, l’azienda guidata da Dario Amodei indica l’accelerazione eccessiva tra i rischi legati allo sviluppo delle IA",
+   "pub_ts": 1793974809,
+   "source": "Repubblica Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
+   "description": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
+   "pub_ts": 1793981898,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Riaprono nel parco archeologico di Ercolano due domus chiuse per decenni",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/riaprono-nel-parco-archeologico-di-ercolano-due-domus-chiuse-per-decenni_b678a6dd-9f14-4945-bc8c-c9c74be470f2.html",
+   "description": "Tornano accessibili al pubblico la Casa dell'atrio a mosaico e la Casa a graticcio",
+   "pub_ts": 1793970361,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Tuttifrutti. \"Wild Horse Nine\" con John Malkovich e la serie TV ad alta tensione \"Nocturne\"",
-   "link": "https://www.rainews.it/video/2026/11/tuttifrutti-wild-horse-nine-con-john-malkovich-e-la-serie-tv-ad-alta-tensione-nocturne-d81e5fd5-2195-4fea-b1c9-a3c4c9a2b073.html",
-   "description": "Esce l'album che celebra i 50 anni di carriera di Gianna Nannini. Il dialogo tra culture alla Fondazione Prada a Milano, la collezione Sonnabend in mostra a Roma, il controtenore Carlo Vistoli e la musica sacra",
-   "pub_ts": 1793951640,
-   "source": "Rai News",
+   "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
+   "description": "Giuli, 'avanti nell'impegno di restituire alla collettività testimonianze fondamentali'",
+   "pub_ts": 1793967107,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Polizia Gb si aspetta molte altre accuse di violenze sessuali a Russell Brand",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/06/polizia-gb-si-aspetta-molte-altre-accuse-di-violenze-sessuali-a-russell-brand_7a69d88d-4dfb-45b1-99bd-202138562d52.html",
+   "description": "Dopo la condanna per stupro. Una dj, 'Bbc ha permesso la sua condotta'",
+   "pub_ts": 1793963186,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
@@ -677,24 +705,6 @@
    "description": "A Torino quattro giorni di eventi per i vent'anni di Walce",
    "pub_ts": 1793955606,
    "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Al Torino Film Festival John Travolta, Pamela Anderson e Fanny Ardant",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/al-torino-film-festival-john-travolta-pamela-anderson-e-fanny-ardant_c4e261cd-99f9-4790-a142-fb2e62b32988.html",
-   "description": "Base: \"Un festival al femminile, dieci registe su sedici film\". Chiude Villeneuve",
-   "pub_ts": 1793951820,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
-   "description": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
-   "pub_ts": 1793902387,
-   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "varia"
   }
