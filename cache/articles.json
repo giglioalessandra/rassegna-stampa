@@ -1,6 +1,6 @@
 {
- "generated_at": 1794068037,
- "updated_at": 1794068037,
+ "generated_at": 1794084292,
+ "updated_at": 1794084292,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,75 +9,80 @@
  "items": [
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
-   "summary": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
-   "pub_ts": 1794067800,
-   "n_sources": 8,
+   "area": "italia",
+   "title": "Israele, Herzog affida il governo a Eisenkot: incarico domani alle 17",
+   "summary": "Il presidente ha comunicato la decisione al leader del partito Yashar",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
+   "pub_ts": 1794082380,
+   "n_sources": 9,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
-     "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller"
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
+     "title": "Israele, Herzog affida il governo a Eisenkot: incarico domani alle 17"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
+     "title": "Herzog affida il governo a Eisenkot, incarico domani alle 17"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/trump-nomina-stephen-miller-capo-di-gabinetto-al-posto-di-wiles_fb322428-1929-4b4e-b0ac-a67867c7851c.html",
-     "title": "Trump nomina Stephen Miller capo di gabinetto al posto di Wiles"
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_86419f21-d671-4ecb-9ca2-81397837ec60.html",
+     "title": "Herzog affida il governo a Eisenkot, incarico domani alle 17"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
-     "title": "Trump nomina il \"falco\" Stephen Miller nuovo capo dello staff, i repubblicani: \"Decisione orribile\""
+     "link": "https://www.rainews.it/maratona/2026/11/svolta-in-israele-herzog-incarica-eisenkot-di-formare-il-governo-netanyahu-si-ferma-a-46-seggi-b8423de2-70e3-4d5c-9084-a1b32a08bebe.html",
+     "title": "Svolta in Israele: Herzog sceglie Eisenkot per formare il governo, Netanyahu si ferma a 46 seggi"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/07/israele-incarico-governo-gadi-eisenkot-netanyahu/",
+     "title": "Israele, incarico di governo a Gadi Eisenkot. Le tre coalizioni possibili e l’ultima carta di Netanyahu per salvarsi"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/07/stephen-miller-capo-di-gabinetto/",
-     "title": "Il nuovo capo di gabinetto di Trump è uno molto radicale"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/trump-prepara-vendetta-la-nomina-falco-stephen-miller-AJZi5g7B",
-     "title": "Trump prepara la vendetta con la nomina del falco Stephen Miller"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/",
-     "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/trump-nessun-passo-indietro-promosso-miller-falco-pro-ice-vace-rubio-iran-dopo-midterm-cybebbpk",
-     "title": "Trump, nessun passo indietro. Promosso Miller, falco pro Ice"
+     "link": "https://www.ilpost.it/2026/11/07/isaac-herzog-nomina-gadi-eisenkot-incarico-formare-governo/",
+     "title": "Il presidente di Israele ha scelto Gadi Eisenkot per formare un governo"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-capo-staff-casa-bianca-miller-wiles_3RwIn9VtiFootNGRZ8ZOhI",
-     "title": "Stephen Miller nuovo capo staff della Casa Bianca, Trump 'fa fuori' Susie Wiles"
+     "link": "https://www.adnkronos.com/internazionale/esteri/israele-incarico-governo-eisenkot_7tORBsh49Ls5lfp2fxfSMq",
+     "title": "Israele, Herzog affiderà domani a Eisenkot il compito di formare il prossimo governo"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/",
+     "title": "Israele, Herzog affida il governo a Eisenkot: incarico domani alle 17"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/07/israele-eisenkot-governo-incarico-notizie/8564397/",
+     "title": "Israele, il presidente Herzog affida a Eisenkot l’incarico di formare il nuovo governo"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Cyberattacco alla società della Galleria del Brennero",
-   "summary": "Sospetti su gruppo filorusso 'Everest' specializzato nel furto di dati",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
-   "pub_ts": 1794064377,
+   "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
+   "summary": "Solidarietà di Meloni al ministro. Hacker russi mettono 'taglia' su 18 nomi. Mosca: 'Non c'entriamo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
+   "pub_ts": 1794082039,
    "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
-     "title": "Cyberattacco alla società della Galleria del Brennero"
-    },
-    {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
      "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
+     "title": "Cyberattacco alla società della Galleria del Brennero"
     },
     {
      "name": "Rai News",
@@ -109,32 +114,74 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”",
-   "summary": "Il viaggio del pontefice in Sudamerica a un mese dall’intervento: “So che alcuni pensavano che non potessi partire, io no”",
-   "link": "https://www.repubblica.it/esteri/2026/11/06/news/papa_leone_viaggio_america_latina_mai_dubitato_di_farcela_fiero_di_aver_votato_midterm-425705441/?rss",
-   "pub_ts": 1794059664,
-   "n_sources": 4,
+   "title": "Papa Leone in Uruguay, messa nei luoghi della memoria indigena: “Costruire ponti”",
+   "summary": "Nel suo secondo giorno nel paese latino-americano il Pontefice vola a Paysandù, dove nei secoli ci sono state le “reducciones” dei gesuiti e la strage dei leader indigeni. Cita la tipica bevanda del “mate” come simbolo di amicizia",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/papa_leone_uruguay_messa_paysandu_memoria_indigena-425706877/?rss",
+   "pub_ts": 1794082229,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/06/news/papa_leone_viaggio_america_latina_mai_dubitato_di_farcela_fiero_di_aver_votato_midterm-425705441/?rss",
-     "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”"
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/papa_leone_uruguay_messa_paysandu_memoria_indigena-425706877/?rss",
+     "title": "Papa Leone in Uruguay, messa nei luoghi della memoria indigena: “Costruire ponti”"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/vaticano/notizie/2026/11/07/il-papa-in-uruguay-siate-costruttori-di-ponti_8a4a02e2-1700-4980-9449-f12650e408c7.html",
+     "title": "Il Papa in Uruguay: 'Siate costruttori di ponti'"
     },
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/il-papa-sulle-midterm-fiero-di-avere-esercitato-il-mio-diritto_f3147b7e-6769-4d9c-9148-594a8834dfcf.html",
-     "title": "Il Papa sulle midterm, 'fiero di avere esercitato il mio diritto'"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/il-papa-in-uruguay-siate-costruttori-di-ponti_bd2eebfd-8a76-4f7f-b59c-c3bbdbf618dd.html",
+     "title": "Il Papa in Uruguay, 'siate costruttori di ponti'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/07/vescovi-al-papa-in-uruguay-poverta-e-solitudine-feriscono-la-societa_edf28075-bde5-4a9c-9278-f612020c127a.html",
+     "title": "Vescovi al Papa in Uruguay, 'povertà e solitudine feriscono la società'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/papa-leone-xiv-in-uruguay-costruire-ponti-d92ea0bc-7aa6-412c-8e08-14173d803c66.html",
+     "title": "Il Papa in Uruguay: \"Costruire ponti\""
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/papa-leone-xiv-uruguay-viaggio-america-latina_1HgUKwIC2fCvG8s2yhB15S",
-     "title": "Papa Leone XIV in Uruguay: \"Mai avuto dubbi sul viaggio. Fiero di essere americano e di aver votato\""
+     "link": "https://www.adnkronos.com/internazionale/esteri/papa-leone-messa-uruguay_5906xGJfkGzSQwc53YM2wV",
+     "title": "Papa, messa in Uruguay: \"Costruiamo ponti che non soccombano alle correnti impetuose\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump vuole portavoce il campione di arti marziali e ordina indagini sui dem",
+   "summary": "'Altre teste cadranno'. Primi effetti dell'era Miller pronto a arrestare i giornalisti",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
+   "pub_ts": 1794082570,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
+     "title": "Trump vuole portavoce il campione di arti marziali e ordina indagini sui dem"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/06/news/papa_leone_viaggio_america_latina_mai_dubitato_di_farcela_fiero_di_aver_votato_midterm-425705441/",
-     "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/trump-ordina-indagini-sui-democratici-che-minacciano-molte-persone_32ef273e-d187-46ba-9749-7e91fde5e614.html",
+     "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/usa-trump-ha-chiesto-dana-white-essere-portavoce-casa-bianca-AJYzbk8B",
+     "title": "Usa, Trump vuole portavoce il campione di arti marziali e ordina indagini sui dem"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
+     "title": "Trump ordina indagini sui democratici \"che minacciano molte persone\""
     }
    ]
   },
@@ -144,7 +191,7 @@
    "title": "Pistorius, 'al momento non possiamo più dare Patriot a Kiev'",
    "summary": "'Rischio gap nei nostri arsenali, ci aspettiamo un maggior impegno dei nostri partner'",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/pistorius-al-momento-non-possiamo-piu-dare-patriot-a-kiev_efa42cee-3c02-4188-9571-2543b9514a48.html",
-   "pub_ts": 1794063360,
+   "pub_ts": 1794080220,
    "n_sources": 3,
    "documented": true,
    "sources": [
@@ -156,7 +203,7 @@
     {
      "name": "Rai News",
      "link": "https://www.rainews.it/maratona/2026/11/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina-3ada613e-58c1-436d-9bef-86d8e8adab0a.html",
-     "title": "Pistorius: \"Non possiamo più mandare più altri Patriot a Kiev\". Tajani nel mirino del dark web"
+     "title": "Pistorius: \"Non possiamo più mandare altri Patriot a Kiev\". Tajani nel mirino del dark web"
     },
     {
      "name": "Sole 24 Ore Mondo",
@@ -167,28 +214,28 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Hamas, allagate 70.000 tende che ospitano sfollati di Gaza",
-   "summary": "'Danni da 3 milioni di dollari per il meteo avverso'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/hamas-allagate-70.000-tende-che-ospitano-sfollati-di-gaza_5b212b77-e559-44b5-8167-c53b07cf8d46.html",
-   "pub_ts": 1794061406,
+   "area": "italia",
+   "title": "Tajani, siamo di fronte a guerra ibrida, G7 affronti lunedì il tema",
+   "summary": "Dopo che dati del ministro e famigliari sono finiti sul dark web ad opera dei filorussi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tajani-siamo-di-fronte-a-guerra-ibrida-g7-affronti-lunedi-il-tema_1cbe2402-1972-434c-aa1f-347102fad5c4.html",
+   "pub_ts": 1794079020,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/hamas-allagate-70.000-tende-che-ospitano-sfollati-di-gaza_5b212b77-e559-44b5-8167-c53b07cf8d46.html",
-     "title": "Hamas, allagate 70.000 tende che ospitano sfollati di Gaza"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tajani-siamo-di-fronte-a-guerra-ibrida-g7-affronti-lunedi-il-tema_1cbe2402-1972-434c-aa1f-347102fad5c4.html",
+     "title": "Tajani, siamo di fronte a guerra ibrida, G7 affronti lunedì il tema"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/axios-vance-lavora-per-nuovo-cessate-il-fuoco-e-ripresa-dei-negoziati-b8423de2-70e3-4d5c-9084-a1b32a08bebe.html",
-     "title": "Wsj, la Casa Bianca divisa sull'Iran dopo le midterm. Inondazioni a Gaza, 70 mila tende allagate"
+     "link": "https://www.rainews.it/video/2026/11/callusotg1-minacce-tajani-dbd57a84-43f2-4318-9776-78c6c051961c.html",
+     "title": "Minacce web e guerra ibrida: Tajani denuncia una taglia contro di lui"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/07/gaza-tende-allagate-piogge-video-bambini-freddo/8564029/",
-     "title": "Gaza, le tende degli sfollati allagate per le forti piogge: “I bambini tremano per il freddo” – Video"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/sicurezza_difesa_guerra_ibrida_europa_impreparata-425705724/",
+     "title": "Quel piano dimenticato contro la guerra ibrida. Ecco perché l’Ue rischia"
     }
    ]
   },
@@ -249,66 +296,44 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
-   "summary": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
-   "pub_ts": 1794053122,
+   "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
+   "summary": "Il presidente Usa su Truth: “Prospettano impeachment e svariate forme di punizione, è estorsione e devono pagare”. Al wrestler Dana White: “Ti prego accetta l’incarico come portevoce e porta i tuoi collaboratori, abbiamo bisogno di voi contro la sinistra folle”",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
+   "pub_ts": 1794081790,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
-     "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
+     "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_f449f3ee-5cd9-4326-87e1-71208e1e700f.html",
-     "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/",
+     "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa",
-   "summary": "Dall’esito dell’Election Day è emersa la possibilità che venga modificato il sistema elettorale: si potrebbe decidere non più in base agli Stati che votano a favore di un candidato, ma contando il voto popolare nazionale anziché affidarsi al sistema dei grandi elettori",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/?rss",
-   "pub_ts": 1794046390,
+   "title": "L'Ucraina al buio per i raid. Allarme di Berlino sui Patriot",
+   "summary": "Pistorius: per ora non riusciamo a darne altri. Zelensky, così Mosca si prepara a colloqui",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
+   "pub_ts": 1794081536,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/?rss",
-     "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
+     "title": "L'Ucraina al buio per i raid. Allarme di Berlino sui Patriot"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/",
-     "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
-   "summary": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-   "pub_ts": 1794037287,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-     "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/07/presidente-anac-nomina-nuccio-altieri-ritirato/",
-     "title": "C’è un caso sulla nomina del nuovo presidente dell’ANAC"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/07/ucraina-berlino-non-puo-piu-fornire-patriot-pistorius-agli-alleati-altri-paesi-hanno-fatto-molto-meno-di-noi/8564257/",
+     "title": "Ucraina, Berlino non può più fornire Patriot. Pistorius agli alleati: “Altri Paesi hanno fatto molto meno di noi”"
     }
    ]
   },
@@ -318,8 +343,8 @@
    "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'",
    "summary": "Voleva spiare il colosso dei semiconduttori",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
-   "pub_ts": 1794060564,
-   "n_sources": 3,
+   "pub_ts": 1794074722,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -330,34 +355,17 @@
     {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/economia/2026/11/07/news/intelligence_usa_il_ceo_di_nvidia_jensen_huang_ha_avuto_una_relazione_con_una_spia_cinese-425706813/",
-     "title": "Intelligence Usa: “Il ceo di Nvidia Jensen Huang ha avuto una relazione con una spia cinese”"
+     "title": "Trappola sentimentale per il ceo di Nvidia Huang: “Vede una spia cinese”"
     },
     {
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/per-007-usa-ceo-nvidia-aveva-relazione-un-spia-cinese-AJJK9E8B",
-     "title": "Itelligence Usa: «Il Ceo di Nvidia Huang aveva una relazione con una spia cinese»"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "I risultati dell’indagine Ue su TikTok: l’algoritmo spinge gli utenti dentro spirali pericolose",
-   "summary": "La Commissione europea ha comunicato i risultati preliminari della sua indagine sugli algoritmi di TikTok: il social favorirebbe contenuti potenzialmente dannosi su depressione, isolamento e aspetto fisico. Se la violazione del Digital Services Act sarà confermata, la...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/tiktok-ue-algoritmo-contenuti-dannosi-dsa-425704142/?rss",
-   "pub_ts": 1793975484,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/tiktok-ue-algoritmo-contenuti-dannosi-dsa-425704142/?rss",
-     "title": "I risultati dell’indagine Ue su TikTok: l’algoritmo spinge gli utenti dentro spirali pericolose"
+     "title": "Intelligence Usa: «Il Ceo di Nvidia Huang aveva una relazione con una spia cinese»"
     },
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/tiktok-algoritmo-suggerimenti-non-rispetta-dsa/",
-     "title": "TikTok: l’algoritmo dei suggerimenti non rispetta il DSA"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/07/jensen-huang-nvidia-spia-cinese-notizie/8564316/",
+     "title": "“L’ad di Nvidia Jensen Huang ha avuto una relazione con una donna reclutata come spia da Pechino”"
     }
    ]
   },
@@ -396,27 +404,21 @@
    ]
   },
   {
-   "category": "varia",
+   "category": "tech",
    "area": null,
-   "title": "Anche Robert Pattinson e Nicholas Hoult in corsa per il nuovo James Bond",
-   "summary": "Hanno fatto i provini, sempre più affollata la corsa per l'eredita' di Daniel Craig",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/07/anche-robert-pattinson-e-nicholas-hoult-in-corsa-per-il-nuovo-james-bond_cdd3c068-1103-4e6c-9d2a-7c5fa625b4be.html",
-   "pub_ts": 1794066238,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Big Tech USA nel mirino dei democratici, possibili indagini",
+   "summary": "All'inizio del 2027, dopo l'insediamento del nuovo Congresso, potrebbe essere avviate indagini su Apple, Meta, NVIDIA e le aziende di Elon Musk. The post Big Tech USA nel mirino dei democratici, possibili indagini appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/big-tech-usa-mirino-democratici-possibili-indagini/",
+   "pub_ts": 1794072206,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/07/anche-robert-pattinson-e-nicholas-hoult-in-corsa-per-il-nuovo-james-bond_cdd3c068-1103-4e6c-9d2a-7c5fa625b4be.html",
-     "title": "Anche Robert Pattinson e Nicholas Hoult in corsa per il nuovo James Bond"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/james-bond-robert-pattinson-ai-provini-per-007-sorpresa-tra-i-candidati-9d5c7bd0-df5d-46ed-9793-3fbf9bce98df.html",
-     "title": "James Bond, Robert Pattinson ai provini per 007: sorpresa tra i candidati"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/big-tech-usa-mirino-democratici-possibili-indagini/",
+     "title": "Big Tech USA nel mirino dei democratici, possibili indagini"
     }
-   ],
-   "subtype": "cultura"
+   ]
   },
   {
    "category": "varia",
@@ -425,7 +427,7 @@
    "summary": "Ambientata negli anni '50. I Duffer co-creatori con Katy Trefry e la regia Joe Wright",
    "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/netflix-annuncia-serie-spin-off-di-stranger-things-adventure-other-worlds_feaefc3f-694d-4817-88a1-a80bb4a8be60.html",
    "pub_ts": 1794064766,
-   "n_sources": 2,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -437,6 +439,34 @@
      "name": "Open",
      "link": "https://www.open.online/2026/11/07/stranger-things-prequel-anni-50-netflix-other-worlds/",
      "title": "“Stranger Things”, arriva il prequel negli anni ’50: Netflix annuncia “Other Worlds”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/06/netflix-spinoff-stranger-things-other-worlds/",
+     "title": "Netflix ha annunciato uno spinoff di Stranger Things"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Dalle piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel",
+   "summary": "Nella città umbra il primo festival diffuso e itinerante di musica spiritual",
+   "link": "https://www.ansa.it/umbria/notizie/2026/11/07/dalle-piazza-di-assisi-un-inno-di-pace-e-gioia-con-oltre-400-voci_896f7150-6850-45f3-817c-eb4368686323.html",
+   "pub_ts": 1794074648,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/umbria/notizie/2026/11/07/dalle-piazza-di-assisi-un-inno-di-pace-e-gioia-con-oltre-400-voci_896f7150-6850-45f3-817c-eb4368686323.html",
+     "title": "Dalle piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/07/dalle-piazza-di-assisi-un-inno-di-pace-e-gioia-con-oltre-400-voci_ca286fbb-268d-412d-8929-683a47d7e739.html",
+     "title": "Dalla piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel"
     }
    ],
    "subtype": "cultura"
@@ -503,91 +533,122 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Polonia, sparatoria nel centro di Cracovia: almeno cinque i morti, diversi i feriti. Fermato un sospetto",
-   "summary": "E’ avvenuto nella piazza del mercato dove alcuni giornali riportano fosse in corso una manifestazione antigovernativa. Tusk: “La polizia sta indagando”",
+   "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”",
+   "summary": "Nella principale piazza della città diventata popolare meta turistica, una persona ha preso di mira persone a caso, sparando dalla sua auto in corsa",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
-   "pub_ts": 1794067243,
-   "n_sources": 10,
+   "pub_ts": 1794083700,
+   "n_sources": 9,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
-     "title": "Polonia, sparatoria nel centro di Cracovia: almeno cinque i morti, diversi i feriti. Fermato un sospetto"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-2-persone-uccise-e-almeno-10-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
-     "title": "Cracovia, 5 persone uccise e altre ferite in una sparatoria in centro"
+     "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/missili-balistici-russi-su-kiev-almeno-cinque-feriti_573b2716-a576-4328-b8c8-787288c7beaf.html",
-     "title": "Missili balistici russi su Kiev, almeno cinque feriti"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/uomo-apre-il-fuoco-da-unauto-nella-piazza-di-cracovia-cinque-morti_914884c5-73e9-4844-ade4-7a7a3375c127.html",
+     "title": "Uomo apre il fuoco da un'auto nella piazza di Cracovia, cinque morti"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/polonia-spari-sulla-folla-a-cracovia-morti-e-feriti-74ae4e70-8cca-49c5-a8e1-3ace721ce5f1.html",
+     "title": "Polonia, spari sulla folla a Cracovia: morti e feriti, l'attentatore è in custodia"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/cracovia-sparatoria-passanti-morti-gzs4xy92",
+     "title": "Fa fuoco sui passanti a Cracovia, almeno sei morti. «Il killer un estremista di destra»"
     },
     {
      "name": "Open",
      "link": "https://www.open.online/2026/11/07/cracovia-sparatoria-folla-arrestato-killer-video/",
-     "title": "Spari sulla folla nel centro di Cracovia: 5 morti e almeno 10 feriti, arrestato il presunto killer – Il video"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/",
-     "title": "C’è stata una sparatoria nella piazza principale di Cracovia, in Polonia"
+     "title": "Cracovia, spari sulla folla in centro: 6 morti e almeno 15 feriti. «Il killer è un 25enne polacco» – Il video"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/spari-folla-cracovia-polonia-oggi-ultime-notizie_4EhtOuj39FnSSEMFVLt5RU",
-     "title": "Spari sulla folla a Cracovia, 5 morti e 12 feriti. L'aggressore ferito dalla polizia"
+     "link": "https://www.adnkronos.com/internazionale/esteri/spari-folla-cracovia-polonia-oggi-notizie-aggiornamenti_4EhtOuj39FnSSEMFVLt5RU",
+     "title": "Spari sulla folla a Cracovia, 6 morti tra cui uno straniero e 15 feriti. L'attentatore, un polacco 24enne, ferito dalla polizia"
     },
     {
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/polonia-2-persone-uccise-e-almeno-10-ferite-una-sparatoria-centro-cracovia-AJo9aX8B",
-     "title": "Polonia, la polizia: «I morti della sparatoria nella piazza di Cracovia sono 5»"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/cracovia-il-momento-in-cui-dallauto-partono-gli-spari-persone-in-fuga-67d9bfc3-c4cb-44bb-bc1c-bcbfa24ceece.html",
-     "title": "Cracovia: il momento in cui dall'auto partono gli spari, persone in fuga"
+     "title": "Polonia: in mimetica e con arma militare spara a caso dall’auto, 6 morti a Cracovia"
     },
     {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/",
-     "title": "Polonia, sparatoria nel centro di Cracovia: almeno cinque i morti, diversi i feriti. Fermato un sospetto"
+     "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”"
     },
     {
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/07/sparatoria-cracovia-morti-feriti-arrestato-uomo/8564188/",
-     "title": "Polonia, un uomo mascherato e con tuta mimetica spara a caso da un’auto a Cracovia: 5 morti e almeno 12 feriti"
+     "title": "Cracovia, 24enne polacco spara da un’auto in centro: sei morti. Il ministro dell’Interno: “Il killer era affascinato da ideologie di estrema destra”"
+    }
+   ]
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Cracovia, studenti italiani 'siamo terrorizzati ma stiamo bene'",
+   "summary": "Due quarte erano partite per il 'Viaggio della Memoria' hanno contattato gli amici",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-studenti-italiani-siamo-terrorizzati-ma-stiamo-bene_3a497981-0da9-409d-b4f8-53bcda9daad5.html",
+   "pub_ts": 1794083609,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-studenti-italiani-siamo-terrorizzati-ma-stiamo-bene_3a497981-0da9-409d-b4f8-53bcda9daad5.html",
+     "title": "Cracovia, studenti italiani 'siamo terrorizzati ma stiamo bene'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/attentato-cracovia-studenti-italiani-in-salvo_31iaGgZbnRzz6vmuFQWHpe",
+     "title": "Attentato a Cracovia, in piazza anche studenti italiani: tutti in salvo"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/studenti-italiani-salvi-a-cracovia-la-testimonianza-della-gita-finita-nel-terrore-a770bccc-c3b6-4e9b-b662-6012fd1d1895.html",
+     "title": "Studenti italiani salvi a Cracovia: la testimonianza della gita finita nel terrore"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
-   "description": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
-   "pub_ts": 1794067800,
+   "title": "Israele, Herzog affida il governo a Eisenkot: incarico domani alle 17",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
+   "description": "Il presidente ha comunicato la decisione al leader del partito Yashar",
+   "pub_ts": 1794082380,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Cyberattacco alla società della Galleria del Brennero",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
-   "description": "Sospetti su gruppo filorusso 'Everest' specializzato nel furto di dati",
-   "pub_ts": 1794064377,
-   "source": "ANSA Cronaca",
+   "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
+   "description": "Solidarietà di Meloni al ministro. Hacker russi mettono 'taglia' su 18 nomi. Mosca: 'Non c'entriamo'",
+   "pub_ts": 1794082039,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”",
-   "link": "https://www.repubblica.it/esteri/2026/11/06/news/papa_leone_viaggio_america_latina_mai_dubitato_di_farcela_fiero_di_aver_votato_midterm-425705441/?rss",
-   "description": "Il viaggio del pontefice in Sudamerica a un mese dall’intervento: “So che alcuni pensavano che non potessi partire, io no”",
-   "pub_ts": 1794059664,
+   "title": "Papa Leone in Uruguay, messa nei luoghi della memoria indigena: “Costruire ponti”",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/papa_leone_uruguay_messa_paysandu_memoria_indigena-425706877/?rss",
+   "description": "Nel suo secondo giorno nel paese latino-americano il Pontefice vola a Paysandù, dove nei secoli ci sono state le “reducciones” dei gesuiti e la strage dei leader indigeni. Cita la tipica bevanda del “mate” come simbolo di amicizia",
+   "pub_ts": 1794082229,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump vuole portavoce il campione di arti marziali e ordina indagini sui dem",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
+   "description": "'Altre teste cadranno'. Primi effetti dell'era Miller pronto a arrestare i giornalisti",
+   "pub_ts": 1794082570,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -595,16 +656,16 @@
    "title": "Pistorius, 'al momento non possiamo più dare Patriot a Kiev'",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/pistorius-al-momento-non-possiamo-piu-dare-patriot-a-kiev_efa42cee-3c02-4188-9571-2543b9514a48.html",
    "description": "'Rischio gap nei nostri arsenali, ci aspettiamo un maggior impegno dei nostri partner'",
-   "pub_ts": 1794063360,
+   "pub_ts": 1794080220,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Hamas, allagate 70.000 tende che ospitano sfollati di Gaza",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/hamas-allagate-70.000-tende-che-ospitano-sfollati-di-gaza_5b212b77-e559-44b5-8167-c53b07cf8d46.html",
-   "description": "'Danni da 3 milioni di dollari per il meteo avverso'",
-   "pub_ts": 1794061406,
+   "title": "Tajani, siamo di fronte a guerra ibrida, G7 affronti lunedì il tema",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tajani-siamo-di-fronte-a-guerra-ibrida-g7-affronti-lunedi-il-tema_1cbe2402-1972-434c-aa1f-347102fad5c4.html",
+   "description": "Dopo che dati del ministro e famigliari sono finiti sul dark web ad opera dei filorussi",
+   "pub_ts": 1794079020,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
@@ -628,29 +689,20 @@
    "section": "politica"
   },
   {
-   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
-   "description": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
-   "pub_ts": 1794053122,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/?rss",
-   "description": "Dall’esito dell’Election Day è emersa la possibilità che venga modificato il sistema elettorale: si potrebbe decidere non più in base agli Stati che votano a favore di un candidato, ma contando il voto popolare nazionale anziché affidarsi al sistema dei grandi elettori",
-   "pub_ts": 1794046390,
+   "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
+   "description": "Il presidente Usa su Truth: “Prospettano impeachment e svariate forme di punizione, è estorsione e devono pagare”. Al wrestler Dana White: “Ti prego accetta l’incarico come portevoce e porta i tuoi collaboratori, abbiamo bisogno di voi contro la sinistra folle”",
+   "pub_ts": 1794081790,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-   "description": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
-   "pub_ts": 1794037287,
-   "source": "ANSA Politica",
+   "title": "L'Ucraina al buio per i raid. Allarme di Berlino sui Patriot",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
+   "description": "Pistorius: per ora non riusciamo a darne altri. Zelensky, così Mosca si prepara a colloqui",
+   "pub_ts": 1794081536,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -658,17 +710,8 @@
    "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
    "description": "Voleva spiare il colosso dei semiconduttori",
-   "pub_ts": 1794060564,
+   "pub_ts": 1794074722,
    "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "I risultati dell’indagine Ue su TikTok: l’algoritmo spinge gli utenti dentro spirali pericolose",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/tiktok-ue-algoritmo-contenuti-dannosi-dsa-425704142/?rss",
-   "description": "La Commissione europea ha comunicato i risultati preliminari della sua indagine sugli algoritmi di TikTok: il social favorirebbe contenuti potenzialmente dannosi su depressione, isolamento e aspetto fisico. Se la violazione del Digital Services Act sarà confermata, la...",
-   "pub_ts": 1793975484,
-   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -691,13 +734,13 @@
    "section": "tech"
   },
   {
-   "title": "Anche Robert Pattinson e Nicholas Hoult in corsa per il nuovo James Bond",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/07/anche-robert-pattinson-e-nicholas-hoult-in-corsa-per-il-nuovo-james-bond_cdd3c068-1103-4e6c-9d2a-7c5fa625b4be.html",
-   "description": "Hanno fatto i provini, sempre più affollata la corsa per l'eredita' di Daniel Craig",
-   "pub_ts": 1794066238,
-   "source": "ANSA Cultura",
+   "title": "Big Tech USA nel mirino dei democratici, possibili indagini",
+   "link": "https://www.punto-informatico.it/big-tech-usa-mirino-democratici-possibili-indagini/",
+   "description": "All'inizio del 2027, dopo l'insediamento del nuovo Congresso, potrebbe essere avviate indagini su Apple, Meta, NVIDIA e le aziende di Elon Musk. The post Big Tech USA nel mirino dei democratici, possibili indagini appeared first on Punto Informatico .",
+   "pub_ts": 1794072206,
+   "source": "Punto Informatico",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
    "title": "Netflix annuncia serie spin-off di 'Stranger Things Adventure Other Worlds'",
@@ -705,6 +748,15 @@
    "description": "Ambientata negli anni '50. I Duffer co-creatori con Katy Trefry e la regia Joe Wright",
    "pub_ts": 1794064766,
    "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Dalle piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel",
+   "link": "https://www.ansa.it/umbria/notizie/2026/11/07/dalle-piazza-di-assisi-un-inno-di-pace-e-gioia-con-oltre-400-voci_896f7150-6850-45f3-817c-eb4368686323.html",
+   "description": "Nella città umbra il primo festival diffuso e itinerante di musica spiritual",
+   "pub_ts": 1794074648,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
@@ -736,11 +788,20 @@
    "section": "varia"
   },
   {
-   "title": "Polonia, sparatoria nel centro di Cracovia: almeno cinque i morti, diversi i feriti. Fermato un sospetto",
+   "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
-   "description": "E’ avvenuto nella piazza del mercato dove alcuni giornali riportano fosse in corso una manifestazione antigovernativa. Tusk: “La polizia sta indagando”",
-   "pub_ts": 1794067243,
+   "description": "Nella principale piazza della città diventata popolare meta turistica, una persona ha preso di mira persone a caso, sparando dalla sua auto in corsa",
+   "pub_ts": 1794083700,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "cronaca"
+  },
+  {
+   "title": "Cracovia, studenti italiani 'siamo terrorizzati ma stiamo bene'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-studenti-italiani-siamo-terrorizzati-ma-stiamo-bene_3a497981-0da9-409d-b4f8-53bcda9daad5.html",
+   "description": "Due quarte erano partite per il 'Viaggio della Memoria' hanno contattato gli amici",
+   "pub_ts": 1794083609,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "cronaca"
   }
