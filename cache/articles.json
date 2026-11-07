@@ -1,6 +1,6 @@
 {
- "generated_at": 1794019179,
- "updated_at": 1794019179,
+ "generated_at": 1794045042,
+ "updated_at": 1794045042,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,12 +9,69 @@
  "items": [
   {
    "category": "politica",
+   "area": "italia",
+   "title": "++ Cyberattacco alla società della Galleria del Brennero, indagini ++",
+   "summary": "Isolati i sistemi interessati e avviate analisi forensi",
+   "link": "https://www.ansa.it/sito/notizie/flash/2026/11/07/-cyberattacco-alla-societa-della-galleria-del-brennero-indagini-_055ed44e-4322-4bf4-84de-9681c09875d6.html",
+   "pub_ts": 1794043912,
+   "n_sources": 9,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/flash/2026/11/07/-cyberattacco-alla-societa-della-galleria-del-brennero-indagini-_055ed44e-4322-4bf4-84de-9681c09875d6.html",
+     "title": "++ Cyberattacco alla società della Galleria del Brennero, indagini ++"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/ft-i-servizi-europei-indagano-sulla-pista-russa-degli-allarmi-bomba_ca5c1967-eac2-46fb-b2fa-0a8998e4d5ab.html",
+     "title": "Ft, i servizi europei indagano sulla pista russa degli allarmi bomba"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
+     "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/cyberattacco-alla-societa-della-galleria-del-brennero-860d7b57-b7bc-4c47-a4b6-4a9a0f112b6e.html",
+     "title": "Cyberattacco alla società della Galleria del Brennero"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/07/allarmi-bomba-minacce-europa-7-nov-ultime-notizie-diretta/",
+     "title": "Attacco hacker al Tunnel del Brennero: «Violati i sistemi». Allarmi bomba sui voli, 007 europei: «Perché la pista russa è la più probabile» – La diretta"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarmi_bomba_negli_aeroporti_ora_cresce_la_paura_per_i_voli_di_natale-425705640/",
+     "title": "Allarmi bomba negli aeroporti, ora cresce la paura per i voli di Natale"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-aereoporti-europei-ultime-notizie-oggi-aggiornamenti-uktzlygz",
+     "title": "Ancora allarmi bomba nei cieli europei. La rivendicazione: «Faremo saltare in aria i vostri aerei, stazioni e treni»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/allarme-bomba-aerei-news-oggi-6-novembre_20YazAtI3JSgjvhQv9nqju",
+     "title": "Caos nei cieli d'Europa, 18 voli nel mirino di allarmi bomba: due anche in Italia. In una e-mail la rivendicazione. Meloni: \"Sono preoccupata\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/07/attacco-hacker-tunnel-brennero-bbt-notizie/8563905/",
+     "title": "Attacco hacker alla società del tunnel del Brennero: violati i sistemi informatici"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "mondo",
    "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
    "summary": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
-   "pub_ts": 1794009600,
-   "n_sources": 9,
+   "pub_ts": 1794042405,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
@@ -23,14 +80,14 @@
      "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/06/midterm-trump-torna-allattacco-non-mollero-mai.-e-nomina-miller-capo_4b1dc648-5e25-4e4c-856c-8a949fe1762f.html",
-     "title": "Midterm: Trump torna all'attacco, 'non mollerò mai'. E nomina Miller capo dello staff"
-    },
-    {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/trump-nomina-stephen-miller-capo-di-gabinetto-al-posto-di-wiles_fb322428-1929-4b4e-b0ac-a67867c7851c.html",
      "title": "Trump nomina Stephen Miller capo di gabinetto al posto di Wiles"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/07/stephen-miller-capo-di-gabinetto/",
+     "title": "Il nuovo capo di gabinetto di Trump è uno molto radicale"
     },
     {
      "name": "la Repubblica",
@@ -38,24 +95,9 @@
      "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/06/stephen-miller-chi-e-capo-staff-trump/",
-     "title": "Stephen Miller, il falco dell’immigrazione al comando della Casa Bianca: chi è il nuovo capo dello staff di Trump"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/usa-stretta-su-immigrazione-e-imperialismo-chi-e-stephen-miller-nuovo-capo-di-gabinetto-di-trump-e34bf53f-4837-4b60-b723-73013e8552a2.html",
-     "title": "Stretta su immigrazione e imperialismo: chi è Stephen Miller, il nuovo capo staff di Trump"
-    },
-    {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/trump-nessun-passo-indietro-promosso-miller-falco-pro-ice-vace-rubio-iran-dopo-midterm-cybebbpk",
      "title": "Trump, nessun passo indietro. Promosso Miller, falco pro Ice"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/06/stephen-miller-nuovo-capo-di-gabinetto-casa-bianca-chief-of-staff/",
-     "title": "Trump ha nominato Stephen Miller capo di gabinetto della Casa Bianca"
     },
     {
      "name": "Adnkronos Esteri",
@@ -67,17 +109,17 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Papa Leone: 'Fiero di essere americano e di avere votato'",
-   "summary": "Il Pontefice: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
-   "link": "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-   "pub_ts": 1794007902,
-   "n_sources": 8,
+   "title": "Il Papa in Sudamerica, 'sto bene, mai avuto dubbi di fare questo viaggio'",
+   "summary": "'Ringrazio i medici che mi hanno permesso di essere qui in ottima forma'",
+   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/06/il-papa-in-sudamerica-sto-bene-mai-avuto-dubbi-di-fare-questo-viaggio_ec3fb45a-65f8-422c-8b7a-cee1fcbe8b31.html",
+   "pub_ts": 1794037686,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-     "title": "Papa Leone: 'Fiero di essere americano e di avere votato'"
+     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/06/il-papa-in-sudamerica-sto-bene-mai-avuto-dubbi-di-fare-questo-viaggio_ec3fb45a-65f8-422c-8b7a-cee1fcbe8b31.html",
+     "title": "Il Papa in Sudamerica, 'sto bene, mai avuto dubbi di fare questo viaggio'"
     },
     {
      "name": "Repubblica Esteri",
@@ -90,71 +132,19 @@
      "title": "Il Papa sulle midterm, 'fiero di avere esercitato il mio diritto'"
     },
     {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/il-papa-in-sudamerica-dopo-il-tumore-le-tappe-del-viaggio_9c1d5d36-f115-42f3-9c82-296c69fc8c89.html",
+     "title": "Il Papa in Sudamerica dopo il tumore, le tappe del viaggio"
+    },
+    {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/papa-leone-xiv-uruguay-viaggio-america-latina_1HgUKwIC2fCvG8s2yhB15S",
      "title": "Papa Leone XIV in Uruguay: \"Mai avuto dubbi sul viaggio. Fiero di essere americano e di aver votato\""
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/06/papa-leone-xiv-orgoglioso-americano-voto-viaggio-missione-sudamerica-peru/",
-     "title": "Papa Leone XIV: «Orgoglioso di essere americano e di aver votato. La tregua a Oleshky? Grazie a Dio è riuscita»"
-    },
-    {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/06/news/papa_leone_viaggio_america_latina_mai_dubitato_di_farcela_fiero_di_aver_votato_midterm-425705441/",
      "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/papa-leone-xiv-benedetti-check-up-mai-avuto-dubbi-su-questo-viaggio-e1e7ee6b-ca95-41b6-852a-2e071fa5b3c7.html",
-     "title": "Papa arriva a Montevideo: \"Benedetti check-up, mai avuto dubbi sul viaggio\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/06/papa-leone-xiv-voto-midterm-notizie/8563711/",
-     "title": "Papa Leone XIV: “Sono fiero di essere statunitense e di aver esercitato il diritto di voto”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Nuovi allarmi bomba, coinvolti due voli in Italia",
-   "summary": "Deviato a Venezia un Praga-Roma, l'altro atterrato a Lisbona",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html",
-   "pub_ts": 1794016380,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html",
-     "title": "Nuovi allarmi bomba, coinvolti due voli in Italia"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/06/news/caos_nei_cieli_la_vignetta_di_ellekappa-425702746/?rss",
-     "title": "Caos nei cieli, la vignetta di Ellekappa"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/allarmi-bomba-sui-volo-ecco-come-scatta-il-piano-di-sicurezza-della-polaria-0c694d89-2842-4fc5-ad66-102136bdcd0f.html",
-     "title": "Allarmi bomba sui volo, ecco come scatta il piano di sicurezza della Polaria"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/allarme-bomba-aerei-news-oggi-6-novembre_20YazAtI3JSgjvhQv9nqju",
-     "title": "Caos nei cieli d'Europa, 18 voli nel mirino di allarmi bomba: due anche in Italia. In una e-mail la rivendicazione. Meloni: \"Sono preoccupata\""
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-e-aerei-in-tilt-operazione-terrore-nei-cieli-h9xv803a",
-     "title": "Allarmi bomba e aerei in tilt. Operazione terrore nei cieli"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/05/cosa-sappiamo-allarmi-bomba-aerei-europa/",
-     "title": "Cosa sappiamo degli allarmi bomba sugli aerei in Italia e in Europa"
     }
    ]
   },
@@ -164,7 +154,7 @@
    "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
    "summary": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-   "pub_ts": 1794015300,
+   "pub_ts": 1794037287,
    "n_sources": 5,
    "documented": true,
    "sources": [
@@ -179,51 +169,19 @@
      "title": "Lettera opposizioni a Meloni, ritiri nomina Altieri"
     },
     {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/07/presidente-anac-nomina-nuccio-altieri-ritirato/",
+     "title": "C’è un caso sulla nomina del nuovo presidente dell’ANAC"
+    },
+    {
      "name": "Rai News",
      "link": "https://www.rainews.it/articoli/2026/11/altieri-ritiro-la-mia-disponibilita-allincarico-di-presidente-dellanac-f99c68fe-672b-44c6-980e-84ec5aff4cae.html",
      "title": "Altieri: \"Ritiro la mia disponibilità all'incarico di presidente dell'Anac\""
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/06/altieri-anac-nomina-contestazione-opposizioni-lega/",
-     "title": "Altieri fa un passo indietro: «Ritiro la mia disponibilità per la presidenza Anac». Cronaca di una giornata di caos e polemiche"
-    },
-    {
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-rinuncia-presidenza-notizie/8563840/",
      "title": "Presidenza dell’Anac, dopo le polemiche Altieri rinuncia all’incarico: “Ritiro la mia disponibilità, ho parlato con Meloni”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
-   "summary": "La rivendicazione via mail. Diversi voli coinvolti, due in Italia. Meloni: 'Preoccupata'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-   "pub_ts": 1794009600,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-     "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarme_bomba_aerei_secondo_giorno_meloni_vertice_ue-425705731/",
-     "title": "Allarmi bomba sugli aerei, un’altra giornata di caos. Meloni: “siamo preoccupati”"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-aereoporti-europei-ultime-notizie-oggi-aggiornamenti-uktzlygz",
-     "title": "Ancora allarmi bomba nei cieli europei. La rivendicazione: «Faremo saltare in aria i vostri aerei, stazioni e treni»"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/06/falsi-allarmi-bomba-mail-rivendicazione-notizie/8563485/",
-     "title": "“Questo è solo l’inizio. Presto faremo esplodere i vostri aerei, navi e treni”: la mail che rivendica i falsi allarmi bomba"
     }
    ]
   },
@@ -238,7 +196,7 @@
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
+     "name": "ANSA Cronaca",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
      "title": "I pm possono procedere su Giusi Bartolozzi per false dichiarazioni"
     },
@@ -261,6 +219,33 @@
   },
   {
    "category": "politica",
+   "area": "mondo",
+   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
+   "summary": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
+   "pub_ts": 1794033380,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
+     "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_f449f3ee-5cd9-4326-87e1-71208e1e700f.html",
+     "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-trump-zelensky-putin-accordo_27QyC4mosGPquuAPRpLDLk",
+     "title": "Ucraina, Trump annuncia un grande accordo: vertice con Russia ad Abu Dhabi. Zelensky apre al voto online"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "italia",
    "title": "Sei italiani fermati in Cisgiordania, 'rilasciarli subito'",
    "summary": "Le opposizioni insorgono. Tajani: 'Seguiamo, non hanno fatto nulla'. Sabato l'avvio dell'espulsione",
@@ -270,7 +255,7 @@
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
+     "name": "ANSA Politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
      "title": "Sei italiani fermati in Cisgiordania, 'rilasciarli subito'"
     },
@@ -288,38 +273,11 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Allarmi bomba sui voli a Malpensa, aperta inchiesta per procurato allarme",
-   "summary": "Fascicolo a Busto Arsizio al momento a carico di ignoti",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/allarmi-bomba-sui-voli-a-malpensa-aperta-inchiesta-per-procurato-allarme_6b9a9ba0-aa10-448e-acdc-45af89843d6b.html",
-   "pub_ts": 1794009600,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/allarmi-bomba-sui-voli-a-malpensa-aperta-inchiesta-per-procurato-allarme_6b9a9ba0-aa10-448e-acdc-45af89843d6b.html",
-     "title": "Allarmi bomba sui voli a Malpensa, aperta inchiesta per procurato allarme"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarmi_bomba_negli_aeroporti_ora_cresce_la_paura_per_i_voli_di_natale-425705640/",
-     "title": "Allarmi bomba negli aeroporti, ora cresce la paura per i voli di Natale"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/allarmi-bomba-su-voli-da-qui-sono-partiti-i-caccia-italiani-32b3eb54-51ae-4e7a-b0fe-b526534adf4a.html",
-     "title": "Allarmi bomba su voli, da qui sono partiti i caccia italiani"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
    "title": "Collettivi, 'non siamo la Cgil, il campo largo non ci rappresenta'",
    "summary": "Appello per sciopero studentesco indipendente il 20 novembre",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/collettivi-non-siamo-la-cgil-il-campo-largo-non-ci-rappresenta_054a263f-e928-412d-85c1-a64559144ec1.html",
-   "pub_ts": 1794009600,
+   "pub_ts": 1794006060,
    "n_sources": 3,
    "documented": true,
    "sources": [
@@ -330,8 +288,8 @@
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/07/news/campo_largo_tavolo_programma_capigruppo_temi-425705817/",
-     "title": "Il campo largo avvia il tavolo sul programma, Schlein: uniti si vince"
+     "link": "https://www.repubblica.it/rubriche/l-amaca/2026/11/07/news/amaca_michele_serra_sabato_7_novembre_2026-425704964/",
+     "title": "Il campo largo degli americani"
     },
     {
      "name": "Nicola Porro",
@@ -343,22 +301,66 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
-   "summary": "'Vogliono un accordo. Avrò degli incontri nei prossimi giorni'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_f449f3ee-5cd9-4326-87e1-71208e1e700f.html",
-   "pub_ts": 1794014910,
+   "title": "Nuovo attacco missilistico su Kiev. 'Situazione energetica estremamente difficile'",
+   "summary": "Colpite infrastrutture della capitale. Attacco ucraino con droni in diverse regioni russe",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
+   "pub_ts": 1794040680,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_f449f3ee-5cd9-4326-87e1-71208e1e700f.html",
-     "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
+     "title": "Nuovo attacco missilistico su Kiev. 'Situazione energetica estremamente difficile'"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-trump-zelensky-putin-accordo_27QyC4mosGPquuAPRpLDLk",
-     "title": "Ucraina, Trump annuncia un grande accordo: vertice con Russia ad Abu Dhabi. Zelensky apre al voto online"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina-3ada613e-58c1-436d-9bef-86d8e8adab0a.html",
+     "title": "Media: la Russia lancia un nuovo attacco missilistico su Kiev: colpite infrastrutture della capitale"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Zelensky, sì al voto online. Il piano di garanzie Usa non convince l’Europa",
+   "summary": "Martedì al via i colloqui di pace ad Abu Dhabi, ma restano i nodi. Sale a 53 morti il bilancio del raid di Mosca a Komyshuvakha",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/zelensky_apre_a_voto_online_ucraina_piano_garanzie_usa_non_convince_ue-425705534/?rss",
+   "pub_ts": 1794009600,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/zelensky_apre_a_voto_online_ucraina_piano_garanzie_usa_non_convince_ue-425705534/?rss",
+     "title": "Zelensky, sì al voto online. Il piano di garanzie Usa non convince l’Europa"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/zelensky_apre_a_voto_online_ucraina_piano_garanzie_usa_non_convince_ue-425705534/",
+     "title": "Zelensky, sì al voto online. Il piano di garanzie Usa non convince l’Europa"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'",
+   "summary": "Voleva spiare il colosso dei semiconduttori",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
+   "pub_ts": 1794042190,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
+     "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/per-007-usa-ceo-nvidia-aveva-relazione-un-spia-cinese-AJJK9E8B",
+     "title": "Itelligence Usa: «Il Ceo di Nvidia Huang aveva una relazione con un spia cinese»"
     }
    ]
   },
@@ -409,34 +411,17 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Google sotto accusa: una 13enne avrebbe pianificato il suicidio con l’IA sul computer della scuola",
-   "summary": "I genitori di una ragazza del North Carolina accusano Google di averla esposta a conversazioni pericolose con la sua intelligenza artificiale attraverso un computer scolastico. Al centro della causa c’è AI Mode, la funzione conversazionale integrata nel motore di ricerca",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/google-piano-suicidio-13enne-ia-scuola-425705284/?rss",
-   "pub_ts": 1793991149,
+   "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa",
+   "summary": "Servirà una richiesta dei dirigenti per abilitare sui pc Gemini e Ricerca",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
+   "pub_ts": 1794041541,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/google-piano-suicidio-13enne-ia-scuola-425705284/?rss",
-     "title": "Google sotto accusa: una 13enne avrebbe pianificato il suicidio con l’IA sul computer della scuola"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Social e minori, la vera battaglia delle Big Tech è sul diritto di monetizzare",
-   "summary": "Meta, Google e TikTok contestano la legge californiana che limita l'utilizzo di alcune funzionalità dei social per chi ha meno di 16 anni. Dietro il confronto giuridico si profila uno scontro più ampio fra poteri pubblici e privati. In mezzo, i minori, che rischiano di diventare...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/big_tech_social_minori_causa_california-425705184/?rss",
-   "pub_ts": 1793989236,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/big_tech_social_minori_causa_california-425705184/?rss",
-     "title": "Social e minori, la vera battaglia delle Big Tech è sul diritto di monetizzare"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
+     "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa"
     }
    ]
   },
@@ -471,6 +456,29 @@
   {
    "category": "varia",
    "area": null,
+   "title": "Cinema, muore a 52 anni il regista cileno premio Oscar Sebastian Lelio",
+   "summary": "Vinse il premio di miglior film straniero nel 2018 con 'Una donna fantastica'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/cinema-muore-a-52-anni-il-regista-cileno-premio-oscar-sebastian-lelio_5bd6250a-7a8b-4c5a-a363-e5dffa424776.html",
+   "pub_ts": 1794037740,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/cinema-muore-a-52-anni-il-regista-cileno-premio-oscar-sebastian-lelio_5bd6250a-7a8b-4c5a-a363-e5dffa424776.html",
+     "title": "Cinema, muore a 52 anni il regista cileno premio Oscar Sebastian Lelio"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/sebastian-lelio-morto-a-52-anni-il-regista-premio-oscar-che-fece-brillare-moore-weisz-e-pugh-4f9639ed-780f-4859-96bb-088f16025ce5.html",
+     "title": "Sebastián Lelio, morto a 52 anni il regista premio Oscar che fece brillare Moore, Weisz e Pugh"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
    "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic",
    "summary": "Giuli, 'avanti nell'impegno di restituire alla collettività testimonianze fondamentali'",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
@@ -494,45 +502,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Riaprono nel parco archeologico di Ercolano due domus chiuse per decenni",
-   "summary": "Tornano accessibili al pubblico la Casa dell'atrio a mosaico e la Casa a graticcio",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/riaprono-nel-parco-archeologico-di-ercolano-due-domus-chiuse-per-decenni_b678a6dd-9f14-4945-bc8c-c9c74be470f2.html",
-   "pub_ts": 1793970361,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/riaprono-nel-parco-archeologico-di-ercolano-due-domus-chiuse-per-decenni_b678a6dd-9f14-4945-bc8c-c9c74be470f2.html",
-     "title": "Riaprono nel parco archeologico di Ercolano due domus chiuse per decenni"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/a-ercolano-riaprono-dopo-decenni-due-grandi-domus_2lqb2O5PWggi64SwSioMRk",
-     "title": "A Ercolano riaprono dopo decenni due grandi domus"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Tumore al polmone, mortalità in calo ma sempre più donne colpite",
-   "summary": "A Torino quattro giorni di eventi per i vent'anni di Walce",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/05/tumore-al-polmone-mortalita-in-calo-ma-sempre-piu-donne-colpite_add1408c-66cf-4b07-b52a-83010f3b8d49.html",
-   "pub_ts": 1793955606,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Il Papa parla della malattia, tutti abbiano possibilità di diagnosi tempestive",
+   "summary": "\"Garantire l'assistenza sanitaria, è una responsabilità che interpella la società\"",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/il-papa-parla-della-malattia-tutti-abbiano-possibilita-di-diagnosi-tempestive_ba406272-dc1a-4dc2-bdbe-346edb9e7fe6.html",
+   "pub_ts": 1794001958,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/05/tumore-al-polmone-mortalita-in-calo-ma-sempre-piu-donne-colpite_add1408c-66cf-4b07-b52a-83010f3b8d49.html",
-     "title": "Tumore al polmone, mortalità in calo ma sempre più donne colpite"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/episodes/le-donne-hanno-sempre-fatto-medicina/",
-     "title": "Le donne hanno sempre fatto medicina"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/il-papa-parla-della-malattia-tutti-abbiano-possibilita-di-diagnosi-tempestive_ba406272-dc1a-4dc2-bdbe-346edb9e7fe6.html",
+     "title": "Il Papa parla della malattia, tutti abbiano possibilità di diagnosi tempestive"
     }
    ],
    "subtype": "scienza"
@@ -540,22 +520,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "In Italia 3 milioni con disturbi alimentari, 6% ha meno di 12 anni",
-   "summary": "Con il progetto 'La prevenzione si impara da piccoli' sensibilizzazione nelle scuole",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/in-italia-3-milioni-con-disturbi-alimentari-6-ha-meno-di-12-anni_07efd6e5-7f97-4862-b892-f909546722ed.html",
-   "pub_ts": 1793891704,
-   "n_sources": 2,
-   "documented": true,
+   "title": "#SonoMoltoAltro, su Rai Gulp il cartoon sulla sclerosi multipla pediatrica",
+   "summary": "In due episodi nel weekend. Il secondo è visibile online",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/sonomoltoaltro-su-rai-gulp-il-cartoon-sulla-sclerosi-multipla-pediatrica_11e8f807-9514-4370-a400-7847e85a5bbe.html",
+   "pub_ts": 1793990455,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/in-italia-3-milioni-con-disturbi-alimentari-6-ha-meno-di-12-anni_07efd6e5-7f97-4862-b892-f909546722ed.html",
-     "title": "In Italia 3 milioni con disturbi alimentari, 6% ha meno di 12 anni"
-    },
-    {
-     "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/2026/11/05/news/in_italia_3_milioni_con_disturbi_alimentari_6_ha_meno_di_12_anni-425701824/?rss",
-     "title": "In Italia 3 milioni con disturbi alimentari, 6% ha meno di 12 anni"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/sonomoltoaltro-su-rai-gulp-il-cartoon-sulla-sclerosi-multipla-pediatrica_11e8f807-9514-4370-a400-7847e85a5bbe.html",
+     "title": "#SonoMoltoAltro, su Rai Gulp il cartoon sulla sclerosi multipla pediatrica"
     }
    ],
    "subtype": "scienza"
@@ -563,29 +538,29 @@
  ],
  "articles": [
   {
-   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
-   "description": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
-   "pub_ts": 1794009600,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Papa Leone: 'Fiero di essere americano e di avere votato'",
-   "link": "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-   "description": "Il Pontefice: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
-   "pub_ts": 1794007902,
+   "title": "++ Cyberattacco alla società della Galleria del Brennero, indagini ++",
+   "link": "https://www.ansa.it/sito/notizie/flash/2026/11/07/-cyberattacco-alla-societa-della-galleria-del-brennero-indagini-_055ed44e-4322-4bf4-84de-9681c09875d6.html",
+   "description": "Isolati i sistemi interessati e avviate analisi forensi",
+   "pub_ts": 1794043912,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Nuovi allarmi bomba, coinvolti due voli in Italia",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html",
-   "description": "Deviato a Venezia un Praga-Roma, l'altro atterrato a Lisbona",
-   "pub_ts": 1794016380,
-   "source": "ANSA Cronaca",
+   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
+   "description": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
+   "pub_ts": 1794042405,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il Papa in Sudamerica, 'sto bene, mai avuto dubbi di fare questo viaggio'",
+   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/06/il-papa-in-sudamerica-sto-bene-mai-avuto-dubbi-di-fare-questo-viaggio_ec3fb45a-65f8-422c-8b7a-cee1fcbe8b31.html",
+   "description": "'Ringrazio i medici che mi hanno permesso di essere qui in ottima forma'",
+   "pub_ts": 1794037686,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -593,16 +568,7 @@
    "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
    "description": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
-   "pub_ts": 1794015300,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-   "description": "La rivendicazione via mail. Diversi voli coinvolti, due in Italia. Meloni: 'Preoccupata'",
-   "pub_ts": 1794009600,
+   "pub_ts": 1794037287,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -612,6 +578,15 @@
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
    "description": "Sentenza della Consulta: 'Devono comunicarlo alla Camera'. Possibile sollevare un altro conflitto",
    "pub_ts": 1793986369,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
+   "description": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
+   "pub_ts": 1794033380,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -621,16 +596,7 @@
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
    "description": "Le opposizioni insorgono. Tajani: 'Seguiamo, non hanno fatto nulla'. Sabato l'avvio dell'espulsione",
    "pub_ts": 1794017940,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Allarmi bomba sui voli a Malpensa, aperta inchiesta per procurato allarme",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/allarmi-bomba-sui-voli-a-malpensa-aperta-inchiesta-per-procurato-allarme_6b9a9ba0-aa10-448e-acdc-45af89843d6b.html",
-   "description": "Fascicolo a Busto Arsizio al momento a carico di ignoti",
-   "pub_ts": 1794009600,
-   "source": "ANSA Cronaca",
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -638,19 +604,37 @@
    "title": "Collettivi, 'non siamo la Cgil, il campo largo non ci rappresenta'",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/collettivi-non-siamo-la-cgil-il-campo-largo-non-ci-rappresenta_054a263f-e928-412d-85c1-a64559144ec1.html",
    "description": "Appello per sciopero studentesco indipendente il 20 novembre",
-   "pub_ts": 1794009600,
+   "pub_ts": 1794006060,
    "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_f449f3ee-5cd9-4326-87e1-71208e1e700f.html",
-   "description": "'Vogliono un accordo. Avrò degli incontri nei prossimi giorni'",
-   "pub_ts": 1794014910,
-   "source": "ANSA Mondo",
+   "title": "Nuovo attacco missilistico su Kiev. 'Situazione energetica estremamente difficile'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
+   "description": "Colpite infrastrutture della capitale. Attacco ucraino con droni in diverse regioni russe",
+   "pub_ts": 1794040680,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
+  },
+  {
+   "title": "Zelensky, sì al voto online. Il piano di garanzie Usa non convince l’Europa",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/zelensky_apre_a_voto_online_ucraina_piano_garanzie_usa_non_convince_ue-425705534/?rss",
+   "description": "Martedì al via i colloqui di pace ad Abu Dhabi, ma restano i nodi. Sale a 53 morti il bilancio del raid di Mosca a Komyshuvakha",
+   "pub_ts": 1794009600,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
+   "description": "Voleva spiare il colosso dei semiconduttori",
+   "pub_ts": 1794042190,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
   },
   {
    "title": "La California eliminerà autoplay e scroll infinito dai social. Meta, Google e TikTok le fanno causa",
@@ -671,20 +655,11 @@
    "section": "tech"
   },
   {
-   "title": "Google sotto accusa: una 13enne avrebbe pianificato il suicidio con l’IA sul computer della scuola",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/google-piano-suicidio-13enne-ia-scuola-425705284/?rss",
-   "description": "I genitori di una ragazza del North Carolina accusano Google di averla esposta a conversazioni pericolose con la sua intelligenza artificiale attraverso un computer scolastico. Al centro della causa c’è AI Mode, la funzione conversazionale integrata nel motore di ricerca",
-   "pub_ts": 1793991149,
-   "source": "Repubblica Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Social e minori, la vera battaglia delle Big Tech è sul diritto di monetizzare",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/big_tech_social_minori_causa_california-425705184/?rss",
-   "description": "Meta, Google e TikTok contestano la legge californiana che limita l'utilizzo di alcune funzionalità dei social per chi ha meno di 16 anni. Dietro il confronto giuridico si profila uno scontro più ampio fra poteri pubblici e privati. In mezzo, i minori, che rischiano di diventare...",
-   "pub_ts": 1793989236,
-   "source": "Repubblica Tecnologia",
+   "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
+   "description": "Servirà una richiesta dei dirigenti per abilitare sui pc Gemini e Ricerca",
+   "pub_ts": 1794041541,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -698,6 +673,15 @@
    "section": "varia"
   },
   {
+   "title": "Cinema, muore a 52 anni il regista cileno premio Oscar Sebastian Lelio",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/cinema-muore-a-52-anni-il-regista-cileno-premio-oscar-sebastian-lelio_5bd6250a-7a8b-4c5a-a363-e5dffa424776.html",
+   "description": "Vinse il premio di miglior film straniero nel 2018 con 'Una donna fantastica'",
+   "pub_ts": 1794037740,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
    "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
    "description": "Giuli, 'avanti nell'impegno di restituire alla collettività testimonianze fondamentali'",
@@ -707,28 +691,19 @@
    "section": "varia"
   },
   {
-   "title": "Riaprono nel parco archeologico di Ercolano due domus chiuse per decenni",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/riaprono-nel-parco-archeologico-di-ercolano-due-domus-chiuse-per-decenni_b678a6dd-9f14-4945-bc8c-c9c74be470f2.html",
-   "description": "Tornano accessibili al pubblico la Casa dell'atrio a mosaico e la Casa a graticcio",
-   "pub_ts": 1793970361,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Tumore al polmone, mortalità in calo ma sempre più donne colpite",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/05/tumore-al-polmone-mortalita-in-calo-ma-sempre-piu-donne-colpite_add1408c-66cf-4b07-b52a-83010f3b8d49.html",
-   "description": "A Torino quattro giorni di eventi per i vent'anni di Walce",
-   "pub_ts": 1793955606,
+   "title": "Il Papa parla della malattia, tutti abbiano possibilità di diagnosi tempestive",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/il-papa-parla-della-malattia-tutti-abbiano-possibilita-di-diagnosi-tempestive_ba406272-dc1a-4dc2-bdbe-346edb9e7fe6.html",
+   "description": "\"Garantire l'assistenza sanitaria, è una responsabilità che interpella la società\"",
+   "pub_ts": 1794001958,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "In Italia 3 milioni con disturbi alimentari, 6% ha meno di 12 anni",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/in-italia-3-milioni-con-disturbi-alimentari-6-ha-meno-di-12-anni_07efd6e5-7f97-4862-b892-f909546722ed.html",
-   "description": "Con il progetto 'La prevenzione si impara da piccoli' sensibilizzazione nelle scuole",
-   "pub_ts": 1793891704,
+   "title": "#SonoMoltoAltro, su Rai Gulp il cartoon sulla sclerosi multipla pediatrica",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/sonomoltoaltro-su-rai-gulp-il-cartoon-sulla-sclerosi-multipla-pediatrica_11e8f807-9514-4370-a400-7847e85a5bbe.html",
+   "description": "In due episodi nel weekend. Il secondo è visibile online",
+   "pub_ts": 1793990455,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
