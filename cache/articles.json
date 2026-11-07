@@ -1,6 +1,6 @@
 {
- "generated_at": 1794005774,
- "updated_at": 1794005774,
+ "generated_at": 1794019179,
+ "updated_at": 1794019179,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,117 +9,75 @@
  "items": [
   {
    "category": "politica",
-   "area": "italia",
-   "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
-   "summary": "La rivendicazione via mail. Diversi voli coinvolti, due in Italia. Meloni: 'Preoccupata'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-   "pub_ts": 1793993160,
+   "area": "mondo",
+   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
+   "summary": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
+   "pub_ts": 1794009600,
+   "n_sources": 9,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
+     "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/06/midterm-trump-torna-allattacco-non-mollero-mai.-e-nomina-miller-capo_4b1dc648-5e25-4e4c-856c-8a949fe1762f.html",
+     "title": "Midterm: Trump torna all'attacco, 'non mollerò mai'. E nomina Miller capo dello staff"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/trump-nomina-stephen-miller-capo-di-gabinetto-al-posto-di-wiles_fb322428-1929-4b4e-b0ac-a67867c7851c.html",
+     "title": "Trump nomina Stephen Miller capo di gabinetto al posto di Wiles"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/",
+     "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/06/stephen-miller-chi-e-capo-staff-trump/",
+     "title": "Stephen Miller, il falco dell’immigrazione al comando della Casa Bianca: chi è il nuovo capo dello staff di Trump"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/usa-stretta-su-immigrazione-e-imperialismo-chi-e-stephen-miller-nuovo-capo-di-gabinetto-di-trump-e34bf53f-4837-4b60-b723-73013e8552a2.html",
+     "title": "Stretta su immigrazione e imperialismo: chi è Stephen Miller, il nuovo capo staff di Trump"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/trump-nessun-passo-indietro-promosso-miller-falco-pro-ice-vace-rubio-iran-dopo-midterm-cybebbpk",
+     "title": "Trump, nessun passo indietro. Promosso Miller, falco pro Ice"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/06/stephen-miller-nuovo-capo-di-gabinetto-casa-bianca-chief-of-staff/",
+     "title": "Trump ha nominato Stephen Miller capo di gabinetto della Casa Bianca"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-capo-staff-casa-bianca-miller-wiles_3RwIn9VtiFootNGRZ8ZOhI",
+     "title": "Stephen Miller nuovo capo staff della Casa Bianca, Trump 'fa fuori' Susie Wiles"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Papa Leone: 'Fiero di essere americano e di avere votato'",
+   "summary": "Il Pontefice: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
+   "link": "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
+   "pub_ts": 1794007902,
    "n_sources": 8,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-     "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html",
-     "title": "Nuovi allarmi bomba, coinvolti due voli in Italia"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/cronaca-allarmi-bomba-aerei-indagini-servizi-segreti-procura-antimafia-antiterrorismo-milano-busto-arsizio-roma-video-15c5d96e-da6f-4677-825b-05d04701b17e.html",
-     "title": "Allarmi bomba su aerei, al lavoro gli 007 di mezza Europa e quattro procure italiane"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/chi-ce-dietro-allarme-bomba-aerei-giornali-europa-ostaggio-nemico-x806euo2",
-     "title": "Allarmi bomba sugli aerei: «È solo l’inizio». L’Europa ostaggio di un nemico invisibile"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/06/allarmi-bomba-aerei-roma/",
-     "title": "Il quarto giorno di allarmi bomba in Europa"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/allarme-bomba-aerei-news-oggi-6-novembre_20YazAtI3JSgjvhQv9nqju",
-     "title": "Caos nei cieli d'Europa, 18 voli nel mirino di allarmi bomba: due anche in Italia. In una e-mail la rivendicazione. Meloni: \"Sono preoccupata\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/06/diretta/alllarmi_bomba_ryanair_roma_lisbona-425703663/",
-     "title": "Nuovi allarmi bomba: voli bloccati, media evacuati. La rivendicazione: “È solo l’inizio”"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/06/falsi-allarmi-bomba-mail-rivendicazione-notizie/8563485/",
-     "title": "“Questo è solo l’inizio. Presto faremo esplodere i vostri aerei, navi e treni”: la mail che rivendica i falsi allarmi bomba"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il Senato del Paraguay approva l'impeachment per il presidente Pena",
-   "summary": "Decisione in seguito allo scandalo del crack della banca Ueno",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/monta-la-protesta-in-paraguay-nonostante-si-vada-verso-limpeachment-al-presidente_b5c78e44-e52e-43f5-ad28-a2227aab6d8e.html",
-   "pub_ts": 1794003895,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/monta-la-protesta-in-paraguay-nonostante-si-vada-verso-limpeachment-al-presidente_b5c78e44-e52e-43f5-ad28-a2227aab6d8e.html",
-     "title": "Il Senato del Paraguay approva l'impeachment per il presidente Pena"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/il-senato-del-paraguay-approva-limpeachment-per-il-presidente-pena_a3260c96-58bb-44a1-9d06-e3c04bf240e8.html",
-     "title": "Il Senato del Paraguay approva l'impeachment per il presidente Pena"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/06/presidente-paraguay-santiago-pena-impeachment-destituito/",
-     "title": "Il presidente del Paraguay Santiago Peña, che era sotto impeachment, è stato destituito"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/caos-in-paraguay-si-dimette-il-presidente-pea-10380868-4095-49b0-baa6-3471cd8413ab.html",
-     "title": "Caos in Paraguay: fallisce la Ueno Bank, fondata dal presidente Peña, che si dimette. Proteste"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/paraguay-crac-ueno-bank-legami-presidente-pena-crisi-bancaria_4zPPDMxbzGvKtDgmVCXaY0",
-     "title": "Paraguay, dai legami con Ueno Bank all'impeachment: la crisi che ha travolto Pena"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/paraguay-presidente-pena-si-dimette-il-caos-ueno-bank-AJ9OSV6B",
-     "title": "Paraguay, il presidente Peña si dimette dopo il caos di Ueno Bank"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/paraguay-in-tilt-crac-banca-ueno-si-dimette-presidente-pena-q8a8wsei",
-     "title": "Paraguay in tilt: crac della banca Ueno e si dimette il presidente"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il Papa a Montevideo: 'Fiero di essere americano e di avere votato'",
-   "summary": "Leone: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
-   "link": "https://www.ansa.it/vaticano/notizie/2026/11/06/il-papa-in-sudamerica-e-atterrato-a-montevideo-benedetti-check-up-mai-avuto-dubbi-su-questo_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-   "pub_ts": 1794003210,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/vaticano/notizie/2026/11/06/il-papa-in-sudamerica-e-atterrato-a-montevideo-benedetti-check-up-mai-avuto-dubbi-su-questo_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-     "title": "Il Papa a Montevideo: 'Fiero di essere americano e di avere votato'"
+     "link": "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
+     "title": "Papa Leone: 'Fiero di essere americano e di avere votato'"
     },
     {
      "name": "Repubblica Esteri",
@@ -132,14 +90,14 @@
      "title": "Il Papa sulle midterm, 'fiero di avere esercitato il mio diritto'"
     },
     {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/papa-leone-xiv-uruguay-viaggio-america-latina_1HgUKwIC2fCvG8s2yhB15S",
+     "title": "Papa Leone XIV in Uruguay: \"Mai avuto dubbi sul viaggio. Fiero di essere americano e di aver votato\""
+    },
+    {
      "name": "Open",
      "link": "https://www.open.online/2026/11/06/papa-leone-xiv-orgoglioso-americano-voto-viaggio-missione-sudamerica-peru/",
      "title": "Papa Leone XIV: «Orgoglioso di essere americano e di aver votato. La tregua a Oleshky? Grazie a Dio è riuscita»"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/papa-uruguay-viaggio-america-latina-oggi_7BwPt6tP6dnYuQQbnKk8Zr",
-     "title": "Papa Leone XIV in Uruguay: \"Fiero di essere americano e di esercitare il diritto di voto\""
     },
     {
      "name": "la Repubblica",
@@ -150,6 +108,53 @@
      "name": "Rai News",
      "link": "https://www.rainews.it/video/2026/11/papa-leone-xiv-benedetti-check-up-mai-avuto-dubbi-su-questo-viaggio-e1e7ee6b-ca95-41b6-852a-2e071fa5b3c7.html",
      "title": "Papa arriva a Montevideo: \"Benedetti check-up, mai avuto dubbi sul viaggio\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/06/papa-leone-xiv-voto-midterm-notizie/8563711/",
+     "title": "Papa Leone XIV: “Sono fiero di essere statunitense e di aver esercitato il diritto di voto”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Nuovi allarmi bomba, coinvolti due voli in Italia",
+   "summary": "Deviato a Venezia un Praga-Roma, l'altro atterrato a Lisbona",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html",
+   "pub_ts": 1794016380,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html",
+     "title": "Nuovi allarmi bomba, coinvolti due voli in Italia"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/06/news/caos_nei_cieli_la_vignetta_di_ellekappa-425702746/?rss",
+     "title": "Caos nei cieli, la vignetta di Ellekappa"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/allarmi-bomba-sui-volo-ecco-come-scatta-il-piano-di-sicurezza-della-polaria-0c694d89-2842-4fc5-ad66-102136bdcd0f.html",
+     "title": "Allarmi bomba sui volo, ecco come scatta il piano di sicurezza della Polaria"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/allarme-bomba-aerei-news-oggi-6-novembre_20YazAtI3JSgjvhQv9nqju",
+     "title": "Caos nei cieli d'Europa, 18 voli nel mirino di allarmi bomba: due anche in Italia. In una e-mail la rivendicazione. Meloni: \"Sono preoccupata\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-e-aerei-in-tilt-operazione-terrore-nei-cieli-h9xv803a",
+     "title": "Allarmi bomba e aerei in tilt. Operazione terrore nei cieli"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/05/cosa-sappiamo-allarmi-bomba-aerei-europa/",
+     "title": "Cosa sappiamo degli allarmi bomba sugli aerei in Italia e in Europa"
     }
    ]
   },
@@ -159,8 +164,8 @@
    "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
    "summary": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-   "pub_ts": 1794003074,
-   "n_sources": 6,
+   "pub_ts": 1794015300,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
@@ -174,19 +179,14 @@
      "title": "Lettera opposizioni a Meloni, ritiri nomina Altieri"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/06/altieri-anac-nomina-contestazione-opposizioni-lega/",
-     "title": "Altieri fa un passo indietro: «Ritiro la mia disponibilità per la presidenza Anac». Cronaca di una giornata di caos e polemiche"
-    },
-    {
      "name": "Rai News",
      "link": "https://www.rainews.it/articoli/2026/11/altieri-ritiro-la-mia-disponibilita-allincarico-di-presidente-dellanac-f99c68fe-672b-44c6-980e-84ec5aff4cae.html",
      "title": "Altieri: \"Ritiro la mia disponibilità all'incarico di presidente dell'Anac\""
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/06/news/anac_trifone_altieri_trattativa_governo_pd-425705166/",
-     "title": "Anac, il passo indietro di Altieri: “Ritiro la mia disponibilità all'incarico di presidente”"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/06/altieri-anac-nomina-contestazione-opposizioni-lega/",
+     "title": "Altieri fa un passo indietro: «Ritiro la mia disponibilità per la presidenza Anac». Cronaca di una giornata di caos e polemiche"
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -197,38 +197,33 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Trump nomina Stephen Miller capo di gabinetto al posto di Wiles",
-   "summary": "L'annuncio su Truth",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/trump-nomina-stephen-miller-capo-di-gabinetto-al-posto-di-wiles_fb322428-1929-4b4e-b0ac-a67867c7851c.html",
-   "pub_ts": 1793999545,
-   "n_sources": 5,
+   "area": "italia",
+   "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
+   "summary": "La rivendicazione via mail. Diversi voli coinvolti, due in Italia. Meloni: 'Preoccupata'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
+   "pub_ts": 1794009600,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/trump-nomina-stephen-miller-capo-di-gabinetto-al-posto-di-wiles_fb322428-1929-4b4e-b0ac-a67867c7851c.html",
-     "title": "Trump nomina Stephen Miller capo di gabinetto al posto di Wiles"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/06/stephen-miller-nuovo-capo-di-gabinetto-casa-bianca-chief-of-staff/",
-     "title": "Trump ha nominato Stephen Miller capo di gabinetto della Casa Bianca"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-capo-staff-casa-bianca-miller-wiles_3RwIn9VtiFootNGRZ8ZOhI",
-     "title": "Stephen Miller nuovo capo staff della Casa Bianca, Trump 'fa fuori' Susie Wiles"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
+     "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/06/diretta/trump_elezioni_midterm_iran_impeachment_ultime_news-425703304/",
-     "title": "Elezioni di midterm, le news. Trump nomina il falco anti-migranti Miller capo di gabinetto al posto di Wiles"
+     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarme_bomba_aerei_secondo_giorno_meloni_vertice_ue-425705731/",
+     "title": "Allarmi bomba sugli aerei, un’altra giornata di caos. Meloni: “siamo preoccupati”"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-aereoporti-europei-ultime-notizie-oggi-aggiornamenti-uktzlygz",
+     "title": "Ancora allarmi bomba nei cieli europei. La rivendicazione: «Faremo saltare in aria i vostri aerei, stazioni e treni»"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/06/trump-miller-capo-gabinetto-wiles-notizie/8563805/",
-     "title": "Trump silura la capa di gabinetto Susie Wiles dopo la batosta alle elezioni di metà mandato: al suo posto Stephen Miller"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/06/falsi-allarmi-bomba-mail-rivendicazione-notizie/8563485/",
+     "title": "“Questo è solo l’inizio. Presto faremo esplodere i vostri aerei, navi e treni”: la mail che rivendica i falsi allarmi bomba"
     }
    ]
   },
@@ -267,27 +262,27 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Meloni a Fieracavalli, la premier sale in sella",
-   "summary": "La premier ha assistito a un'esibizione equestre nello stand del Masaf",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/meloni-a-fieracavalli-la-premier-sale-in-sella_8e93170d-026d-46e2-97d1-39ae07a89002.html",
-   "pub_ts": 1794005340,
+   "title": "Sei italiani fermati in Cisgiordania, 'rilasciarli subito'",
+   "summary": "Le opposizioni insorgono. Tajani: 'Seguiamo, non hanno fatto nulla'. Sabato l'avvio dell'espulsione",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
+   "pub_ts": 1794017940,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/meloni-a-fieracavalli-la-premier-sale-in-sella_8e93170d-026d-46e2-97d1-39ae07a89002.html",
-     "title": "Meloni a Fieracavalli, la premier sale in sella"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
+     "title": "Sei italiani fermati in Cisgiordania, 'rilasciarli subito'"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/videogallery/short_video/2026/11/06/giorgia-meloni-in-sella-ad-un-cavallo-bianco-alla-fiera-di-verona_ff2d38e9-c47e-4f21-88a4-30744026578c.html",
-     "title": "Giorgia Meloni in sella ad un cavallo bianco alla fiera di Verona"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla_50e96e81-bb2e-463a-bd84-7a998d685c3a.html",
+     "title": "Tajani conferma, 'italiani fermati in Cisgiordania, non hanno fatto nulla'"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/fieracavalli-a-verona-la-piu-grande-di-sempre-attesa-la-meloni-nel-pomeriggio-6f2cc649-4edf-416a-b55c-34152962cd03.html",
-     "title": "Fieracavalli a Verona, la più grande di sempre. Anche la premier Giorgia Meloni tra i padiglioni"
+     "link": "https://www.rainews.it/video/2026/11/son-brunori-4ff9875c-929c-483c-9264-75e4f76d3e70.html",
+     "title": "Cisgiordania, sei italiani fermati dalle autorità israeliane"
     }
    ]
   },
@@ -297,7 +292,7 @@
    "title": "Allarmi bomba sui voli a Malpensa, aperta inchiesta per procurato allarme",
    "summary": "Fascicolo a Busto Arsizio al momento a carico di ignoti",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/allarmi-bomba-sui-voli-a-malpensa-aperta-inchiesta-per-procurato-allarme_6b9a9ba0-aa10-448e-acdc-45af89843d6b.html",
-   "pub_ts": 1793989380,
+   "pub_ts": 1794009600,
    "n_sources": 3,
    "documented": true,
    "sources": [
@@ -307,68 +302,63 @@
      "title": "Allarmi bomba sui voli a Malpensa, aperta inchiesta per procurato allarme"
     },
     {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarmi_bomba_negli_aeroporti_ora_cresce_la_paura_per_i_voli_di_natale-425705640/",
+     "title": "Allarmi bomba negli aeroporti, ora cresce la paura per i voli di Natale"
+    },
+    {
      "name": "Rai News",
      "link": "https://www.rainews.it/video/2026/11/allarmi-bomba-su-voli-da-qui-sono-partiti-i-caccia-italiani-32b3eb54-51ae-4e7a-b0fe-b526534adf4a.html",
      "title": "Allarmi bomba su voli, da qui sono partiti i caccia italiani"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Collettivi, 'non siamo la Cgil, il campo largo non ci rappresenta'",
+   "summary": "Appello per sciopero studentesco indipendente il 20 novembre",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/collettivi-non-siamo-la-cgil-il-campo-largo-non-ci-rappresenta_054a263f-e928-412d-85c1-a64559144ec1.html",
+   "pub_ts": 1794009600,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/collettivi-non-siamo-la-cgil-il-campo-largo-non-ci-rappresenta_054a263f-e928-412d-85c1-a64559144ec1.html",
+     "title": "Collettivi, 'non siamo la Cgil, il campo largo non ci rappresenta'"
     },
     {
      "name": "la Repubblica",
-     "link": "https://milano.repubblica.it/cronaca/2026/11/06/news/allarmi_bomba_voli_fascicolo_indagine_milano_linate-425704436/",
-     "title": "Allarmi bomba sui voli, anche Milano apre un fascicolo: una mail sospetta arrivata a Linate"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Stephen Miller, il falco dell’immigrazione al comando della Casa Bianca: chi è il nuovo capo dello staff di Trump",
-   "summary": "Fedelissimo di Trump sin dalla prima ora, fautore dell'uso spregiudicato dei decreti esecutivi e paladino della linea dura sui confini, una «lotta per la sopravvivenza della civiltà occidentale» L'articolo Stephen Miller, il falco dell’immigrazione al comando della Casa Bianca: chi è il nuovo capo dello staff di Trump proviene da Open.",
-   "link": "https://www.open.online/2026/11/06/stephen-miller-chi-e-capo-staff-trump/",
-   "pub_ts": 1793998503,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/06/stephen-miller-chi-e-capo-staff-trump/",
-     "title": "Stephen Miller, il falco dell’immigrazione al comando della Casa Bianca: chi è il nuovo capo dello staff di Trump"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/usa-stretta-su-immigrazione-e-imperialismo-chi-e-stephen-miller-nuovo-capo-di-gabinetto-di-trump-e34bf53f-4837-4b60-b723-73013e8552a2.html",
-     "title": "Stretta su immigrazione e imperialismo: chi è Stephen Miller, il nuovo capo staff di Trump"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/trump-nessun-passo-indietro-promosso-miller-falco-pro-ice-vace-rubio-iran-dopo-midterm-cybebbpk",
-     "title": "Trump, nessun passo indietro. Promosso Miller, falco pro Ice"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Cosa sappiamo degli allarmi bomba sugli aerei in Italia e in Europa",
-   "summary": "Agli aeroporti di Roma e Milano sono arrivate mail di minaccia molto generiche e complottiste, di cui è difficile valutare la gravità",
-   "link": "https://www.ilpost.it/2026/11/05/cosa-sappiamo-allarmi-bomba-aerei-europa/",
-   "pub_ts": 1793996254,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/05/cosa-sappiamo-allarmi-bomba-aerei-europa/",
-     "title": "Cosa sappiamo degli allarmi bomba sugli aerei in Italia e in Europa"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/06/meloni-spese-militari-cyberattacchi-notizie/8563655/",
-     "title": "“Non sappiamo se cyberattacchi e allarmi bomba siano collegati, ma dimostrano che la spesa per la difesa mette in sicurezza i cittadini”: Meloni giustifica gli aumenti di stanziamenti in armi"
+     "link": "https://www.repubblica.it/politica/2026/11/07/news/campo_largo_tavolo_programma_capigruppo_temi-425705817/",
+     "title": "Il campo largo avvia il tavolo sul programma, Schlein: uniti si vince"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/panico-nei-cieli-deuropa-raffica-di-allarmi-bomba-decollano-i-caccia-dirottati-aerei/",
-     "title": "Panico nei cieli d’Europa, raffica di allarmi bomba: decollano i caccia, dirottati aerei"
+     "link": "https://www.nicolaporro.it/milanoquotidiano/campo-largo-il-problema-non-e-vincere-le-elezioni-e-dimostrare-di-saper-governare-litalia/",
+     "title": "Campo largo, il problema non è vincere le elezioni. È dimostrare di saper governare l’Italia"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
+   "summary": "'Vogliono un accordo. Avrò degli incontri nei prossimi giorni'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_f449f3ee-5cd9-4326-87e1-71208e1e700f.html",
+   "pub_ts": 1794014910,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_f449f3ee-5cd9-4326-87e1-71208e1e700f.html",
+     "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-trump-zelensky-putin-accordo_27QyC4mosGPquuAPRpLDLk",
+     "title": "Ucraina, Trump annuncia un grande accordo: vertice con Russia ad Abu Dhabi. Zelensky apre al voto online"
     }
    ]
   },
@@ -481,34 +471,6 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
-   "summary": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
-   "pub_ts": 1793981898,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
-     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
-    },
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_8a4688be-d219-4220-9824-aebb03145b15.html",
-     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/06/trapianto-fegato-molinette-torino-notizie/8562829/",
-     "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino. Salvato anche un bambino di 22 mesi"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
    "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic",
    "summary": "Giuli, 'avanti nell'impegno di restituire alla collettività testimonianze fondamentali'",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
@@ -574,33 +536,56 @@
     }
    ],
    "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "In Italia 3 milioni con disturbi alimentari, 6% ha meno di 12 anni",
+   "summary": "Con il progetto 'La prevenzione si impara da piccoli' sensibilizzazione nelle scuole",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/in-italia-3-milioni-con-disturbi-alimentari-6-ha-meno-di-12-anni_07efd6e5-7f97-4862-b892-f909546722ed.html",
+   "pub_ts": 1793891704,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/in-italia-3-milioni-con-disturbi-alimentari-6-ha-meno-di-12-anni_07efd6e5-7f97-4862-b892-f909546722ed.html",
+     "title": "In Italia 3 milioni con disturbi alimentari, 6% ha meno di 12 anni"
+    },
+    {
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/05/news/in_italia_3_milioni_con_disturbi_alimentari_6_ha_meno_di_12_anni-425701824/?rss",
+     "title": "In Italia 3 milioni con disturbi alimentari, 6% ha meno di 12 anni"
+    }
+   ],
+   "subtype": "scienza"
   }
  ],
  "articles": [
   {
-   "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-   "description": "La rivendicazione via mail. Diversi voli coinvolti, due in Italia. Meloni: 'Preoccupata'",
-   "pub_ts": 1793993160,
+   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
+   "description": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
+   "pub_ts": 1794009600,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Papa Leone: 'Fiero di essere americano e di avere votato'",
+   "link": "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
+   "description": "Il Pontefice: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
+   "pub_ts": 1794007902,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Il Senato del Paraguay approva l'impeachment per il presidente Pena",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/monta-la-protesta-in-paraguay-nonostante-si-vada-verso-limpeachment-al-presidente_b5c78e44-e52e-43f5-ad28-a2227aab6d8e.html",
-   "description": "Decisione in seguito allo scandalo del crack della banca Ueno",
-   "pub_ts": 1794003895,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il Papa a Montevideo: 'Fiero di essere americano e di avere votato'",
-   "link": "https://www.ansa.it/vaticano/notizie/2026/11/06/il-papa-in-sudamerica-e-atterrato-a-montevideo-benedetti-check-up-mai-avuto-dubbi-su-questo_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-   "description": "Leone: 'Check-up benedetti, mai avuto dubbi su questo viaggio'",
-   "pub_ts": 1794003210,
-   "source": "ANSA",
+   "title": "Nuovi allarmi bomba, coinvolti due voli in Italia",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/nuovi-allarmi-bomba-coinvolti-due-voli-in-italia_dd90ffe8-5ab8-4f0f-aff2-2360d4d5ca72.html",
+   "description": "Deviato a Venezia un Praga-Roma, l'altro atterrato a Lisbona",
+   "pub_ts": 1794016380,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
@@ -608,17 +593,17 @@
    "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
    "description": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
-   "pub_ts": 1794003074,
+   "pub_ts": 1794015300,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump nomina Stephen Miller capo di gabinetto al posto di Wiles",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/06/trump-nomina-stephen-miller-capo-di-gabinetto-al-posto-di-wiles_fb322428-1929-4b4e-b0ac-a67867c7851c.html",
-   "description": "L'annuncio su Truth",
-   "pub_ts": 1793999545,
-   "source": "ANSA Mondo",
+   "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
+   "description": "La rivendicazione via mail. Diversi voli coinvolti, due in Italia. Meloni: 'Preoccupata'",
+   "pub_ts": 1794009600,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -632,11 +617,11 @@
    "section": "politica"
   },
   {
-   "title": "Meloni a Fieracavalli, la premier sale in sella",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/meloni-a-fieracavalli-la-premier-sale-in-sella_8e93170d-026d-46e2-97d1-39ae07a89002.html",
-   "description": "La premier ha assistito a un'esibizione equestre nello stand del Masaf",
-   "pub_ts": 1794005340,
-   "source": "ANSA Politica",
+   "title": "Sei italiani fermati in Cisgiordania, 'rilasciarli subito'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
+   "description": "Le opposizioni insorgono. Tajani: 'Seguiamo, non hanno fatto nulla'. Sabato l'avvio dell'espulsione",
+   "pub_ts": 1794017940,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -644,26 +629,26 @@
    "title": "Allarmi bomba sui voli a Malpensa, aperta inchiesta per procurato allarme",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/allarmi-bomba-sui-voli-a-malpensa-aperta-inchiesta-per-procurato-allarme_6b9a9ba0-aa10-448e-acdc-45af89843d6b.html",
    "description": "Fascicolo a Busto Arsizio al momento a carico di ignoti",
-   "pub_ts": 1793989380,
+   "pub_ts": 1794009600,
    "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Stephen Miller, il falco dell’immigrazione al comando della Casa Bianca: chi è il nuovo capo dello staff di Trump",
-   "link": "https://www.open.online/2026/11/06/stephen-miller-chi-e-capo-staff-trump/",
-   "description": "Fedelissimo di Trump sin dalla prima ora, fautore dell'uso spregiudicato dei decreti esecutivi e paladino della linea dura sui confini, una «lotta per la sopravvivenza della civiltà occidentale» L'articolo Stephen Miller, il falco dell’immigrazione al comando della Casa Bianca: chi è il nuovo capo dello staff di Trump proviene da Open.",
-   "pub_ts": 1793998503,
-   "source": "Open",
+   "title": "Collettivi, 'non siamo la Cgil, il campo largo non ci rappresenta'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/collettivi-non-siamo-la-cgil-il-campo-largo-non-ci-rappresenta_054a263f-e928-412d-85c1-a64559144ec1.html",
+   "description": "Appello per sciopero studentesco indipendente il 20 novembre",
+   "pub_ts": 1794009600,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Cosa sappiamo degli allarmi bomba sugli aerei in Italia e in Europa",
-   "link": "https://www.ilpost.it/2026/11/05/cosa-sappiamo-allarmi-bomba-aerei-europa/",
-   "description": "Agli aeroporti di Roma e Milano sono arrivate mail di minaccia molto generiche e complottiste, di cui è difficile valutare la gravità",
-   "pub_ts": 1793996254,
-   "source": "Il Post",
+   "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_f449f3ee-5cd9-4326-87e1-71208e1e700f.html",
+   "description": "'Vogliono un accordo. Avrò degli incontri nei prossimi giorni'",
+   "pub_ts": 1794014910,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -713,15 +698,6 @@
    "section": "varia"
   },
   {
-   "title": "Cinque trapianti di fegato in 36 ore alle Molinette di Torino",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
-   "description": "Tra i pazienti un bambino di 22 mesi, tutti in miglioramento",
-   "pub_ts": 1793981898,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
    "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
    "description": "Giuli, 'avanti nell'impegno di restituire alla collettività testimonianze fondamentali'",
@@ -744,6 +720,15 @@
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/05/tumore-al-polmone-mortalita-in-calo-ma-sempre-piu-donne-colpite_add1408c-66cf-4b07-b52a-83010f3b8d49.html",
    "description": "A Torino quattro giorni di eventi per i vent'anni di Walce",
    "pub_ts": 1793955606,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "In Italia 3 milioni con disturbi alimentari, 6% ha meno di 12 anni",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/05/in-italia-3-milioni-con-disturbi-alimentari-6-ha-meno-di-12-anni_07efd6e5-7f97-4862-b892-f909546722ed.html",
+   "description": "Con il progetto 'La prevenzione si impara da piccoli' sensibilizzazione nelle scuole",
+   "pub_ts": 1793891704,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
