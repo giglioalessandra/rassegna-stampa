@@ -1,6 +1,6 @@
 {
- "generated_at": 1794045042,
- "updated_at": 1794045042,
+ "generated_at": 1794068037,
+ "updated_at": 1794068037,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,69 +9,12 @@
  "items": [
   {
    "category": "politica",
-   "area": "italia",
-   "title": "++ Cyberattacco alla società della Galleria del Brennero, indagini ++",
-   "summary": "Isolati i sistemi interessati e avviate analisi forensi",
-   "link": "https://www.ansa.it/sito/notizie/flash/2026/11/07/-cyberattacco-alla-societa-della-galleria-del-brennero-indagini-_055ed44e-4322-4bf4-84de-9681c09875d6.html",
-   "pub_ts": 1794043912,
-   "n_sources": 9,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/flash/2026/11/07/-cyberattacco-alla-societa-della-galleria-del-brennero-indagini-_055ed44e-4322-4bf4-84de-9681c09875d6.html",
-     "title": "++ Cyberattacco alla società della Galleria del Brennero, indagini ++"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/ft-i-servizi-europei-indagano-sulla-pista-russa-degli-allarmi-bomba_ca5c1967-eac2-46fb-b2fa-0a8998e4d5ab.html",
-     "title": "Ft, i servizi europei indagano sulla pista russa degli allarmi bomba"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-     "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/cyberattacco-alla-societa-della-galleria-del-brennero-860d7b57-b7bc-4c47-a4b6-4a9a0f112b6e.html",
-     "title": "Cyberattacco alla società della Galleria del Brennero"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/07/allarmi-bomba-minacce-europa-7-nov-ultime-notizie-diretta/",
-     "title": "Attacco hacker al Tunnel del Brennero: «Violati i sistemi». Allarmi bomba sui voli, 007 europei: «Perché la pista russa è la più probabile» – La diretta"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarmi_bomba_negli_aeroporti_ora_cresce_la_paura_per_i_voli_di_natale-425705640/",
-     "title": "Allarmi bomba negli aeroporti, ora cresce la paura per i voli di Natale"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-aereoporti-europei-ultime-notizie-oggi-aggiornamenti-uktzlygz",
-     "title": "Ancora allarmi bomba nei cieli europei. La rivendicazione: «Faremo saltare in aria i vostri aerei, stazioni e treni»"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/allarme-bomba-aerei-news-oggi-6-novembre_20YazAtI3JSgjvhQv9nqju",
-     "title": "Caos nei cieli d'Europa, 18 voli nel mirino di allarmi bomba: due anche in Italia. In una e-mail la rivendicazione. Meloni: \"Sono preoccupata\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/07/attacco-hacker-tunnel-brennero-bbt-notizie/8563905/",
-     "title": "Attacco hacker alla società del tunnel del Brennero: violati i sistemi informatici"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "mondo",
    "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
    "summary": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
-   "pub_ts": 1794042405,
-   "n_sources": 6,
+   "pub_ts": 1794067800,
+   "n_sources": 8,
    "documented": true,
    "sources": [
     {
@@ -85,9 +28,19 @@
      "title": "Trump nomina Stephen Miller capo di gabinetto al posto di Wiles"
     },
     {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
+     "title": "Trump nomina il \"falco\" Stephen Miller nuovo capo dello staff, i repubblicani: \"Decisione orribile\""
+    },
+    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/07/stephen-miller-capo-di-gabinetto/",
      "title": "Il nuovo capo di gabinetto di Trump è uno molto radicale"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/trump-prepara-vendetta-la-nomina-falco-stephen-miller-AJZi5g7B",
+     "title": "Trump prepara la vendetta con la nomina del falco Stephen Miller"
     },
     {
      "name": "la Repubblica",
@@ -108,19 +61,61 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Il Papa in Sudamerica, 'sto bene, mai avuto dubbi di fare questo viaggio'",
-   "summary": "'Ringrazio i medici che mi hanno permesso di essere qui in ottima forma'",
-   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/06/il-papa-in-sudamerica-sto-bene-mai-avuto-dubbi-di-fare-questo-viaggio_ec3fb45a-65f8-422c-8b7a-cee1fcbe8b31.html",
-   "pub_ts": 1794037686,
-   "n_sources": 6,
+   "area": "italia",
+   "title": "Cyberattacco alla società della Galleria del Brennero",
+   "summary": "Sospetti su gruppo filorusso 'Everest' specializzato nel furto di dati",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
+   "pub_ts": 1794064377,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/06/il-papa-in-sudamerica-sto-bene-mai-avuto-dubbi-di-fare-questo-viaggio_ec3fb45a-65f8-422c-8b7a-cee1fcbe8b31.html",
-     "title": "Il Papa in Sudamerica, 'sto bene, mai avuto dubbi di fare questo viaggio'"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
+     "title": "Cyberattacco alla società della Galleria del Brennero"
     },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
+     "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/hacker-filorussi-puntano-tajani-dati-personali-suoi-e-della-famiglia-sul-dark-web--f5f157f1-8c53-4a3c-9423-cbd224b285af.html",
+     "title": "Hacker filorussi puntano Tajani: dati personali suoi e della famiglia sul dark web"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/tajani-lo-voi-dark-web-hacker-dati-sensibili-tbem84sl",
+     "title": "Sul dark web i dati sensibili di Tajani e Lo Voi. Il ministro: «Non mi farò intimidire»"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/07/attacco-informatico-galleria-del-brennero/",
+     "title": "C’è stato un attacco informatico contro la società che sta costruendo la galleria del Brennero"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/07/news/tajani_ministro_denuncia_dati_personali_dark_web-425706409/",
+     "title": "La denuncia di Tajani: “Diffusi i miei dati su dark web, non mi farò intimidire”"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/cyberattacchi-tajani-minaccia-denuncia-dark-web_2VgzZjfeX65D2THSO6s4gq",
+     "title": "Cyberattacchi, la denuncia di Tajani: \"Miei dati su dark web, minacce alla mia famiglia per il sostegno dell'Italia a Kiev\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”",
+   "summary": "Il viaggio del pontefice in Sudamerica a un mese dall’intervento: “So che alcuni pensavano che non potessi partire, io no”",
+   "link": "https://www.repubblica.it/esteri/2026/11/06/news/papa_leone_viaggio_america_latina_mai_dubitato_di_farcela_fiero_di_aver_votato_midterm-425705441/?rss",
+   "pub_ts": 1794059664,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/06/news/papa_leone_viaggio_america_latina_mai_dubitato_di_farcela_fiero_di_aver_votato_midterm-425705441/?rss",
@@ -130,11 +125,6 @@
      "name": "ANSA Politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/il-papa-sulle-midterm-fiero-di-avere-esercitato-il-mio-diritto_f3147b7e-6769-4d9c-9148-594a8834dfcf.html",
      "title": "Il Papa sulle midterm, 'fiero di avere esercitato il mio diritto'"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/il-papa-in-sudamerica-dopo-il-tumore-le-tappe-del-viaggio_9c1d5d36-f115-42f3-9c82-296c69fc8c89.html",
-     "title": "Il Papa in Sudamerica dopo il tumore, le tappe del viaggio"
     },
     {
      "name": "Adnkronos Esteri",
@@ -151,37 +141,81 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
-   "summary": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-   "pub_ts": 1794037287,
-   "n_sources": 5,
+   "title": "Pistorius, 'al momento non possiamo più dare Patriot a Kiev'",
+   "summary": "'Rischio gap nei nostri arsenali, ci aspettiamo un maggior impegno dei nostri partner'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/pistorius-al-momento-non-possiamo-piu-dare-patriot-a-kiev_efa42cee-3c02-4188-9571-2543b9514a48.html",
+   "pub_ts": 1794063360,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-     "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/lettera-opposizioni-a-meloni-ritiri-nomina-altieri_304c36e8-a141-40ff-9f57-f4165058757e.html",
-     "title": "Lettera opposizioni a Meloni, ritiri nomina Altieri"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/07/presidente-anac-nomina-nuccio-altieri-ritirato/",
-     "title": "C’è un caso sulla nomina del nuovo presidente dell’ANAC"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/pistorius-al-momento-non-possiamo-piu-dare-patriot-a-kiev_efa42cee-3c02-4188-9571-2543b9514a48.html",
+     "title": "Pistorius, 'al momento non possiamo più dare Patriot a Kiev'"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/altieri-ritiro-la-mia-disponibilita-allincarico-di-presidente-dellanac-f99c68fe-672b-44c6-980e-84ec5aff4cae.html",
-     "title": "Altieri: \"Ritiro la mia disponibilità all'incarico di presidente dell'Anac\""
+     "link": "https://www.rainews.it/maratona/2026/11/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina-3ada613e-58c1-436d-9bef-86d8e8adab0a.html",
+     "title": "Pistorius: \"Non possiamo più mandare più altri Patriot a Kiev\". Tajani nel mirino del dark web"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/ucraina-pioggia-missili-kiev-colpite-infrastrutture-energetiche-zelensky-mosca-si-prepara-cosi-negoziati-AJ6tmO8B",
+     "title": "Ucraina, missili su Kiev: colpite infrastrutture energetiche. Pistorius: «Germania non può più fornire sistemi Patriot»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Hamas, allagate 70.000 tende che ospitano sfollati di Gaza",
+   "summary": "'Danni da 3 milioni di dollari per il meteo avverso'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/hamas-allagate-70.000-tende-che-ospitano-sfollati-di-gaza_5b212b77-e559-44b5-8167-c53b07cf8d46.html",
+   "pub_ts": 1794061406,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/hamas-allagate-70.000-tende-che-ospitano-sfollati-di-gaza_5b212b77-e559-44b5-8167-c53b07cf8d46.html",
+     "title": "Hamas, allagate 70.000 tende che ospitano sfollati di Gaza"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/axios-vance-lavora-per-nuovo-cessate-il-fuoco-e-ripresa-dei-negoziati-b8423de2-70e3-4d5c-9084-a1b32a08bebe.html",
+     "title": "Wsj, la Casa Bianca divisa sull'Iran dopo le midterm. Inondazioni a Gaza, 70 mila tende allagate"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-rinuncia-presidenza-notizie/8563840/",
-     "title": "Presidenza dell’Anac, dopo le polemiche Altieri rinuncia all’incarico: “Ritiro la mia disponibilità, ho parlato con Meloni”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/07/gaza-tende-allagate-piogge-video-bambini-freddo/8564029/",
+     "title": "Gaza, le tende degli sfollati allagate per le forti piogge: “I bambini tremano per il freddo” – Video"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Allarmi bomba sugli aerei, un’altra giornata di caos. Meloni: “siamo preoccupati”",
+   "summary": "Segnalazioni in tutto il continente, tre in Italia. Evacuate le sedi di media in Irlanda e Bulgaria. La rivendicazione: “È solo l’inizio”",
+   "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarme_bomba_aerei_secondo_giorno_meloni_vertice_ue-425705731/",
+   "pub_ts": 1794040409,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarme_bomba_aerei_secondo_giorno_meloni_vertice_ue-425705731/",
+     "title": "Allarmi bomba sugli aerei, un’altra giornata di caos. Meloni: “siamo preoccupati”"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/chi-ce-dietro-allarme-bomba-aerei-giornali-europa-ostaggio-nemico-x806euo2",
+     "title": "Allarmi bomba sugli aerei: «È solo l’inizio». L’Europa ostaggio di un nemico invisibile"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/zuppa-di-porro/zuppa-di-porro-del-7-novembre-2026/",
+     "title": "Allarmi bomba sugli aerei, a questo serve investire nella Difesa"
     }
    ]
   },
@@ -192,18 +226,13 @@
    "summary": "Sentenza della Consulta: 'Devono comunicarlo alla Camera'. Possibile sollevare un altro conflitto",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
    "pub_ts": 1793986369,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cronaca",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
      "title": "I pm possono procedere su Giusi Bartolozzi per false dichiarazioni"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/consulta-la-procura-puo-procedere-su-bartolozzi-per-false-dichiarazioni_7022d3d2-003d-430c-bbc8-6a8870e8a85e.html",
-     "title": "Consulta, la procura può procedere su Bartolozzi per false dichiarazioni"
     },
     {
      "name": "Il Post",
@@ -223,8 +252,8 @@
    "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
    "summary": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
    "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
-   "pub_ts": 1794033380,
-   "n_sources": 3,
+   "pub_ts": 1794053122,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
@@ -236,109 +265,50 @@
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_f449f3ee-5cd9-4326-87e1-71208e1e700f.html",
      "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-trump-zelensky-putin-accordo_27QyC4mosGPquuAPRpLDLk",
-     "title": "Ucraina, Trump annuncia un grande accordo: vertice con Russia ad Abu Dhabi. Zelensky apre al voto online"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Sei italiani fermati in Cisgiordania, 'rilasciarli subito'",
-   "summary": "Le opposizioni insorgono. Tajani: 'Seguiamo, non hanno fatto nulla'. Sabato l'avvio dell'espulsione",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
-   "pub_ts": 1794017940,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
-     "title": "Sei italiani fermati in Cisgiordania, 'rilasciarli subito'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla_50e96e81-bb2e-463a-bd84-7a998d685c3a.html",
-     "title": "Tajani conferma, 'italiani fermati in Cisgiordania, non hanno fatto nulla'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/son-brunori-4ff9875c-929c-483c-9264-75e4f76d3e70.html",
-     "title": "Cisgiordania, sei italiani fermati dalle autorità israeliane"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Collettivi, 'non siamo la Cgil, il campo largo non ci rappresenta'",
-   "summary": "Appello per sciopero studentesco indipendente il 20 novembre",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/collettivi-non-siamo-la-cgil-il-campo-largo-non-ci-rappresenta_054a263f-e928-412d-85c1-a64559144ec1.html",
-   "pub_ts": 1794006060,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/collettivi-non-siamo-la-cgil-il-campo-largo-non-ci-rappresenta_054a263f-e928-412d-85c1-a64559144ec1.html",
-     "title": "Collettivi, 'non siamo la Cgil, il campo largo non ci rappresenta'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/rubriche/l-amaca/2026/11/07/news/amaca_michele_serra_sabato_7_novembre_2026-425704964/",
-     "title": "Il campo largo degli americani"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/milanoquotidiano/campo-largo-il-problema-non-e-vincere-le-elezioni-e-dimostrare-di-saper-governare-litalia/",
-     "title": "Campo largo, il problema non è vincere le elezioni. È dimostrare di saper governare l’Italia"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Nuovo attacco missilistico su Kiev. 'Situazione energetica estremamente difficile'",
-   "summary": "Colpite infrastrutture della capitale. Attacco ucraino con droni in diverse regioni russe",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
-   "pub_ts": 1794040680,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
-     "title": "Nuovo attacco missilistico su Kiev. 'Situazione energetica estremamente difficile'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina-3ada613e-58c1-436d-9bef-86d8e8adab0a.html",
-     "title": "Media: la Russia lancia un nuovo attacco missilistico su Kiev: colpite infrastrutture della capitale"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Zelensky, sì al voto online. Il piano di garanzie Usa non convince l’Europa",
-   "summary": "Martedì al via i colloqui di pace ad Abu Dhabi, ma restano i nodi. Sale a 53 morti il bilancio del raid di Mosca a Komyshuvakha",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/zelensky_apre_a_voto_online_ucraina_piano_garanzie_usa_non_convince_ue-425705534/?rss",
-   "pub_ts": 1794009600,
+   "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa",
+   "summary": "Dall’esito dell’Election Day è emersa la possibilità che venga modificato il sistema elettorale: si potrebbe decidere non più in base agli Stati che votano a favore di un candidato, ma contando il voto popolare nazionale anziché affidarsi al sistema dei grandi elettori",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/?rss",
+   "pub_ts": 1794046390,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/zelensky_apre_a_voto_online_ucraina_piano_garanzie_usa_non_convince_ue-425705534/?rss",
-     "title": "Zelensky, sì al voto online. Il piano di garanzie Usa non convince l’Europa"
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/?rss",
+     "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/zelensky_apre_a_voto_online_ucraina_piano_garanzie_usa_non_convince_ue-425705534/",
-     "title": "Zelensky, sì al voto online. Il piano di garanzie Usa non convince l’Europa"
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/",
+     "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
+   "summary": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+   "pub_ts": 1794037287,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+     "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/07/presidente-anac-nomina-nuccio-altieri-ritirato/",
+     "title": "C’è un caso sulla nomina del nuovo presidente dell’ANAC"
     }
    ]
   },
@@ -348,8 +318,8 @@
    "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'",
    "summary": "Voleva spiare il colosso dei semiconduttori",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
-   "pub_ts": 1794042190,
-   "n_sources": 2,
+   "pub_ts": 1794060564,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -358,31 +328,14 @@
      "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/per-007-usa-ceo-nvidia-aveva-relazione-un-spia-cinese-AJJK9E8B",
-     "title": "Itelligence Usa: «Il Ceo di Nvidia Huang aveva una relazione con un spia cinese»"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "La California eliminerà autoplay e scroll infinito dai social. Meta, Google e TikTok le fanno causa",
-   "summary": "La legge AB 1709, in vigore dal 1 gennaio, non vieta i social ai ragazzi: toglie le funzioni che li tengono incollati allo schermo. Una strada diversa dal divieto totale scelto dall'Australia e, inparte, dall'Europa. Le piattaforme la contestano",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/meta_google_e_tiktok_fanno_causa_alla_california_minori_social-425704578/?rss",
-   "pub_ts": 1793991778,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/meta_google_e_tiktok_fanno_causa_alla_california_minori_social-425704578/?rss",
-     "title": "La California eliminerà autoplay e scroll infinito dai social. Meta, Google e TikTok le fanno causa"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/07/news/intelligence_usa_il_ceo_di_nvidia_jensen_huang_ha_avuto_una_relazione_con_una_spia_cinese-425706813/",
+     "title": "Intelligence Usa: “Il ceo di Nvidia Jensen Huang ha avuto una relazione con una spia cinese”"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/06/meta-tiktok-google-causa-california-adolescenti/",
-     "title": "Meta, TikTok e Google hanno fatto causa alla California"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/per-007-usa-ceo-nvidia-aveva-relazione-un-spia-cinese-AJJK9E8B",
+     "title": "Itelligence Usa: «Il Ceo di Nvidia Huang aveva una relazione con una spia cinese»"
     }
    ]
   },
@@ -411,6 +364,23 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA",
+   "summary": "Il 9 novembre, Barachini presidente di giuria. Lectio magistralis di padre Benanti",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_0835d49c-08bc-447d-b09c-7f2bb66cc647.html",
+   "pub_ts": 1794049074,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_0835d49c-08bc-447d-b09c-7f2bb66cc647.html",
+     "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa",
    "summary": "Servirà una richiesta dei dirigenti per abilitare sui pc Gemini e Ricerca",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
@@ -428,27 +398,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "A Potenza \"chiude\" il ponte Musmeci, gioiello del '900",
-   "summary": "Degrado impone lo stop alle auto. Una gara europea per salvarlo",
-   "link": "https://www.ansa.it/basilicata/notizie/2026/11/06/ansa-box-a-potenza-chiude-il-ponte-musmeci-gioiello-del-900_aec2977d-4ae9-4c38-90e6-88aa13c99302.html",
-   "pub_ts": 1793998351,
-   "n_sources": 3,
+   "title": "Anche Robert Pattinson e Nicholas Hoult in corsa per il nuovo James Bond",
+   "summary": "Hanno fatto i provini, sempre più affollata la corsa per l'eredita' di Daniel Craig",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/07/anche-robert-pattinson-e-nicholas-hoult-in-corsa-per-il-nuovo-james-bond_cdd3c068-1103-4e6c-9d2a-7c5fa625b4be.html",
+   "pub_ts": 1794066238,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/basilicata/notizie/2026/11/06/ansa-box-a-potenza-chiude-il-ponte-musmeci-gioiello-del-900_aec2977d-4ae9-4c38-90e6-88aa13c99302.html",
-     "title": "A Potenza \"chiude\" il ponte Musmeci, gioiello del '900"
-    },
-    {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/ansa-box-a-potenza-chiude-il-ponte-musmeci-gioiello-del-900_764ea391-e00f-4668-a49b-bf51cbe5c187.html",
-     "title": ">ANSA-BOX/ A Potenza \"chiude\" il ponte Musmeci, gioiello del '900"
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/07/anche-robert-pattinson-e-nicholas-hoult-in-corsa-per-il-nuovo-james-bond_cdd3c068-1103-4e6c-9d2a-7c5fa625b4be.html",
+     "title": "Anche Robert Pattinson e Nicholas Hoult in corsa per il nuovo James Bond"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/cadono-calcinacci-chiuso-il-ponte-musmeci-simbolo-della-citta-di-potenza_b25864d8-6b86-46f4-8a95-8b3b66678fb8.html",
-     "title": "Cadono calcinacci: chiuso il Ponte Musmeci, simbolo della città di Potenza"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/james-bond-robert-pattinson-ai-provini-per-007-sorpresa-tra-i-candidati-9d5c7bd0-df5d-46ed-9793-3fbf9bce98df.html",
+     "title": "James Bond, Robert Pattinson ai provini per 007: sorpresa tra i candidati"
     }
    ],
    "subtype": "cultura"
@@ -456,22 +421,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Cinema, muore a 52 anni il regista cileno premio Oscar Sebastian Lelio",
-   "summary": "Vinse il premio di miglior film straniero nel 2018 con 'Una donna fantastica'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/cinema-muore-a-52-anni-il-regista-cileno-premio-oscar-sebastian-lelio_5bd6250a-7a8b-4c5a-a363-e5dffa424776.html",
-   "pub_ts": 1794037740,
+   "title": "Netflix annuncia serie spin-off di 'Stranger Things Adventure Other Worlds'",
+   "summary": "Ambientata negli anni '50. I Duffer co-creatori con Katy Trefry e la regia Joe Wright",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/netflix-annuncia-serie-spin-off-di-stranger-things-adventure-other-worlds_feaefc3f-694d-4817-88a1-a80bb4a8be60.html",
+   "pub_ts": 1794064766,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/cinema-muore-a-52-anni-il-regista-cileno-premio-oscar-sebastian-lelio_5bd6250a-7a8b-4c5a-a363-e5dffa424776.html",
-     "title": "Cinema, muore a 52 anni il regista cileno premio Oscar Sebastian Lelio"
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/netflix-annuncia-serie-spin-off-di-stranger-things-adventure-other-worlds_feaefc3f-694d-4817-88a1-a80bb4a8be60.html",
+     "title": "Netflix annuncia serie spin-off di 'Stranger Things Adventure Other Worlds'"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/sebastian-lelio-morto-a-52-anni-il-regista-premio-oscar-che-fece-brillare-moore-weisz-e-pugh-4f9639ed-780f-4859-96bb-088f16025ce5.html",
-     "title": "Sebastián Lelio, morto a 52 anni il regista premio Oscar che fece brillare Moore, Weisz e Pugh"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/07/stranger-things-prequel-anni-50-netflix-other-worlds/",
+     "title": "“Stranger Things”, arriva il prequel negli anni ’50: Netflix annuncia “Other Worlds”"
     }
    ],
    "subtype": "cultura"
@@ -502,17 +467,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Il Papa parla della malattia, tutti abbiano possibilità di diagnosi tempestive",
-   "summary": "\"Garantire l'assistenza sanitaria, è una responsabilità che interpella la società\"",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/il-papa-parla-della-malattia-tutti-abbiano-possibilita-di-diagnosi-tempestive_ba406272-dc1a-4dc2-bdbe-346edb9e7fe6.html",
-   "pub_ts": 1794001958,
+   "title": "Nel 2025 le mammografie aumentate del 4% in Italia",
+   "summary": "Adesioni del 66% al Nord, del 55.9% al centro e del 47,9% al Sud",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/07/nel-2025-le-mammografie-aumentate-del-4-in-italia_f72b5a03-7ff9-4716-ba3f-e2f79668a990.html",
+   "pub_ts": 1794061143,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/il-papa-parla-della-malattia-tutti-abbiano-possibilita-di-diagnosi-tempestive_ba406272-dc1a-4dc2-bdbe-346edb9e7fe6.html",
-     "title": "Il Papa parla della malattia, tutti abbiano possibilità di diagnosi tempestive"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/07/nel-2025-le-mammografie-aumentate-del-4-in-italia_f72b5a03-7ff9-4716-ba3f-e2f79668a990.html",
+     "title": "Nel 2025 le mammografie aumentate del 4% in Italia"
     }
    ],
    "subtype": "scienza"
@@ -520,56 +485,136 @@
   {
    "category": "varia",
    "area": null,
-   "title": "#SonoMoltoAltro, su Rai Gulp il cartoon sulla sclerosi multipla pediatrica",
-   "summary": "In due episodi nel weekend. Il secondo è visibile online",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/sonomoltoaltro-su-rai-gulp-il-cartoon-sulla-sclerosi-multipla-pediatrica_11e8f807-9514-4370-a400-7847e85a5bbe.html",
-   "pub_ts": 1793990455,
+   "title": "Sanità, in Liguria è boom di vaccinazioni antinfluenzali",
+   "summary": "Quasi 154.000 in tre settimane, + 24% rispetto allo scorso anno",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/07/sanita-in-liguria-e-boom-di-vaccinazioni-antinfluenzali_41f1840c-9de6-4635-9cdd-379080f5dc68.html",
+   "pub_ts": 1794045313,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/sonomoltoaltro-su-rai-gulp-il-cartoon-sulla-sclerosi-multipla-pediatrica_11e8f807-9514-4370-a400-7847e85a5bbe.html",
-     "title": "#SonoMoltoAltro, su Rai Gulp il cartoon sulla sclerosi multipla pediatrica"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/07/sanita-in-liguria-e-boom-di-vaccinazioni-antinfluenzali_41f1840c-9de6-4635-9cdd-379080f5dc68.html",
+     "title": "Sanità, in Liguria è boom di vaccinazioni antinfluenzali"
     }
    ],
    "subtype": "scienza"
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Polonia, sparatoria nel centro di Cracovia: almeno cinque i morti, diversi i feriti. Fermato un sospetto",
+   "summary": "E’ avvenuto nella piazza del mercato dove alcuni giornali riportano fosse in corso una manifestazione antigovernativa. Tusk: “La polizia sta indagando”",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
+   "pub_ts": 1794067243,
+   "n_sources": 10,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
+     "title": "Polonia, sparatoria nel centro di Cracovia: almeno cinque i morti, diversi i feriti. Fermato un sospetto"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-2-persone-uccise-e-almeno-10-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
+     "title": "Cracovia, 5 persone uccise e altre ferite in una sparatoria in centro"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/missili-balistici-russi-su-kiev-almeno-cinque-feriti_573b2716-a576-4328-b8c8-787288c7beaf.html",
+     "title": "Missili balistici russi su Kiev, almeno cinque feriti"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/07/cracovia-sparatoria-folla-arrestato-killer-video/",
+     "title": "Spari sulla folla nel centro di Cracovia: 5 morti e almeno 10 feriti, arrestato il presunto killer – Il video"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/",
+     "title": "C’è stata una sparatoria nella piazza principale di Cracovia, in Polonia"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/spari-folla-cracovia-polonia-oggi-ultime-notizie_4EhtOuj39FnSSEMFVLt5RU",
+     "title": "Spari sulla folla a Cracovia, 5 morti e 12 feriti. L'aggressore ferito dalla polizia"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/polonia-2-persone-uccise-e-almeno-10-ferite-una-sparatoria-centro-cracovia-AJo9aX8B",
+     "title": "Polonia, la polizia: «I morti della sparatoria nella piazza di Cracovia sono 5»"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/cracovia-il-momento-in-cui-dallauto-partono-gli-spari-persone-in-fuga-67d9bfc3-c4cb-44bb-bc1c-bcbfa24ceece.html",
+     "title": "Cracovia: il momento in cui dall'auto partono gli spari, persone in fuga"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/",
+     "title": "Polonia, sparatoria nel centro di Cracovia: almeno cinque i morti, diversi i feriti. Fermato un sospetto"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/07/sparatoria-cracovia-morti-feriti-arrestato-uomo/8564188/",
+     "title": "Polonia, un uomo mascherato e con tuta mimetica spara a caso da un’auto a Cracovia: 5 morti e almeno 12 feriti"
+    }
+   ]
   }
  ],
  "articles": [
   {
-   "title": "++ Cyberattacco alla società della Galleria del Brennero, indagini ++",
-   "link": "https://www.ansa.it/sito/notizie/flash/2026/11/07/-cyberattacco-alla-societa-della-galleria-del-brennero-indagini-_055ed44e-4322-4bf4-84de-9681c09875d6.html",
-   "description": "Isolati i sistemi interessati e avviate analisi forensi",
-   "pub_ts": 1794043912,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
    "description": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
-   "pub_ts": 1794042405,
+   "pub_ts": 1794067800,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Il Papa in Sudamerica, 'sto bene, mai avuto dubbi di fare questo viaggio'",
-   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/06/il-papa-in-sudamerica-sto-bene-mai-avuto-dubbi-di-fare-questo-viaggio_ec3fb45a-65f8-422c-8b7a-cee1fcbe8b31.html",
-   "description": "'Ringrazio i medici che mi hanno permesso di essere qui in ottima forma'",
-   "pub_ts": 1794037686,
-   "source": "ANSA",
+   "title": "Cyberattacco alla società della Galleria del Brennero",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
+   "description": "Sospetti su gruppo filorusso 'Everest' specializzato nel furto di dati",
+   "pub_ts": 1794064377,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-   "description": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
-   "pub_ts": 1794037287,
-   "source": "ANSA",
+   "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”",
+   "link": "https://www.repubblica.it/esteri/2026/11/06/news/papa_leone_viaggio_america_latina_mai_dubitato_di_farcela_fiero_di_aver_votato_midterm-425705441/?rss",
+   "description": "Il viaggio del pontefice in Sudamerica a un mese dall’intervento: “So che alcuni pensavano che non potessi partire, io no”",
+   "pub_ts": 1794059664,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Pistorius, 'al momento non possiamo più dare Patriot a Kiev'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/pistorius-al-momento-non-possiamo-piu-dare-patriot-a-kiev_efa42cee-3c02-4188-9571-2543b9514a48.html",
+   "description": "'Rischio gap nei nostri arsenali, ci aspettiamo un maggior impegno dei nostri partner'",
+   "pub_ts": 1794063360,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Hamas, allagate 70.000 tende che ospitano sfollati di Gaza",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/hamas-allagate-70.000-tende-che-ospitano-sfollati-di-gaza_5b212b77-e559-44b5-8167-c53b07cf8d46.html",
+   "description": "'Danni da 3 milioni di dollari per il meteo avverso'",
+   "pub_ts": 1794061406,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Allarmi bomba sugli aerei, un’altra giornata di caos. Meloni: “siamo preoccupati”",
+   "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarme_bomba_aerei_secondo_giorno_meloni_vertice_ue-425705731/",
+   "description": "Segnalazioni in tutto il continente, tre in Italia. Evacuate le sedi di media in Irlanda e Bulgaria. La rivendicazione: “È solo l’inizio”",
+   "pub_ts": 1794040409,
+   "source": "la Repubblica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -586,44 +631,26 @@
    "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
    "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
    "description": "Il presidente Usa: 'Vogliono un accordo, sarà grande e coinvolgerà l'Europa'",
-   "pub_ts": 1794033380,
+   "pub_ts": 1794053122,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Sei italiani fermati in Cisgiordania, 'rilasciarli subito'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
-   "description": "Le opposizioni insorgono. Tajani: 'Seguiamo, non hanno fatto nulla'. Sabato l'avvio dell'espulsione",
-   "pub_ts": 1794017940,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Collettivi, 'non siamo la Cgil, il campo largo non ci rappresenta'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/collettivi-non-siamo-la-cgil-il-campo-largo-non-ci-rappresenta_054a263f-e928-412d-85c1-a64559144ec1.html",
-   "description": "Appello per sciopero studentesco indipendente il 20 novembre",
-   "pub_ts": 1794006060,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nuovo attacco missilistico su Kiev. 'Situazione energetica estremamente difficile'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
-   "description": "Colpite infrastrutture della capitale. Attacco ucraino con droni in diverse regioni russe",
-   "pub_ts": 1794040680,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Zelensky, sì al voto online. Il piano di garanzie Usa non convince l’Europa",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/zelensky_apre_a_voto_online_ucraina_piano_garanzie_usa_non_convince_ue-425705534/?rss",
-   "description": "Martedì al via i colloqui di pace ad Abu Dhabi, ma restano i nodi. Sale a 53 morti il bilancio del raid di Mosca a Komyshuvakha",
-   "pub_ts": 1794009600,
+   "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/?rss",
+   "description": "Dall’esito dell’Election Day è emersa la possibilità che venga modificato il sistema elettorale: si potrebbe decidere non più in base agli Stati che votano a favore di un candidato, ma contando il voto popolare nazionale anziché affidarsi al sistema dei grandi elettori",
+   "pub_ts": 1794046390,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+   "description": "Il manager: 'Ritiro la disponibilità per opportunità politica, istituzionale e personale'",
+   "pub_ts": 1794037287,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -631,17 +658,8 @@
    "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
    "description": "Voleva spiare il colosso dei semiconduttori",
-   "pub_ts": 1794042190,
+   "pub_ts": 1794060564,
    "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "La California eliminerà autoplay e scroll infinito dai social. Meta, Google e TikTok le fanno causa",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/06/news/meta_google_e_tiktok_fanno_causa_alla_california_minori_social-425704578/?rss",
-   "description": "La legge AB 1709, in vigore dal 1 gennaio, non vieta i social ai ragazzi: toglie le funzioni che li tengono incollati allo schermo. Una strada diversa dal divieto totale scelto dall'Australia e, inparte, dall'Europa. Le piattaforme la contestano",
-   "pub_ts": 1793991778,
-   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -655,6 +673,15 @@
    "section": "tech"
   },
   {
+   "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_0835d49c-08bc-447d-b09c-7f2bb66cc647.html",
+   "description": "Il 9 novembre, Barachini presidente di giuria. Lectio magistralis di padre Benanti",
+   "pub_ts": 1794049074,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
    "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
    "description": "Servirà una richiesta dei dirigenti per abilitare sui pc Gemini e Ricerca",
@@ -664,19 +691,19 @@
    "section": "tech"
   },
   {
-   "title": "A Potenza \"chiude\" il ponte Musmeci, gioiello del '900",
-   "link": "https://www.ansa.it/basilicata/notizie/2026/11/06/ansa-box-a-potenza-chiude-il-ponte-musmeci-gioiello-del-900_aec2977d-4ae9-4c38-90e6-88aa13c99302.html",
-   "description": "Degrado impone lo stop alle auto. Una gara europea per salvarlo",
-   "pub_ts": 1793998351,
-   "source": "ANSA",
+   "title": "Anche Robert Pattinson e Nicholas Hoult in corsa per il nuovo James Bond",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/07/anche-robert-pattinson-e-nicholas-hoult-in-corsa-per-il-nuovo-james-bond_cdd3c068-1103-4e6c-9d2a-7c5fa625b4be.html",
+   "description": "Hanno fatto i provini, sempre più affollata la corsa per l'eredita' di Daniel Craig",
+   "pub_ts": 1794066238,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Cinema, muore a 52 anni il regista cileno premio Oscar Sebastian Lelio",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/cinema-muore-a-52-anni-il-regista-cileno-premio-oscar-sebastian-lelio_5bd6250a-7a8b-4c5a-a363-e5dffa424776.html",
-   "description": "Vinse il premio di miglior film straniero nel 2018 con 'Una donna fantastica'",
-   "pub_ts": 1794037740,
+   "title": "Netflix annuncia serie spin-off di 'Stranger Things Adventure Other Worlds'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/netflix-annuncia-serie-spin-off-di-stranger-things-adventure-other-worlds_feaefc3f-694d-4817-88a1-a80bb4a8be60.html",
+   "description": "Ambientata negli anni '50. I Duffer co-creatori con Katy Trefry e la regia Joe Wright",
+   "pub_ts": 1794064766,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -691,22 +718,31 @@
    "section": "varia"
   },
   {
-   "title": "Il Papa parla della malattia, tutti abbiano possibilità di diagnosi tempestive",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/il-papa-parla-della-malattia-tutti-abbiano-possibilita-di-diagnosi-tempestive_ba406272-dc1a-4dc2-bdbe-346edb9e7fe6.html",
-   "description": "\"Garantire l'assistenza sanitaria, è una responsabilità che interpella la società\"",
-   "pub_ts": 1794001958,
+   "title": "Nel 2025 le mammografie aumentate del 4% in Italia",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/07/nel-2025-le-mammografie-aumentate-del-4-in-italia_f72b5a03-7ff9-4716-ba3f-e2f79668a990.html",
+   "description": "Adesioni del 66% al Nord, del 55.9% al centro e del 47,9% al Sud",
+   "pub_ts": 1794061143,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "#SonoMoltoAltro, su Rai Gulp il cartoon sulla sclerosi multipla pediatrica",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/sonomoltoaltro-su-rai-gulp-il-cartoon-sulla-sclerosi-multipla-pediatrica_11e8f807-9514-4370-a400-7847e85a5bbe.html",
-   "description": "In due episodi nel weekend. Il secondo è visibile online",
-   "pub_ts": 1793990455,
+   "title": "Sanità, in Liguria è boom di vaccinazioni antinfluenzali",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/07/sanita-in-liguria-e-boom-di-vaccinazioni-antinfluenzali_41f1840c-9de6-4635-9cdd-379080f5dc68.html",
+   "description": "Quasi 154.000 in tre settimane, + 24% rispetto allo scorso anno",
+   "pub_ts": 1794045313,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
+  },
+  {
+   "title": "Polonia, sparatoria nel centro di Cracovia: almeno cinque i morti, diversi i feriti. Fermato un sospetto",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
+   "description": "E’ avvenuto nella piazza del mercato dove alcuni giornali riportano fosse in corso una manifestazione antigovernativa. Tusk: “La polizia sta indagando”",
+   "pub_ts": 1794067243,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "cronaca"
   }
  ]
 }
