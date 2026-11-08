@@ -1,6 +1,6 @@
 {
- "generated_at": 1794121525,
- "updated_at": 1794121525,
+ "generated_at": 1794149771,
+ "updated_at": 1794149771,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,22 +10,22 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Israele, incarico ad Eisenkot: Netanyahu nell’angolo rilancia l’unità nazionale",
-   "summary": "Oggi l’investitura formale da parte del capo dello Stato Herzog. Poi 28 giorni di tempo per sciogliere il nodo dell’appoggio dei partiti arabi e degli ultraortodossi. La mossa del premier uscente rispedita al mittente",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
-   "pub_ts": 1794088323,
-   "n_sources": 7,
+   "title": "In Israele è il giorno di Eisenkot, Herzog gli affiderà l'incarico di formare il governo",
+   "summary": "Netanyahu tenta la carta dell'unità nazionale. L'ex generale: 'Liberati di Ben Gvir': Haaretz: 'Il partito arabo Ra'am è pronto a sostenerlo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-a-eisenkot-lincarico-di-formare-il-governo-in-israele_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
+   "pub_ts": 1794149019,
+   "n_sources": 8,
    "documented": true,
    "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-a-eisenkot-lincarico-di-formare-il-governo-in-israele_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
+     "title": "In Israele è il giorno di Eisenkot, Herzog gli affiderà l'incarico di formare il governo"
+    },
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
      "title": "Israele, incarico ad Eisenkot: Netanyahu nell’angolo rilancia l’unità nazionale"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-a-eisenkot-lincarico-di-formare-il-governo-in-israele_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
-     "title": "Herzog affida a Eisenkot l'incarico di formare il governo in Israele"
     },
     {
      "name": "ANSA Mondo",
@@ -33,9 +33,19 @@
      "title": "Herzog affida il governo a Eisenkot, incarico domani alle 17"
     },
     {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/israele-governo-eisenkot-netanyahu-herzog-maggioranza-partiti-arabi-n88q523r",
+     "title": "Israele, l’incarico a Eisenkot: 28 giorni per il nuovo governo"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/svolta-in-israele-a-eisenkot-lincarico-di-fare-il-governo-1d046124-7f92-447f-bf75-6acf8a3ba4d8.html",
+     "title": "Svolta in Israele, l'incarico a Eisenkot:\" Farò tutto il possibile per dimostrarci all'altezza\""
+    },
+    {
      "name": "Open",
-     "link": "https://www.open.online/2026/11/07/israele-incarico-governo-gadi-eisenkot-netanyahu/",
-     "title": "Israele, incarico di governo a Gadi Eisenkot. Le tre coalizioni possibili e l’ultima carta di Netanyahu per salvarsi"
+     "link": "https://www.open.online/2026/11/08/guerra-usa-iran-israele-nuovo-governo-8-nov-diretta/",
+     "title": "Israele, il partito arabo Ra’am apre a un governo con Eisenkot: oggi l’incarico. Emergenza a Gaza: «70mila tende allagate», ma resta il blocco degli aiuti – La diretta"
     },
     {
      "name": "Il Post",
@@ -46,92 +56,153 @@
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/israele-incarico-governo-eisenkot-domenica_7tORBsh49Ls5lfp2fxfSMq",
      "title": "Israele, Herzog affida a Eisenkot il compito di formare il prossimo governo"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/07/israele-eisenkot-governo-incarico-notizie/8564397/",
-     "title": "Israele, il presidente Herzog affida a Eisenkot l’incarico di formare il nuovo governo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
-   "summary": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
-   "pub_ts": 1794042405,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
-     "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/07/stephen-miller-capo-di-gabinetto/",
-     "title": "Il nuovo capo di gabinetto di Trump è uno molto radicale"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/trump-nessun-passo-indietro-promosso-miller-falco-pro-ice-vace-rubio-iran-dopo-midterm-cybebbpk",
-     "title": "Trump, nessun passo indietro. Promosso Miller, falco pro Ice"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-capo-staff-casa-bianca-miller-wiles_3RwIn9VtiFootNGRZ8ZOhI",
-     "title": "Stephen Miller nuovo capo staff della Casa Bianca, Trump 'fa fuori' Susie Wiles"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
-   "summary": "Solidarietà di Meloni al ministro. Hacker russi mettono 'taglia' su 18 nomi. Mosca: 'Non c'entriamo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
-   "pub_ts": 1794082039,
-   "n_sources": 3,
+   "title": "Attacchi informatici, Piantedosi convoca il Comitato di sicurezza pubblica",
+   "summary": "Tajani anticiperà oggi ai giornalisti presenti la posizione dell'Italia al G7. Martedì la riunione al Viminale per l'esame della minaccia cyber",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
+   "pub_ts": 1794145561,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
-     "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
+     "title": "Attacchi informatici, Piantedosi convoca il Comitato di sicurezza pubblica"
     },
     {
      "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
-     "title": "Cyberattacco alla società della Galleria del Brennero"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/attacchi-informatici-e-mail-di-allarme-europol-convoca-riunione_54e848c6-198b-4891-a6f8-1678580cd549.html",
+     "title": "Attacchi informatici e mail di allarme, Europol convoca riunione"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/07/attacco-informatico-galleria-del-brennero/",
-     "title": "C’è stato un attacco informatico contro la società che sta costruendo la galleria del Brennero"
+     "link": "https://www.ilpost.it/2026/11/08/riunione-comitato-nazionale-pubblica-sicurezza-e-ordine-pubblico/",
+     "title": "Il ministro dell’Interno Matteo Piantedosi ha convocato una riunione con le forze dell’ordine per i recenti attacchi informatici"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/08/news/emergenza_cybersicurezza_piantedosi_convoca_per_martedi_il_comitato_nazionale_per_la_sicurezza-425708322/",
+     "title": "Emergenza cyber attacchi, Piantedosi convoca per martedì il Comitato nazionale per la sicurezza"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Sindaco Trieste, se lanciano bombe carta nella mia città gli sparo in testa",
+   "summary": "Il durissimo commento di Dipiazza dopo gli incidenti di due sere fa",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
+   "pub_ts": 1794146994,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
+     "title": "Sindaco Trieste, se lanciano bombe carta nella mia città gli sparo in testa"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/08/news/roberto_dipiazza_sindaco_trieste_forza_italia_scontri-425708529/",
+     "title": "Dipiazza: “Se lanciano bombe carta a Trieste, io gli sparo in testa”. Le opposizioni: “Si dimetta”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/trieste-il-sindaco-dipiazza-sugli-scontri-bombe-carta-nella-mia-citta-gli-sparo-in-testa-il-pd-chiede-le-dimissioni/8564816/",
+     "title": "Trieste, il sindaco Dipiazza sugli scontri: “Bombe carta nella mia città? Gli sparo in testa”. Il Pd chiede le dimissioni"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Mosca presenta la squadra per il trilaterale Usa- Russia- Ucraina di Abu Dhabi",
-   "summary": "Il nuovo round di colloqui la prossima settimana (10-11 novembre). Sul tavolo, a cui non partecipa l’Ue, l’ambizione di trovare “un grande accordo” che includa garanzie per sicurezza in Europa",
+   "title": "Anp, a Gaza 400.000 sfollati in aree a forte rischio per le inondazioni",
+   "summary": "Appello dell'Onu, 'garantire l'ingresso di beni di prima necessità'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/anp-a-gaza-400.000-sfollati-in-aree-a-forte-rischio-per-le-inondazioni_1466f9d5-eac6-471c-a0a4-91d9919beca7.html",
+   "pub_ts": 1794148188,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/anp-a-gaza-400.000-sfollati-in-aree-a-forte-rischio-per-le-inondazioni_1466f9d5-eac6-471c-a0a4-91d9919beca7.html",
+     "title": "Anp, a Gaza 400.000 sfollati in aree a forte rischio per le inondazioni"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/gaza-tende-piogge-allagate-maltempo-vento-video/8564716/",
+     "title": "Gaza, le piogge allagano 70mila tende di sfollati. Anp: “A rischio migliaia di persone, può diventare una catastrofe”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Il Papa a Florida per l'ultima tappa in Uruguay: 'I governanti perseguano il bene di tutti'",
+   "summary": "Poi volerà in Argentina. 'Profondamente addolorato per le vittime di Cracovia'",
+   "link": "https://www.ansa.it/vaticano/notizie/2026/11/08/il-papa-a-florida-per-lultima-tappa-in-uruguay-i-governanti-perseguano-il-bene-di-tutti_b1a9c1ef-f58d-4638-863e-926dd7986a78.html",
+   "pub_ts": 1794147973,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/vaticano/notizie/2026/11/08/il-papa-a-florida-per-lultima-tappa-in-uruguay-i-governanti-perseguano-il-bene-di-tutti_b1a9c1ef-f58d-4638-863e-926dd7986a78.html",
+     "title": "Il Papa a Florida per l'ultima tappa in Uruguay: 'I governanti perseguano il bene di tutti'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-i-governanti-perseguano-il-bene-di-tutti_f0b0f8f5-b4be-4ee0-81de-b2da6db36116.html",
+     "title": "Il Papa, 'i governanti perseguano il bene di tutti'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'",
+   "summary": "'Prospettano impeachment e svariate forme di punizione, è estorsione e devono pagare'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/trump-ordina-indagini-sui-democratici-che-minacciano-molte-persone_32ef273e-d187-46ba-9749-7e91fde5e614.html",
+   "pub_ts": 1794138676,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/trump-ordina-indagini-sui-democratici-che-minacciano-molte-persone_32ef273e-d187-46ba-9749-7e91fde5e614.html",
+     "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/trump-miller-indagini-democratici-notizie/8564706/",
+     "title": "Trump ordina indagini sui dem pronti a metterlo sotto inchiesta: “Devono finire in prigione”. La linea dura dell’era Miller"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Mosca presenta la squadra per il trilaterale di Abu Dhabi. Pistorius: “La Germania non può più fornire Patriot a Kiev”",
+   "summary": "Il nuovo round di colloqui tra russi americani e ucraini la prossima settimana (10-11 novembre). Sul tavolo, a cui non partecipa l’Ue, l’ambizione di trovare “un grande accordo” che includa garanzie per sicurezza in Europa",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/negoziati_russia_ucraina_abu_dhabi_mosca_presenta_squadra-425707432/?rss",
-   "pub_ts": 1794119220,
+   "pub_ts": 1794132084,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/07/news/negoziati_russia_ucraina_abu_dhabi_mosca_presenta_squadra-425707432/?rss",
-     "title": "Mosca presenta la squadra per il trilaterale Usa- Russia- Ucraina di Abu Dhabi"
+     "title": "Mosca presenta la squadra per il trilaterale di Abu Dhabi. Pistorius: “La Germania non può più fornire Patriot a Kiev”"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/media-mosca-ad-abu-dhabi-con-delegazione-ampliata-ucraina-al-gelo-sotto-i-raid-russi-dc41b29e-9f1b-42d3-8fee-edf4f23b7cd3.html",
-     "title": "Media, Mosca ad Abu Dhabi con delegazione ampliata. Ucraina al gelo sotto i raid russi"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/ucraina-pioggia-missili-kiev-colpite-infrastrutture-energetiche-zelensky-mosca-si-prepara-cosi-negoziati-AJ6tmO8B",
+     "title": "Ucraina, missili su Kiev: colpite infrastrutture energetiche. Pistorius: «Germania non può più fornire sistemi Patriot»"
     }
    ]
   },
@@ -139,9 +210,9 @@
    "category": "politica",
    "area": "mondo",
    "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
-   "summary": "Il tycoon ha invitato il wrestler Dana White a fargli da portavoce, ma lui rifiuta. Prima aveva chiesto alla Giustizia di indagare sugli avversari: “Svegliamoci”",
+   "summary": "Il tycoon ha invitato il wrestler Dana White a fargli da portavoce. Prima aveva chiesto alla Giustizia di indagare sugli avversari: “Svegliamoci”",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-   "pub_ts": 1794100858,
+   "pub_ts": 1794131993,
    "n_sources": 2,
    "documented": true,
    "sources": [
@@ -154,6 +225,28 @@
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/",
      "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Dior si è risentita per le accuse di aver usato l’AI in un suo corto animato",
+   "summary": "L’acclamato regista che l’ha disegnato, Sylvain Chomet, e il produttore sono intervenuti per difendere il loro lavoro",
+   "link": "https://www.ilpost.it/2026/11/08/dior-video-natale-polemica-ai/",
+   "pub_ts": 1794146464,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/08/dior-video-natale-polemica-ai/",
+     "title": "Dior si è risentita per le accuse di aver usato l’AI in un suo corto animato"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/il-corto-per-dior-realizzato-con-ai-il-regista-francese-chomet-respinge-le-accuse-e477ebc4-c8a5-4da2-b1c6-0cc0488f2471.html",
+     "title": "Il corto per Dior realizzato con l'AI? Il regista francese Sylvain Chomet respinge le accuse"
     }
    ]
   },
@@ -180,170 +273,100 @@
    ]
   },
   {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Piogge e inondazioni su Gaza: “Ci lasciano morire di freddo”",
-   "summary": "Una violenta perturbazione ha colpito 700mila persone, allagando i campi profughi e circa 70mila tende degli sfollati",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/gaza_piogge_inondazioni_su_tendopoli_ci_lasciano_morire_di_freddo-425707211/?rss",
-   "pub_ts": 1794096000,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/gaza_piogge_inondazioni_su_tendopoli_ci_lasciano_morire_di_freddo-425707211/?rss",
-     "title": "Piogge e inondazioni su Gaza: “Ci lasciano morire di freddo”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/gaza_piogge_inondazioni_su_tendopoli_ci_lasciano_morire_di_freddo-425707211/",
-     "title": "Piogge e inondazioni su Gaza: “Ci lasciano morire di freddo”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Miller, il bullo del presidente dall’attivismo alla Casa Bianca: “La moglie dietro la nomina”",
-   "summary": "Kate, nota podcaster conservatrice ha mobilitato i vertici Maga affinché appoggiassero l’incarico a chief of staff",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/da_attivismo_maga_a_casa_bianca_miller_bullo_del_presidente_moglie_dietro_nomina-425707336/?rss",
-   "pub_ts": 1794096000,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/da_attivismo_maga_a_casa_bianca_miller_bullo_del_presidente_moglie_dietro_nomina-425707336/?rss",
-     "title": "Miller, il bullo del presidente dall’attivismo alla Casa Bianca: “La moglie dietro la nomina”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/da_attivismo_maga_a_casa_bianca_miller_bullo_del_presidente_moglie_dietro_nomina-425707336/",
-     "title": "Miller, il bullo del presidente dall’attivismo alla Casa Bianca: “La moglie dietro la nomina”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Caos voli, l’Europa sui falsi allarmi: “I russi usano basi in Sudamerica”",
-   "summary": "Ricostruita dai servizi la catena: i mandanti utilizzano manodopera nell’Asia ex sovietica, in Bolivia e Colombia",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/allarmi_bomba_aerei_strategia_tensione_europa_mosca-425707695/?rss",
-   "pub_ts": 1794096000,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/allarmi_bomba_aerei_strategia_tensione_europa_mosca-425707695/?rss",
-     "title": "Caos voli, l’Europa sui falsi allarmi: “I russi usano basi in Sudamerica”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/allarmi_bomba_aerei_strategia_tensione_europa_mosca-425707695/",
-     "title": "Allarmi aerei, strategia della tensione: l’Europa punta il dito su Mosca"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Bonaccini posta una foto fake di Tajani, FI insorge",
-   "summary": "Immagine poi rimossa, era un meme. Meloni: 'Libertà di espressione, non di disinformazione'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/meloni-contro-le-opposizioni-per-una-foto-falsa-di-bonaccini-su-tajani-lautore_b1633ef8-9762-4035-b9a1-399a0396d526.html",
-   "pub_ts": 1794075504,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/meloni-contro-le-opposizioni-per-una-foto-falsa-di-bonaccini-su-tajani-lautore_b1633ef8-9762-4035-b9a1-399a0396d526.html",
-     "title": "Bonaccini posta una foto fake di Tajani, FI insorge"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/politicoquotidiano/gli-ignoranti-votano-a-destra-poi-bonaccini-nella-bufera-per-una-foto-fake/",
-     "title": "“Gli ignoranti votano a destra”. Poi Bonaccini nella bufera per una foto fake"
-    }
-   ]
-  },
-  {
    "category": "tech",
    "area": null,
-   "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'",
-   "summary": "Voleva spiare il colosso dei semiconduttori",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
-   "pub_ts": 1794074722,
-   "n_sources": 3,
+   "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti",
+   "summary": "Standard comune non subito operativo, iniziativa in un clima di crescenti battaglie legali",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_a63d45f7-a835-4c78-ab46-3c70f71ac2b3.html",
+   "pub_ts": 1794145491,
+   "n_sources": 2,
    "documented": true,
    "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_a63d45f7-a835-4c78-ab46-3c70f71ac2b3.html",
+     "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti"
+    },
     {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
-     "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/per-007-usa-ceo-nvidia-aveva-relazione-un-spia-cinese-AJJK9E8B",
-     "title": "Intelligence Usa: «Il Ceo di Nvidia Huang aveva una relazione con una spia cinese»"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/07/jensen-huang-nvidia-spia-cinese-notizie/8564316/",
-     "title": "“L’ad di Nvidia Jensen Huang ha avuto una relazione con una donna reclutata come spia da Pechino”"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_01931b0a-ef0a-4f5b-be64-b2b05c4b7d9c.html",
+     "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Terrore a Skaugum, intruso irrompe e aggredisce Marius Høiby ai domiciliari",
-   "summary": "Il figlio della principessa ereditaria di Norvegia Mette-Marit, dove il giovane si trova agli arresti domiciliari dopo essere stato condannato per stupro a giugno",
-   "link": "https://www.rainews.it/articoli/2026/11/notte-di-paura-per-marius-borg-hiby-intruso-irrompe-in-casa-e-lo-aggredisce-ai-domiciliari-8c425e7f-8b62-4edf-a08a-908148fca4f7.html",
-   "pub_ts": 1794103260,
+   "title": "Addio a Lonnie Thompson, il glaciologo che ha dato voce ai ghiacci del pianeta",
+   "summary": "Per oltre cinquant'anni ha esplorato i ghiacciai del mondo, raccogliendo le tracce della storia climatica della Terra. Le sue ricerche hanno documentato gli effetti del riscaldamento globale, lasciando un'eredità preziosa per la scienza",
+   "link": "https://www.rainews.it/articoli/2026/11/riscaldamento-globale-addio-a-lonnie-thompson-il-glaciologo-che-ha-dato-voce-ai-ghiacci-del-pianeta-baa4d49b-75be-4c34-9635-42a0372340bc.html",
+   "pub_ts": 1794140100,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/notte-di-paura-per-marius-borg-hiby-intruso-irrompe-in-casa-e-lo-aggredisce-ai-domiciliari-8c425e7f-8b62-4edf-a08a-908148fca4f7.html",
-     "title": "Terrore a Skaugum, intruso irrompe e aggredisce Marius Høiby ai domiciliari"
+     "link": "https://www.rainews.it/articoli/2026/11/riscaldamento-globale-addio-a-lonnie-thompson-il-glaciologo-che-ha-dato-voce-ai-ghiacci-del-pianeta-baa4d49b-75be-4c34-9635-42a0372340bc.html",
+     "title": "Addio a Lonnie Thompson, il glaciologo che ha dato voce ai ghiacci del pianeta"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA",
-   "summary": "Il 9 novembre, Barachini presidente di giuria. Lectio magistralis di padre Benanti",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_0835d49c-08bc-447d-b09c-7f2bb66cc647.html",
-   "pub_ts": 1794049074,
+   "title": "Come delegare metà del lavoro a Claude: 5 strategie concrete",
+   "summary": "Il segreto non è chiedere di più a Claude, ma smettere di fare quello che lui fa meglio. 5 metodi per delegare il lavoro ripetitivo. The post Come delegare metà del lavoro a Claude: 5 strategie concrete appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/come-delegare-meta-del-lavoro-a-claude-5-strategie-concrete/",
+   "pub_ts": 1794126605,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_0835d49c-08bc-447d-b09c-7f2bb66cc647.html",
-     "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/come-delegare-meta-del-lavoro-a-claude-5-strategie-concrete/",
+     "title": "Come delegare metà del lavoro a Claude: 5 strategie concrete"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa",
-   "summary": "Servirà una richiesta dei dirigenti per abilitare sui pc Gemini e Ricerca",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
-   "pub_ts": 1794041541,
+   "title": "Problemi con il digitale terrestre? Passa ai canali satellitari",
+   "summary": "Se da tempo hai problemi con il digitale terrestre risolvi subito passando ai canali satellitari con tutto l'intrattenimento che vuoi. The post Problemi con il digitale terrestre? Passa ai canali satellitari appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/problemi-digitale-terrestre-passa-canali-satellitari/",
+   "pub_ts": 1794124848,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
-     "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/problemi-digitale-terrestre-passa-canali-satellitari/",
+     "title": "Problemi con il digitale terrestre? Passa ai canali satellitari"
     }
    ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Diaco si scusa con Ravagnani ma avverte, 'pronto a querele'",
+   "summary": "'Non transigo su insinuazioni relative ad avance o approcci mai avvenuti'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/diaco-si-scusa-con-ravagnani-ma-avverte-pronto-a-querele_522d4334-b691-4a0e-9340-f8755681b297.html",
+   "pub_ts": 1794147355,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/diaco-si-scusa-con-ravagnani-ma-avverte-pronto-a-querele_522d4334-b691-4a0e-9340-f8755681b297.html",
+     "title": "Diaco si scusa con Ravagnani ma avverte, 'pronto a querele'"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/ho-convocato-ravagnani-in-camerino-per-anticipargli-lintervista-mai-avvenute-avance-o-approcci-pronto-a-querelare-diaco-replica-a-ravagnani-dopo-ballando-con-le-stelle/8564771/",
+     "title": "“Ho convocato Ravagnani in camerino per anticipargli l’intervista. Mai avvenute avance o approcci, pronto a querelare”: Diaco replica a Ravagnani dopo Ballando con le Stelle"
+    }
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -394,40 +417,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Dalle piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel",
-   "summary": "Nella città umbra il primo festival diffuso e itinerante di musica spiritual",
-   "link": "https://www.ansa.it/umbria/notizie/2026/11/07/dalle-piazza-di-assisi-un-inno-di-pace-e-gioia-con-oltre-400-voci_896f7150-6850-45f3-817c-eb4368686323.html",
-   "pub_ts": 1794074648,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/umbria/notizie/2026/11/07/dalle-piazza-di-assisi-un-inno-di-pace-e-gioia-con-oltre-400-voci_896f7150-6850-45f3-817c-eb4368686323.html",
-     "title": "Dalle piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/07/dalle-piazza-di-assisi-un-inno-di-pace-e-gioia-con-oltre-400-voci_ca286fbb-268d-412d-8929-683a47d7e739.html",
-     "title": "Dalla piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Tumore del colon-retto, così alcune metastasi indeboliscono le difese",
-   "summary": "Studio del San Raffaele apre a nuovi trattamenti mirati",
-   "link": "https://www.rainews.it/articoli/2026/11/tumore-del-colon-retto-cosi-alcune-metastasi-indeboliscono-le-difese-6d4a2b0d-9fc2-490d-9723-686bf8f1a27e.html",
-   "pub_ts": 1794119220,
+   "title": "FIET 2026, a Venezia il dialogo tra enogastronomia, turismo e artigianato",
+   "summary": "Ca’ Vendramin Calergi ospita la sesta edizione del Festival of Italian Enogastronomy and Tourism. Incontri, masterclass e iniziative dedicate alle eccellenze produttive italiane, tra cultura dell’ospitalità, promozione dei territori e tradizioni",
+   "link": "https://www.rainews.it/maratona/2026/11/fiet-2026-a-venezia-il-dialogo-tra-enogastronomia-turismo-e-artigianato-3d75d2bf-3a7e-4608-8e1d-2d24cb2750d1.html",
+   "pub_ts": 1794148200,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/tumore-del-colon-retto-cosi-alcune-metastasi-indeboliscono-le-difese-6d4a2b0d-9fc2-490d-9723-686bf8f1a27e.html",
-     "title": "Tumore del colon-retto, così alcune metastasi indeboliscono le difese"
+     "link": "https://www.rainews.it/maratona/2026/11/fiet-2026-a-venezia-il-dialogo-tra-enogastronomia-turismo-e-artigianato-3d75d2bf-3a7e-4608-8e1d-2d24cb2750d1.html",
+     "title": "FIET 2026, a Venezia il dialogo tra enogastronomia, turismo e artigianato"
     }
    ],
    "subtype": "scienza"
@@ -435,17 +435,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Tumore colon-retto nei giovani, studio italiano svela la somiglianza proteica con tessuto placentare",
-   "summary": "Passi avanti sulla malattia, in aumento nei giovani adulti. Uno studio italiano scopre meccanismi molecolari simili a quelli della placenta",
-   "link": "https://www.rainews.it/video/2026/11/tumore-colon-retto-giovani-cancro-ricerca-oncologia-placenta--b9c03d64-c7a1-4c45-9575-285325dfc566.html",
-   "pub_ts": 1794118980,
+   "title": "TG1 Medicina del 08/11/2026",
+   "summary": "",
+   "link": "https://www.rainews.it/rubriche/tg1medicina/video/2026/11/TG1-Medicina-del-08112026-198ec0cb-eeeb-491d-b260-59be6b92c8af.html",
+   "pub_ts": 1794122736,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/tumore-colon-retto-giovani-cancro-ricerca-oncologia-placenta--b9c03d64-c7a1-4c45-9575-285325dfc566.html",
-     "title": "Tumore colon-retto nei giovani, studio italiano svela la somiglianza proteica con tessuto placentare"
+     "link": "https://www.rainews.it/rubriche/tg1medicina/video/2026/11/TG1-Medicina-del-08112026-198ec0cb-eeeb-491d-b260-59be6b92c8af.html",
+     "title": "TG1 Medicina del 08/11/2026"
     }
    ],
    "subtype": "scienza"
@@ -453,111 +453,128 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "In mimetica e con arma militare spara a caso dall'auto, 6 morti a Cracovia",
-   "summary": "Diversi feriti nella piazza simbolo. L'aggressore è un polacco di 25 anni, la polizia lo ferma",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-6-persone-uccise-e-almeno-15-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
-   "pub_ts": 1794096360,
-   "n_sources": 6,
+   "title": "Cracovia, aperta inchiesta per terrorismo. L'attentatore frequentava il poligono",
+   "summary": "Sequestrate armi e munizioni. L'appello: 'Il poliziotto eroe lotta per la vita, donate sangue'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/cracovia-lattentatore-e-gravemente-ferito.-in-casa-morti-padre-madre-e-sorella_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
+   "pub_ts": 1794148708,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-6-persone-uccise-e-almeno-15-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
-     "title": "In mimetica e con arma militare spara a caso dall'auto, 6 morti a Cracovia"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/cracovia-lattentatore-e-gravemente-ferito.-in-casa-morti-padre-madre-e-sorella_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
+     "title": "Cracovia, aperta inchiesta per terrorismo. L'attentatore frequentava il poligono"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/in-mimetica-e-con-arma-militare-spara-a-caso-dallauto-sei-morti-a-cracovia-fae8b6f6-370b-4d4b-b294-619961097a27.html",
-     "title": "In mimetica e con arma militare spara a caso dall'auto, sei morti a Cracovia"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/procura-polacca-aperta-uninchiesta-per-terrorismo_1b9dbed5-556c-4431-80bd-956739efd660.html",
+     "title": "Procura polacca, 'aperta un'inchiesta per terrorismo'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/08/strage-cracovia-terrorismo-chi-e-attentatore-uccisa-famiglia/",
+     "title": "Cracovia, aperta inchiesta per terrorismo. L’attentatore ha sterminato la famiglia prima dell’attacco: 6 morti in piazza, tra cui un britannico"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/08/cosa-sappiamo-attentato-cracovia/",
+     "title": "Cosa sappiamo dell’attacco a Cracovia"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/attentato-cracovia-chi-e-24enne-killer_1ikPl9ZRuwiyhjMfSUn6nC",
-     "title": "Chi è l'attentatore di Cracovia: il 24enne in tuta mimetica sparava con un fucile"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/polonia-2-persone-uccise-e-almeno-10-ferite-una-sparatoria-centro-cracovia-AJo9aX8B",
-     "title": "Polonia: in mimetica e con arma militare spara a caso dall’auto, 6 morti a Cracovia"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/",
-     "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/terrore-in-polonia-in-mimetica-e-con-una-maschera-spara-sulla-folla-e-strage/",
-     "title": "Terrore in Polonia, in mimetica e con una maschera spara sulla folla: è strage"
+     "link": "https://www.adnkronos.com/internazionale/esteri/cracovia-attacco-strage-cosa-sappiamo_45n95enGr4T7H8BrQJANi8",
+     "title": "Attacco a Cracovia, spari in piazza e 6 morti: attentatore ferito. La strage a casa, cosa sappiamo"
     }
    ]
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "Candele accese vicino alla piazza principale di Cracovia dopo la strage",
-   "summary": "Proseguono le indagini. Iniziato il lutto nazionale di due giorni",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_c63a62f8-9708-416f-aa5a-9ef47f477b5a.html",
-   "pub_ts": 1794093113,
-   "n_sources": 4,
+   "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”. Si indaga per terrorismo",
+   "summary": "Nella principale piazza della città diventata popolare meta turistica, una persona ha preso di mira persone a caso, sparando dalla sua auto in corsa",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
+   "pub_ts": 1794148937,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
+     "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”. Si indaga per terrorismo"
+    },
+    {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_c63a62f8-9708-416f-aa5a-9ef47f477b5a.html",
-     "title": "Candele accese vicino alla piazza principale di Cracovia dopo la strage"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/ministro-interni-polacco-il-killer-affascinato-da-ideologie-di-estrema-destra_838ca2b6-f95e-4699-8a71-7262fafec899.html",
+     "title": "Ministro interni polacco, 'il killer affascinato da ideologie di estrema destra'"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/cracovia-attacco-strage-cosa-sappiamo_45n95enGr4T7H8BrQJANi8",
-     "title": "Attacco a Cracovia, spari in piazza e 6 morti: attentatore ferito. La strage a casa, cosa sappiamo"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/07/cracovia-sparatoria-folla-arrestato-killer-video/",
-     "title": "Cracovia, spara sulla folla: 6 morti e 15 feriti. La tragica scoperta della polizia: «Altri 3 cadaveri in casa». Tusk: «Terrorismo» – I video"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/",
-     "title": "C’è stato un grave attacco nella piazza principale di Cracovia"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/cracovia-sparatoria-passanti-morti-gzs4xy92",
+     "title": "Fa fuoco sui passanti a Cracovia, almeno sei morti. «Il killer un estremista di destra»"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Israele, incarico ad Eisenkot: Netanyahu nell’angolo rilancia l’unità nazionale",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
-   "description": "Oggi l’investitura formale da parte del capo dello Stato Herzog. Poi 28 giorni di tempo per sciogliere il nodo dell’appoggio dei partiti arabi e degli ultraortodossi. La mossa del premier uscente rispedita al mittente",
-   "pub_ts": 1794088323,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
-   "description": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
-   "pub_ts": 1794042405,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
-   "description": "Solidarietà di Meloni al ministro. Hacker russi mettono 'taglia' su 18 nomi. Mosca: 'Non c'entriamo'",
-   "pub_ts": 1794082039,
+   "title": "In Israele è il giorno di Eisenkot, Herzog gli affiderà l'incarico di formare il governo",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-a-eisenkot-lincarico-di-formare-il-governo-in-israele_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
+   "description": "Netanyahu tenta la carta dell'unità nazionale. L'ex generale: 'Liberati di Ben Gvir': Haaretz: 'Il partito arabo Ra'am è pronto a sostenerlo'",
+   "pub_ts": 1794149019,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Mosca presenta la squadra per il trilaterale Usa- Russia- Ucraina di Abu Dhabi",
+   "title": "Attacchi informatici, Piantedosi convoca il Comitato di sicurezza pubblica",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
+   "description": "Tajani anticiperà oggi ai giornalisti presenti la posizione dell'Italia al G7. Martedì la riunione al Viminale per l'esame della minaccia cyber",
+   "pub_ts": 1794145561,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Sindaco Trieste, se lanciano bombe carta nella mia città gli sparo in testa",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
+   "description": "Il durissimo commento di Dipiazza dopo gli incidenti di due sere fa",
+   "pub_ts": 1794146994,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Anp, a Gaza 400.000 sfollati in aree a forte rischio per le inondazioni",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/anp-a-gaza-400.000-sfollati-in-aree-a-forte-rischio-per-le-inondazioni_1466f9d5-eac6-471c-a0a4-91d9919beca7.html",
+   "description": "Appello dell'Onu, 'garantire l'ingresso di beni di prima necessità'",
+   "pub_ts": 1794148188,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il Papa a Florida per l'ultima tappa in Uruguay: 'I governanti perseguano il bene di tutti'",
+   "link": "https://www.ansa.it/vaticano/notizie/2026/11/08/il-papa-a-florida-per-lultima-tappa-in-uruguay-i-governanti-perseguano-il-bene-di-tutti_b1a9c1ef-f58d-4638-863e-926dd7986a78.html",
+   "description": "Poi volerà in Argentina. 'Profondamente addolorato per le vittime di Cracovia'",
+   "pub_ts": 1794147973,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/trump-ordina-indagini-sui-democratici-che-minacciano-molte-persone_32ef273e-d187-46ba-9749-7e91fde5e614.html",
+   "description": "'Prospettano impeachment e svariate forme di punizione, è estorsione e devono pagare'",
+   "pub_ts": 1794138676,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Mosca presenta la squadra per il trilaterale di Abu Dhabi. Pistorius: “La Germania non può più fornire Patriot a Kiev”",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/negoziati_russia_ucraina_abu_dhabi_mosca_presenta_squadra-425707432/?rss",
-   "description": "Il nuovo round di colloqui la prossima settimana (10-11 novembre). Sul tavolo, a cui non partecipa l’Ue, l’ambizione di trovare “un grande accordo” che includa garanzie per sicurezza in Europa",
-   "pub_ts": 1794119220,
+   "description": "Il nuovo round di colloqui tra russi americani e ucraini la prossima settimana (10-11 novembre). Sul tavolo, a cui non partecipa l’Ue, l’ambizione di trovare “un grande accordo” che includa garanzie per sicurezza in Europa",
+   "pub_ts": 1794132084,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
@@ -565,9 +582,18 @@
   {
    "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-   "description": "Il tycoon ha invitato il wrestler Dana White a fargli da portavoce, ma lui rifiuta. Prima aveva chiesto alla Giustizia di indagare sugli avversari: “Svegliamoci”",
-   "pub_ts": 1794100858,
+   "description": "Il tycoon ha invitato il wrestler Dana White a fargli da portavoce. Prima aveva chiesto alla Giustizia di indagare sugli avversari: “Svegliamoci”",
+   "pub_ts": 1794131993,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Dior si è risentita per le accuse di aver usato l’AI in un suo corto animato",
+   "link": "https://www.ilpost.it/2026/11/08/dior-video-natale-polemica-ai/",
+   "description": "L’acclamato regista che l’ha disegnato, Sylvain Chomet, e il produttore sono intervenuti per difendere il loro lavoro",
+   "pub_ts": 1794146464,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "politica"
   },
@@ -581,76 +607,49 @@
    "section": "politica"
   },
   {
-   "title": "Piogge e inondazioni su Gaza: “Ci lasciano morire di freddo”",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/gaza_piogge_inondazioni_su_tendopoli_ci_lasciano_morire_di_freddo-425707211/?rss",
-   "description": "Una violenta perturbazione ha colpito 700mila persone, allagando i campi profughi e circa 70mila tende degli sfollati",
-   "pub_ts": 1794096000,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Miller, il bullo del presidente dall’attivismo alla Casa Bianca: “La moglie dietro la nomina”",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/da_attivismo_maga_a_casa_bianca_miller_bullo_del_presidente_moglie_dietro_nomina-425707336/?rss",
-   "description": "Kate, nota podcaster conservatrice ha mobilitato i vertici Maga affinché appoggiassero l’incarico a chief of staff",
-   "pub_ts": 1794096000,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Caos voli, l’Europa sui falsi allarmi: “I russi usano basi in Sudamerica”",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/allarmi_bomba_aerei_strategia_tensione_europa_mosca-425707695/?rss",
-   "description": "Ricostruita dai servizi la catena: i mandanti utilizzano manodopera nell’Asia ex sovietica, in Bolivia e Colombia",
-   "pub_ts": 1794096000,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Bonaccini posta una foto fake di Tajani, FI insorge",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/meloni-contro-le-opposizioni-per-una-foto-falsa-di-bonaccini-su-tajani-lautore_b1633ef8-9762-4035-b9a1-399a0396d526.html",
-   "description": "Immagine poi rimossa, era un meme. Meloni: 'Libertà di espressione, non di disinformazione'",
-   "pub_ts": 1794075504,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/07/ft-per-gli-007-usa-il-ceo-di-nvidia-aveva-una-relazione-con_4ad7a3c3-044a-45c5-b474-afd035f56d64.html",
-   "description": "Voleva spiare il colosso dei semiconduttori",
-   "pub_ts": 1794074722,
-   "source": "ANSA Tecnologia",
+   "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_a63d45f7-a835-4c78-ab46-3c70f71ac2b3.html",
+   "description": "Standard comune non subito operativo, iniziativa in un clima di crescenti battaglie legali",
+   "pub_ts": 1794145491,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Terrore a Skaugum, intruso irrompe e aggredisce Marius Høiby ai domiciliari",
-   "link": "https://www.rainews.it/articoli/2026/11/notte-di-paura-per-marius-borg-hiby-intruso-irrompe-in-casa-e-lo-aggredisce-ai-domiciliari-8c425e7f-8b62-4edf-a08a-908148fca4f7.html",
-   "description": "Il figlio della principessa ereditaria di Norvegia Mette-Marit, dove il giovane si trova agli arresti domiciliari dopo essere stato condannato per stupro a giugno",
-   "pub_ts": 1794103260,
+   "title": "Addio a Lonnie Thompson, il glaciologo che ha dato voce ai ghiacci del pianeta",
+   "link": "https://www.rainews.it/articoli/2026/11/riscaldamento-globale-addio-a-lonnie-thompson-il-glaciologo-che-ha-dato-voce-ai-ghiacci-del-pianeta-baa4d49b-75be-4c34-9635-42a0372340bc.html",
+   "description": "Per oltre cinquant'anni ha esplorato i ghiacciai del mondo, raccogliendo le tracce della storia climatica della Terra. Le sue ricerche hanno documentato gli effetti del riscaldamento globale, lasciando un'eredità preziosa per la scienza",
+   "pub_ts": 1794140100,
    "source": "Rai News",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Al via il Premio De Sanctis su editoria, informazione, creatività e IA",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/05/al-via-il-premio-de-sanctis-su-editoria-informazione-creativita-e-ia_0835d49c-08bc-447d-b09c-7f2bb66cc647.html",
-   "description": "Il 9 novembre, Barachini presidente di giuria. Lectio magistralis di padre Benanti",
-   "pub_ts": 1794049074,
-   "source": "ANSA Tecnologia",
+   "title": "Come delegare metà del lavoro a Claude: 5 strategie concrete",
+   "link": "https://www.punto-informatico.it/come-delegare-meta-del-lavoro-a-claude-5-strategie-concrete/",
+   "description": "Il segreto non è chiedere di più a Claude, ma smettere di fare quello che lui fa meglio. 5 metodi per delegare il lavoro ripetitivo. The post Come delegare metà del lavoro a Claude: 5 strategie concrete appeared first on Punto Informatico .",
+   "pub_ts": 1794126605,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
-   "description": "Servirà una richiesta dei dirigenti per abilitare sui pc Gemini e Ricerca",
-   "pub_ts": 1794041541,
-   "source": "ANSA Tecnologia",
+   "title": "Problemi con il digitale terrestre? Passa ai canali satellitari",
+   "link": "https://www.punto-informatico.it/problemi-digitale-terrestre-passa-canali-satellitari/",
+   "description": "Se da tempo hai problemi con il digitale terrestre risolvi subito passando ai canali satellitari con tutto l'intrattenimento che vuoi. The post Problemi con il digitale terrestre? Passa ai canali satellitari appeared first on Punto Informatico .",
+   "pub_ts": 1794124848,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
+  },
+  {
+   "title": "Diaco si scusa con Ravagnani ma avverte, 'pronto a querele'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/diaco-si-scusa-con-ravagnani-ma-avverte-pronto-a-querele_522d4334-b691-4a0e-9340-f8755681b297.html",
+   "description": "'Non transigo su insinuazioni relative ad avance o approcci mai avvenuti'",
+   "pub_ts": 1794147355,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
   },
   {
    "title": "Gialappa's Band, 'al Controfestival ci sarà grande spazio per la musica'",
@@ -671,47 +670,38 @@
    "section": "varia"
   },
   {
-   "title": "Dalle piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel",
-   "link": "https://www.ansa.it/umbria/notizie/2026/11/07/dalle-piazza-di-assisi-un-inno-di-pace-e-gioia-con-oltre-400-voci_896f7150-6850-45f3-817c-eb4368686323.html",
-   "description": "Nella città umbra il primo festival diffuso e itinerante di musica spiritual",
-   "pub_ts": 1794074648,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Tumore del colon-retto, così alcune metastasi indeboliscono le difese",
-   "link": "https://www.rainews.it/articoli/2026/11/tumore-del-colon-retto-cosi-alcune-metastasi-indeboliscono-le-difese-6d4a2b0d-9fc2-490d-9723-686bf8f1a27e.html",
-   "description": "Studio del San Raffaele apre a nuovi trattamenti mirati",
-   "pub_ts": 1794119220,
+   "title": "FIET 2026, a Venezia il dialogo tra enogastronomia, turismo e artigianato",
+   "link": "https://www.rainews.it/maratona/2026/11/fiet-2026-a-venezia-il-dialogo-tra-enogastronomia-turismo-e-artigianato-3d75d2bf-3a7e-4608-8e1d-2d24cb2750d1.html",
+   "description": "Ca’ Vendramin Calergi ospita la sesta edizione del Festival of Italian Enogastronomy and Tourism. Incontri, masterclass e iniziative dedicate alle eccellenze produttive italiane, tra cultura dell’ospitalità, promozione dei territori e tradizioni",
+   "pub_ts": 1794148200,
    "source": "Rai News",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Tumore colon-retto nei giovani, studio italiano svela la somiglianza proteica con tessuto placentare",
-   "link": "https://www.rainews.it/video/2026/11/tumore-colon-retto-giovani-cancro-ricerca-oncologia-placenta--b9c03d64-c7a1-4c45-9575-285325dfc566.html",
-   "description": "Passi avanti sulla malattia, in aumento nei giovani adulti. Uno studio italiano scopre meccanismi molecolari simili a quelli della placenta",
-   "pub_ts": 1794118980,
+   "title": "TG1 Medicina del 08/11/2026",
+   "link": "https://www.rainews.it/rubriche/tg1medicina/video/2026/11/TG1-Medicina-del-08112026-198ec0cb-eeeb-491d-b260-59be6b92c8af.html",
+   "description": "",
+   "pub_ts": 1794122736,
    "source": "Rai News",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "In mimetica e con arma militare spara a caso dall'auto, 6 morti a Cracovia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-6-persone-uccise-e-almeno-15-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
-   "description": "Diversi feriti nella piazza simbolo. L'aggressore è un polacco di 25 anni, la polizia lo ferma",
-   "pub_ts": 1794096360,
+   "title": "Cracovia, aperta inchiesta per terrorismo. L'attentatore frequentava il poligono",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/cracovia-lattentatore-e-gravemente-ferito.-in-casa-morti-padre-madre-e-sorella_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
+   "description": "Sequestrate armi e munizioni. L'appello: 'Il poliziotto eroe lotta per la vita, donate sangue'",
+   "pub_ts": 1794148708,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "Candele accese vicino alla piazza principale di Cracovia dopo la strage",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_c63a62f8-9708-416f-aa5a-9ef47f477b5a.html",
-   "description": "Proseguono le indagini. Iniziato il lutto nazionale di due giorni",
-   "pub_ts": 1794093113,
-   "source": "ANSA Mondo",
+   "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”. Si indaga per terrorismo",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
+   "description": "Nella principale piazza della città diventata popolare meta turistica, una persona ha preso di mira persone a caso, sparando dalla sua auto in corsa",
+   "pub_ts": 1794148937,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   }
