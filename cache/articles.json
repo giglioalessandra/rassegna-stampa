@@ -1,6 +1,6 @@
 {
- "generated_at": 1794084292,
- "updated_at": 1794084292,
+ "generated_at": 1794097179,
+ "updated_at": 1794097179,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,32 +10,27 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Israele, Herzog affida il governo a Eisenkot: incarico domani alle 17",
-   "summary": "Il presidente ha comunicato la decisione al leader del partito Yashar",
+   "title": "Israele, incarico ad Eisenkot: Netanyahu nell’angolo rilancia l’unità nazionale",
+   "summary": "Oggi l’investitura formale da parte del capo dello Stato Herzog. Poi 28 giorni di tempo per sciogliere il nodo dell’appoggio dei partiti arabi e degli ultraortodossi. La mossa del premier uscente rispedita al mittente",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
-   "pub_ts": 1794082380,
-   "n_sources": 9,
+   "pub_ts": 1794088323,
+   "n_sources": 8,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
-     "title": "Israele, Herzog affida il governo a Eisenkot: incarico domani alle 17"
+     "title": "Israele, incarico ad Eisenkot: Netanyahu nell’angolo rilancia l’unità nazionale"
     },
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
-     "title": "Herzog affida il governo a Eisenkot, incarico domani alle 17"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-a-eisenkot-lincarico-di-formare-il-governo-in-israele_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
+     "title": "Herzog affida a Eisenkot l'incarico di formare il governo in Israele"
     },
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_86419f21-d671-4ecb-9ca2-81397837ec60.html",
      "title": "Herzog affida il governo a Eisenkot, incarico domani alle 17"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/svolta-in-israele-herzog-incarica-eisenkot-di-formare-il-governo-netanyahu-si-ferma-a-46-seggi-b8423de2-70e3-4d5c-9084-a1b32a08bebe.html",
-     "title": "Svolta in Israele: Herzog sceglie Eisenkot per formare il governo, Netanyahu si ferma a 46 seggi"
     },
     {
      "name": "Open",
@@ -49,13 +44,13 @@
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/israele-incarico-governo-eisenkot_7tORBsh49Ls5lfp2fxfSMq",
-     "title": "Israele, Herzog affiderà domani a Eisenkot il compito di formare il prossimo governo"
+     "link": "https://www.adnkronos.com/internazionale/esteri/israele-incarico-governo-eisenkot-domenica_7tORBsh49Ls5lfp2fxfSMq",
+     "title": "Israele, Herzog affida a Eisenkot il compito di formare il prossimo governo"
     },
     {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/",
-     "title": "Israele, Herzog affida il governo a Eisenkot: incarico domani alle 17"
+     "title": "Israele, incarico ad Eisenkot: Netanyahu nell’angolo rilancia l’unità nazionale"
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -67,47 +62,37 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
-   "summary": "Solidarietà di Meloni al ministro. Hacker russi mettono 'taglia' su 18 nomi. Mosca: 'Non c'entriamo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
-   "pub_ts": 1794082039,
-   "n_sources": 7,
+   "title": "L’esperto militare britannico: “La deterrenza è la nostra arma contro la guerra ibrida di Mosca”",
+   "summary": "Keri Giles: “Gli autori di tali minacce cercano di abituarci ai falsi allarmi in modo che quando abbassiamo la guardia arrivi l’attacco vero”",
+   "link": "https://www.repubblica.it/esteri/2026/11/08/news/intervista_esperto_militare_britannico_deterrenza_e_arma_contro_guerra_ibrida_russa-425707549/?rss",
+   "pub_ts": 1794096000,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
-     "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/08/news/intervista_esperto_militare_britannico_deterrenza_e_arma_contro_guerra_ibrida_russa-425707549/?rss",
+     "title": "L’esperto militare britannico: “La deterrenza è la nostra arma contro la guerra ibrida di Mosca”"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
-     "title": "Cyberattacco alla società della Galleria del Brennero"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tajani-siamo-di-fronte-a-guerra-ibrida-g7-affronti-lunedi-il-tema_1cbe2402-1972-434c-aa1f-347102fad5c4.html",
+     "title": "Tajani, siamo di fronte a guerra ibrida, G7 affronti lunedì il tema"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/hacker-filorussi-puntano-tajani-dati-personali-suoi-e-della-famiglia-sul-dark-web--f5f157f1-8c53-4a3c-9423-cbd224b285af.html",
-     "title": "Hacker filorussi puntano Tajani: dati personali suoi e della famiglia sul dark web"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/tajani-lo-voi-dark-web-hacker-dati-sensibili-tbem84sl",
-     "title": "Sul dark web i dati sensibili di Tajani e Lo Voi. Il ministro: «Non mi farò intimidire»"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/07/attacco-informatico-galleria-del-brennero/",
-     "title": "C’è stato un attacco informatico contro la società che sta costruendo la galleria del Brennero"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/07/news/tajani_ministro_denuncia_dati_personali_dark_web-425706409/",
-     "title": "La denuncia di Tajani: “Diffusi i miei dati su dark web, non mi farò intimidire”"
+     "link": "https://www.rainews.it/video/2026/11/callusotg1-minacce-tajani-dbd57a84-43f2-4318-9776-78c6c051961c.html",
+     "title": "Minacce web e guerra ibrida: Tajani denuncia una taglia contro di lui"
     },
     {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/cyberattacchi-tajani-minaccia-denuncia-dark-web_2VgzZjfeX65D2THSO6s4gq",
      "title": "Cyberattacchi, la denuncia di Tajani: \"Miei dati su dark web, minacce alla mia famiglia per il sostegno dell'Italia a Kiev\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/sicurezza_difesa_guerra_ibrida_europa_impreparata-425705724/",
+     "title": "Quel piano dimenticato contro la guerra ibrida. Ecco perché l’Ue rischia"
     }
    ]
   },
@@ -115,21 +100,16 @@
    "category": "politica",
    "area": "mondo",
    "title": "Papa Leone in Uruguay, messa nei luoghi della memoria indigena: “Costruire ponti”",
-   "summary": "Nel suo secondo giorno nel paese latino-americano il Pontefice vola a Paysandù, dove nei secoli ci sono state le “reducciones” dei gesuiti e la strage dei leader indigeni. Cita la tipica bevanda del “mate” come simbolo di amicizia",
+   "summary": "Nel secondo giorno nel paese il Pontefice vola a Paysandù, dove i leader autoctoni vennero sterminati. Cita la tipica bevanda del “mate” come simbolo di amicizia. A Montevideo visita un quartiere povero: “Nessun bambino dovrebbe andare a dormire senza aver mangiato”",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/papa_leone_uruguay_messa_paysandu_memoria_indigena-425706877/?rss",
-   "pub_ts": 1794082229,
-   "n_sources": 6,
+   "pub_ts": 1794085615,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/07/news/papa_leone_uruguay_messa_paysandu_memoria_indigena-425706877/?rss",
      "title": "Papa Leone in Uruguay, messa nei luoghi della memoria indigena: “Costruire ponti”"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/vaticano/notizie/2026/11/07/il-papa-in-uruguay-siate-costruttori-di-ponti_8a4a02e2-1700-4980-9449-f12650e408c7.html",
-     "title": "Il Papa in Uruguay: 'Siate costruttori di ponti'"
     },
     {
      "name": "ANSA Politica",
@@ -143,8 +123,8 @@
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/papa-leone-xiv-in-uruguay-costruire-ponti-d92ea0bc-7aa6-412c-8e08-14173d803c66.html",
-     "title": "Il Papa in Uruguay: \"Costruire ponti\""
+     "link": "https://www.rainews.it/articoli/2026/11/nellomelia-a-paysand-papa-leone-esorta-a-costruire-ponti-9df59891-f38f-4774-b9a4-8ec5e3caf40f.html",
+     "title": "Nell’omelia a Paysandú, Papa Leone esorta a “costruire ponti”"
     },
     {
      "name": "Adnkronos Esteri",
@@ -156,32 +136,64 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump vuole portavoce il campione di arti marziali e ordina indagini sui dem",
-   "summary": "'Altre teste cadranno'. Primi effetti dell'era Miller pronto a arrestare i giornalisti",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
-   "pub_ts": 1794082570,
-   "n_sources": 4,
+   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
+   "summary": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
+   "pub_ts": 1794042405,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
+     "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/07/stephen-miller-capo-di-gabinetto/",
+     "title": "Il nuovo capo di gabinetto di Trump è uno molto radicale"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/",
+     "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/trump-nessun-passo-indietro-promosso-miller-falco-pro-ice-vace-rubio-iran-dopo-midterm-cybebbpk",
+     "title": "Trump, nessun passo indietro. Promosso Miller, falco pro Ice"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-capo-staff-casa-bianca-miller-wiles_3RwIn9VtiFootNGRZ8ZOhI",
+     "title": "Stephen Miller nuovo capo staff della Casa Bianca, Trump 'fa fuori' Susie Wiles"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
+   "summary": "Solidarietà di Meloni al ministro. Hacker russi mettono 'taglia' su 18 nomi. Mosca: 'Non c'entriamo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
+   "pub_ts": 1794082039,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
-     "title": "Trump vuole portavoce il campione di arti marziali e ordina indagini sui dem"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
+     "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/trump-ordina-indagini-sui-democratici-che-minacciano-molte-persone_32ef273e-d187-46ba-9749-7e91fde5e614.html",
-     "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cyberattacco-alla-societa-della-galleria-del-brennero-indagini-2_2aadec95-cb99-4b42-ab10-403a58e60b15.html",
+     "title": "Cyberattacco alla società della Galleria del Brennero"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/usa-trump-ha-chiesto-dana-white-essere-portavoce-casa-bianca-AJYzbk8B",
-     "title": "Usa, Trump vuole portavoce il campione di arti marziali e ordina indagini sui dem"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
-     "title": "Trump ordina indagini sui democratici \"che minacciano molte persone\""
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/07/attacco-informatico-galleria-del-brennero/",
+     "title": "C’è stato un attacco informatico contro la società che sta costruendo la galleria del Brennero"
     }
    ]
   },
@@ -215,33 +227,6 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Tajani, siamo di fronte a guerra ibrida, G7 affronti lunedì il tema",
-   "summary": "Dopo che dati del ministro e famigliari sono finiti sul dark web ad opera dei filorussi",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tajani-siamo-di-fronte-a-guerra-ibrida-g7-affronti-lunedi-il-tema_1cbe2402-1972-434c-aa1f-347102fad5c4.html",
-   "pub_ts": 1794079020,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tajani-siamo-di-fronte-a-guerra-ibrida-g7-affronti-lunedi-il-tema_1cbe2402-1972-434c-aa1f-347102fad5c4.html",
-     "title": "Tajani, siamo di fronte a guerra ibrida, G7 affronti lunedì il tema"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/callusotg1-minacce-tajani-dbd57a84-43f2-4318-9776-78c6c051961c.html",
-     "title": "Minacce web e guerra ibrida: Tajani denuncia una taglia contro di lui"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/07/news/sicurezza_difesa_guerra_ibrida_europa_impreparata-425705724/",
-     "title": "Quel piano dimenticato contro la guerra ibrida. Ecco perché l’Ue rischia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
    "title": "Allarmi bomba sugli aerei, un’altra giornata di caos. Meloni: “siamo preoccupati”",
    "summary": "Segnalazioni in tutto il continente, tre in Italia. Evacuate le sedi di media in Irlanda e Bulgaria. La rivendicazione: “È solo l’inizio”",
    "link": "https://www.repubblica.it/cronaca/2026/11/07/news/allarme_bomba_aerei_secondo_giorno_meloni_vertice_ue-425705731/",
@@ -269,55 +254,6 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "I pm possono procedere su Giusi Bartolozzi per false dichiarazioni",
-   "summary": "Sentenza della Consulta: 'Devono comunicarlo alla Camera'. Possibile sollevare un altro conflitto",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
-   "pub_ts": 1793986369,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
-     "title": "I pm possono procedere su Giusi Bartolozzi per false dichiarazioni"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/06/giusi-bartolozzi-processo-attribuzione-corte-costituzionale-false-dichiarazioni/",
-     "title": "Giusi Bartolozzi potrà essere processata"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/bartolozzi-consulta-ricorso-parzialmente-ammissibile-camera-roma-procura-go9f5je1",
-     "title": "Caso Almasri, la Consulta: Bartolozzi potrà essere processata, non serviva l’autorizzazione della Camera"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
-   "summary": "Il presidente Usa su Truth: “Prospettano impeachment e svariate forme di punizione, è estorsione e devono pagare”. Al wrestler Dana White: “Ti prego accetta l’incarico come portevoce e porta i tuoi collaboratori, abbiamo bisogno di voi contro la sinistra folle”",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-   "pub_ts": 1794081790,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-     "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/",
-     "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
    "title": "L'Ucraina al buio per i raid. Allarme di Berlino sui Patriot",
    "summary": "Pistorius: per ora non riusciamo a darne altri. Zelensky, così Mosca si prepara a colloqui",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
@@ -334,6 +270,50 @@
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/07/ucraina-berlino-non-puo-piu-fornire-patriot-pistorius-agli-alleati-altri-paesi-hanno-fatto-molto-meno-di-noi/8564257/",
      "title": "Ucraina, Berlino non può più fornire Patriot. Pistorius agli alleati: “Altri Paesi hanno fatto molto meno di noi”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Bonaccini posta una foto fake di Tajani, FI insorge",
+   "summary": "Immagine poi rimossa, era un meme. Meloni: 'Libertà di espressione, non di disinformazione'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/meloni-contro-le-opposizioni-per-una-foto-falsa-di-bonaccini-su-tajani-lautore_b1633ef8-9762-4035-b9a1-399a0396d526.html",
+   "pub_ts": 1794075504,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/meloni-contro-le-opposizioni-per-una-foto-falsa-di-bonaccini-su-tajani-lautore_b1633ef8-9762-4035-b9a1-399a0396d526.html",
+     "title": "Bonaccini posta una foto fake di Tajani, FI insorge"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/politicoquotidiano/gli-ignoranti-votano-a-destra-poi-bonaccini-nella-bufera-per-una-foto-fake/",
+     "title": "“Gli ignoranti votano a destra”. Poi Bonaccini nella bufera per una foto fake"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa",
+   "summary": "Dall’esito dell’Election Day è emersa la possibilità che venga modificato il sistema elettorale: si potrebbe decidere non più in base agli Stati che votano a favore di un candidato, ma contando il voto popolare nazionale anziché affidarsi al sistema dei grandi elettori",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/?rss",
+   "pub_ts": 1794068470,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/?rss",
+     "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/",
+     "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa"
     }
    ]
   },
@@ -389,6 +369,23 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Montevideo, discorso di Papa Leone all'Università cattolica: porre la persona prima dell'algoritmo",
+   "summary": "La visita fino al 17 novembre, anche nel \"suo\" Perù. \"La guerra la più terribile tra le opere umane\". Ieri nella capitale uruguayana è stato accolto da 30mila persone. La Messa a Paysandù, circa 40mila i fedeli presenti",
+   "link": "https://www.rainews.it/maratona/2026/11/papa-leone-xiv-viaggio-apostolico-in-uruguay-argentina-e-peru-pontefice-38858411-8e7e-4d4e-8e59-931552e919c8.html",
+   "pub_ts": 1794089640,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/papa-leone-xiv-viaggio-apostolico-in-uruguay-argentina-e-peru-pontefice-38858411-8e7e-4d4e-8e59-931552e919c8.html",
+     "title": "Montevideo, discorso di Papa Leone all'Università cattolica: porre la persona prima dell'algoritmo"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa",
    "summary": "Servirà una richiesta dei dirigenti per abilitare sui pc Gemini e Ricerca",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
@@ -400,23 +397,6 @@
      "name": "ANSA Tecnologia",
      "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
      "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Big Tech USA nel mirino dei democratici, possibili indagini",
-   "summary": "All'inizio del 2027, dopo l'insediamento del nuovo Congresso, potrebbe essere avviate indagini su Apple, Meta, NVIDIA e le aziende di Elon Musk. The post Big Tech USA nel mirino dei democratici, possibili indagini appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/big-tech-usa-mirino-democratici-possibili-indagini/",
-   "pub_ts": 1794072206,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/big-tech-usa-mirino-democratici-possibili-indagini/",
-     "title": "Big Tech USA nel mirino dei democratici, possibili indagini"
     }
    ]
   },
@@ -474,22 +454,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic",
-   "summary": "Giuli, 'avanti nell'impegno di restituire alla collettività testimonianze fondamentali'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
-   "pub_ts": 1793993412,
+   "title": "Riaprono nel parco archeologico di Ercolano due domus chiuse per decenni",
+   "summary": "Tornano accessibili al pubblico la Casa dell'atrio a mosaico e la Casa a graticcio",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/riaprono-nel-parco-archeologico-di-ercolano-due-domus-chiuse-per-decenni_b678a6dd-9f14-4945-bc8c-c9c74be470f2.html",
+   "pub_ts": 1793970361,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
-     "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic"
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/riaprono-nel-parco-archeologico-di-ercolano-due-domus-chiuse-per-decenni_b678a6dd-9f14-4945-bc8c-c9c74be470f2.html",
+     "title": "Riaprono nel parco archeologico di Ercolano due domus chiuse per decenni"
     },
     {
      "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/il-mic-acquista-il-manoscritto-originale-di-forse-che-si-forse-che-no-di-gabriele-dannunzio_7BKG382LzTjmNPNlCAROki",
-     "title": "Il MiC acquista il manoscritto originale di 'Forse che sì forse che no' di Gabriele d'Annunzio"
+     "link": "https://www.adnkronos.com/cultura/a-ercolano-riaprono-dopo-decenni-due-grandi-domus_2lqb2O5PWggi64SwSioMRk",
+     "title": "A Ercolano riaprono dopo decenni due grandi domus"
     }
    ],
    "subtype": "cultura"
@@ -533,42 +513,27 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”",
-   "summary": "Nella principale piazza della città diventata popolare meta turistica, una persona ha preso di mira persone a caso, sparando dalla sua auto in corsa",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
-   "pub_ts": 1794083700,
-   "n_sources": 9,
+   "title": "In mimetica e con arma militare spara a caso dall'auto, 6 morti a Cracovia",
+   "summary": "Diversi feriti nella piazza simbolo. L'aggressore è un polacco di 25 anni, la polizia lo ferma",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-6-persone-uccise-e-almeno-15-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
+   "pub_ts": 1794096360,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
-     "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/uomo-apre-il-fuoco-da-unauto-nella-piazza-di-cracovia-cinque-morti_914884c5-73e9-4844-ade4-7a7a3375c127.html",
-     "title": "Uomo apre il fuoco da un'auto nella piazza di Cracovia, cinque morti"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-6-persone-uccise-e-almeno-15-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
+     "title": "In mimetica e con arma militare spara a caso dall'auto, 6 morti a Cracovia"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/polonia-spari-sulla-folla-a-cracovia-morti-e-feriti-74ae4e70-8cca-49c5-a8e1-3ace721ce5f1.html",
-     "title": "Polonia, spari sulla folla a Cracovia: morti e feriti, l'attentatore è in custodia"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/cracovia-sparatoria-passanti-morti-gzs4xy92",
-     "title": "Fa fuoco sui passanti a Cracovia, almeno sei morti. «Il killer un estremista di destra»"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/07/cracovia-sparatoria-folla-arrestato-killer-video/",
-     "title": "Cracovia, spari sulla folla in centro: 6 morti e almeno 15 feriti. «Il killer è un 25enne polacco» – Il video"
+     "link": "https://www.rainews.it/video/2026/11/in-mimetica-e-con-arma-militare-spara-a-caso-dallauto-sei-morti-a-cracovia-fae8b6f6-370b-4d4b-b294-619961097a27.html",
+     "title": "In mimetica e con arma militare spara a caso dall'auto, sei morti a Cracovia"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/spari-folla-cracovia-polonia-oggi-notizie-aggiornamenti_4EhtOuj39FnSSEMFVLt5RU",
-     "title": "Spari sulla folla a Cracovia, 6 morti tra cui uno straniero e 15 feriti. L'attentatore, un polacco 24enne, ferito dalla polizia"
+     "link": "https://www.adnkronos.com/internazionale/esteri/attentato-cracovia-chi-e-24enne-killer_1ikPl9ZRuwiyhjMfSUn6nC",
+     "title": "Chi è l'attentatore di Cracovia: il 24enne in tuta mimetica sparava con un fucile"
     },
     {
      "name": "Sole 24 Ore Mondo",
@@ -581,6 +546,11 @@
      "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”"
     },
     {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/terrore-in-polonia-in-mimetica-e-con-una-maschera-spara-sulla-folla-e-strage/",
+     "title": "Terrore in Polonia, in mimetica e con una maschera spara sulla folla: è strage"
+    },
+    {
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/07/sparatoria-cracovia-morti-feriti-arrestato-uomo/8564188/",
      "title": "Cracovia, 24enne polacco spara da un’auto in centro: sei morti. Il ministro dell’Interno: “Il killer era affascinato da ideologie di estrema destra”"
@@ -590,37 +560,74 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Cracovia, studenti italiani 'siamo terrorizzati ma stiamo bene'",
-   "summary": "Due quarte erano partite per il 'Viaggio della Memoria' hanno contattato gli amici",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-studenti-italiani-siamo-terrorizzati-ma-stiamo-bene_3a497981-0da9-409d-b4f8-53bcda9daad5.html",
-   "pub_ts": 1794083609,
-   "n_sources": 3,
+   "title": "Candele accese vicino alla piazza principale di Cracovia dopo la strage",
+   "summary": "Proseguono le indagini. Iniziato il lutto nazionale di due giorni",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_c63a62f8-9708-416f-aa5a-9ef47f477b5a.html",
+   "pub_ts": 1794093113,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-studenti-italiani-siamo-terrorizzati-ma-stiamo-bene_3a497981-0da9-409d-b4f8-53bcda9daad5.html",
-     "title": "Cracovia, studenti italiani 'siamo terrorizzati ma stiamo bene'"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_c63a62f8-9708-416f-aa5a-9ef47f477b5a.html",
+     "title": "Candele accese vicino alla piazza principale di Cracovia dopo la strage"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/attentato-cracovia-studenti-italiani-in-salvo_31iaGgZbnRzz6vmuFQWHpe",
-     "title": "Attentato a Cracovia, in piazza anche studenti italiani: tutti in salvo"
+     "link": "https://www.adnkronos.com/internazionale/esteri/cracovia-attacco-strage-cosa-sappiamo_45n95enGr4T7H8BrQJANi8",
+     "title": "Attacco a Cracovia, spari in piazza e 6 morti: attentatore ferito. La strage a casa, cosa sappiamo"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/studenti-italiani-salvi-a-cracovia-la-testimonianza-della-gita-finita-nel-terrore-a770bccc-c3b6-4e9b-b662-6012fd1d1895.html",
-     "title": "Studenti italiani salvi a Cracovia: la testimonianza della gita finita nel terrore"
+     "link": "https://www.rainews.it/articoli/2026/11/polonia-spari-sulla-folla-a-cracovia-morti-e-feriti-74ae4e70-8cca-49c5-a8e1-3ace721ce5f1.html",
+     "title": "Cracovia, spari sulla folla: morti e feriti, preso l'attentatore, 3 cadaveri anche a casa sua"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/07/cracovia-sparatoria-folla-arrestato-killer-video/",
+     "title": "Cracovia, spara sulla folla: 6 morti e 15 feriti. La tragica scoperta della polizia: «Altri 3 cadaveri in casa». Tusk: «Terrorismo» – I video"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/07/sparatoria-piazza-del-mercato-cracovia-morti/",
+     "title": "C’è stato un grave attacco nella piazza principale di Cracovia"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Israele, Herzog affida il governo a Eisenkot: incarico domani alle 17",
+   "title": "Israele, incarico ad Eisenkot: Netanyahu nell’angolo rilancia l’unità nazionale",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
-   "description": "Il presidente ha comunicato la decisione al leader del partito Yashar",
-   "pub_ts": 1794082380,
+   "description": "Oggi l’investitura formale da parte del capo dello Stato Herzog. Poi 28 giorni di tempo per sciogliere il nodo dell’appoggio dei partiti arabi e degli ultraortodossi. La mossa del premier uscente rispedita al mittente",
+   "pub_ts": 1794088323,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "L’esperto militare britannico: “La deterrenza è la nostra arma contro la guerra ibrida di Mosca”",
+   "link": "https://www.repubblica.it/esteri/2026/11/08/news/intervista_esperto_militare_britannico_deterrenza_e_arma_contro_guerra_ibrida_russa-425707549/?rss",
+   "description": "Keri Giles: “Gli autori di tali minacce cercano di abituarci ai falsi allarmi in modo che quando abbassiamo la guardia arrivi l’attacco vero”",
+   "pub_ts": 1794096000,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Papa Leone in Uruguay, messa nei luoghi della memoria indigena: “Costruire ponti”",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/papa_leone_uruguay_messa_paysandu_memoria_indigena-425706877/?rss",
+   "description": "Nel secondo giorno nel paese il Pontefice vola a Paysandù, dove i leader autoctoni vennero sterminati. Cita la tipica bevanda del “mate” come simbolo di amicizia. A Montevideo visita un quartiere povero: “Nessun bambino dovrebbe andare a dormire senza aver mangiato”",
+   "pub_ts": 1794085615,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/?rss",
+   "description": "La potente Wiles paga per tutti la sconfitta e alcune nomine sbagliate. Al suo posto il vice Miller. L’opposizione: “È xenofobo ed estremista”",
+   "pub_ts": 1794042405,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
@@ -635,37 +642,10 @@
    "section": "politica"
   },
   {
-   "title": "Papa Leone in Uruguay, messa nei luoghi della memoria indigena: “Costruire ponti”",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/papa_leone_uruguay_messa_paysandu_memoria_indigena-425706877/?rss",
-   "description": "Nel suo secondo giorno nel paese latino-americano il Pontefice vola a Paysandù, dove nei secoli ci sono state le “reducciones” dei gesuiti e la strage dei leader indigeni. Cita la tipica bevanda del “mate” come simbolo di amicizia",
-   "pub_ts": 1794082229,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump vuole portavoce il campione di arti marziali e ordina indagini sui dem",
-   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
-   "description": "'Altre teste cadranno'. Primi effetti dell'era Miller pronto a arrestare i giornalisti",
-   "pub_ts": 1794082570,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Pistorius, 'al momento non possiamo più dare Patriot a Kiev'",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/pistorius-al-momento-non-possiamo-piu-dare-patriot-a-kiev_efa42cee-3c02-4188-9571-2543b9514a48.html",
    "description": "'Rischio gap nei nostri arsenali, ci aspettiamo un maggior impegno dei nostri partner'",
    "pub_ts": 1794080220,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Tajani, siamo di fronte a guerra ibrida, G7 affronti lunedì il tema",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tajani-siamo-di-fronte-a-guerra-ibrida-g7-affronti-lunedi-il-tema_1cbe2402-1972-434c-aa1f-347102fad5c4.html",
-   "description": "Dopo che dati del ministro e famigliari sono finiti sul dark web ad opera dei filorussi",
-   "pub_ts": 1794079020,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
@@ -680,29 +660,29 @@
    "section": "politica"
   },
   {
-   "title": "I pm possono procedere su Giusi Bartolozzi per false dichiarazioni",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
-   "description": "Sentenza della Consulta: 'Devono comunicarlo alla Camera'. Possibile sollevare un altro conflitto",
-   "pub_ts": 1793986369,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-   "description": "Il presidente Usa su Truth: “Prospettano impeachment e svariate forme di punizione, è estorsione e devono pagare”. Al wrestler Dana White: “Ti prego accetta l’incarico come portevoce e porta i tuoi collaboratori, abbiamo bisogno di voi contro la sinistra folle”",
-   "pub_ts": 1794081790,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "L'Ucraina al buio per i raid. Allarme di Berlino sui Patriot",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/nuovo-attacco-missilistico-su-kiev.-situazione-energetica-estremamente-difficile_13a8100b-3b2c-44f6-850d-ef81b4af5cab.html",
    "description": "Pistorius: per ora non riusciamo a darne altri. Zelensky, così Mosca si prepara a colloqui",
    "pub_ts": 1794081536,
    "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Bonaccini posta una foto fake di Tajani, FI insorge",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/07/meloni-contro-le-opposizioni-per-una-foto-falsa-di-bonaccini-su-tajani-lautore_b1633ef8-9762-4035-b9a1-399a0396d526.html",
+   "description": "Immagine poi rimossa, era un meme. Meloni: 'Libertà di espressione, non di disinformazione'",
+   "pub_ts": 1794075504,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa",
+   "link": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/?rss",
+   "description": "Dall’esito dell’Election Day è emersa la possibilità che venga modificato il sistema elettorale: si potrebbe decidere non più in base agli Stati che votano a favore di un candidato, ma contando il voto popolare nazionale anziché affidarsi al sistema dei grandi elettori",
+   "pub_ts": 1794068470,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -725,20 +705,20 @@
    "section": "tech"
   },
   {
+   "title": "Montevideo, discorso di Papa Leone all'Università cattolica: porre la persona prima dell'algoritmo",
+   "link": "https://www.rainews.it/maratona/2026/11/papa-leone-xiv-viaggio-apostolico-in-uruguay-argentina-e-peru-pontefice-38858411-8e7e-4d4e-8e59-931552e919c8.html",
+   "description": "La visita fino al 17 novembre, anche nel \"suo\" Perù. \"La guerra la più terribile tra le opere umane\". Ieri nella capitale uruguayana è stato accolto da 30mila persone. La Messa a Paysandù, circa 40mila i fedeli presenti",
+   "pub_ts": 1794089640,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
    "title": "Google disattiverà l'intelligenza artificiale per le scuole Usa",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/04/ia-e-scuola-google-disattivera-lintelligenza-artificiale-per-gli-istituti-usa_b53b9480-a1a6-49a0-bade-00c59a6b115b.html",
    "description": "Servirà una richiesta dei dirigenti per abilitare sui pc Gemini e Ricerca",
    "pub_ts": 1794041541,
    "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Big Tech USA nel mirino dei democratici, possibili indagini",
-   "link": "https://www.punto-informatico.it/big-tech-usa-mirino-democratici-possibili-indagini/",
-   "description": "All'inizio del 2027, dopo l'insediamento del nuovo Congresso, potrebbe essere avviate indagini su Apple, Meta, NVIDIA e le aziende di Elon Musk. The post Big Tech USA nel mirino dei democratici, possibili indagini appeared first on Punto Informatico .",
-   "pub_ts": 1794072206,
-   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
@@ -761,10 +741,10 @@
    "section": "varia"
   },
   {
-   "title": "Il manoscritto di \"Forse che sì forse che no\" di Gabriele d'Annunzio acquisito dal Mic",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
-   "description": "Giuli, 'avanti nell'impegno di restituire alla collettività testimonianze fondamentali'",
-   "pub_ts": 1793993412,
+   "title": "Riaprono nel parco archeologico di Ercolano due domus chiuse per decenni",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/riaprono-nel-parco-archeologico-di-ercolano-due-domus-chiuse-per-decenni_b678a6dd-9f14-4945-bc8c-c9c74be470f2.html",
+   "description": "Tornano accessibili al pubblico la Casa dell'atrio a mosaico e la Casa a graticcio",
+   "pub_ts": 1793970361,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -788,20 +768,20 @@
    "section": "varia"
   },
   {
-   "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
-   "description": "Nella principale piazza della città diventata popolare meta turistica, una persona ha preso di mira persone a caso, sparando dalla sua auto in corsa",
-   "pub_ts": 1794083700,
-   "source": "Repubblica Esteri",
+   "title": "In mimetica e con arma militare spara a caso dall'auto, 6 morti a Cracovia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-6-persone-uccise-e-almeno-15-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
+   "description": "Diversi feriti nella piazza simbolo. L'aggressore è un polacco di 25 anni, la polizia lo ferma",
+   "pub_ts": 1794096360,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "Cracovia, studenti italiani 'siamo terrorizzati ma stiamo bene'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-studenti-italiani-siamo-terrorizzati-ma-stiamo-bene_3a497981-0da9-409d-b4f8-53bcda9daad5.html",
-   "description": "Due quarte erano partite per il 'Viaggio della Memoria' hanno contattato gli amici",
-   "pub_ts": 1794083609,
-   "source": "ANSA Cronaca",
+   "title": "Candele accese vicino alla piazza principale di Cracovia dopo la strage",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_c63a62f8-9708-416f-aa5a-9ef47f477b5a.html",
+   "description": "Proseguono le indagini. Iniziato il lutto nazionale di due giorni",
+   "pub_ts": 1794093113,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "cronaca"
   }
