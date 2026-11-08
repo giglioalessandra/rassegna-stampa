@@ -1,6 +1,6 @@
 {
- "generated_at": 1794166101,
- "updated_at": 1794166101,
+ "generated_at": 1794180773,
+ "updated_at": 1794180773,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,27 +10,32 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”",
-   "summary": "Il presidente israeliano ha conferito ufficialmente il mandato al leader del partito Yashar nel corso di una cerimonia presso la Residenza presidenziale a Gerusalemme. E apre anche al Partito Sionista",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
-   "pub_ts": 1794165550,
-   "n_sources": 8,
+   "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'",
+   "summary": "Il leader di Yashar ci prova e apre al Likud. Ma nel Change Bloc veti e differenze",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
+   "pub_ts": 1794173160,
+   "n_sources": 9,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
-     "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
+     "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/herzog-affida-a-eisenkot-incarico-di-formare-nuovo-governo_2099a64f-78d6-4136-aae3-cd3f4adde8c2.html",
-     "title": "Herzog affida a Eisenkot incarico di formare nuovo governo"
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/eisenkot-momento-fragile-per-la-democrazia-urge-leadership-di-cui-ci-si-fidi_ace4dc26-1245-4251-8405-59929f62025a.html",
+     "title": "Eisenkot, 'momento fragile per la democrazia, urge leadership di cui ci si fidi'"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/israele-governo-incarico-eisenkot-compito-netanyahu-aspetta-trump-q98nmxzx",
-     "title": "Enigma Eisenkot, Netanyahu non molla: in Israele il governo è un tetris intricato"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
+     "title": "Israele, incarico ad Eisenkot: Netanyahu nell’angolo rilancia l’unità nazionale"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/svolta-in-israele-a-eisenkot-lincarico-di-fare-il-governo-1d046124-7f92-447f-bf75-6acf8a3ba4d8.html",
+     "title": "La svolta: incarico a Eisenkot. \"Momento fragile per la democrazia, il popolo vuole governo stabile\""
     },
     {
      "name": "Adnkronos Esteri",
@@ -43,9 +48,9 @@
      "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, Netanyahu mi sostenga”"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/08/guerra-usa-iran-israele-nuovo-governo-8-nov-diretta/",
-     "title": "Israele, Eisenkot incaricato di formare il governo. Trump: «Guerra all’Iran? Improbabile». E rilancia il piano per Gaza – La diretta"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/israele-governo-eisenkot-netanyahu-herzog-maggioranza-partiti-arabi-n88q523r",
+     "title": "Israele, l’incarico a Eisenkot: 28 giorni per il nuovo governo"
     },
     {
      "name": "Il Post",
@@ -56,6 +61,43 @@
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/08/israele-eisenkot-incarico-governo-notizie/8564884/",
      "title": "Israele, Eisenkot riceve l’incarico di formare il nuovo governo: “Momento fragile per la democrazia”. E apre al Likud senza Netanyahu"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese",
+   "summary": "Ha ammesso di essere stato infedele alla moglie",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
+   "pub_ts": 1794172387,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
+     "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/08/news/nvidia_huang_ammette_la_relazione_con_la_spia_cinese_sono_stato_infedele_ma_non_si_dimette-425709267/",
+     "title": "Nvidia, Huang ammette la relazione con la spia cinese: “Sono stato infedele”. Ma non si dimette"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/08/jensen-huang-nvidia-spia-cina-usa-ai/",
+     "title": "Jensen Huang, il re di Nvidia sedotto da una spia cinese? Scatta l’allarme in Usa sull’AI: «In gioco la sicurezza nazionale»"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/08/nvidia-indagine-jensen-huang-relazione-presunta-spia/",
+     "title": "Nvidia sta indagando sul suo CEO per una relazione con una presunta spia cinese"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/re-dei-microchip-nei-guai-per-la-presunta-spia-cinese-94e0991d-1db6-4a02-899c-5faf66a70781.html",
+     "title": "Re dei microchip nei guai per la presunta spia cinese"
     }
    ]
   },
@@ -94,71 +136,115 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Attacchi informatici, Piantedosi convoca il Comitato di sicurezza pubblica",
-   "summary": "Martedì la riunione al Viminale per l'esame della minaccia cyber. Tajani: 'Serve un segnale forte del G7'",
+   "title": "Attacchi hacker, martedì al Viminale un vertice su falle e contromisure",
+   "summary": "Forse gli allarmi bomba partiti da mail bucate delle scuole. Monitoraggio sulle strutture vulnerabili. Tajani: 'Serve un segnale forte del G7'",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
-   "pub_ts": 1794164137,
+   "pub_ts": 1794165920,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
-     "title": "Attacchi informatici, Piantedosi convoca il Comitato di sicurezza pubblica"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/attacchi-informatici-e-mail-di-allarme-europol-convoca-riunione_54e848c6-198b-4891-a6f8-1678580cd549.html",
-     "title": "Attacchi informatici e mail di allarme, Europol convoca riunione"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/08/riunione-comitato-nazionale-pubblica-sicurezza-e-ordine-pubblico/",
-     "title": "Il ministro dell’Interno Matteo Piantedosi ha convocato una riunione con le forze dell’ordine per i recenti attacchi informatici"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'",
-   "summary": "Il leader di Yashar ci prova e apre al Likud. Ma nel Change Bloc veti e differenze",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
-   "pub_ts": 1794165420,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
-     "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'"
+     "title": "Attacchi hacker, martedì al Viminale un vertice su falle e contromisure"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/svolta-in-israele-a-eisenkot-lincarico-di-fare-il-governo-1d046124-7f92-447f-bf75-6acf8a3ba4d8.html",
-     "title": "La svolta: incarico a Eisenkot. \"Momento fragile per la democrazia, il popolo vuole governo stabile\""
+     "link": "https://www.rainews.it/video/2026/11/europol-si-e-attivata-nelle-indagini-sugli-attacchi-hacker-allaja-vertice-tra-investigatori-7f2e949b-f045-4834-87fc-ec2a27e90367.html",
+     "title": "Europol si è attivata nelle indagini sugli attacchi hacker, all'Aja vertice tra investigatori"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/08/news/emergenza_cybersicurezza_piantedosi_convoca_per_martedi_il_comitato_nazionale_per_la_sicurezza-425708322/",
+     "title": "Cyber-attacchi,Tajani: “Domani l’emergenza al G7”. Martedì vertice al Viminale"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Prof denuncia: 'Linkedin mi ha chiuso il profilo dopo un post su Gaza'",
-   "summary": "Kamel: 'Punito per video di soldati israeliani che cantano 'non ci sono civili innocenti''",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/prof-denuncia-linkedin-mi-ha-chiuso-il-profilo-dopo-un-post-su-gaza_274e1c3d-14e5-4681-8f93-34a0ee0483a2.html",
-   "pub_ts": 1794164071,
+   "title": "Trump, 'improbabile ritorno guerra in Iran se progressi nei colloqui'",
+   "summary": "Cnn, sul nucleare e sullo Stretto di Hormuz",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/trump-improbabile-ritorno-guerra-in-iran-se-progressi-nei-colloqui_f1748467-f01b-426a-9d9f-d25889e147c8.html",
+   "pub_ts": 1794178921,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/prof-denuncia-linkedin-mi-ha-chiuso-il-profilo-dopo-un-post-su-gaza_274e1c3d-14e5-4681-8f93-34a0ee0483a2.html",
-     "title": "Prof denuncia: 'Linkedin mi ha chiuso il profilo dopo un post su Gaza'"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/trump-improbabile-ritorno-guerra-in-iran-se-progressi-nei-colloqui_f1748467-f01b-426a-9d9f-d25889e147c8.html",
+     "title": "Trump, 'improbabile ritorno guerra in Iran se progressi nei colloqui'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-nuovo-attacco-news_Dqo369qIxMDBDtHAQ81bG",
+     "title": "Iran, Trump frena: \"Nuovo attacco è improbabile\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Parigi, europei e Francia saranno presenti al trilaterale di Abu Dhabi",
+   "summary": "In programma il 10 e l'11 i colloqui tra russi e ucraini mediati da Usa",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/parigi-europei-e-francia-saranno-presenti-al-trilaterale-di-abu-dhabi_30150fe8-fbb0-4d70-94a6-d7b53c53bd64.html",
+   "pub_ts": 1794166482,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/parigi-europei-e-francia-saranno-presenti-al-trilaterale-di-abu-dhabi_30150fe8-fbb0-4d70-94a6-d7b53c53bd64.html",
+     "title": "Parigi, europei e Francia saranno presenti al trilaterale di Abu Dhabi"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/russia-bombarda-zelensky-ucraina-sanzioni-francia-colloqui-abu-dhabi-europa-pace-rnkn5923",
+     "title": "La Russia bombarda, Zelensky chiede più sanzioni. Parigi: «Saremo presenti ai negoziati ad Abu Dhabi»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina'",
+   "summary": "Bloomberg cita dati rubati dagli hacker all'agenzia di statistica",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/la-russia-ha-registrato-la-morte-di-400.000-uomini-nella-guerra-in-ucraina_ff5df486-0518-47c5-a889-732691395e9f.html",
+   "pub_ts": 1794166373,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/la-russia-ha-registrato-la-morte-di-400.000-uomini-nella-guerra-in-ucraina_ff5df486-0518-47c5-a889-732691395e9f.html",
+     "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina'"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/08/lorenzo-kamel-linkedin-chiuso-video-gaza-notizie/8564982/",
-     "title": "Lo storico Kamel: “Il mio profilo Linkedin chiuso dopo la pubblicazione di un video su Gaza”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/guerra-ucraina-soldati-russi-morti-hacker-notizie/8565023/",
+     "title": "“400mila soldati russi morti nella guerra in Ucraina”: ecco cosa dicono i dati rubati dagli hacker"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Il Papa, 'i governanti perseguano il bene di tutti'",
+   "summary": "Messa per la festa della Patrona dell'Uruguay, ultimo appuntamento nel Paese",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-i-governanti-perseguano-il-bene-di-tutti_f0b0f8f5-b4be-4ee0-81de-b2da6db36116.html",
+   "pub_ts": 1794166020,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-i-governanti-perseguano-il-bene-di-tutti_f0b0f8f5-b4be-4ee0-81de-b2da6db36116.html",
+     "title": "Il Papa, 'i governanti perseguano il bene di tutti'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/papa-leone-governanti-cerchino-il-bene-di-tutti-4b37000c-a720-4390-a86c-99ddc60f01b6.html",
+     "title": "Papa Leone: \"Governanti cerchino il bene di tutti\""
     }
    ]
   },
@@ -168,7 +254,7 @@
    "title": "Trump lancia l'era Miller ma Vance trema, finanziatori in fuga",
    "summary": "I repubblicani scettici sul vicepresidente, altri aspiranti già affilano le armi",
    "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/08/trump-lancia-lera-miller-ma-vance-trema-finanziatori-in-fuga_185e5971-a7a8-47f4-b15a-df683dc8bdc1.html",
-   "pub_ts": 1794163632,
+   "pub_ts": 1794165675,
    "n_sources": 2,
    "documented": true,
    "sources": [
@@ -186,89 +272,23 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Ucraina: Europei e Francia al trilaterale di Abu Dhabi, ma i Volenterosi si esercitano",
-   "summary": "Da lunedì in Polonia manovre militari per il dopo guerra in Ucraina. 'Raid su soccorsi'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/ucraina-europei-e-francia-al-trilaterale-di-abu-dhabi-ma-i-volenterosi-si-esercitano_093f3a23-531b-4851-ab34-fd51d14f1168.html",
-   "pub_ts": 1794162136,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/ucraina-europei-e-francia-al-trilaterale-di-abu-dhabi-ma-i-volenterosi-si-esercitano_093f3a23-531b-4851-ab34-fd51d14f1168.html",
-     "title": "Ucraina: Europei e Francia al trilaterale di Abu Dhabi, ma i Volenterosi si esercitano"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/parigi-europei-e-francia-saranno-presenti-al-trilaterale-di-abu-dhabi_30150fe8-fbb0-4d70-94a6-d7b53c53bd64.html",
-     "title": "Parigi, europei e Francia saranno presenti al trilaterale di Abu Dhabi"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
-   "summary": "Il tycoon ha invitato il wrestler Dana White a fargli da portavoce. Prima aveva chiesto alla Giustizia di indagare sugli avversari: “Svegliamoci”",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-   "pub_ts": 1794154069,
+   "area": "italia",
+   "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”",
+   "summary": "Il presidente israeliano ha conferito ufficialmente il mandato al leader del partito Yashar nel corso di una cerimonia presso la Residenza presidenziale a Gerusalemme. E apre anche al Partito Sionista",
+   "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
+   "pub_ts": 1794165550,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-     "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/",
-     "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "A Gaza ci sono decine di migliaia di tende allagate",
-   "summary": "Un'alluvione ha causato danni un po' ovunque, e le organizzazioni internazionali riescono ad aiutare fino a un certo punto",
-   "link": "https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/",
-   "pub_ts": 1794159138,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/",
-     "title": "A Gaza ci sono decine di migliaia di tende allagate"
+     "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
+     "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/nubifragio-a-gaza-70mila-tende-allagate-anp-intervenga-lonu-gce2imrp",
-     "title": "Nubifragio a Gaza, 70mila tende allagate. Anp: «Intervenga l’Onu»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Dior si è risentita per le accuse di aver usato l’AI in un suo corto animato",
-   "summary": "L’acclamato regista che l’ha disegnato, Sylvain Chomet, e il produttore sono intervenuti per difendere il loro lavoro",
-   "link": "https://www.ilpost.it/2026/11/08/dior-video-natale-polemica-ai/",
-   "pub_ts": 1794146464,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/08/dior-video-natale-polemica-ai/",
-     "title": "Dior si è risentita per le accuse di aver usato l’AI in un suo corto animato"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/il-corto-per-dior-realizzato-con-ai-il-regista-francese-chomet-respinge-le-accuse-e477ebc4-c8a5-4da2-b1c6-0cc0488f2471.html",
-     "title": "Il corto per Dior realizzato con l'AI? Il regista francese Sylvain Chomet respinge le accuse"
+     "link": "https://www.editorialedomani.it/politica/mondo/israele-governo-incarico-eisenkot-compito-netanyahu-aspetta-trump-q98nmxzx",
+     "title": "Enigma Eisenkot, Netanyahu non molla: in Israele il governo è un tetris intricato"
     }
    ]
   },
@@ -314,6 +334,23 @@
   {
    "category": "tech",
    "area": null,
+   "title": "\"Tradiva la moglie con una presunta spia cinese\": Nvidia apre inchiesta sull’ad",
+   "summary": "Jensen Huang ha confessato la relazione dopo che l’intelligence Usa avrebbe identificato la donna come uno 007. A destare preoccupazione nel governo di Washington il fatto che il “re dei microchip” è un alleato di Trump",
+   "link": "https://www.rainews.it/articoli/2026/11/esteri-nord-america-stati-uniti-nvidia-jensen-huang-relazione-spia-cinese-cda-apre-inchiesta-79b540ec-9a10-4693-8fc4-23083d438e27.html",
+   "pub_ts": 1794171600,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/esteri-nord-america-stati-uniti-nvidia-jensen-huang-relazione-spia-cinese-cda-apre-inchiesta-79b540ec-9a10-4693-8fc4-23083d438e27.html",
+     "title": "\"Tradiva la moglie con una presunta spia cinese\": Nvidia apre inchiesta sull’ad"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "SpaceX Starship: doppia cattura con il 15esimo volo",
    "summary": "SpaceX ha descritto gli obiettivi previsti con il 15esimo volo del 13 novembre, tra cui la cattura di entrambi gli stadi del razzo Starship. The post SpaceX Starship: doppia cattura con il 15esimo volo appeared first on Punto Informatico .",
    "link": "https://www.punto-informatico.it/spacex-starship-doppia-cattura-15esimo-volo/",
@@ -329,21 +366,27 @@
    ]
   },
   {
-   "category": "tech",
+   "category": "varia",
    "area": null,
-   "title": "Dipendenza social: Google, Meta e TikTok contro la California",
-   "summary": "Google, Meta e TikTok hanno presentato una denuncia per chiedere il blocco della legge che vieta ai minori di 16 anni di usare specifiche funzionalità. The post Dipendenza social: Google, Meta e TikTok contro la California appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
-   "pub_ts": 1794150496,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Di Pasquale-Piervincenzi al timone di Report, 'c'è chi sperava di cancellarlo'",
+   "summary": "Tra i servizi il tentativo di depistaggio, fallito, di Valter Lavitola",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/di-pasquale-e-piervincenzi-qualcuno-sperava-che-report-venisse-cancellato_d197062a-41cf-48c2-9fa6-a58ee0321ca5.html",
+   "pub_ts": 1794172092,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
-     "title": "Dipendenza social: Google, Meta e TikTok contro la California"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/di-pasquale-e-piervincenzi-qualcuno-sperava-che-report-venisse-cancellato_d197062a-41cf-48c2-9fa6-a58ee0321ca5.html",
+     "title": "Di Pasquale-Piervincenzi al timone di Report, 'c'è chi sperava di cancellarlo'"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/di-pasquale-stasera-torna-in-onda-la-liberta-e-la-resilienza-di-report_8b14e2fa-c593-4cc2-85bb-bc2ad8bfc3af.html",
+     "title": "Di Pasquale, \"torna in onda la libertà e la resilienza di Report\""
     }
-   ]
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -371,24 +414,6 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Di Pasquale, \"torna in onda la libertà e la resilienza di Report\"",
-   "summary": "\"Racconteremo anche del tentativo di depistaggio, fallito, di Valter Lavitola\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/di-pasquale-stasera-torna-in-onda-la-liberta-e-la-resilienza-di-report_8b14e2fa-c593-4cc2-85bb-bc2ad8bfc3af.html",
-   "pub_ts": 1794165335,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/di-pasquale-stasera-torna-in-onda-la-liberta-e-la-resilienza-di-report_8b14e2fa-c593-4cc2-85bb-bc2ad8bfc3af.html",
-     "title": "Di Pasquale, \"torna in onda la libertà e la resilienza di Report\""
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
    "title": "Enzo D'Alò, 'anziché fare carceri avrebbe più senso fare cultura per i giovani'",
    "summary": "Al regista di animazione Ulivo d'Oro alla carriera al Festival del Cinema Europeo di Lecce",
    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/enzo-dalo-anziche-fare-carceri-avrebbe-piu-senso-fare-cultura_2c75f1a2-f21e-4f73-a1e3-4d07b7bcbbd7.html",
@@ -407,6 +432,24 @@
   {
    "category": "varia",
    "area": null,
+   "title": "Leone XIV in Argentina, un viaggio tra le sfide della Chiesa e un Paese in cerca di unità",
+   "summary": "Il viaggio apostolico viene interpretato come un'occasione per rilanciare messaggi di riconciliazione, giustizia sociale, dialogo e speranza, in un paese attraversato da profonde difficoltà economiche e sociali",
+   "link": "https://www.rainews.it/articoli/2026/11/leone-xiv-in-argentina-un-viaggio-tra-le-sfide-della-chiesa-e-un-paese-in-cerca-di-unita-758452db-9b40-494d-a4c4-791078d7dc11.html",
+   "pub_ts": 1794170640,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/leone-xiv-in-argentina-un-viaggio-tra-le-sfide-della-chiesa-e-un-paese-in-cerca-di-unita-758452db-9b40-494d-a4c4-791078d7dc11.html",
+     "title": "Leone XIV in Argentina, un viaggio tra le sfide della Chiesa e un Paese in cerca di unità"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
    "title": "La vittoria di Camilla sulla leucemia grazie alla ricerca",
    "summary": "Il racconto di una guarigione straordinaria e il valore fondamentale del progresso medico",
    "link": "https://www.rainews.it/video/2026/11/la-vittoria-di-camilla-sulla-leucemia-grazie-alla-ricerca-60cb48af-c09a-462b-98b8-758f4ce929e3.html",
@@ -418,24 +461,6 @@
      "name": "Rai News",
      "link": "https://www.rainews.it/video/2026/11/la-vittoria-di-camilla-sulla-leucemia-grazie-alla-ricerca-60cb48af-c09a-462b-98b8-758f4ce929e3.html",
      "title": "La vittoria di Camilla sulla leucemia grazie alla ricerca"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "FIET 2026, a Venezia il dialogo tra enogastronomia, turismo e artigianato",
-   "summary": "Ca’ Vendramin Calergi ospita la sesta edizione del Festival of Italian Enogastronomy and Tourism. Incontri, masterclass e iniziative dedicate alle eccellenze produttive italiane, tra cultura dell’ospitalità, promozione dei territori e tradizioni",
-   "link": "https://www.rainews.it/maratona/2026/11/fiet-2026-a-venezia-il-dialogo-tra-enogastronomia-turismo-e-artigianato-3d75d2bf-3a7e-4608-8e1d-2d24cb2750d1.html",
-   "pub_ts": 1794155580,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/fiet-2026-a-venezia-il-dialogo-tra-enogastronomia-turismo-e-artigianato-3d75d2bf-3a7e-4608-8e1d-2d24cb2750d1.html",
-     "title": "FIET 2026, a Venezia il dialogo tra enogastronomia, turismo e artigianato"
     }
    ],
    "subtype": "scienza"
@@ -537,11 +562,20 @@
  ],
  "articles": [
   {
-   "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
-   "description": "Il presidente israeliano ha conferito ufficialmente il mandato al leader del partito Yashar nel corso di una cerimonia presso la Residenza presidenziale a Gerusalemme. E apre anche al Partito Sionista",
-   "pub_ts": 1794165550,
-   "source": "Repubblica Esteri",
+   "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
+   "description": "Il leader di Yashar ci prova e apre al Likud. Ma nel Change Bloc veti e differenze",
+   "pub_ts": 1794173160,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
+   "description": "Ha ammesso di essere stato infedele alla moglie",
+   "pub_ts": 1794172387,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -555,29 +589,47 @@
    "section": "politica"
   },
   {
-   "title": "Attacchi informatici, Piantedosi convoca il Comitato di sicurezza pubblica",
+   "title": "Attacchi hacker, martedì al Viminale un vertice su falle e contromisure",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
-   "description": "Martedì la riunione al Viminale per l'esame della minaccia cyber. Tajani: 'Serve un segnale forte del G7'",
-   "pub_ts": 1794164137,
+   "description": "Forse gli allarmi bomba partiti da mail bucate delle scuole. Monitoraggio sulle strutture vulnerabili. Tajani: 'Serve un segnale forte del G7'",
+   "pub_ts": 1794165920,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
-   "description": "Il leader di Yashar ci prova e apre al Likud. Ma nel Change Bloc veti e differenze",
-   "pub_ts": 1794165420,
-   "source": "ANSA",
+   "title": "Trump, 'improbabile ritorno guerra in Iran se progressi nei colloqui'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/trump-improbabile-ritorno-guerra-in-iran-se-progressi-nei-colloqui_f1748467-f01b-426a-9d9f-d25889e147c8.html",
+   "description": "Cnn, sul nucleare e sullo Stretto di Hormuz",
+   "pub_ts": 1794178921,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Prof denuncia: 'Linkedin mi ha chiuso il profilo dopo un post su Gaza'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/prof-denuncia-linkedin-mi-ha-chiuso-il-profilo-dopo-un-post-su-gaza_274e1c3d-14e5-4681-8f93-34a0ee0483a2.html",
-   "description": "Kamel: 'Punito per video di soldati israeliani che cantano 'non ci sono civili innocenti''",
-   "pub_ts": 1794164071,
-   "source": "ANSA Cronaca",
+   "title": "Parigi, europei e Francia saranno presenti al trilaterale di Abu Dhabi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/parigi-europei-e-francia-saranno-presenti-al-trilaterale-di-abu-dhabi_30150fe8-fbb0-4d70-94a6-d7b53c53bd64.html",
+   "description": "In programma il 10 e l'11 i colloqui tra russi e ucraini mediati da Usa",
+   "pub_ts": 1794166482,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/la-russia-ha-registrato-la-morte-di-400.000-uomini-nella-guerra-in-ucraina_ff5df486-0518-47c5-a889-732691395e9f.html",
+   "description": "Bloomberg cita dati rubati dagli hacker all'agenzia di statistica",
+   "pub_ts": 1794166373,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il Papa, 'i governanti perseguano il bene di tutti'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-i-governanti-perseguano-il-bene-di-tutti_f0b0f8f5-b4be-4ee0-81de-b2da6db36116.html",
+   "description": "Messa per la festa della Patrona dell'Uruguay, ultimo appuntamento nel Paese",
+   "pub_ts": 1794166020,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -585,44 +637,17 @@
    "title": "Trump lancia l'era Miller ma Vance trema, finanziatori in fuga",
    "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/08/trump-lancia-lera-miller-ma-vance-trema-finanziatori-in-fuga_185e5971-a7a8-47f4-b15a-df683dc8bdc1.html",
    "description": "I repubblicani scettici sul vicepresidente, altri aspiranti già affilano le armi",
-   "pub_ts": 1794163632,
+   "pub_ts": 1794165675,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ucraina: Europei e Francia al trilaterale di Abu Dhabi, ma i Volenterosi si esercitano",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/ucraina-europei-e-francia-al-trilaterale-di-abu-dhabi-ma-i-volenterosi-si-esercitano_093f3a23-531b-4851-ab34-fd51d14f1168.html",
-   "description": "Da lunedì in Polonia manovre militari per il dopo guerra in Ucraina. 'Raid su soccorsi'",
-   "pub_ts": 1794162136,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-   "description": "Il tycoon ha invitato il wrestler Dana White a fargli da portavoce. Prima aveva chiesto alla Giustizia di indagare sugli avversari: “Svegliamoci”",
-   "pub_ts": 1794154069,
+   "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”",
+   "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
+   "description": "Il presidente israeliano ha conferito ufficialmente il mandato al leader del partito Yashar nel corso di una cerimonia presso la Residenza presidenziale a Gerusalemme. E apre anche al Partito Sionista",
+   "pub_ts": 1794165550,
    "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "A Gaza ci sono decine di migliaia di tende allagate",
-   "link": "https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/",
-   "description": "Un'alluvione ha causato danni un po' ovunque, e le organizzazioni internazionali riescono ad aiutare fino a un certo punto",
-   "pub_ts": 1794159138,
-   "source": "Il Post",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Dior si è risentita per le accuse di aver usato l’AI in un suo corto animato",
-   "link": "https://www.ilpost.it/2026/11/08/dior-video-natale-polemica-ai/",
-   "description": "L’acclamato regista che l’ha disegnato, Sylvain Chomet, e il produttore sono intervenuti per difendere il loro lavoro",
-   "pub_ts": 1794146464,
-   "source": "Il Post",
    "source_priority": 1,
    "section": "politica"
   },
@@ -645,6 +670,15 @@
    "section": "tech"
   },
   {
+   "title": "\"Tradiva la moglie con una presunta spia cinese\": Nvidia apre inchiesta sull’ad",
+   "link": "https://www.rainews.it/articoli/2026/11/esteri-nord-america-stati-uniti-nvidia-jensen-huang-relazione-spia-cinese-cda-apre-inchiesta-79b540ec-9a10-4693-8fc4-23083d438e27.html",
+   "description": "Jensen Huang ha confessato la relazione dopo che l’intelligence Usa avrebbe identificato la donna come uno 007. A destare preoccupazione nel governo di Washington il fatto che il “re dei microchip” è un alleato di Trump",
+   "pub_ts": 1794171600,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
    "title": "SpaceX Starship: doppia cattura con il 15esimo volo",
    "link": "https://www.punto-informatico.it/spacex-starship-doppia-cattura-15esimo-volo/",
    "description": "SpaceX ha descritto gli obiettivi previsti con il 15esimo volo del 13 novembre, tra cui la cattura di entrambi gli stadi del razzo Starship. The post SpaceX Starship: doppia cattura con il 15esimo volo appeared first on Punto Informatico .",
@@ -654,13 +688,13 @@
    "section": "tech"
   },
   {
-   "title": "Dipendenza social: Google, Meta e TikTok contro la California",
-   "link": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
-   "description": "Google, Meta e TikTok hanno presentato una denuncia per chiedere il blocco della legge che vieta ai minori di 16 anni di usare specifiche funzionalità. The post Dipendenza social: Google, Meta e TikTok contro la California appeared first on Punto Informatico .",
-   "pub_ts": 1794150496,
-   "source": "Punto Informatico",
+   "title": "Di Pasquale-Piervincenzi al timone di Report, 'c'è chi sperava di cancellarlo'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/di-pasquale-e-piervincenzi-qualcuno-sperava-che-report-venisse-cancellato_d197062a-41cf-48c2-9fa6-a58ee0321ca5.html",
+   "description": "Tra i servizi il tentativo di depistaggio, fallito, di Valter Lavitola",
+   "pub_ts": 1794172092,
+   "source": "ANSA",
    "source_priority": 1,
-   "section": "tech"
+   "section": "varia"
   },
   {
    "title": "Il Maestro, Margherita e il tempo presente",
@@ -668,15 +702,6 @@
    "description": "Sessant’anni fa usciva postumo il capolavoro di Bulgakov superando decenni di censura. Il capolavoro della letteratura russa diventa una parabola sulla resistenza e la libertà. Da rileggere ora più che mai",
    "pub_ts": 1794098193,
    "source": "Repubblica Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Di Pasquale, \"torna in onda la libertà e la resilienza di Report\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/di-pasquale-stasera-torna-in-onda-la-liberta-e-la-resilienza-di-report_8b14e2fa-c593-4cc2-85bb-bc2ad8bfc3af.html",
-   "description": "\"Racconteremo anche del tentativo di depistaggio, fallito, di Valter Lavitola\"",
-   "pub_ts": 1794165335,
-   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
@@ -690,19 +715,19 @@
    "section": "varia"
   },
   {
-   "title": "La vittoria di Camilla sulla leucemia grazie alla ricerca",
-   "link": "https://www.rainews.it/video/2026/11/la-vittoria-di-camilla-sulla-leucemia-grazie-alla-ricerca-60cb48af-c09a-462b-98b8-758f4ce929e3.html",
-   "description": "Il racconto di una guarigione straordinaria e il valore fondamentale del progresso medico",
-   "pub_ts": 1794162540,
+   "title": "Leone XIV in Argentina, un viaggio tra le sfide della Chiesa e un Paese in cerca di unità",
+   "link": "https://www.rainews.it/articoli/2026/11/leone-xiv-in-argentina-un-viaggio-tra-le-sfide-della-chiesa-e-un-paese-in-cerca-di-unita-758452db-9b40-494d-a4c4-791078d7dc11.html",
+   "description": "Il viaggio apostolico viene interpretato come un'occasione per rilanciare messaggi di riconciliazione, giustizia sociale, dialogo e speranza, in un paese attraversato da profonde difficoltà economiche e sociali",
+   "pub_ts": 1794170640,
    "source": "Rai News",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "FIET 2026, a Venezia il dialogo tra enogastronomia, turismo e artigianato",
-   "link": "https://www.rainews.it/maratona/2026/11/fiet-2026-a-venezia-il-dialogo-tra-enogastronomia-turismo-e-artigianato-3d75d2bf-3a7e-4608-8e1d-2d24cb2750d1.html",
-   "description": "Ca’ Vendramin Calergi ospita la sesta edizione del Festival of Italian Enogastronomy and Tourism. Incontri, masterclass e iniziative dedicate alle eccellenze produttive italiane, tra cultura dell’ospitalità, promozione dei territori e tradizioni",
-   "pub_ts": 1794155580,
+   "title": "La vittoria di Camilla sulla leucemia grazie alla ricerca",
+   "link": "https://www.rainews.it/video/2026/11/la-vittoria-di-camilla-sulla-leucemia-grazie-alla-ricerca-60cb48af-c09a-462b-98b8-758f4ce929e3.html",
+   "description": "Il racconto di una guarigione straordinaria e il valore fondamentale del progresso medico",
+   "pub_ts": 1794162540,
    "source": "Rai News",
    "source_priority": 1,
    "section": "varia"
