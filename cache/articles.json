@@ -1,6 +1,6 @@
 {
- "generated_at": 1794149771,
- "updated_at": 1794149771,
+ "generated_at": 1794166101,
+ "updated_at": 1794166101,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,42 +10,42 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "In Israele è il giorno di Eisenkot, Herzog gli affiderà l'incarico di formare il governo",
-   "summary": "Netanyahu tenta la carta dell'unità nazionale. L'ex generale: 'Liberati di Ben Gvir': Haaretz: 'Il partito arabo Ra'am è pronto a sostenerlo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-a-eisenkot-lincarico-di-formare-il-governo-in-israele_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
-   "pub_ts": 1794149019,
+   "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”",
+   "summary": "Il presidente israeliano ha conferito ufficialmente il mandato al leader del partito Yashar nel corso di una cerimonia presso la Residenza presidenziale a Gerusalemme. E apre anche al Partito Sionista",
+   "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
+   "pub_ts": 1794165550,
    "n_sources": 8,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-a-eisenkot-lincarico-di-formare-il-governo-in-israele_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
-     "title": "In Israele è il giorno di Eisenkot, Herzog gli affiderà l'incarico di formare il governo"
-    },
-    {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/israele_herzog_affida_incarico_nuovo_governo_eisenkot-425707530/?rss",
-     "title": "Israele, incarico ad Eisenkot: Netanyahu nell’angolo rilancia l’unità nazionale"
+     "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
+     "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_86419f21-d671-4ecb-9ca2-81397837ec60.html",
-     "title": "Herzog affida il governo a Eisenkot, incarico domani alle 17"
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/herzog-affida-a-eisenkot-incarico-di-formare-nuovo-governo_2099a64f-78d6-4136-aae3-cd3f4adde8c2.html",
+     "title": "Herzog affida a Eisenkot incarico di formare nuovo governo"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/israele-governo-eisenkot-netanyahu-herzog-maggioranza-partiti-arabi-n88q523r",
-     "title": "Israele, l’incarico a Eisenkot: 28 giorni per il nuovo governo"
+     "link": "https://www.editorialedomani.it/politica/mondo/israele-governo-incarico-eisenkot-compito-netanyahu-aspetta-trump-q98nmxzx",
+     "title": "Enigma Eisenkot, Netanyahu non molla: in Israele il governo è un tetris intricato"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/svolta-in-israele-a-eisenkot-lincarico-di-fare-il-governo-1d046124-7f92-447f-bf75-6acf8a3ba4d8.html",
-     "title": "Svolta in Israele, l'incarico a Eisenkot:\" Farò tutto il possibile per dimostrarci all'altezza\""
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/israele-incarico-governo-eisenkot_1gV5T7hGiIpDJYzaFQcJSg",
+     "title": "Israele, Eisenkot riceve da Herzog l'incarico per formare il nuovo governo: \"Momento di estrema emergenza, restiamo uniti\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/",
+     "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, Netanyahu mi sostenga”"
     },
     {
      "name": "Open",
      "link": "https://www.open.online/2026/11/08/guerra-usa-iran-israele-nuovo-governo-8-nov-diretta/",
-     "title": "Israele, il partito arabo Ra’am apre a un governo con Eisenkot: oggi l’incarico. Emergenza a Gaza: «70mila tende allagate», ma resta il blocco degli aiuti – La diretta"
+     "title": "Israele, Eisenkot incaricato di formare il governo. Trump: «Guerra all’Iran? Improbabile». E rilancia il piano per Gaza – La diretta"
     },
     {
      "name": "Il Post",
@@ -53,9 +53,41 @@
      "title": "Il presidente di Israele ha scelto Gadi Eisenkot per formare un governo"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/israele-incarico-governo-eisenkot-domenica_7tORBsh49Ls5lfp2fxfSMq",
-     "title": "Israele, Herzog affida a Eisenkot il compito di formare il prossimo governo"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/israele-eisenkot-incarico-governo-notizie/8564884/",
+     "title": "Israele, Eisenkot riceve l’incarico di formare il nuovo governo: “Momento fragile per la democrazia”. E apre al Likud senza Netanyahu"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il sindaco di Trieste: 'Se lanciano bombe carta nella mia città gli sparo in testa'",
+   "summary": "Un caso le parole di Dipiazza dopo gli scontri di venerdì. Pd e M5S: 'Inaccettabili'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
+   "pub_ts": 1794163918,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
+     "title": "Il sindaco di Trieste: 'Se lanciano bombe carta nella mia città gli sparo in testa'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/08/trieste-sindaco-dipiazza-se-lanciano-bombe-carta-sparo-in-testa-polemica/",
+     "title": "Trieste, bufera sulle frasi del sindaco Dipiazza: «Se lanciano bombe carta gli sparo in testa». Opposizioni compatte: «Ritiri ciò che ha detto»"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/08/news/roberto_dipiazza_sindaco_trieste_forza_italia_scontri-425708529/",
+     "title": "Dipiazza: “Se lanciano bombe carta a Trieste, io gli sparo in testa”. Le opposizioni: “Si dimetta”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/dipiazza-sindaco-trieste-polemiche-notizie/8564929/",
+     "title": "Trieste, non solo “spari in testa”. Tutto il peggio del sindaco Roberto Dipiazza, tra insulti, gestacci e saluti romani"
     }
    ]
   },
@@ -63,10 +95,10 @@
    "category": "politica",
    "area": "italia",
    "title": "Attacchi informatici, Piantedosi convoca il Comitato di sicurezza pubblica",
-   "summary": "Tajani anticiperà oggi ai giornalisti presenti la posizione dell'Italia al G7. Martedì la riunione al Viminale per l'esame della minaccia cyber",
+   "summary": "Martedì la riunione al Viminale per l'esame della minaccia cyber. Tajani: 'Serve un segnale forte del G7'",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
-   "pub_ts": 1794145561,
-   "n_sources": 4,
+   "pub_ts": 1794164137,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -83,126 +115,94 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/08/riunione-comitato-nazionale-pubblica-sicurezza-e-ordine-pubblico/",
      "title": "Il ministro dell’Interno Matteo Piantedosi ha convocato una riunione con le forze dell’ordine per i recenti attacchi informatici"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/08/news/emergenza_cybersicurezza_piantedosi_convoca_per_martedi_il_comitato_nazionale_per_la_sicurezza-425708322/",
-     "title": "Emergenza cyber attacchi, Piantedosi convoca per martedì il Comitato nazionale per la sicurezza"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Sindaco Trieste, se lanciano bombe carta nella mia città gli sparo in testa",
-   "summary": "Il durissimo commento di Dipiazza dopo gli incidenti di due sere fa",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
-   "pub_ts": 1794146994,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
-     "title": "Sindaco Trieste, se lanciano bombe carta nella mia città gli sparo in testa"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/08/news/roberto_dipiazza_sindaco_trieste_forza_italia_scontri-425708529/",
-     "title": "Dipiazza: “Se lanciano bombe carta a Trieste, io gli sparo in testa”. Le opposizioni: “Si dimetta”"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/08/trieste-il-sindaco-dipiazza-sugli-scontri-bombe-carta-nella-mia-citta-gli-sparo-in-testa-il-pd-chiede-le-dimissioni/8564816/",
-     "title": "Trieste, il sindaco Dipiazza sugli scontri: “Bombe carta nella mia città? Gli sparo in testa”. Il Pd chiede le dimissioni"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Anp, a Gaza 400.000 sfollati in aree a forte rischio per le inondazioni",
-   "summary": "Appello dell'Onu, 'garantire l'ingresso di beni di prima necessità'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/anp-a-gaza-400.000-sfollati-in-aree-a-forte-rischio-per-le-inondazioni_1466f9d5-eac6-471c-a0a4-91d9919beca7.html",
-   "pub_ts": 1794148188,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/anp-a-gaza-400.000-sfollati-in-aree-a-forte-rischio-per-le-inondazioni_1466f9d5-eac6-471c-a0a4-91d9919beca7.html",
-     "title": "Anp, a Gaza 400.000 sfollati in aree a forte rischio per le inondazioni"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/08/gaza-tende-piogge-allagate-maltempo-vento-video/8564716/",
-     "title": "Gaza, le piogge allagano 70mila tende di sfollati. Anp: “A rischio migliaia di persone, può diventare una catastrofe”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Il Papa a Florida per l'ultima tappa in Uruguay: 'I governanti perseguano il bene di tutti'",
-   "summary": "Poi volerà in Argentina. 'Profondamente addolorato per le vittime di Cracovia'",
-   "link": "https://www.ansa.it/vaticano/notizie/2026/11/08/il-papa-a-florida-per-lultima-tappa-in-uruguay-i-governanti-perseguano-il-bene-di-tutti_b1a9c1ef-f58d-4638-863e-926dd7986a78.html",
-   "pub_ts": 1794147973,
+   "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'",
+   "summary": "Il leader di Yashar ci prova e apre al Likud. Ma nel Change Bloc veti e differenze",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
+   "pub_ts": 1794165420,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/vaticano/notizie/2026/11/08/il-papa-a-florida-per-lultima-tappa-in-uruguay-i-governanti-perseguano-il-bene-di-tutti_b1a9c1ef-f58d-4638-863e-926dd7986a78.html",
-     "title": "Il Papa a Florida per l'ultima tappa in Uruguay: 'I governanti perseguano il bene di tutti'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
+     "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-i-governanti-perseguano-il-bene-di-tutti_f0b0f8f5-b4be-4ee0-81de-b2da6db36116.html",
-     "title": "Il Papa, 'i governanti perseguano il bene di tutti'"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/svolta-in-israele-a-eisenkot-lincarico-di-fare-il-governo-1d046124-7f92-447f-bf75-6acf8a3ba4d8.html",
+     "title": "La svolta: incarico a Eisenkot. \"Momento fragile per la democrazia, il popolo vuole governo stabile\""
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'",
-   "summary": "'Prospettano impeachment e svariate forme di punizione, è estorsione e devono pagare'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/trump-ordina-indagini-sui-democratici-che-minacciano-molte-persone_32ef273e-d187-46ba-9749-7e91fde5e614.html",
-   "pub_ts": 1794138676,
+   "title": "Prof denuncia: 'Linkedin mi ha chiuso il profilo dopo un post su Gaza'",
+   "summary": "Kamel: 'Punito per video di soldati israeliani che cantano 'non ci sono civili innocenti''",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/prof-denuncia-linkedin-mi-ha-chiuso-il-profilo-dopo-un-post-su-gaza_274e1c3d-14e5-4681-8f93-34a0ee0483a2.html",
+   "pub_ts": 1794164071,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/trump-ordina-indagini-sui-democratici-che-minacciano-molte-persone_32ef273e-d187-46ba-9749-7e91fde5e614.html",
-     "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/prof-denuncia-linkedin-mi-ha-chiuso-il-profilo-dopo-un-post-su-gaza_274e1c3d-14e5-4681-8f93-34a0ee0483a2.html",
+     "title": "Prof denuncia: 'Linkedin mi ha chiuso il profilo dopo un post su Gaza'"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/08/trump-miller-indagini-democratici-notizie/8564706/",
-     "title": "Trump ordina indagini sui dem pronti a metterlo sotto inchiesta: “Devono finire in prigione”. La linea dura dell’era Miller"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/lorenzo-kamel-linkedin-chiuso-video-gaza-notizie/8564982/",
+     "title": "Lo storico Kamel: “Il mio profilo Linkedin chiuso dopo la pubblicazione di un video su Gaza”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Mosca presenta la squadra per il trilaterale di Abu Dhabi. Pistorius: “La Germania non può più fornire Patriot a Kiev”",
-   "summary": "Il nuovo round di colloqui tra russi americani e ucraini la prossima settimana (10-11 novembre). Sul tavolo, a cui non partecipa l’Ue, l’ambizione di trovare “un grande accordo” che includa garanzie per sicurezza in Europa",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/negoziati_russia_ucraina_abu_dhabi_mosca_presenta_squadra-425707432/?rss",
-   "pub_ts": 1794132084,
+   "title": "Trump lancia l'era Miller ma Vance trema, finanziatori in fuga",
+   "summary": "I repubblicani scettici sul vicepresidente, altri aspiranti già affilano le armi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/08/trump-lancia-lera-miller-ma-vance-trema-finanziatori-in-fuga_185e5971-a7a8-47f4-b15a-df683dc8bdc1.html",
+   "pub_ts": 1794163632,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/negoziati_russia_ucraina_abu_dhabi_mosca_presenta_squadra-425707432/?rss",
-     "title": "Mosca presenta la squadra per il trilaterale di Abu Dhabi. Pistorius: “La Germania non può più fornire Patriot a Kiev”"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/08/trump-lancia-lera-miller-ma-vance-trema-finanziatori-in-fuga_185e5971-a7a8-47f4-b15a-df683dc8bdc1.html",
+     "title": "Trump lancia l'era Miller ma Vance trema, finanziatori in fuga"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/ucraina-pioggia-missili-kiev-colpite-infrastrutture-energetiche-zelensky-mosca-si-prepara-cosi-negoziati-AJ6tmO8B",
-     "title": "Ucraina, missili su Kiev: colpite infrastrutture energetiche. Pistorius: «Germania non può più fornire sistemi Patriot»"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/i-finanziatori-repubblicani-scettici-su-vance-nel-2028-troppo-legato-a-trump_3e7ee956-3a02-46de-8b09-232ae25df8a7.html",
+     "title": "I finanziatori repubblicani scettici su Vance nel 2028, 'troppo legato a Trump'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Ucraina: Europei e Francia al trilaterale di Abu Dhabi, ma i Volenterosi si esercitano",
+   "summary": "Da lunedì in Polonia manovre militari per il dopo guerra in Ucraina. 'Raid su soccorsi'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/ucraina-europei-e-francia-al-trilaterale-di-abu-dhabi-ma-i-volenterosi-si-esercitano_093f3a23-531b-4851-ab34-fd51d14f1168.html",
+   "pub_ts": 1794162136,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/ucraina-europei-e-francia-al-trilaterale-di-abu-dhabi-ma-i-volenterosi-si-esercitano_093f3a23-531b-4851-ab34-fd51d14f1168.html",
+     "title": "Ucraina: Europei e Francia al trilaterale di Abu Dhabi, ma i Volenterosi si esercitano"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/parigi-europei-e-francia-saranno-presenti-al-trilaterale-di-abu-dhabi_30150fe8-fbb0-4d70-94a6-d7b53c53bd64.html",
+     "title": "Parigi, europei e Francia saranno presenti al trilaterale di Abu Dhabi"
     }
    ]
   },
@@ -212,7 +212,7 @@
    "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
    "summary": "Il tycoon ha invitato il wrestler Dana White a fargli da portavoce. Prima aveva chiesto alla Giustizia di indagare sugli avversari: “Svegliamoci”",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-   "pub_ts": 1794131993,
+   "pub_ts": 1794154069,
    "n_sources": 2,
    "documented": true,
    "sources": [
@@ -225,6 +225,28 @@
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/",
      "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "A Gaza ci sono decine di migliaia di tende allagate",
+   "summary": "Un'alluvione ha causato danni un po' ovunque, e le organizzazioni internazionali riescono ad aiutare fino a un certo punto",
+   "link": "https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/",
+   "pub_ts": 1794159138,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/",
+     "title": "A Gaza ci sono decine di migliaia di tende allagate"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/nubifragio-a-gaza-70mila-tende-allagate-anp-intervenga-lonu-gce2imrp",
+     "title": "Nubifragio a Gaza, 70mila tende allagate. Anp: «Intervenga l’Onu»"
     }
    ]
   },
@@ -251,145 +273,77 @@
    ]
   },
   {
-   "category": "politica",
-   "area": "italia",
-   "title": "Alleati, veti e incognite. Il generale alla prova del governo post-Bibi",
-   "summary": "Per sbloccare lo stallo e allargare la coalizione, possibile l’istituzione di un servizio civile obbligatorio che eviti la leva agli studenti religiosi e si possa applicare anche agli arabi",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_alleati_veti_incognite_generale_eisenkot_alla_prova_governo_post-bibi-425707860/?rss",
-   "pub_ts": 1794096000,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_alleati_veti_incognite_generale_eisenkot_alla_prova_governo_post-bibi-425707860/?rss",
-     "title": "Alleati, veti e incognite. Il generale alla prova del governo post-Bibi"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_alleati_veti_incognite_generale_eisenkot_alla_prova_governo_post-bibi-425707860/",
-     "title": "Alleati, veti e incognite. Il generale alla prova del governo post-Bibi"
-    }
-   ]
-  },
-  {
    "category": "tech",
    "area": null,
    "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti",
-   "summary": "Standard comune non subito operativo, iniziativa in un clima di crescenti battaglie legali",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_a63d45f7-a835-4c78-ab46-3c70f71ac2b3.html",
-   "pub_ts": 1794145491,
+   "summary": "Ma standard comune non subito operativo, iniziativa in clima di crescenti battaglie legali",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_01931b0a-ef0a-4f5b-be64-b2b05c4b7d9c.html",
+   "pub_ts": 1794163964,
    "n_sources": 2,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_a63d45f7-a835-4c78-ab46-3c70f71ac2b3.html",
-     "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti"
-    },
     {
      "name": "ANSA Tecnologia",
      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_01931b0a-ef0a-4f5b-be64-b2b05c4b7d9c.html",
      "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_a63d45f7-a835-4c78-ab46-3c70f71ac2b3.html",
+     "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Addio a Lonnie Thompson, il glaciologo che ha dato voce ai ghiacci del pianeta",
-   "summary": "Per oltre cinquant'anni ha esplorato i ghiacciai del mondo, raccogliendo le tracce della storia climatica della Terra. Le sue ricerche hanno documentato gli effetti del riscaldamento globale, lasciando un'eredità preziosa per la scienza",
-   "link": "https://www.rainews.it/articoli/2026/11/riscaldamento-globale-addio-a-lonnie-thompson-il-glaciologo-che-ha-dato-voce-ai-ghiacci-del-pianeta-baa4d49b-75be-4c34-9635-42a0372340bc.html",
-   "pub_ts": 1794140100,
+   "title": "Il Nobel Hinton, 'forse staremmo meglio senza IA, temo un grave incidente'",
+   "summary": "Il 'padre' dell'Ia teme casi come il blocco della rete elettrica o del sistema bancario",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/il-nobel-hinton-forse-staremmo-meglio-senza-ia-temo-un-grave-incidente_85a23214-8f17-4d09-a97c-e07e492e4fdb.html",
+   "pub_ts": 1794164208,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/riscaldamento-globale-addio-a-lonnie-thompson-il-glaciologo-che-ha-dato-voce-ai-ghiacci-del-pianeta-baa4d49b-75be-4c34-9635-42a0372340bc.html",
-     "title": "Addio a Lonnie Thompson, il glaciologo che ha dato voce ai ghiacci del pianeta"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/il-nobel-hinton-forse-staremmo-meglio-senza-ia-temo-un-grave-incidente_85a23214-8f17-4d09-a97c-e07e492e4fdb.html",
+     "title": "Il Nobel Hinton, 'forse staremmo meglio senza IA, temo un grave incidente'"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Come delegare metà del lavoro a Claude: 5 strategie concrete",
-   "summary": "Il segreto non è chiedere di più a Claude, ma smettere di fare quello che lui fa meglio. 5 metodi per delegare il lavoro ripetitivo. The post Come delegare metà del lavoro a Claude: 5 strategie concrete appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/come-delegare-meta-del-lavoro-a-claude-5-strategie-concrete/",
-   "pub_ts": 1794126605,
+   "title": "SpaceX Starship: doppia cattura con il 15esimo volo",
+   "summary": "SpaceX ha descritto gli obiettivi previsti con il 15esimo volo del 13 novembre, tra cui la cattura di entrambi gli stadi del razzo Starship. The post SpaceX Starship: doppia cattura con il 15esimo volo appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/spacex-starship-doppia-cattura-15esimo-volo/",
+   "pub_ts": 1794154325,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/come-delegare-meta-del-lavoro-a-claude-5-strategie-concrete/",
-     "title": "Come delegare metà del lavoro a Claude: 5 strategie concrete"
+     "link": "https://www.punto-informatico.it/spacex-starship-doppia-cattura-15esimo-volo/",
+     "title": "SpaceX Starship: doppia cattura con il 15esimo volo"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Problemi con il digitale terrestre? Passa ai canali satellitari",
-   "summary": "Se da tempo hai problemi con il digitale terrestre risolvi subito passando ai canali satellitari con tutto l'intrattenimento che vuoi. The post Problemi con il digitale terrestre? Passa ai canali satellitari appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/problemi-digitale-terrestre-passa-canali-satellitari/",
-   "pub_ts": 1794124848,
+   "title": "Dipendenza social: Google, Meta e TikTok contro la California",
+   "summary": "Google, Meta e TikTok hanno presentato una denuncia per chiedere il blocco della legge che vieta ai minori di 16 anni di usare specifiche funzionalità. The post Dipendenza social: Google, Meta e TikTok contro la California appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
+   "pub_ts": 1794150496,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/problemi-digitale-terrestre-passa-canali-satellitari/",
-     "title": "Problemi con il digitale terrestre? Passa ai canali satellitari"
+     "link": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
+     "title": "Dipendenza social: Google, Meta e TikTok contro la California"
     }
    ]
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Diaco si scusa con Ravagnani ma avverte, 'pronto a querele'",
-   "summary": "'Non transigo su insinuazioni relative ad avance o approcci mai avvenuti'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/diaco-si-scusa-con-ravagnani-ma-avverte-pronto-a-querele_522d4334-b691-4a0e-9340-f8755681b297.html",
-   "pub_ts": 1794147355,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/diaco-si-scusa-con-ravagnani-ma-avverte-pronto-a-querele_522d4334-b691-4a0e-9340-f8755681b297.html",
-     "title": "Diaco si scusa con Ravagnani ma avverte, 'pronto a querele'"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/08/ho-convocato-ravagnani-in-camerino-per-anticipargli-lintervista-mai-avvenute-avance-o-approcci-pronto-a-querelare-diaco-replica-a-ravagnani-dopo-ballando-con-le-stelle/8564771/",
-     "title": "“Ho convocato Ravagnani in camerino per anticipargli l’intervista. Mai avvenute avance o approcci, pronto a querelare”: Diaco replica a Ravagnani dopo Ballando con le Stelle"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Gialappa's Band, 'al Controfestival ci sarà grande spazio per la musica'",
-   "summary": "\"Con noi il maestro Vittorio Cosma, ci ha chiamato De Martino\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/07/gialappas-band-al-controfestival-ci-sara-grande-spazio-per-la-musica_d7491406-88ed-480a-b8c8-9485eb4f7d49.html",
-   "pub_ts": 1794109260,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/07/gialappas-band-al-controfestival-ci-sara-grande-spazio-per-la-musica_d7491406-88ed-480a-b8c8-9485eb4f7d49.html",
-     "title": "Gialappa's Band, 'al Controfestival ci sarà grande spazio per la musica'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/sanremo-gialappas-band-al-controfestival-ci-sara-grande-spazio-per-la-musica-ce79314d-3ead-433a-82bc-5035a16f9f2e.html",
-     "title": "Gialappa's Band: \"Al Controfestival ci sarà grande spazio per la musica\""
-    }
-   ],
-   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -417,10 +371,64 @@
   {
    "category": "varia",
    "area": null,
+   "title": "Di Pasquale, \"torna in onda la libertà e la resilienza di Report\"",
+   "summary": "\"Racconteremo anche del tentativo di depistaggio, fallito, di Valter Lavitola\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/di-pasquale-stasera-torna-in-onda-la-liberta-e-la-resilienza-di-report_8b14e2fa-c593-4cc2-85bb-bc2ad8bfc3af.html",
+   "pub_ts": 1794165335,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/di-pasquale-stasera-torna-in-onda-la-liberta-e-la-resilienza-di-report_8b14e2fa-c593-4cc2-85bb-bc2ad8bfc3af.html",
+     "title": "Di Pasquale, \"torna in onda la libertà e la resilienza di Report\""
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Enzo D'Alò, 'anziché fare carceri avrebbe più senso fare cultura per i giovani'",
+   "summary": "Al regista di animazione Ulivo d'Oro alla carriera al Festival del Cinema Europeo di Lecce",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/enzo-dalo-anziche-fare-carceri-avrebbe-piu-senso-fare-cultura_2c75f1a2-f21e-4f73-a1e3-4d07b7bcbbd7.html",
+   "pub_ts": 1794165207,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/enzo-dalo-anziche-fare-carceri-avrebbe-piu-senso-fare-cultura_2c75f1a2-f21e-4f73-a1e3-4d07b7bcbbd7.html",
+     "title": "Enzo D'Alò, 'anziché fare carceri avrebbe più senso fare cultura per i giovani'"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "La vittoria di Camilla sulla leucemia grazie alla ricerca",
+   "summary": "Il racconto di una guarigione straordinaria e il valore fondamentale del progresso medico",
+   "link": "https://www.rainews.it/video/2026/11/la-vittoria-di-camilla-sulla-leucemia-grazie-alla-ricerca-60cb48af-c09a-462b-98b8-758f4ce929e3.html",
+   "pub_ts": 1794162540,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/la-vittoria-di-camilla-sulla-leucemia-grazie-alla-ricerca-60cb48af-c09a-462b-98b8-758f4ce929e3.html",
+     "title": "La vittoria di Camilla sulla leucemia grazie alla ricerca"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
    "title": "FIET 2026, a Venezia il dialogo tra enogastronomia, turismo e artigianato",
    "summary": "Ca’ Vendramin Calergi ospita la sesta edizione del Festival of Italian Enogastronomy and Tourism. Incontri, masterclass e iniziative dedicate alle eccellenze produttive italiane, tra cultura dell’ospitalità, promozione dei territori e tradizioni",
    "link": "https://www.rainews.it/maratona/2026/11/fiet-2026-a-venezia-il-dialogo-tra-enogastronomia-turismo-e-artigianato-3d75d2bf-3a7e-4608-8e1d-2d24cb2750d1.html",
-   "pub_ts": 1794148200,
+   "pub_ts": 1794155580,
    "n_sources": 1,
    "documented": false,
    "sources": [
@@ -433,149 +441,161 @@
    "subtype": "scienza"
   },
   {
-   "category": "varia",
-   "area": null,
-   "title": "TG1 Medicina del 08/11/2026",
-   "summary": "",
-   "link": "https://www.rainews.it/rubriche/tg1medicina/video/2026/11/TG1-Medicina-del-08112026-198ec0cb-eeeb-491d-b260-59be6b92c8af.html",
-   "pub_ts": 1794122736,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/rubriche/tg1medicina/video/2026/11/TG1-Medicina-del-08112026-198ec0cb-eeeb-491d-b260-59be6b92c8af.html",
-     "title": "TG1 Medicina del 08/11/2026"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
    "category": "cronaca",
    "area": null,
-   "title": "Cracovia, aperta inchiesta per terrorismo. L'attentatore frequentava il poligono",
-   "summary": "Sequestrate armi e munizioni. L'appello: 'Il poliziotto eroe lotta per la vita, donate sangue'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/cracovia-lattentatore-e-gravemente-ferito.-in-casa-morti-padre-madre-e-sorella_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
-   "pub_ts": 1794148708,
-   "n_sources": 5,
+   "title": "Si aggrava il bilancio dell'incidente ferroviario in Egitto, 7 morti e 112 feriti",
+   "summary": "Secondo l'ultimo aggiornamento del ministero della Salute",
+   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/08/si-aggrava-il-bilancio-dellincidente-ferroviario-in-egitto-7-morti-e-112-feriti_5acb8878-f5a2-4806-b3a7-849558e46f90.html",
+   "pub_ts": 1794165967,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/cracovia-lattentatore-e-gravemente-ferito.-in-casa-morti-padre-madre-e-sorella_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
-     "title": "Cracovia, aperta inchiesta per terrorismo. L'attentatore frequentava il poligono"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/08/si-aggrava-il-bilancio-dellincidente-ferroviario-in-egitto-7-morti-e-112-feriti_5acb8878-f5a2-4806-b3a7-849558e46f90.html",
+     "title": "Si aggrava il bilancio dell'incidente ferroviario in Egitto, 7 morti e 112 feriti"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/procura-polacca-aperta-uninchiesta-per-terrorismo_1b9dbed5-556c-4431-80bd-956739efd660.html",
-     "title": "Procura polacca, 'aperta un'inchiesta per terrorismo'"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/egitto-scontro-due-treni-sud-cairo-7-morti-e-112-feriti-AJyvDY9B",
+     "title": "Egitto, scontro tra due treni a sud del Cairo: 7 morti e 112 feriti"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/08/news/egitto_scontro_tra_treni_giza_morti-425708981/",
+     "title": "Egitto, scontro tra treni a Giza: almeno 7 morti e 112 feriti. “Nessun turista straniero coinvolto”"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/egitto-scontro-tra-treni-a-giza-almeno-morti-e-feriti-7b332113-4581-456b-863e-ffe98446794c.html",
+     "title": "Egitto: scontro tra treni a Giza, almeno 7 morti e 112 feriti"
     },
     {
      "name": "Open",
-     "link": "https://www.open.online/2026/11/08/strage-cracovia-terrorismo-chi-e-attentatore-uccisa-famiglia/",
-     "title": "Cracovia, aperta inchiesta per terrorismo. L’attentatore ha sterminato la famiglia prima dell’attacco: 6 morti in piazza, tra cui un britannico"
+     "link": "https://www.open.online/2026/11/08/scontro-treni-egitto-giza-vittime-video/",
+     "title": "Scontro tra due treni in Egitto, i vagoni capovolti e i soccorsi tra le lamiere: 7 morti e 122 feriti – Il video"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/08/cosa-sappiamo-attentato-cracovia/",
-     "title": "Cosa sappiamo dell’attacco a Cracovia"
+     "link": "https://www.ilpost.it/2026/11/08/incidente-ferroviario-cairo-egitto/",
+     "title": "C’è stato un grave incidente ferroviario a sud del Cairo, in Egitto"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/cracovia-attacco-strage-cosa-sappiamo_45n95enGr4T7H8BrQJANi8",
-     "title": "Attacco a Cracovia, spari in piazza e 6 morti: attentatore ferito. La strage a casa, cosa sappiamo"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/treno-scontro-egitto-giza-morti-feriti-cosa-e-successo/8564895/",
+     "title": "Egitto, scontro tra due treni a Giza: almeno sette morti e 112 feriti"
     }
    ]
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”. Si indaga per terrorismo",
-   "summary": "Nella principale piazza della città diventata popolare meta turistica, una persona ha preso di mira persone a caso, sparando dalla sua auto in corsa",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
-   "pub_ts": 1794148937,
-   "n_sources": 3,
+   "title": "In Polonia si indaga per terrorismo, ancora gravi i feriti della strage di Cracovia",
+   "summary": "L'attentatore ha prima sterminato la famiglia. 'La domenica andava al poligono col padre'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/in-polonia-si-indaga-per-terrorismo-ancora-gravi-i-feriti-della-strage-di-cracovia_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
+   "pub_ts": 1794161876,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
-     "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”. Si indaga per terrorismo"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/in-polonia-si-indaga-per-terrorismo-ancora-gravi-i-feriti-della-strage-di-cracovia_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
+     "title": "In Polonia si indaga per terrorismo, ancora gravi i feriti della strage di Cracovia"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/ministro-interni-polacco-il-killer-affascinato-da-ideologie-di-estrema-destra_838ca2b6-f95e-4699-8a71-7262fafec899.html",
-     "title": "Ministro interni polacco, 'il killer affascinato da ideologie di estrema destra'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/08/news/michal_oksinski_cracovia_chi_e_attentatore_indagini_terrorismo-425708795/?rss",
+     "title": "Cracovia, chi è l’attentatore Michal Oksinski. Ora si indaga per terrorismo"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/08/news/michal_oksinski_cracovia_chi_e_attentatore_indagini_terrorismo-425708795/",
+     "title": "Cracovia, chi è l’attentatore Michal Oksinski. Ora si indaga per terrorismo"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/michal-oksinski-attentato-cracovia-autore_2yVOiWQ4zmFwGR2jvcrFsm",
+     "title": "Chi è Michal Oksinski, l'attentatore di Cracovia: le idee estremiste, i disegni e le armi"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/idee-ultranazionaliste-e-allenamenti-al-poligono-di-tiro-chi-e-lattentatore-di-cracovia-09f7f02e-e9e8-4dd8-bef7-80748005f5c8.html",
+     "title": "Idee ultranazionaliste e allenamenti al poligono di tiro, chi è l'attentatore di Cracovia"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/cracovia-sparatoria-passanti-morti-gzs4xy92",
-     "title": "Fa fuoco sui passanti a Cracovia, almeno sei morti. «Il killer un estremista di destra»"
+     "link": "https://www.editorialedomani.it/fatti/strage-cracovia-familiari-morti-arrestato-indagine-terrorismo-lmz8ybs1",
+     "title": "Strage di Cracovia, trovati morti i familiari del 24enne arrestato. La procura indaga per terrorismo"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/08/strage-cracovia-oksinski-profilo-notizie/8564924/",
+     "title": "Strage di Cracovia, chi è Michal Oksinski: i disegni di morte a scuola e la passione per le armi"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "In Israele è il giorno di Eisenkot, Herzog gli affiderà l'incarico di formare il governo",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/herzog-affida-a-eisenkot-lincarico-di-formare-il-governo-in-israele_a23fdf32-f6f2-45a5-ac13-96235962585a.html",
-   "description": "Netanyahu tenta la carta dell'unità nazionale. L'ex generale: 'Liberati di Ben Gvir': Haaretz: 'Il partito arabo Ra'am è pronto a sostenerlo'",
-   "pub_ts": 1794149019,
-   "source": "ANSA",
+   "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”",
+   "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
+   "description": "Il presidente israeliano ha conferito ufficialmente il mandato al leader del partito Yashar nel corso di una cerimonia presso la Residenza presidenziale a Gerusalemme. E apre anche al Partito Sionista",
+   "pub_ts": 1794165550,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il sindaco di Trieste: 'Se lanciano bombe carta nella mia città gli sparo in testa'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
+   "description": "Un caso le parole di Dipiazza dopo gli scontri di venerdì. Pd e M5S: 'Inaccettabili'",
+   "pub_ts": 1794163918,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
   {
    "title": "Attacchi informatici, Piantedosi convoca il Comitato di sicurezza pubblica",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
-   "description": "Tajani anticiperà oggi ai giornalisti presenti la posizione dell'Italia al G7. Martedì la riunione al Viminale per l'esame della minaccia cyber",
-   "pub_ts": 1794145561,
+   "description": "Martedì la riunione al Viminale per l'esame della minaccia cyber. Tajani: 'Serve un segnale forte del G7'",
+   "pub_ts": 1794164137,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Sindaco Trieste, se lanciano bombe carta nella mia città gli sparo in testa",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
-   "description": "Il durissimo commento di Dipiazza dopo gli incidenti di due sere fa",
-   "pub_ts": 1794146994,
+   "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
+   "description": "Il leader di Yashar ci prova e apre al Likud. Ma nel Change Bloc veti e differenze",
+   "pub_ts": 1794165420,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Prof denuncia: 'Linkedin mi ha chiuso il profilo dopo un post su Gaza'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/prof-denuncia-linkedin-mi-ha-chiuso-il-profilo-dopo-un-post-su-gaza_274e1c3d-14e5-4681-8f93-34a0ee0483a2.html",
+   "description": "Kamel: 'Punito per video di soldati israeliani che cantano 'non ci sono civili innocenti''",
+   "pub_ts": 1794164071,
    "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Anp, a Gaza 400.000 sfollati in aree a forte rischio per le inondazioni",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/anp-a-gaza-400.000-sfollati-in-aree-a-forte-rischio-per-le-inondazioni_1466f9d5-eac6-471c-a0a4-91d9919beca7.html",
-   "description": "Appello dell'Onu, 'garantire l'ingresso di beni di prima necessità'",
-   "pub_ts": 1794148188,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il Papa a Florida per l'ultima tappa in Uruguay: 'I governanti perseguano il bene di tutti'",
-   "link": "https://www.ansa.it/vaticano/notizie/2026/11/08/il-papa-a-florida-per-lultima-tappa-in-uruguay-i-governanti-perseguano-il-bene-di-tutti_b1a9c1ef-f58d-4638-863e-926dd7986a78.html",
-   "description": "Poi volerà in Argentina. 'Profondamente addolorato per le vittime di Cracovia'",
-   "pub_ts": 1794147973,
+   "title": "Trump lancia l'era Miller ma Vance trema, finanziatori in fuga",
+   "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/08/trump-lancia-lera-miller-ma-vance-trema-finanziatori-in-fuga_185e5971-a7a8-47f4-b15a-df683dc8bdc1.html",
+   "description": "I repubblicani scettici sul vicepresidente, altri aspiranti già affilano le armi",
+   "pub_ts": 1794163632,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/07/trump-ordina-indagini-sui-democratici-che-minacciano-molte-persone_32ef273e-d187-46ba-9749-7e91fde5e614.html",
-   "description": "'Prospettano impeachment e svariate forme di punizione, è estorsione e devono pagare'",
-   "pub_ts": 1794138676,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Mosca presenta la squadra per il trilaterale di Abu Dhabi. Pistorius: “La Germania non può più fornire Patriot a Kiev”",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/negoziati_russia_ucraina_abu_dhabi_mosca_presenta_squadra-425707432/?rss",
-   "description": "Il nuovo round di colloqui tra russi americani e ucraini la prossima settimana (10-11 novembre). Sul tavolo, a cui non partecipa l’Ue, l’ambizione di trovare “un grande accordo” che includa garanzie per sicurezza in Europa",
-   "pub_ts": 1794132084,
-   "source": "Repubblica Esteri",
+   "title": "Ucraina: Europei e Francia al trilaterale di Abu Dhabi, ma i Volenterosi si esercitano",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/ucraina-europei-e-francia-al-trilaterale-di-abu-dhabi-ma-i-volenterosi-si-esercitano_093f3a23-531b-4851-ab34-fd51d14f1168.html",
+   "description": "Da lunedì in Polonia manovre militari per il dopo guerra in Ucraina. 'Raid su soccorsi'",
+   "pub_ts": 1794162136,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -583,8 +603,17 @@
    "title": "Trump ordina indagini sui dem: “Ci minacciano”. E chiama i lottatori di MMA nel suo ufficio stampa",
    "link": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
    "description": "Il tycoon ha invitato il wrestler Dana White a fargli da portavoce. Prima aveva chiesto alla Giustizia di indagare sugli avversari: “Svegliamoci”",
-   "pub_ts": 1794131993,
+   "pub_ts": 1794154069,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "A Gaza ci sono decine di migliaia di tende allagate",
+   "link": "https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/",
+   "description": "Un'alluvione ha causato danni un po' ovunque, e le organizzazioni internazionali riescono ad aiutare fino a un certo punto",
+   "pub_ts": 1794159138,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "politica"
   },
@@ -598,67 +627,40 @@
    "section": "politica"
   },
   {
-   "title": "Alleati, veti e incognite. Il generale alla prova del governo post-Bibi",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_alleati_veti_incognite_generale_eisenkot_alla_prova_governo_post-bibi-425707860/?rss",
-   "description": "Per sbloccare lo stallo e allargare la coalizione, possibile l’istituzione di un servizio civile obbligatorio che eviti la leva agli studenti religiosi e si possa applicare anche agli arabi",
-   "pub_ts": 1794096000,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_a63d45f7-a835-4c78-ab46-3c70f71ac2b3.html",
-   "description": "Standard comune non subito operativo, iniziativa in un clima di crescenti battaglie legali",
-   "pub_ts": 1794145491,
-   "source": "ANSA Politica",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_01931b0a-ef0a-4f5b-be64-b2b05c4b7d9c.html",
+   "description": "Ma standard comune non subito operativo, iniziativa in clima di crescenti battaglie legali",
+   "pub_ts": 1794163964,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Addio a Lonnie Thompson, il glaciologo che ha dato voce ai ghiacci del pianeta",
-   "link": "https://www.rainews.it/articoli/2026/11/riscaldamento-globale-addio-a-lonnie-thompson-il-glaciologo-che-ha-dato-voce-ai-ghiacci-del-pianeta-baa4d49b-75be-4c34-9635-42a0372340bc.html",
-   "description": "Per oltre cinquant'anni ha esplorato i ghiacciai del mondo, raccogliendo le tracce della storia climatica della Terra. Le sue ricerche hanno documentato gli effetti del riscaldamento globale, lasciando un'eredità preziosa per la scienza",
-   "pub_ts": 1794140100,
-   "source": "Rai News",
+   "title": "Il Nobel Hinton, 'forse staremmo meglio senza IA, temo un grave incidente'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/il-nobel-hinton-forse-staremmo-meglio-senza-ia-temo-un-grave-incidente_85a23214-8f17-4d09-a97c-e07e492e4fdb.html",
+   "description": "Il 'padre' dell'Ia teme casi come il blocco della rete elettrica o del sistema bancario",
+   "pub_ts": 1794164208,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Come delegare metà del lavoro a Claude: 5 strategie concrete",
-   "link": "https://www.punto-informatico.it/come-delegare-meta-del-lavoro-a-claude-5-strategie-concrete/",
-   "description": "Il segreto non è chiedere di più a Claude, ma smettere di fare quello che lui fa meglio. 5 metodi per delegare il lavoro ripetitivo. The post Come delegare metà del lavoro a Claude: 5 strategie concrete appeared first on Punto Informatico .",
-   "pub_ts": 1794126605,
+   "title": "SpaceX Starship: doppia cattura con il 15esimo volo",
+   "link": "https://www.punto-informatico.it/spacex-starship-doppia-cattura-15esimo-volo/",
+   "description": "SpaceX ha descritto gli obiettivi previsti con il 15esimo volo del 13 novembre, tra cui la cattura di entrambi gli stadi del razzo Starship. The post SpaceX Starship: doppia cattura con il 15esimo volo appeared first on Punto Informatico .",
+   "pub_ts": 1794154325,
    "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Problemi con il digitale terrestre? Passa ai canali satellitari",
-   "link": "https://www.punto-informatico.it/problemi-digitale-terrestre-passa-canali-satellitari/",
-   "description": "Se da tempo hai problemi con il digitale terrestre risolvi subito passando ai canali satellitari con tutto l'intrattenimento che vuoi. The post Problemi con il digitale terrestre? Passa ai canali satellitari appeared first on Punto Informatico .",
-   "pub_ts": 1794124848,
+   "title": "Dipendenza social: Google, Meta e TikTok contro la California",
+   "link": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
+   "description": "Google, Meta e TikTok hanno presentato una denuncia per chiedere il blocco della legge che vieta ai minori di 16 anni di usare specifiche funzionalità. The post Dipendenza social: Google, Meta e TikTok contro la California appeared first on Punto Informatico .",
+   "pub_ts": 1794150496,
    "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
-  },
-  {
-   "title": "Diaco si scusa con Ravagnani ma avverte, 'pronto a querele'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/diaco-si-scusa-con-ravagnani-ma-avverte-pronto-a-querele_522d4334-b691-4a0e-9340-f8755681b297.html",
-   "description": "'Non transigo su insinuazioni relative ad avance o approcci mai avvenuti'",
-   "pub_ts": 1794147355,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Gialappa's Band, 'al Controfestival ci sarà grande spazio per la musica'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/07/gialappas-band-al-controfestival-ci-sara-grande-spazio-per-la-musica_d7491406-88ed-480a-b8c8-9485eb4f7d49.html",
-   "description": "\"Con noi il maestro Vittorio Cosma, ci ha chiamato De Martino\"",
-   "pub_ts": 1794109260,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
   },
   {
    "title": "Il Maestro, Margherita e il tempo presente",
@@ -670,38 +672,56 @@
    "section": "varia"
   },
   {
+   "title": "Di Pasquale, \"torna in onda la libertà e la resilienza di Report\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/di-pasquale-stasera-torna-in-onda-la-liberta-e-la-resilienza-di-report_8b14e2fa-c593-4cc2-85bb-bc2ad8bfc3af.html",
+   "description": "\"Racconteremo anche del tentativo di depistaggio, fallito, di Valter Lavitola\"",
+   "pub_ts": 1794165335,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Enzo D'Alò, 'anziché fare carceri avrebbe più senso fare cultura per i giovani'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/enzo-dalo-anziche-fare-carceri-avrebbe-piu-senso-fare-cultura_2c75f1a2-f21e-4f73-a1e3-4d07b7bcbbd7.html",
+   "description": "Al regista di animazione Ulivo d'Oro alla carriera al Festival del Cinema Europeo di Lecce",
+   "pub_ts": 1794165207,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "La vittoria di Camilla sulla leucemia grazie alla ricerca",
+   "link": "https://www.rainews.it/video/2026/11/la-vittoria-di-camilla-sulla-leucemia-grazie-alla-ricerca-60cb48af-c09a-462b-98b8-758f4ce929e3.html",
+   "description": "Il racconto di una guarigione straordinaria e il valore fondamentale del progresso medico",
+   "pub_ts": 1794162540,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
    "title": "FIET 2026, a Venezia il dialogo tra enogastronomia, turismo e artigianato",
    "link": "https://www.rainews.it/maratona/2026/11/fiet-2026-a-venezia-il-dialogo-tra-enogastronomia-turismo-e-artigianato-3d75d2bf-3a7e-4608-8e1d-2d24cb2750d1.html",
    "description": "Ca’ Vendramin Calergi ospita la sesta edizione del Festival of Italian Enogastronomy and Tourism. Incontri, masterclass e iniziative dedicate alle eccellenze produttive italiane, tra cultura dell’ospitalità, promozione dei territori e tradizioni",
-   "pub_ts": 1794148200,
+   "pub_ts": 1794155580,
    "source": "Rai News",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "TG1 Medicina del 08/11/2026",
-   "link": "https://www.rainews.it/rubriche/tg1medicina/video/2026/11/TG1-Medicina-del-08112026-198ec0cb-eeeb-491d-b260-59be6b92c8af.html",
-   "description": "",
-   "pub_ts": 1794122736,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Cracovia, aperta inchiesta per terrorismo. L'attentatore frequentava il poligono",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/cracovia-lattentatore-e-gravemente-ferito.-in-casa-morti-padre-madre-e-sorella_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
-   "description": "Sequestrate armi e munizioni. L'appello: 'Il poliziotto eroe lotta per la vita, donate sangue'",
-   "pub_ts": 1794148708,
-   "source": "ANSA",
+   "title": "Si aggrava il bilancio dell'incidente ferroviario in Egitto, 7 morti e 112 feriti",
+   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/08/si-aggrava-il-bilancio-dellincidente-ferroviario-in-egitto-7-morti-e-112-feriti_5acb8878-f5a2-4806-b3a7-849558e46f90.html",
+   "description": "Secondo l'ultimo aggiornamento del ministero della Salute",
+   "pub_ts": 1794165967,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "Polonia, spari sulla folla a Cracovia: sei morti. “Killer affascinato dall’estrema destra”. Si indaga per terrorismo",
-   "link": "https://www.repubblica.it/esteri/2026/11/07/news/polonia_sparatoria_centro_cracovia_due_morti-425706914/?rss",
-   "description": "Nella principale piazza della città diventata popolare meta turistica, una persona ha preso di mira persone a caso, sparando dalla sua auto in corsa",
-   "pub_ts": 1794148937,
-   "source": "Repubblica Esteri",
+   "title": "In Polonia si indaga per terrorismo, ancora gravi i feriti della strage di Cracovia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/in-polonia-si-indaga-per-terrorismo-ancora-gravi-i-feriti-della-strage-di-cracovia_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
+   "description": "L'attentatore ha prima sterminato la famiglia. 'La domenica andava al poligono col padre'",
+   "pub_ts": 1794161876,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   }
