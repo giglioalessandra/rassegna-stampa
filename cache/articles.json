@@ -1,6 +1,6 @@
 {
- "generated_at": 1794203240,
- "updated_at": 1794203240,
+ "generated_at": 1794239514,
+ "updated_at": 1794239514,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,101 +9,277 @@
  "items": [
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'",
-   "summary": "Il leader di Yashar ci prova e apre al Likud. Ma nel Change Bloc veti e differenze",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
-   "pub_ts": 1794199080,
-   "n_sources": 9,
+   "area": "mondo",
+   "title": "Francia, il campione olimpico di judo Teddy Riner si candida alle presidenziali",
+   "summary": "'Mi candido per unire il Paese. Voglio dimostrare che la Francia può rialzarsi'. Le Pen e Mélenchon continuano a crescere nei sondaggi per l'Eliseo. In calo i candidati di centrodestra e centrosinistra Edouard Philippe e Raphael Glucksmann",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/francia-il-campione-olimpico-di-judo-teddy-riner-si-candida-alle-presidenziali_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
+   "pub_ts": 1794238070,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
-     "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/eisenkot-momento-fragile-per-la-democrazia-urge-leadership-di-cui-ci-si-fidi_ace4dc26-1245-4251-8405-59929f62025a.html",
-     "title": "Eisenkot, 'momento fragile per la democrazia, urge leadership di cui ci si fidi'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/francia-il-campione-olimpico-di-judo-teddy-riner-si-candida-alle-presidenziali_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
+     "title": "Francia, il campione olimpico di judo Teddy Riner si candida alle presidenziali"
     },
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
-     "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”"
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/francia_judo_teddy_riner_in_corsa_per_l_eliseo-425710733/?rss",
+     "title": "Francia, in corsa per l’Eliseo anche la leggenda del judo Teddy Riner: “Lottiamo uniti”"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/il-campione-olimpico-di-judo-teddy-riner-si-candida-alle-presidenziali-francesi_7962b92a-c148-4a57-a478-6b01af36e89c.html",
+     "title": "Il campione olimpico di judo Teddy Riner si candida alle presidenziali francesi"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/francia_judo_teddy_riner_in_corsa_per_l_eliseo-425710733/",
+     "title": "Francia, in corsa per l’Eliseo anche la leggenda del judo Teddy Riner: “Lottiamo uniti”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/09/teddy-riner-candidato-elezioni-presidenziali-francia-2027/",
+     "title": "Il campione olimpico francese di judo Teddy Riner si è candidato alle elezioni presidenziali del 2027"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/teddy-riner-campione-olimpico-di-judo-in-corsa-per-leliseo-2027-266a4027-3957-47ab-bea9-5b25f3604d0d.html",
+     "title": "Teddy Riner, campione olimpico di judo, in corsa per l'Eliseo 2027"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Israele, che cosa può cambiare per Gaza con il governo Eisenkot",
+   "summary": "Nessuna svolta in vista sulla Striscia rispetto a Netanyahu. Mentre ci saranno alcune differenze sulla Cisgiordania, l’Iran e soprattutto sulla giustizia e la commissione per il 7 ottobre",
+   "link": "https://www.repubblica.it/esteri/2026/11/09/news/israele_che_cosa_puo_cambiare_per_gaza_con_il_governo_eisenkot-425709805/?rss",
+   "pub_ts": 1794231840,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/israele_che_cosa_puo_cambiare_per_gaza_con_il_governo_eisenkot-425709805/?rss",
+     "title": "Israele, che cosa può cambiare per Gaza con il governo Eisenkot"
     },
     {
      "name": "Rai News",
      "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-incarico-eisenkot-apre-alle-destre-momento-critico-gaza-iran-italiani-espulsi-cisgiordania-violenze-fisiche-e51e166f-2fbc-4e2e-a595-be6fb658d6d9.html",
-     "title": "Israele, Eisenkot riceve l'incarico di governo e apre alle destre: \"Un momento critico\""
+     "title": "Israele, Eisenkot al lavoro per formare il governo: i nodi \"Lieberman\" e la presidenza della Knesset"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/israele_che_cosa_puo_cambiare_per_gaza_con_il_governo_eisenkot-425709805/",
+     "title": "Israele, che cosa può cambiare per Gaza con il governo Eisenkot"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/israele-incarico-governo-eisenkot_1gV5T7hGiIpDJYzaFQcJSg",
-     "title": "Israele, Eisenkot riceve da Herzog l'incarico per formare il nuovo governo: \"Momento di estrema emergenza, restiamo uniti\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/",
-     "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”"
+     "link": "https://www.adnkronos.com/internazionale/esteri/israele-eisenkot-compito-formare-nuovo-governo_3dh30PletgS2afXdrQpePK",
+     "title": "Gadi Eisenkot, chi è il leader di Yashar incaricato di formare il nuovo governo di Israele"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/israele-governo-eisenkot-netanyahu-herzog-maggioranza-partiti-arabi-n88q523r",
-     "title": "Israele, l’incarico a Eisenkot: 28 giorni per il nuovo governo"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/07/isaac-herzog-nomina-gadi-eisenkot-incarico-formare-governo/",
-     "title": "Il presidente di Israele ha scelto Gadi Eisenkot per formare un governo"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/08/israele-eisenkot-incarico-governo-notizie/8564884/",
-     "title": "Israele, Eisenkot riceve l’incarico di formare il nuovo governo: “Momento fragile per la democrazia”. E apre al Likud senza Netanyahu"
+     "link": "https://www.editorialedomani.it/politica/mondo/israele-governo-incarico-eisenkot-compito-netanyahu-aspetta-trump-q98nmxzx",
+     "title": "Enigma Eisenkot, Netanyahu non molla: in Israele il governo è un tetris intricato"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Al trilaterale sull’Ucraina presenti anche gli europei. Da Mosca doppia minaccia",
-   "summary": "Il Vecchio continente rappresentato con il formato E3, teme la resa di Trump, ma anche che Putin alzi le minacce ibride in un anno ricco di elezioni cruciali",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/vertice_usa_russia_ucraina_europei_abu_dhabi-425709059/?rss",
-   "pub_ts": 1794182400,
-   "n_sources": 4,
+   "title": "Kushner, 'per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'",
+   "summary": "Ad Abu Dhabi incontrerà rappresentanti di Ue, Nato, Germania, Francia, Gb e Italia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/kushner-per-la-pace-in-ucraina-serve-un-dialogo-diretto-tra-russia-e-europa_40569845-9de0-4351-9eac-ec3504e0a964.html",
+   "pub_ts": 1794235448,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/vertice_usa_russia_ucraina_europei_abu_dhabi-425709059/?rss",
-     "title": "Al trilaterale sull’Ucraina presenti anche gli europei. Da Mosca doppia minaccia"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/ucraina-europei-e-francia-al-trilaterale-di-abu-dhabi-ma-i-volenterosi-si-esercitano_093f3a23-531b-4851-ab34-fd51d14f1168.html",
-     "title": "Ucraina: Europei e Francia al trilaterale di Abu Dhabi, ma i Volenterosi si esercitano"
-    },
-    {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/parigi-europei-e-francia-saranno-presenti-al-trilaterale-di-abu-dhabi_30150fe8-fbb0-4d70-94a6-d7b53c53bd64.html",
-     "title": "Parigi, europei e Francia saranno presenti al trilaterale di Abu Dhabi"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/kushner-per-la-pace-in-ucraina-serve-un-dialogo-diretto-tra-russia-e-europa_40569845-9de0-4351-9eac-ec3504e0a964.html",
+     "title": "Kushner, 'per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/vertice_usa_russia_ucraina_europei_abu_dhabi-425709059/",
-     "title": "Al trilaterale sull’Ucraina presenti anche gli europei. Da Mosca doppia minaccia"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/nuovo_consiglio_nato_russia_kushner_pratica_di_mare_berlusconi-425709201/?rss",
+     "title": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/09/abu-dhabi-colloqui-russia-ucraina-usa-ue-9-novembre/",
+     "title": "Abu Dhabi, Cremlino: «I trilaterali con Kiev solo con Washington». Kushner precisa: «Servirà poi il dialogo Russia-Europa» – La diretta"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
+   "title": "Pezeshkian, Khamenei ha ordinato la fine di questo stallo con Usa",
+   "summary": "'Possiamo avviare colloqui e chiudere la questione con dignità'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/09/pezeshkian-khamenei-ha-ordinato-la-fine-di-questo-stallo-con-usa_1a4559e3-e0fd-4962-9168-3b8f7ec6112b.html",
+   "pub_ts": 1794224640,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/09/pezeshkian-khamenei-ha-ordinato-la-fine-di-questo-stallo-con-usa_1a4559e3-e0fd-4962-9168-3b8f7ec6112b.html",
+     "title": "Pezeshkian, Khamenei ha ordinato la fine di questo stallo con Usa"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-news-oggi-9-novembre_sJzCMzalwPpvf9MksZO1M",
+     "title": "Iran, Pezeshkian: \"Khamenei ci ha ordinato di metter fine a stallo con Usa\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/nuova-allerta-a-riad-dopo-i-missili-houthi-trump-incontra-il-premier-del-qatar-jrq2lytd",
+     "title": "Guerra Iran, Trump incontra il premier del Qatar. Pezeshkian: “Khamenei ha ordinato la fine dello stallo con gli Usa”."
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Al via i dieci tavoli programmatici per il campo largo",
+   "summary": "Da oggi al 17 novembre: giovedì il nodo della politica estera, lunedì il fisco. Poi la sintesi dei leader",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/al-via-i-dieci-tavoli-programmatici-per-il-campo-largo_faa820dd-585d-4bcb-96e5-167ac3d853d3.html",
+   "pub_ts": 1794238645,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/al-via-i-dieci-tavoli-programmatici-per-il-campo-largo_faa820dd-585d-4bcb-96e5-167ac3d853d3.html",
+     "title": "Al via i dieci tavoli programmatici per il campo largo"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/politicoquotidiano/campo-largo-10-tavoli-e-solo-litigi-immaginate-questi-al-governo/",
+     "title": "Campo largo, 10 tavoli e solo litigi: immaginate questi al governo"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Soccorritori a Gaza, 5 morti dopo il crollo di un cumulo di sabbia su alcune tende",
+   "summary": "Le vittime sono tre bambini e due donne",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/soccorritori-a-gaza-5-morti-dopo-il-crollo-di-un-cumulo-di-sabbia-su-alcune-tende_66002692-12eb-48dc-b693-fbdb600cfcb1.html",
+   "pub_ts": 1794238086,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/soccorritori-a-gaza-5-morti-dopo-il-crollo-di-un-cumulo-di-sabbia-su-alcune-tende_66002692-12eb-48dc-b693-fbdb600cfcb1.html",
+     "title": "Soccorritori a Gaza, 5 morti dopo il crollo di un cumulo di sabbia su alcune tende"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/09/gaza-tende-aiuti-bloccati-notizie/8565720/",
+     "title": "Gaza, un cumulo di sabbia crolla sulle tende: morta una donna e tre bambini. Ong: “Aiuti bloccati al confine. Famiglie bruciano i rifiuti per scaldarsi”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina', secondo dati rubati dagli hacker",
+   "summary": "Bloomberg cita dati rubati dagli hacker all'agenzia di statistica. Domani al via colloqui ad Abu Dhabi. Kiev: 'Incontri separati con gli europei, anche l'Italia'. Kushner: 'Per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/von-der-leyen-conferma-lue-presente-ai-colloqui-di-abu-dhabi_1ddc6347-be4e-4839-b9b1-3ec7132351bb.html",
+   "pub_ts": 1794237394,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/von-der-leyen-conferma-lue-presente-ai-colloqui-di-abu-dhabi_1ddc6347-be4e-4839-b9b1-3ec7132351bb.html",
+     "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina', secondo dati rubati dagli hacker"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/diretta/guerra_ucraina_russia_news_oggi-425709376/",
+     "title": "Guerra Ucraina - Russia. Kushner: “Per la pace servono colloqui diretti Russia-Europa”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Anac, verso lo slittamento la designazione del presidente",
+   "summary": "Nel Cdm di oggi non è più previsto l'avvio della procedura. In corso approfondimenti sul nuovo nome dopo il passo indietro di Altieri. Salvini: 'E' importante scegliere bene e non in fretta'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/anac-verso-lo-slittamento-la-designazione-del-presidente_940196b9-abf0-4d14-95b6-27fc1005a9ae.html",
+   "pub_ts": 1794231840,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/anac-verso-lo-slittamento-la-designazione-del-presidente_940196b9-abf0-4d14-95b6-27fc1005a9ae.html",
+     "title": "Anac, verso lo slittamento la designazione del presidente"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/anac-verso-lo-slittamento-dellindicazione-della-nomina-del-presidente-in-corso-approfondimenti-10da21c9-3d9f-485b-8ee5-bbeaa387e3a3.html",
+     "title": "Anac, verso lo slittamento dell'indicazione della nomina del presidente: in corso approfondimenti"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Ue, ok Ecofin a flessibilità Italia per la difesa e l'energia. Giorgetti: \"Soddisfatti, daremo aggiornamenti semestrali sulle misure\"",
+   "summary": "(Adnkronos) - Il Consiglio economia e finanza ha dato il suo assenso all'attivazione della clausola di salvaguardia nazionale",
+   "link": "https://www.adnkronos.com/internazionale/esteri/ue-ecofin-flessibilita-italia-difesa-energia_1WDREv2Lnmewp7iv2TLvgW",
+   "pub_ts": 1794236040,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ue-ecofin-flessibilita-italia-difesa-energia_1WDREv2Lnmewp7iv2TLvgW",
+     "title": "Ue, ok Ecofin a flessibilità Italia per la difesa e l'energia. Giorgetti: \"Soddisfatti, daremo aggiornamenti semestrali sulle misure\""
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/flessibilita-l-italia-bce-e-tabacchi-3-dossier-caldi-tavolo-bruxelles-AJxWod8B",
+     "title": "La Ue ha attivato la clausola sulla flessibilità dell’Italia"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Anac, saltano le nuove nomine in Cdm. I dubbi di Meloni",
+   "summary": "Rinviata la scelta del presidente dell’Anticorruzione, dopo il ritiro di Nuccio Altieri. L’ipotesi Storto, che in passato non aveva convinto la premier",
+   "link": "https://www.repubblica.it/politica/2026/11/09/news/anac_saltano_nuove_nomine_cdm_dubbi_meloni-425710307/",
+   "pub_ts": 1794223539,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/09/news/anac_saltano_nuove_nomine_cdm_dubbi_meloni-425710307/",
+     "title": "Anac, saltano le nuove nomine in Cdm. I dubbi di Meloni"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/anticorruzione-o-morte-dubbi-di-meloni-su-eccher-e-salvini-alza-le-barricate-su-anac-gkgibd2a",
+     "title": "Anticorruzione o morte, dubbi di Meloni su Eccher e Salvini alza le barricate su Anac"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese",
    "summary": "Ha ammesso di essere stato infedele alla moglie",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
-   "pub_ts": 1794171600,
-   "n_sources": 4,
+   "pub_ts": 1794234308,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
@@ -112,253 +288,128 @@
      "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/esteri-nord-america-stati-uniti-nvidia-jensen-huang-relazione-spia-cinese-cda-apre-inchiesta-79b540ec-9a10-4693-8fc4-23083d438e27.html",
-     "title": "\"Tradiva la moglie con una presunta spia cinese\": Nvidia apre inchiesta sull’ad"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/08/jensen-huang-nvidia-spia-cina-usa-ai/",
-     "title": "Jensen Huang, il re di Nvidia sedotto da una spia cinese? Scatta l’allarme in Usa sull’AI: «In gioco la sicurezza nazionale»"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/09/news/la_spia_che_fece_crollare_nvidia_ritratto_di_alice_huang_passione_sentimentale_di_jensen_huang-425710722/",
+     "title": "La spia che fece crollare Nvidia. Ritratto di Alice Huang, passione sentimentale di Jensen Huang"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/08/nvidia-indagine-jensen-huang-relazione-presunta-spia/",
-     "title": "Nvidia sta indagando su una relazione del suo CEO con una presunta spia cinese"
+     "link": "https://www.ilpost.it/2026/11/09/jensen-huang-nvidia/",
+     "title": "Quanto conta Jensen Huang per Nvidia"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/trappola-al-miele-per-il-ceo-nvidia-chi-e-alice-huang-la-sospetta-spia-cinese-dirigente-data-center-1eaedecb-61cb-407e-8e0e-36ee4a791077.html",
+     "title": "Trappola al miele per il ceo Nvidia, chi è Alice Huang: sospettata di essere una spia cinese"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/relazione-spia-cinese-ceo-nvidia-sotto-indagine/",
+     "title": "Relazione con spia cinese: CEO NVIDIA sotto indagine (update)"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/scandalo-nvidia-ceo-ammette-relazione-spia-cinese-l-azienda-apre-indagine-ma-trump-difende-AJKjNu9B",
+     "title": "Scandalo Nvidia, il ceo ammette relazione con spia cinese. Azienda apre indagine, Trump lo difende, titolo crolla"
     }
    ]
   },
   {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il sindaco di Trieste: 'Se lanciano bombe carta nella mia città gli sparo in testa'",
-   "summary": "Un caso le parole di Dipiazza dopo gli scontri di venerdì. Pd e M5S: 'Inaccettabili'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
-   "pub_ts": 1794163918,
-   "n_sources": 3,
+   "category": "tech",
+   "area": null,
+   "title": "Un dato di Uber racconta quanto vengono usati davvero gli agenti IA nel mondo",
+   "summary": "Le aziende tecnologiche presentano gli agenti come sistemi che stanno cambiando la nostra vita ma i dati raccolti da Uber sottolineano un’adozione molto più lenta. Persino Meta, che con Muse ha superato 10 milioni di utenti, ammette che far funzionare questi strumenti costa...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/09/news/agenti-ia-costo-quanto-vengono-usati-uber-425710486/?rss",
+   "pub_ts": 1794228571,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/09/news/agenti-ia-costo-quanto-vengono-usati-uber-425710486/?rss",
+     "title": "Un dato di Uber racconta quanto vengono usati davvero gli agenti IA nel mondo"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Cybersecurity, infrastrutture critiche e minacce globali",
+   "summary": "Come difendersi dagli attacchi, i consigli dell'esperto Vincenzo Musacchio",
+   "link": "https://www.rainews.it/articoli/2026/11/cybersecurity-infrastrutture-critiche-e-minacce-globali-cda417a7-9932-4bf7-8f8b-785bdcf6cfef.html",
+   "pub_ts": 1794238440,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/cybersecurity-infrastrutture-critiche-e-minacce-globali-cda417a7-9932-4bf7-8f8b-785bdcf6cfef.html",
+     "title": "Cybersecurity, infrastrutture critiche e minacce globali"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Instagram: stima AI dell’età in tutto il mondo",
+   "summary": "Meta ha comunicato che la tecnologia AI usata per stimare l'età degli utenti su Instagram è molto efficace, quindi verrà estesa a tutto il mondo. The post Instagram: stima AI dell’età in tutto il mondo appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/instagram-stima-ai-eta-tutto-mondo/",
+   "pub_ts": 1794234990,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/instagram-stima-ai-eta-tutto-mondo/",
+     "title": "Instagram: stima AI dell’età in tutto il mondo"
+    }
+   ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Fiorello smentisce l'ipotesi Domenica In, 'non potrei mai lavorare di domenica!'",
+   "summary": "Lo showman a La Pennicanza torna a parlare del ControFestival",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/fiorello-smentisce-lipotesi-domenica-in-non-potrei-mai-lavorare-di-domenica_22eef1bb-5f13-46e5-b561-302ae6e334af.html",
+   "pub_ts": 1794237669,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
-     "title": "Il sindaco di Trieste: 'Se lanciano bombe carta nella mia città gli sparo in testa'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/08/trieste-sindaco-dipiazza-se-lanciano-bombe-carta-sparo-in-testa-polemica/",
-     "title": "Trieste, bufera sulle frasi del sindaco Dipiazza: «Se lanciano bombe carta gli sparo in testa». Opposizioni compatte: «Ritiri ciò che ha detto»"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/fiorello-smentisce-lipotesi-domenica-in-non-potrei-mai-lavorare-di-domenica_22eef1bb-5f13-46e5-b561-302ae6e334af.html",
+     "title": "Fiorello smentisce l'ipotesi Domenica In, 'non potrei mai lavorare di domenica!'"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/08/dipiazza-sindaco-trieste-polemiche-notizie/8564929/",
-     "title": "Trieste, non solo “spari in testa”. Tutto il peggio del sindaco Roberto Dipiazza, tra insulti, gestacci e saluti romani"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/09/fiorello-non-potrei-mai-mettermi-a-lavorare-di-domenica-lho-gia-fatto-in-passato-sapete-il-giorno-libero-quale-sarebbe-il-lunedi-e-i-parrucchieri-sono-chiusi-non-potrei-nemmeno-tagliarmi-i-ca/8565838/",
+     "title": "Fiorello: “Non potrei mai mettermi a lavorare di domenica. L’ho già fatto in passato. Sapete il giorno libero quale sarebbe? Il lunedì e i parrucchieri sono chiusi, non potrei nemmeno tagliarmi i capelli”"
     }
-   ]
+   ],
+   "subtype": "cultura"
   },
   {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump ammette, 'la politica di deportazioni è stata troppo dura'",
-   "summary": "L'annuncio in un'intervista a 60 Minutes",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/trump-ammette-la-politica-di-deportazioni-e-stata-troppo-dura_7c735d28-2f1d-46b0-98a0-ce3acffb991a.html",
-   "pub_ts": 1794199139,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/trump-ammette-la-politica-di-deportazioni-e-stata-troppo-dura_7c735d28-2f1d-46b0-98a0-ce3acffb991a.html",
-     "title": "Trump ammette, 'la politica di deportazioni è stata troppo dura'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/09/usa-donald-trump-deportazioni-immigrazione/",
-     "title": "Il Trump che non t’aspetti: «Le deportazioni mi hanno danneggiato»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Attacchi hacker, martedì al Viminale un vertice su falle e contromisure",
-   "summary": "Forse gli allarmi bomba partiti da mail bucate delle scuole. Monitoraggio sulle strutture vulnerabili. Tajani: 'Serve un segnale forte del G7'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
-   "pub_ts": 1794182400,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
-     "title": "Attacchi hacker, martedì al Viminale un vertice su falle e contromisure"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/09/news/attacchi_hacker_g7_tajani_piantedosi_allarme_voto-425709210/",
-     "title": "Attacchi hacker, vertice al G7. E ora si temono ingerenze sul voto"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace",
-   "summary": "Il genero di Trump punta a resuscitare la struttura di consultazione nata nel 2002 a Pratica di Mare e morta con l’aggressione a Kiev",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/nuovo_consiglio_nato_russia_kushner_pratica_di_mare_berlusconi-425709201/?rss",
-   "pub_ts": 1794182400,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/nuovo_consiglio_nato_russia_kushner_pratica_di_mare_berlusconi-425709201/?rss",
-     "title": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/nuovo_consiglio_nato_russia_kushner_pratica_di_mare_berlusconi-425709201/",
-     "title": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Il Papa, 'i governanti perseguano il bene di tutti'",
-   "summary": "Messa per la festa della Patrona dell'Uruguay, ultimo appuntamento nel Paese",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-i-governanti-perseguano-il-bene-di-tutti_f0b0f8f5-b4be-4ee0-81de-b2da6db36116.html",
-   "pub_ts": 1794166020,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-i-governanti-perseguano-il-bene-di-tutti_f0b0f8f5-b4be-4ee0-81de-b2da6db36116.html",
-     "title": "Il Papa, 'i governanti perseguano il bene di tutti'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/papa-leone-governanti-cerchino-il-bene-di-tutti-4b37000c-a720-4390-a86c-99ddc60f01b6.html",
-     "title": "Papa Leone: \"Governanti cerchino il bene di tutti\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Pasticcio Anac, si tratta: Salvini vuole il suo legale, l’opposizione fa muro",
-   "summary": "Tajani: “Oggi il nome in cdm”. Ma la Lega non trova un nome gradito al centrosinistra. In pista c’è Storto, capo di gabinetto ai Trasporti",
-   "link": "https://www.repubblica.it/politica/2026/11/09/news/anac_trattativa_salvini_suo_legale_opposizione_muro-425709258/",
-   "pub_ts": 1794182400,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/09/news/anac_trattativa_salvini_suo_legale_opposizione_muro-425709258/",
-     "title": "Pasticcio Anac, si tratta: Salvini vuole il suo legale, l’opposizione fa muro"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/salvini-rilancia-allanac-vuole-la-sua-avvocata-aitervvy",
-     "title": "Salvini rilancia, all’Anac vuole la sua avvocata"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "A Gaza ci sono decine di migliaia di tende allagate",
-   "summary": "Un'alluvione ha causato danni un po' ovunque, e le organizzazioni internazionali riescono ad aiutare fino a un certo punto",
-   "link": "https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/",
-   "pub_ts": 1794159138,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/",
-     "title": "A Gaza ci sono decine di migliaia di tende allagate"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/nubifragio-a-gaza-70mila-tende-allagate-anp-intervenga-lonu-gce2imrp",
-     "title": "Nubifragio a Gaza, 70mila tende allagate. Anp: «Intervenga l’Onu»"
-    }
-   ]
-  },
-  {
-   "category": "tech",
+   "category": "varia",
    "area": null,
-   "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti",
-   "summary": "Ma standard comune non subito operativo, iniziativa in clima di crescenti battaglie legali",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_01931b0a-ef0a-4f5b-be64-b2b05c4b7d9c.html",
-   "pub_ts": 1794163964,
+   "title": "Piersanti Mattarella, memoria e impegno civile in mostra a Torino",
+   "summary": "Alle Gallerie d'Italia un percorso digitale tra fotografie, documenti e testimonianze",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/09/piersanti-mattarella-memoria-e-impegno-civile-in-mostra-a-torino_49f2a8dd-0440-4137-8a41-f22c6d2ac50a.html",
+   "pub_ts": 1794226444,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_01931b0a-ef0a-4f5b-be64-b2b05c4b7d9c.html",
-     "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/09/piersanti-mattarella-memoria-e-impegno-civile-in-mostra-a-torino_49f2a8dd-0440-4137-8a41-f22c6d2ac50a.html",
+     "title": "Piersanti Mattarella, memoria e impegno civile in mostra a Torino"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_a63d45f7-a835-4c78-ab46-3c70f71ac2b3.html",
-     "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/il-sogno-spezzato-in-mostra-lorizzonte-politico-e-familiare-di-piersanti-mattarella_tF9QOmXeOxsRZbV33kNtx",
+     "title": "'Il sogno spezzato', in mostra l'orizzonte politico e familiare di Piersanti Mattarella"
     }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Il Nobel Hinton, 'forse staremmo meglio senza IA, temo un grave incidente'",
-   "summary": "Il 'padre' dell'Ia teme casi come il blocco della rete elettrica o del sistema bancario",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/il-nobel-hinton-forse-staremmo-meglio-senza-ia-temo-un-grave-incidente_85a23214-8f17-4d09-a97c-e07e492e4fdb.html",
-   "pub_ts": 1794164208,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/il-nobel-hinton-forse-staremmo-meglio-senza-ia-temo-un-grave-incidente_85a23214-8f17-4d09-a97c-e07e492e4fdb.html",
-     "title": "Il Nobel Hinton, 'forse staremmo meglio senza IA, temo un grave incidente'"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "SpaceX Starship: doppia cattura con il 15esimo volo",
-   "summary": "SpaceX ha descritto gli obiettivi previsti con il 15esimo volo del 13 novembre, tra cui la cattura di entrambi gli stadi del razzo Starship. The post SpaceX Starship: doppia cattura con il 15esimo volo appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/spacex-starship-doppia-cattura-15esimo-volo/",
-   "pub_ts": 1794154325,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/spacex-starship-doppia-cattura-15esimo-volo/",
-     "title": "SpaceX Starship: doppia cattura con il 15esimo volo"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Dipendenza social: Google, Meta e TikTok contro la California",
-   "summary": "Google, Meta e TikTok hanno presentato una denuncia per chiedere il blocco della legge che vieta ai minori di 16 anni di usare specifiche funzionalità. The post Dipendenza social: Google, Meta e TikTok contro la California appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
-   "pub_ts": 1794150496,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
-     "title": "Dipendenza social: Google, Meta e TikTok contro la California"
-    }
-   ]
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -366,12 +417,12 @@
    "title": "Di Pasquale-Piervincenzi al timone di Report, 'c'è chi sperava di cancellarlo'",
    "summary": "Tra i servizi il tentativo di depistaggio, fallito, di Valter Lavitola",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/di-pasquale-e-piervincenzi-qualcuno-sperava-che-report-venisse-cancellato_d197062a-41cf-48c2-9fa6-a58ee0321ca5.html",
-   "pub_ts": 1794188280,
-   "n_sources": 3,
+   "pub_ts": 1794216500,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
+     "name": "ANSA Politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/di-pasquale-e-piervincenzi-qualcuno-sperava-che-report-venisse-cancellato_d197062a-41cf-48c2-9fa6-a58ee0321ca5.html",
      "title": "Di Pasquale-Piervincenzi al timone di Report, 'c'è chi sperava di cancellarlo'"
     },
@@ -379,11 +430,6 @@
      "name": "ANSA Cultura",
      "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/di-pasquale-stasera-torna-in-onda-la-liberta-e-la-resilienza-di-report_8b14e2fa-c593-4cc2-85bb-bc2ad8bfc3af.html",
      "title": "Di Pasquale, \"torna in onda la libertà e la resilienza di Report\""
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/di-pasquale-piervincenzi-al-timone-di-report-ce-chi-sperava-di-cancellarlo-a5c03e13-ee6d-47c6-ae1b-936a3cf094ac.html",
-     "title": "Di Pasquale-Piervincenzi al timone di 'Report': \"Cè chi sperava di cancellarlo\""
     }
    ],
    "subtype": "cultura"
@@ -391,136 +437,63 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Raitre: programmi di martedì 10 novembre",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/raitre-programmi-di-martedi-10-novembre_652100a6-4a24-462f-b55f-8ac9c0966f55.html",
-   "pub_ts": 1794182454,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/raitre-programmi-di-martedi-10-novembre_652100a6-4a24-462f-b55f-8ac9c0966f55.html",
-     "title": "Raitre: programmi di martedì 10 novembre"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Enzo D'Alò, 'anziché fare carceri avrebbe più senso fare cultura per i giovani'",
-   "summary": "Al regista di animazione Ulivo d'Oro alla carriera al Festival del Cinema Europeo di Lecce",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/enzo-dalo-anziche-fare-carceri-avrebbe-piu-senso-fare-cultura_2c75f1a2-f21e-4f73-a1e3-4d07b7bcbbd7.html",
-   "pub_ts": 1794165207,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/enzo-dalo-anziche-fare-carceri-avrebbe-piu-senso-fare-cultura_2c75f1a2-f21e-4f73-a1e3-4d07b7bcbbd7.html",
-     "title": "Enzo D'Alò, 'anziché fare carceri avrebbe più senso fare cultura per i giovani'"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Bonus anziani 2027, arriva la card da 300 euro per farmaci e visite",
-   "summary": "Contributo una tantum per farmaci e visite specialistiche agli over 75 con pensioni fino a 28 mila euro l'anno. Sale inoltre a 12 mila euro la soglia Isee per la Prestazione Universale",
-   "link": "https://www.rainews.it/articoli/2026/11/bonus-anziani-2027-arriva-la-card-da-300-euro-per-farmaci-e-visite-3f19a6b7-7e6d-4857-b564-2752ed98d5f3.html",
-   "pub_ts": 1794202799,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/bonus-anziani-2027-arriva-la-card-da-300-euro-per-farmaci-e-visite-3f19a6b7-7e6d-4857-b564-2752ed98d5f3.html",
-     "title": "Bonus anziani 2027, arriva la card da 300 euro per farmaci e visite"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Leone XIV in Argentina, un viaggio tra le sfide della Chiesa e un Paese in cerca di unità",
-   "summary": "Il viaggio apostolico viene interpretato come un'occasione per rilanciare messaggi di riconciliazione, giustizia sociale, dialogo e speranza, in un paese attraversato da profonde difficoltà economiche e sociali",
-   "link": "https://www.rainews.it/articoli/2026/11/leone-xiv-in-argentina-un-viaggio-tra-le-sfide-della-chiesa-e-un-paese-in-cerca-di-unita-758452db-9b40-494d-a4c4-791078d7dc11.html",
-   "pub_ts": 1794170640,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/leone-xiv-in-argentina-un-viaggio-tra-le-sfide-della-chiesa-e-un-paese-in-cerca-di-unita-758452db-9b40-494d-a4c4-791078d7dc11.html",
-     "title": "Leone XIV in Argentina, un viaggio tra le sfide della Chiesa e un Paese in cerca di unità"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Egitto, scontro tra treni a Giza: almeno 7 morti e 112 feriti. “Nessun turista straniero coinvolto”",
-   "summary": "L'incidente è avvenuto a circa 59 chilometri a sud del Cairo. Al Sisi: “Troveremo i responsabili di ogni negligenza”",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/egitto_scontro_tra_treni_giza_morti-425708981/?rss",
-   "pub_ts": 1794199560,
-   "n_sources": 7,
+   "title": "In un giorno aggrediti 4 infermieri, fenomeno in aumento",
+   "summary": "Le violenze in Emilia Romagna e Veneto. Nursind: 'episodi alimentati da odio e diffidenza'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/08/in-un-giorno-aggrediti-4-infermieri-fenomeno-in-aumento_6f15e3a4-18c0-4616-a667-11380535228b.html",
+   "pub_ts": 1794216205,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/egitto_scontro_tra_treni_giza_morti-425708981/?rss",
-     "title": "Egitto, scontro tra treni a Giza: almeno 7 morti e 112 feriti. “Nessun turista straniero coinvolto”"
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/08/in-un-giorno-aggrediti-4-infermieri-fenomeno-in-aumento_6f15e3a4-18c0-4616-a667-11380535228b.html",
+     "title": "In un giorno aggrediti 4 infermieri, fenomeno in aumento"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/08/scontro-fra-due-treni-a-giza-in-egitto-almeno-7-morti-e-112-feriti_d275111b-249d-41dd-a29f-7e7b6fb13fb7.html",
-     "title": "Scontro tra treni in Egitto, 7 morti e oltre 100 feriti"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/sale-a-7-il-bilancio-delle-vittime-dello-scontro-tra-treni-in-egitto-112-i-feriti-2e01a0d4-b9a7-4c28-ab48-62d081547200.html",
-     "title": "Lo scontro tra due treni in Egitto: i vagoni accartocciati sui binari"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/egitto-scontro-due-treni-sud-cairo-7-morti-e-112-feriti-AJyvDY9B",
-     "title": "Egitto, scontro tra due treni a sud del Cairo: 7 morti e 112 feriti"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/08/scontro-treni-egitto-giza-vittime-video/",
-     "title": "Scontro tra due treni in Egitto, i vagoni capovolti e i soccorsi tra le lamiere: 7 morti e 122 feriti – Il video"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/08/incidente-ferroviario-cairo-egitto/",
-     "title": "C’è stato un grave incidente ferroviario a sud del Cairo, in Egitto"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/08/treno-scontro-egitto-giza-morti-feriti-cosa-e-successo/8564895/",
-     "title": "Egitto, scontro tra due treni a Giza: almeno sette morti e 112 feriti"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/in-un-giorno-aggrediti-4-infermieri-fenomeno-in-aumento_68d9ae75-27f0-4bbb-a54d-6a815f683953.html",
+     "title": "In un giorno aggrediti 4 infermieri, fenomeno in aumento"
     }
-   ]
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Aumentano bimbi nati con procreazione assistita, 17.660 in un anno pari quasi al 5%",
+   "summary": "Pari a 4,8%. Le coppie trattate sono 92.394. Mamme più anziane, calano donazioni di gameti",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/09/ministero-aumentano-bimbi-nati-con-procreazione-assistita-17.660-nel-2024_db0ddfb2-2cb9-426d-83a7-25f65738493f.html",
+   "pub_ts": 1794232341,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/09/ministero-aumentano-bimbi-nati-con-procreazione-assistita-17.660-nel-2024_db0ddfb2-2cb9-426d-83a7-25f65738493f.html",
+     "title": "Aumentano bimbi nati con procreazione assistita, 17.660 in un anno pari quasi al 5%"
+    }
+   ],
+   "subtype": "scienza"
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "In Polonia si indaga per terrorismo, ancora gravi i feriti della strage di Cracovia",
-   "summary": "L'attentatore ha prima sterminato la famiglia. 'La domenica andava al poligono col padre'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/in-polonia-si-indaga-per-terrorismo-ancora-gravi-i-feriti-della-strage-di-cracovia_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
-   "pub_ts": 1794161876,
-   "n_sources": 3,
+   "title": "E' morto l'autore della strage di Cracovia, ancora gravi i feriti",
+   "summary": "Lo ha annunciato la polizia polacca",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/morto-lautore-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
+   "pub_ts": 1794221635,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/in-polonia-si-indaga-per-terrorismo-ancora-gravi-i-feriti-della-strage-di-cracovia_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
-     "title": "In Polonia si indaga per terrorismo, ancora gravi i feriti della strage di Cracovia"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/morto-lautore-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
+     "title": "E' morto l'autore della strage di Cracovia, ancora gravi i feriti"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/morto-lautore-della-strage-di-cracovia_e9549940-6805-48d9-86aa-49a2166399c6.html",
+     "title": "Morto l'autore della strage di Cracovia"
     },
     {
      "name": "Repubblica Esteri",
@@ -529,28 +502,142 @@
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/strage-cracovia-familiari-morti-arrestato-indagine-terrorismo-lmz8ybs1",
-     "title": "Strage di Cracovia, trovati morti i familiari del 24enne arrestato. La procura indaga per terrorismo"
+     "link": "https://www.editorialedomani.it/politica/mondo/strage-di-cracovia-sei-vittime-e-15-feriti-morto-attentatore-ospedale-polonia-lutto-indagini-terrorismo-ixs7ui1q",
+     "title": "Strage di Cracovia: sei vittime e 15 feriti. Morto l’attentatore"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/cracovia-sparatoria-strage-morto-autore-michal-oksinski_5WZ1rx7sG3TtqMzTRBNtB9",
+     "title": "Sparatoria a Cracovia, l'autore della strage è morto in ospedale"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/cracovia-lattentatore-e-morto-in-ospedale/",
+     "title": "Cracovia, l’attentatore è morto in ospedale"
+    }
+   ]
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi: i dati svelati dagli hacker",
+   "summary": "I numeri segreti di Putin rubati dai bielorussi di Cyber Partisans e dagli ucraini di Silent Crow, che sono entrati nei computer dell’agenzia di statistica di Mosca Rosstat. Perlopiù i reclutati venivano dalle aree asiatiche. L’analisi di Bloomberg",
+   "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/?rss",
+   "pub_ts": 1794237540,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/?rss",
+     "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi: i dati svelati dagli hacker"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/la-russia-ha-registrato-la-morte-di-400.000-uomini-nella-guerra-in-ucraina_ff5df486-0518-47c5-a889-732691395e9f.html",
+     "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/russia-hacker-fuga-dati-soldati-mosca-morti-ucraina_3eNBZMCH5bbdfYO489o7Wm",
+     "title": "\"Dal 2022 oltre 450mila russi morti in Ucraina\", hacker svelano le perdite di Putin in guerra"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/",
+     "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi: i dati svelati dagli hacker"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Eisenkot ha il mandato per il governo, 'momento fragile per la democrazia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
-   "description": "Il leader di Yashar ci prova e apre al Likud. Ma nel Change Bloc veti e differenze",
-   "pub_ts": 1794199080,
+   "title": "Francia, il campione olimpico di judo Teddy Riner si candida alle presidenziali",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/francia-il-campione-olimpico-di-judo-teddy-riner-si-candida-alle-presidenziali_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
+   "description": "'Mi candido per unire il Paese. Voglio dimostrare che la Francia può rialzarsi'. Le Pen e Mélenchon continuano a crescere nei sondaggi per l'Eliseo. In calo i candidati di centrodestra e centrosinistra Edouard Philippe e Raphael Glucksmann",
+   "pub_ts": 1794238070,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Al trilaterale sull’Ucraina presenti anche gli europei. Da Mosca doppia minaccia",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/vertice_usa_russia_ucraina_europei_abu_dhabi-425709059/?rss",
-   "description": "Il Vecchio continente rappresentato con il formato E3, teme la resa di Trump, ma anche che Putin alzi le minacce ibride in un anno ricco di elezioni cruciali",
-   "pub_ts": 1794182400,
+   "title": "Israele, che cosa può cambiare per Gaza con il governo Eisenkot",
+   "link": "https://www.repubblica.it/esteri/2026/11/09/news/israele_che_cosa_puo_cambiare_per_gaza_con_il_governo_eisenkot-425709805/?rss",
+   "description": "Nessuna svolta in vista sulla Striscia rispetto a Netanyahu. Mentre ci saranno alcune differenze sulla Cisgiordania, l’Iran e soprattutto sulla giustizia e la commissione per il 7 ottobre",
+   "pub_ts": 1794231840,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Kushner, 'per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/kushner-per-la-pace-in-ucraina-serve-un-dialogo-diretto-tra-russia-e-europa_40569845-9de0-4351-9eac-ec3504e0a964.html",
+   "description": "Ad Abu Dhabi incontrerà rappresentanti di Ue, Nato, Germania, Francia, Gb e Italia",
+   "pub_ts": 1794235448,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Pezeshkian, Khamenei ha ordinato la fine di questo stallo con Usa",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/09/pezeshkian-khamenei-ha-ordinato-la-fine-di-questo-stallo-con-usa_1a4559e3-e0fd-4962-9168-3b8f7ec6112b.html",
+   "description": "'Possiamo avviare colloqui e chiudere la questione con dignità'",
+   "pub_ts": 1794224640,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Al via i dieci tavoli programmatici per il campo largo",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/al-via-i-dieci-tavoli-programmatici-per-il-campo-largo_faa820dd-585d-4bcb-96e5-167ac3d853d3.html",
+   "description": "Da oggi al 17 novembre: giovedì il nodo della politica estera, lunedì il fisco. Poi la sintesi dei leader",
+   "pub_ts": 1794238645,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Soccorritori a Gaza, 5 morti dopo il crollo di un cumulo di sabbia su alcune tende",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/soccorritori-a-gaza-5-morti-dopo-il-crollo-di-un-cumulo-di-sabbia-su-alcune-tende_66002692-12eb-48dc-b693-fbdb600cfcb1.html",
+   "description": "Le vittime sono tre bambini e due donne",
+   "pub_ts": 1794238086,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina', secondo dati rubati dagli hacker",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/von-der-leyen-conferma-lue-presente-ai-colloqui-di-abu-dhabi_1ddc6347-be4e-4839-b9b1-3ec7132351bb.html",
+   "description": "Bloomberg cita dati rubati dagli hacker all'agenzia di statistica. Domani al via colloqui ad Abu Dhabi. Kiev: 'Incontri separati con gli europei, anche l'Italia'. Kushner: 'Per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'",
+   "pub_ts": 1794237394,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Anac, verso lo slittamento la designazione del presidente",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/anac-verso-lo-slittamento-la-designazione-del-presidente_940196b9-abf0-4d14-95b6-27fc1005a9ae.html",
+   "description": "Nel Cdm di oggi non è più previsto l'avvio della procedura. In corso approfondimenti sul nuovo nome dopo il passo indietro di Altieri. Salvini: 'E' importante scegliere bene e non in fretta'",
+   "pub_ts": 1794231840,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Ue, ok Ecofin a flessibilità Italia per la difesa e l'energia. Giorgetti: \"Soddisfatti, daremo aggiornamenti semestrali sulle misure\"",
+   "link": "https://www.adnkronos.com/internazionale/esteri/ue-ecofin-flessibilita-italia-difesa-energia_1WDREv2Lnmewp7iv2TLvgW",
+   "description": "(Adnkronos) - Il Consiglio economia e finanza ha dato il suo assenso all'attivazione della clausola di salvaguardia nazionale",
+   "pub_ts": 1794236040,
+   "source": "Adnkronos Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Anac, saltano le nuove nomine in Cdm. I dubbi di Meloni",
+   "link": "https://www.repubblica.it/politica/2026/11/09/news/anac_saltano_nuove_nomine_cdm_dubbi_meloni-425710307/",
+   "description": "Rinviata la scelta del presidente dell’Anticorruzione, dopo il ritiro di Nuccio Altieri. L’ipotesi Storto, che in passato non aveva convinto la premier",
+   "pub_ts": 1794223539,
+   "source": "la Repubblica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -558,170 +645,98 @@
    "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
    "description": "Ha ammesso di essere stato infedele alla moglie",
-   "pub_ts": 1794171600,
+   "pub_ts": 1794234308,
    "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il sindaco di Trieste: 'Se lanciano bombe carta nella mia città gli sparo in testa'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
-   "description": "Un caso le parole di Dipiazza dopo gli scontri di venerdì. Pd e M5S: 'Inaccettabili'",
-   "pub_ts": 1794163918,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump ammette, 'la politica di deportazioni è stata troppo dura'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/trump-ammette-la-politica-di-deportazioni-e-stata-troppo-dura_7c735d28-2f1d-46b0-98a0-ce3acffb991a.html",
-   "description": "L'annuncio in un'intervista a 60 Minutes",
-   "pub_ts": 1794199139,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Attacchi hacker, martedì al Viminale un vertice su falle e contromisure",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
-   "description": "Forse gli allarmi bomba partiti da mail bucate delle scuole. Monitoraggio sulle strutture vulnerabili. Tajani: 'Serve un segnale forte del G7'",
-   "pub_ts": 1794182400,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/nuovo_consiglio_nato_russia_kushner_pratica_di_mare_berlusconi-425709201/?rss",
-   "description": "Il genero di Trump punta a resuscitare la struttura di consultazione nata nel 2002 a Pratica di Mare e morta con l’aggressione a Kiev",
-   "pub_ts": 1794182400,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il Papa, 'i governanti perseguano il bene di tutti'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-i-governanti-perseguano-il-bene-di-tutti_f0b0f8f5-b4be-4ee0-81de-b2da6db36116.html",
-   "description": "Messa per la festa della Patrona dell'Uruguay, ultimo appuntamento nel Paese",
-   "pub_ts": 1794166020,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Pasticcio Anac, si tratta: Salvini vuole il suo legale, l’opposizione fa muro",
-   "link": "https://www.repubblica.it/politica/2026/11/09/news/anac_trattativa_salvini_suo_legale_opposizione_muro-425709258/",
-   "description": "Tajani: “Oggi il nome in cdm”. Ma la Lega non trova un nome gradito al centrosinistra. In pista c’è Storto, capo di gabinetto ai Trasporti",
-   "pub_ts": 1794182400,
-   "source": "la Repubblica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "A Gaza ci sono decine di migliaia di tende allagate",
-   "link": "https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/",
-   "description": "Un'alluvione ha causato danni un po' ovunque, e le organizzazioni internazionali riescono ad aiutare fino a un certo punto",
-   "pub_ts": 1794159138,
-   "source": "Il Post",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/dai-colossi-del-web-un-impegno-a-regolare-lo-scraping-dellia-dai-siti_01931b0a-ef0a-4f5b-be64-b2b05c4b7d9c.html",
-   "description": "Ma standard comune non subito operativo, iniziativa in clima di crescenti battaglie legali",
-   "pub_ts": 1794163964,
-   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Il Nobel Hinton, 'forse staremmo meglio senza IA, temo un grave incidente'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/08/il-nobel-hinton-forse-staremmo-meglio-senza-ia-temo-un-grave-incidente_85a23214-8f17-4d09-a97c-e07e492e4fdb.html",
-   "description": "Il 'padre' dell'Ia teme casi come il blocco della rete elettrica o del sistema bancario",
-   "pub_ts": 1794164208,
-   "source": "ANSA Tecnologia",
+   "title": "Un dato di Uber racconta quanto vengono usati davvero gli agenti IA nel mondo",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/09/news/agenti-ia-costo-quanto-vengono-usati-uber-425710486/?rss",
+   "description": "Le aziende tecnologiche presentano gli agenti come sistemi che stanno cambiando la nostra vita ma i dati raccolti da Uber sottolineano un’adozione molto più lenta. Persino Meta, che con Muse ha superato 10 milioni di utenti, ammette che far funzionare questi strumenti costa...",
+   "pub_ts": 1794228571,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "SpaceX Starship: doppia cattura con il 15esimo volo",
-   "link": "https://www.punto-informatico.it/spacex-starship-doppia-cattura-15esimo-volo/",
-   "description": "SpaceX ha descritto gli obiettivi previsti con il 15esimo volo del 13 novembre, tra cui la cattura di entrambi gli stadi del razzo Starship. The post SpaceX Starship: doppia cattura con il 15esimo volo appeared first on Punto Informatico .",
-   "pub_ts": 1794154325,
+   "title": "Cybersecurity, infrastrutture critiche e minacce globali",
+   "link": "https://www.rainews.it/articoli/2026/11/cybersecurity-infrastrutture-critiche-e-minacce-globali-cda417a7-9932-4bf7-8f8b-785bdcf6cfef.html",
+   "description": "Come difendersi dagli attacchi, i consigli dell'esperto Vincenzo Musacchio",
+   "pub_ts": 1794238440,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Instagram: stima AI dell’età in tutto il mondo",
+   "link": "https://www.punto-informatico.it/instagram-stima-ai-eta-tutto-mondo/",
+   "description": "Meta ha comunicato che la tecnologia AI usata per stimare l'età degli utenti su Instagram è molto efficace, quindi verrà estesa a tutto il mondo. The post Instagram: stima AI dell’età in tutto il mondo appeared first on Punto Informatico .",
+   "pub_ts": 1794234990,
    "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Dipendenza social: Google, Meta e TikTok contro la California",
-   "link": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
-   "description": "Google, Meta e TikTok hanno presentato una denuncia per chiedere il blocco della legge che vieta ai minori di 16 anni di usare specifiche funzionalità. The post Dipendenza social: Google, Meta e TikTok contro la California appeared first on Punto Informatico .",
-   "pub_ts": 1794150496,
-   "source": "Punto Informatico",
+   "title": "Fiorello smentisce l'ipotesi Domenica In, 'non potrei mai lavorare di domenica!'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/fiorello-smentisce-lipotesi-domenica-in-non-potrei-mai-lavorare-di-domenica_22eef1bb-5f13-46e5-b561-302ae6e334af.html",
+   "description": "Lo showman a La Pennicanza torna a parlare del ControFestival",
+   "pub_ts": 1794237669,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "tech"
+   "section": "varia"
+  },
+  {
+   "title": "Piersanti Mattarella, memoria e impegno civile in mostra a Torino",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/09/piersanti-mattarella-memoria-e-impegno-civile-in-mostra-a-torino_49f2a8dd-0440-4137-8a41-f22c6d2ac50a.html",
+   "description": "Alle Gallerie d'Italia un percorso digitale tra fotografie, documenti e testimonianze",
+   "pub_ts": 1794226444,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
   },
   {
    "title": "Di Pasquale-Piervincenzi al timone di Report, 'c'è chi sperava di cancellarlo'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/di-pasquale-e-piervincenzi-qualcuno-sperava-che-report-venisse-cancellato_d197062a-41cf-48c2-9fa6-a58ee0321ca5.html",
    "description": "Tra i servizi il tentativo di depistaggio, fallito, di Valter Lavitola",
-   "pub_ts": 1794188280,
+   "pub_ts": 1794216500,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "In un giorno aggrediti 4 infermieri, fenomeno in aumento",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/08/in-un-giorno-aggrediti-4-infermieri-fenomeno-in-aumento_6f15e3a4-18c0-4616-a667-11380535228b.html",
+   "description": "Le violenze in Emilia Romagna e Veneto. Nursind: 'episodi alimentati da odio e diffidenza'",
+   "pub_ts": 1794216205,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Aumentano bimbi nati con procreazione assistita, 17.660 in un anno pari quasi al 5%",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/09/ministero-aumentano-bimbi-nati-con-procreazione-assistita-17.660-nel-2024_db0ddfb2-2cb9-426d-83a7-25f65738493f.html",
+   "description": "Pari a 4,8%. Le coppie trattate sono 92.394. Mamme più anziane, calano donazioni di gameti",
+   "pub_ts": 1794232341,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "E' morto l'autore della strage di Cracovia, ancora gravi i feriti",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/morto-lautore-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
+   "description": "Lo ha annunciato la polizia polacca",
+   "pub_ts": 1794221635,
    "source": "ANSA",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Raitre: programmi di martedì 10 novembre",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/raitre-programmi-di-martedi-10-novembre_652100a6-4a24-462f-b55f-8ac9c0966f55.html",
-   "description": "",
-   "pub_ts": 1794182454,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Enzo D'Alò, 'anziché fare carceri avrebbe più senso fare cultura per i giovani'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/enzo-dalo-anziche-fare-carceri-avrebbe-piu-senso-fare-cultura_2c75f1a2-f21e-4f73-a1e3-4d07b7bcbbd7.html",
-   "description": "Al regista di animazione Ulivo d'Oro alla carriera al Festival del Cinema Europeo di Lecce",
-   "pub_ts": 1794165207,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Bonus anziani 2027, arriva la card da 300 euro per farmaci e visite",
-   "link": "https://www.rainews.it/articoli/2026/11/bonus-anziani-2027-arriva-la-card-da-300-euro-per-farmaci-e-visite-3f19a6b7-7e6d-4857-b564-2752ed98d5f3.html",
-   "description": "Contributo una tantum per farmaci e visite specialistiche agli over 75 con pensioni fino a 28 mila euro l'anno. Sale inoltre a 12 mila euro la soglia Isee per la Prestazione Universale",
-   "pub_ts": 1794202799,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Leone XIV in Argentina, un viaggio tra le sfide della Chiesa e un Paese in cerca di unità",
-   "link": "https://www.rainews.it/articoli/2026/11/leone-xiv-in-argentina-un-viaggio-tra-le-sfide-della-chiesa-e-un-paese-in-cerca-di-unita-758452db-9b40-494d-a4c4-791078d7dc11.html",
-   "description": "Il viaggio apostolico viene interpretato come un'occasione per rilanciare messaggi di riconciliazione, giustizia sociale, dialogo e speranza, in un paese attraversato da profonde difficoltà economiche e sociali",
-   "pub_ts": 1794170640,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Egitto, scontro tra treni a Giza: almeno 7 morti e 112 feriti. “Nessun turista straniero coinvolto”",
-   "link": "https://www.repubblica.it/esteri/2026/11/08/news/egitto_scontro_tra_treni_giza_morti-425708981/?rss",
-   "description": "L'incidente è avvenuto a circa 59 chilometri a sud del Cairo. Al Sisi: “Troveremo i responsabili di ogni negligenza”",
-   "pub_ts": 1794199560,
-   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "In Polonia si indaga per terrorismo, ancora gravi i feriti della strage di Cracovia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/in-polonia-si-indaga-per-terrorismo-ancora-gravi-i-feriti-della-strage-di-cracovia_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
-   "description": "L'attentatore ha prima sterminato la famiglia. 'La domenica andava al poligono col padre'",
-   "pub_ts": 1794161876,
-   "source": "ANSA",
+   "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi: i dati svelati dagli hacker",
+   "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/?rss",
+   "description": "I numeri segreti di Putin rubati dai bielorussi di Cyber Partisans e dagli ucraini di Silent Crow, che sono entrati nei computer dell’agenzia di statistica di Mosca Rosstat. Perlopiù i reclutati venivano dalle aree asiatiche. L’analisi di Bloomberg",
+   "pub_ts": 1794237540,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   }
