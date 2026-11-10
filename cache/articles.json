@@ -1,6 +1,6 @@
 {
- "generated_at": 1794269034,
- "updated_at": 1794269034,
+ "generated_at": 1794298218,
+ "updated_at": 1794298218,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -13,8 +13,8 @@
    "title": "Trump difende Hegseth dall’impeachment: “Ha vinto due guerre, in Iran e Venezuela”",
    "summary": "Il deputato repubblicano Thomas Massie, dissidente e uscente, ha ripresentato gli otto capi d'accusa, avviando il meccanismo che potrebbe portare ad un voto nella Camera entro due giorni",
    "link": "https://www.repubblica.it/esteri/2026/11/10/news/trump_difende_hegseth_dall_impeachment_ha_vinto_due_guerre_in_iran_e_venezuela-425711992/?rss",
-   "pub_ts": 1794268397,
-   "n_sources": 9,
+   "pub_ts": 1794294319,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
@@ -33,47 +33,121 @@
      "title": "Trump continua a difendere Hegseth, 'ha vinto la guerra in Iran e Venezuela'"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/09/impeachment-hegseth-massie/",
-     "title": "Negli Stati Uniti un deputato Repubblicano ha avviato una procedura di impeachment contro il segretario alla Difesa Pete Hegseth"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/09/pete-hegseth-chiesto-impeachment-deputato-gop-guerra-iran/",
-     "title": "Pete Hegseth a rischio, chiesto l’impeachment per il ministro della Guerra di Trump da un repubblicano: le accuse di «gravi reati e illeciti»"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/usa-hegseth-impeachment-richiesta-deputato-repubblicano-massie_37un7ogNPzqcIkzahqPILk",
-     "title": "Richiesta di impeachment per Hagseth presentata da un deputato repubblicano"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/impeachment_pete_hegseth_deputato_repubblicano_thomas_massie-425711672/",
-     "title": "Stati Uniti, richiesta di impeachment per Hegseth: a presentarla è un deputato repubblicano"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/stati-uniti-pete-hegseth-rischia-impeachment-da-repubblicano-guerra-iran-ma-trump-difende-voto-senato-e7db3101",
+     "title": "Stati Uniti, Hegseth rischia l’impeachment. Ma Trump lo difende"
     },
     {
      "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/il-repubblicano-massie-formalizza-camera-mozione-impeachment-hegseth-AJTISoAC",
-     "title": "Il repubblicano Massie formalizza alla Camera una mozione per l’impeachment di Hegseth"
+     "link": "https://www.ilsole24ore.com/art/iran-trump-e-khamenei-passi-il-negoziato-impeachment-contro-hegseth-AJ2F0QAC",
+     "title": "Iran, da Trump e Khamenei passi verso il negoziato. Impeachment contro Hegseth"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/trump_difende_hegseth_dall_impeachment_ha_vinto_due_guerre_in_iran_e_venezuela-425711992/",
+     "title": "Trump difende Hegseth dall’impeachment: “Ha vinto due guerre, in Iran e Venezuela”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/09/impeachment-hegseth-massie/",
+     "title": "Negli Stati Uniti un deputato Repubblicano ha avviato una procedura di impeachment contro il segretario alla Difesa Pete Hegseth"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Al via i nuovi colloqui ad Abu Dhabi, Trump: “L’Ucraina cambierà forma”",
+   "summary": "Al via i negoziati tra gli inviati di Washington, Mosca e Kiev. I nodi territori e sicurezza. Insieme agli europei ci sarà anche l’Italia, ma non saranno al tavolo delle trattative",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/ucraina_nuovi_colloqui_abu_dhabi_stati_uniti_trump-425711817/?rss",
+   "pub_ts": 1794297480,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/ucraina_nuovi_colloqui_abu_dhabi_stati_uniti_trump-425711817/?rss",
+     "title": "Al via i nuovi colloqui ad Abu Dhabi, Trump: “L’Ucraina cambierà forma”"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/erdogan-sosteniamo-limpegno-di-trump-per-porre-fine-alla-guerra-tra_72d6c471-1f17-4230-8561-1972bf52c66c.html",
+     "title": "Erdogan, 'sosteniamo l'impegno di Trump per porre fine alla guerra tra Mosca e Kiev'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/guerra-ucraina-abu-dhabi-colloqui-russia-usa-ucraina-giorgetti-non-firma-decreto-armi-a-kiev-60f64a83-8229-44ca-a282-ea8d6193a4fa.html",
+     "title": "Ucraina, situazione \"difficile\" a Kiev e Dnpro. Abu Dhabi, via a colloqui Russia-USA-Ucraina"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/ucraina_nuovi_colloqui_abu_dhabi_stati_uniti_trump-425711817/",
+     "title": "Al via i nuovi colloqui ad Abu Dhabi, Trump: “L’Ucraina cambierà forma”"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-kallas-pessimista-sui-colloqui-di-pace-ad-abu-dhabi_1vYbzlQRu2KWtUcmuA1Myq",
+     "title": "Ucraina: Kallas pessimista sui colloqui di pace ad Abu Dhabi"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/09/impeachment-hegseth-massie-congresso-notizie/8566290/",
-     "title": "Il capo del Pentagono Pete Hegseth in bilico: il deputato repubblicano Massie formalizza la richiesta di impeachment"
+     "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/11/10/abu-dhabi-colloqui-guerra-russia-usa-ucraina-trump-live-diretta/8566567/",
+     "title": "Abu Dhabi, al via i colloqui tra Russia, Usa e Ucraina. Trump: “Alta propensione di Mosca e Kiev alla fine della guerra”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'",
-   "summary": "'Non so se dietro ci sia Mosca, ma certamente avvengono con un coordinamento'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_7ac25056-1510-46cf-998b-97dbec48cf0c.html",
-   "pub_ts": 1794265666,
+   "title": "L'ira della Lega sul decreto armi, Giorgetti non lo firma",
+   "summary": "Crosetto illustra il pacchetto, si profila uno scontro nella maggioranza al Copasir",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/lira-della-lega-sul-decreto-armi-giorgetti-non-lo-firma_bd84e8d5-bb54-4f9e-ab20-c050f5ae3632.html",
+   "pub_ts": 1794297221,
    "n_sources": 5,
    "documented": true,
    "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/lira-della-lega-sul-decreto-armi-giorgetti-non-lo-firma_bd84e8d5-bb54-4f9e-ab20-c050f5ae3632.html",
+     "title": "L'ira della Lega sul decreto armi, Giorgetti non lo firma"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/arriva-il-13esimo-pacchetto-di-aiuti-allucraina-domani-crosetto-al-copasir_79d4f3a5-283c-4118-9311-f1ff56472197.html",
+     "title": "Arriva il 13esimo pacchetto di aiuti all'Ucraina, domani Crosetto al Copasir"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-decreto-giorgetti-firma-tajani_2FyWMLxVW7tWCnv5T47KXA",
+     "title": "Ucraina, Tajani: \"Giorgetti firmerà pacchetto aiuti militari, nessun giallo\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/armi-ucraina-guerra-aiuti-tajani-manca-la-firma-di-giorgetti-al-decreto-mef-x7a0daj9",
+     "title": "Armi all’Ucraina, manca la firma di Giorgetti al decreto"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/10/aiuti-ucraina-giorgetti-firma-notizie/8566564/",
+     "title": "Aiuti militari all’Ucraina, Tajani: “Mancata firma di Giorgetti? Solo perché era a Bruxelles, ma lui è favorevole. Via libera al suo ritorno”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "La guerra ibrida sul tavolo del G7: “Serve più unità”",
+   "summary": "L’ipotesi di rafforzare il meccanismo di risposta rapida. L’idea di sanzioni. Per gli Usa c’è Rubio",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/g7_ministri_esteri_attacchi_hacker_guerra_ibrida_parigi-425711873/?rss",
+   "pub_ts": 1794268800,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/g7_ministri_esteri_attacchi_hacker_guerra_ibrida_parigi-425711873/?rss",
+     "title": "La guerra ibrida sul tavolo del G7: “Serve più unità”"
+    },
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_7ac25056-1510-46cf-998b-97dbec48cf0c.html",
@@ -88,16 +162,6 @@
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/italia/cyber-attacchi-hacker-francia-accusa-iran-italia-filorussi-coordinamento-europa-guerra-ibrida-u6rv8ctf",
      "title": "La Francia accusa l’Iran, l’Italia i filorussi, Tajani: «C’è un coordinamento tra hacker»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/",
-     "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/09/attacchi-hacker-ai-frigoriferi-la-francia-indaga-su-un-gruppo-legato-ai-pasdaran-iraniani/8566029/",
-     "title": "Attacchi hacker ai frigoriferi, la Francia indaga su un gruppo legato ai Pasdaran iraniani. Tajani: “In Italia opera di filorussi”"
     }
    ]
   },
@@ -108,7 +172,7 @@
    "summary": "La procura emette un mandato internazionale contro i capi del gruppo iraniano Shadid Kaveh, legato ai pasdaran. Il ministro degli Esteri francese: “Prepariamo sanzioni europee”. Convocato l’ambasciatore. Tajani: “Le azioni ibride in Italia sono di hacker filorussi”",
    "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/?rss",
    "pub_ts": 1794258675,
-   "n_sources": 5,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -122,14 +186,9 @@
      "title": "Parigi accusa: 'C'è Teheran dietro agli attacchi ai frigoriferi'"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/esteri-europa-francia-attacchi-hacker-informatici-cyberattacchi-supermercati-frigoriferi-procura-parigi-indaga-su-iran-45842f59-a5e2-4b49-8b8a-8973545c8cb6.html",
-     "title": "Cyberattacchi ai frigoriferi, la procura di Parigi indaga su un gruppo iraniano"
-    },
-    {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/shahid_kaveh_cosa_e_iran_cyber_elite_pasdaran_frigoriferi_cyber_attacchi-425711213/",
-     "title": "Cos’è Shahid Kaveh: la cyber-élite dei Pasdaran accusata degli attacchi ai frigoriferi in Europa"
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/",
+     "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”"
     },
     {
      "name": "Nicola Porro",
@@ -144,8 +203,8 @@
    "title": "Huang ammette l'affaire con la 'spia cinese', Nvidia trema",
    "summary": "Il Cda apre un'indagine. Trump e Musk lo difendono: 'resti'. Il caso oggi al Congresso",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/lad-di-nvidia-ammette-la-relazione-con-una-spia-cinese-il-titolo-crolla_b836320f-e2c1-45f4-afe6-4a8f097fa5b6.html",
-   "pub_ts": 1794252316,
-   "n_sources": 4,
+   "pub_ts": 1794290460,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -154,46 +213,14 @@
      "title": "Huang ammette l'affaire con la 'spia cinese', Nvidia trema"
     },
     {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/10/nvidia-indagini-jensen-huang/",
+     "title": "Trump dice che sulla relazione tra il CEO di Nvidia e una presunta spia cinese indaga anche l’FBI"
+    },
+    {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/nvidia-jensen-huang-amante-spia-cinese-scandalo-wh1ee99c",
      "title": "«L’amante era una spia cinese», così il capo di Nvidia prova a resistere allo scandalo"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/09/nvidia-risultato-borsa-notizia-relazione-ceo-presunta-spia-cinese/",
-     "title": "Nvidia è crollata in borsa dopo la notizia della relazione tra il suo CEO e una presunta spia cinese"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/scandalo-nvidia-ceo-ammette-relazione-spia-cinese-l-azienda-apre-indagine-ma-trump-difende-AJKjNu9B",
-     "title": "Scandalo Nvidia, il ceo ammette relazione con spia cinese. Azienda apre indagine, Trump lo difende, titolo crolla"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'",
-   "summary": "'Uomo onorevole'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_49da11e9-c79f-40ef-a75a-8010e50e9561.html",
-   "pub_ts": 1794262410,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_49da11e9-c79f-40ef-a75a-8010e50e9561.html",
-     "title": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/09/news/la_spia_che_fece_crollare_nvidia_ritratto_di_alice_huang_passione_sentimentale_di_jensen_huang-425710722/",
-     "title": "La spia che fece crollare Nvidia. Ritratto di Alice Huang, passione sentimentale di Jensen Huang"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/09/jensen-huang-nvidia/",
-     "title": "Quanto conta Jensen Huang per Nvidia"
     }
    ]
   },
@@ -227,156 +254,139 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Arriva il 13esimo pacchetto di aiuti all'Ucraina, domani Crosetto al Copasir",
-   "summary": "'Manteniamo l'impegno preso'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/arriva-il-13esimo-pacchetto-di-aiuti-allucraina-domani-crosetto-al-copasir_79d4f3a5-283c-4118-9311-f1ff56472197.html",
-   "pub_ts": 1794261349,
+   "title": "Scontro aperto nel governo sull’invio delle nuove armi: la Lega blocca la firma",
+   "summary": "Giorgetti rallenta l’iter dopo le obiezioni di Salvini alla fornitura di missili. Oggi Crosetto presenta il pacchetto al Copasir",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/armi_ucraina_governo_italia_scontro_lega_blocca-425711912/?rss",
+   "pub_ts": 1794268800,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/arriva-il-13esimo-pacchetto-di-aiuti-allucraina-domani-crosetto-al-copasir_79d4f3a5-283c-4118-9311-f1ff56472197.html",
-     "title": "Arriva il 13esimo pacchetto di aiuti all'Ucraina, domani Crosetto al Copasir"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/armi_ucraina_governo_italia_scontro_lega_blocca-425711912/?rss",
+     "title": "Scontro aperto nel governo sull’invio delle nuove armi: la Lega blocca la firma"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/09/governo-pacchetto-aiuti-ucraina-giorgetti/8566479/",
-     "title": "Governo spaccato sul 13esimo pacchetto di aiuti all’Ucraina. Tajani: “C’è il via libera di tutti”. Ma Giorgetti non ha firmato"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Manovra: Gimbe, '22,7 miliardi di tagli invisibili alla sanità dal 2022'",
-   "summary": "Cartabellotta, destinare al Fondo sanitario il voucher per anziani",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/manovra-gimbe-227-miliardi-di-tagli-invisibili-alla-sanita-dal-2022_e63ef446-7ccf-4805-92fb-12bba1e7e2f6.html",
-   "pub_ts": 1794256095,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/manovra-gimbe-227-miliardi-di-tagli-invisibili-alla-sanita-dal-2022_e63ef446-7ccf-4805-92fb-12bba1e7e2f6.html",
-     "title": "Manovra: Gimbe, '22,7 miliardi di tagli invisibili alla sanità dal 2022'"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/09/gimbe-tagli-sanita-pubblica-manovra-notizie/8565970/",
-     "title": "“Con il governo Meloni circa 23 miliardi di tagli invisibili per la sanità pubblica”: Gimbe boccia la manovra. E chiede di eliminare i voucher per gli anziani"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'",
-   "summary": "A partire da gennaio. Meloni: 'Scontentiamo i produttori di elettricità ma difendiamo cittadini'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html",
-   "pub_ts": 1794254964,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html",
-     "title": "Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/09/decreto-bollette-price-cap-gas-notizie/8565667/",
-     "title": "Ok del Cdm al nuovo decreto Bollette, ma l’impatto è minimo. Le opposizioni: “Appena 1,4 euro in meno al mese”. Meloni: “Gli effetti richiederanno tempo”"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/armi_ucraina_governo_italia_scontro_lega_blocca-425711912/",
+     "title": "Scontro aperto nel governo sull’invio delle nuove armi: la Lega blocca la firma"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Merz candida Ilse Aigner alla presidenza della Repubblica: “E’ ora che una donna ricopra la carica”",
-   "summary": "Il cancelliere tedesco ha fatto sapere che la Cdu sosterrà la presidente del Parlamento della Baviera ed esponente della Csu. Angela Merkel parla di una nomina “storica”",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/ilse_aigner_presidente_repubblica_germania_candidatura_merz_cdu-425711187/?rss",
-   "pub_ts": 1794253372,
+   "title": "Trump e il clima impazzito: la vignetta di Ellekappa",
+   "summary": "",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_clima_trump_vignetta_ellekappa-425711795/?rss",
+   "pub_ts": 1794265260,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/ilse_aigner_presidente_repubblica_germania_candidatura_merz_cdu-425711187/?rss",
-     "title": "Merz candida Ilse Aigner alla presidenza della Repubblica: “E’ ora che una donna ricopra la carica”"
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_clima_trump_vignetta_ellekappa-425711795/?rss",
+     "title": "Trump e il clima impazzito: la vignetta di Ellekappa"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/09/germania-ilse-aigner-presidente-della-germania/",
-     "title": "La CDU ha scelto come candidata alla presidenza della Germania Ilse Aigner, presidente del parlamento della Baviera"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_clima_trump_vignetta_ellekappa-425711795/",
+     "title": "Trump e il clima impazzito: la vignetta di Ellekappa"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Tajani a G7, 'uniti per dare un segnale forte a chi cerca il caos in Europa'",
+   "summary": "'Ho chiesto a Kallas di mettere il tema della guerra ibrida al centro di riunione esteri'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-a-g7-uniti-per-dare-un-segnale-forte-a-chi-cerca-il-caos-in-europa_9ba4fbe2-238e-42c1-a730-991f1bc472cf.html",
+   "pub_ts": 1794244417,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-a-g7-uniti-per-dare-un-segnale-forte-a-chi-cerca-il-caos-in-europa_9ba4fbe2-238e-42c1-a730-991f1bc472cf.html",
+     "title": "Tajani a G7, 'uniti per dare un segnale forte a chi cerca il caos in Europa'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/cyberattacchi-tajani-g7-parigi-aerei-brennero-supermercati-gruppi-filorussi-piantedosi-comitato-viminale-sfetdbu4",
+     "title": "Tajani al G7: «È importante essere uniti per dare un segnale a chi cerca di provocare il caos in Europa»"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Un dato di Uber racconta quanto vengono usati davvero gli agenti IA nel mondo",
+   "title": "Caso Nvidia, class action contro il colosso e il suo ceo Jensen Huang",
+   "summary": "Titolo in picchiata a Wall Street, timori sull'export di tecnologia avanzata verso Pechino. Il \"re dei microchip\", difeso da Trump e Musk, ha avuto una relazione extraconiugale con una presunta spia cinese",
+   "link": "https://www.rainews.it/articoli/2026/11/caso-nvidia-class-action-contro-il-colosso-e-il-suo-ceo-jensen-huang--3a87c346-5068-4f04-8ec6-5428bfab621a.html",
+   "pub_ts": 1794286380,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/caso-nvidia-class-action-contro-il-colosso-e-il-suo-ceo-jensen-huang--3a87c346-5068-4f04-8ec6-5428bfab621a.html",
+     "title": "Caso Nvidia, class action contro il colosso e il suo ceo Jensen Huang"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/09/jensen-huang-nvidia/",
+     "title": "Quanto conta Jensen Huang per Nvidia"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Un dato di Uber racconta l’altra metà della storia sugli agenti IA",
    "summary": "Le aziende tecnologiche presentano gli agenti come sistemi che stanno cambiando la nostra vita ma i dati raccolti da Uber sottolineano un’adozione molto più lenta. Persino Meta, che con Muse ha superato 10 milioni di utenti, ammette che far funzionare questi strumenti costa...",
    "link": "https://www.repubblica.it/tecnologia/2026/11/09/news/agenti-ia-costo-quanto-vengono-usati-uber-425710486/?rss",
-   "pub_ts": 1794228571,
+   "pub_ts": 1794297940,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
      "link": "https://www.repubblica.it/tecnologia/2026/11/09/news/agenti-ia-costo-quanto-vengono-usati-uber-425710486/?rss",
-     "title": "Un dato di Uber racconta quanto vengono usati davvero gli agenti IA nel mondo"
+     "title": "Un dato di Uber racconta l’altra metà della storia sugli agenti IA"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Meta Muse Ember: il modello AI più leggero Meta per agenti",
-   "summary": "Meta lancia Muse Ember, il suo modello AI più leggero ed economico per agent, con supporto a testo, immagini e audio. Ecco come funziona. The post Meta Muse Ember: il modello AI più leggero Meta per agenti appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/meta-muse-ember-modello-ai-piu-leggero-agenti/",
-   "pub_ts": 1794250729,
+   "title": "Apple TV Gratis con le novità di novembre? Scopri come",
+   "summary": "Scopri come ottenere Apple TV Gratis in modo legale con accesso a tutto il grande catalogo, incluse le incredibili novità di novembre. The post Apple TV Gratis con le novità di novembre? Scopri come appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/apple-tv-gratis-novita-novembre-scopri-come/",
+   "pub_ts": 1794296557,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/meta-muse-ember-modello-ai-piu-leggero-agenti/",
-     "title": "Meta Muse Ember: il modello AI più leggero Meta per agenti"
+     "link": "https://www.punto-informatico.it/apple-tv-gratis-novita-novembre-scopri-come/",
+     "title": "Apple TV Gratis con le novità di novembre? Scopri come"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Digital Fairness Act: divieti per social media e chatbot AI",
-   "summary": "Il Digital Fairness Act introdurrà divieti e obblighi per siti web, app, giochi, social media e chatbot AI, alcuni dei quali riguarderanno i minori. The post Digital Fairness Act: divieti per social media e chatbot AI appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/digital-fairness-act-divieti-social-media-chatbot-ai/",
-   "pub_ts": 1794245467,
+   "title": "Black Friday ECOVACS: fino a 900 euro di risparmio sui robot per pulire casa",
+   "summary": "Fino a 900 € di sconto sui robot ECOVACS per il Black Friday: DEEBOT X12 Care Complete a 599 €, T90S a 499 €, WINBOT W3 OMNI. Dal 10 al 30 novembre. The post Black Friday ECOVACS: fino a 900 euro di risparmio sui robot per pulire casa appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/black-friday-ecovacs-fino-a-400-euro-di-risparmio-sui-robot-per-pulire-casa/",
+   "pub_ts": 1794295888,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/digital-fairness-act-divieti-social-media-chatbot-ai/",
-     "title": "Digital Fairness Act: divieti per social media e chatbot AI"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN",
-   "summary": "Disney e Adobe annunciano una partnership pluriennale per creare modelli AI con Firefly Foundry. Cosa cambia per i parchi, i film e i contenuti ESPN. The post Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/disney-punta-ai-adobe-film-parchi-contenuti-espn/",
-   "pub_ts": 1794244505,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/disney-punta-ai-adobe-film-parchi-contenuti-espn/",
-     "title": "Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN"
+     "link": "https://www.punto-informatico.it/black-friday-ecovacs-fino-a-400-euro-di-risparmio-sui-robot-per-pulire-casa/",
+     "title": "Black Friday ECOVACS: fino a 900 euro di risparmio sui robot per pulire casa"
     }
    ]
   },
@@ -386,8 +396,8 @@
    "title": "Russell Brand deve scontare 10 anni e mezzo di carcere per stupro",
    "summary": "'Predatore sessuale protetto da fama'. Burnham promette più sostegno alle vittime",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/russell-brand-deve-scontare-10-anni-e-mezzo-di-carcere-per-stupro_9af131ce-0012-47cb-9799-a36d8db2131e.html",
-   "pub_ts": 1794256253,
-   "n_sources": 5,
+   "pub_ts": 1794296279,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -401,19 +411,42 @@
      "title": "10 anni e mezzo di prigione all' attore e web star Russell Brand per stupro"
     },
     {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/10/processo-russell-brand/",
+     "title": "Russell Brand è stato condannato a oltre 10 anni di carcere"
+    },
+    {
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/regno-unito-russell-brand-condannato-oltre-10-anni-stupro-e-aggressioni-sessuali-AJBX8PAC",
      "title": "Regno Unito: Russell Brand condannato a oltre 10 anni per stupro e aggressioni sessuali"
-    },
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Raitre: programmi di martedì 10 novembre",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/raitre-programmi-di-martedi-10-novembre_652100a6-4a24-462f-b55f-8ac9c0966f55.html",
+   "pub_ts": 1794295244,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/russell-brand-condannato-per-stupro-a-10-anni-e-sei-mesi-il-giudice-predatore-seriale-7708a6c3-2820-4090-ba80-dca370069496.html",
-     "title": "Russell Brand condannato per stupro a 10 anni e sei mesi, il giudice: \"Predatore seriale\""
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/raitre-programmi-di-martedi-10-novembre_652100a6-4a24-462f-b55f-8ac9c0966f55.html",
+     "title": "Raitre: programmi di martedì 10 novembre"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/09/russell-brand-condanna-stupro-violenze-sessuali/",
-     "title": "L’attore inglese Russell Brand è stato condannato a dieci anni e sei mesi per stupro e violenze sessuali"
+     "link": "https://www.ilpost.it/2026/11/10/martedi-10-novembre-3/",
+     "title": "Martedì 10 novembre"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/photogallery/2026/11/fotorassegna-stampa-le-prime-pagine-dei-quotidiani-di-martedi-10-novembre-f3798b6c-3524-4820-ad5f-0ca63c39cb4e.html",
+     "title": "Fotorassegna stampa, le prime pagine dei quotidiani di martedì 10 novembre"
     }
    ],
    "subtype": "cultura"
@@ -421,45 +454,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Museo Egizio diventa anche Ente pubblico di ricerca, via libera dal Cdm",
-   "summary": "Su proposta dei ministri Bernini e Giuli",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/museo-egizio-diventa-anche-ente-pubblico-di-ricerca-via-libera-dal_5be8736e-ed32-42d4-83b0-33e1aef264fe.html",
-   "pub_ts": 1794247783,
+   "title": "Torna Siae Music Awards, a Milano con Amadeus e Noemi",
+   "summary": "Il 21 novembre i premi alla creatività musicale",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/09/torna-siae-music-awards-a-milano-con-amadeus-e-noemi_084cfc45-3e47-4a8e-88a2-a38a6dda7640.html",
+   "pub_ts": 1794286805,
    "n_sources": 2,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/museo-egizio-diventa-anche-ente-pubblico-di-ricerca-via-libera-dal_5be8736e-ed32-42d4-83b0-33e1aef264fe.html",
-     "title": "Museo Egizio diventa anche Ente pubblico di ricerca, via libera dal Cdm"
-    },
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/09/museo-egizio-diventa-anche-ente-pubblico-di-ricerca-via-libera-dal_c4b5273a-5e3e-4a45-b14c-93c6242a4d4f.html",
-     "title": "Museo Egizio diventa anche Ente pubblico di ricerca, via libera dal Cdm"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "All'asta da Christie's il manoscritto di 'I Have a Dream'",
-   "summary": "La stima di partenza del documento è di oltre 10 milioni di dollari",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/allasta-da-christies-il-manoscritto-di-i-have-a-dream_26abeb7b-4bc4-461c-9a34-6a6eec5ac141.html",
-   "pub_ts": 1794245705,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/allasta-da-christies-il-manoscritto-di-i-have-a-dream_26abeb7b-4bc4-461c-9a34-6a6eec5ac141.html",
-     "title": "All'asta da Christie's il manoscritto di 'I Have a Dream'"
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/09/torna-siae-music-awards-a-milano-con-amadeus-e-noemi_084cfc45-3e47-4a8e-88a2-a38a6dda7640.html",
+     "title": "Torna Siae Music Awards, a Milano con Amadeus e Noemi"
     },
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/allasta-da-christies-due-capolavori-di-jan-van-huysum-stima-fino-a-8-milioni-di-sterline_qTiBATnO2AN8WJJkKCZ87",
-     "title": "All'asta da Christie's due capolavori di Jan van Huysum, stima fino a 8 milioni di sterline"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/10/amadeus-e-noemi-conducono-i-siae-music-awards-per-premiare-gli-autori-e-gli-editori-di-successo-nel-mondo-e-in-italia-ecco-tutte-le-nomination-e-le-informazioni/8565881/",
+     "title": "Amadeus e Noemi conducono i Siae Music Awards per premiare gli autori e gli editori di successo nel mondo e in Italia. Ecco tutte le nomination e le informazioni"
     }
    ],
    "subtype": "cultura"
@@ -490,22 +500,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "In un giorno aggrediti 4 infermieri, fenomeno in aumento",
-   "summary": "Le violenze in Emilia Romagna e Veneto. Nursind: 'episodi alimentati da odio e diffidenza'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/08/in-un-giorno-aggrediti-4-infermieri-fenomeno-in-aumento_6f15e3a4-18c0-4616-a667-11380535228b.html",
-   "pub_ts": 1794216205,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Gemmato, 'riforma legislazione farmaceutica possibile grazie a stabilità governo'",
+   "summary": "'In settimana sarà conclusa l'analisi degli emendamenti'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/09/gemmato-riforma-legislazione-farmaceutica-possibile-grazie-a-stabilita-governo_52b9e48d-b07a-4b5a-b6ad-840076040d21.html",
+   "pub_ts": 1794251966,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/08/in-un-giorno-aggrediti-4-infermieri-fenomeno-in-aumento_6f15e3a4-18c0-4616-a667-11380535228b.html",
-     "title": "In un giorno aggrediti 4 infermieri, fenomeno in aumento"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/in-un-giorno-aggrediti-4-infermieri-fenomeno-in-aumento_68d9ae75-27f0-4bbb-a54d-6a815f683953.html",
-     "title": "In un giorno aggrediti 4 infermieri, fenomeno in aumento"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/09/gemmato-riforma-legislazione-farmaceutica-possibile-grazie-a-stabilita-governo_52b9e48d-b07a-4b5a-b6ad-840076040d21.html",
+     "title": "Gemmato, 'riforma legislazione farmaceutica possibile grazie a stabilità governo'"
     }
    ],
    "subtype": "scienza"
@@ -513,27 +518,22 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "È morto in ospedale il killer della strage di Cracovia",
-   "summary": "La Polonia in lutto e sotto shock, massima allerta per la festa dell'Indipendenza",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/e-morto-in-ospedale-il-killer-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
-   "pub_ts": 1794250177,
-   "n_sources": 5,
+   "title": "Morto l'autore della strage di Cracovia",
+   "summary": "Lo ha annunciato la polizia polacca",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/morto-lautore-della-strage-di-cracovia_e9549940-6805-48d9-86aa-49a2166399c6.html",
+   "pub_ts": 1794297475,
+   "n_sources": 4,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/e-morto-in-ospedale-il-killer-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
-     "title": "È morto in ospedale il killer della strage di Cracovia"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/cracovia_l_attentatore_michal_oksinski_e_morto_in_ospedale-425709517/?rss",
-     "title": "Cracovia, l’attentatore Michal Oksinski è morto in ospedale"
-    },
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/morto-lautore-della-strage-di-cracovia_e9549940-6805-48d9-86aa-49a2166399c6.html",
      "title": "Morto l'autore della strage di Cracovia"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/10/cracovia-foto-bandiera-ucraina-ia-fact-check/",
+     "title": "Strage di Cracovia, il falso canale Telegram dell’attentatore"
     },
     {
      "name": "Domani",
@@ -546,33 +546,6 @@
      "title": "Cracovia, l’attentatore è morto in ospedale"
     }
    ]
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi: i dati svelati dagli hacker",
-   "summary": "I numeri segreti di Putin rubati dai bielorussi di Cyber Partisans e dagli ucraini di Silent Crow, che sono entrati nei computer dell’agenzia di statistica di Mosca Rosstat. Perlopiù i reclutati venivano dalle aree asiatiche. L’analisi di Bloomberg",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/?rss",
-   "pub_ts": 1794237540,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/?rss",
-     "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi: i dati svelati dagli hacker"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/russia-hacker-fuga-dati-soldati-mosca-morti-ucraina_3eNBZMCH5bbdfYO489o7Wm",
-     "title": "\"Dal 2022 oltre 450mila russi morti in Ucraina\", hacker svelano le perdite di Putin in guerra"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/",
-     "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi: i dati svelati dagli hacker"
-    }
-   ]
   }
  ],
  "articles": [
@@ -580,17 +553,35 @@
    "title": "Trump difende Hegseth dall’impeachment: “Ha vinto due guerre, in Iran e Venezuela”",
    "link": "https://www.repubblica.it/esteri/2026/11/10/news/trump_difende_hegseth_dall_impeachment_ha_vinto_due_guerre_in_iran_e_venezuela-425711992/?rss",
    "description": "Il deputato repubblicano Thomas Massie, dissidente e uscente, ha ripresentato gli otto capi d'accusa, avviando il meccanismo che potrebbe portare ad un voto nella Camera entro due giorni",
-   "pub_ts": 1794268397,
+   "pub_ts": 1794294319,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_7ac25056-1510-46cf-998b-97dbec48cf0c.html",
-   "description": "'Non so se dietro ci sia Mosca, ma certamente avvengono con un coordinamento'",
-   "pub_ts": 1794265666,
-   "source": "ANSA Mondo",
+   "title": "Al via i nuovi colloqui ad Abu Dhabi, Trump: “L’Ucraina cambierà forma”",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/ucraina_nuovi_colloqui_abu_dhabi_stati_uniti_trump-425711817/?rss",
+   "description": "Al via i negoziati tra gli inviati di Washington, Mosca e Kiev. I nodi territori e sicurezza. Insieme agli europei ci sarà anche l’Italia, ma non saranno al tavolo delle trattative",
+   "pub_ts": 1794297480,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "L'ira della Lega sul decreto armi, Giorgetti non lo firma",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/lira-della-lega-sul-decreto-armi-giorgetti-non-lo-firma_bd84e8d5-bb54-4f9e-ab20-c050f5ae3632.html",
+   "description": "Crosetto illustra il pacchetto, si profila uno scontro nella maggioranza al Copasir",
+   "pub_ts": 1794297221,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La guerra ibrida sul tavolo del G7: “Serve più unità”",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/g7_ministri_esteri_attacchi_hacker_guerra_ibrida_parigi-425711873/?rss",
+   "description": "L’ipotesi di rafforzare il meccanismo di risposta rapida. L’idea di sanzioni. Per gli Usa c’è Rubio",
+   "pub_ts": 1794268800,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -607,17 +598,8 @@
    "title": "Huang ammette l'affaire con la 'spia cinese', Nvidia trema",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/lad-di-nvidia-ammette-la-relazione-con-una-spia-cinese-il-titolo-crolla_b836320f-e2c1-45f4-afe6-4a8f097fa5b6.html",
    "description": "Il Cda apre un'indagine. Trump e Musk lo difendono: 'resti'. Il caso oggi al Congresso",
-   "pub_ts": 1794252316,
+   "pub_ts": 1794290460,
    "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_49da11e9-c79f-40ef-a75a-8010e50e9561.html",
-   "description": "'Uomo onorevole'",
-   "pub_ts": 1794262410,
-   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -631,73 +613,64 @@
    "section": "politica"
   },
   {
-   "title": "Arriva il 13esimo pacchetto di aiuti all'Ucraina, domani Crosetto al Copasir",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/arriva-il-13esimo-pacchetto-di-aiuti-allucraina-domani-crosetto-al-copasir_79d4f3a5-283c-4118-9311-f1ff56472197.html",
-   "description": "'Manteniamo l'impegno preso'",
-   "pub_ts": 1794261349,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Manovra: Gimbe, '22,7 miliardi di tagli invisibili alla sanità dal 2022'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/manovra-gimbe-227-miliardi-di-tagli-invisibili-alla-sanita-dal-2022_e63ef446-7ccf-4805-92fb-12bba1e7e2f6.html",
-   "description": "Cartabellotta, destinare al Fondo sanitario il voucher per anziani",
-   "pub_ts": 1794256095,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html",
-   "description": "A partire da gennaio. Meloni: 'Scontentiamo i produttori di elettricità ma difendiamo cittadini'",
-   "pub_ts": 1794254964,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Merz candida Ilse Aigner alla presidenza della Repubblica: “E’ ora che una donna ricopra la carica”",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/ilse_aigner_presidente_repubblica_germania_candidatura_merz_cdu-425711187/?rss",
-   "description": "Il cancelliere tedesco ha fatto sapere che la Cdu sosterrà la presidente del Parlamento della Baviera ed esponente della Csu. Angela Merkel parla di una nomina “storica”",
-   "pub_ts": 1794253372,
+   "title": "Scontro aperto nel governo sull’invio delle nuove armi: la Lega blocca la firma",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/armi_ucraina_governo_italia_scontro_lega_blocca-425711912/?rss",
+   "description": "Giorgetti rallenta l’iter dopo le obiezioni di Salvini alla fornitura di missili. Oggi Crosetto presenta il pacchetto al Copasir",
+   "pub_ts": 1794268800,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Un dato di Uber racconta quanto vengono usati davvero gli agenti IA nel mondo",
+   "title": "Trump e il clima impazzito: la vignetta di Ellekappa",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_clima_trump_vignetta_ellekappa-425711795/?rss",
+   "description": "",
+   "pub_ts": 1794265260,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Tajani a G7, 'uniti per dare un segnale forte a chi cerca il caos in Europa'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-a-g7-uniti-per-dare-un-segnale-forte-a-chi-cerca-il-caos-in-europa_9ba4fbe2-238e-42c1-a730-991f1bc472cf.html",
+   "description": "'Ho chiesto a Kallas di mettere il tema della guerra ibrida al centro di riunione esteri'",
+   "pub_ts": 1794244417,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Caso Nvidia, class action contro il colosso e il suo ceo Jensen Huang",
+   "link": "https://www.rainews.it/articoli/2026/11/caso-nvidia-class-action-contro-il-colosso-e-il-suo-ceo-jensen-huang--3a87c346-5068-4f04-8ec6-5428bfab621a.html",
+   "description": "Titolo in picchiata a Wall Street, timori sull'export di tecnologia avanzata verso Pechino. Il \"re dei microchip\", difeso da Trump e Musk, ha avuto una relazione extraconiugale con una presunta spia cinese",
+   "pub_ts": 1794286380,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Un dato di Uber racconta l’altra metà della storia sugli agenti IA",
    "link": "https://www.repubblica.it/tecnologia/2026/11/09/news/agenti-ia-costo-quanto-vengono-usati-uber-425710486/?rss",
    "description": "Le aziende tecnologiche presentano gli agenti come sistemi che stanno cambiando la nostra vita ma i dati raccolti da Uber sottolineano un’adozione molto più lenta. Persino Meta, che con Muse ha superato 10 milioni di utenti, ammette che far funzionare questi strumenti costa...",
-   "pub_ts": 1794228571,
+   "pub_ts": 1794297940,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Meta Muse Ember: il modello AI più leggero Meta per agenti",
-   "link": "https://www.punto-informatico.it/meta-muse-ember-modello-ai-piu-leggero-agenti/",
-   "description": "Meta lancia Muse Ember, il suo modello AI più leggero ed economico per agent, con supporto a testo, immagini e audio. Ecco come funziona. The post Meta Muse Ember: il modello AI più leggero Meta per agenti appeared first on Punto Informatico .",
-   "pub_ts": 1794250729,
+   "title": "Apple TV Gratis con le novità di novembre? Scopri come",
+   "link": "https://www.punto-informatico.it/apple-tv-gratis-novita-novembre-scopri-come/",
+   "description": "Scopri come ottenere Apple TV Gratis in modo legale con accesso a tutto il grande catalogo, incluse le incredibili novità di novembre. The post Apple TV Gratis con le novità di novembre? Scopri come appeared first on Punto Informatico .",
+   "pub_ts": 1794296557,
    "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Digital Fairness Act: divieti per social media e chatbot AI",
-   "link": "https://www.punto-informatico.it/digital-fairness-act-divieti-social-media-chatbot-ai/",
-   "description": "Il Digital Fairness Act introdurrà divieti e obblighi per siti web, app, giochi, social media e chatbot AI, alcuni dei quali riguarderanno i minori. The post Digital Fairness Act: divieti per social media e chatbot AI appeared first on Punto Informatico .",
-   "pub_ts": 1794245467,
-   "source": "Punto Informatico",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN",
-   "link": "https://www.punto-informatico.it/disney-punta-ai-adobe-film-parchi-contenuti-espn/",
-   "description": "Disney e Adobe annunciano una partnership pluriennale per creare modelli AI con Firefly Foundry. Cosa cambia per i parchi, i film e i contenuti ESPN. The post Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN appeared first on Punto Informatico .",
-   "pub_ts": 1794244505,
+   "title": "Black Friday ECOVACS: fino a 900 euro di risparmio sui robot per pulire casa",
+   "link": "https://www.punto-informatico.it/black-friday-ecovacs-fino-a-400-euro-di-risparmio-sui-robot-per-pulire-casa/",
+   "description": "Fino a 900 € di sconto sui robot ECOVACS per il Black Friday: DEEBOT X12 Care Complete a 599 €, T90S a 499 €, WINBOT W3 OMNI. Dal 10 al 30 novembre. The post Black Friday ECOVACS: fino a 900 euro di risparmio sui robot per pulire casa appeared first on Punto Informatico .",
+   "pub_ts": 1794295888,
    "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
@@ -706,26 +679,26 @@
    "title": "Russell Brand deve scontare 10 anni e mezzo di carcere per stupro",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/russell-brand-deve-scontare-10-anni-e-mezzo-di-carcere-per-stupro_9af131ce-0012-47cb-9799-a36d8db2131e.html",
    "description": "'Predatore sessuale protetto da fama'. Burnham promette più sostegno alle vittime",
-   "pub_ts": 1794256253,
+   "pub_ts": 1794296279,
    "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Museo Egizio diventa anche Ente pubblico di ricerca, via libera dal Cdm",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/museo-egizio-diventa-anche-ente-pubblico-di-ricerca-via-libera-dal_5be8736e-ed32-42d4-83b0-33e1aef264fe.html",
-   "description": "Su proposta dei ministri Bernini e Giuli",
-   "pub_ts": 1794247783,
-   "source": "ANSA Cronaca",
+   "title": "Raitre: programmi di martedì 10 novembre",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/raitre-programmi-di-martedi-10-novembre_652100a6-4a24-462f-b55f-8ac9c0966f55.html",
+   "description": "",
+   "pub_ts": 1794295244,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "All'asta da Christie's il manoscritto di 'I Have a Dream'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/allasta-da-christies-il-manoscritto-di-i-have-a-dream_26abeb7b-4bc4-461c-9a34-6a6eec5ac141.html",
-   "description": "La stima di partenza del documento è di oltre 10 milioni di dollari",
-   "pub_ts": 1794245705,
-   "source": "ANSA",
+   "title": "Torna Siae Music Awards, a Milano con Amadeus e Noemi",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/09/torna-siae-music-awards-a-milano-con-amadeus-e-noemi_084cfc45-3e47-4a8e-88a2-a38a6dda7640.html",
+   "description": "Il 21 novembre i premi alla creatività musicale",
+   "pub_ts": 1794286805,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
@@ -739,29 +712,20 @@
    "section": "varia"
   },
   {
-   "title": "In un giorno aggrediti 4 infermieri, fenomeno in aumento",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/08/in-un-giorno-aggrediti-4-infermieri-fenomeno-in-aumento_6f15e3a4-18c0-4616-a667-11380535228b.html",
-   "description": "Le violenze in Emilia Romagna e Veneto. Nursind: 'episodi alimentati da odio e diffidenza'",
-   "pub_ts": 1794216205,
+   "title": "Gemmato, 'riforma legislazione farmaceutica possibile grazie a stabilità governo'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/09/gemmato-riforma-legislazione-farmaceutica-possibile-grazie-a-stabilita-governo_52b9e48d-b07a-4b5a-b6ad-840076040d21.html",
+   "description": "'In settimana sarà conclusa l'analisi degli emendamenti'",
+   "pub_ts": 1794251966,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "È morto in ospedale il killer della strage di Cracovia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/e-morto-in-ospedale-il-killer-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
-   "description": "La Polonia in lutto e sotto shock, massima allerta per la festa dell'Indipendenza",
-   "pub_ts": 1794250177,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "cronaca"
-  },
-  {
-   "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi: i dati svelati dagli hacker",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/?rss",
-   "description": "I numeri segreti di Putin rubati dai bielorussi di Cyber Partisans e dagli ucraini di Silent Crow, che sono entrati nei computer dell’agenzia di statistica di Mosca Rosstat. Perlopiù i reclutati venivano dalle aree asiatiche. L’analisi di Bloomberg",
-   "pub_ts": 1794237540,
-   "source": "Repubblica Esteri",
+   "title": "Morto l'autore della strage di Cracovia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/morto-lautore-della-strage-di-cracovia_e9549940-6805-48d9-86aa-49a2166399c6.html",
+   "description": "Lo ha annunciato la polizia polacca",
+   "pub_ts": 1794297475,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "cronaca"
   }
