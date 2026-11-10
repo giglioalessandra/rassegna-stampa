@@ -1,6 +1,6 @@
 {
- "generated_at": 1794329715,
- "updated_at": 1794329715,
+ "generated_at": 1794348847,
+ "updated_at": 1794348847,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,27 +10,96 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Hegseth: 'Gli sforzi per il mio impeachment sono una farsa'",
-   "summary": "E' il suo primo faccia a faccia con i media dall'inizio di maggio",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/hegseth-terra-oggi-una-conferenza-stampa-dopo-la-richiesta-di-impeachment_2979584a-b939-48f3-bb33-2ca237fbebf5.html",
-   "pub_ts": 1794327873,
-   "n_sources": 9,
+   "title": "Israele, si insedia il Parlamento: chiesta commissione sul 7 ottobre. Scontro Eisenkot-Netanyahu",
+   "summary": "Bibi ha accusato il blocco del Cambiamento guidato dall’ex generale di voler formare un governo con “i nemici di Israele”. Durante l’inno israeliano i deputati arabi sono usciti dall’Aula, a eccezione di Abbas, presidente del Ràam, che è rimasto ma senza aprire bocca",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/israele_insedia_parlamento_chiesta_commissione_7_ottobre_scontro_eisenkot_netanyahu-425714039/?rss",
+   "pub_ts": 1794343380,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/hegseth-terra-oggi-una-conferenza-stampa-dopo-la-richiesta-di-impeachment_2979584a-b939-48f3-bb33-2ca237fbebf5.html",
-     "title": "Hegseth: 'Gli sforzi per il mio impeachment sono una farsa'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/11/news/israele_insedia_parlamento_chiesta_commissione_7_ottobre_scontro_eisenkot_netanyahu-425714039/?rss",
+     "title": "Israele, si insedia il Parlamento: chiesta commissione sul 7 ottobre. Scontro Eisenkot-Netanyahu"
     },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/10/israele-oltre-61-deputati-chiedono-rinnovo-presidente-knesset_57b41a01-c3de-4c23-837b-23f3a2965f32.html",
+     "title": "Israele, oltre 61 deputati chiedono rinnovo presidente Knesset"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/israele-scontro-eisenkot-netanyahu_6bKDvXaWixhwmLvTXw7zoa",
+     "title": "Israele, scontro Eisenkot-Netanyahu: \"Sue parole piene d'odio\". Annullato l'incontro con il Likud"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/11/news/israele_insedia_parlamento_chiesta_commissione_7_ottobre_scontro_eisenkot_netanyahu-425714039/",
+     "title": "Israele, si insedia il Parlamento: chiesta commissione sul 7 ottobre. Scontro Eisenkot-Netanyahu"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-iran-trump-incontra-al-thani-israele-eisenkot-difficile-accordo-gaza-inondazioni-d3a9ee0f-33cf-4aec-b7b4-f34939b8daa5.html",
+     "title": "Israele, si insedia il nuovo Parlamento: 61 deputati chiedono un nuovo presidente per la Knesset"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/10/knesset-insediamento-netanyahu-eisenkot-notizie/8567335/",
+     "title": "Israele, si insedia la nuova Knesset: 61 parlamentari chiedono il rinnovo del presidente. Scontro tra Netanyahu e Eisenkot, che annulla l’incontro con il Likud"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Zuppi, 'l'Europa contribuisca a ricerca della pace e a dialogo Russia e Ucraina'",
+   "summary": "Cardinale a convegno Politecnica Marche sulla \"Pace disarmata e disarmante\"",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/zuppi-leuropa-contribuisca-a-ricerca-della-pace-e-a-dialogo-russia-e-ucraina_a735c31d-8943-437b-a477-db3b58e278bd.html",
+   "pub_ts": 1794340865,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/zuppi-leuropa-contribuisca-a-ricerca-della-pace-e-a-dialogo-russia-e-ucraina_a735c31d-8943-437b-a477-db3b58e278bd.html",
+     "title": "Zuppi, 'l'Europa contribuisca a ricerca della pace e a dialogo Russia e Ucraina'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/ucraina_nuovi_colloqui_abu_dhabi_stati_uniti_trump-425711817/?rss",
+     "title": "Al via i nuovi colloqui ad Abu Dhabi, Trump: “L’Ucraina cambierà forma”"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-europa-e-usa-si-coordinano-prima-del-trilaterale-con-la-russia_3Vra0ytGwLFnrXA9hEeTAn",
+     "title": "Ucraina: Europa e Usa si coordinano prima del trilaterale con la Russia"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/ucraina-via-trilaterale-abu-dhabi-spiragli-un-ruolo-europeo-AJUoBrAC",
+     "title": "Ucraina, al via il trilaterale di Abu Dhabi. Spiragli per un ruolo europeo"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/diretta/guerra_ucraina_russia_news_oggi-425711987/",
+     "title": "Guerra Ucraina - Russia. Trilaterale ad Abu Dhabi durato 4 ore. Rubio: “Obiettivo europei al tavolo\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Hegseth sull’impeachment: “Una farsa, rifarei la guerra in Iran”. Trump: “10 e lode per come si è difeso”",
+   "summary": "Il capo del Pentagono parla in conferenza stampa dopo l’attacco dell’ex deputato repubblicano Massie: “Il conflitto con Teheran non necessariamente popolare ma giusto”",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/hegseth_impeachment_una_farsa_rifarei_guerra_iran-425713245/?rss",
+   "pub_ts": 1794329747,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/10/news/hegseth_impeachment_una_farsa_rifarei_guerra_iran-425713245/?rss",
      "title": "Hegseth sull’impeachment: “Una farsa, rifarei la guerra in Iran”. Trump: “10 e lode per come si è difeso”"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/10/pete-hegseth-contro-impeachment-trump-10-e-lode/",
-     "title": "«L’impeachment? Una farsa mossa dall’ego», Hegseth difende la guerra in Iran con la benedizione di Trump: «Merita un 10 e lode»"
     },
     {
      "name": "Rai News",
@@ -48,6 +117,65 @@
      "title": "Ira Hegseth: \"Il mio impeachment è una farsa e tutti lo sanno\". Poi l'attacco ai giornalisti"
     },
     {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/10/impeachment-hegseth-massie-pentagono-notizie/8567222/",
+     "title": "Usa, Pete Hegseth si difende dopo la richiesta di impeachment: “Una farsa. Orgoglioso della guerra in Iran, la rifarei”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump promuove Hegseth, '10 e lode per come si è difeso'",
+   "summary": "Parole del presidente dopo la conferenza stampa del capo del Pentagono",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/trump-promuove-hegseth-10-e-lode-per-come-si-e-difeso_4d93744a-168d-449b-aaf8-d513861dbf53.html",
+   "pub_ts": 1794339625,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/trump-promuove-hegseth-10-e-lode-per-come-si-e-difeso_4d93744a-168d-449b-aaf8-d513861dbf53.html",
+     "title": "Trump promuove Hegseth, '10 e lode per come si è difeso'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/impeachment-hegseth-usa-congresso-trump-hhyv1zj2",
+     "title": "Usa, otto capi d’accusa contro Pete Hegseth. Trump: «Merita 10 e lode»"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/09/impeachment-hegseth-massie/",
+     "title": "L’impeachment contro Pete Hegseth è un anticipo dei prossimi due anni"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/il-repubblicano-massie-formalizza-camera-mozione-impeachment-hegseth-AJTISoAC",
+     "title": "Il repubblicano Massie formalizza alla Camera una mozione per l’impeachment di Hegseth"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Hegseth in trincea, 'sabotaggio, contro di me una farsa politica'",
+   "summary": "Atteso il voto sull'impeachment. Trump per ora lo difende: 'E' da 10 e lode' WASHINGTON",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/hegseth-terra-oggi-una-conferenza-stampa-dopo-la-richiesta-di-impeachment_2979584a-b939-48f3-bb33-2ca237fbebf5.html",
+   "pub_ts": 1794337565,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/hegseth-terra-oggi-una-conferenza-stampa-dopo-la-richiesta-di-impeachment_2979584a-b939-48f3-bb33-2ca237fbebf5.html",
+     "title": "Hegseth in trincea, 'sabotaggio, contro di me una farsa politica'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/trump_difende_hegseth_dall_impeachment_ha_vinto_due_guerre_in_iran_e_venezuela-425711992/?rss",
+     "title": "Trump difende Hegseth dall’impeachment: “Ha vinto due guerre, in Iran e Venezuela”"
+    },
+    {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/wall-street-journal-gli-usa-spostano-gli-aerei-dalla-base-britannica-di-mildenhall-per-timore-di-un-attacco-iran-usa-mczefflv",
      "title": "Trump difende Hegseth sull’impeachment: “Ha vinto due guerre, in Iran e Venezuela”"
@@ -56,174 +184,65 @@
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/iran-trump-e-khamenei-passi-il-negoziato-impeachment-contro-hegseth-AJ2F0QAC",
      "title": "Iran, da Trump e Khamenei passi verso il negoziato. Impeachment contro Hegseth"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Mattarella difende l'indipendenza delle toghe, 'gli altri poteri non devono condizionarli'",
+   "summary": "Ai giovani magistrati chiede riservatezza e attenzione nell'uso dei social",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/mattarella-toghe-non-devono-avere-soggezione-di-tipo-gerarchico_e1de678a-708c-4d26-b7a5-f23e92faf14a.html",
+   "pub_ts": 1794336801,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/mattarella-toghe-non-devono-avere-soggezione-di-tipo-gerarchico_e1de678a-708c-4d26-b7a5-f23e92faf14a.html",
+     "title": "Mattarella difende l'indipendenza delle toghe, 'gli altri poteri non devono condizionarli'"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/09/impeachment-hegseth-massie/",
-     "title": "L’impeachment contro Pete Hegseth è un anticipo dei prossimi due anni"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/10/news/mattarella_magistrati_imparzialita_social_giustizia-425713679/",
+     "title": "Mattarella: “I magistrati non siano condizionati da altri poteri. No all’uso improprio dei social”"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/mattarella-i-magistrati-non-devono-essere-condizionati-da-altri-poteri-5ffc49c7-58c3-4e8b-9f8b-8d5c04ea7d02.html",
+     "title": "Mattarella: \"I magistrati non devono essere condizionati da altri poteri\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/10/mattarella-magistrati-condizionamenti-poteri-uso-improprio-social-notizie/8567383/",
+     "title": "Mattarella: “I magistrati non devono essere condizionati da altri poteri. Necessario evitare un uso improprio dei social”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Portavoce Ue: 'Presto per negoziati diretti Russia-Europa'. Rubio 'la strada è ancora lunga'",
-   "summary": "Nuovo round di colloqui oggi e domani sulla guerra in Ucraina ad Abu Dhabi. 'Usa mai contrari a colloqui diretti Europa-Russia'. Zelensky: 'colloqui costruttivi'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/rubio-plaude-ai-colloqui-di-pace-ad-abu-dhabi-sullucraina-ma-la-strada-e-ancora-lunga_22e143a9-4f98-46fe-97f9-b037c9f33370.html",
-   "pub_ts": 1794327655,
-   "n_sources": 6,
+   "title": "Iran, 'infondate accuse francesi relative al cyberattacco ai frigoriferi'",
+   "summary": "'Condanniamo fermamente questa politica di lanciare accuse contro la Repubblica Islamica'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/10/iran-infondate-accuse-francesi-relative-al-cyberattacco-ai-frigoriferi_2ea1c53e-2044-4d3b-8779-0199f478c9a6.html",
+   "pub_ts": 1794344069,
+   "n_sources": 3,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/rubio-plaude-ai-colloqui-di-pace-ad-abu-dhabi-sullucraina-ma-la-strada-e-ancora-lunga_22e143a9-4f98-46fe-97f9-b037c9f33370.html",
-     "title": "Portavoce Ue: 'Presto per negoziati diretti Russia-Europa'. Rubio 'la strada è ancora lunga'"
-    },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/10/rubio-bene-i-colloqui-ad-abu-dhabi-ma-la-strada-e-ancora-lunga_f2dbc31f-9413-43aa-a319-2d3d5dc11921.html",
-     "title": "Rubio, bene i colloqui ad Abu Dhabi ma la strada è ancora lunga"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/10/news/ucraina_nuovi_colloqui_abu_dhabi_stati_uniti_trump-425711817/?rss",
-     "title": "Al via i nuovi colloqui ad Abu Dhabi, Trump: “L’Ucraina cambierà forma”"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-negoziati-news-oggi-10-novembre-2026_6cKju7WJybrWDAKaSIMACn",
-     "title": "Ucraina, trilaterale con Russia e Usa ad Abu Dhabi. Rubio: \"Colloqui molto produttivi, obiettivo europei al tavolo\""
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/ucraina-via-trilaterale-abu-dhabi-spiragli-un-ruolo-europeo-AJUoBrAC",
-     "title": "Ucraina, al via il trilaterale di Abu Dhabi. Spiragli per un ruolo europeo"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/10/diretta/guerra_ucraina_russia_news_oggi-425711987/",
-     "title": "Guerra Ucraina - Russia. Finito round di negoziati. Rubio: l’obiettivo è avere gli europei al tavolo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Il caso del testo di storia, Valditara: 'Va ritirato'. Laterza: 'Un ministro non può chiederlo'",
-   "summary": "Nel manuale 'Trame del tempo 3', edito dalla casa editrice, si parla di 'misure liberticide del governo'. Scatta l'interrogazione di FdI",
-   "link": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/11/10/il-caso-del-testo-di-storia-valditara-va-ritirato.-laterza-un-ministro-non-puo_2cf61fda-f44f-41f1-9741-5904daff1e2b.html",
-   "pub_ts": 1794327629,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/11/10/il-caso-del-testo-di-storia-valditara-va-ritirato.-laterza-un-ministro-non-puo_2cf61fda-f44f-41f1-9741-5904daff1e2b.html",
-     "title": "Il caso del testo di storia, Valditara: 'Va ritirato'. Laterza: 'Un ministro non può chiederlo'"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/misure-liberticide-del-governo-torna-la-polemica-su-testo-di-storia_558bfcb8-8c67-4833-8684-8402d93f8fde.html",
-     "title": "'Misure liberticide del governo', torna la polemica su testo di storia"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/valditara-libro-scuole-laterza-manuale-storia-va-ritirato-governo-meloni-liberticida-d2d87iat",
-     "title": "Valditara sul manuale di storia Laterza: «Va ritirato». Il no dell’editore"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/scuola/2026/11/10/news/scontro_manuale_storia_laterza_valditara-425713365/",
-     "title": "Scontro sul manuale di storia, Valditara: “Va ritirato”. Laterza: “Un ministro non può censurare”"
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/10/iran-infondate-accuse-francesi-relative-al-cyberattacco-ai-frigoriferi_2ea1c53e-2044-4d3b-8779-0199f478c9a6.html",
+     "title": "Iran, 'infondate accuse francesi relative al cyberattacco ai frigoriferi'"
     },
     {
      "name": "Open",
-     "link": "https://www.open.online/2026/11/10/polemica-manuale-anti-meloni-valditara-bisogna-ritirarlo-alessandro-laterza/",
-     "title": "Valditara contro il manuale di storia “anti-Meloni”: «Indottrina gli studenti. Va ritirato». Ma Laterza frena il ministro: «Non accettiamo censure»"
+     "link": "https://www.open.online/2026/11/10/francia-iran-attacco-hacker-supermercati-frigoriferi/",
+     "title": "Cyberattacco ai supermercati? L’Iran nega tutto e se la ride: «La Francia impari a gestire i frigoriferi»"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/10/trame-tempo-valditara-laterza-meloni-notizie/8567129/",
-     "title": "“Governo Meloni ha una stretta relazione con la sua base fascista”: e Valditara chiede di ritirare il libro di storia. L’editore: “Inaccettabile”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Borghi, su decreto legge aiuti a Kiev per 2027 c'è contrarietà politica Lega",
-   "summary": "'Se non si è d'accordo alcuni provvedimenti non si fanno'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/borghi-su-decreto-legge-aiuti-a-kiev-per-2027-ce-contrarieta-politica-lega_d7d05cdc-905f-40ad-a85c-660fbba68464.html",
-   "pub_ts": 1794326627,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/borghi-su-decreto-legge-aiuti-a-kiev-per-2027-ce-contrarieta-politica-lega_d7d05cdc-905f-40ad-a85c-660fbba68464.html",
-     "title": "Borghi, su decreto legge aiuti a Kiev per 2027 c'è contrarietà politica Lega"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/10/news/armi_ucraina_governo_italia_scontro_lega_blocca-425711912/?rss",
-     "title": "Kiev, scontro nel governo su nuove armi: la Lega blocca la firma. Meloni chiama Giorgetti"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/10/news/copasir_aiuti_kiev_borghi_lega-425712391/",
-     "title": "Aiuti a Kiev al Copasir. Borghi (Lega): \"Mi aspetto una forte discontinuità\""
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-decreto-giorgetti-firma-tajani_2FyWMLxVW7tWCnv5T47KXA",
-     "title": "Ucraina, Tajani: \"Giorgetti firmerà pacchetto aiuti militari, nessun giallo\""
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/armi-ucraina-guerra-aiuti-tajani-manca-la-firma-di-giorgetti-al-decreto-mef-x7a0daj9",
-     "title": "Armi all’Ucraina, manca la firma di Giorgetti al decreto"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/10/aiuti-ucraina-borghi-2027-contrarieta-lega-salvini-video/8567201/",
-     "title": "Aiuti militari all’Ucraina, Borghi: “Su un nuovo pacchetto per il 2027 c’è la contrarietà politica della Lega. Salvini ha ricevuto questo mandato dal partito”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Viminale: 'Dagli hacker allarmi infondati per destabilizzare'",
-   "summary": "'L'obiettivo è incidere sulla reputazione delle istituzioni prese di mira'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/viminale-da-hacker-allarmi-infondati-per-destabilizzare_1954b38b-b9ef-455f-a1fe-36982da4234c.html",
-   "pub_ts": 1794322440,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/viminale-da-hacker-allarmi-infondati-per-destabilizzare_1954b38b-b9ef-455f-a1fe-36982da4234c.html",
-     "title": "Viminale: 'Dagli hacker allarmi infondati per destabilizzare'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/10/tajani-accuse-ambasciata-russa-propaganda-e-disinformatia_8156cfd4-e86c-4433-aab0-416b7d85ed84.html",
-     "title": "Tajani, accuse ambasciata russa? 'Propaganda e disinformatia'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/cybersicurezza-vertice-al-viminale-dagli-hacker-allarmi-infondati-per-destabilizzare-7ec05103-c03c-4e06-b35a-6733f3f0bcd3.html",
-     "title": "Cybersicurezza, vertice al Viminale: dagli hacker allarmi infondati per destabilizzare"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/cyberattacchi-ambasciata-russa-torna-a-schernire-italia_1kp4H6i4tyK9hBAM18Tj8G",
-     "title": "Cyberattacchi, la Russia torna a schernire l'Italia: \"Teatro tragicomico, messinscena per aiuti militari a Kiev\". Tajani: \"Propaganda e disinformatia\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/10/hacker-filorussi-tajani-ambasciata-russa-notizie/8567003/",
-     "title": "Botta e risposta tra l’ambasciata russa e Tajani: “Minaccia hacker? Show tragicomico per dare armi a Kiev”. Il ministro: “Propaganda”. Viminale: “Allarmi per destabilizzare”"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/09/francia-supermercati-accusa-iran/",
+     "title": "La Francia ha accusato l’Iran per gli attacchi informatici ai supermercati"
     }
    ]
   },
@@ -234,18 +253,13 @@
    "summary": "Lo riporta il Fatto.it. Si tratta di un post sul canale Telegram del gruppo 'No Name'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/nuove-minacce-dagli-hacker-filorussi-a-tajani-a-chi-e-nellalbo-donore-la-ricompensa_bf527e23-01e2-4c89-a347-62d26ac5382d.html",
    "pub_ts": 1794325126,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/nuove-minacce-dagli-hacker-filorussi-a-tajani-a-chi-e-nellalbo-donore-la-ricompensa_bf527e23-01e2-4c89-a347-62d26ac5382d.html",
      "title": "Nuove minacce dagli hacker filorussi a Tajani: 'A chi è nell'albo d'onore la ricompensa arriva'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_7ac25056-1510-46cf-998b-97dbec48cf0c.html",
-     "title": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'"
     },
     {
      "name": "la Repubblica",
@@ -261,114 +275,50 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Colloqui ad Abu Dhabi: chi fa parte dei team negoziali di Ucraina, Russia e Usa",
-   "summary": "Con la mediazione degli inviati americani Kushner e Witkoff, le due squadre si incontrano negli Emirati dopo nove mesi di stallo per porre fine alla guerra o almeno per provarci",
-   "link": "https://www.repubblica.it/esteri/2026/11/10/news/negoziati_abu_dhabi_chi_team_di_ucraina_russia_usa-425712605/?rss",
-   "pub_ts": 1794321478,
-   "n_sources": 4,
+   "area": "italia",
+   "title": "Caccia alla spia cinese che spaventa Nvidia",
+   "summary": "Una presunta agente di Pechino, una relazione con il fondatore del colosso dei chip e il sospetto di forniture finite in Cina. Il caso scuote Nvidia, tra indagini interne, cause degli azionisti e verifiche dell’Fbi",
+   "link": "https://www.rainews.it/video/2026/11/tg1-cina-spia-nvidia-f3f55fa2-0785-4869-a641-e57a29478806.html",
+   "pub_ts": 1794338520,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/10/news/negoziati_abu_dhabi_chi_team_di_ucraina_russia_usa-425712605/?rss",
-     "title": "Colloqui ad Abu Dhabi: chi fa parte dei team negoziali di Ucraina, Russia e Usa"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/tg1-cina-spia-nvidia-f3f55fa2-0785-4869-a641-e57a29478806.html",
+     "title": "Caccia alla spia cinese che spaventa Nvidia"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/10/colloqui-ucraina-abu-dhabi-italia-russia-usa/",
-     "title": "Ucraina, prima giornata di colloqui ad Abu Dhabi: Rubio: «Molto produttivi». Media: «Verso un maxi-scambio di prigionieri»"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/10/nvidia-indagini-jensen-huang/",
+     "title": "Trump dice che sulla relazione tra il CEO di Nvidia e una presunta spia cinese indaga anche l’FBI"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-russia-negoziati-abu-dhabi-paesi-ue-ultime-notizie-oggi-10-novembre-hocqx9zh",
-     "title": "Conclusa la prima giornata di negoziati tra Mosca e Kiev ad Abu Dhabi. Rubio: «Sono stati produttivi»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/10/news/negoziati_abu_dhabi_chi_team_di_ucraina_russia_usa-425712605/",
-     "title": "Colloqui ad Abu Dhabi: chi fa parte dei team negoziali di Ucraina, Russia e Usa"
+     "link": "https://www.editorialedomani.it/politica/mondo/nvidia-jensen-huang-amante-spia-cinese-scandalo-wh1ee99c",
+     "title": "«L’amante era una spia cinese», così il capo di Nvidia prova a resistere allo scandalo"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "'Rafforzare il monitoraggio dei sistemi di sicurezza vulnerabili dopo gli attacchi hacker'",
-   "summary": "La decisione del Comitato nazionale riunito al Viminale, 'Dagli hacker allarmi infondati per destabilizzare'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/rafforzare-il-monitoraggio-dei-sistemi-di-sicurezza-vulnerabili-dopo-gli-attacchi-hacker_a69e29d7-22a9-40af-b259-21470a0b0e46.html",
-   "pub_ts": 1794324009,
-   "n_sources": 3,
+   "area": "italia",
+   "title": "Il Change Bloc trova i numeri con gli arabi alla Knesset, ma è rebus governo",
+   "summary": "Intesa su Kahana alla presidenza. L'ira di Netanyahu, Eisenkot annulla incontro col Likud",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/media-abbas-verso-riconoscimento-di-hamas-come-gruppo-terroristico_9fa547ca-d8a3-4c82-b3d9-db39b7a90e19.html",
+   "pub_ts": 1794342054,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/rafforzare-il-monitoraggio-dei-sistemi-di-sicurezza-vulnerabili-dopo-gli-attacchi-hacker_a69e29d7-22a9-40af-b259-21470a0b0e46.html",
-     "title": "'Rafforzare il monitoraggio dei sistemi di sicurezza vulnerabili dopo gli attacchi hacker'"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
-     "title": "Attacchi hacker, martedì al Viminale un vertice su falle e contromisure"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/10/news/viminale_attacchi_hacker_misure_sicurezza-425713150/",
-     "title": "Hacker, il Viminale: “Attacchi mirano a destabilizzare”. Rafforzare le difese di Asl e Comuni"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Harry e Meghan al Parlamento Ue per inaugurare una mostra sulla tutela dei minori",
-   "summary": "L'evento rende omaggio alle giovani vittime dei social media",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/10/harry-e-meghan-al-parlamento-ue-per-inaugurare-una-mostra-sulla-tutela-dei_15001de4-92cf-437b-bd2c-cc96e5851dc4.html",
-   "pub_ts": 1794319680,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/10/harry-e-meghan-al-parlamento-ue-per-inaugurare-una-mostra-sulla-tutela-dei_15001de4-92cf-437b-bd2c-cc96e5851dc4.html",
-     "title": "Harry e Meghan al Parlamento Ue per inaugurare una mostra sulla tutela dei minori"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/10/news/harry_meghan_parlamento_europeo_lei_rinuncia_discorso_dopo_arresto_padre-425712344/?rss",
-     "title": "Harry e Meghan al Parlamento europeo, lei rinuncia al discorso dopo l’arresto del padre"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/windsor-harry-e-meghan-i-social-non-sono-piu-affidabili-appello-per-proteggere-i-minori-parlamento-europeo-aaaa09cb-b9ab-4cf0-b114-2abf51c0cecc.html",
-     "title": "Harry e Meghan al Parlamento europeo: \"I social non sono più affidabili\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”",
-   "summary": "La procura emette un mandato internazionale contro i capi del gruppo iraniano Shadid Kaveh, legato ai pasdaran. Il ministro degli Esteri francese: “Prepariamo sanzioni europee”. Convocato l’ambasciatore. Tajani: “Le azioni ibride in Italia sono di hacker filorussi”",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/?rss",
-   "pub_ts": 1794258675,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/?rss",
-     "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/media-abbas-verso-riconoscimento-di-hamas-come-gruppo-terroristico_9fa547ca-d8a3-4c82-b3d9-db39b7a90e19.html",
+     "title": "Il Change Bloc trova i numeri con gli arabi alla Knesset, ma è rebus governo"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/francia-apre-inchiesta-ipotesi-mano-iran-dietro-gli-hacker-dei_de65c382-657a-4efa-8666-9ff0e05b25d1.html",
-     "title": "Parigi accusa: 'C'è Teheran dietro agli attacchi ai frigoriferi'"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/attacchi-ai-frigoriferi-ce-un-gruppo-sospettato-la-pista-porta-ai-pasdaran-in-iran/",
-     "title": "Attacchi ai frigoriferi, c’è un gruppo sospettato: la pista porta ai pasdaran in Iran"
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/10/israele-leader-change-bloc-annunciano-nomina-concordata-per-presidenza-knesset_ecc6bd25-15d0-4a59-ba7b-43f71b629d34.html",
+     "title": "Israele, leader Change Bloc annunciano nomina concordata per presidenza Knesset"
     }
    ]
   },
@@ -378,8 +328,8 @@
    "title": "Perché Nvidia non può permettersi di sostituire Jensen Huang",
    "summary": "Lo scandalo che coinvolge il CEO dell’azienda simbolo dei chip per l’IA, dopo la relazione extraconiugale con una donna sospettata di avere legami con l’intelligence cinese, ha aperto una crisi che va molto oltre la sua vita privata. Allontanare Huang, o anche solo...",
    "link": "https://www.repubblica.it/tecnologia/2026/11/10/news/nvidia-jensen-huang-successione-ceo-rischi-425712946/?rss",
-   "pub_ts": 1794319057,
-   "n_sources": 5,
+   "pub_ts": 1794337205,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
@@ -391,6 +341,11 @@
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_49da11e9-c79f-40ef-a75a-8010e50e9561.html",
      "title": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/10/nvidia-azionisti-causa-jensen-huang-relazione-spia-cinese/",
+     "title": "Nvidia, tonfo in Borsa: bruciati oltre 400 miliardi. Ora gli azionisti chiedono i danni a Jensen Huang"
     },
     {
      "name": "Punto Informatico",
@@ -463,30 +418,30 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Cop31, la sfida dell’elettrico per salvare il clima. Focus sui data center",
-   "summary": "Il dossier",
-   "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_temi_sfida_elettrico_clima_data_center-425711373/?rss",
-   "pub_ts": 1794315742,
+   "title": "Nuove ombre su Russel Brand dopo condanna per stupro, ex fidanzata l'accusa",
+   "summary": "A 12 anni di distanza Jemima Goldsmith denuncia relazione tossica e prevaricazioni",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/10/nuove-ombre-su-russel-brand-dopo-condanna-per-stupro-ex-fidanzata-laccusa_d558d001-79e4-4500-b850-3c1c482eca39.html",
+   "pub_ts": 1794305140,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_temi_sfida_elettrico_clima_data_center-425711373/?rss",
-     "title": "Cop31, la sfida dell’elettrico per salvare il clima. Focus sui data center"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/10/nuove-ombre-su-russel-brand-dopo-condanna-per-stupro-ex-fidanzata-laccusa_d558d001-79e4-4500-b850-3c1c482eca39.html",
+     "title": "Nuove ombre su Russel Brand dopo condanna per stupro, ex fidanzata l'accusa"
     },
     {
-     "name": "Repubblica Ambiente",
-     "link": "https://www.repubblica.it/green-and-blue/dossier/cop31/2026/11/10/news/greta_thunberg_antalya-425712800/?rss",
-     "title": "Il ritorno di Greta alla Cop31: una nuova battaglia fra clima e data center"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/10/processo-russell-brand/",
+     "title": "La condanna per stupro a Russell Brand"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_temi_sfida_elettrico_clima_data_center-425711373/",
-     "title": "Cop31, la sfida dell’elettrico per salvare il clima. Focus sui data center"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/regno-unito-russell-brand-condannato-oltre-10-anni-stupro-e-aggressioni-sessuali-AJBX8PAC",
+     "title": "Regno Unito: Russell Brand condannato a oltre 10 anni per stupro e aggressioni sessuali"
     }
    ],
-   "subtype": "scienza"
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -514,48 +469,25 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Avventure inaspettate e complicità di coppia, 'l'Italia per due' di Caressa e Parodi",
-   "summary": "Dal 16 novembre, dal lunedì al venerdì alle 20.30, in prima tv assoluta su Tv8",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/10/avventure-inaspettate-e-complicita-di-coppia-litalia-per-due-di-caressa-e-parodi_c64f6d27-9d3f-4e42-b15d-01369930a1cb.html",
-   "pub_ts": 1794321760,
+   "title": "Cop31, la sfida dell’elettrico per salvare il clima. Focus sui data center",
+   "summary": "Il dossier",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_temi_sfida_elettrico_clima_data_center-425711373/?rss",
+   "pub_ts": 1794315742,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/10/avventure-inaspettate-e-complicita-di-coppia-litalia-per-due-di-caressa-e-parodi_c64f6d27-9d3f-4e42-b15d-01369930a1cb.html",
-     "title": "Avventure inaspettate e complicità di coppia, 'l'Italia per due' di Caressa e Parodi"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_temi_sfida_elettrico_clima_data_center-425711373/?rss",
+     "title": "Cop31, la sfida dell’elettrico per salvare il clima. Focus sui data center"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/10/dopo-30-anni-di-matrimonio-ci-siamo-ritrovati-al-ballo-del-gattopardo-vorremmo-viaggiare-con-i-nostri-figli-in-cina-e-india-cosi-benedetta-parodi-e-fabio-caressa/8567054/",
-     "title": "“Dopo 30 anni di matrimonio ci siamo ritrovati su un go-kart e al ballo del Gattopardo. Vorremmo viaggiare con i nostri figli in Cina e India”: Benedetta Parodi e Fabio Caressa scoprono l’Italia"
+     "name": "Repubblica Ambiente",
+     "link": "https://www.repubblica.it/green-and-blue/dossier/cop31/2026/11/10/news/greta_thunberg_antalya-425712800/?rss",
+     "title": "Il ritorno di Greta alla Cop31: una nuova battaglia fra clima e data center"
     }
    ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Forbes, Paul McCartney entra nel club dei miliardari",
-   "summary": "Al terzo posto tra i musicisti dopo Jay-Z e Taylor Swift",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/10/forbes-paul-mccartney-entra-nel-club-dei-miliardari_4ad3bff7-83e2-4f31-abde-528c1faccdc3.html",
-   "pub_ts": 1794319742,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/10/forbes-paul-mccartney-entra-nel-club-dei-miliardari_4ad3bff7-83e2-4f31-abde-528c1faccdc3.html",
-     "title": "Forbes, Paul McCartney entra nel club dei miliardari"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/10/paul-mccartney-e-un-vero-paperon-de-paperoni-con-un-patrimonio-di-1-4-miliardi-di-dollari-prima-di-lui-ci-sono-solo-jay-z-e-taylor-swift-lo-annuncia-forbes/8567024/",
-     "title": "Paul McCartney è un vero Paperon de’ Paperoni con un patrimonio di 1.4 miliardi di dollari. Prima di lui ci sono “solo” Jay-Z e Taylor Swift. Lo annuncia Forbes"
-    }
-   ],
-   "subtype": "cultura"
+   "subtype": "scienza"
   },
   {
    "category": "varia",
@@ -581,76 +513,90 @@
    "subtype": "scienza"
   },
   {
-   "category": "cronaca",
+   "category": "varia",
    "area": null,
-   "title": "Grave incidente a catena in Bulgaria: almeno 10 i morti",
-   "summary": "L’incidente sull’autostrada Trakia vicino a Yambol, nel sud-est del Paese",
-   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/10/grave-incidente-a-catena-in-bulgaria-almeno-10-i-morti_78ce0ae2-8533-45ce-b23b-714355459e7a.html",
-   "pub_ts": 1794324480,
-   "n_sources": 3,
+   "title": "L'Italia in Messico con 58 autori per la Fiera del Libro di Guadalajara",
+   "summary": "Obiettivo mercato ispanofono per l'industria editoriale",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/10/litalia-in-messico-con-58-autori-per-la-fiera-del-libro-di-guadalajara_959111b2-7671-4d76-bd81-ffa5cf084469.html",
+   "pub_ts": 1794271678,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/10/grave-incidente-a-catena-in-bulgaria-almeno-10-i-morti_78ce0ae2-8533-45ce-b23b-714355459e7a.html",
-     "title": "Grave incidente a catena in Bulgaria: almeno 10 i morti"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/10/litalia-in-messico-con-58-autori-per-la-fiera-del-libro-di-guadalajara_959111b2-7671-4d76-bd81-ffa5cf084469.html",
+     "title": "L'Italia in Messico con 58 autori per la Fiera del Libro di Guadalajara"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/bulgaria-maxi-tamponamento-nella-nebbia-almeno-11-morti-e-50-feriti-bd524635-c37d-43ee-866e-1f35666f5ea6.html",
-     "title": "Bulgaria, maxi tamponamento nella nebbia: almeno 11 morti e 50 feriti"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/bulgaria-incidente-autostrada-tamponamento_13Jdzce0ogjGrYiwGXHJQ",
-     "title": "Bulgaria, maxi tamponamento in autostrada: 11 morti e 48 feriti"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/litalia-in-messico-con-58-autori-per-la-fiera-del-libro-di-guadalajara_14377f18-184f-46d8-8cdc-18a4c26ce783.html",
+     "title": "L'Italia in Messico con 58 autori per la Fiera del Libro di Guadalajara"
     }
-   ]
+   ],
+   "subtype": "cultura"
   }
  ],
  "articles": [
   {
-   "title": "Hegseth: 'Gli sforzi per il mio impeachment sono una farsa'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/hegseth-terra-oggi-una-conferenza-stampa-dopo-la-richiesta-di-impeachment_2979584a-b939-48f3-bb33-2ca237fbebf5.html",
-   "description": "E' il suo primo faccia a faccia con i media dall'inizio di maggio",
-   "pub_ts": 1794327873,
-   "source": "ANSA Mondo",
+   "title": "Israele, si insedia il Parlamento: chiesta commissione sul 7 ottobre. Scontro Eisenkot-Netanyahu",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/israele_insedia_parlamento_chiesta_commissione_7_ottobre_scontro_eisenkot_netanyahu-425714039/?rss",
+   "description": "Bibi ha accusato il blocco del Cambiamento guidato dall’ex generale di voler formare un governo con “i nemici di Israele”. Durante l’inno israeliano i deputati arabi sono usciti dall’Aula, a eccezione di Abbas, presidente del Ràam, che è rimasto ma senza aprire bocca",
+   "pub_ts": 1794343380,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Portavoce Ue: 'Presto per negoziati diretti Russia-Europa'. Rubio 'la strada è ancora lunga'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/rubio-plaude-ai-colloqui-di-pace-ad-abu-dhabi-sullucraina-ma-la-strada-e-ancora-lunga_22e143a9-4f98-46fe-97f9-b037c9f33370.html",
-   "description": "Nuovo round di colloqui oggi e domani sulla guerra in Ucraina ad Abu Dhabi. 'Usa mai contrari a colloqui diretti Europa-Russia'. Zelensky: 'colloqui costruttivi'",
-   "pub_ts": 1794327655,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il caso del testo di storia, Valditara: 'Va ritirato'. Laterza: 'Un ministro non può chiederlo'",
-   "link": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/11/10/il-caso-del-testo-di-storia-valditara-va-ritirato.-laterza-un-ministro-non-puo_2cf61fda-f44f-41f1-9741-5904daff1e2b.html",
-   "description": "Nel manuale 'Trame del tempo 3', edito dalla casa editrice, si parla di 'misure liberticide del governo'. Scatta l'interrogazione di FdI",
-   "pub_ts": 1794327629,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Borghi, su decreto legge aiuti a Kiev per 2027 c'è contrarietà politica Lega",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/borghi-su-decreto-legge-aiuti-a-kiev-per-2027-ce-contrarieta-politica-lega_d7d05cdc-905f-40ad-a85c-660fbba68464.html",
-   "description": "'Se non si è d'accordo alcuni provvedimenti non si fanno'",
-   "pub_ts": 1794326627,
+   "title": "Zuppi, 'l'Europa contribuisca a ricerca della pace e a dialogo Russia e Ucraina'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/zuppi-leuropa-contribuisca-a-ricerca-della-pace-e-a-dialogo-russia-e-ucraina_a735c31d-8943-437b-a477-db3b58e278bd.html",
+   "description": "Cardinale a convegno Politecnica Marche sulla \"Pace disarmata e disarmante\"",
+   "pub_ts": 1794340865,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Viminale: 'Dagli hacker allarmi infondati per destabilizzare'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/viminale-da-hacker-allarmi-infondati-per-destabilizzare_1954b38b-b9ef-455f-a1fe-36982da4234c.html",
-   "description": "'L'obiettivo è incidere sulla reputazione delle istituzioni prese di mira'",
-   "pub_ts": 1794322440,
-   "source": "ANSA Cronaca",
+   "title": "Hegseth sull’impeachment: “Una farsa, rifarei la guerra in Iran”. Trump: “10 e lode per come si è difeso”",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/hegseth_impeachment_una_farsa_rifarei_guerra_iran-425713245/?rss",
+   "description": "Il capo del Pentagono parla in conferenza stampa dopo l’attacco dell’ex deputato repubblicano Massie: “Il conflitto con Teheran non necessariamente popolare ma giusto”",
+   "pub_ts": 1794329747,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump promuove Hegseth, '10 e lode per come si è difeso'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/trump-promuove-hegseth-10-e-lode-per-come-si-e-difeso_4d93744a-168d-449b-aaf8-d513861dbf53.html",
+   "description": "Parole del presidente dopo la conferenza stampa del capo del Pentagono",
+   "pub_ts": 1794339625,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Hegseth in trincea, 'sabotaggio, contro di me una farsa politica'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/hegseth-terra-oggi-una-conferenza-stampa-dopo-la-richiesta-di-impeachment_2979584a-b939-48f3-bb33-2ca237fbebf5.html",
+   "description": "Atteso il voto sull'impeachment. Trump per ora lo difende: 'E' da 10 e lode' WASHINGTON",
+   "pub_ts": 1794337565,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Mattarella difende l'indipendenza delle toghe, 'gli altri poteri non devono condizionarli'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/mattarella-toghe-non-devono-avere-soggezione-di-tipo-gerarchico_e1de678a-708c-4d26-b7a5-f23e92faf14a.html",
+   "description": "Ai giovani magistrati chiede riservatezza e attenzione nell'uso dei social",
+   "pub_ts": 1794336801,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Iran, 'infondate accuse francesi relative al cyberattacco ai frigoriferi'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/10/iran-infondate-accuse-francesi-relative-al-cyberattacco-ai-frigoriferi_2ea1c53e-2044-4d3b-8779-0199f478c9a6.html",
+   "description": "'Condanniamo fermamente questa politica di lanciare accuse contro la Repubblica Islamica'",
+   "pub_ts": 1794344069,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -664,38 +610,20 @@
    "section": "politica"
   },
   {
-   "title": "Colloqui ad Abu Dhabi: chi fa parte dei team negoziali di Ucraina, Russia e Usa",
-   "link": "https://www.repubblica.it/esteri/2026/11/10/news/negoziati_abu_dhabi_chi_team_di_ucraina_russia_usa-425712605/?rss",
-   "description": "Con la mediazione degli inviati americani Kushner e Witkoff, le due squadre si incontrano negli Emirati dopo nove mesi di stallo per porre fine alla guerra o almeno per provarci",
-   "pub_ts": 1794321478,
-   "source": "Repubblica Esteri",
+   "title": "Caccia alla spia cinese che spaventa Nvidia",
+   "link": "https://www.rainews.it/video/2026/11/tg1-cina-spia-nvidia-f3f55fa2-0785-4869-a641-e57a29478806.html",
+   "description": "Una presunta agente di Pechino, una relazione con il fondatore del colosso dei chip e il sospetto di forniture finite in Cina. Il caso scuote Nvidia, tra indagini interne, cause degli azionisti e verifiche dell’Fbi",
+   "pub_ts": 1794338520,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "'Rafforzare il monitoraggio dei sistemi di sicurezza vulnerabili dopo gli attacchi hacker'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/rafforzare-il-monitoraggio-dei-sistemi-di-sicurezza-vulnerabili-dopo-gli-attacchi-hacker_a69e29d7-22a9-40af-b259-21470a0b0e46.html",
-   "description": "La decisione del Comitato nazionale riunito al Viminale, 'Dagli hacker allarmi infondati per destabilizzare'",
-   "pub_ts": 1794324009,
+   "title": "Il Change Bloc trova i numeri con gli arabi alla Knesset, ma è rebus governo",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/media-abbas-verso-riconoscimento-di-hamas-come-gruppo-terroristico_9fa547ca-d8a3-4c82-b3d9-db39b7a90e19.html",
+   "description": "Intesa su Kahana alla presidenza. L'ira di Netanyahu, Eisenkot annulla incontro col Likud",
+   "pub_ts": 1794342054,
    "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Harry e Meghan al Parlamento Ue per inaugurare una mostra sulla tutela dei minori",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/10/harry-e-meghan-al-parlamento-ue-per-inaugurare-una-mostra-sulla-tutela-dei_15001de4-92cf-437b-bd2c-cc96e5851dc4.html",
-   "description": "L'evento rende omaggio alle giovani vittime dei social media",
-   "pub_ts": 1794319680,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/?rss",
-   "description": "La procura emette un mandato internazionale contro i capi del gruppo iraniano Shadid Kaveh, legato ai pasdaran. Il ministro degli Esteri francese: “Prepariamo sanzioni europee”. Convocato l’ambasciatore. Tajani: “Le azioni ibride in Italia sono di hacker filorussi”",
-   "pub_ts": 1794258675,
-   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -703,7 +631,7 @@
    "title": "Perché Nvidia non può permettersi di sostituire Jensen Huang",
    "link": "https://www.repubblica.it/tecnologia/2026/11/10/news/nvidia-jensen-huang-successione-ceo-rischi-425712946/?rss",
    "description": "Lo scandalo che coinvolge il CEO dell’azienda simbolo dei chip per l’IA, dopo la relazione extraconiugale con una donna sospettata di avere legami con l’intelligence cinese, ha aperto una crisi che va molto oltre la sua vita privata. Allontanare Huang, o anche solo...",
-   "pub_ts": 1794319057,
+   "pub_ts": 1794337205,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
@@ -736,11 +664,11 @@
    "section": "tech"
   },
   {
-   "title": "Cop31, la sfida dell’elettrico per salvare il clima. Focus sui data center",
-   "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_temi_sfida_elettrico_clima_data_center-425711373/?rss",
-   "description": "Il dossier",
-   "pub_ts": 1794315742,
-   "source": "Repubblica Esteri",
+   "title": "Nuove ombre su Russel Brand dopo condanna per stupro, ex fidanzata l'accusa",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/10/nuove-ombre-su-russel-brand-dopo-condanna-per-stupro-ex-fidanzata-laccusa_d558d001-79e4-4500-b850-3c1c482eca39.html",
+   "description": "A 12 anni di distanza Jemima Goldsmith denuncia relazione tossica e prevaricazioni",
+   "pub_ts": 1794305140,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
@@ -754,20 +682,11 @@
    "section": "varia"
   },
   {
-   "title": "Avventure inaspettate e complicità di coppia, 'l'Italia per due' di Caressa e Parodi",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/10/avventure-inaspettate-e-complicita-di-coppia-litalia-per-due-di-caressa-e-parodi_c64f6d27-9d3f-4e42-b15d-01369930a1cb.html",
-   "description": "Dal 16 novembre, dal lunedì al venerdì alle 20.30, in prima tv assoluta su Tv8",
-   "pub_ts": 1794321760,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Forbes, Paul McCartney entra nel club dei miliardari",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/10/forbes-paul-mccartney-entra-nel-club-dei-miliardari_4ad3bff7-83e2-4f31-abde-528c1faccdc3.html",
-   "description": "Al terzo posto tra i musicisti dopo Jay-Z e Taylor Swift",
-   "pub_ts": 1794319742,
-   "source": "ANSA Cultura",
+   "title": "Cop31, la sfida dell’elettrico per salvare il clima. Focus sui data center",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/cop31_temi_sfida_elettrico_clima_data_center-425711373/?rss",
+   "description": "Il dossier",
+   "pub_ts": 1794315742,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "varia"
   },
@@ -781,13 +700,13 @@
    "section": "varia"
   },
   {
-   "title": "Grave incidente a catena in Bulgaria: almeno 10 i morti",
-   "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/10/grave-incidente-a-catena-in-bulgaria-almeno-10-i-morti_78ce0ae2-8533-45ce-b23b-714355459e7a.html",
-   "description": "L’incidente sull’autostrada Trakia vicino a Yambol, nel sud-est del Paese",
-   "pub_ts": 1794324480,
-   "source": "ANSA",
+   "title": "L'Italia in Messico con 58 autori per la Fiera del Libro di Guadalajara",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/10/litalia-in-messico-con-58-autori-per-la-fiera-del-libro-di-guadalajara_959111b2-7671-4d76-bd81-ffa5cf084469.html",
+   "description": "Obiettivo mercato ispanofono per l'industria editoriale",
+   "pub_ts": 1794271678,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "cronaca"
+   "section": "varia"
   }
  ]
 }
