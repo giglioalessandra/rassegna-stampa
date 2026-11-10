@@ -1,6 +1,6 @@
 {
- "generated_at": 1794239514,
- "updated_at": 1794239514,
+ "generated_at": 1794269034,
+ "updated_at": 1794269034,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,282 +10,180 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Francia, il campione olimpico di judo Teddy Riner si candida alle presidenziali",
-   "summary": "'Mi candido per unire il Paese. Voglio dimostrare che la Francia può rialzarsi'. Le Pen e Mélenchon continuano a crescere nei sondaggi per l'Eliseo. In calo i candidati di centrodestra e centrosinistra Edouard Philippe e Raphael Glucksmann",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/francia-il-campione-olimpico-di-judo-teddy-riner-si-candida-alle-presidenziali_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
-   "pub_ts": 1794238070,
-   "n_sources": 6,
+   "title": "Trump difende Hegseth dall’impeachment: “Ha vinto due guerre, in Iran e Venezuela”",
+   "summary": "Il deputato repubblicano Thomas Massie, dissidente e uscente, ha ripresentato gli otto capi d'accusa, avviando il meccanismo che potrebbe portare ad un voto nella Camera entro due giorni",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/trump_difende_hegseth_dall_impeachment_ha_vinto_due_guerre_in_iran_e_venezuela-425711992/?rss",
+   "pub_ts": 1794268397,
+   "n_sources": 9,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/francia-il-campione-olimpico-di-judo-teddy-riner-si-candida-alle-presidenziali_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
-     "title": "Francia, il campione olimpico di judo Teddy Riner si candida alle presidenziali"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/10/news/trump_difende_hegseth_dall_impeachment_ha_vinto_due_guerre_in_iran_e_venezuela-425711992/?rss",
+     "title": "Trump difende Hegseth dall’impeachment: “Ha vinto due guerre, in Iran e Venezuela”"
     },
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/francia_judo_teddy_riner_in_corsa_per_l_eliseo-425710733/?rss",
-     "title": "Francia, in corsa per l’Eliseo anche la leggenda del judo Teddy Riner: “Lottiamo uniti”"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/da-un-deputato-gop-limpeachment-di-hegseth-ma-trump-lo-difende_3d87a61b-9723-4cbb-837a-60826be1273b.html",
+     "title": "Da un deputato Gop l'impeachment di Hegseth, ma Trump lo difende"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/il-campione-olimpico-di-judo-teddy-riner-si-candida-alle-presidenziali-francesi_7962b92a-c148-4a57-a478-6b01af36e89c.html",
-     "title": "Il campione olimpico di judo Teddy Riner si candida alle presidenziali francesi"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/francia_judo_teddy_riner_in_corsa_per_l_eliseo-425710733/",
-     "title": "Francia, in corsa per l’Eliseo anche la leggenda del judo Teddy Riner: “Lottiamo uniti”"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-continua-a-difendere-hegseth-ha-vinto-la-guerra-in-iran-e-venezuela_f73869c9-d65c-42e3-997c-0fcf53feacd5.html",
+     "title": "Trump continua a difendere Hegseth, 'ha vinto la guerra in Iran e Venezuela'"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/09/teddy-riner-candidato-elezioni-presidenziali-francia-2027/",
-     "title": "Il campione olimpico francese di judo Teddy Riner si è candidato alle elezioni presidenziali del 2027"
+     "link": "https://www.ilpost.it/2026/11/09/impeachment-hegseth-massie/",
+     "title": "Negli Stati Uniti un deputato Repubblicano ha avviato una procedura di impeachment contro il segretario alla Difesa Pete Hegseth"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/teddy-riner-campione-olimpico-di-judo-in-corsa-per-leliseo-2027-266a4027-3957-47ab-bea9-5b25f3604d0d.html",
-     "title": "Teddy Riner, campione olimpico di judo, in corsa per l'Eliseo 2027"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/09/pete-hegseth-chiesto-impeachment-deputato-gop-guerra-iran/",
+     "title": "Pete Hegseth a rischio, chiesto l’impeachment per il ministro della Guerra di Trump da un repubblicano: le accuse di «gravi reati e illeciti»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/usa-hegseth-impeachment-richiesta-deputato-repubblicano-massie_37un7ogNPzqcIkzahqPILk",
+     "title": "Richiesta di impeachment per Hagseth presentata da un deputato repubblicano"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/impeachment_pete_hegseth_deputato_repubblicano_thomas_massie-425711672/",
+     "title": "Stati Uniti, richiesta di impeachment per Hegseth: a presentarla è un deputato repubblicano"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/il-repubblicano-massie-formalizza-camera-mozione-impeachment-hegseth-AJTISoAC",
+     "title": "Il repubblicano Massie formalizza alla Camera una mozione per l’impeachment di Hegseth"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/09/impeachment-hegseth-massie-congresso-notizie/8566290/",
+     "title": "Il capo del Pentagono Pete Hegseth in bilico: il deputato repubblicano Massie formalizza la richiesta di impeachment"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Israele, che cosa può cambiare per Gaza con il governo Eisenkot",
-   "summary": "Nessuna svolta in vista sulla Striscia rispetto a Netanyahu. Mentre ci saranno alcune differenze sulla Cisgiordania, l’Iran e soprattutto sulla giustizia e la commissione per il 7 ottobre",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/israele_che_cosa_puo_cambiare_per_gaza_con_il_governo_eisenkot-425709805/?rss",
-   "pub_ts": 1794231840,
+   "title": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'",
+   "summary": "'Non so se dietro ci sia Mosca, ma certamente avvengono con un coordinamento'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_7ac25056-1510-46cf-998b-97dbec48cf0c.html",
+   "pub_ts": 1794265666,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_7ac25056-1510-46cf-998b-97dbec48cf0c.html",
+     "title": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/g7-cyberattacchi-europa-ucraina-guerra-ibrida-tajani_8yKi5SihZskY3cMYu0xSm",
+     "title": "G7, Tajani invoca unità contro guerra ibrida: tra hacker filo-russi e accuse della Francia all'Iran"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/cyber-attacchi-hacker-francia-accusa-iran-italia-filorussi-coordinamento-europa-guerra-ibrida-u6rv8ctf",
+     "title": "La Francia accusa l’Iran, l’Italia i filorussi, Tajani: «C’è un coordinamento tra hacker»"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/",
+     "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/09/attacchi-hacker-ai-frigoriferi-la-francia-indaga-su-un-gruppo-legato-ai-pasdaran-iraniani/8566029/",
+     "title": "Attacchi hacker ai frigoriferi, la Francia indaga su un gruppo legato ai Pasdaran iraniani. Tajani: “In Italia opera di filorussi”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”",
+   "summary": "La procura emette un mandato internazionale contro i capi del gruppo iraniano Shadid Kaveh, legato ai pasdaran. Il ministro degli Esteri francese: “Prepariamo sanzioni europee”. Convocato l’ambasciatore. Tajani: “Le azioni ibride in Italia sono di hacker filorussi”",
+   "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/?rss",
+   "pub_ts": 1794258675,
    "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/israele_che_cosa_puo_cambiare_per_gaza_con_il_governo_eisenkot-425709805/?rss",
-     "title": "Israele, che cosa può cambiare per Gaza con il governo Eisenkot"
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/?rss",
+     "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/francia-apre-inchiesta-ipotesi-mano-iran-dietro-gli-hacker-dei_de65c382-657a-4efa-8666-9ff0e05b25d1.html",
+     "title": "Parigi accusa: 'C'è Teheran dietro agli attacchi ai frigoriferi'"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-incarico-eisenkot-apre-alle-destre-momento-critico-gaza-iran-italiani-espulsi-cisgiordania-violenze-fisiche-e51e166f-2fbc-4e2e-a595-be6fb658d6d9.html",
-     "title": "Israele, Eisenkot al lavoro per formare il governo: i nodi \"Lieberman\" e la presidenza della Knesset"
+     "link": "https://www.rainews.it/articoli/2026/11/esteri-europa-francia-attacchi-hacker-informatici-cyberattacchi-supermercati-frigoriferi-procura-parigi-indaga-su-iran-45842f59-a5e2-4b49-8b8a-8973545c8cb6.html",
+     "title": "Cyberattacchi ai frigoriferi, la procura di Parigi indaga su un gruppo iraniano"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/israele_che_cosa_puo_cambiare_per_gaza_con_il_governo_eisenkot-425709805/",
-     "title": "Israele, che cosa può cambiare per Gaza con il governo Eisenkot"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/israele-eisenkot-compito-formare-nuovo-governo_3dh30PletgS2afXdrQpePK",
-     "title": "Gadi Eisenkot, chi è il leader di Yashar incaricato di formare il nuovo governo di Israele"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/israele-governo-incarico-eisenkot-compito-netanyahu-aspetta-trump-q98nmxzx",
-     "title": "Enigma Eisenkot, Netanyahu non molla: in Israele il governo è un tetris intricato"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Kushner, 'per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'",
-   "summary": "Ad Abu Dhabi incontrerà rappresentanti di Ue, Nato, Germania, Francia, Gb e Italia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/kushner-per-la-pace-in-ucraina-serve-un-dialogo-diretto-tra-russia-e-europa_40569845-9de0-4351-9eac-ec3504e0a964.html",
-   "pub_ts": 1794235448,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/kushner-per-la-pace-in-ucraina-serve-un-dialogo-diretto-tra-russia-e-europa_40569845-9de0-4351-9eac-ec3504e0a964.html",
-     "title": "Kushner, 'per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/news/nuovo_consiglio_nato_russia_kushner_pratica_di_mare_berlusconi-425709201/?rss",
-     "title": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/09/abu-dhabi-colloqui-russia-ucraina-usa-ue-9-novembre/",
-     "title": "Abu Dhabi, Cremlino: «I trilaterali con Kiev solo con Washington». Kushner precisa: «Servirà poi il dialogo Russia-Europa» – La diretta"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Pezeshkian, Khamenei ha ordinato la fine di questo stallo con Usa",
-   "summary": "'Possiamo avviare colloqui e chiudere la questione con dignità'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/09/pezeshkian-khamenei-ha-ordinato-la-fine-di-questo-stallo-con-usa_1a4559e3-e0fd-4962-9168-3b8f7ec6112b.html",
-   "pub_ts": 1794224640,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/09/pezeshkian-khamenei-ha-ordinato-la-fine-di-questo-stallo-con-usa_1a4559e3-e0fd-4962-9168-3b8f7ec6112b.html",
-     "title": "Pezeshkian, Khamenei ha ordinato la fine di questo stallo con Usa"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-news-oggi-9-novembre_sJzCMzalwPpvf9MksZO1M",
-     "title": "Iran, Pezeshkian: \"Khamenei ci ha ordinato di metter fine a stallo con Usa\""
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/nuova-allerta-a-riad-dopo-i-missili-houthi-trump-incontra-il-premier-del-qatar-jrq2lytd",
-     "title": "Guerra Iran, Trump incontra il premier del Qatar. Pezeshkian: “Khamenei ha ordinato la fine dello stallo con gli Usa”."
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Al via i dieci tavoli programmatici per il campo largo",
-   "summary": "Da oggi al 17 novembre: giovedì il nodo della politica estera, lunedì il fisco. Poi la sintesi dei leader",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/al-via-i-dieci-tavoli-programmatici-per-il-campo-largo_faa820dd-585d-4bcb-96e5-167ac3d853d3.html",
-   "pub_ts": 1794238645,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/al-via-i-dieci-tavoli-programmatici-per-il-campo-largo_faa820dd-585d-4bcb-96e5-167ac3d853d3.html",
-     "title": "Al via i dieci tavoli programmatici per il campo largo"
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/shahid_kaveh_cosa_e_iran_cyber_elite_pasdaran_frigoriferi_cyber_attacchi-425711213/",
+     "title": "Cos’è Shahid Kaveh: la cyber-élite dei Pasdaran accusata degli attacchi ai frigoriferi in Europa"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/politicoquotidiano/campo-largo-10-tavoli-e-solo-litigi-immaginate-questi-al-governo/",
-     "title": "Campo largo, 10 tavoli e solo litigi: immaginate questi al governo"
+     "link": "https://www.nicolaporro.it/attacchi-ai-frigoriferi-ce-un-gruppo-sospettato-la-pista-porta-ai-pasdaran-in-iran/",
+     "title": "Attacchi ai frigoriferi, c’è un gruppo sospettato: la pista porta ai pasdaran in Iran"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Soccorritori a Gaza, 5 morti dopo il crollo di un cumulo di sabbia su alcune tende",
-   "summary": "Le vittime sono tre bambini e due donne",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/soccorritori-a-gaza-5-morti-dopo-il-crollo-di-un-cumulo-di-sabbia-su-alcune-tende_66002692-12eb-48dc-b693-fbdb600cfcb1.html",
-   "pub_ts": 1794238086,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/soccorritori-a-gaza-5-morti-dopo-il-crollo-di-un-cumulo-di-sabbia-su-alcune-tende_66002692-12eb-48dc-b693-fbdb600cfcb1.html",
-     "title": "Soccorritori a Gaza, 5 morti dopo il crollo di un cumulo di sabbia su alcune tende"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/09/gaza-tende-aiuti-bloccati-notizie/8565720/",
-     "title": "Gaza, un cumulo di sabbia crolla sulle tende: morta una donna e tre bambini. Ong: “Aiuti bloccati al confine. Famiglie bruciano i rifiuti per scaldarsi”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina', secondo dati rubati dagli hacker",
-   "summary": "Bloomberg cita dati rubati dagli hacker all'agenzia di statistica. Domani al via colloqui ad Abu Dhabi. Kiev: 'Incontri separati con gli europei, anche l'Italia'. Kushner: 'Per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/von-der-leyen-conferma-lue-presente-ai-colloqui-di-abu-dhabi_1ddc6347-be4e-4839-b9b1-3ec7132351bb.html",
-   "pub_ts": 1794237394,
-   "n_sources": 2,
+   "title": "Huang ammette l'affaire con la 'spia cinese', Nvidia trema",
+   "summary": "Il Cda apre un'indagine. Trump e Musk lo difendono: 'resti'. Il caso oggi al Congresso",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/lad-di-nvidia-ammette-la-relazione-con-una-spia-cinese-il-titolo-crolla_b836320f-e2c1-45f4-afe6-4a8f097fa5b6.html",
+   "pub_ts": 1794252316,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/von-der-leyen-conferma-lue-presente-ai-colloqui-di-abu-dhabi_1ddc6347-be4e-4839-b9b1-3ec7132351bb.html",
-     "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina', secondo dati rubati dagli hacker"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/09/diretta/guerra_ucraina_russia_news_oggi-425709376/",
-     "title": "Guerra Ucraina - Russia. Kushner: “Per la pace servono colloqui diretti Russia-Europa”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Anac, verso lo slittamento la designazione del presidente",
-   "summary": "Nel Cdm di oggi non è più previsto l'avvio della procedura. In corso approfondimenti sul nuovo nome dopo il passo indietro di Altieri. Salvini: 'E' importante scegliere bene e non in fretta'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/anac-verso-lo-slittamento-la-designazione-del-presidente_940196b9-abf0-4d14-95b6-27fc1005a9ae.html",
-   "pub_ts": 1794231840,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/anac-verso-lo-slittamento-la-designazione-del-presidente_940196b9-abf0-4d14-95b6-27fc1005a9ae.html",
-     "title": "Anac, verso lo slittamento la designazione del presidente"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/anac-verso-lo-slittamento-dellindicazione-della-nomina-del-presidente-in-corso-approfondimenti-10da21c9-3d9f-485b-8ee5-bbeaa387e3a3.html",
-     "title": "Anac, verso lo slittamento dell'indicazione della nomina del presidente: in corso approfondimenti"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Ue, ok Ecofin a flessibilità Italia per la difesa e l'energia. Giorgetti: \"Soddisfatti, daremo aggiornamenti semestrali sulle misure\"",
-   "summary": "(Adnkronos) - Il Consiglio economia e finanza ha dato il suo assenso all'attivazione della clausola di salvaguardia nazionale",
-   "link": "https://www.adnkronos.com/internazionale/esteri/ue-ecofin-flessibilita-italia-difesa-energia_1WDREv2Lnmewp7iv2TLvgW",
-   "pub_ts": 1794236040,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ue-ecofin-flessibilita-italia-difesa-energia_1WDREv2Lnmewp7iv2TLvgW",
-     "title": "Ue, ok Ecofin a flessibilità Italia per la difesa e l'energia. Giorgetti: \"Soddisfatti, daremo aggiornamenti semestrali sulle misure\""
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/flessibilita-l-italia-bce-e-tabacchi-3-dossier-caldi-tavolo-bruxelles-AJxWod8B",
-     "title": "La Ue ha attivato la clausola sulla flessibilità dell’Italia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Anac, saltano le nuove nomine in Cdm. I dubbi di Meloni",
-   "summary": "Rinviata la scelta del presidente dell’Anticorruzione, dopo il ritiro di Nuccio Altieri. L’ipotesi Storto, che in passato non aveva convinto la premier",
-   "link": "https://www.repubblica.it/politica/2026/11/09/news/anac_saltano_nuove_nomine_cdm_dubbi_meloni-425710307/",
-   "pub_ts": 1794223539,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/09/news/anac_saltano_nuove_nomine_cdm_dubbi_meloni-425710307/",
-     "title": "Anac, saltano le nuove nomine in Cdm. I dubbi di Meloni"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/lad-di-nvidia-ammette-la-relazione-con-una-spia-cinese-il-titolo-crolla_b836320f-e2c1-45f4-afe6-4a8f097fa5b6.html",
+     "title": "Huang ammette l'affaire con la 'spia cinese', Nvidia trema"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/anticorruzione-o-morte-dubbi-di-meloni-su-eccher-e-salvini-alza-le-barricate-su-anac-gkgibd2a",
-     "title": "Anticorruzione o morte, dubbi di Meloni su Eccher e Salvini alza le barricate su Anac"
+     "link": "https://www.editorialedomani.it/politica/mondo/nvidia-jensen-huang-amante-spia-cinese-scandalo-wh1ee99c",
+     "title": "«L’amante era una spia cinese», così il capo di Nvidia prova a resistere allo scandalo"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/09/nvidia-risultato-borsa-notizia-relazione-ceo-presunta-spia-cinese/",
+     "title": "Nvidia è crollata in borsa dopo la notizia della relazione tra il suo CEO e una presunta spia cinese"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/scandalo-nvidia-ceo-ammette-relazione-spia-cinese-l-azienda-apre-indagine-ma-trump-difende-AJKjNu9B",
+     "title": "Scandalo Nvidia, il ceo ammette relazione con spia cinese. Azienda apre indagine, Trump lo difende, titolo crolla"
     }
    ]
   },
   {
-   "category": "tech",
-   "area": null,
-   "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese",
-   "summary": "Ha ammesso di essere stato infedele alla moglie",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
-   "pub_ts": 1794234308,
-   "n_sources": 6,
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'",
+   "summary": "'Uomo onorevole'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_49da11e9-c79f-40ef-a75a-8010e50e9561.html",
+   "pub_ts": 1794262410,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
-     "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_49da11e9-c79f-40ef-a75a-8010e50e9561.html",
+     "title": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'"
     },
     {
      "name": "la Repubblica",
@@ -296,21 +194,121 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/09/jensen-huang-nvidia/",
      "title": "Quanto conta Jensen Huang per Nvidia"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il judoka Teddy Riner in corsa per l'Eliseo: 'La Francia può rialzarsi'",
+   "summary": "Il trentasettenne cinque volte campione alle Olimpiadi: 'Mi candido per unire il Paese'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/il-judoka-teddy-riner-in-corsa-per-leliseo-la-francia-puo-rialzarsi_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
+   "pub_ts": 1794247705,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/il-judoka-teddy-riner-in-corsa-per-leliseo-la-francia-puo-rialzarsi_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
+     "title": "Il judoka Teddy Riner in corsa per l'Eliseo: 'La Francia può rialzarsi'"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/trappola-al-miele-per-il-ceo-nvidia-chi-e-alice-huang-la-sospetta-spia-cinese-dirigente-data-center-1eaedecb-61cb-407e-8e0e-36ee4a791077.html",
-     "title": "Trappola al miele per il ceo Nvidia, chi è Alice Huang: sospettata di essere una spia cinese"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/francia_judo_teddy_riner_in_corsa_per_l_eliseo-425710733/?rss",
+     "title": "Francia, in corsa per l’Eliseo anche la leggenda del judo Teddy Riner: “Lottiamo uniti”"
     },
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/relazione-spia-cinese-ceo-nvidia-sotto-indagine/",
-     "title": "Relazione con spia cinese: CEO NVIDIA sotto indagine (update)"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/il-campione-olimpico-di-judo-teddy-riner-si-candida-alle-presidenziali-francesi_7962b92a-c148-4a57-a478-6b01af36e89c.html",
+     "title": "Il campione olimpico di judo Teddy Riner si candida alle presidenziali francesi"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Arriva il 13esimo pacchetto di aiuti all'Ucraina, domani Crosetto al Copasir",
+   "summary": "'Manteniamo l'impegno preso'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/arriva-il-13esimo-pacchetto-di-aiuti-allucraina-domani-crosetto-al-copasir_79d4f3a5-283c-4118-9311-f1ff56472197.html",
+   "pub_ts": 1794261349,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/arriva-il-13esimo-pacchetto-di-aiuti-allucraina-domani-crosetto-al-copasir_79d4f3a5-283c-4118-9311-f1ff56472197.html",
+     "title": "Arriva il 13esimo pacchetto di aiuti all'Ucraina, domani Crosetto al Copasir"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/scandalo-nvidia-ceo-ammette-relazione-spia-cinese-l-azienda-apre-indagine-ma-trump-difende-AJKjNu9B",
-     "title": "Scandalo Nvidia, il ceo ammette relazione con spia cinese. Azienda apre indagine, Trump lo difende, titolo crolla"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/09/governo-pacchetto-aiuti-ucraina-giorgetti/8566479/",
+     "title": "Governo spaccato sul 13esimo pacchetto di aiuti all’Ucraina. Tajani: “C’è il via libera di tutti”. Ma Giorgetti non ha firmato"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Manovra: Gimbe, '22,7 miliardi di tagli invisibili alla sanità dal 2022'",
+   "summary": "Cartabellotta, destinare al Fondo sanitario il voucher per anziani",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/manovra-gimbe-227-miliardi-di-tagli-invisibili-alla-sanita-dal-2022_e63ef446-7ccf-4805-92fb-12bba1e7e2f6.html",
+   "pub_ts": 1794256095,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/manovra-gimbe-227-miliardi-di-tagli-invisibili-alla-sanita-dal-2022_e63ef446-7ccf-4805-92fb-12bba1e7e2f6.html",
+     "title": "Manovra: Gimbe, '22,7 miliardi di tagli invisibili alla sanità dal 2022'"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/09/gimbe-tagli-sanita-pubblica-manovra-notizie/8565970/",
+     "title": "“Con il governo Meloni circa 23 miliardi di tagli invisibili per la sanità pubblica”: Gimbe boccia la manovra. E chiede di eliminare i voucher per gli anziani"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'",
+   "summary": "A partire da gennaio. Meloni: 'Scontentiamo i produttori di elettricità ma difendiamo cittadini'",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html",
+   "pub_ts": 1794254964,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html",
+     "title": "Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/09/decreto-bollette-price-cap-gas-notizie/8565667/",
+     "title": "Ok del Cdm al nuovo decreto Bollette, ma l’impatto è minimo. Le opposizioni: “Appena 1,4 euro in meno al mese”. Meloni: “Gli effetti richiederanno tempo”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Merz candida Ilse Aigner alla presidenza della Repubblica: “E’ ora che una donna ricopra la carica”",
+   "summary": "Il cancelliere tedesco ha fatto sapere che la Cdu sosterrà la presidente del Parlamento della Baviera ed esponente della Csu. Angela Merkel parla di una nomina “storica”",
+   "link": "https://www.repubblica.it/esteri/2026/11/09/news/ilse_aigner_presidente_repubblica_germania_candidatura_merz_cdu-425711187/?rss",
+   "pub_ts": 1794253372,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/ilse_aigner_presidente_repubblica_germania_candidatura_merz_cdu-425711187/?rss",
+     "title": "Merz candida Ilse Aigner alla presidenza della Repubblica: “E’ ora che una donna ricopra la carica”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/09/germania-ilse-aigner-presidente-della-germania/",
+     "title": "La CDU ha scelto come candidata alla presidenza della Germania Ilse Aigner, presidente del parlamento della Baviera"
     }
    ]
   },
@@ -334,56 +332,88 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Cybersecurity, infrastrutture critiche e minacce globali",
-   "summary": "Come difendersi dagli attacchi, i consigli dell'esperto Vincenzo Musacchio",
-   "link": "https://www.rainews.it/articoli/2026/11/cybersecurity-infrastrutture-critiche-e-minacce-globali-cda417a7-9932-4bf7-8f8b-785bdcf6cfef.html",
-   "pub_ts": 1794238440,
+   "title": "Meta Muse Ember: il modello AI più leggero Meta per agenti",
+   "summary": "Meta lancia Muse Ember, il suo modello AI più leggero ed economico per agent, con supporto a testo, immagini e audio. Ecco come funziona. The post Meta Muse Ember: il modello AI più leggero Meta per agenti appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/meta-muse-ember-modello-ai-piu-leggero-agenti/",
+   "pub_ts": 1794250729,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/cybersecurity-infrastrutture-critiche-e-minacce-globali-cda417a7-9932-4bf7-8f8b-785bdcf6cfef.html",
-     "title": "Cybersecurity, infrastrutture critiche e minacce globali"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/meta-muse-ember-modello-ai-piu-leggero-agenti/",
+     "title": "Meta Muse Ember: il modello AI più leggero Meta per agenti"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Instagram: stima AI dell’età in tutto il mondo",
-   "summary": "Meta ha comunicato che la tecnologia AI usata per stimare l'età degli utenti su Instagram è molto efficace, quindi verrà estesa a tutto il mondo. The post Instagram: stima AI dell’età in tutto il mondo appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/instagram-stima-ai-eta-tutto-mondo/",
-   "pub_ts": 1794234990,
+   "title": "Digital Fairness Act: divieti per social media e chatbot AI",
+   "summary": "Il Digital Fairness Act introdurrà divieti e obblighi per siti web, app, giochi, social media e chatbot AI, alcuni dei quali riguarderanno i minori. The post Digital Fairness Act: divieti per social media e chatbot AI appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/digital-fairness-act-divieti-social-media-chatbot-ai/",
+   "pub_ts": 1794245467,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/instagram-stima-ai-eta-tutto-mondo/",
-     "title": "Instagram: stima AI dell’età in tutto il mondo"
+     "link": "https://www.punto-informatico.it/digital-fairness-act-divieti-social-media-chatbot-ai/",
+     "title": "Digital Fairness Act: divieti per social media e chatbot AI"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN",
+   "summary": "Disney e Adobe annunciano una partnership pluriennale per creare modelli AI con Firefly Foundry. Cosa cambia per i parchi, i film e i contenuti ESPN. The post Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/disney-punta-ai-adobe-film-parchi-contenuti-espn/",
+   "pub_ts": 1794244505,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/disney-punta-ai-adobe-film-parchi-contenuti-espn/",
+     "title": "Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN"
     }
    ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Fiorello smentisce l'ipotesi Domenica In, 'non potrei mai lavorare di domenica!'",
-   "summary": "Lo showman a La Pennicanza torna a parlare del ControFestival",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/fiorello-smentisce-lipotesi-domenica-in-non-potrei-mai-lavorare-di-domenica_22eef1bb-5f13-46e5-b561-302ae6e334af.html",
-   "pub_ts": 1794237669,
-   "n_sources": 2,
+   "title": "Russell Brand deve scontare 10 anni e mezzo di carcere per stupro",
+   "summary": "'Predatore sessuale protetto da fama'. Burnham promette più sostegno alle vittime",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/russell-brand-deve-scontare-10-anni-e-mezzo-di-carcere-per-stupro_9af131ce-0012-47cb-9799-a36d8db2131e.html",
+   "pub_ts": 1794256253,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/fiorello-smentisce-lipotesi-domenica-in-non-potrei-mai-lavorare-di-domenica_22eef1bb-5f13-46e5-b561-302ae6e334af.html",
-     "title": "Fiorello smentisce l'ipotesi Domenica In, 'non potrei mai lavorare di domenica!'"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/russell-brand-deve-scontare-10-anni-e-mezzo-di-carcere-per-stupro_9af131ce-0012-47cb-9799-a36d8db2131e.html",
+     "title": "Russell Brand deve scontare 10 anni e mezzo di carcere per stupro"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/09/fiorello-non-potrei-mai-mettermi-a-lavorare-di-domenica-lho-gia-fatto-in-passato-sapete-il-giorno-libero-quale-sarebbe-il-lunedi-e-i-parrucchieri-sono-chiusi-non-potrei-nemmeno-tagliarmi-i-ca/8565838/",
-     "title": "Fiorello: “Non potrei mai mettermi a lavorare di domenica. L’ho già fatto in passato. Sapete il giorno libero quale sarebbe? Il lunedì e i parrucchieri sono chiusi, non potrei nemmeno tagliarmi i capelli”"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/10-anni-e-mezzo-di-prigione-all-attore-e-web-star-russell-brand-per_0eb782d9-e983-4cf9-8403-e3ce0d4d36e6.html",
+     "title": "10 anni e mezzo di prigione all' attore e web star Russell Brand per stupro"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/regno-unito-russell-brand-condannato-oltre-10-anni-stupro-e-aggressioni-sessuali-AJBX8PAC",
+     "title": "Regno Unito: Russell Brand condannato a oltre 10 anni per stupro e aggressioni sessuali"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/russell-brand-condannato-per-stupro-a-10-anni-e-sei-mesi-il-giudice-predatore-seriale-7708a6c3-2820-4090-ba80-dca370069496.html",
+     "title": "Russell Brand condannato per stupro a 10 anni e sei mesi, il giudice: \"Predatore seriale\""
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/09/russell-brand-condanna-stupro-violenze-sessuali/",
+     "title": "L’attore inglese Russell Brand è stato condannato a dieci anni e sei mesi per stupro e violenze sessuali"
     }
    ],
    "subtype": "cultura"
@@ -391,22 +421,45 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Piersanti Mattarella, memoria e impegno civile in mostra a Torino",
-   "summary": "Alle Gallerie d'Italia un percorso digitale tra fotografie, documenti e testimonianze",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/09/piersanti-mattarella-memoria-e-impegno-civile-in-mostra-a-torino_49f2a8dd-0440-4137-8a41-f22c6d2ac50a.html",
-   "pub_ts": 1794226444,
+   "title": "Museo Egizio diventa anche Ente pubblico di ricerca, via libera dal Cdm",
+   "summary": "Su proposta dei ministri Bernini e Giuli",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/museo-egizio-diventa-anche-ente-pubblico-di-ricerca-via-libera-dal_5be8736e-ed32-42d4-83b0-33e1aef264fe.html",
+   "pub_ts": 1794247783,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/museo-egizio-diventa-anche-ente-pubblico-di-ricerca-via-libera-dal_5be8736e-ed32-42d4-83b0-33e1aef264fe.html",
+     "title": "Museo Egizio diventa anche Ente pubblico di ricerca, via libera dal Cdm"
+    },
+    {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/09/piersanti-mattarella-memoria-e-impegno-civile-in-mostra-a-torino_49f2a8dd-0440-4137-8a41-f22c6d2ac50a.html",
-     "title": "Piersanti Mattarella, memoria e impegno civile in mostra a Torino"
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/09/museo-egizio-diventa-anche-ente-pubblico-di-ricerca-via-libera-dal_c4b5273a-5e3e-4a45-b14c-93c6242a4d4f.html",
+     "title": "Museo Egizio diventa anche Ente pubblico di ricerca, via libera dal Cdm"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "All'asta da Christie's il manoscritto di 'I Have a Dream'",
+   "summary": "La stima di partenza del documento è di oltre 10 milioni di dollari",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/allasta-da-christies-il-manoscritto-di-i-have-a-dream_26abeb7b-4bc4-461c-9a34-6a6eec5ac141.html",
+   "pub_ts": 1794245705,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/allasta-da-christies-il-manoscritto-di-i-have-a-dream_26abeb7b-4bc4-461c-9a34-6a6eec5ac141.html",
+     "title": "All'asta da Christie's il manoscritto di 'I Have a Dream'"
     },
     {
      "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/il-sogno-spezzato-in-mostra-lorizzonte-politico-e-familiare-di-piersanti-mattarella_tF9QOmXeOxsRZbV33kNtx",
-     "title": "'Il sogno spezzato', in mostra l'orizzonte politico e familiare di Piersanti Mattarella"
+     "link": "https://www.adnkronos.com/cultura/allasta-da-christies-due-capolavori-di-jan-van-huysum-stima-fino-a-8-milioni-di-sterline_qTiBATnO2AN8WJJkKCZ87",
+     "title": "All'asta da Christie's due capolavori di Jan van Huysum, stima fino a 8 milioni di sterline"
     }
    ],
    "subtype": "cultura"
@@ -414,25 +467,25 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Di Pasquale-Piervincenzi al timone di Report, 'c'è chi sperava di cancellarlo'",
-   "summary": "Tra i servizi il tentativo di depistaggio, fallito, di Valter Lavitola",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/di-pasquale-e-piervincenzi-qualcuno-sperava-che-report-venisse-cancellato_d197062a-41cf-48c2-9fa6-a58ee0321ca5.html",
-   "pub_ts": 1794216500,
+   "title": "Over 65 vaccinati contro l'influenza scendono sotto il 50% nel 2025-26",
+   "summary": "Dati ministero, calo di 2,7 punti rispetto a 2024-2025. Obiettivo minimo vaccinare il 75%",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_vaccini/2026/11/09/over-65-vaccinati-contro-linfluenza-scendono-sotto-il-50-nel-2025-26_48ba1634-021f-4067-b5ef-e43f5c3dacf3.html",
+   "pub_ts": 1794242777,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/di-pasquale-e-piervincenzi-qualcuno-sperava-che-report-venisse-cancellato_d197062a-41cf-48c2-9fa6-a58ee0321ca5.html",
-     "title": "Di Pasquale-Piervincenzi al timone di Report, 'c'è chi sperava di cancellarlo'"
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_vaccini/2026/11/09/over-65-vaccinati-contro-linfluenza-scendono-sotto-il-50-nel-2025-26_48ba1634-021f-4067-b5ef-e43f5c3dacf3.html",
+     "title": "Over 65 vaccinati contro l'influenza scendono sotto il 50% nel 2025-26"
     },
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/08/di-pasquale-stasera-torna-in-onda-la-liberta-e-la-resilienza-di-report_8b14e2fa-c593-4cc2-85bb-bc2ad8bfc3af.html",
-     "title": "Di Pasquale, \"torna in onda la libertà e la resilienza di Report\""
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/over-65-vaccinati-contro-linfluenza-scendono-sotto-il-50-nel-2025-26_a159d068-14ec-4390-b5fd-58495a973b6d.html",
+     "title": "Over 65 vaccinati contro l'influenza scendono sotto il 50% nel 2025-26"
     }
    ],
-   "subtype": "cultura"
+   "subtype": "scienza"
   },
   {
    "category": "varia",
@@ -458,37 +511,24 @@
    "subtype": "scienza"
   },
   {
-   "category": "varia",
-   "area": null,
-   "title": "Aumentano bimbi nati con procreazione assistita, 17.660 in un anno pari quasi al 5%",
-   "summary": "Pari a 4,8%. Le coppie trattate sono 92.394. Mamme più anziane, calano donazioni di gameti",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/09/ministero-aumentano-bimbi-nati-con-procreazione-assistita-17.660-nel-2024_db0ddfb2-2cb9-426d-83a7-25f65738493f.html",
-   "pub_ts": 1794232341,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/09/ministero-aumentano-bimbi-nati-con-procreazione-assistita-17.660-nel-2024_db0ddfb2-2cb9-426d-83a7-25f65738493f.html",
-     "title": "Aumentano bimbi nati con procreazione assistita, 17.660 in un anno pari quasi al 5%"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
    "category": "cronaca",
    "area": null,
-   "title": "E' morto l'autore della strage di Cracovia, ancora gravi i feriti",
-   "summary": "Lo ha annunciato la polizia polacca",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/morto-lautore-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
-   "pub_ts": 1794221635,
-   "n_sources": 6,
+   "title": "È morto in ospedale il killer della strage di Cracovia",
+   "summary": "La Polonia in lutto e sotto shock, massima allerta per la festa dell'Indipendenza",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/e-morto-in-ospedale-il-killer-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
+   "pub_ts": 1794250177,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/morto-lautore-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
-     "title": "E' morto l'autore della strage di Cracovia, ancora gravi i feriti"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/e-morto-in-ospedale-il-killer-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
+     "title": "È morto in ospedale il killer della strage di Cracovia"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/09/news/cracovia_l_attentatore_michal_oksinski_e_morto_in_ospedale-425709517/?rss",
+     "title": "Cracovia, l’attentatore Michal Oksinski è morto in ospedale"
     },
     {
      "name": "ANSA Mondo",
@@ -496,19 +536,9 @@
      "title": "Morto l'autore della strage di Cracovia"
     },
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/08/news/michal_oksinski_cracovia_chi_e_attentatore_indagini_terrorismo-425708795/?rss",
-     "title": "Cracovia, chi è l’attentatore Michal Oksinski. Ora si indaga per terrorismo"
-    },
-    {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/strage-di-cracovia-sei-vittime-e-15-feriti-morto-attentatore-ospedale-polonia-lutto-indagini-terrorismo-ixs7ui1q",
      "title": "Strage di Cracovia: sei vittime e 15 feriti. Morto l’attentatore"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/cracovia-sparatoria-strage-morto-autore-michal-oksinski_5WZ1rx7sG3TtqMzTRBNtB9",
-     "title": "Sparatoria a Cracovia, l'autore della strage è morto in ospedale"
     },
     {
      "name": "Nicola Porro",
@@ -524,18 +554,13 @@
    "summary": "I numeri segreti di Putin rubati dai bielorussi di Cyber Partisans e dagli ucraini di Silent Crow, che sono entrati nei computer dell’agenzia di statistica di Mosca Rosstat. Perlopiù i reclutati venivano dalle aree asiatiche. L’analisi di Bloomberg",
    "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/?rss",
    "pub_ts": 1794237540,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/09/news/quanti_soldati_russi_morti_in_ucraina_400mila_dati_svelati_dagli_hacker-425709989/?rss",
      "title": "Nella guerra in Ucraina sono morti almeno 400mila soldati russi: i dati svelati dagli hacker"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/la-russia-ha-registrato-la-morte-di-400.000-uomini-nella-guerra-in-ucraina_ff5df486-0518-47c5-a889-732691395e9f.html",
-     "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina'"
     },
     {
      "name": "Adnkronos Esteri",
@@ -552,103 +577,94 @@
  ],
  "articles": [
   {
-   "title": "Francia, il campione olimpico di judo Teddy Riner si candida alle presidenziali",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/francia-il-campione-olimpico-di-judo-teddy-riner-si-candida-alle-presidenziali_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
-   "description": "'Mi candido per unire il Paese. Voglio dimostrare che la Francia può rialzarsi'. Le Pen e Mélenchon continuano a crescere nei sondaggi per l'Eliseo. In calo i candidati di centrodestra e centrosinistra Edouard Philippe e Raphael Glucksmann",
-   "pub_ts": 1794238070,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Israele, che cosa può cambiare per Gaza con il governo Eisenkot",
-   "link": "https://www.repubblica.it/esteri/2026/11/09/news/israele_che_cosa_puo_cambiare_per_gaza_con_il_governo_eisenkot-425709805/?rss",
-   "description": "Nessuna svolta in vista sulla Striscia rispetto a Netanyahu. Mentre ci saranno alcune differenze sulla Cisgiordania, l’Iran e soprattutto sulla giustizia e la commissione per il 7 ottobre",
-   "pub_ts": 1794231840,
+   "title": "Trump difende Hegseth dall’impeachment: “Ha vinto due guerre, in Iran e Venezuela”",
+   "link": "https://www.repubblica.it/esteri/2026/11/10/news/trump_difende_hegseth_dall_impeachment_ha_vinto_due_guerre_in_iran_e_venezuela-425711992/?rss",
+   "description": "Il deputato repubblicano Thomas Massie, dissidente e uscente, ha ripresentato gli otto capi d'accusa, avviando il meccanismo che potrebbe portare ad un voto nella Camera entro due giorni",
+   "pub_ts": 1794268397,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Kushner, 'per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/kushner-per-la-pace-in-ucraina-serve-un-dialogo-diretto-tra-russia-e-europa_40569845-9de0-4351-9eac-ec3504e0a964.html",
-   "description": "Ad Abu Dhabi incontrerà rappresentanti di Ue, Nato, Germania, Francia, Gb e Italia",
-   "pub_ts": 1794235448,
+   "title": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_7ac25056-1510-46cf-998b-97dbec48cf0c.html",
+   "description": "'Non so se dietro ci sia Mosca, ma certamente avvengono con un coordinamento'",
+   "pub_ts": 1794265666,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Pezeshkian, Khamenei ha ordinato la fine di questo stallo con Usa",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/09/pezeshkian-khamenei-ha-ordinato-la-fine-di-questo-stallo-con-usa_1a4559e3-e0fd-4962-9168-3b8f7ec6112b.html",
-   "description": "'Possiamo avviare colloqui e chiudere la questione con dignità'",
-   "pub_ts": 1794224640,
-   "source": "ANSA Mondo",
+   "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”",
+   "link": "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/?rss",
+   "description": "La procura emette un mandato internazionale contro i capi del gruppo iraniano Shadid Kaveh, legato ai pasdaran. Il ministro degli Esteri francese: “Prepariamo sanzioni europee”. Convocato l’ambasciatore. Tajani: “Le azioni ibride in Italia sono di hacker filorussi”",
+   "pub_ts": 1794258675,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Al via i dieci tavoli programmatici per il campo largo",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/al-via-i-dieci-tavoli-programmatici-per-il-campo-largo_faa820dd-585d-4bcb-96e5-167ac3d853d3.html",
-   "description": "Da oggi al 17 novembre: giovedì il nodo della politica estera, lunedì il fisco. Poi la sintesi dei leader",
-   "pub_ts": 1794238645,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Soccorritori a Gaza, 5 morti dopo il crollo di un cumulo di sabbia su alcune tende",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/soccorritori-a-gaza-5-morti-dopo-il-crollo-di-un-cumulo-di-sabbia-su-alcune-tende_66002692-12eb-48dc-b693-fbdb600cfcb1.html",
-   "description": "Le vittime sono tre bambini e due donne",
-   "pub_ts": 1794238086,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina', secondo dati rubati dagli hacker",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/von-der-leyen-conferma-lue-presente-ai-colloqui-di-abu-dhabi_1ddc6347-be4e-4839-b9b1-3ec7132351bb.html",
-   "description": "Bloomberg cita dati rubati dagli hacker all'agenzia di statistica. Domani al via colloqui ad Abu Dhabi. Kiev: 'Incontri separati con gli europei, anche l'Italia'. Kushner: 'Per la pace in Ucraina serve un dialogo diretto tra Russia e Europa'",
-   "pub_ts": 1794237394,
+   "title": "Huang ammette l'affaire con la 'spia cinese', Nvidia trema",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/lad-di-nvidia-ammette-la-relazione-con-una-spia-cinese-il-titolo-crolla_b836320f-e2c1-45f4-afe6-4a8f097fa5b6.html",
+   "description": "Il Cda apre un'indagine. Trump e Musk lo difendono: 'resti'. Il caso oggi al Congresso",
+   "pub_ts": 1794252316,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Anac, verso lo slittamento la designazione del presidente",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/09/anac-verso-lo-slittamento-la-designazione-del-presidente_940196b9-abf0-4d14-95b6-27fc1005a9ae.html",
-   "description": "Nel Cdm di oggi non è più previsto l'avvio della procedura. In corso approfondimenti sul nuovo nome dopo il passo indietro di Altieri. Salvini: 'E' importante scegliere bene e non in fretta'",
-   "pub_ts": 1794231840,
+   "title": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_49da11e9-c79f-40ef-a75a-8010e50e9561.html",
+   "description": "'Uomo onorevole'",
+   "pub_ts": 1794262410,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il judoka Teddy Riner in corsa per l'Eliseo: 'La Francia può rialzarsi'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/il-judoka-teddy-riner-in-corsa-per-leliseo-la-francia-puo-rialzarsi_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
+   "description": "Il trentasettenne cinque volte campione alle Olimpiadi: 'Mi candido per unire il Paese'",
+   "pub_ts": 1794247705,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ue, ok Ecofin a flessibilità Italia per la difesa e l'energia. Giorgetti: \"Soddisfatti, daremo aggiornamenti semestrali sulle misure\"",
-   "link": "https://www.adnkronos.com/internazionale/esteri/ue-ecofin-flessibilita-italia-difesa-energia_1WDREv2Lnmewp7iv2TLvgW",
-   "description": "(Adnkronos) - Il Consiglio economia e finanza ha dato il suo assenso all'attivazione della clausola di salvaguardia nazionale",
-   "pub_ts": 1794236040,
-   "source": "Adnkronos Esteri",
+   "title": "Arriva il 13esimo pacchetto di aiuti all'Ucraina, domani Crosetto al Copasir",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/arriva-il-13esimo-pacchetto-di-aiuti-allucraina-domani-crosetto-al-copasir_79d4f3a5-283c-4118-9311-f1ff56472197.html",
+   "description": "'Manteniamo l'impegno preso'",
+   "pub_ts": 1794261349,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Anac, saltano le nuove nomine in Cdm. I dubbi di Meloni",
-   "link": "https://www.repubblica.it/politica/2026/11/09/news/anac_saltano_nuove_nomine_cdm_dubbi_meloni-425710307/",
-   "description": "Rinviata la scelta del presidente dell’Anticorruzione, dopo il ritiro di Nuccio Altieri. L’ipotesi Storto, che in passato non aveva convinto la premier",
-   "pub_ts": 1794223539,
-   "source": "la Repubblica",
+   "title": "Manovra: Gimbe, '22,7 miliardi di tagli invisibili alla sanità dal 2022'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/manovra-gimbe-227-miliardi-di-tagli-invisibili-alla-sanita-dal-2022_e63ef446-7ccf-4805-92fb-12bba1e7e2f6.html",
+   "description": "Cartabellotta, destinare al Fondo sanitario il voucher per anziani",
+   "pub_ts": 1794256095,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
-   "description": "Ha ammesso di essere stato infedele alla moglie",
-   "pub_ts": 1794234308,
-   "source": "ANSA Mondo",
+   "title": "Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html",
+   "description": "A partire da gennaio. Meloni: 'Scontentiamo i produttori di elettricità ma difendiamo cittadini'",
+   "pub_ts": 1794254964,
+   "source": "ANSA",
    "source_priority": 1,
-   "section": "tech"
+   "section": "politica"
+  },
+  {
+   "title": "Merz candida Ilse Aigner alla presidenza della Repubblica: “E’ ora che una donna ricopra la carica”",
+   "link": "https://www.repubblica.it/esteri/2026/11/09/news/ilse_aigner_presidente_repubblica_germania_candidatura_merz_cdu-425711187/?rss",
+   "description": "Il cancelliere tedesco ha fatto sapere che la Cdu sosterrà la presidente del Parlamento della Baviera ed esponente della Csu. Angela Merkel parla di una nomina “storica”",
+   "pub_ts": 1794253372,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
   },
   {
    "title": "Un dato di Uber racconta quanto vengono usati davvero gli agenti IA nel mondo",
@@ -660,47 +676,65 @@
    "section": "tech"
   },
   {
-   "title": "Cybersecurity, infrastrutture critiche e minacce globali",
-   "link": "https://www.rainews.it/articoli/2026/11/cybersecurity-infrastrutture-critiche-e-minacce-globali-cda417a7-9932-4bf7-8f8b-785bdcf6cfef.html",
-   "description": "Come difendersi dagli attacchi, i consigli dell'esperto Vincenzo Musacchio",
-   "pub_ts": 1794238440,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Instagram: stima AI dell’età in tutto il mondo",
-   "link": "https://www.punto-informatico.it/instagram-stima-ai-eta-tutto-mondo/",
-   "description": "Meta ha comunicato che la tecnologia AI usata per stimare l'età degli utenti su Instagram è molto efficace, quindi verrà estesa a tutto il mondo. The post Instagram: stima AI dell’età in tutto il mondo appeared first on Punto Informatico .",
-   "pub_ts": 1794234990,
+   "title": "Meta Muse Ember: il modello AI più leggero Meta per agenti",
+   "link": "https://www.punto-informatico.it/meta-muse-ember-modello-ai-piu-leggero-agenti/",
+   "description": "Meta lancia Muse Ember, il suo modello AI più leggero ed economico per agent, con supporto a testo, immagini e audio. Ecco come funziona. The post Meta Muse Ember: il modello AI più leggero Meta per agenti appeared first on Punto Informatico .",
+   "pub_ts": 1794250729,
    "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Fiorello smentisce l'ipotesi Domenica In, 'non potrei mai lavorare di domenica!'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/09/fiorello-smentisce-lipotesi-domenica-in-non-potrei-mai-lavorare-di-domenica_22eef1bb-5f13-46e5-b561-302ae6e334af.html",
-   "description": "Lo showman a La Pennicanza torna a parlare del ControFestival",
-   "pub_ts": 1794237669,
-   "source": "ANSA Cultura",
+   "title": "Digital Fairness Act: divieti per social media e chatbot AI",
+   "link": "https://www.punto-informatico.it/digital-fairness-act-divieti-social-media-chatbot-ai/",
+   "description": "Il Digital Fairness Act introdurrà divieti e obblighi per siti web, app, giochi, social media e chatbot AI, alcuni dei quali riguarderanno i minori. The post Digital Fairness Act: divieti per social media e chatbot AI appeared first on Punto Informatico .",
+   "pub_ts": 1794245467,
+   "source": "Punto Informatico",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN",
+   "link": "https://www.punto-informatico.it/disney-punta-ai-adobe-film-parchi-contenuti-espn/",
+   "description": "Disney e Adobe annunciano una partnership pluriennale per creare modelli AI con Firefly Foundry. Cosa cambia per i parchi, i film e i contenuti ESPN. The post Disney punta sull’AI di Adobe per film, parchi e contenuti ESPN appeared first on Punto Informatico .",
+   "pub_ts": 1794244505,
+   "source": "Punto Informatico",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Russell Brand deve scontare 10 anni e mezzo di carcere per stupro",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/russell-brand-deve-scontare-10-anni-e-mezzo-di-carcere-per-stupro_9af131ce-0012-47cb-9799-a36d8db2131e.html",
+   "description": "'Predatore sessuale protetto da fama'. Burnham promette più sostegno alle vittime",
+   "pub_ts": 1794256253,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Piersanti Mattarella, memoria e impegno civile in mostra a Torino",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/09/piersanti-mattarella-memoria-e-impegno-civile-in-mostra-a-torino_49f2a8dd-0440-4137-8a41-f22c6d2ac50a.html",
-   "description": "Alle Gallerie d'Italia un percorso digitale tra fotografie, documenti e testimonianze",
-   "pub_ts": 1794226444,
-   "source": "ANSA Cultura",
+   "title": "Museo Egizio diventa anche Ente pubblico di ricerca, via libera dal Cdm",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/museo-egizio-diventa-anche-ente-pubblico-di-ricerca-via-libera-dal_5be8736e-ed32-42d4-83b0-33e1aef264fe.html",
+   "description": "Su proposta dei ministri Bernini e Giuli",
+   "pub_ts": 1794247783,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Di Pasquale-Piervincenzi al timone di Report, 'c'è chi sperava di cancellarlo'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/08/di-pasquale-e-piervincenzi-qualcuno-sperava-che-report-venisse-cancellato_d197062a-41cf-48c2-9fa6-a58ee0321ca5.html",
-   "description": "Tra i servizi il tentativo di depistaggio, fallito, di Valter Lavitola",
-   "pub_ts": 1794216500,
-   "source": "ANSA Politica",
+   "title": "All'asta da Christie's il manoscritto di 'I Have a Dream'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/allasta-da-christies-il-manoscritto-di-i-have-a-dream_26abeb7b-4bc4-461c-9a34-6a6eec5ac141.html",
+   "description": "La stima di partenza del documento è di oltre 10 milioni di dollari",
+   "pub_ts": 1794245705,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Over 65 vaccinati contro l'influenza scendono sotto il 50% nel 2025-26",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_vaccini/2026/11/09/over-65-vaccinati-contro-linfluenza-scendono-sotto-il-50-nel-2025-26_48ba1634-021f-4067-b5ef-e43f5c3dacf3.html",
+   "description": "Dati ministero, calo di 2,7 punti rispetto a 2024-2025. Obiettivo minimo vaccinare il 75%",
+   "pub_ts": 1794242777,
+   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
@@ -714,19 +748,10 @@
    "section": "varia"
   },
   {
-   "title": "Aumentano bimbi nati con procreazione assistita, 17.660 in un anno pari quasi al 5%",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/09/ministero-aumentano-bimbi-nati-con-procreazione-assistita-17.660-nel-2024_db0ddfb2-2cb9-426d-83a7-25f65738493f.html",
-   "description": "Pari a 4,8%. Le coppie trattate sono 92.394. Mamme più anziane, calano donazioni di gameti",
-   "pub_ts": 1794232341,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "E' morto l'autore della strage di Cracovia, ancora gravi i feriti",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/morto-lautore-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
-   "description": "Lo ha annunciato la polizia polacca",
-   "pub_ts": 1794221635,
+   "title": "È morto in ospedale il killer della strage di Cracovia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/e-morto-in-ospedale-il-killer-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
+   "description": "La Polonia in lutto e sotto shock, massima allerta per la festa dell'Indipendenza",
+   "pub_ts": 1794250177,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
