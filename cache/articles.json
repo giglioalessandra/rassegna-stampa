@@ -1,6 +1,6 @@
 {
- "generated_at": 1794393430,
- "updated_at": 1794393430,
+ "generated_at": 1794421869,
+ "updated_at": 1794421869,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,11 +10,48 @@
   {
    "category": "politica",
    "area": "mondo",
+   "title": "Ucraina, colloqui trilaterali ad Abu Dhabi, Kushner: 'Domani vedremo Putin a Mosca, poi Zelensky a Dublino'",
+   "summary": "Il capo negoziatore ucraino: 'Permangono ancora divergenze significative'. Kallas: 'Nessuna disponibilità della Russia a negoziare seriamente'. Medinsky: 'Mosca e Kiev hanno concordato un enorme scambio di prigionieri'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/11/ucraina-colloqui-trilaterali-ad-abu-dhabi-kushner-domani-vedremo-putin-a-mosca_275a59ea-50f5-4e6e-8d90-89aa9c12e2d0.html",
+   "pub_ts": 1794414966,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/11/ucraina-colloqui-trilaterali-ad-abu-dhabi-kushner-domani-vedremo-putin-a-mosca_275a59ea-50f5-4e6e-8d90-89aa9c12e2d0.html",
+     "title": "Ucraina, colloqui trilaterali ad Abu Dhabi, Kushner: 'Domani vedremo Putin a Mosca, poi Zelensky a Dublino'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/kallas-ad-abu-dhabi-nessuna-disponibilita-della-russia-a-negoziare-seriamente_259baa49-f99e-45b3-a1e0-35ffb4d6b003.html",
+     "title": "Kallas, 'ad Abu Dhabi nessuna disponibilità della Russia a negoziare seriamente'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-negoziati-usa-news-diretta-oggi-11-novembre_5aTep3nlJ5mGAjCh7licnI",
+     "title": "Ucraina-Russia, chiusi negoziati ad Abu Dhabi. Kushner e Witkoff domani da Putin"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/11/diretta/guerra_ucraina_russia_news_oggi-425714480/",
+     "title": "Guerra Ucraina - Russia, le news. Conclusi colloqui ad Abu Dhabi tra Kiev e Mosca mediati da Usa"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/11/negoziati-russia-ucraina-abu-dhabi-progressi-notizie/8568320/",
+     "title": "Russia-Ucraina, conclusi i colloqui di Abu Dhabi. Kushner e Witkoff incontreranno Putin e poi Zelensky. Kallas: “Mosca non vuole negoziare seriamentee”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "La Camera Usa boccia la procedura di impeachment per Hegseth",
    "summary": "Trump lo difende: 'E' da 10 e lode'",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/11/la-camera-usa-boccia-la-procedura-di-impeachment-per-hegseth_2979584a-b939-48f3-bb33-2ca237fbebf5.html",
-   "pub_ts": 1794389162,
-   "n_sources": 6,
+   "pub_ts": 1794412288,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
@@ -41,11 +78,114 @@
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/impeachment-hegseth-voto-camera-usa_4hcbr8uobJU47yyjsY0h3g",
      "title": "Usa, la Camera boccia la procedura di impeachment per Hegseth"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Cop31, Guterres sui fossili: “Devono estinguersi come dinosauri”. Ma i leader lo ignorano",
+   "summary": "Il segretario generale dell’Onu: “Ma questo non accadrà da solo perché i dinosauri non avevano una lobby, i combustibili fossili sì”. I pochi big arrivati in Turchia non menzionano petrolio e gas, l’unico è Lula",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/cop31_guterres_fossili_devono_estinguersi_come_dinosauri_leader_ignorano-425716259/?rss",
+   "pub_ts": 1794421560,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/11/news/cop31_guterres_fossili_devono_estinguersi_come_dinosauri_leader_ignorano-425716259/?rss",
+     "title": "Cop31, Guterres sui fossili: “Devono estinguersi come dinosauri”. Ma i leader lo ignorano"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/11/conferenza-sul-clima-lula-alla-cop31-guerre-e-dazi-oscurano-lagenda_ff93a15d-609c-4280-b9b1-ac465d9e787f.html",
+     "title": "Conferenza sul clima, Guterres: 'Le fonti fossili devono scomparire come i dinosauri'"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/l-onu-cop31-petrolio-gas-e-carbone-sono-come-dinosauri-devono-scomparire-AJWQ0hCC",
+     "title": "L’Onu alla Cop31: petrolio, gas e carbone «sono come i dinosauri, devono scomparire»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Tajani: 'Ricevuti nuovi cyberattacchi, taglia anche su minori della mia famiglia'",
+   "summary": "'Anche oggi nuove intimidazioni'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/tajani-ricevuti-nuovi-cyberattacchi-taglia-anche-su-minori-della-mia-famiglia_4747829e-9536-4d27-98df-0169f9ec722c.html",
+   "pub_ts": 1794411722,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/tajani-ricevuti-nuovi-cyberattacchi-taglia-anche-su-minori-della-mia-famiglia_4747829e-9536-4d27-98df-0169f9ec722c.html",
+     "title": "Tajani: 'Ricevuti nuovi cyberattacchi, taglia anche su minori della mia famiglia'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/tajani-denuncia-nuove-minacce-hacker-intimidita-anche-la-mia-famiglia-compresi-i-minori-85e7c1c5-ed9a-4506-b28e-abdd1c1659b5.html",
+     "title": "Tajani denuncia nuove minacce hacker: \"Intimidita anche la mia famiglia, compresi i minori\""
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/tajani-nuove-minacce-attacco-hacker-taglia_4ieJnbeAfJyRHbyq3mAYQC",
+     "title": "Cyberattacchi, Tajani: \"Oggi ricevute nuove intimidazioni, non risparmiati i minori della mia famiglia\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Negoziati di Abu Dhabi, Kiev ci crede: “Progressi significativi”",
+   "summary": "Le distanze con i russi restano, soprattutto sui territori. Ma gli ucraini si mostrano soddisfatti dei risultati dei trilaterali con gli Stati Uniti. In vista il più grande scambio di prigionieri",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/negoziati_di_abu_dhabi_ucraina_russia_progressi_significativi-425715943/?rss",
+   "pub_ts": 1794411320,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/11/news/negoziati_di_abu_dhabi_ucraina_russia_progressi_significativi-425715943/?rss",
+     "title": "Negoziati di Abu Dhabi, Kiev ci crede: “Progressi significativi”"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/11/news/usa_hegseth_camera_blocca_richiesta_impeachment-425714472/",
-     "title": "Usa, la Camera salva Hegseth: bocciata la procedura di impeachment"
+     "link": "https://www.repubblica.it/esteri/2026/11/11/news/negoziati_di_abu_dhabi_ucraina_russia_progressi_significativi-425715943/",
+     "title": "Negoziati di Abu Dhabi, Kiev ci crede: “Progressi significativi”"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-russia-negoziati-abu-dhabi-paesi-ue-ultime-notizie-oggi-10-novembre-hocqx9zh",
+     "title": "Conclusa la prima giornata di negoziati tra Mosca e Kiev ad Abu Dhabi. Rubio: «Sono stati produttivi»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Droni nei cieli dei Paesi Baltici, scatta l'allarme: i caccia Nato tentano di abbatterli",
+   "summary": "Cittadini in Lituania, Lettonia ed Estonia nei bunker. Mosca arresta due polacchi: raccoglievano informazioni su installazioni militari a Kaliningrad. Continua la discussione sugli aiuti a Kiev: Berlino chiede che tutti i Paesi Ue contribuiscano e minaccia di bloccare il...",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/droni_paesi_baltici_scatta_allarme_lituania_lettonia_estonia_caccia_nato-425715245/?rss",
+   "pub_ts": 1794394928,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/11/news/droni_paesi_baltici_scatta_allarme_lituania_lettonia_estonia_caccia_nato-425715245/?rss",
+     "title": "Droni nei cieli dei Paesi Baltici, scatta l'allarme: i caccia Nato tentano di abbatterli"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/11/news/droni_paesi_baltici_scatta_allarme_lituania_lettonia_estonia_caccia_nato-425715245/",
+     "title": "Droni nei cieli dei Paesi Baltici, scatta l'allarme: i caccia Nato tentano di abbatterli"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/droni-lituania-nato_2eDVtdl3COzxYZ0GdcUwb4",
+     "title": "Incursioni di droni in Lituania, scatta l'allarme: decollano i jet della Nato"
     }
    ]
   },
@@ -55,8 +195,8 @@
    "title": "Giudice respinge la richiesta della Bbc di archiviare la causa per diffamazione di Trump",
    "summary": "Il presidente: “Grande vittoria contro le fake news, l’emittente britannica distorce la verità”",
    "link": "https://www.repubblica.it/esteri/2026/11/11/news/giudice_respinge_richiesta_bbc_no_all_archiviazione_della_causa_per_diffamazione_di_trump-425714494/?rss",
-   "pub_ts": 1794393384,
-   "n_sources": 5,
+   "pub_ts": 1794380188,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -73,320 +213,150 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/11/autorizzazione-causa-trump-bbc/",
      "title": "Un tribunale della Florida ha autorizzato la prosecuzione della causa per diffamazione di Trump contro la BBC"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/11/news/giudice_respinge_richiesta_bbc_no_all_archiviazione_della_causa_per_diffamazione_di_trump-425714494/",
-     "title": "Giudice respinge la richiesta della Bbc di archiviare la causa per diffamazione di Trump"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/11/causa-trump-bbc-diffamazione-notizie/8567803/",
-     "title": "Il giudice respinge la richiesta della Bbc di archiviare la causa per diffamazione di Trump. Il presidente esulta: “Vittoria contro le fake news”"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Allarme bomba in decine di scuole in Italia, partito da una mail anonima",
-   "summary": "Evacuati studenti e personale di istituti. Nei giorni scorsi un episodio analogo con un messaggio di posta elettronica inviato a 280 presidi",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-in-decine-di-scuole-in-italia-partito-da-una-mail-anonima_870b0024-72d2-4b15-bab5-0c74dcc1d653.html",
-   "pub_ts": 1794392857,
-   "n_sources": 5,
+   "area": "italia",
+   "title": "Confindustria: 'Dalle imprese il 43% delle coperture della manovra'",
+   "summary": "Tra misure settoriali e interventi che incidono sulla liquidità generale",
+   "link": "https://www.ansa.it/sito/notizie/economia/pmi/2026/11/11/istat-frena-la-crescita-delloccupazione-nel-2026-2027-giu-la-disoccupazione_c6c2b0c5-93d2-4ea9-99a9-84315413c5b2.html",
+   "pub_ts": 1794421173,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-in-decine-di-scuole-in-italia-partito-da-una-mail-anonima_870b0024-72d2-4b15-bab5-0c74dcc1d653.html",
-     "title": "Allarme bomba in decine di scuole in Italia, partito da una mail anonima"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/11/scuola-allarme-bomba-mail-cosa-succede/",
-     "title": "Allarme bomba nelle scuole, la mail anonima: «Vi annienteremo». Evacuati studenti e prof: cosa sta succedendo"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/allarmi-bomba-in-oltre-cento-scuole-in-tutta-italia-mail-agli-istituti-studenti-evacuati-6fdcb91e-5ac8-48bf-85e9-8ab4fecf3e5c.html",
-     "title": "Allarmi bomba in oltre cento scuole in tutta Italia: mail agli istituti. Studenti evacuati"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole/",
-     "title": "Ci sono allarmi bomba in molte scuole d’Italia"
+     "link": "https://www.ansa.it/sito/notizie/economia/pmi/2026/11/11/istat-frena-la-crescita-delloccupazione-nel-2026-2027-giu-la-disoccupazione_c6c2b0c5-93d2-4ea9-99a9-84315413c5b2.html",
+     "title": "Confindustria: 'Dalle imprese il 43% delle coperture della manovra'"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/11/allarme-bomba-scuole-mail-anonima-notizie/8567829/",
-     "title": "Mail anonima fa scattare l’allarme bomba in oltre 100 scuole in Italia: evacuati studenti e docenti. Il testo: “Metteremo in atto un genocidio contro gli italiani”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/11/manovra-2027-confindustria-bonus-assunzioni-regioni-livelli-assistenza-a-rischio/8568398/",
+     "title": "Manovra, Confindustria: “Sgravi alle assunzioni? Non servono. Sostenere gli investimenti”. Le Regioni: “Non riusciamo più a garantire i Lea”"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Mosca, 'droni causano incendio in porto petrolifero sul Baltico'",
-   "summary": "Il governatore su Telegram, 'colpito lo scalo di Ust-Luga'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/mosca-droni-causano-incendio-in-porto-petrolifero-sul-baltico_8cb92fd7-6549-4260-bbc5-73ef1040ce61.html",
-   "pub_ts": 1794390363,
-   "n_sources": 4,
+   "area": "italia",
+   "title": "Gli effetti della guerra in Ucraina su Piombino",
+   "summary": "Il gruppo ucraino Metinvest doveva costruirci una nuova acciaieria, ma si è tirato indietro",
+   "link": "https://www.ilpost.it/2026/11/10/effetti-guerra-ucraina-piombino-acciaieria-metinvest-adria/",
+   "pub_ts": 1794418420,
+   "n_sources": 2,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/mosca-droni-causano-incendio-in-porto-petrolifero-sul-baltico_8cb92fd7-6549-4260-bbc5-73ef1040ce61.html",
-     "title": "Mosca, 'droni causano incendio in porto petrolifero sul Baltico'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/10/news/negoziati_abu_dhabi_chi_team_di_ucraina_russia_usa-425712605/?rss",
-     "title": "Colloqui ad Abu Dhabi: chi fa parte dei team negoziali di Ucraina, Russia e Usa"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-negoziati-usa-news-diretta-oggi-11-novembre_5aTep3nlJ5mGAjCh7licnI",
-     "title": "Ucraina-Russia, secondo round: continuano i negoziati ad Abu Dhabi - Diretta"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/guerra-ucraina-abu-dhabi-secondo-giorno-colloqui-mosca-nessuna-tregua-subito-2ff73d7f-125e-4fba-a916-d84fc50c8bdc.html",
-     "title": "Abu Dhabi, secondo giorno di colloqui Russia-USA-Ucraina. Attacco ucraino, incendio in porto"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Agenzia Ue, attacchi hacker potrebbero colpire anche elettrodomestici",
-   "summary": "O i routers wi-fi, 'servono investimenti per contrastare attacchi'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/10/agenzia-ue-attacchi-hacker-potrebbero-colpire-anche-elettrodomestici_5bfae2a2-cacf-428f-a701-243d8944a6cc.html",
-   "pub_ts": 1794387969,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/10/agenzia-ue-attacchi-hacker-potrebbero-colpire-anche-elettrodomestici_5bfae2a2-cacf-428f-a701-243d8944a6cc.html",
-     "title": "Agenzia Ue, attacchi hacker potrebbero colpire anche elettrodomestici"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/cyberattacchi-minaccia-hacker-anche-su-router-ed-elettrodomestici-lallarme-ue-il-rapporto--0e5d7bfe-f5ac-4148-a9a0-e08c13868964.html",
-     "title": "Cyberattacchi, minaccia hacker anche su router ed elettrodomestici: l'allarme Ue"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/agenzia-ue-allerta-cyberattacchi_11eDdAOIERsCDJVYr37dvd",
-     "title": "Cyberattacchi, agenzia Ue: \"Potrebbero colpire anche elettrodomestici e router\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/11/cybersicurezza-hacker-router-elettrodomestici-enisa-notizie/8567713/",
-     "title": "Dopo i supermercati, gli hacker potrebbero puntare alle case: “Nel mirino router ed elettrodomestici”. L’allarme dell’Agenzia Ue"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trilaterale sulla guerra in Ucraina. Lavrov: “No alla tregua europea”",
-   "summary": "Ad Abu Dhabi il vertice con Usa e Russia, partecipano anche i quattro del Vecchio continente. L’Italia insiste perché ci sia un inviato di Bruxelles. Rubio: “Incontri costruttivi e sostanziosi”",
-   "link": "https://www.repubblica.it/esteri/2026/11/11/news/trilaterale_abu_dhabi_guerra_ucraina_lavrov_no_tregua_europea-425714416/?rss",
-   "pub_ts": 1794355200,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/11/news/trilaterale_abu_dhabi_guerra_ucraina_lavrov_no_tregua_europea-425714416/?rss",
-     "title": "Trilaterale sulla guerra in Ucraina. Lavrov: “No alla tregua europea”"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/10/lavrov-non-accetteremo-le-richieste-europee-di-tregua-immediata-in-ucraina_0a697f5e-d6a9-41d3-9825-eb5169efad1c.html",
-     "title": "Lavrov, 'non accetteremo le richieste europee di tregua immediata in Ucraina'"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/lavrov-nessuna-tregua-russia-ucraina-accordo-usa-ue-sicurezza-europa-el1u5iox",
-     "title": "Ucraina, gelo del Cremlino sulle trattative, Lavrov: «Non accetteremo alcuna tregua»"
-    },
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/10/effetti-guerra-ucraina-piombino-acciaieria-metinvest-adria/",
      "title": "Gli effetti della guerra in Ucraina su Piombino"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/11/genocidio-ucraina-parlamento-europeo-risoluzione-notizie/8568305/",
+     "title": "Risoluzione bipartisan al Parlamento Ue: la guerra in Ucraina riconosciuta come “genocidio”. I 5S: “E Gaza?”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Meloni: 'Senza il bollo auto gli italiani risparmiano 2,3 miliardi'",
-   "summary": "La premier e i video sulla manovra: 'Illustrerò le principali misure. Tanti promettevano di abolirlo, noi l'abbiamo fatto'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/11/meloni-senza-il-bollo-auto-gli-italiani-risparmiano-23-miliardi_ff1ef14e-a7fd-4903-90e4-0749aaa6ba51.html",
-   "pub_ts": 1794392562,
-   "n_sources": 3,
-   "documented": true,
+   "title": "In corso a Palazzo Chigi il vertice di maggioranza sulla manovra con Meloni e Giorgetti",
+   "summary": "Presenti i vicepremier Salvini e Tajani e il leader di Nm Lupi",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/11/in-corso-a-palazzo-chigi-il-vertice-di-maggioranza-sulla-manovra-con-meloni-e-giorgetti_64424a18-35dc-40ab-9e3a-9d7b0a2f6661.html",
+   "pub_ts": 1794420005,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/11/meloni-senza-il-bollo-auto-gli-italiani-risparmiano-23-miliardi_ff1ef14e-a7fd-4903-90e4-0749aaa6ba51.html",
-     "title": "Meloni: 'Senza il bollo auto gli italiani risparmiano 2,3 miliardi'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/11/giorgia-meloni-bollo-auto-video/",
-     "title": "Meloni: «La sinistra vuole la patrimoniale, noi abbiamo abolito il bollo auto» – Il video"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/manovra-meloni-in-video-senza-il-bollo-auto-gli-italiani-risparmiano-23-miliardi-83368177-5ffc-4489-b80f-975b2592a9ba.html",
-     "title": "Manovra, Meloni in video: \"Senza il bollo auto gli italiani risparmiano 2,3 miliardi\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "PRIME PAGINE | Scontro sulle banche. Verso un nuovo vertice di maggioranza",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/11/prime-pagine-scontro-sulle-banche.-verso-un-nuovo-vertice-di-maggioranza_1829e03b-abfc-4850-a452-4ee26aee33bc.html",
-   "pub_ts": 1794379863,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/11/prime-pagine-scontro-sulle-banche.-verso-un-nuovo-vertice-di-maggioranza_1829e03b-abfc-4850-a452-4ee26aee33bc.html",
-     "title": "PRIME PAGINE | Scontro sulle banche. Verso un nuovo vertice di maggioranza"
-    },
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/manovra-labi-sulle-banche-dal-2025-misure-fiscali-per-22-miliardi_c2e7ae7d-cb17-4bcb-80d1-2c3b67244d5f.html",
-     "title": "Manovra: alta tensione sulle banche. Verso un nuovo vertice di maggioranza"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/11/le-prime-pagine-di-oggi-4731/",
-     "title": "Le prime pagine di oggi"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/11/in-corso-a-palazzo-chigi-il-vertice-di-maggioranza-sulla-manovra-con-meloni-e-giorgetti_64424a18-35dc-40ab-9e3a-9d7b0a2f6661.html",
+     "title": "In corso a Palazzo Chigi il vertice di maggioranza sulla manovra con Meloni e Giorgetti"
     }
    ]
   },
   {
-   "category": "politica",
-   "area": "italia",
-   "title": "Rachman: “Sui raid all’Iran Trump dovrà fermarsi o il governo si spaccherà”",
-   "summary": "Per l’analista britannico il leader Usa è costretto alla marcia indietro: “La guerra gli ha fatto perdere le elezioni, la situazione è cambiata”. Il ruolo sempre più ingombrante del vice JD Vance, il pessimismo per i negoziati in corso sull’Ucraina, l’Europa sotto assedio, il...",
-   "link": "https://www.repubblica.it/esteri/2026/11/11/news/rachman_intervista_elezioni_midterm_usa_trump_governo_spaccato_guerra_iran-425714088/?rss",
-   "pub_ts": 1794355200,
-   "n_sources": 2,
+   "category": "tech",
+   "area": null,
+   "title": "“Ha favorito Flavio Bolsonaro durante la campagna elettorale”: il Brasile multa Meta",
+   "summary": "Il gigante americano non ha rispettato l’imparzialità tra Lula e il suo avversario sulle sue piattaforme",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/brasile_multa_meta_bolsonaro_favorito_elezioni_campagna_elettorale-425714502/?rss",
+   "pub_ts": 1794393489,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/11/news/rachman_intervista_elezioni_midterm_usa_trump_governo_spaccato_guerra_iran-425714088/?rss",
-     "title": "Rachman: “Sui raid all’Iran Trump dovrà fermarsi o il governo si spaccherà”"
+     "link": "https://www.repubblica.it/esteri/2026/11/11/news/brasile_multa_meta_bolsonaro_favorito_elezioni_campagna_elettorale-425714502/?rss",
+     "title": "“Ha favorito Flavio Bolsonaro durante la campagna elettorale”: il Brasile multa Meta"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/11/news/rachman_intervista_elezioni_midterm_usa_trump_governo_spaccato_guerra_iran-425714088/",
-     "title": "Rachman: “Sui raid all’Iran Trump dovrà fermarsi o il governo si spaccherà”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Nuove minacce dagli hacker filorussi a Tajani: 'A chi è nell'albo d'onore la ricompensa arriva'",
-   "summary": "Lo riporta il Fatto.it. Si tratta di un post sul canale Telegram del gruppo 'No Name'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/nuove-minacce-dagli-hacker-filorussi-a-tajani-a-chi-e-nellalbo-donore-la-ricompensa_bf527e23-01e2-4c89-a347-62d26ac5382d.html",
-   "pub_ts": 1794353760,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/nuove-minacce-dagli-hacker-filorussi-a-tajani-a-chi-e-nellalbo-donore-la-ricompensa_bf527e23-01e2-4c89-a347-62d26ac5382d.html",
-     "title": "Nuove minacce dagli hacker filorussi a Tajani: 'A chi è nell'albo d'onore la ricompensa arriva'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/antonio-tajani-minacce-hacker-cybersicurezza-g7_60EacoRlcKW4X9KUuzEqhB",
-     "title": "Tajani al G7: \"Avanti con gli aiuti a Kiev, le minacce hacker non mi intimidiscono\""
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "La San Benedetto annuncia 120 licenziamenti",
-   "summary": "L'azienda annuncia a sorpresa il taglio del personale nello stabilimento di Scorzè, dove lavorano mille dipendenti. Previste 70 uscite volontarie. I sindacati proclamano lo stato di agitazione",
-   "link": "https://www.rainews.it/video/2026/11/la-san-benedetto-annuncia-120-licenziamenti-scorze-venezia-acqua-bf944b1c-c3eb-42fd-b088-80948eb21368.html",
-   "pub_ts": 1794374160,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/la-san-benedetto-annuncia-120-licenziamenti-scorze-venezia-acqua-bf944b1c-c3eb-42fd-b088-80948eb21368.html",
-     "title": "La San Benedetto annuncia 120 licenziamenti"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/brasile-meta-bolsonaro-lula/",
+     "title": "Cosa è successo in Brasile tra Meta, Bolsonaro e Lula"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/10/san-benedetto-licenziamenti-aumento-costi-adozione-ai/",
-     "title": "San Benedetto ha annunciato 120 licenziamenti e una riorganizzazione che prevede maggiore ricorso all’intelligenza artificiale"
+     "link": "https://www.ilpost.it/2026/11/11/brasile-meta-multa-elezioni-presidenziali-campagna-elettorale/",
+     "title": "Meta è stata multata in Brasile per non aver rispettato alcune norme sull’equo trattamento dei candidati durante le elezioni presidenziali"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Alexa Tablet 12 Pro, la prova: Amazon sorprende con Android e il display antiriflesso",
-   "summary": "Con la sua nuova linea di tablet, Amazon cambia si allontana dai vecchi Fire. Il topo di gamma è il 12 Pro, con materiali premium, Android completo con Google Play Store, un raffinato display antiriflesso e Alexa+. Lo abbiamo messo alla prova per capire quanto sia convincente...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/11/news/amazon-alexa-tablet-12-pro-recensione-425714014/?rss",
-   "pub_ts": 1794373200,
+   "title": "Migliaia di chip AI di NVIDIA in Cina, restrizioni inutili",
+   "summary": "Università e aziende cinesi inserite nella blacklist del Dipartimento del Commercio hanno ottenuto le GPU di NVIDIA, aggirando le restrizioni. The post Migliaia di chip AI di NVIDIA in Cina, restrizioni inutili appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/migliaia-chip-ai-nvidia-cina-restrizioni-inutili/",
+   "pub_ts": 1794415675,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/migliaia-chip-ai-nvidia-cina-restrizioni-inutili/",
+     "title": "Migliaia di chip AI di NVIDIA in Cina, restrizioni inutili"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/10/cosa-vuole-cina-nvidia/",
+     "title": "Cosa vuole la Cina da Nvidia"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Trucchi digitali vietati a tutti, non solo ai giganti. La stretta Ue su app, siti e videogiochi",
+   "summary": "La Commissione presenta il Digital Fairness Act, stop a finta scarsità, disdette impossibili e meccaniche \"da azzardo\" per i minori nei videogiochi. E Bruxelles si prende il potere di indagare e multare direttamente, fino al 6% del fatturato mondiale",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/11/news/trucchi_digitali_vietati_ue_app_siti_videogiochi-425715620/?rss",
+   "pub_ts": 1794403010,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/11/news/amazon-alexa-tablet-12-pro-recensione-425714014/?rss",
-     "title": "Alexa Tablet 12 Pro, la prova: Amazon sorprende con Android e il display antiriflesso"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/11/news/trucchi_digitali_vietati_ue_app_siti_videogiochi-425715620/?rss",
+     "title": "Trucchi digitali vietati a tutti, non solo ai giganti. La stretta Ue su app, siti e videogiochi"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Gemini Intelligence anche su Pixel 10 e motorola signature 27",
-   "summary": "Google ha rilasciato il PIxel Drop di novembre con diverse novità, tra cui le funzionalità di Gemini Intelligence per i Pixel 10 (Pixel 10a escluso). The post Gemini Intelligence anche su Pixel 10 e motorola signature 27 appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/gemini-intelligence-anche-su-pixel-10-e-motorola-signature-27/",
-   "pub_ts": 1794391691,
+   "title": "Anthropic sulla scia di Microsoft e Google. Nuova suite per ufficio a ridosso della quotazione",
+   "summary": "Anthropic si allinea a Microsoft e a Google con una suite per l’ufficio integrata nel suo assistente Claude e, in vista del debutto al Nasdaq, le due rivali si sono impegnate a investire in Anthropic 11 miliardi di dollari complessivi",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/11/news/anthropic_suite_ufficio_quotazione-425715336/?rss",
+   "pub_ts": 1794395887,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/gemini-intelligence-anche-su-pixel-10-e-motorola-signature-27/",
-     "title": "Gemini Intelligence anche su Pixel 10 e motorola signature 27"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Businesses in ChatGPT, OpenAI strizza l’occhio alle aziende",
-   "summary": "Lancio in beta per Businesses in ChatGPT: le aziende possono gestire la loro presenza nel servizio e raggiungere così nuovi clienti. The post Businesses in ChatGPT, OpenAI strizza l’occhio alle aziende appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/businesses-in-chatgpt/",
-   "pub_ts": 1794390986,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/businesses-in-chatgpt/",
-     "title": "Businesses in ChatGPT, OpenAI strizza l’occhio alle aziende"
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/11/news/anthropic_suite_ufficio_quotazione-425715336/?rss",
+     "title": "Anthropic sulla scia di Microsoft e Google. Nuova suite per ufficio a ridosso della quotazione"
     }
    ]
   },
@@ -421,45 +391,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Mazzi, 'con la Giornata Nazionale degli Abiti Storici celebriamo identità e bellezza'",
-   "summary": "oltre 110 iniziative nel Paese fino all'11 dicembre, in Italia 1.294 rievocazioni storiche",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/mazzi-con-la-giornata-nazionale-degli-abiti-storici-celebriamo-identita-e-bellezza_b5d2ac42-0fec-4512-959e-2bef26213238.html",
-   "pub_ts": 1794392358,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/mazzi-con-la-giornata-nazionale-degli-abiti-storici-celebriamo-identita-e-bellezza_b5d2ac42-0fec-4512-959e-2bef26213238.html",
-     "title": "Mazzi, 'con la Giornata Nazionale degli Abiti Storici celebriamo identità e bellezza'"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cronaca/giornata-nazionale-degli-abiti-storici-oltre-110-iniziative-in-tutta-italia-fino-all11-dicembre_2uxCmr2BeKnjTS4z5kszKz",
-     "title": "Giornata Nazionale degli Abiti Storici, oltre 110 iniziative in tutta Italia fino all'11 dicembre"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Houellebecq indagato in Francia per 'istigazione all'odio' contro islamici",
-   "summary": "Sotto la lente di un giudice istruttore delle dichiarazioni rilasciate in un'intervista",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/10/houellebecq-indagato-in-francia-per-istigazione-allodio-contro-islamici_e16a107a-20ee-4fd7-9f89-9416ec5fba1b.html",
-   "pub_ts": 1794389160,
+   "title": "La Rai avvia accertamenti su Bellama' di Diaco. Il conduttore: 'La mia giornata più difficile, ma bisogna andare avanti'",
+   "summary": "Dopo la diffusione di audio fuori onda nell'inchiesta di Selvaggia Lucarelli e dopo le polemiche sull'intervista a Ravagnani",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/11/la-rai-avvia-accertamenti-su-bellama-di-diaco.-il-conduttore-la-mia-giornata-piu-difficile_227263e9-89b9-4ac4-995c-60f27cad298a.html",
+   "pub_ts": 1794421002,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/10/houellebecq-indagato-in-francia-per-istigazione-allodio-contro-islamici_e16a107a-20ee-4fd7-9f89-9416ec5fba1b.html",
-     "title": "Houellebecq indagato in Francia per 'istigazione all'odio' contro islamici"
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/11/la-rai-avvia-accertamenti-su-bellama-di-diaco.-il-conduttore-la-mia-giornata-piu-difficile_227263e9-89b9-4ac4-995c-60f27cad298a.html",
+     "title": "La Rai avvia accertamenti su Bellama' di Diaco. Il conduttore: 'La mia giornata più difficile, ma bisogna andare avanti'"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/francia-houellebecq-sotto-indagine-per-istigazione-allodio-contro-i-musulmani-bbaae6c2-dfe9-43c8-8dfb-5b026d19fdc2.html",
-     "title": "Francia: Houellebecq sotto indagine per istigazione all’odio contro i musulmani"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/11/news/bellama_rai_avvia_indagine_interna_su_diaco-425715743/",
+     "title": "“BellaMà”, la Rai avvia indagine interna su Diaco. “La giornata più difficile della mia vita”"
     }
    ],
    "subtype": "cultura"
@@ -467,17 +414,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Sulla pelle spesso i segnali di malattie rare. Una su 4 dà manifestazioni cutanee",
-   "summary": "Dermatologi, verso terapie innovative ma è cruciale la diagnosi precoce",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/10/sulla-pelle-spesso-i-segnali-di-malattie-rare.-una-su-4-da-manifestazioni-cutanee_a5d8a295-bce1-46c0-93bd-085917b08e21.html",
-   "pub_ts": 1794388084,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Tumore del seno, da Europa Donna Italia 373mila ore di volontariato",
+   "summary": "Il rapporto di Teha sul 2025, raggiunti con le attività 93mila donne e 1.900 caregiver",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/11/tumore-del-seno-da-europa-donna-italia-373mila-ore-di-volontariato_0fa92566-ebac-4a73-a0ac-b5d0e59b5f89.html",
+   "pub_ts": 1794419790,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/10/sulla-pelle-spesso-i-segnali-di-malattie-rare.-una-su-4-da-manifestazioni-cutanee_a5d8a295-bce1-46c0-93bd-085917b08e21.html",
-     "title": "Sulla pelle spesso i segnali di malattie rare. Una su 4 dà manifestazioni cutanee"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/11/tumore-del-seno-da-europa-donna-italia-373mila-ore-di-volontariato_0fa92566-ebac-4a73-a0ac-b5d0e59b5f89.html",
+     "title": "Tumore del seno, da Europa Donna Italia 373mila ore di volontariato"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-11112026-871f97e5-b3e1-48aa-969d-68b80a8b1ab3.html",
+     "title": "TG2 Italia Europa del 11/11/2026"
     }
    ],
    "subtype": "scienza"
@@ -485,17 +437,45 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Michele Ronco: “A 35 anni ho scoperto di avere un tumore raro, così ho cominciato a studiarlo”",
-   "summary": "Fisico e ricercatore ha reagito alla diagnosi di un carcinoma al polmone al quarto stadio, con metastasi al cervello e al fegato, mettendo le proprie competenze al servizio della scienza. Ha fondato Allkure, un progetto no profit che raccoglie i dati clinici dei pazienti che...",
-   "link": "https://www.repubblica.it/salute/2026/11/11/news/michele_ronco_tumore_polmoni_raro_ricerca_storia-425715113/?rss",
-   "pub_ts": 1794392703,
-   "n_sources": 1,
-   "documented": false,
+   "title": "È ufficiale la reunion dei Maneskin, nella line up del Coachella Festival 2027",
+   "summary": "Sul palco Madonna, Dua Lipa, Tame Impala, SZA e Giorgio Moroder",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/11/e-ufficiale-la-reunion-dei-maneskin-nella-line-up-del-coachella-festival-227_d0f4f327-61a6-4ae8-9cf3-3224a65ae4ad.html",
+   "pub_ts": 1794417337,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
-     "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/2026/11/11/news/michele_ronco_tumore_polmoni_raro_ricerca_storia-425715113/?rss",
-     "title": "Michele Ronco: “A 35 anni ho scoperto di avere un tumore raro, così ho cominciato a studiarlo”"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/11/e-ufficiale-la-reunion-dei-maneskin-nella-line-up-del-coachella-festival-227_d0f4f327-61a6-4ae8-9cf3-3224a65ae4ad.html",
+     "title": "È ufficiale la reunion dei Maneskin, nella line up del Coachella Festival 2027"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/mneskin-e-ufficiale-tornano-insieme-al-coachella-2027-dopo-tre-anni-di-pausa-dbb8902b-d36e-4101-a7ca-b27252a989e1.html",
+     "title": "Måneskin, è ufficiale: tornano insieme al Coachella 2027 dopo tre anni di pausa"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "A Trani la Bibliofarmacia, i libri con il bugiardino per curare l'anima",
+   "summary": "La direttrice: \"Pensiamo al valore terapeutico che può avere la lettura\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/11/a-trani-la-bibliofarmacia-i-libri-con-il-bugiardino-per-curare-lanima_5617e999-5203-4f75-964a-90873d8462bd.html",
+   "pub_ts": 1794416402,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/11/a-trani-la-bibliofarmacia-i-libri-con-il-bugiardino-per-curare-lanima_5617e999-5203-4f75-964a-90873d8462bd.html",
+     "title": "A Trani la Bibliofarmacia, i libri con il bugiardino per curare l'anima"
+    },
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/11/a-trani-la-bibliofarmacia-i-libri-con-il-bugiardino-per-curare-lanima_a41074ce-52c9-42b7-8ed6-d3a7168a373e.html",
+     "title": "A Trani la Bibliofarmacia, i libri con il bugiardino per curare l'anima"
     }
    ],
    "subtype": "scienza"
@@ -503,48 +483,120 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Israele, si insedia il Parlamento: chiesta commissione sul 7 ottobre. Scontro Eisenkot-Netanyahu",
-   "summary": "Bibi ha accusato il blocco del Cambiamento guidato dall’ex generale di voler formare un governo con “i nemici di Israele”. Durante l’inno israeliano i deputati arabi sono usciti dall’Aula, a eccezione di Abbas, presidente del Ràam, che è rimasto ma senza aprire bocca",
-   "link": "https://www.repubblica.it/esteri/2026/11/11/news/israele_insedia_parlamento_chiesta_commissione_7_ottobre_scontro_eisenkot_netanyahu-425714039/?rss",
-   "pub_ts": 1794386340,
-   "n_sources": 5,
+   "title": "La strage di Viareggio, Moretti fuori dal carcere dopo 4 mesi",
+   "summary": "Ex ad Fs sconterà la condanna ai domiciliari per 'motivi di salute'. Vittime: 'Nessuna pena'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/strage-di-viareggio-moretti-esce-dal-carcere-scontera-la-condanna-a-casa_18081359-f478-46ae-82c6-bff622bb5011.html",
+   "pub_ts": 1794420742,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/11/news/israele_insedia_parlamento_chiesta_commissione_7_ottobre_scontro_eisenkot_netanyahu-425714039/?rss",
-     "title": "Israele, si insedia il Parlamento: chiesta commissione sul 7 ottobre. Scontro Eisenkot-Netanyahu"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/strage-di-viareggio-moretti-esce-dal-carcere-scontera-la-condanna-a-casa_18081359-f478-46ae-82c6-bff622bb5011.html",
+     "title": "La strage di Viareggio, Moretti fuori dal carcere dopo 4 mesi"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-iran-usa-israele-news-oggi-11-novembre_2ixavWwRmrcdtbAhipLH1c",
-     "title": "Iran, il retroscena: \"Lite furibonda Trump-Netanyahu sulla possibilità di riprendere la guerra\""
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/strage-viareggio-moretti-esce-dal-carcere-scontera-la-condanna-a-casa_7ca735e5-05c2-4f15-a4e3-00f0da913fc6.html",
+     "title": "Strage Viareggio: Moretti esce dal carcere, sconterà la condanna a casa"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/11/trump-netanyahu-lite-iran-israele-lobby/",
-     "title": "La lite tra Trump e Netanyahu sull’Iran (e le difficoltà della lobby pro-Israele dopo le Midterm)"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/strage-di-viareggio-moretti-esce-dal-carcere-scontera-la-condanna-a-casa-4c721bea-4882-4e19-90ac-879866168714.html",
+     "title": "Strage di Viareggio: Mauro Moretti esce dal carcere, sconterà la condanna a casa"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/11/israele-parlamento-eisenkot-netanyahu/",
-     "title": "In Israele è già Eisenkot contro Netanyahu"
+     "name": "la Repubblica",
+     "link": "https://firenze.repubblica.it/cronaca/2026/11/11/news/strage_viareggio_mauro_moretti_domiciliari_roma_carcere_orvieto_condanna_ferrovie-425714863/",
+     "title": "Strage di Viareggio, Moretti ai domiciliari dopo 4 mesi di carcere: “Dimagrito 15 chili”"
+    }
+   ]
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Crollo durante una ristrutturazione, morti due operai nell'Aquilano",
+   "summary": "Si scava per soccorrere altri lavoratori a Palazzo Paolini",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/crollo-durante-ristrutturazione-morti-due-operai-nellaquilano_9e64a322-74e8-4722-bf41-00a1c1315026.html",
+   "pub_ts": 1794419880,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/crollo-durante-ristrutturazione-morti-due-operai-nellaquilano_9e64a322-74e8-4722-bf41-00a1c1315026.html",
+     "title": "Crollo durante una ristrutturazione, morti due operai nell'Aquilano"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/-ogqlkfb9",
-     "title": "Ynet: telefonata di fuoco tra Trump e Netanyahu sull’Iran. Altri cinque morti a Gaza"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/crollo-a-fontecchio-due-operai-morti-il-terzo-estratto-vivo-dalle-macerie-oggi-7fb54e68-68d6-4fbc-a806-f0cea8ca4959.html",
+     "title": "Crollo a Fontecchio: due operai morti, il terzo estratto vivo dalle macerie"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/11/news/morti_due_operai_san_pio_fontecchio_ristrutturazione_palazzo_paolini-425716234/",
+     "title": "Morti due operai nell'Aquilano, ristrutturavano un edificio storico danneggiato dal sisma del 2009"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/11/crollo-fontecchio-operai-morti-notizie/8568476/",
+     "title": "Due operai morti per il crollo durante i lavori di ristrutturazione di palazzo Paolini a San Pio di Fontecchio"
     }
    ]
   }
  ],
  "articles": [
   {
+   "title": "Ucraina, colloqui trilaterali ad Abu Dhabi, Kushner: 'Domani vedremo Putin a Mosca, poi Zelensky a Dublino'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/11/ucraina-colloqui-trilaterali-ad-abu-dhabi-kushner-domani-vedremo-putin-a-mosca_275a59ea-50f5-4e6e-8d90-89aa9c12e2d0.html",
+   "description": "Il capo negoziatore ucraino: 'Permangono ancora divergenze significative'. Kallas: 'Nessuna disponibilità della Russia a negoziare seriamente'. Medinsky: 'Mosca e Kiev hanno concordato un enorme scambio di prigionieri'",
+   "pub_ts": 1794414966,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "La Camera Usa boccia la procedura di impeachment per Hegseth",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/11/la-camera-usa-boccia-la-procedura-di-impeachment-per-hegseth_2979584a-b939-48f3-bb33-2ca237fbebf5.html",
    "description": "Trump lo difende: 'E' da 10 e lode'",
-   "pub_ts": 1794389162,
+   "pub_ts": 1794412288,
    "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Cop31, Guterres sui fossili: “Devono estinguersi come dinosauri”. Ma i leader lo ignorano",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/cop31_guterres_fossili_devono_estinguersi_come_dinosauri_leader_ignorano-425716259/?rss",
+   "description": "Il segretario generale dell’Onu: “Ma questo non accadrà da solo perché i dinosauri non avevano una lobby, i combustibili fossili sì”. I pochi big arrivati in Turchia non menzionano petrolio e gas, l’unico è Lula",
+   "pub_ts": 1794421560,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Tajani: 'Ricevuti nuovi cyberattacchi, taglia anche su minori della mia famiglia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/tajani-ricevuti-nuovi-cyberattacchi-taglia-anche-su-minori-della-mia-famiglia_4747829e-9536-4d27-98df-0169f9ec722c.html",
+   "description": "'Anche oggi nuove intimidazioni'",
+   "pub_ts": 1794411722,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Negoziati di Abu Dhabi, Kiev ci crede: “Progressi significativi”",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/negoziati_di_abu_dhabi_ucraina_russia_progressi_significativi-425715943/?rss",
+   "description": "Le distanze con i russi restano, soprattutto sui territori. Ma gli ucraini si mostrano soddisfatti dei risultati dei trilaterali con gli Stati Uniti. In vista il più grande scambio di prigionieri",
+   "pub_ts": 1794411320,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Droni nei cieli dei Paesi Baltici, scatta l'allarme: i caccia Nato tentano di abbatterli",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/droni_paesi_baltici_scatta_allarme_lituania_lettonia_estonia_caccia_nato-425715245/?rss",
+   "description": "Cittadini in Lituania, Lettonia ed Estonia nei bunker. Mosca arresta due polacchi: raccoglievano informazioni su installazioni militari a Kaliningrad. Continua la discussione sugli aiuti a Kiev: Berlino chiede che tutti i Paesi Ue contribuiscano e minaccia di bloccare il...",
+   "pub_ts": 1794394928,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -552,116 +604,71 @@
    "title": "Giudice respinge la richiesta della Bbc di archiviare la causa per diffamazione di Trump",
    "link": "https://www.repubblica.it/esteri/2026/11/11/news/giudice_respinge_richiesta_bbc_no_all_archiviazione_della_causa_per_diffamazione_di_trump-425714494/?rss",
    "description": "Il presidente: “Grande vittoria contro le fake news, l’emittente britannica distorce la verità”",
-   "pub_ts": 1794393384,
+   "pub_ts": 1794380188,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Allarme bomba in decine di scuole in Italia, partito da una mail anonima",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-in-decine-di-scuole-in-italia-partito-da-una-mail-anonima_870b0024-72d2-4b15-bab5-0c74dcc1d653.html",
-   "description": "Evacuati studenti e personale di istituti. Nei giorni scorsi un episodio analogo con un messaggio di posta elettronica inviato a 280 presidi",
-   "pub_ts": 1794392857,
+   "title": "Confindustria: 'Dalle imprese il 43% delle coperture della manovra'",
+   "link": "https://www.ansa.it/sito/notizie/economia/pmi/2026/11/11/istat-frena-la-crescita-delloccupazione-nel-2026-2027-giu-la-disoccupazione_c6c2b0c5-93d2-4ea9-99a9-84315413c5b2.html",
+   "description": "Tra misure settoriali e interventi che incidono sulla liquidità generale",
+   "pub_ts": 1794421173,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Mosca, 'droni causano incendio in porto petrolifero sul Baltico'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/mosca-droni-causano-incendio-in-porto-petrolifero-sul-baltico_8cb92fd7-6549-4260-bbc5-73ef1040ce61.html",
-   "description": "Il governatore su Telegram, 'colpito lo scalo di Ust-Luga'",
-   "pub_ts": 1794390363,
-   "source": "ANSA Mondo",
+   "title": "Gli effetti della guerra in Ucraina su Piombino",
+   "link": "https://www.ilpost.it/2026/11/10/effetti-guerra-ucraina-piombino-acciaieria-metinvest-adria/",
+   "description": "Il gruppo ucraino Metinvest doveva costruirci una nuova acciaieria, ma si è tirato indietro",
+   "pub_ts": 1794418420,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Agenzia Ue, attacchi hacker potrebbero colpire anche elettrodomestici",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/10/agenzia-ue-attacchi-hacker-potrebbero-colpire-anche-elettrodomestici_5bfae2a2-cacf-428f-a701-243d8944a6cc.html",
-   "description": "O i routers wi-fi, 'servono investimenti per contrastare attacchi'",
-   "pub_ts": 1794387969,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trilaterale sulla guerra in Ucraina. Lavrov: “No alla tregua europea”",
-   "link": "https://www.repubblica.it/esteri/2026/11/11/news/trilaterale_abu_dhabi_guerra_ucraina_lavrov_no_tregua_europea-425714416/?rss",
-   "description": "Ad Abu Dhabi il vertice con Usa e Russia, partecipano anche i quattro del Vecchio continente. L’Italia insiste perché ci sia un inviato di Bruxelles. Rubio: “Incontri costruttivi e sostanziosi”",
-   "pub_ts": 1794355200,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Meloni: 'Senza il bollo auto gli italiani risparmiano 2,3 miliardi'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/11/meloni-senza-il-bollo-auto-gli-italiani-risparmiano-23-miliardi_ff1ef14e-a7fd-4903-90e4-0749aaa6ba51.html",
-   "description": "La premier e i video sulla manovra: 'Illustrerò le principali misure. Tanti promettevano di abolirlo, noi l'abbiamo fatto'",
-   "pub_ts": 1794392562,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "PRIME PAGINE | Scontro sulle banche. Verso un nuovo vertice di maggioranza",
-   "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/11/prime-pagine-scontro-sulle-banche.-verso-un-nuovo-vertice-di-maggioranza_1829e03b-abfc-4850-a452-4ee26aee33bc.html",
-   "description": "",
-   "pub_ts": 1794379863,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Rachman: “Sui raid all’Iran Trump dovrà fermarsi o il governo si spaccherà”",
-   "link": "https://www.repubblica.it/esteri/2026/11/11/news/rachman_intervista_elezioni_midterm_usa_trump_governo_spaccato_guerra_iran-425714088/?rss",
-   "description": "Per l’analista britannico il leader Usa è costretto alla marcia indietro: “La guerra gli ha fatto perdere le elezioni, la situazione è cambiata”. Il ruolo sempre più ingombrante del vice JD Vance, il pessimismo per i negoziati in corso sull’Ucraina, l’Europa sotto assedio, il...",
-   "pub_ts": 1794355200,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nuove minacce dagli hacker filorussi a Tajani: 'A chi è nell'albo d'onore la ricompensa arriva'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/10/nuove-minacce-dagli-hacker-filorussi-a-tajani-a-chi-e-nellalbo-donore-la-ricompensa_bf527e23-01e2-4c89-a347-62d26ac5382d.html",
-   "description": "Lo riporta il Fatto.it. Si tratta di un post sul canale Telegram del gruppo 'No Name'",
-   "pub_ts": 1794353760,
+   "title": "In corso a Palazzo Chigi il vertice di maggioranza sulla manovra con Meloni e Giorgetti",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/11/in-corso-a-palazzo-chigi-il-vertice-di-maggioranza-sulla-manovra-con-meloni-e-giorgetti_64424a18-35dc-40ab-9e3a-9d7b0a2f6661.html",
+   "description": "Presenti i vicepremier Salvini e Tajani e il leader di Nm Lupi",
+   "pub_ts": 1794420005,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "La San Benedetto annuncia 120 licenziamenti",
-   "link": "https://www.rainews.it/video/2026/11/la-san-benedetto-annuncia-120-licenziamenti-scorze-venezia-acqua-bf944b1c-c3eb-42fd-b088-80948eb21368.html",
-   "description": "L'azienda annuncia a sorpresa il taglio del personale nello stabilimento di Scorzè, dove lavorano mille dipendenti. Previste 70 uscite volontarie. I sindacati proclamano lo stato di agitazione",
-   "pub_ts": 1794374160,
-   "source": "Rai News",
+   "title": "“Ha favorito Flavio Bolsonaro durante la campagna elettorale”: il Brasile multa Meta",
+   "link": "https://www.repubblica.it/esteri/2026/11/11/news/brasile_multa_meta_bolsonaro_favorito_elezioni_campagna_elettorale-425714502/?rss",
+   "description": "Il gigante americano non ha rispettato l’imparzialità tra Lula e il suo avversario sulle sue piattaforme",
+   "pub_ts": 1794393489,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Alexa Tablet 12 Pro, la prova: Amazon sorprende con Android e il display antiriflesso",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/11/news/amazon-alexa-tablet-12-pro-recensione-425714014/?rss",
-   "description": "Con la sua nuova linea di tablet, Amazon cambia si allontana dai vecchi Fire. Il topo di gamma è il 12 Pro, con materiali premium, Android completo con Google Play Store, un raffinato display antiriflesso e Alexa+. Lo abbiamo messo alla prova per capire quanto sia convincente...",
-   "pub_ts": 1794373200,
+   "title": "Migliaia di chip AI di NVIDIA in Cina, restrizioni inutili",
+   "link": "https://www.punto-informatico.it/migliaia-chip-ai-nvidia-cina-restrizioni-inutili/",
+   "description": "Università e aziende cinesi inserite nella blacklist del Dipartimento del Commercio hanno ottenuto le GPU di NVIDIA, aggirando le restrizioni. The post Migliaia di chip AI di NVIDIA in Cina, restrizioni inutili appeared first on Punto Informatico .",
+   "pub_ts": 1794415675,
+   "source": "Punto Informatico",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Trucchi digitali vietati a tutti, non solo ai giganti. La stretta Ue su app, siti e videogiochi",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/11/news/trucchi_digitali_vietati_ue_app_siti_videogiochi-425715620/?rss",
+   "description": "La Commissione presenta il Digital Fairness Act, stop a finta scarsità, disdette impossibili e meccaniche \"da azzardo\" per i minori nei videogiochi. E Bruxelles si prende il potere di indagare e multare direttamente, fino al 6% del fatturato mondiale",
+   "pub_ts": 1794403010,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Gemini Intelligence anche su Pixel 10 e motorola signature 27",
-   "link": "https://www.punto-informatico.it/gemini-intelligence-anche-su-pixel-10-e-motorola-signature-27/",
-   "description": "Google ha rilasciato il PIxel Drop di novembre con diverse novità, tra cui le funzionalità di Gemini Intelligence per i Pixel 10 (Pixel 10a escluso). The post Gemini Intelligence anche su Pixel 10 e motorola signature 27 appeared first on Punto Informatico .",
-   "pub_ts": 1794391691,
-   "source": "Punto Informatico",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Businesses in ChatGPT, OpenAI strizza l’occhio alle aziende",
-   "link": "https://www.punto-informatico.it/businesses-in-chatgpt/",
-   "description": "Lancio in beta per Businesses in ChatGPT: le aziende possono gestire la loro presenza nel servizio e raggiungere così nuovi clienti. The post Businesses in ChatGPT, OpenAI strizza l’occhio alle aziende appeared first on Punto Informatico .",
-   "pub_ts": 1794390986,
-   "source": "Punto Informatico",
+   "title": "Anthropic sulla scia di Microsoft e Google. Nuova suite per ufficio a ridosso della quotazione",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/11/news/anthropic_suite_ufficio_quotazione-425715336/?rss",
+   "description": "Anthropic si allinea a Microsoft e a Google con una suite per l’ufficio integrata nel suo assistente Claude e, in vista del debutto al Nasdaq, le due rivali si sono impegnate a investire in Anthropic 11 miliardi di dollari complessivi",
+   "pub_ts": 1794395887,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -675,47 +682,56 @@
    "section": "varia"
   },
   {
-   "title": "Mazzi, 'con la Giornata Nazionale degli Abiti Storici celebriamo identità e bellezza'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/mazzi-con-la-giornata-nazionale-degli-abiti-storici-celebriamo-identita-e-bellezza_b5d2ac42-0fec-4512-959e-2bef26213238.html",
-   "description": "oltre 110 iniziative nel Paese fino all'11 dicembre, in Italia 1.294 rievocazioni storiche",
-   "pub_ts": 1794392358,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Houellebecq indagato in Francia per 'istigazione all'odio' contro islamici",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/10/houellebecq-indagato-in-francia-per-istigazione-allodio-contro-islamici_e16a107a-20ee-4fd7-9f89-9416ec5fba1b.html",
-   "description": "Sotto la lente di un giudice istruttore delle dichiarazioni rilasciate in un'intervista",
-   "pub_ts": 1794389160,
+   "title": "La Rai avvia accertamenti su Bellama' di Diaco. Il conduttore: 'La mia giornata più difficile, ma bisogna andare avanti'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/11/la-rai-avvia-accertamenti-su-bellama-di-diaco.-il-conduttore-la-mia-giornata-piu-difficile_227263e9-89b9-4ac4-995c-60f27cad298a.html",
+   "description": "Dopo la diffusione di audio fuori onda nell'inchiesta di Selvaggia Lucarelli e dopo le polemiche sull'intervista a Ravagnani",
+   "pub_ts": 1794421002,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Sulla pelle spesso i segnali di malattie rare. Una su 4 dà manifestazioni cutanee",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/10/sulla-pelle-spesso-i-segnali-di-malattie-rare.-una-su-4-da-manifestazioni-cutanee_a5d8a295-bce1-46c0-93bd-085917b08e21.html",
-   "description": "Dermatologi, verso terapie innovative ma è cruciale la diagnosi precoce",
-   "pub_ts": 1794388084,
+   "title": "Tumore del seno, da Europa Donna Italia 373mila ore di volontariato",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/11/tumore-del-seno-da-europa-donna-italia-373mila-ore-di-volontariato_0fa92566-ebac-4a73-a0ac-b5d0e59b5f89.html",
+   "description": "Il rapporto di Teha sul 2025, raggiunti con le attività 93mila donne e 1.900 caregiver",
+   "pub_ts": 1794419790,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Michele Ronco: “A 35 anni ho scoperto di avere un tumore raro, così ho cominciato a studiarlo”",
-   "link": "https://www.repubblica.it/salute/2026/11/11/news/michele_ronco_tumore_polmoni_raro_ricerca_storia-425715113/?rss",
-   "description": "Fisico e ricercatore ha reagito alla diagnosi di un carcinoma al polmone al quarto stadio, con metastasi al cervello e al fegato, mettendo le proprie competenze al servizio della scienza. Ha fondato Allkure, un progetto no profit che raccoglie i dati clinici dei pazienti che...",
-   "pub_ts": 1794392703,
-   "source": "Repubblica Salute",
+   "title": "È ufficiale la reunion dei Maneskin, nella line up del Coachella Festival 2027",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/11/e-ufficiale-la-reunion-dei-maneskin-nella-line-up-del-coachella-festival-227_d0f4f327-61a6-4ae8-9cf3-3224a65ae4ad.html",
+   "description": "Sul palco Madonna, Dua Lipa, Tame Impala, SZA e Giorgio Moroder",
+   "pub_ts": 1794417337,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Israele, si insedia il Parlamento: chiesta commissione sul 7 ottobre. Scontro Eisenkot-Netanyahu",
-   "link": "https://www.repubblica.it/esteri/2026/11/11/news/israele_insedia_parlamento_chiesta_commissione_7_ottobre_scontro_eisenkot_netanyahu-425714039/?rss",
-   "description": "Bibi ha accusato il blocco del Cambiamento guidato dall’ex generale di voler formare un governo con “i nemici di Israele”. Durante l’inno israeliano i deputati arabi sono usciti dall’Aula, a eccezione di Abbas, presidente del Ràam, che è rimasto ma senza aprire bocca",
-   "pub_ts": 1794386340,
-   "source": "Repubblica Esteri",
+   "title": "A Trani la Bibliofarmacia, i libri con il bugiardino per curare l'anima",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/11/a-trani-la-bibliofarmacia-i-libri-con-il-bugiardino-per-curare-lanima_5617e999-5203-4f75-964a-90873d8462bd.html",
+   "description": "La direttrice: \"Pensiamo al valore terapeutico che può avere la lettura\"",
+   "pub_ts": 1794416402,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "La strage di Viareggio, Moretti fuori dal carcere dopo 4 mesi",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/strage-di-viareggio-moretti-esce-dal-carcere-scontera-la-condanna-a-casa_18081359-f478-46ae-82c6-bff622bb5011.html",
+   "description": "Ex ad Fs sconterà la condanna ai domiciliari per 'motivi di salute'. Vittime: 'Nessuna pena'",
+   "pub_ts": 1794420742,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "cronaca"
+  },
+  {
+   "title": "Crollo durante una ristrutturazione, morti due operai nell'Aquilano",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/crollo-durante-ristrutturazione-morti-due-operai-nellaquilano_9e64a322-74e8-4722-bf41-00a1c1315026.html",
+   "description": "Si scava per soccorrere altri lavoratori a Palazzo Paolini",
+   "pub_ts": 1794419880,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   }
