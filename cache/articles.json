@@ -1,6 +1,6 @@
 {
- "generated_at": 1794476139,
- "updated_at": 1794476139,
+ "generated_at": 1794506602,
+ "updated_at": 1794506602,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,126 +10,57 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Si rientra in classe dopo gli allarmi nelle scuole, vertice a Palazzo Chigi: Meloni incontra le opposizioni e fa appello all'unità",
-   "summary": "La Premier: 'Vogliono creare il caos'. Ieri inviate mail anonime in oltre seimila istituti scolastici",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
-   "pub_ts": 1794475189,
-   "n_sources": 7,
+   "title": "Palazzo Chigi, allarmi bomba in 3.788 scuole, solo 77 evacuate",
+   "summary": "36 hanno subito ripreso. 'Le indicazioni a prefetti e presidi hanno funzionato'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/palazzo-chigi-allarmi-bomba-in-3.788-scuole-solo-77-evacuate_729bfd9b-5d6f-40b5-bde5-f3fe26c6e741.html",
+   "pub_ts": 1794502646,
+   "n_sources": 9,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
-     "title": "Si rientra in classe dopo gli allarmi nelle scuole, vertice a Palazzo Chigi: Meloni incontra le opposizioni e fa appello all'unità"
-    },
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/allarmi-bomba-meloni-al-tavolo-con-le-opposizioni-fa-appello-allunita_8bc822aa-4b98-4420-8f30-14a3c7785070.html",
-     "title": "Allarmi bomba: Meloni al tavolo con le opposizioni fa appello all'unità"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/palazzo-chigi-allarmi-bomba-in-3.788-scuole-solo-77-evacuate_729bfd9b-5d6f-40b5-bde5-f3fe26c6e741.html",
+     "title": "Palazzo Chigi, allarmi bomba in 3.788 scuole, solo 77 evacuate"
     },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/meloni-vertice-palazzo-chigi-opposizioni-allarmi-bomba-scuole-cybersicurezza-y8tq9yy8",
-     "title": "Allarmi bomba, Meloni incontra le opposizioni e fa appello all’unità"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/12/news/leader_opposizioni_palazzo_chigi_meloni_attacchi_hacker-425717289/",
-     "title": "Hacker, appello Meloni all’unità. I leader delle opposizioni a Chigi, Gabrielli critica il governo"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/12/allarmi-bomba-vertice-governo-opposizioni-diretta/",
-     "title": "Allarmi bomba, al via il vertice tra governo e opposizioni. Salvini? «I russi? Non ci sono prove» – La diretta"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/allarmi-bomba-meloni-controllato-scuola-per-scuola-non-e-stato-trovato-nulla-203bdf32-a828-4e31-b3d3-b12205238844.html",
-     "title": "Allarmi bomba, Meloni: \"Controllato scuola per scuola, non è stato trovato nulla\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/12/allarmi-bomba-scuole-vertice-meloni-opposizioni-notizie/8569008/",
-     "title": "Allarmi bomba, Meloni incontra le opposizione e fa un appello all’unità: il vertice a Palazzo Chigi. Oggi lezioni regolari in tutta Italia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Tass, Witkoff e Kushner arrivati a Mosca per i colloqui",
-   "summary": "Vedranno Putin per fare il punto sui negoziati",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/tass-witkoff-e-kushner-arrivati-a-mosca-per-i-colloqui_c8911ddf-c632-4575-b6bd-a4f99857ce4a.html",
-   "pub_ts": 1794470574,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/tass-witkoff-e-kushner-arrivati-a-mosca-per-i-colloqui_c8911ddf-c632-4575-b6bd-a4f99857ce4a.html",
-     "title": "Tass, Witkoff e Kushner arrivati a Mosca per i colloqui"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovo-allarme-bomba-nelle-scuole-indagano-i-pm-dellantiterrorismo-liveblog_97a3c6b7-93f4-44a2-940b-dd33198f2f91.html",
+     "title": "Nuovi allarmi bomba nelle scuole, palazzo Chigi: 'Coinvolti 3.788 istituti, solo 77 evacuati' - LIVEBLOG"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/tass-witkoff-e-kushner-arrivati-a-mosca-per-i-colloqui_0536ad59-8c79-43a0-ba76-d5406527ad8e.html",
-     "title": "Tass, Witkoff e Kushner arrivati a Mosca per i colloqui"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-a-1800-scuole-mail-partita-da-piu-indirizzi_eeecdb9a-a7d5-421b-8c5d-6f076a410f2f.html",
+     "title": "Nuovi allarmi bomba a 1800 scuole, mail partita da più indirizzi"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/russia-ucraina-witkoff-kushner-usa-a-mosca-per-incontrare-putin-poi-zelensky-dublino-rm1ga8dj",
-     "title": "Ucraina, Witkoff e Kushner a Mosca per incontrare Putin. Poi il vertice con Zelensky a Dublino"
+     "link": "https://www.editorialedomani.it/politica/italia/allarme-bomba-scuole-impatto-psicologico-bambini-adolescenti-studenti-adulti-intervista-giuseppe-lavenia-cchpb3mx",
+     "title": "Gli effetti degli allarmi bomba. «Gli adulti ascoltino le paure dei ragazzi. Serve uno psicologo nelle scuole»"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/guerra-ucraina-abu-dhabi-negoziati-senza-svolte-accordo-prigionieri-giorgetti-firma-decreto-armi-a-kiev-81f6db9d-fae2-4105-8eeb-7e42920f7b4d.html",
-     "title": "Witkoff e Kushner a Mosca da Putin. Abu Dhabi, negoziati senza svolte"
+     "link": "https://www.rainews.it/video/2026/11/nuove-email-con-minacce-alle-scuole-circa-2mila-nel-testo-anche-allarme-bomba-a-palazzo-chigi-601d49d7-acc4-4c15-8307-cb1497837319.html",
+     "title": "Nuove email con minacce alle scuole, circa 2mila. Nel testo anche allarme bomba a Palazzo Chigi"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-putin-incontro-inviati-trump_4OttsUf0kJm6h4vTJdDAya",
-     "title": "Ucraina, Putin incontra gli inviati di Trump. Zelensky: \"Senza l'Europa la pace è impossibile\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/12/witkoff-kushner-putin-mosca-accordo-sicurezza-notizie/8568930/",
-     "title": "Witkoff e Kushner a Mosca per vedere Putin. Axios: “Usa hanno chiesto alla Russia misure per la de-escalation con l’Europa”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Risultato storico in Mississippi, eletto il dem Scott Colom",
-   "summary": "É il primo afroamericano a far parte del Senato in questo Stato in oltre 140 anni",
-   "link": "https://www.repubblica.it/esteri/2026/11/12/news/risultato_storico_in_mississipi_eletto_il_dem_scott_colom-425716878/?rss",
-   "pub_ts": 1794475068,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/12/news/risultato_storico_in_mississipi_eletto_il_dem_scott_colom-425716878/?rss",
-     "title": "Risultato storico in Mississippi, eletto il dem Scott Colom"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/12/usa-mississippi-scott-colom/",
-     "title": "Scott Colom è il primo senatore afroamericano del Mississippi dal 1881. Magic Johnson: «Vorrei che mio padre fosse vivo per vederlo»"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/midterm-vittoria-storica-dei-dem-in-mississippi-scott-colom-primo-senatore-nero-dal-1871-0760f6ca-b1d6-4bb5-b3a8-e5eadcdaa2b7.html",
-     "title": "Midterm, vittoria storica dei Dem in Mississippi: Scott Colom primo senatore nero dal 1871"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/12/nuovi-allarmi-bomba-scuole-italia/",
+     "title": "Ci sono stati nuovi allarmi bomba nelle scuole italiane"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/12/news/risultato_storico_in_mississipi_eletto_il_dem_scott_colom-425716878/",
-     "title": "Risultato storico in Mississippi, eletto il dem Scott Colom"
+     "link": "https://www.repubblica.it/cronaca/2026/11/12/news/allarmi_bomba_scuole_taipei_universita_da-yeh_taiwan-425717663/",
+     "title": "Allarmi bomba nelle scuole, indaga anche Taipei. E le Filippine avevano lanciato un cyber- allarme"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/12/scott-colom-mississippi-senatore-afroamericano-notizie/8568932/",
-     "title": "Mississippi, il democratico Scott Colom conquista il Senato: è il 1° afroamericano dalla Guerra civile"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/12/allarme-bombe-scuole-governo-caos-tagli-opinione/8569680/",
+     "title": "Allarmi bomba scuole: il governo senza un piano invoca unità. Ma unità per fare cosa?"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/altri-allarmi-bomba-scuole-chiuse-il-governo-cambia-strategia-cosa-devono-fare-i-presidi/",
+     "title": "Altri allarmi bomba, scuole chiuse? Il governo cambia strategia: cosa devono fare i presidi"
     }
    ]
   },
@@ -139,7 +70,7 @@
    "title": "'Vi annienteremo', l'allarme bomba in 6.000 scuole italiane. Meloni: 'Strategia per il caos'",
    "summary": "La segnalazione da una mail da profilo compromesso taiwanese",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/vi-annienteremo-lallarme-bomba-in-6.000-scuole-italiane.-meloni-strategia-per-il-caos_870b0024-72d2-4b15-bab5-0c74dcc1d653.html",
-   "pub_ts": 1794470727,
+   "pub_ts": 1794503610,
    "n_sources": 4,
    "documented": true,
    "sources": [
@@ -149,19 +80,196 @@
      "title": "'Vi annienteremo', l'allarme bomba in 6.000 scuole italiane. Meloni: 'Strategia per il caos'"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/12/prime-pagine-allarme-bomba-paura-in-seimila-scuole_f98a6c5e-38db-4d30-84f8-749b8c57c96a.html",
-     "title": "PRIME PAGINE | Allarme bomba, paura in seimila scuole"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/12/come-trovare-chi-ha-mandato-mail-allarme-bomba-scuole/",
+     "title": "Come si fa a trovare chi ha mandato le mail con l’allarme bomba"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/12/news/mail_allarme_bombe_filippine_andropov-425718297/",
+     "title": "Le mail dell’ultimo allarme bomba: dominio da Filippine e Pakistan, firma Andropov, minacce a Meloni"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/milanoquotidiano/allarme-bomba-ce-chi-non-ci-e-cascato-quella-mail-era-comica-la-procura-apre-uninchiesta/",
+     "title": "Allarme bomba, c’è chi non ci è cascato: “Quella mail era comica”. La Procura apre un’inchiesta"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Allarmi bomba: Meloni al tavolo con le opposizioni fa appello all'unità",
+   "summary": "Riunione a Palazzo Chigi con i vicepremier, i leader del centrosinistra e FnV",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/allarmi-bomba-meloni-al-tavolo-con-le-opposizioni-fa-appello-allunita_8bc822aa-4b98-4420-8f30-14a3c7785070.html",
+   "pub_ts": 1794503146,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/allarmi-bomba-meloni-al-tavolo-con-le-opposizioni-fa-appello-allunita_8bc822aa-4b98-4420-8f30-14a3c7785070.html",
+     "title": "Allarmi bomba: Meloni al tavolo con le opposizioni fa appello all'unità"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/12/allarmi-bomba-ricette-futuro-nazionale-meloni/",
+     "title": "Allarmi bomba, le ricette di Futuro Nazionale a Meloni: «Falsi riconosciuti in 10 minuti», scudo per i presidi e pene più severe"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/12/allarme-bomba-mail-scuole/",
-     "title": "Come ha fatto l’allarme bomba a raggiungere tutte le scuole"
+     "link": "https://www.ilpost.it/flashes/video-meloni-allarmi-bomba-scuole/",
+     "title": "Il video con cui Meloni vuole dare rassicurazioni sugli allarmi bomba nelle scuole"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-via-email-nelle-scuole-di-tutta-italia-evacuati-decine-di-istituti-hacker-studenti-lv7eidpa",
+     "title": "Allarmi bomba, seimila scuole coinvolte. Meloni: «Non permetteremo a una mail anonima di decidere il calendario»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Inviati Usa in pressing con Putin, 'europei partecipino ai colloqui'",
+   "summary": "'Se passiamo a un formato multilaterale, continueremo a fare progressi'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/inviati-usa-in-pressing-con-putin-europei-partecipino-ai-colloqui_2245912d-cc99-4c60-98e2-f9a3c7ae68f6.html",
+   "pub_ts": 1794497400,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/inviati-usa-in-pressing-con-putin-europei-partecipino-ai-colloqui_2245912d-cc99-4c60-98e2-f9a3c7ae68f6.html",
+     "title": "Inviati Usa in pressing con Putin, 'europei partecipino ai colloqui'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-incontro-putin-witkoff-kushner-ultime-notizie_rNyWqG1cfl333XtjocwCv",
+     "title": "Ucraina-Russia, Witkoff: \"Ue parteciperà ai colloqui\". Putin: \"Europei decidano se vogliono pace o guerra\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/12/diretta/guerra_ucraina_-_russia_le_news_di_oggi_zelensky_finestra_di_opportunita_per_progressi_entro_fine_anno-425716855/",
+     "title": "Guerra Ucraina - Russia. Putin: “Truppe straniere in Ucraina sono minaccia per sicurezza nazionale”"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/negoziati-ucraina-stati-uniti-emirati-abu-dhabi-esiti-ua7pza6f",
+     "title": "Ucraina, Trump ottimista: i suoi emissari da Zelensky e Putin per tentare un patto"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Imprese-sindacati, siglata l'intesa su rappresentanza e contratti. Meloni: 'Traguardo storico'",
+   "summary": "Al centro recupero dei salari, rinnovi e misurazione del peso delle sigle",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/imprese-sindacati-siglata-lintesa-su-rappresentanza-e-contratti_bed2c1c9-26a3-481d-a860-224240e41c9e.html",
+   "pub_ts": 1794497159,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/imprese-sindacati-siglata-lintesa-su-rappresentanza-e-contratti_bed2c1c9-26a3-481d-a860-224240e41c9e.html",
+     "title": "Imprese-sindacati, siglata l'intesa su rappresentanza e contratti. Meloni: 'Traguardo storico'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/meloni-lintesa-sulla-rappresentanza-traguardo-storico_5bb61a95-46ee-4309-9823-c587ee0df23e.html",
+     "title": "Meloni, l'intesa sulla rappresentanza traguardo storico"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/12/news/lavoro_accordo_sindacati_imprese-425716900/",
+     "title": "Imprese-sindacati, accordo su salari e rappresentanza. Più facili rinnovi e recupero dell’inflazione"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/accordo-sindacati-imprese-salari-contratti-pirata/",
+     "title": "Contratti, ecco cosa cambia dopo l’accordo sindacati-imprese"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "L'ex ministra Azzolina, 'non ho evacuato la scuola per l'allarme bomba'",
+   "summary": "Oggi è dirigente dell'Istituto Biella 2: \"Deve restare un luogo sicuro\"",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/lex-ministra-azzolina-non-ho-evacuato-la-scuola-per-lallarme-bomba_2481a0b2-ffc6-411d-b6a9-8ff4f0e26205.html",
+   "pub_ts": 1794495181,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/lex-ministra-azzolina-non-ho-evacuato-la-scuola-per-lallarme-bomba_2481a0b2-ffc6-411d-b6a9-8ff4f0e26205.html",
+     "title": "L'ex ministra Azzolina, 'non ho evacuato la scuola per l'allarme bomba'"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/12/news/renzi_allarme_bombe_scuola_governo_non_ci_capisce_un_tubo_intervista-425716810/",
+     "title": "Allarme bomba a scuola, Renzi: “Governo in balia del Misoginistan, non ci capisce un tubo”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/e-se-succede-ancora-allarme-bomba-a-scuola-i-timori-e-una-certezza-lo-rifaranno/",
+     "title": "E se succede ancora? Allarme bomba a scuola, i timori e una certezza: “Lo rifaranno”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Allerta rossa per rischio idrogeologico su Toscana e Liguria",
+   "summary": "Allerta rossa per rischio idrogeologico su Toscana e Liguria",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allerta-rossa-per-rischio-idrogeologico-sulla-toscana-del-nord-ovest_2188f77a-8b0c-4674-af13-637b6ac4bfea.html",
+   "pub_ts": 1794494809,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allerta-rossa-per-rischio-idrogeologico-sulla-toscana-del-nord-ovest_2188f77a-8b0c-4674-af13-637b6ac4bfea.html",
+     "title": "Allerta rossa per rischio idrogeologico su Toscana e Liguria"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allerta-rossa-per-maltempo-in-toscana-arancione-in-tre-regioni_8e24ea9c-68bc-4518-aeea-5487ea4ee781.html",
+     "title": "Arriva il maltempo, Spezia allagata e allerta rossa in Toscana"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/mail-di-minaccia-manda-in-tilt-le-scuole-italiane-corradino-eb682194-7f6d-43e5-8679-74e7fe4d0ae6.html",
-     "title": "Una mail di minaccia manda in tilt le scuole italiane"
+     "link": "https://www.rainews.it/video/2026/11/litalia-nella-morsa-della-perturbazione-atlantica-allerta-rossa-in-toscana-maltempo-meteo-d9079776-c1ea-4cb9-9c87-77e9526e7330.html",
+     "title": "L'Italia nella morsa della perturbazione atlantica: allerta rossa in Toscana"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Russia-Ucraina, inviati di Trump al Cremlino",
+   "summary": "Un colonnello russo è stato ucciso in un attentato a San Pietroburgo: l'auto esplosa mentre percorreva un'autostrada",
+   "link": "https://www.rainews.it/video/2026/11/russia-ucraina-inviati-di-trump-al-cremlino-1ae3f25d-b1a2-4cbb-ae87-24113cb44510.html",
+   "pub_ts": 1794493200,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/russia-ucraina-inviati-di-trump-al-cremlino-1ae3f25d-b1a2-4cbb-ae87-24113cb44510.html",
+     "title": "Russia-Ucraina, inviati di Trump al Cremlino"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-putin-vuole-il-donbass-e-lidea-di-trump-nuovi-confini-inventati_5axcdovjg4pI8HmV1mv9CK",
+     "title": "Ucraina-Russia, Putin vuole il Donbass e l'idea di Trump: nuovi confini 'inventati'"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/abu-dhabi-piccoli-progressi-sull-ucraina-inviati-trump-giovedi-mosca-AJC1PKDC",
+     "title": "Abu Dhabi, piccoli progressi sull’Ucraina. Inviati di Trump a Mosca"
     }
    ]
   },
@@ -172,18 +280,13 @@
    "summary": "Il clan di Jfk fa causa: 'Farà ombra alle nostre tombe'. Casa Bianca: 'Onoriamo gli eroi'",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/11/trump-a-arlington-nel-pieno-dello-scontro-con-i-kennedy-sullarco_fc7eabe0-23e1-4485-b594-80c859f00ab5.html",
    "pub_ts": 1794424849,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/11/trump-a-arlington-nel-pieno-dello-scontro-con-i-kennedy-sullarco_fc7eabe0-23e1-4485-b594-80c859f00ab5.html",
      "title": "Trump ad Arlington nel pieno dello scontro con i Kennedy sull'arco"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/11/news/la_famiglia_kennedy_contro_l_arco_di_trionfo_di_trump_farebbe_ombra_alla_tomba_di_jfk-425714539/?rss",
-     "title": "La famiglia Kennedy contro l’Arco di trionfo di Trump: “Farebbe ombra alla tomba di Jfk”"
     },
     {
      "name": "Domani",
@@ -200,245 +303,251 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Giorgetti firma il decreto, Kiev chiede all’Italia gli Eurofighter dismessi",
-   "summary": "Il ministro dell’Economia appone la sua sigla sul tredicesimo pacchetto armi dopo la frenata di Salvini",
-   "link": "https://www.repubblica.it/esteri/2026/11/12/news/giorgetti_firma_decreto_aiuti_ucraina_kiev_chiede_a_italia_eurofighter-425716846/?rss",
-   "pub_ts": 1794441600,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/12/news/giorgetti_firma_decreto_aiuti_ucraina_kiev_chiede_a_italia_eurofighter-425716846/?rss",
-     "title": "Giorgetti firma il decreto, Kiev chiede all’Italia gli Eurofighter dismessi"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/12/news/giorgetti_firma_decreto_aiuti_ucraina_kiev_chiede_a_italia_eurofighter-425716846/",
-     "title": "Giorgetti firma il decreto, Kiev chiede all’Italia gli Eurofighter dismessi"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/armi-kiev-italia-firma-decreto-scontro-maggioranza-salvini-giorgetti-meloni-crosetto-xh625rj3",
-     "title": "Nonostante Salvini, Giorgetti firma sulle armi a Kiev"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Nuovo allarme nei cieli baltici, si alzano i jet della Nato",
-   "summary": "Alcuni droni 'tagliano' lo spazio aereo. Mosca: 'Attaccati nel porto di Ust-Luga'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/11/nuovo-allarme-nei-cieli-baltici-si-alzano-i-jet-della-nato_eecd1cc9-00fb-432f-bd42-f0d1bc1895ce.html",
-   "pub_ts": 1794423752,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/11/nuovo-allarme-nei-cieli-baltici-si-alzano-i-jet-della-nato_eecd1cc9-00fb-432f-bd42-f0d1bc1895ce.html",
-     "title": "Nuovo allarme nei cieli baltici, si alzano i jet della Nato"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/11/news/droni_paesi_baltici_scatta_allarme_lituania_lettonia_estonia_caccia_nato-425715245/?rss",
-     "title": "Droni nei cieli dei Paesi Baltici, scatta l'allarme: i caccia Nato tentano di abbatterli"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/droni-lituania-nato_2eDVtdl3COzxYZ0GdcUwb4",
-     "title": "Incursioni di droni in Lituania, scatta l'allarme: decollano i jet della Nato"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Esplode un'auto a San Pietroburgo, morto un militare russo",
-   "summary": "Media locali riferiscono che sarebbe stato azionato un ordigno a distanza",
-   "link": "https://www.rainews.it/video/2026/11/esplode-unauto-a-san-pietroburgo-morto-un-militare-russo-48b54189-17ac-4be5-8238-37b2224d049e.html",
-   "pub_ts": 1794471240,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/esplode-unauto-a-san-pietroburgo-morto-un-militare-russo-48b54189-17ac-4be5-8238-37b2224d049e.html",
-     "title": "Esplode un'auto a San Pietroburgo, morto un militare russo"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/12/diretta/guerra_ucraina_-_russia_le_news_di_oggi_zelensky_finestra_di_opportunita_per_progressi_entro_fine_anno-425716855/",
-     "title": "Guerra Ucraina - Russia, le news. San Pietroburgo, ufficiale russo morto in una esplosione d’auto"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/12/esplosione-san-pietroburgo-militare-pushkinsky-notizie/8568921/",
-     "title": "San Pietroburgo, esplode un’auto nel quartiere Pushkinsky: “Morto un colonnello russo”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Pete Hegseth rimproverato da una guardia alla Tomba del Milite Ignoto",
-   "summary": "",
-   "link": "https://www.ilpost.it/flashes/pete-hegseth-rimproverato-tomba-milite-ignoto/",
-   "pub_ts": 1794466340,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/flashes/pete-hegseth-rimproverato-tomba-milite-ignoto/",
-     "title": "Pete Hegseth rimproverato da una guardia alla Tomba del Milite Ignoto"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/risate-al-milite-ignoto-un-soldato-richiama-il-segretario-alla-difesa-usa-hegseth-e-il-suo-gruppo-4e0d5047-76ea-4dd0-bb71-28753182f519.html",
-     "title": "Risate al Milite Ignoto, un soldato richiama il segretario alla Difesa Usa Hegseth e il suo gruppo"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/chiacchiere-e-risate-tomba-milite-ignoto-hegseth-bacchettato-guardia-AJAefPDC",
-     "title": "«Chiacchiere e risate» alla tomba del milite ignoto, Hegseth bacchettato dalla guardia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Meloni, Nassiriya una ferita viva, pagato un prezzo altissimo al servizio della pace (2)",
-   "summary": "Il ricordo delle 19 vite spezzate ci richiama al valore del servizio e dell'amor di patria",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/meloni-nassiriya-una-ferita-viva-pagato-un-prezzo-altissimo-al-servizio-della_b09c10a6-61c7-4072-a478-ff15a71c0f7a.html",
-   "pub_ts": 1794474720,
+   "title": "Meloni: 'Con le opposizioni colloquio franco e produttivo sugli allarmi nelle scuole'",
+   "summary": "La premier a Dublino: 'Buon segnale, ma non vuol dire una delega in bianco'. Schlein: 'Disponibili a collaborare ma nessuna delega in bianco'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
+   "pub_ts": 1794502151,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/meloni-nassiriya-una-ferita-viva-pagato-un-prezzo-altissimo-al-servizio-della_b09c10a6-61c7-4072-a478-ff15a71c0f7a.html",
-     "title": "Meloni, Nassiriya una ferita viva, pagato un prezzo altissimo al servizio della pace (2)"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
+     "title": "Meloni: 'Con le opposizioni colloquio franco e produttivo sugli allarmi nelle scuole'"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/strage-nassirya-mattarella-omaggio-della-repubblica-per-chi-ha-sacrificato-la-vita-per-la-pace-nomi-caduti-carabinieri-esercito-iraq-civili-48da9a12-025b-429d-b520-32d91fbaa97b.html",
-     "title": "Nassiriya, Mattarella: \"Riconoscenza della Repubblica a chi ha sacrificato la vita per la pace\""
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/meloni-con-le-opposizioni-colloquio-franco-e-produttivo-su-allarmi-scuole_b40b9d84-3dcb-415c-8e9b-b723578d4c37.html",
+     "title": "Meloni, con le opposizioni colloquio franco e produttivo su allarmi scuole"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Perché per Nvidia è un grande problema sostituire Jensen Huang",
-   "summary": "Lo scandalo che coinvolge il CEO dell’azienda simbolo dei chip per l’IA, dopo due relazioni extraconiugali –una di queste con una donna sospettata di avere legami con l’intelligence cinese - ha aperto una crisi che va molto oltre la sua vita privata. Allontanare Huang, o anche...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/10/news/nvidia-jensen-huang-successione-ceo-rischi-425712946/?rss",
-   "pub_ts": 1794473913,
-   "n_sources": 4,
+   "title": "Nvidia: Jensen Huang si è dimesso da ceo, Colette Kress nominata ad interim. Trump candida Cook",
+   "summary": "Il board ha avviato le procedure per la ricerca di un nuovo ceo permanente. Crolla il titolo a Wall Street",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/nvidia-jensen-huang-si-e-dimesso-con-effetto-immediato-da-ceo-colette-kress_0b01f8ad-f5ea-4fd2-a7a4-7ccfc68be774.html",
+   "pub_ts": 1794504342,
+   "n_sources": 12,
    "documented": true,
    "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/nvidia-jensen-huang-si-e-dimesso-con-effetto-immediato-da-ceo-colette-kress_0b01f8ad-f5ea-4fd2-a7a4-7ccfc68be774.html",
+     "title": "Nvidia: Jensen Huang si è dimesso da ceo, Colette Kress nominata ad interim. Trump candida Cook"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/?rss",
+     "title": "Nvidia, il ceo Jensen Huang si è dimesso con effetto immediato: titolo in picchiata a Wall Street"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/trump-candida-tim-cook-di-apple-alla-guida-di-nvidia_171903a5-dff4-431c-8478-cd1062ad27a5.html",
+     "title": "Trump candida Tim Cook di Apple alla guida di Nvidia"
+    },
     {
      "name": "Repubblica Tecnologia",
      "link": "https://www.repubblica.it/tecnologia/2026/11/10/news/nvidia-jensen-huang-successione-ceo-rischi-425712946/?rss",
      "title": "Perché per Nvidia è un grande problema sostituire Jensen Huang"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/azioni-di-nvidia-di-nuovo-a-picco-dopo-la-notizia-di-un-altro-affaire-per-huang_df0c0600-da69-4d5d-8f8c-3e0f014c12ed.html",
-     "title": "Azioni di Nvidia di nuovo a picco dopo la notizia di un altro affaire per Huang"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/12/news/nvidia_con_colette_kress_una_donna_sola_al_comando-425718992/",
+     "title": "Nvidia, con Colette Kress una donna sola al comando"
     },
     {
      "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/nvidia-jensen-huang-licenziato-nuovo-ceo/",
-     "title": "NVIDIA: Jensen Huang verrà licenziato, chi sarà il nuovo CEO?"
+     "link": "https://www.punto-informatico.it/jensen-huang-dimesso-colette-kress-nuova-ceo/",
+     "title": "Jensen Huang si è dimesso, Colette Kress è la nuova CEO"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/nvidia-il-cda-valuta-laddio-a-jensen-huang-spie-cinesi-amanti-e-intrighi-internazionali-e6de210a-3510-4397-b91d-8fed5cbb91e1.html",
-     "title": "Nvidia, il Cda valuta l'addio a Jensen Huang: spie cinesi, amanti e intrighi internazionali"
+     "link": "https://www.rainews.it/articoli/2026/11/nvidia-jensen-huang-si-e-dimesso-dopo-lo-scandalo-per-la-relazione-con-presunta-spia-della-cina-64254a5e-6ad6-4266-9305-5b7f5fedb4ea.html",
+     "title": "Nvidia: Jensen Huang si è dimesso dopo lo scandalo per la relazione con presunta spia della Cina"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/nvidia-jensen-huang-dimissioni-colette-kressen_3uxv4unkEMSTsCvho2svbJ",
+     "title": "Nvidia, Jensen Huang si dimette da Ceo. Trump: \"Solo Tim Cook può sostituirlo\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/nvidia-jensen-hueng-dimissioni-scandalo-x0fyq7a7",
+     "title": "Nvidia, si è dimesso il ceo Jensen Huang"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/",
+     "title": "Jensen Huang si è dimesso da amministratore delegato di Nvidia"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/nvidia-chi-e-kimberly-powell-seconda-presunta-amante-jensen-huang-AJBKSvDC",
+     "title": "Nvidia: chi è Kimberly Powell, seconda presunta amante di Jensen Huang"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/huang-si-e-dimesso-da-nvidia/",
+     "title": "Huang si è dimesso da Nvidia"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Gmail, Gemini arriva a tutti gli utenti Workspace",
-   "summary": "AI Overview e Help me write arrivano su Gmail per tutti gli utenti Workspace, anche con licenza aziendale o scolastica. Sono attivi di default. The post Gmail, Gemini arriva a tutti gli utenti Workspace appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/gmail-gemini-tutti-utenti-workspace/",
-   "pub_ts": 1794474883,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Meta chiude i profili social di Russell Brand dopo la condanna per stupro",
+   "summary": "Il suo team grida alla censura su X, 'grazie a Dio c'è Elon Musk'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/12/meta-chiude-i-profili-social-di-russell-brand-dopo-la-condanna-per-stupro_b9dcd698-4170-4802-bfbe-08f1fa5d943b.html",
+   "pub_ts": 1794505123,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/gmail-gemini-tutti-utenti-workspace/",
-     "title": "Gmail, Gemini arriva a tutti gli utenti Workspace"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/12/meta-chiude-i-profili-social-di-russell-brand-dopo-la-condanna-per-stupro_b9dcd698-4170-4802-bfbe-08f1fa5d943b.html",
+     "title": "Meta chiude i profili social di Russell Brand dopo la condanna per stupro"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/12/russell-brand-stupro-rimozione-meta/",
+     "title": "Meta ha rimosso i profili Instagram e Facebook dell’attore Russell Brand dopo la condanna per stupro"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Tabletop di Google crea app con l’AI per organizzare viaggi e spese",
-   "summary": "Tabletop di Google crea app personalizzate con l'AI per organizzare viaggi, feste, spese e attività di gruppo. Ecco come funziona. The post Tabletop di Google crea app con l’AI per organizzare viaggi e spese appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/tabletop-google-crea-app-ai-organizzare-viaggi-spese/",
-   "pub_ts": 1794473184,
+   "title": "Intelligenza artificiale nelle scuole, ok del Garante privacy",
+   "summary": "",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/12/intelligenza-artificiale-nelle-scuole-ok-del-garante-privacy_1c6e5450-f6d4-4aa6-82d7-de23f9ea3819.html",
+   "pub_ts": 1794504678,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/tabletop-google-crea-app-ai-organizzare-viaggi-spese/",
-     "title": "Tabletop di Google crea app con l’AI per organizzare viaggi e spese"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/12/intelligenza-artificiale-nelle-scuole-ok-del-garante-privacy_1c6e5450-f6d4-4aa6-82d7-de23f9ea3819.html",
+     "title": "Intelligenza artificiale nelle scuole, ok del Garante privacy"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "K-pop, arrivano le Lumina: la girl band creata interamente con l'intelligenza artificiale",
-   "summary": "Le quattro cantanti virtuali sono nate da un progetto di una società finanziaria sudcoreana. Musica, volti e coreografie generati integralmente dall'IA",
-   "link": "https://www.rainews.it/video/2026/11/k-pop-arrivano-le-lumina-la-girl-band-creata-interamente-con-lintelligenza-artificiale-62852131-314f-4107-9b56-0c8268c32f39.html",
-   "pub_ts": 1794460740,
+   "title": "Il 30% dei genitori italiani teme di essere sostituito dall'IA nel supporto ai giovani",
+   "summary": "Ricerca Samsung-Jonas Ets, un adolescente su cinque usa i chatbot per domande complesse",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/12/il-30-dei-genitori-italiani-teme-di-essere-sostituito-dallia-nel-supporto-ai-giovani_b1030b84-24ad-465b-bd02-760cb9e8877e.html",
+   "pub_ts": 1794504527,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/k-pop-arrivano-le-lumina-la-girl-band-creata-interamente-con-lintelligenza-artificiale-62852131-314f-4107-9b56-0c8268c32f39.html",
-     "title": "K-pop, arrivano le Lumina: la girl band creata interamente con l'intelligenza artificiale"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/12/il-30-dei-genitori-italiani-teme-di-essere-sostituito-dallia-nel-supporto-ai-giovani_b1030b84-24ad-465b-bd02-760cb9e8877e.html",
+     "title": "Il 30% dei genitori italiani teme di essere sostituito dall'IA nel supporto ai giovani"
     }
    ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Allerta rossa per rischio idrogeologico sulla Toscana del nord ovest",
-   "summary": "Codice giallo su tutta la regione per temporali forti",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allerta-rossa-per-rischio-idrogeologico-sulla-toscana-del-nord-ovest_2188f77a-8b0c-4674-af13-637b6ac4bfea.html",
-   "pub_ts": 1794472173,
-   "n_sources": 4,
+   "title": "Re Carlo ospite del programma di Elton John, 'sei un tesoro nazionale'",
+   "summary": "Puntata per i 78 anni del sovrano. Il cantante scherza, 'finirò in show di antiquariato'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/12/re-carlo-ospite-del-programma-di-elton-john-sei-un-tesoro-nazionale_715feda7-17da-456a-b8f7-0f65db15bfec.html",
+   "pub_ts": 1794505649,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allerta-rossa-per-rischio-idrogeologico-sulla-toscana-del-nord-ovest_2188f77a-8b0c-4674-af13-637b6ac4bfea.html",
-     "title": "Allerta rossa per rischio idrogeologico sulla Toscana del nord ovest"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allerta-rossa-per-maltempo-in-toscana-arancione-in-tre-regioni_8e24ea9c-68bc-4518-aeea-5487ea4ee781.html",
-     "title": "Arriva il maltempo, Spezia allagata e allerta rossa in Toscana"
-    },
-    {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/11/oggi-in-emilia-romagna_1444d204-eec2-45d7-a7e3-5fef223a0696.html",
-     "title": "Oggi In Emilia-Romagna"
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/12/re-carlo-ospite-del-programma-di-elton-john-sei-un-tesoro-nazionale_715feda7-17da-456a-b8f7-0f65db15bfec.html",
+     "title": "Re Carlo ospite del programma di Elton John, 'sei un tesoro nazionale'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/re-carlo-ospite-del-programma-di-elton-john-sei-un-tesoro-nazionale_ffc8e678-7a53-4ea8-abdd-7b599d244348.html",
+     "title": "Re Carlo ospite del programma di Elton John, 'sei un tesoro nazionale'"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/12/regno-unito-re-carlo-ospite-speciale-del-podcast-di-elton-john_c68dd229-e739-419e-ae03-a95e57a9d467.html",
+     "title": "Regno Unito, Re Carlo ospite speciale del podcast di Elton John"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Sulla guerra ibrida l’Italia resta il ventre molle d’Europa",
+   "summary": "L’ondata di allarmi scatena la paura e non trova reazioni strutturate. Mentre la risposta a queste minacce richiede consapevolezza e misure concrete. Come la capacità di dissuadere gli attacchi perseguendo gli autori ovunque si trovino",
+   "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/12/news/falsi_allarmi_bombe_guerra_ibrida_italia-425718278/?rss",
+   "pub_ts": 1794483362,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/12/news/falsi_allarmi_bombe_guerra_ibrida_italia-425718278/?rss",
+     "title": "Sulla guerra ibrida l’Italia resta il ventre molle d’Europa"
+    },
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/11/tumore-del-seno-da-europa-donna-italia-373mila-ore-di-volontariato_0fa92566-ebac-4a73-a0ac-b5d0e59b5f89.html",
+     "title": "Tumore del seno, da Europa Donna Italia 373mila ore di volontariato"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/allerta-rossa-in-toscana-liguria-emilia-romagna-arancione-toscana-7c1870f0-38f9-4c30-b115-6f124d178ce3.html",
-     "title": "Maltempo, allerta rossa in Toscana, Liguria ed Emilia-Romagna"
+     "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-12112026-80a053a8-8522-4b5b-9453-2d3f39374263.html",
+     "title": "TG2 Italia Europa del 12/11/2026"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "All'asta il 28/11 a Parigi la sceneggiatura dattiloscritta di C'era una volta il West",
+   "summary": "Regalata nel 2006 dallo sceneggiatore Sergio Donati ad Alan Simon",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/12/allasta-il-2811-a-parigi-la-sceneggiatura-dattiloscritta-di-cera-una-volta-il-west_d8fd66bb-d605-42e2-b557-74991698445d.html",
+   "pub_ts": 1794505384,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/12/allasta-il-2811-a-parigi-la-sceneggiatura-dattiloscritta-di-cera-una-volta-il-west_d8fd66bb-d605-42e2-b557-74991698445d.html",
+     "title": "All'asta il 28/11 a Parigi la sceneggiatura dattiloscritta di C'era una volta il West"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/photogallery/spettacolo/2026/11/12/cera-una-volta-il-west-la-sceneggiatura-originale-allasta-a-parigi_df5047ea-980e-4d56-907b-0c4ef1b79bda.html",
+     "title": "'C'era una volta il West', la sceneggiatura originale all'asta a Parigi"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "In mostra il volto in terracotta di Brunelleschi ritrovato dopo 600 anni",
+   "summary": "L'opera viene esposta per la prima volta al pubblico, fino al 14 febbraio",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/12/in-mostra-il-volto-in-terracotta-di-brunelleschi-ritrovato-dopo-600-anni_6123a3ca-6029-4ee8-b65d-b0adefb5ae55.html",
+   "pub_ts": 1794501494,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/12/in-mostra-il-volto-in-terracotta-di-brunelleschi-ritrovato-dopo-600-anni_6123a3ca-6029-4ee8-b65d-b0adefb5ae55.html",
+     "title": "In mostra il volto in terracotta di Brunelleschi ritrovato dopo 600 anni"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/brunelleschi-in-mostra-a-firenze-il-ritratto-ritrovato-dopo-quasi-600-anni_4txYwBNlOpX4yatHFAIRDd",
+     "title": "Brunelleschi, in mostra a Firenze il ritratto ritrovato dopo quasi 600 anni"
     }
    ],
    "subtype": "cultura"
@@ -449,7 +558,7 @@
    "title": "'Divieto di fumo assoluto al chiuso e niente pubblicità', al via Manifesto per tutela diritti dei non fumatori",
    "summary": "Appello di Aiom, Fondazione Veronesi e Airc. 'Parlamento discuta proposta di legge per aumentare di 5 euro il costo di tutti i prodotti da fumo'",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/12/divieto-di-fumo-assoluto-al-chiuso-e-niente-pubblicita-al-via-manifesto_9ead1a5c-8092-4b45-82f4-7049d2528ab5.html",
-   "pub_ts": 1794474304,
+   "pub_ts": 1794500483,
    "n_sources": 2,
    "documented": true,
    "sources": [
@@ -467,89 +576,57 @@
    "subtype": "scienza"
   },
   {
-   "category": "varia",
+   "category": "cronaca",
    "area": null,
-   "title": "Allarme bomba, studenti disconnessi a forza da social e whatspp, 'ansia e nervosismo'",
-   "summary": "Cellulari lasciati in classe, in molti casi nervosismo e ansia fino al senso di colpa",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/11/allarme-bomba-molti-studenti-disconnessi-a-forza-da-social-e-whatspp_00ec4cd8-c845-4d23-a63c-c402e4b7e4f5.html",
-   "pub_ts": 1794429387,
-   "n_sources": 2,
+   "title": "Sparatoria in centro a Washington: cinque persone colpite, un morto. Si è ucciso l'uomo che ha sparato",
+   "summary": "La polizia: 'State in casa'. L'uomo si era barricato in un appartamento ed ha sparato agli agenti",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/sparatoria-in-centro-a-washington-cinque-persone-colpite-un-morto.-si-e-ucciso-luomo-che_b3d1f241-30d3-48d2-80e0-b6f155a26c15.html",
+   "pub_ts": 1794501298,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/11/allarme-bomba-molti-studenti-disconnessi-a-forza-da-social-e-whatspp_00ec4cd8-c845-4d23-a63c-c402e4b7e4f5.html",
-     "title": "Allarme bomba, studenti disconnessi a forza da social e whatspp, 'ansia e nervosismo'"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/sparatoria-in-centro-a-washington-cinque-persone-colpite-un-morto.-si-e-ucciso-luomo-che_b3d1f241-30d3-48d2-80e0-b6f155a26c15.html",
+     "title": "Sparatoria in centro a Washington: cinque persone colpite, un morto. Si è ucciso l'uomo che ha sparato"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-lansia-degli-studenti-costretti-a-lasciare-il-cellulare-in-classe_bef17e2d-39df-4503-b461-03418f8b9b1a.html",
-     "title": "Allarme bomba, l'ansia degli studenti costretti a lasciare il cellulare in classe"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "A Trani la Bibliofarmacia, i libri con il bugiardino per curare l'anima",
-   "summary": "La direttrice: \"Pensiamo al valore terapeutico che può avere la lettura\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/11/a-trani-la-bibliofarmacia-i-libri-con-il-bugiardino-per-curare-lanima_5617e999-5203-4f75-964a-90873d8462bd.html",
-   "pub_ts": 1794416402,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/11/a-trani-la-bibliofarmacia-i-libri-con-il-bugiardino-per-curare-lanima_5617e999-5203-4f75-964a-90873d8462bd.html",
-     "title": "A Trani la Bibliofarmacia, i libri con il bugiardino per curare l'anima"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/sparatoria-a-washington-il-killer-si-e-suicidato_80639cc4-d1cf-4575-aaad-e84972e8bb4a.html",
+     "title": "Sparatoria a Washington, il killer si è suicidato"
     },
     {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/11/a-trani-la-bibliofarmacia-i-libri-con-il-bugiardino-per-curare-lanima_a41074ce-52c9-42b7-8ed6-d3a7168a373e.html",
-     "title": "A Trani la Bibliofarmacia, i libri con il bugiardino per curare l'anima"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Morto a 85 anni Stacy Keach, star del teatro e della serie tv 'Mike Hammer'",
-   "summary": "Per insufficienza cardiaca. Interpretò il padre di Clooney in 'Jay Kelly'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/11/morto-a-85-anni-stacy-keach-star-del-teatro-e-della-serie-tv-mike_18ca54eb-6899-43ca-9e6c-7b6e6507cd07.html",
-   "pub_ts": 1794393388,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/11/morto-a-85-anni-stacy-keach-star-del-teatro-e-della-serie-tv-mike_18ca54eb-6899-43ca-9e6c-7b6e6507cd07.html",
-     "title": "Morto a 85 anni Stacy Keach, star del teatro e della serie tv 'Mike Hammer'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/12/news/sparatoria_centro_washington_un_morto_assalitore_barricato-425718939/?rss",
+     "title": "Sparatoria in centro a Washington fuori da una palestra: due morti, tra cui l’assalitore"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/11/morto-stacy-keach/",
-     "title": "È morto a 85 anni l’attore statunitense Stacy Keach, che recitò in “Prison Break” e “American History X”"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/usa-washington-dc-logan-circle-sparatoria-palestra-95dffe30-8660-4c15-b499-ba80f44533c5.html",
+     "title": "Sparatoria in un quartiere alla moda di Washington, almeno una persona uccisa"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/sparatoria-washington-palestra-oggi-usa_SuIw7lYeFlFtVAFgCz41U",
+     "title": "Sparatoria nel centro di Washington, un morto e 5 feriti: \"L'aggressore si è tolto la vita\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/12/sparatoria-washington-feriti-attentatore-barricato/8569577/",
+     "title": "Sparatoria in centro a Washington, un morto e 4 feriti. Morto il responsabile, si è suicidato dopo essersi barricato in un palazzo"
     }
-   ],
-   "subtype": "cultura"
+   ]
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "Protezione civile Gaza, raid israeliano uccide 6 persone in un ospedale",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/12/protezione-civile-gaza-raid-israeliano-uccide-6-persone-in-un-ospedale_befb1710-40f6-41ca-af23-3d9cb1030ca1.html",
-   "pub_ts": 1794475786,
-   "n_sources": 7,
+   "title": "Attacco israeliano in un ospedale a Gaza: 6 morti e 20 feriti",
+   "summary": "Secondo Al Jazeera è la settima volta in due anni che la stessa struttura viene presa di mira",
+   "link": "https://www.repubblica.it/esteri/2026/11/12/news/attacco_israeliano_in_un_ospedale_a_gaza_6_morti_e_20_feriti-425716894/?rss",
+   "pub_ts": 1794505500,
+   "n_sources": 5,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/12/protezione-civile-gaza-raid-israeliano-uccide-6-persone-in-un-ospedale_befb1710-40f6-41ca-af23-3d9cb1030ca1.html",
-     "title": "Protezione civile Gaza, raid israeliano uccide 6 persone in un ospedale"
-    },
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/12/news/attacco_israeliano_in_un_ospedale_a_gaza_6_morti_e_20_feriti-425716894/?rss",
@@ -566,85 +643,25 @@
      "title": "Israele ha bombardato (di nuovo) l’ospedale Nasser a Gaza: almeno 6 morti e 20 feriti"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/israele-colpisce-ospedale-gaza-e-uccide-6-persone-era-centro-operativo-hamas-AJxUqmDC",
-     "title": "Israele colpisce ospedale a Gaza e uccide 6 persone: «Era un centro operativo di Hamas»"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/12/israele-attacco-ospedale-nasser-sei-persone-uccise/",
      "title": "Israele ha attaccato di nuovo l’ospedale Nasser, nel sud della Striscia di Gaza, uccidendo almeno sei persone"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/12/ospedale-nasser-gaza-bombardamento-notizie/8568977/",
-     "title": "Gaza, Israele bombarda l’ospedale Nasser di Khan Younis: sei morti, ucciso anche un medico. Idf rivendica: “Obiettivo era comandante di Hamas”"
-    }
-   ]
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Crolla un palazzo in costruzione a Brooklyn, un morto e diversi feriti",
-   "summary": "L'incidente nell'area residenziale di Flatbush, le vittime tutti operai edili",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/11/crolla-un-palazzo-in-costruzione-a-brooklyn-un-morto-e-diversi-feriti_e32477e6-191e-4481-851c-b5a91b6abceb.html",
-   "pub_ts": 1794473429,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/11/crolla-un-palazzo-in-costruzione-a-brooklyn-un-morto-e-diversi-feriti_e32477e6-191e-4481-851c-b5a91b6abceb.html",
-     "title": "Crolla un palazzo in costruzione a Brooklyn, un morto e diversi feriti"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/12/news/brooklyn_new_york_collo_palazzo_feriti-425716858/?rss",
-     "title": "Brooklyn, crolla palazzina di tre piani: due morti e diversi feriti"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/12/brooklyn-crollo-palazzo-video/",
-     "title": "Brooklyn, crolla un palazzo di tre piani: due morti – Foto e video"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/un-edificio-e-crollato-a-brooklyn-diverse-persone-sarebbero-rimaste-intrappolate-98ef67f1-c155-44ad-959e-5a19279c33b5.html",
-     "title": "Crolla un palazzo a Brooklyn, soccorsi al lavoro"
-    },
-    {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/new-york-crollo-brooklyn_4y5kMMzwtbDQKFZQ8eIq7",
-     "title": "Usa, crolla edificio di tre piani a New York: 2 morti e ameno 17 feriti"
+     "title": "Usa, crolla edificio di tre piani a New York: 8 morti e almeno 17 feriti"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Si rientra in classe dopo gli allarmi nelle scuole, vertice a Palazzo Chigi: Meloni incontra le opposizioni e fa appello all'unità",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
-   "description": "La Premier: 'Vogliono creare il caos'. Ieri inviate mail anonime in oltre seimila istituti scolastici",
-   "pub_ts": 1794475189,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Tass, Witkoff e Kushner arrivati a Mosca per i colloqui",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/tass-witkoff-e-kushner-arrivati-a-mosca-per-i-colloqui_c8911ddf-c632-4575-b6bd-a4f99857ce4a.html",
-   "description": "Vedranno Putin per fare il punto sui negoziati",
-   "pub_ts": 1794470574,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Risultato storico in Mississippi, eletto il dem Scott Colom",
-   "link": "https://www.repubblica.it/esteri/2026/11/12/news/risultato_storico_in_mississipi_eletto_il_dem_scott_colom-425716878/?rss",
-   "description": "É il primo afroamericano a far parte del Senato in questo Stato in oltre 140 anni",
-   "pub_ts": 1794475068,
-   "source": "Repubblica Esteri",
+   "title": "Palazzo Chigi, allarmi bomba in 3.788 scuole, solo 77 evacuate",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/palazzo-chigi-allarmi-bomba-in-3.788-scuole-solo-77-evacuate_729bfd9b-5d6f-40b5-bde5-f3fe26c6e741.html",
+   "description": "36 hanno subito ripreso. 'Le indicazioni a prefetti e presidi hanno funzionato'",
+   "pub_ts": 1794502646,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -652,8 +669,62 @@
    "title": "'Vi annienteremo', l'allarme bomba in 6.000 scuole italiane. Meloni: 'Strategia per il caos'",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/vi-annienteremo-lallarme-bomba-in-6.000-scuole-italiane.-meloni-strategia-per-il-caos_870b0024-72d2-4b15-bab5-0c74dcc1d653.html",
    "description": "La segnalazione da una mail da profilo compromesso taiwanese",
-   "pub_ts": 1794470727,
+   "pub_ts": 1794503610,
    "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Allarmi bomba: Meloni al tavolo con le opposizioni fa appello all'unità",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/allarmi-bomba-meloni-al-tavolo-con-le-opposizioni-fa-appello-allunita_8bc822aa-4b98-4420-8f30-14a3c7785070.html",
+   "description": "Riunione a Palazzo Chigi con i vicepremier, i leader del centrosinistra e FnV",
+   "pub_ts": 1794503146,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Inviati Usa in pressing con Putin, 'europei partecipino ai colloqui'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/inviati-usa-in-pressing-con-putin-europei-partecipino-ai-colloqui_2245912d-cc99-4c60-98e2-f9a3c7ae68f6.html",
+   "description": "'Se passiamo a un formato multilaterale, continueremo a fare progressi'",
+   "pub_ts": 1794497400,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Imprese-sindacati, siglata l'intesa su rappresentanza e contratti. Meloni: 'Traguardo storico'",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/imprese-sindacati-siglata-lintesa-su-rappresentanza-e-contratti_bed2c1c9-26a3-481d-a860-224240e41c9e.html",
+   "description": "Al centro recupero dei salari, rinnovi e misurazione del peso delle sigle",
+   "pub_ts": 1794497159,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "L'ex ministra Azzolina, 'non ho evacuato la scuola per l'allarme bomba'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/lex-ministra-azzolina-non-ho-evacuato-la-scuola-per-lallarme-bomba_2481a0b2-ffc6-411d-b6a9-8ff4f0e26205.html",
+   "description": "Oggi è dirigente dell'Istituto Biella 2: \"Deve restare un luogo sicuro\"",
+   "pub_ts": 1794495181,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Allerta rossa per rischio idrogeologico su Toscana e Liguria",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allerta-rossa-per-rischio-idrogeologico-sulla-toscana-del-nord-ovest_2188f77a-8b0c-4674-af13-637b6ac4bfea.html",
+   "description": "Allerta rossa per rischio idrogeologico su Toscana e Liguria",
+   "pub_ts": 1794494809,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Russia-Ucraina, inviati di Trump al Cremlino",
+   "link": "https://www.rainews.it/video/2026/11/russia-ucraina-inviati-di-trump-al-cremlino-1ae3f25d-b1a2-4cbb-ae87-24113cb44510.html",
+   "description": "Un colonnello russo è stato ucciso in un attentato a San Pietroburgo: l'auto esplosa mentre percorreva un'autostrada",
+   "pub_ts": 1794493200,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
@@ -667,92 +738,83 @@
    "section": "politica"
   },
   {
-   "title": "Giorgetti firma il decreto, Kiev chiede all’Italia gli Eurofighter dismessi",
-   "link": "https://www.repubblica.it/esteri/2026/11/12/news/giorgetti_firma_decreto_aiuti_ucraina_kiev_chiede_a_italia_eurofighter-425716846/?rss",
-   "description": "Il ministro dell’Economia appone la sua sigla sul tredicesimo pacchetto armi dopo la frenata di Salvini",
-   "pub_ts": 1794441600,
+   "title": "Meloni: 'Con le opposizioni colloquio franco e produttivo sugli allarmi nelle scuole'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
+   "description": "La premier a Dublino: 'Buon segnale, ma non vuol dire una delega in bianco'. Schlein: 'Disponibili a collaborare ma nessuna delega in bianco'",
+   "pub_ts": 1794502151,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Nvidia: Jensen Huang si è dimesso da ceo, Colette Kress nominata ad interim. Trump candida Cook",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/nvidia-jensen-huang-si-e-dimesso-con-effetto-immediato-da-ceo-colette-kress_0b01f8ad-f5ea-4fd2-a7a4-7ccfc68be774.html",
+   "description": "Il board ha avviato le procedure per la ricerca di un nuovo ceo permanente. Crolla il titolo a Wall Street",
+   "pub_ts": 1794504342,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Meta chiude i profili social di Russell Brand dopo la condanna per stupro",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/12/meta-chiude-i-profili-social-di-russell-brand-dopo-la-condanna-per-stupro_b9dcd698-4170-4802-bfbe-08f1fa5d943b.html",
+   "description": "Il suo team grida alla censura su X, 'grazie a Dio c'è Elon Musk'",
+   "pub_ts": 1794505123,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Intelligenza artificiale nelle scuole, ok del Garante privacy",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/12/intelligenza-artificiale-nelle-scuole-ok-del-garante-privacy_1c6e5450-f6d4-4aa6-82d7-de23f9ea3819.html",
+   "description": "",
+   "pub_ts": 1794504678,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Il 30% dei genitori italiani teme di essere sostituito dall'IA nel supporto ai giovani",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/12/il-30-dei-genitori-italiani-teme-di-essere-sostituito-dallia-nel-supporto-ai-giovani_b1030b84-24ad-465b-bd02-760cb9e8877e.html",
+   "description": "Ricerca Samsung-Jonas Ets, un adolescente su cinque usa i chatbot per domande complesse",
+   "pub_ts": 1794504527,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Re Carlo ospite del programma di Elton John, 'sei un tesoro nazionale'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/12/re-carlo-ospite-del-programma-di-elton-john-sei-un-tesoro-nazionale_715feda7-17da-456a-b8f7-0f65db15bfec.html",
+   "description": "Puntata per i 78 anni del sovrano. Il cantante scherza, 'finirò in show di antiquariato'",
+   "pub_ts": 1794505649,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Sulla guerra ibrida l’Italia resta il ventre molle d’Europa",
+   "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/12/news/falsi_allarmi_bombe_guerra_ibrida_italia-425718278/?rss",
+   "description": "L’ondata di allarmi scatena la paura e non trova reazioni strutturate. Mentre la risposta a queste minacce richiede consapevolezza e misure concrete. Come la capacità di dissuadere gli attacchi perseguendo gli autori ovunque si trovino",
+   "pub_ts": 1794483362,
    "source": "Repubblica Esteri",
    "source_priority": 1,
-   "section": "politica"
+   "section": "varia"
   },
   {
-   "title": "Nuovo allarme nei cieli baltici, si alzano i jet della Nato",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/11/nuovo-allarme-nei-cieli-baltici-si-alzano-i-jet-della-nato_eecd1cc9-00fb-432f-bd42-f0d1bc1895ce.html",
-   "description": "Alcuni droni 'tagliano' lo spazio aereo. Mosca: 'Attaccati nel porto di Ust-Luga'",
-   "pub_ts": 1794423752,
-   "source": "ANSA Mondo",
+   "title": "All'asta il 28/11 a Parigi la sceneggiatura dattiloscritta di C'era una volta il West",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/12/allasta-il-2811-a-parigi-la-sceneggiatura-dattiloscritta-di-cera-una-volta-il-west_d8fd66bb-d605-42e2-b557-74991698445d.html",
+   "description": "Regalata nel 2006 dallo sceneggiatore Sergio Donati ad Alan Simon",
+   "pub_ts": 1794505384,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "politica"
+   "section": "varia"
   },
   {
-   "title": "Esplode un'auto a San Pietroburgo, morto un militare russo",
-   "link": "https://www.rainews.it/video/2026/11/esplode-unauto-a-san-pietroburgo-morto-un-militare-russo-48b54189-17ac-4be5-8238-37b2224d049e.html",
-   "description": "Media locali riferiscono che sarebbe stato azionato un ordigno a distanza",
-   "pub_ts": 1794471240,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Pete Hegseth rimproverato da una guardia alla Tomba del Milite Ignoto",
-   "link": "https://www.ilpost.it/flashes/pete-hegseth-rimproverato-tomba-milite-ignoto/",
-   "description": "",
-   "pub_ts": 1794466340,
-   "source": "Il Post",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Meloni, Nassiriya una ferita viva, pagato un prezzo altissimo al servizio della pace (2)",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/meloni-nassiriya-una-ferita-viva-pagato-un-prezzo-altissimo-al-servizio-della_b09c10a6-61c7-4072-a478-ff15a71c0f7a.html",
-   "description": "Il ricordo delle 19 vite spezzate ci richiama al valore del servizio e dell'amor di patria",
-   "pub_ts": 1794474720,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Perché per Nvidia è un grande problema sostituire Jensen Huang",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/10/news/nvidia-jensen-huang-successione-ceo-rischi-425712946/?rss",
-   "description": "Lo scandalo che coinvolge il CEO dell’azienda simbolo dei chip per l’IA, dopo due relazioni extraconiugali –una di queste con una donna sospettata di avere legami con l’intelligence cinese - ha aperto una crisi che va molto oltre la sua vita privata. Allontanare Huang, o anche...",
-   "pub_ts": 1794473913,
-   "source": "Repubblica Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Gmail, Gemini arriva a tutti gli utenti Workspace",
-   "link": "https://www.punto-informatico.it/gmail-gemini-tutti-utenti-workspace/",
-   "description": "AI Overview e Help me write arrivano su Gmail per tutti gli utenti Workspace, anche con licenza aziendale o scolastica. Sono attivi di default. The post Gmail, Gemini arriva a tutti gli utenti Workspace appeared first on Punto Informatico .",
-   "pub_ts": 1794474883,
-   "source": "Punto Informatico",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Tabletop di Google crea app con l’AI per organizzare viaggi e spese",
-   "link": "https://www.punto-informatico.it/tabletop-google-crea-app-ai-organizzare-viaggi-spese/",
-   "description": "Tabletop di Google crea app personalizzate con l'AI per organizzare viaggi, feste, spese e attività di gruppo. Ecco come funziona. The post Tabletop di Google crea app con l’AI per organizzare viaggi e spese appeared first on Punto Informatico .",
-   "pub_ts": 1794473184,
-   "source": "Punto Informatico",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "K-pop, arrivano le Lumina: la girl band creata interamente con l'intelligenza artificiale",
-   "link": "https://www.rainews.it/video/2026/11/k-pop-arrivano-le-lumina-la-girl-band-creata-interamente-con-lintelligenza-artificiale-62852131-314f-4107-9b56-0c8268c32f39.html",
-   "description": "Le quattro cantanti virtuali sono nate da un progetto di una società finanziaria sudcoreana. Musica, volti e coreografie generati integralmente dall'IA",
-   "pub_ts": 1794460740,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Allerta rossa per rischio idrogeologico sulla Toscana del nord ovest",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allerta-rossa-per-rischio-idrogeologico-sulla-toscana-del-nord-ovest_2188f77a-8b0c-4674-af13-637b6ac4bfea.html",
-   "description": "Codice giallo su tutta la regione per temporali forti",
-   "pub_ts": 1794472173,
-   "source": "ANSA",
+   "title": "In mostra il volto in terracotta di Brunelleschi ritrovato dopo 600 anni",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/12/in-mostra-il-volto-in-terracotta-di-brunelleschi-ritrovato-dopo-600-anni_6123a3ca-6029-4ee8-b65d-b0adefb5ae55.html",
+   "description": "L'opera viene esposta per la prima volta al pubblico, fino al 14 febbraio",
+   "pub_ts": 1794501494,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
@@ -760,53 +822,26 @@
    "title": "'Divieto di fumo assoluto al chiuso e niente pubblicità', al via Manifesto per tutela diritti dei non fumatori",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/12/divieto-di-fumo-assoluto-al-chiuso-e-niente-pubblicita-al-via-manifesto_9ead1a5c-8092-4b45-82f4-7049d2528ab5.html",
    "description": "Appello di Aiom, Fondazione Veronesi e Airc. 'Parlamento discuta proposta di legge per aumentare di 5 euro il costo di tutti i prodotti da fumo'",
-   "pub_ts": 1794474304,
+   "pub_ts": 1794500483,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Allarme bomba, studenti disconnessi a forza da social e whatspp, 'ansia e nervosismo'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/11/allarme-bomba-molti-studenti-disconnessi-a-forza-da-social-e-whatspp_00ec4cd8-c845-4d23-a63c-c402e4b7e4f5.html",
-   "description": "Cellulari lasciati in classe, in molti casi nervosismo e ansia fino al senso di colpa",
-   "pub_ts": 1794429387,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "A Trani la Bibliofarmacia, i libri con il bugiardino per curare l'anima",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/11/a-trani-la-bibliofarmacia-i-libri-con-il-bugiardino-per-curare-lanima_5617e999-5203-4f75-964a-90873d8462bd.html",
-   "description": "La direttrice: \"Pensiamo al valore terapeutico che può avere la lettura\"",
-   "pub_ts": 1794416402,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Morto a 85 anni Stacy Keach, star del teatro e della serie tv 'Mike Hammer'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/11/morto-a-85-anni-stacy-keach-star-del-teatro-e-della-serie-tv-mike_18ca54eb-6899-43ca-9e6c-7b6e6507cd07.html",
-   "description": "Per insufficienza cardiaca. Interpretò il padre di Clooney in 'Jay Kelly'",
-   "pub_ts": 1794393388,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Protezione civile Gaza, raid israeliano uccide 6 persone in un ospedale",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/12/protezione-civile-gaza-raid-israeliano-uccide-6-persone-in-un-ospedale_befb1710-40f6-41ca-af23-3d9cb1030ca1.html",
-   "description": "",
-   "pub_ts": 1794475786,
-   "source": "ANSA Mondo",
+   "title": "Sparatoria in centro a Washington: cinque persone colpite, un morto. Si è ucciso l'uomo che ha sparato",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/12/sparatoria-in-centro-a-washington-cinque-persone-colpite-un-morto.-si-e-ucciso-luomo-che_b3d1f241-30d3-48d2-80e0-b6f155a26c15.html",
+   "description": "La polizia: 'State in casa'. L'uomo si era barricato in un appartamento ed ha sparato agli agenti",
+   "pub_ts": 1794501298,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "Crolla un palazzo in costruzione a Brooklyn, un morto e diversi feriti",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/11/crolla-un-palazzo-in-costruzione-a-brooklyn-un-morto-e-diversi-feriti_e32477e6-191e-4481-851c-b5a91b6abceb.html",
-   "description": "L'incidente nell'area residenziale di Flatbush, le vittime tutti operai edili",
-   "pub_ts": 1794473429,
-   "source": "ANSA Mondo",
+   "title": "Attacco israeliano in un ospedale a Gaza: 6 morti e 20 feriti",
+   "link": "https://www.repubblica.it/esteri/2026/11/12/news/attacco_israeliano_in_un_ospedale_a_gaza_6_morti_e_20_feriti-425716894/?rss",
+   "description": "Secondo Al Jazeera è la settima volta in due anni che la stessa struttura viene presa di mira",
+   "pub_ts": 1794505500,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   }
