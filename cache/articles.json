@@ -1,6 +1,6 @@
 {
- "generated_at": 1794528128,
- "updated_at": 1794528128,
+ "generated_at": 1794555822,
+ "updated_at": 1794555822,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,58 +9,11 @@
  "items": [
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Media, Jensen Huang si è dimesso con effetto immediato da ceo Nvidia",
-   "summary": "Lo riferisce la Cnbc",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/media-jensen-huang-si-e-dimesso-con-effetto-immediato-da-ceo-nvidia_f12acd81-1e67-4c3e-a486-0b6a529abcf2.html",
-   "pub_ts": 1794524963,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/media-jensen-huang-si-e-dimesso-con-effetto-immediato-da-ceo-nvidia_f12acd81-1e67-4c3e-a486-0b6a529abcf2.html",
-     "title": "Media, Jensen Huang si è dimesso con effetto immediato da ceo Nvidia"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/nvidia-huang-trump_4SYG7JpfJp4omyt5LuyolJ",
-     "title": "Nvidia, Huang lascia: le dimissioni del Ceo e le ombre su Trump"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/jensen-huang-nvidia-dimissioni-trump-hdlpq0ke",
-     "title": "Scandalo Nvidia: la caduta di Huang inguaia anche Trump"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/terremoto-a-wall-street-jensen-huang-lascia-nvidia-travolto-dagli-scandali-028a219c-8b5f-4d17-bcf4-779aa4077d08.html",
-     "title": "Terremoto a Wall Street, Jensen Huang lascia Nvidia travolto dagli scandali"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/alice-huang-finanza-shanghai-cuore-nvidia-chi-e-spia-scandalo-jensen-huang-AJB7zOEC",
-     "title": "Alice Huang, dalla finanza di Shanghai al cuore di Nvidia: chi è la spia dello scandalo Jensen Huang"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/",
-     "title": "Jensen Huang si è dimesso da amministratore delegato di Nvidia"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/huang-si-e-dimesso-da-nvidia/",
-     "title": "Huang si è dimesso da Nvidia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
    "title": "Nuovi allarmi bomba in 3.800 scuole, ma si resta in classe",
    "summary": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
-   "pub_ts": 1794520434,
+   "pub_ts": 1794553024,
    "n_sources": 7,
    "documented": true,
    "sources": [
@@ -91,13 +44,87 @@
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/12/allarme-bombe-scuole-governo-caos-tagli-opinione/8569680/",
-     "title": "Allarmi bomba scuole: il governo senza un piano invoca unità. Ma unità per fare cosa?"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/13/allarmi-bomba-scuole-piano-emergenza-notizie/8570081/",
+     "title": "“Allarmi bomba nelle scuole? Non esiste un piano ufficiale nazionale”: la denuncia di Cittadinanzattiva"
     },
     {
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/altri-allarmi-bomba-scuole-chiuse-il-governo-cambia-strategia-cosa-devono-fare-i-presidi/",
      "title": "Altri allarmi bomba, scuole chiuse? Il governo cambia strategia: cosa devono fare i presidi"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "L'inviato speciale americano Kushner: 'Progressi significativi nei negoziati Ucraina-Russia'",
+   "summary": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/linviato-speciale-americano-kushner-progressi-significativi-nei-negoziati-ucraina-russia_44817c41-c94b-49c5-82d4-c2480ddd3563.html",
+   "pub_ts": 1794554624,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/linviato-speciale-americano-kushner-progressi-significativi-nei-negoziati-ucraina-russia_44817c41-c94b-49c5-82d4-c2480ddd3563.html",
+     "title": "L'inviato speciale americano Kushner: 'Progressi significativi nei negoziati Ucraina-Russia'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/kushner-progressi-significativi-nei-negoziati-ucraina-russia_eb0bf24d-6068-4664-a627-2a8d50fdc5bf.html",
+     "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/negoziati-ucraina-russia-usa-trump-kushner-witkoff-europa-dublino-zelensky-prigionieri-sh2y51mf",
+     "title": "Ucraina, anche gli europei ai prossimi negoziati con la Russia. Kushner: «Progressi significativi»"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/guerra-ucraina-abu-dhabi-negoziati-senza-svolte-accordo-prigionieri-giorgetti-firma-decreto-armi-a-kiev-e9354c7a-6760-4df6-bc3d-4386d75fe9f0.html",
+     "title": "Droni su raffineria russa. Negoziati Kiev-Mosca Kushner: \"progressi significativi\". Europa al tavolo"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-colloqui-usa-putin-news-diretta-oggi_4K3ygUgUSgj5lzJmTmR6pg",
+     "title": "Ucraina, Kushner e Witkoff da Putin. Il leader russo: \"Europei decidano se vogliono pace o guerra\"- Diretta"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Ucraina, nuovi colloqui e Witkoff annuncia: “Ci saranno gli europei”",
+   "summary": "Dopo l’incontro con Putin a Mosca, la delegazione americana è volata a riferire al vertice di Dublino",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/ucraina_svolta_a_mosca_anche_europa_prossimi_colloqui-425719794/?rss",
+   "pub_ts": 1794528000,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/ucraina_svolta_a_mosca_anche_europa_prossimi_colloqui-425719794/?rss",
+     "title": "Ucraina, nuovi colloqui e Witkoff annuncia: “Ci saranno gli europei”"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/witkoff-gli-europei-parteciperanno-al-prossimo-round-di-colloqui-sullucraina_65d7bcd4-2d20-47f0-b695-91e1adb4f015.html",
+     "title": "Witkoff, gli europei parteciperanno al prossimo round di colloqui sull'Ucraina"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/ucraina_svolta_a_mosca_anche_europa_prossimi_colloqui-425719794/",
+     "title": "Ucraina, nuovi colloqui e Witkoff annuncia: “Ci saranno gli europei”"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-incontro-putin-witkoff-kushner-ultime-notizie_rNyWqG1cfl333XtjocwCv",
+     "title": "Ucraina-Russia, Witkoff: \"Ue parteciperà ai colloqui\". Putin: \"Europei decidano se vogliono pace o guerra\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/russia-ucraina-witkoff-kushner-usa-a-mosca-per-incontrare-putin-poi-zelensky-dublino-rm1ga8dj",
+     "title": "Ucraina, Witkoff e Kushner spingono per colloqui con l’Ue. Ma per Putin le truppe europee sono «obiettivi legittimi»"
     }
    ]
   },
@@ -122,9 +149,9 @@
      "title": "L’ad di Intesa attacca la manovra: «Misure sudamericane»"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/scintille-tra-governo-e-banche-misure-sudamericane-la-replica-di-giorgetti-linea-asburgica-efdab654-c6c8-4344-84e4-4d9f31b157a2.html",
-     "title": "Scintille tra Governo e banche: \"Misure sudamericane\". La replica di Giorgetti: \"Linea asburgica\""
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/12/news/banche_l_affondo_di_messina_contro_il_governo_misure_sudamericane_pretendiamo_rispetto-425718496/",
+     "title": "Banche, l’affondo di Messina contro il governo sui crediti del Superbonus: “Misure sudamericane”"
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -136,54 +163,125 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Zelensky, 'gli europei saranno al prossimo round negoziale'",
-   "summary": "Terminato l'incontro con Witkoff e Kushner, 'fatti passi avanti'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/zelensky-gli-europei-saranno-al-prossimo-round-negoziale_f40316f2-63ce-455a-b562-5da5a5c02929.html",
-   "pub_ts": 1794523610,
+   "title": "Media, Lutnick testimonierà sul caso Nvidia prima del Congresso",
+   "summary": "Ncb, 'sarà al Banking Commitee per rispondere alle loro domande'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/media-lutnick-testimoniera-sul-caso-nvidia-prima-del-congresso_b4a14775-1253-440a-a12b-ed1c36dd7b19.html",
+   "pub_ts": 1794551520,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/zelensky-gli-europei-saranno-al-prossimo-round-negoziale_f40316f2-63ce-455a-b562-5da5a5c02929.html",
-     "title": "Zelensky, 'gli europei saranno al prossimo round negoziale'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/media-lutnick-testimoniera-sul-caso-nvidia-prima-del-congresso_b4a14775-1253-440a-a12b-ed1c36dd7b19.html",
+     "title": "Media, Lutnick testimonierà sul caso Nvidia prima del Congresso"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-incontro-putin-witkoff-kushner-ultime-notizie_rNyWqG1cfl333XtjocwCv",
-     "title": "Ucraina-Russia, Witkoff: \"Ue parteciperà ai colloqui\". Putin: \"Europei decidano se vogliono pace o guerra\""
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/12/news/mistero_alice_huang_spia_cinese_nvidia_dove_e-425718443/?rss",
+     "title": "Il mistero Alice Huang, dov’è finita la spia cinese che ha fatto crollare Nvidia"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/negoziati-ucraina-stati-uniti-emirati-abu-dhabi-esiti-ua7pza6f",
-     "title": "Ucraina, Trump ottimista: i suoi emissari da Zelensky e Putin per tentare un patto"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/scandalo-nvidia-dubbi-007-spia-cinese-mentre-lutnick-testimonia-congresso-AJp8OBFC",
+     "title": "Scandalo Nvidia: la manager cinese legata alla rivale Huawei, Lutnick testimonia al Congresso"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Allarme bomba: 'Vi annienteremo', la mail inviata alle scuole",
-   "summary": "Il messaggio firmato Mikhail Andropov, 'potente ordigno in un sacchetto di plastica'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-vi-annienteremo-la-mail-inviata-alle-scuole_f222b6df-f984-46ac-9192-6746f70c4074.html",
-   "pub_ts": 1794503610,
+   "title": "Huang lascia Nvidia. L’ex ceo chiamato a testimoniare insieme al segretario del commercio Lutnik",
+   "summary": "Dopo l’annuncio delle dimissioni da Ceo, le azioni in Borsa sono crollate",
+   "link": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/?rss",
+   "pub_ts": 1794547615,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-vi-annienteremo-la-mail-inviata-alle-scuole_f222b6df-f984-46ac-9192-6746f70c4074.html",
-     "title": "Allarme bomba: 'Vi annienteremo', la mail inviata alle scuole"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/?rss",
+     "title": "Huang lascia Nvidia. L’ex ceo chiamato a testimoniare insieme al segretario del commercio Lutnik"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/jensen-huang-testimoniera-al-congresso-usa-prima-del-26-novembre_f24f8465-694b-4948-b2ac-d86b90656b2c.html",
+     "title": "Jensen Huang testimonierà al Congresso Usa prima del 26 novembre"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/12/come-trovare-chi-ha-mandato-mail-allarme-bomba-scuole/",
-     "title": "Come si fa a trovare chi ha mandato le mail con l’allarme bomba"
+     "link": "https://www.ilpost.it/2026/11/13/jensen-huang-ordine-testimonianza-commissione-senato/",
+     "title": "Jensen Huang è stato chiamato a testimoniare al Congresso"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "È morto il giornalista Toni Capuozzo",
+   "summary": "È stato uno dei più noti inviati di guerra italiani, aveva 77 anni",
+   "link": "https://www.ilpost.it/2026/11/12/e-morto-il-giornalista-toni-capuozzo/",
+   "pub_ts": 1794549764,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/12/e-morto-il-giornalista-toni-capuozzo/",
+     "title": "È morto il giornalista Toni Capuozzo"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/13/toni-capuozzo-dibattista-podcast-giornalismo-opinione/8569837/",
+     "title": "Toni Capuozzo, nella puntata del podcast di Di Battista la storia dell’inviato di guerra"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/milanoquotidiano/allarme-bomba-ce-chi-non-ci-e-cascato-quella-mail-era-comica-la-procura-apre-uninchiesta/",
-     "title": "Allarme bomba, c’è chi non ci è cascato: “Quella mail era comica”. La Procura apre un’inchiesta"
+     "link": "https://www.nicolaporro.it/e-morto-toni-capuozzo/",
+     "title": "È morto Toni Capuozzo"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Gli 007 americani non sono sicuri che Alice Huang sia una spia",
+   "summary": "Il segretario Usa al Commercio testimonierà sul caso Nvidia prima del Congresso",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/gli-007-americani-non-sono-sicuri-che-alice-huang-sia_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html",
+   "pub_ts": 1794551512,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/gli-007-americani-non-sono-sicuri-che-alice-huang-sia_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html",
+     "title": "Gli 007 americani non sono sicuri che Alice Huang sia una spia"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/13/007-usa-non-sono-sicuri-che-alice-huang-fosse-una_723a1bcc-d62f-4b0f-a209-19c132f70e2e.html",
+     "title": "007 Usa 'non sono sicuri che Alice Huang fosse una spia della Cina'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "La missione di Colette, dalla gavetta al vertice: “È un momento difficile”",
+   "summary": "I figli la spinsero ad andare nella società perché progettava le schede dei videogiochi. Ora cerca di rassicurare i dipendenti e il mercato",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/colette_kress_donna_dei_conti_gavetta_nvidia-425719443/?rss",
+   "pub_ts": 1794528000,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/colette_kress_donna_dei_conti_gavetta_nvidia-425719443/?rss",
+     "title": "La missione di Colette, dalla gavetta al vertice: “È un momento difficile”"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/colette_kress_donna_dei_conti_gavetta_nvidia-425719443/",
+     "title": "La missione di Colette, dalla gavetta al vertice: “È un momento difficile”"
     }
    ]
   },
@@ -210,90 +308,116 @@
    ]
   },
   {
-   "category": "politica",
-   "area": "italia",
-   "title": "Meloni chiama all'unità, le opposizioni aprono ma 'niente cambiali in bianco'",
-   "summary": "Due ore a Palazzo Chigi. La premier chiede toni adeguati. Il governo pronto a riferire in Parlamento",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
-   "pub_ts": 1794512920,
-   "n_sources": 2,
+   "category": "tech",
+   "area": null,
+   "title": "Ascesa e caduta di Jensen Huang, l’ex CEO di Nvidia che ha creato un impero dell’IA",
+   "summary": "Jensen Huang si è dimesso da amministratore delegato di Nvidia. Il manager ha trasformato una piccola società di chip per videogiochi nell’azienda che alimenta gran parte della rivoluzione dell’intelligenza artificiale. Le rivelazioni su due relazioni extraconiugali hanno messo...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/12/news/chi-e-jensen-huang-nvidia-tradimento-425718607/?rss",
+   "pub_ts": 1794555692,
+   "n_sources": 11,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
-     "title": "Meloni chiama all'unità, le opposizioni aprono ma 'niente cambiali in bianco'"
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/12/news/chi-e-jensen-huang-nvidia-tradimento-425718607/?rss",
+     "title": "Ascesa e caduta di Jensen Huang, l’ex CEO di Nvidia che ha creato un impero dell’IA"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/meloni-vertice-palazzo-chigi-opposizioni-allarmi-bomba-scuole-cybersicurezza-y8tq9yy8",
-     "title": "Cybersicurezza, Meloni dopo il vertice con le opposizioni: «Non chiediamo deleghe in bianco»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "I rilievi del Colle su legge protezione civile, 'troppe deroghe sulla impunibilità'",
-   "summary": "Lettera ai presidenti delle Camere e a Chigi, serve un quadro normativo coerente",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/mattarella-firma-la-legge-sulla-protezione-civile-ma-con-una-lettera-ai-presidenti_bb66bb20-5294-4f3b-adcb-861abf32d9bc.html",
-   "pub_ts": 1794511441,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/trump-candida-tim-cook-di-apple-alla-guida-di-nvidia_171903a5-dff4-431c-8478-cd1062ad27a5.html",
+     "title": "Trump candida Tim Cook di Apple alla guida di Nvidia"
+    },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/mattarella-firma-la-legge-sulla-protezione-civile-ma-con-una-lettera-ai-presidenti_bb66bb20-5294-4f3b-adcb-861abf32d9bc.html",
-     "title": "I rilievi del Colle su legge protezione civile, 'troppe deroghe sulla impunibilità'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/12/news/scandalo_nvidia_casa_bianca_litigi_urla_tra_ministri_rischia_anche_trump-425716688/?rss",
+     "title": "Nvidia, cda verso la rimozione di Huang. Litigi e urla tra i ministri. Ripercussioni su Trump"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/mea-culpa-jensen-huang-trump-tim-cook/",
+     "title": "Il mea culpa di Jensen Huang, Trump vuole Tim Cook al suo posto"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/mattarella-firma-legge-protezione-civile-e-rileva-serve-quadro-coerente-su-responsabilita-penale-18a698bc-b452-45d3-99de-480a701daaab.html",
-     "title": "Mattarella firma legge protezione civile e rileva: serve \"quadro coerente\" su responsabilità penale"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Stato-Regioni, i governatori del centrosinistra votano contro il decreto sulla Corte dei Conti",
-   "summary": "Il governo per procedere dovrà prima superare la mancata intesa con un atto del Cdm",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/stato-regioni-i-governatori-del-centrosinistra-votano-contro-il-decreto-sulla-corte_83cc1627-fc76-4322-b29f-340db84251fa.html",
-   "pub_ts": 1794508130,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/stato-regioni-i-governatori-del-centrosinistra-votano-contro-il-decreto-sulla-corte_83cc1627-fc76-4322-b29f-340db84251fa.html",
-     "title": "Stato-Regioni, i governatori del centrosinistra votano contro il decreto sulla Corte dei Conti"
+     "link": "https://www.rainews.it/maratona/2026/11/nvidia-jensen-huang-si-e-dimesso-dopo-lo-scandalo-trump-tim-cook-al-suo-posto-2b14b114-0a28-4329-930f-b25b4b282450.html",
+     "title": "Nvidia: Jensen Huang si è dimesso dopo lo scandalo. Trump: \"Tim Cook al suo posto\""
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/12/riforma-corte-conti-stop-regioni-notizie/8569652/",
-     "title": "Corte dei Conti, primo stop alla riforma. Niente intesa con le Regioni"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/nvidia-huang-trump_4SYG7JpfJp4omyt5LuyolJ",
+     "title": "Nvidia, Huang lascia: le dimissioni del Ceo e le ombre su Trump"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/jensen-huang-nvidia-dimissioni-trump-hdlpq0ke",
+     "title": "Scandalo Nvidia: la caduta di Huang inguaia anche Trump"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/alice-huang-finanza-shanghai-cuore-nvidia-chi-e-spia-scandalo-jensen-huang-AJB7zOEC",
+     "title": "Alice Huang, dalla finanza di Shanghai al cuore di Nvidia: chi è la spia dello scandalo Jensen Huang"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/",
+     "title": "Jensen Huang si è dimesso da amministratore delegato di Nvidia"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/",
+     "title": "Huang lascia Nvidia. L’ex ceo chiamato a testimoniare insieme al segretario del commercio Lutnik"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/huang-si-e-dimesso-da-nvidia/",
+     "title": "Huang si è dimesso da Nvidia"
     }
    ]
   },
   {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump, 'Vance non si occuperà più dell'Iran, non abbiamo bisogno di un accordo'",
-   "summary": "'Quei tempi sono lontani'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/trump-vance-non-si-occupera-piu-delliran-non-abbiamo-bisogno-di-un-accordo_be8a02c8-8a32-4614-881b-5930a618a384.html",
-   "pub_ts": 1794507077,
-   "n_sources": 2,
+   "category": "tech",
+   "area": null,
+   "title": "Microsoft, le misure per risolvere falle Outlook non funzionano 'come previsto'",
+   "summary": "Il colosso americano, 'stiamo individuando soluzioni alternative'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto_65643d65-3d6c-4795-a1ce-8e77c0aca432.html",
+   "pub_ts": 1794555692,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/trump-vance-non-si-occupera-piu-delliran-non-abbiamo-bisogno-di-un-accordo_be8a02c8-8a32-4614-881b-5930a618a384.html",
-     "title": "Trump, 'Vance non si occuperà più dell'Iran, non abbiamo bisogno di un accordo'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto_65643d65-3d6c-4795-a1ce-8e77c0aca432.html",
+     "title": "Microsoft, le misure per risolvere falle Outlook non funzionano 'come previsto'"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/israele-colpisce-ospedale-gaza-e-uccide-6-persone-era-centro-operativo-hamas-AJxUqmDC",
-     "title": "Trump: Vance si occupi di corruzione, non ci serve accordo con l’Iran. Raid israeliani su Gaza, 11 morti"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/outlook-microsoft-365-down-13112026/",
+     "title": "Outlook e Microsoft 365 down: problemi il 13 novembre"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/13/microsoft-down-outlook-teams-modifiche/",
+     "title": "Microsoft e il down mondiale di Outlook: «Le modifiche non stanno funzionando»"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/12/problemi-accesso-microsof-outlook/",
+     "title": "Ci sono problemi di accesso ai servizi Microsoft, compreso il sistema di posta elettronica Outlook, in diverse parti del mondo"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/outlook-problemi-microsoft-down_6DNqu1IZ2nWe4Q5xQeNUDA",
+     "title": "Outlook down, problemi per la posta di Microsoft: mail in tilt"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/12/news/microsoft_down_in_tutto_il_mondo_disservizi_sulla_mail_negli_usa_130mila_segnalazioni-425719351/",
+     "title": "Down mondiale di Microsoft, disservizi ancora in corso. “Stiamo definendo strategie alternative”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/13/microsoft-365-down-outlook-teams-notizie/8570236/",
+     "title": "Down Microsoft, Outlook e altri servizi ancora fuori uso. L’azienda: “Le nostre misure non producono gli effetti sperati”"
     }
    ]
   },
@@ -303,12 +427,12 @@
    "title": "Persistono i disservizi Microsoft, ma in via di risoluzione",
    "summary": "L'azienda segnala un \"carico elevato\" in più regioni, qualche ora prima giunta un0'allerta Usa su una falla",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/persistono-i-disservizi-microsoft-ma-in-via-di-risoluzione_5a79e3ac-8079-48c2-9000-3be74c314bb0.html",
-   "pub_ts": 1794513632,
-   "n_sources": 2,
+   "pub_ts": 1794550872,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
+     "name": "ANSA Cronaca",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/persistono-i-disservizi-microsoft-ma-in-via-di-risoluzione_5a79e3ac-8079-48c2-9000-3be74c314bb0.html",
      "title": "Persistono i disservizi Microsoft, ma in via di risoluzione"
     },
@@ -316,6 +440,11 @@
      "name": "ANSA Tecnologia",
      "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/12/persistono-i-disservizi-microsoft-ma-in-via-di-risoluzione_62978eaa-99cc-4e90-8c84-c51745b79652.html",
      "title": "Persistono i disservizi Microsoft, ma in via di risoluzione"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/servizi-microsoft-down-in-tutto-il-mondo-6c38633b-7196-48ba-becc-94383d82aad7.html",
+     "title": "Microsoft down in tutto il mondo, dietro i disservizi \"non c'è attacco hacker\""
     }
    ]
   },
@@ -338,40 +467,6 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/12/russell-brand-stupro-rimozione-meta/",
      "title": "Meta ha rimosso i profili Instagram e Facebook dell’attore Russell Brand dopo la condanna per stupro"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Intelligenza artificiale nelle scuole, ok del Garante privacy",
-   "summary": "",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/12/intelligenza-artificiale-nelle-scuole-ok-del-garante-privacy_1c6e5450-f6d4-4aa6-82d7-de23f9ea3819.html",
-   "pub_ts": 1794504678,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/12/intelligenza-artificiale-nelle-scuole-ok-del-garante-privacy_1c6e5450-f6d4-4aa6-82d7-de23f9ea3819.html",
-     "title": "Intelligenza artificiale nelle scuole, ok del Garante privacy"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Il 30% dei genitori italiani teme di essere sostituito dall'IA nel supporto ai giovani",
-   "summary": "Ricerca Samsung-Jonas Ets, un adolescente su cinque usa i chatbot per domande complesse",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/12/il-30-dei-genitori-italiani-teme-di-essere-sostituito-dallia-nel-supporto-ai-giovani_b1030b84-24ad-465b-bd02-760cb9e8877e.html",
-   "pub_ts": 1794504527,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/12/il-30-dei-genitori-italiani-teme-di-essere-sostituito-dallia-nel-supporto-ai-giovani_b1030b84-24ad-465b-bd02-760cb9e8877e.html",
-     "title": "Il 30% dei genitori italiani teme di essere sostituito dall'IA nel supporto ai giovani"
     }
    ]
   },
@@ -399,34 +494,6 @@
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/12/trame-tempo-autori-valditara-notizie/8569991/",
      "title": "“Non ci facciamo intimidire”. Gli storici sfidano Valditara: “Ritiro del nostro manuale? Vuole la scuola dell’asservimento”"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "È morto Toni Capuozzo, poco tempo fa aveva annunciato di avere un tumore",
-   "summary": "Il giornalista e storico inviato ha lavorato a lungo per Mediaset",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/12/e-morto-toni-capuozzo-pochi-giorni-fa-lannuncio-del-tumore_d91e7c63-c965-4b50-b4d9-931c2a6fd56f.html",
-   "pub_ts": 1794506149,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/12/e-morto-toni-capuozzo-pochi-giorni-fa-lannuncio-del-tumore_d91e7c63-c965-4b50-b4d9-931c2a6fd56f.html",
-     "title": "È morto Toni Capuozzo, poco tempo fa aveva annunciato di avere un tumore"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/e-morto-toni-capuozzo-aveva-77-anni_8c61b37c-088b-4efd-a7a0-5fe264b70581.html",
-     "title": "E' morto Toni Capuozzo, aveva 77 anni"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/12/toni-capuozzo-morto-il-ricordo-dellamico-e-collega-enrico-mentana-ciao-amico-per-sempre/8569674/",
-     "title": "“Ciao, amico per sempre”: il cordoglio di Enrico Mentana per Toni Capuozzo, morto a 77 anni per un tumore"
     }
    ],
    "subtype": "cultura"
@@ -462,6 +529,29 @@
   {
    "category": "varia",
    "area": null,
+   "title": "Cristiano Godano, \"Non faccio musica che conviene agli algoritmi\"",
+   "summary": "Esce terzo album solista, \"ma mio percorso sempre subordinato all'attività dei Marlene\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/12/cristiano-godano-non-faccio-musica-che-conviene-agli-algoritmi_5d0f5d3f-ab65-40a6-9f14-347cf650be7a.html",
+   "pub_ts": 1794546000,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/12/cristiano-godano-non-faccio-musica-che-conviene-agli-algoritmi_5d0f5d3f-ab65-40a6-9f14-347cf650be7a.html",
+     "title": "Cristiano Godano, \"Non faccio musica che conviene agli algoritmi\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/idee/cultura/cristiano-godano-colloquio-musica-atto-resistenza-algoritmo-u88a8y83",
+     "title": "Cristiano Godano: «La mia musica come atto di eroica resistenza nel dominio dell’algoritmo»"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
    "title": "Cyber team e sistemi 'anti-buco', Asl allertate su cybersecurity",
    "summary": "Quintavalle (Fiaso), 'vigilanza alta, ospedali preparati. Pronti anche piani evacuazione'",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/cyber-team-e-sistemi-anti-buco-asl-allertate-su-cybersecurity_82350fa7-36c4-4dea-8347-1da8e9bb25e5.html",
@@ -485,22 +575,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Allarme bomba, studenti disconnessi a forza da social e whatspp, 'ansia e nervosismo'",
-   "summary": "Cellulari lasciati in classe, in molti casi nervosismo e ansia fino al senso di colpa",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/11/allarme-bomba-molti-studenti-disconnessi-a-forza-da-social-e-whatspp_00ec4cd8-c845-4d23-a63c-c402e4b7e4f5.html",
-   "pub_ts": 1794429387,
+   "title": "'Divieto di fumo assoluto al chiuso e niente pubblicità', al via Manifesto per tutela diritti dei non fumatori",
+   "summary": "Appello di Aiom, Fondazione Veronesi e Airc. 'Parlamento discuta proposta di legge per aumentare di 5 euro il costo di tutti i prodotti da fumo'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/12/divieto-di-fumo-assoluto-al-chiuso-e-niente-pubblicita-al-via-manifesto_9ead1a5c-8092-4b45-82f4-7049d2528ab5.html",
+   "pub_ts": 1794500483,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/11/allarme-bomba-molti-studenti-disconnessi-a-forza-da-social-e-whatspp_00ec4cd8-c845-4d23-a63c-c402e4b7e4f5.html",
-     "title": "Allarme bomba, studenti disconnessi a forza da social e whatspp, 'ansia e nervosismo'"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/12/divieto-di-fumo-assoluto-al-chiuso-e-niente-pubblicita-al-via-manifesto_9ead1a5c-8092-4b45-82f4-7049d2528ab5.html",
+     "title": "'Divieto di fumo assoluto al chiuso e niente pubblicità', al via Manifesto per tutela diritti dei non fumatori"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-lansia-degli-studenti-costretti-a-lasciare-il-cellulare-in-classe_bef17e2d-39df-4503-b461-03418f8b9b1a.html",
-     "title": "Allarme bomba, l'ansia degli studenti costretti a lasciare il cellulare in classe"
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/12/news/sigarette_elettroniche_e_tabacco_riscaldato_divieto_di_pubblicita_e_di_fumo_al_chiuso-425717603/?rss",
+     "title": "Sigarette elettroniche e tabacco riscaldato: divieto di pubblicità e di fumo al chiuso"
     }
    ],
    "subtype": "scienza"
@@ -508,54 +598,69 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "L'agenda rossa di Borsellino, perquisizioni all'ex capo della Polizia De Gennaro",
-   "summary": "Disposte dalla Procura di Caltanissetta. Il Pm: \"Preoccupato dalle indagini, ha fatto sparire documenti\"",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/lagenda-rossa-di-borsellino-perquisizioni-allex-capo-della-polizia-de-gennaro_4f725d2f-4016-4316-9cbb-d99677d42f7c.html",
-   "pub_ts": 1794511740,
-   "n_sources": 4,
+   "title": "Trump rimette in riga Vance: “Non serve un accordo con l’Iran”",
+   "summary": "Il presidente ordina al suo vice di occuparsi dei “crimini dei democratici” e smettere di negoziare con Teheran. In Israele tensione tra Eisenkot e Netanyahu",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/trump_rimette_in_riga_vance_non_serve_accordo_con_iran-425719758/?rss",
+   "pub_ts": 1794553980,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/lagenda-rossa-di-borsellino-perquisizioni-allex-capo-della-polizia-de-gennaro_4f725d2f-4016-4316-9cbb-d99677d42f7c.html",
-     "title": "L'agenda rossa di Borsellino, perquisizioni all'ex capo della Polizia De Gennaro"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/trump_rimette_in_riga_vance_non_serve_accordo_con_iran-425719758/?rss",
+     "title": "Trump rimette in riga Vance: “Non serve un accordo con l’Iran”"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/borsellino-perquisizioni-allex-capo-della-polizia-de-gennaro_a4de32d3-9216-4470-bc70-9f7aba8cfd4f.html",
-     "title": "Borsellino: perquisizioni all'ex capo della Polizia De Gennaro"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/trump-vance-non-si-occupera-piu-delliran-non-abbiamo-bisogno-di-un-accordo_be8a02c8-8a32-4614-881b-5930a618a384.html",
+     "title": "Trump, 'Vance non si occuperà più dell'Iran, non abbiamo bisogno di un accordo'"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/caccia-alle-carte-nascoste-sulla-strage-borsellino-perquisizioni-per-de-gennaro-e-contorno-a3eef5a0-7ec7-4282-865c-cb7edce25a6c.html",
-     "title": "Caccia alle carte nascoste sulla strage Borsellino, perquisizioni per De Gennaro e Contorno"
+     "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-bombarda-ospedale-nasser-a-gaza-6-morti-e-20-feriti-ab1dcae8-7cc2-40f2-95d4-991df36d0e32.html",
+     "title": "Trump: \"Vance non si occuperà più dell'Iran, non abbiamo bisogno di un accordo\""
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/12/depistaggio-borsellino-de-gennaro-perquisizioni-notizie/8569902/",
-     "title": "Inchiesta Borsellino, perquisizioni per l’ex capo della Polizia De Gennaro: “Pressioni sul pentito Contorno”. Per i pm i depistaggi servivano “per agevolare interessi di potere diversi e più compositi di Cosa Nostra”"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/iran-trump-isola-vance-israele-colpisce-gaza-blitz-finale-ye2chj0p",
+     "title": "Iran, Trump isola Vance, Israele colpisce Gaza e medita il blitz finale"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/israele-colpisce-ospedale-gaza-e-uccide-6-persone-era-centro-operativo-hamas-AJxUqmDC",
+     "title": "Trump: Vance si occupi di corruzione, non ci serve accordo con l’Iran. Raid israeliani su Gaza, 11 morti"
     }
    ]
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "Israele ha bombardato (di nuovo) l’ospedale Nasser a Gaza: almeno 6 morti e 20 feriti",
-   "summary": "L'Idf dice di aver preso di mira un comandante e altri miliziani di Hamas, ma non ha fornito prove pubbliche. Sarebbe il settimo attacco contro la struttura in due anni, secondo Aljazeera . Nell'agosto 2025 un bombardamento a doppio colpo aveva ucciso almeno altre venti persone",
-   "link": "https://www.editorialedomani.it/politica/mondo/israele-ha-bombardato-ancora-ospedale-nasser-a-gaza-onu-allarme-inondazioni-d7tq2orx",
-   "pub_ts": 1794470992,
-   "n_sources": 3,
+   "title": "Attacco israeliano in un ospedale a Gaza: 6 morti e 20 feriti",
+   "summary": "Secondo Al Jazeera è la settima volta in due anni che la stessa struttura viene presa di mira",
+   "link": "https://www.repubblica.it/esteri/2026/11/12/news/attacco_israeliano_in_un_ospedale_a_gaza_6_morti_e_20_feriti-425716894/?rss",
+   "pub_ts": 1794549612,
+   "n_sources": 5,
    "documented": true,
    "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/12/news/attacco_israeliano_in_un_ospedale_a_gaza_6_morti_e_20_feriti-425716894/?rss",
+     "title": "Attacco israeliano in un ospedale a Gaza: 6 morti e 20 feriti"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/episodes/ep-521-lalluvione-a-gaza-e-le-tribu-di-israele/",
+     "title": "Ep. 521 – L’alluvione a Gaza e le tribù di Israele"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/12/guerra-gaza-israele-hamas-onu-board-pace-trump/",
+     "title": "A Gaza è di nuovo guerra: raid sugli ospedali, un bimbo morto di freddo. L’ira dell’Onu e del Board di Trump: «Basta». Israele: «Colpa di Hamas»"
+    },
     {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/israele-ha-bombardato-ancora-ospedale-nasser-a-gaza-onu-allarme-inondazioni-d7tq2orx",
      "title": "Israele ha bombardato (di nuovo) l’ospedale Nasser a Gaza: almeno 6 morti e 20 feriti"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/12/israele-attacco-ospedale-nasser-sei-persone-uccise/",
-     "title": "Israele ha attaccato di nuovo l’ospedale Nasser, nel sud della Striscia di Gaza, uccidendo almeno sei persone"
     },
     {
      "name": "Adnkronos Esteri",
@@ -567,20 +672,29 @@
  ],
  "articles": [
   {
-   "title": "Media, Jensen Huang si è dimesso con effetto immediato da ceo Nvidia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/media-jensen-huang-si-e-dimesso-con-effetto-immediato-da-ceo-nvidia_f12acd81-1e67-4c3e-a486-0b6a529abcf2.html",
-   "description": "Lo riferisce la Cnbc",
-   "pub_ts": 1794524963,
-   "source": "ANSA Mondo",
+   "title": "Nuovi allarmi bomba in 3.800 scuole, ma si resta in classe",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
+   "description": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
+   "pub_ts": 1794553024,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Nuovi allarmi bomba in 3.800 scuole, ma si resta in classe",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
-   "description": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
-   "pub_ts": 1794520434,
+   "title": "L'inviato speciale americano Kushner: 'Progressi significativi nei negoziati Ucraina-Russia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/linviato-speciale-americano-kushner-progressi-significativi-nei-negoziati-ucraina-russia_44817c41-c94b-49c5-82d4-c2480ddd3563.html",
+   "description": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
+   "pub_ts": 1794554624,
    "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Ucraina, nuovi colloqui e Witkoff annuncia: “Ci saranno gli europei”",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/ucraina_svolta_a_mosca_anche_europa_prossimi_colloqui-425719794/?rss",
+   "description": "Dopo l’incontro con Putin a Mosca, la delegazione americana è volata a riferire al vertice di Dublino",
+   "pub_ts": 1794528000,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -594,20 +708,47 @@
    "section": "politica"
   },
   {
-   "title": "Zelensky, 'gli europei saranno al prossimo round negoziale'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/zelensky-gli-europei-saranno-al-prossimo-round-negoziale_f40316f2-63ce-455a-b562-5da5a5c02929.html",
-   "description": "Terminato l'incontro con Witkoff e Kushner, 'fatti passi avanti'",
-   "pub_ts": 1794523610,
+   "title": "Media, Lutnick testimonierà sul caso Nvidia prima del Congresso",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/media-lutnick-testimoniera-sul-caso-nvidia-prima-del-congresso_b4a14775-1253-440a-a12b-ed1c36dd7b19.html",
+   "description": "Ncb, 'sarà al Banking Commitee per rispondere alle loro domande'",
+   "pub_ts": 1794551520,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Allarme bomba: 'Vi annienteremo', la mail inviata alle scuole",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-vi-annienteremo-la-mail-inviata-alle-scuole_f222b6df-f984-46ac-9192-6746f70c4074.html",
-   "description": "Il messaggio firmato Mikhail Andropov, 'potente ordigno in un sacchetto di plastica'",
-   "pub_ts": 1794503610,
-   "source": "ANSA Cronaca",
+   "title": "Huang lascia Nvidia. L’ex ceo chiamato a testimoniare insieme al segretario del commercio Lutnik",
+   "link": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/?rss",
+   "description": "Dopo l’annuncio delle dimissioni da Ceo, le azioni in Borsa sono crollate",
+   "pub_ts": 1794547615,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "È morto il giornalista Toni Capuozzo",
+   "link": "https://www.ilpost.it/2026/11/12/e-morto-il-giornalista-toni-capuozzo/",
+   "description": "È stato uno dei più noti inviati di guerra italiani, aveva 77 anni",
+   "pub_ts": 1794549764,
+   "source": "Il Post",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Gli 007 americani non sono sicuri che Alice Huang sia una spia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/gli-007-americani-non-sono-sicuri-che-alice-huang-sia_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html",
+   "description": "Il segretario Usa al Commercio testimonierà sul caso Nvidia prima del Congresso",
+   "pub_ts": 1794551512,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La missione di Colette, dalla gavetta al vertice: “È un momento difficile”",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/colette_kress_donna_dei_conti_gavetta_nvidia-425719443/?rss",
+   "description": "I figli la spinsero ad andare nella società perché progettava le schede dei videogiochi. Ora cerca di rassicurare i dipendenti e il mercato",
+   "pub_ts": 1794528000,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -621,47 +762,29 @@
    "section": "politica"
   },
   {
-   "title": "Meloni chiama all'unità, le opposizioni aprono ma 'niente cambiali in bianco'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
-   "description": "Due ore a Palazzo Chigi. La premier chiede toni adeguati. Il governo pronto a riferire in Parlamento",
-   "pub_ts": 1794512920,
-   "source": "ANSA",
+   "title": "Ascesa e caduta di Jensen Huang, l’ex CEO di Nvidia che ha creato un impero dell’IA",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/12/news/chi-e-jensen-huang-nvidia-tradimento-425718607/?rss",
+   "description": "Jensen Huang si è dimesso da amministratore delegato di Nvidia. Il manager ha trasformato una piccola società di chip per videogiochi nell’azienda che alimenta gran parte della rivoluzione dell’intelligenza artificiale. Le rivelazioni su due relazioni extraconiugali hanno messo...",
+   "pub_ts": 1794555692,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
-   "section": "politica"
+   "section": "tech"
   },
   {
-   "title": "I rilievi del Colle su legge protezione civile, 'troppe deroghe sulla impunibilità'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/mattarella-firma-la-legge-sulla-protezione-civile-ma-con-una-lettera-ai-presidenti_bb66bb20-5294-4f3b-adcb-861abf32d9bc.html",
-   "description": "Lettera ai presidenti delle Camere e a Chigi, serve un quadro normativo coerente",
-   "pub_ts": 1794511441,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Stato-Regioni, i governatori del centrosinistra votano contro il decreto sulla Corte dei Conti",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/stato-regioni-i-governatori-del-centrosinistra-votano-contro-il-decreto-sulla-corte_83cc1627-fc76-4322-b29f-340db84251fa.html",
-   "description": "Il governo per procedere dovrà prima superare la mancata intesa con un atto del Cdm",
-   "pub_ts": 1794508130,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump, 'Vance non si occuperà più dell'Iran, non abbiamo bisogno di un accordo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/trump-vance-non-si-occupera-piu-delliran-non-abbiamo-bisogno-di-un-accordo_be8a02c8-8a32-4614-881b-5930a618a384.html",
-   "description": "'Quei tempi sono lontani'",
-   "pub_ts": 1794507077,
+   "title": "Microsoft, le misure per risolvere falle Outlook non funzionano 'come previsto'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto_65643d65-3d6c-4795-a1ce-8e77c0aca432.html",
+   "description": "Il colosso americano, 'stiamo individuando soluzioni alternative'",
+   "pub_ts": 1794555692,
    "source": "ANSA Mondo",
    "source_priority": 1,
-   "section": "politica"
+   "section": "tech"
   },
   {
    "title": "Persistono i disservizi Microsoft, ma in via di risoluzione",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/persistono-i-disservizi-microsoft-ma-in-via-di-risoluzione_5a79e3ac-8079-48c2-9000-3be74c314bb0.html",
    "description": "L'azienda segnala un \"carico elevato\" in più regioni, qualche ora prima giunta un0'allerta Usa su una falla",
-   "pub_ts": 1794513632,
-   "source": "ANSA",
+   "pub_ts": 1794550872,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "tech"
   },
@@ -670,24 +793,6 @@
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/12/meta-chiude-i-profili-social-di-russell-brand-dopo-la-condanna-per-stupro_b9dcd698-4170-4802-bfbe-08f1fa5d943b.html",
    "description": "Il suo team grida alla censura su X, 'grazie a Dio c'è Elon Musk'",
    "pub_ts": 1794505123,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Intelligenza artificiale nelle scuole, ok del Garante privacy",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/12/intelligenza-artificiale-nelle-scuole-ok-del-garante-privacy_1c6e5450-f6d4-4aa6-82d7-de23f9ea3819.html",
-   "description": "",
-   "pub_ts": 1794504678,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Il 30% dei genitori italiani teme di essere sostituito dall'IA nel supporto ai giovani",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/12/il-30-dei-genitori-italiani-teme-di-essere-sostituito-dallia-nel-supporto-ai-giovani_b1030b84-24ad-465b-bd02-760cb9e8877e.html",
-   "description": "Ricerca Samsung-Jonas Ets, un adolescente su cinque usa i chatbot per domande complesse",
-   "pub_ts": 1794504527,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
@@ -702,19 +807,19 @@
    "section": "varia"
   },
   {
-   "title": "È morto Toni Capuozzo, poco tempo fa aveva annunciato di avere un tumore",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/12/e-morto-toni-capuozzo-pochi-giorni-fa-lannuncio-del-tumore_d91e7c63-c965-4b50-b4d9-931c2a6fd56f.html",
-   "description": "Il giornalista e storico inviato ha lavorato a lungo per Mediaset",
-   "pub_ts": 1794506149,
+   "title": "Re Carlo ospite del programma di Elton John, 'sei un tesoro nazionale'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/12/re-carlo-ospite-del-programma-di-elton-john-sei-un-tesoro-nazionale_715feda7-17da-456a-b8f7-0f65db15bfec.html",
+   "description": "Puntata per i 78 anni del sovrano. Il cantante scherza, 'finirò in show di antiquariato'",
+   "pub_ts": 1794505649,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Re Carlo ospite del programma di Elton John, 'sei un tesoro nazionale'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/12/re-carlo-ospite-del-programma-di-elton-john-sei-un-tesoro-nazionale_715feda7-17da-456a-b8f7-0f65db15bfec.html",
-   "description": "Puntata per i 78 anni del sovrano. Il cantante scherza, 'finirò in show di antiquariato'",
-   "pub_ts": 1794505649,
+   "title": "Cristiano Godano, \"Non faccio musica che conviene agli algoritmi\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/12/cristiano-godano-non-faccio-musica-che-conviene-agli-algoritmi_5d0f5d3f-ab65-40a6-9f14-347cf650be7a.html",
+   "description": "Esce terzo album solista, \"ma mio percorso sempre subordinato all'attività dei Marlene\"",
+   "pub_ts": 1794546000,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -729,29 +834,29 @@
    "section": "varia"
   },
   {
-   "title": "Allarme bomba, studenti disconnessi a forza da social e whatspp, 'ansia e nervosismo'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/11/11/allarme-bomba-molti-studenti-disconnessi-a-forza-da-social-e-whatspp_00ec4cd8-c845-4d23-a63c-c402e4b7e4f5.html",
-   "description": "Cellulari lasciati in classe, in molti casi nervosismo e ansia fino al senso di colpa",
-   "pub_ts": 1794429387,
+   "title": "'Divieto di fumo assoluto al chiuso e niente pubblicità', al via Manifesto per tutela diritti dei non fumatori",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/12/divieto-di-fumo-assoluto-al-chiuso-e-niente-pubblicita-al-via-manifesto_9ead1a5c-8092-4b45-82f4-7049d2528ab5.html",
+   "description": "Appello di Aiom, Fondazione Veronesi e Airc. 'Parlamento discuta proposta di legge per aumentare di 5 euro il costo di tutti i prodotti da fumo'",
+   "pub_ts": 1794500483,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "L'agenda rossa di Borsellino, perquisizioni all'ex capo della Polizia De Gennaro",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/lagenda-rossa-di-borsellino-perquisizioni-allex-capo-della-polizia-de-gennaro_4f725d2f-4016-4316-9cbb-d99677d42f7c.html",
-   "description": "Disposte dalla Procura di Caltanissetta. Il Pm: \"Preoccupato dalle indagini, ha fatto sparire documenti\"",
-   "pub_ts": 1794511740,
-   "source": "ANSA",
+   "title": "Trump rimette in riga Vance: “Non serve un accordo con l’Iran”",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/trump_rimette_in_riga_vance_non_serve_accordo_con_iran-425719758/?rss",
+   "description": "Il presidente ordina al suo vice di occuparsi dei “crimini dei democratici” e smettere di negoziare con Teheran. In Israele tensione tra Eisenkot e Netanyahu",
+   "pub_ts": 1794553980,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "Israele ha bombardato (di nuovo) l’ospedale Nasser a Gaza: almeno 6 morti e 20 feriti",
-   "link": "https://www.editorialedomani.it/politica/mondo/israele-ha-bombardato-ancora-ospedale-nasser-a-gaza-onu-allarme-inondazioni-d7tq2orx",
-   "description": "L'Idf dice di aver preso di mira un comandante e altri miliziani di Hamas, ma non ha fornito prove pubbliche. Sarebbe il settimo attacco contro la struttura in due anni, secondo Aljazeera . Nell'agosto 2025 un bombardamento a doppio colpo aveva ucciso almeno altre venti persone",
-   "pub_ts": 1794470992,
-   "source": "Domani",
+   "title": "Attacco israeliano in un ospedale a Gaza: 6 morti e 20 feriti",
+   "link": "https://www.repubblica.it/esteri/2026/11/12/news/attacco_israeliano_in_un_ospedale_a_gaza_6_morti_e_20_feriti-425716894/?rss",
+   "description": "Secondo Al Jazeera è la settima volta in due anni che la stessa struttura viene presa di mira",
+   "pub_ts": 1794549612,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   }
