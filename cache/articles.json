@@ -1,6 +1,6 @@
 {
- "generated_at": 1794585714,
- "updated_at": 1794585714,
+ "generated_at": 1794608806,
+ "updated_at": 1794608806,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,23 +9,122 @@
  "items": [
   {
    "category": "politica",
+   "area": "mondo",
+   "title": "Usa, traffico aereo bloccato: “Non è cyber-attacco”.Si indaga su blackout per aggiornamento software",
+   "summary": "Il provvedimento arriva dopo che in alcune zone del Paese erano state segnalate interruzioni delle frequenze radio utilizzate per le comunicazioni aeronautiche",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
+   "pub_ts": 1794608556,
+   "n_sources": 9,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
+     "title": "Usa, traffico aereo bloccato: “Non è cyber-attacco”.Si indaga su blackout per aggiornamento software"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/traffico-aereo-bloccato-in-tutti-gli-stati-uniti.-escluso-per-ora_b5ee5d87-e55e-4312-9c02-6297ce3e99d9.html",
+     "title": "Traffico aereo bloccato in tutti gli Stati Uniti. Escluso per ora un attacco cyber"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/stop-voli-usa-oggi-sicurezza_10e7RF5gereJoJkK2RVyIm",
+     "title": "Stop a tutti gli aerei negli Usa, voli bloccati per motivi di sicurezza"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/13/faa-ordine-blocco-voli/",
+     "title": "Gli Stati Uniti hanno bloccato tutti i voli in partenza"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/",
+     "title": "Stati Uniti, traffico aereo bloccato: “Nessun attacco cyber”. Comunicazioni in tilt"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/13/usa-faa-ground-stop-blocco-voli-cosa-succede/",
+     "title": "Blocco a tutti i voli negli Usa, caos negli aeroporti. Allarme sicurezza, in tilt i sistemi Tlc. L’ipotesi sull’aggiornamento con l’AI"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/tutti-gli-aerei-a-terra-voli-fermi-negli-stati-uniti-faa-ground-stop-fbe5f54d-622d-4470-aed5-407ef77f076b.html",
+     "title": "\"Tutti gli aerei a terra\", 7000 voli fermi negli Stati Uniti. La FAA: \"Guasto tecnico\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/13/sospensione-voli-usa-perche-motivo-cosa-e-successo/8571638/",
+     "title": "Traffico aereo bloccato in tutti gli Stati Uniti: “Motivi di sicurezza. Non ci sono indicazioni di un attacco cyber”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/divieto-di-decollo-negli-usa-bloccati-tutti-i-voli/",
+     "title": "Divieto di decollo negli Usa: bloccati tutti i voli"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
+   "summary": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+   "pub_ts": 1794601264,
+   "n_sources": 7,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+     "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/meloni-segnale-di-attenzione-alla-scuola-ma-non-erano-tagli_81008142-0f7b-4f04-aca7-43de6211d8b6.html",
+     "title": "Meloni, segnale di attenzione alla scuola ma non erano tagli"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/manovra-governo-retromarcia-tagli-scuola-sindacati-wkgnba0d",
+     "title": "Un governo in retromarcia, saltano i tagli alla scuola"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/13/manovra-meloni-vs-sindacati-tagli-scuola-risposta-video/",
+     "title": "Meloni ai sindacati sulla scuola e il dietrofront: «Perché non erano tagli: nessuno avrebbe perso il posto» – Il video"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/manovra-incontro-governo-sindacati-retromarcia-sui-tagli-alla-scuola-tg3-di-liegro-0ae96e08-0511-4006-83e5-537563a53ee1.html",
+     "title": "Incontro governo-sindacati, retromarcia sui tagli alla scuola"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/13/news/manovra_governo_incontro_sindacati_dietrofront_su_scuola_no_tagli-425721691/",
+     "title": "Manovra, via i tagli alla scuola. Il governo cerca altri fondi per la sanità"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/13/tagli-scuola-meloni-dietrofront-notizie/8571430/",
+     "title": "Meloni conferma il dietrofront sulla scuola: “Ma non erano tagli, solo adeguamento agli studenti effettivi”. Conte: “Ora avanti sulla sanità”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "italia",
    "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe",
    "summary": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
    "pub_ts": 1794568692,
-   "n_sources": 6,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cronaca",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
      "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/12/palazzo-chigi-allarmi-bomba-in-3.788-scuole-solo-77-evacuate_729bfd9b-5d6f-40b5-bde5-f3fe26c6e741.html",
-     "title": "Palazzo Chigi, allarmi bomba in 3.788 scuole, solo 77 evacuate"
     },
     {
      "name": "Il Post",
@@ -52,22 +151,108 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "'E' tanto che non ci vediamo'. 'Tu non volevi...'. La battuta di Zelensky con Meloni",
-   "summary": "Il siparietto pubblicato su X dal leader ucraino, che ringrazia l'Italia",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
-   "pub_ts": 1794581512,
-   "n_sources": 5,
+   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'e",
+   "summary": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giustae_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+   "pub_ts": 1794607955,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
-     "title": "'E' tanto che non ci vediamo'. 'Tu non volevi...'. La battuta di Zelensky con Meloni"
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giustae_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+     "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'e"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/13/sp-rating-italia-13-nov-giorgetti/",
+     "title": "Standard & Poor’s conferma il rating BBB+/A-2 dell’Italia, outlook positivo: «La crescita supererà le stime precedenti»"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/meloni-incontra-zelensky-a-dublino-da-quanto-tempo-non-ci-vediamo-tu-non-volevi-a5e9e9d4-ddae-4c54-bfc9-f77e2d2ee76a.html",
-     "title": "Meloni incontra Zelensky a Dublino: “Da quanto tempo non ci vediamo”. Lui: “Tu non volevi”"
+     "link": "https://www.rainews.it/articoli/2026/11/economia-finanza-rating-italia-standard-poor-s-conferma-bbb-a-2-export-compensa-dazi-6aa2ae78-b7c6-4e25-9bdd-8a587bfa79fd.html",
+     "title": "S&P conferma il rating dell’Italia a BBB+/A-2: “L’export compensa i dazi Usa”"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/13/news/standard_sp_rating_italia_confermato-425722400/",
+     "title": "S&p conferma il rating dell’Italia. Outlook positivo"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Calenda scarica D'Amato ma non rompe con Gualtieri",
+   "summary": "L'ex segretario romano di Azione torna nel Pd e lui gli augura 'successo nel campo largo'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/calenda-no-a-ultimatum-auguro-a-damato-successo-nel-campo-largo_2c959900-15cf-4c6d-9ec5-f09fbde97552.html",
+   "pub_ts": 1794592831,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/calenda-no-a-ultimatum-auguro-a-damato-successo-nel-campo-largo_2c959900-15cf-4c6d-9ec5-f09fbde97552.html",
+     "title": "Calenda scarica D'Amato ma non rompe con Gualtieri"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/calenda-no-a-ultimatum-auguro-a-damato-successo-nel-campo-largo_760a2127-645d-40fa-b0c1-a23bb3eafb69.html",
+     "title": "Calenda, 'no a ultimatum, auguro a D'Amato successo nel campo largo'"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/13/news/damato_fuori_azione_calenda_intervista-425721378/",
+     "title": "D’Amato rompe con Calenda: “Vuole diventare la ruota di scorta di Meloni, tornerò nel Pd”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/il-campo-largo-ha-un-guastafeste/",
+     "title": "Il Campo Largo ha un guastafeste"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia",
+   "summary": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/kushner-progressi-significativi-nei-negoziati-ucraina-russia_eb0bf24d-6068-4664-a627-2a8d50fdc5bf.html",
+   "pub_ts": 1794599370,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/kushner-progressi-significativi-nei-negoziati-ucraina-russia_eb0bf24d-6068-4664-a627-2a8d50fdc5bf.html",
+     "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/europa/europa-sette-negoziatori-consiglio-dublino-ucraina-ue-yupw4v59",
+     "title": "Ucraina e negoziati. Per l’Europa non una voce, ma sette: il pasticciaccio di Dublino"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/kallas-lue-e-i-negoziati-ucraina-non-siamo-gli-usa_4Tkne2FrlSymK3MwLXxWXk",
+     "title": "Kallas: l'Ue e i negoziati Ucraina, \"non siamo gli Usa\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "'E' tanto che non ci vediamo'. 'Tu non volevi...'. La battuta di Zelensky con Meloni",
+   "summary": "Il siparietto pubblicato su X dal leader ucraino, che ringrazia l'Italia",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
+   "pub_ts": 1794581512,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
+     "title": "'E' tanto che non ci vediamo'. 'Tu non volevi...'. La battuta di Zelensky con Meloni"
     },
     {
      "name": "Il Post",
@@ -78,60 +263,94 @@
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/politica/2026/11/13/news/dublino_incontro_zelensky_meloni_battuta-425720482/",
      "title": "Zelensky e la frecciata a Meloni: “Da quanto tempo…? Sei tu che non volevi vedermi”"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/da-quanto-tempo-ma-sei-tu-che-il-fuorionda-di-zelensky-su-meloni-scherza-o-fa-lingrato/",
-     "title": "“Da quanto tempo? Ma sei tu che…”. Il fuorionda di Zelensky su Meloni: scherza o fa l’ingrato?"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Ucraina, Bild: 'Mosca chiede la Finlandia fuori dalla Nato e la Moldavia divisa'",
-   "summary": "Merz: 'Berlino sarà ai negoziati'. Kallas contro il modello Kushner-Witkoff",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/ucraina-bild-mosca-chiede-la-finlandia-fuori-dalla-nato-e-la-moldavia-divisa_44817c41-c94b-49c5-82d4-c2480ddd3563.html",
-   "pub_ts": 1794584127,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/ucraina-bild-mosca-chiede-la-finlandia-fuori-dalla-nato-e-la-moldavia-divisa_44817c41-c94b-49c5-82d4-c2480ddd3563.html",
-     "title": "Ucraina, Bild: 'Mosca chiede la Finlandia fuori dalla Nato e la Moldavia divisa'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/bild-mosca-chiede-finlandia-fuori-dalla-nato-e-moldavia-divisa_6d1611ba-1bac-4834-9920-5aae0817625e.html",
-     "title": "Bild, 'Mosca chiede Finlandia fuori dalla Nato e Moldavia divisa'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/guerra-ucraina-abu-dhabi-negoziati-senza-svolte-accordo-prigionieri-giorgetti-firma-decreto-armi-a-kiev-e9354c7a-6760-4df6-bc3d-4386d75fe9f0.html",
-     "title": "Scambio tra Zelensky a Meloni a Dublino. Bild: 'Mosca chiede Finlandia fuori dalla Nato\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/13/diretta/guerra_ucraina_russia_news_oggi-425719891/",
-     "title": "Guerra Ucraina - Russia. Bild: “Mosca chiede Finlandia fuori dalla Nato”. Cremlino nega"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Il Nyt: 'Trump ha chiamato Huang martedì per incoraggiarlo a non cedere'",
-   "summary": "Il segretario Usa al Commercio testimonierà sul caso Nvidia prima del Congresso. Gli 007 americani non sono sicuri che Alice Huang sia una spia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/il-nyt-trump-ha-chiamato-huang-martedi-per-incoraggiarlo-a-non-cedere_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html",
-   "pub_ts": 1794584731,
-   "n_sources": 3,
+   "title": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie",
+   "summary": "Media, misura adotta una sola volta dopo l'11 Settembre. 'Problemi alle comunicazioni'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_0687956c-c205-47cc-ae5e-26338a22eb3c.html",
+   "pub_ts": 1794606719,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/il-nyt-trump-ha-chiamato-huang-martedi-per-incoraggiarlo-a-non-cedere_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html",
-     "title": "Il Nyt: 'Trump ha chiamato Huang martedì per incoraggiarlo a non cedere'"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_0687956c-c205-47cc-ae5e-26338a22eb3c.html",
+     "title": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/usa-faa-dispone-blocco-nazionale-voli-partenza-AJkGYJGC",
+     "title": "Usa, Faa dispone blocco nazionale dei voli in partenza"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Fonti, 'per ora ai negoziati su Kiev con i rappresentanti Ue e degli E5'",
+   "summary": "E quanto hanno concordato i leader al summit di Dublino",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-per-ora-ai-negoziati-su-kiev-con-i-rappresentanti-ue-e-degli-e5_ee9227d0-9a26-4151-8f8a-87e358edcac4.html",
+   "pub_ts": 1794596997,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-per-ora-ai-negoziati-su-kiev-con-i-rappresentanti-ue-e-degli-e5_ee9227d0-9a26-4151-8f8a-87e358edcac4.html",
+     "title": "Fonti, 'per ora ai negoziati su Kiev con i rappresentanti Ue e degli E5'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-guerra-provocazioni-russe-paralizzano-negoziati-finlandia-fuori-dalla-nato-xl94pcic",
+     "title": "Kiev, le provocazioni russe paralizzano i negoziati: «Finlandia fuori dalla Nato»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "“Mélenchon persona non grata”: Israele vieta l’ingresso al candidato all’Eliseo",
+   "summary": "Il ministero degli Esteri israeliano accusa il candidato all’Eliseo e un altro esponente della France Insoumise Mathilde Panot di aver diffuso “calunnie antisemite”. La reazione: “Mi viene vietato l'ingresso in un territorio nel quale non avevo chiesto di entrare”",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/israele_vieta_ingresso_melenchon_leader_france_insoumise-425721651/?rss",
+   "pub_ts": 1794588776,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/israele_vieta_ingresso_melenchon_leader_france_insoumise-425721651/?rss",
+     "title": "“Mélenchon persona non grata”: Israele vieta l’ingresso al candidato all’Eliseo"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/12/israele-ha-vietato-ingresso-jean-luc-melenchon/",
+     "title": "Israele ha vietato l’ingresso a Jean-Luc Mélenchon, candidato di estrema sinistra alle presidenziali francesi"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
+   "summary": "Mandati in fumo oltre 500 miliardi di capitalizzazione di Borsa",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
+   "pub_ts": 1794605372,
+   "n_sources": 7,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
+     "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang"
+    },
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/12/news/chi-e-jensen-huang-nvidia-tradimento-425718607/?rss",
+     "title": "Ascesa e caduta di Jensen Huang, l’ex CEO di Nvidia che ha creato un impero dell’IA"
     },
     {
      "name": "Adnkronos Esteri",
@@ -142,210 +361,63 @@
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/jensen-huang-nvidia-dimissioni-trump-hdlpq0ke",
      "title": "Scandalo Nvidia: la caduta di Huang inguaia anche Trump"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "'Capo Mossad a Washington mentre Netanyahu preme per riprendere guerra Iran'",
-   "summary": "Axios, 'incontri con il capo della Cia e Witkoff'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/capo-mossad-a-washington-mentre-netanyahu-preme-per-riprendere-guerra-iran_fd0c71d7-c824-4c19-9790-2826173612ec.html",
-   "pub_ts": 1794581795,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/capo-mossad-a-washington-mentre-netanyahu-preme-per-riprendere-guerra-iran_fd0c71d7-c824-4c19-9790-2826173612ec.html",
-     "title": "'Capo Mossad a Washington mentre Netanyahu preme per riprendere guerra Iran'"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/iran-usa-ultime-news-oggi-13-novembre_6pKQ42AsbHtdMy4fYlNjvU",
-     "title": "Iran-Usa, Axios: capo Mossad a Washington mentre Netanyahu fa pressione su Trump per riprendere la guerra"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/13/mossad-washington-netanyahu-iran-notizie/8570873/",
-     "title": "“Il capo del Mossad è a Washington mentre Netanyahu preme per riprendere la guerra all’Iran”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Presidenza Ue, decidere entro due settimane chi rappresenta l'Europa su Ucraina",
-   "summary": "'Mi auguro che il vertice di oggi faccia chiarezza'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/presidenza-ue-decidere-entro-due-settimane-chi-rappresenta-leuropa-su-ucraina_e7a86d80-23b7-4d0d-96d4-e118e2affc4e.html",
-   "pub_ts": 1794575144,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/presidenza-ue-decidere-entro-due-settimane-chi-rappresenta-leuropa-su-ucraina_e7a86d80-23b7-4d0d-96d4-e118e2affc4e.html",
-     "title": "Presidenza Ue, decidere entro due settimane chi rappresenta l'Europa su Ucraina"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/portavo-ue-premier-irlanda-negoziati-ucraina_5O1keKLTllm2p2wZUb9Prg",
-     "title": "Ucraina, premier Irlanda: \"Ue scelga il suo portavoce entro due settimane\""
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/negoziati-ucraina-russia-usa-trump-kushner-witkoff-europa-dublino-zelensky-prigionieri-sh2y51mf",
-     "title": "Ucraina, Presidenza Ue: «Decidiamo chi rappresenta l’Europa». Kallas: «Per la politica estera ci sono io»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Witkoff, gli europei parteciperanno al prossimo round di colloqui sull'Ucraina",
-   "summary": "'Sono nostri partner ed è importante per noi che ne prendano parte'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/witkoff-gli-europei-parteciperanno-al-prossimo-round-di-colloqui-sullucraina_65d7bcd4-2d20-47f0-b695-91e1adb4f015.html",
-   "pub_ts": 1794563928,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/witkoff-gli-europei-parteciperanno-al-prossimo-round-di-colloqui-sullucraina_65d7bcd4-2d20-47f0-b695-91e1adb4f015.html",
-     "title": "Witkoff, gli europei parteciperanno al prossimo round di colloqui sull'Ucraina"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/alice-huang-finanza-shanghai-cuore-nvidia-chi-e-spia-scandalo-jensen-huang-AJB7zOEC",
+     "title": "Alice Huang, dalla finanza di Shanghai al cuore di Nvidia: chi è la spia dello scandalo Jensen Huang"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino/",
-     "title": "Chi rappresenta l’Unione Europea nei colloqui sull’Ucraina?"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-incontro-putin-witkoff-kushner-ultime-notizie_rNyWqG1cfl333XtjocwCv",
-     "title": "Ucraina-Russia, Witkoff: \"Ue parteciperà ai colloqui\". Putin: \"Europei decidano se vogliono pace o guerra\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump rimette in riga Vance: “Non serve un accordo con l’Iran”",
-   "summary": "Il presidente ordina al suo vice di occuparsi dei “crimini dei democratici” e smettere di negoziare con Teheran. In Israele tensione tra Eisenkot e Netanyahu",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/trump_rimette_in_riga_vance_non_serve_accordo_con_iran-425719758/?rss",
-   "pub_ts": 1794562008,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/13/news/trump_rimette_in_riga_vance_non_serve_accordo_con_iran-425719758/?rss",
-     "title": "Trump rimette in riga Vance: “Non serve un accordo con l’Iran”"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/trump-vance-non-si-occupera-piu-delliran-non-abbiamo-bisogno-di-un-accordo_be8a02c8-8a32-4614-881b-5930a618a384.html",
-     "title": "Trump, 'Vance non si occuperà più dell'Iran, non abbiamo bisogno di un accordo'"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/13/trump-non-vuole-che-jd-vance-continui-a-occuparsi-di-iran/",
-     "title": "Trump non vuole che JD Vance continui a occuparsi dell’Iran"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Manovra: Meloni, 'La sinistra pensa alle patrimoniali, noi ad abbassare le tasse'",
-   "summary": "'Difesa del ceto medio e premio al merito, ad altri la retorica dell'uno vale uno. Il reddito di 55mila euro è quello di un giovane medico. E' un ricco da spennare?'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-meloni-difesa-del-ceto-medio-e-premio-al-merito-ad-altri-la-retorica_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-   "pub_ts": 1794582631,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-meloni-difesa-del-ceto-medio-e-premio-al-merito-ad-altri-la-retorica_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-     "title": "Manovra: Meloni, 'La sinistra pensa alle patrimoniali, noi ad abbassare le tasse'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/manovra-meloni-tagliamo-tasse-ai-ricchi-lo-dice-chi-vuole-mettere-patrimoniale-22accb76-e9c4-4077-a1fd-0a058f14dc2b.html",
-     "title": "Manovra, Meloni: \"Tagliamo tasse ai ricchi? Lo dice chi vuole mettere patrimoniale\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Patuanelli: 'Il reddito di cittadinanza sarà nel programma del campo largo, accordo trovato'",
-   "summary": "Il vicepresidente del M5s: 'Se sei in grado di lavorare e hai perso il lavoro, noi per un periodo della tua vita ti sosteniamo economicamente e ti diamo gli strumenti per riqualificarti'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/patuanelli-il-reddito-di-cittadinanza-sara-nel-programma-del-campo-largo-accordo_9a4159c6-1d46-4b45-b73e-9dc2b9240ac4.html",
-   "pub_ts": 1794580655,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/patuanelli-il-reddito-di-cittadinanza-sara-nel-programma-del-campo-largo-accordo_9a4159c6-1d46-4b45-b73e-9dc2b9240ac4.html",
-     "title": "Patuanelli: 'Il reddito di cittadinanza sarà nel programma del campo largo, accordo trovato'"
+     "link": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/",
+     "title": "Jensen Huang si è dimesso da amministratore delegato di Nvidia"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/il-campo-largo-ha-un-guastafeste/",
-     "title": "Il Campo Largo ha un guastafeste"
+     "link": "https://www.nicolaporro.it/huang-si-e-dimesso-da-nvidia/",
+     "title": "Huang si è dimesso da Nvidia"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Huang lascia Nvidia. L’ex ceo chiamato a testimoniare insieme al segretario del commercio Lutnik",
-   "summary": "Dopo l’annuncio delle dimissioni da Ceo, le azioni in Borsa sono crollate",
-   "link": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/?rss",
-   "pub_ts": 1794585530,
-   "n_sources": 9,
+   "title": "Caccia al successore in Nvidia, contattato il ceo della rivale Arm, Rene Haas",
+   "summary": "Nel toto-nomi del dopo Huang anche i figli. Tra le opzioni interne Kress, Buck e Teter",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/caccia-al-successore-in-nvidia-contattato-il-ceo-della-rivale-arm-rene-haas_687fc1cb-f5ec-40c5-b754-207e9c93270f.html",
+   "pub_ts": 1794602152,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/caccia-al-successore-in-nvidia-contattato-il-ceo-della-rivale-arm-rene-haas_687fc1cb-f5ec-40c5-b754-207e9c93270f.html",
+     "title": "Caccia al successore in Nvidia, contattato il ceo della rivale Arm, Rene Haas"
+    },
+    {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/?rss",
-     "title": "Huang lascia Nvidia. L’ex ceo chiamato a testimoniare insieme al segretario del commercio Lutnik"
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
+     "title": "Nvidia, Rene Haas contattato per la successione a Huang"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/13/007-usa-non-sono-sicuri-che-alice-huang-fosse-una_723a1bcc-d62f-4b0f-a209-19c132f70e2e.html",
-     "title": "007 Usa 'non sono sicuri che Alice Huang fosse una spia della Cina'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/ft-nvidia-ha-contattato-il-ceo-di-arm-rene-haas-per-il-dopo-huang_e92c57ea-9662-4094-9ab1-9c7b977625e3.html",
+     "title": "Ft, Nvidia ha contattato il ceo di Arm, Rene Haas, per il dopo Huang"
     },
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/12/news/chi-e-jensen-huang-nvidia-tradimento-425718607/?rss",
-     "title": "Ascesa e caduta di Jensen Huang, l’ex CEO di Nvidia che ha creato un impero dell’IA"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/chi_nvidia_dopo_jensen_huang_candidati-425721020/?rss",
+     "title": "Chi guiderà Nvidia dopo Jensen Huang? I candidati alla successione e le ragioni della scelta"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/",
+     "title": "Nvidia, Rene Haas contattato per la successione a Huang"
     },
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/13/jensen-huang/",
      "title": "Jensen Huang prima di tutto questo"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/jensen-huang-terza-relazione-extraconiugale-indagini/",
-     "title": "Jensen Huang: terza relazione extraconiugale e indagini"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/nvidia-jensen-hueng-dimissioni-scandalo-x0fyq7a7",
-     "title": "Nvidia, si è dimesso il ceo Jensen Huang"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/",
-     "title": "Huang lascia Nvidia. L’ex ceo chiamato a testimoniare insieme al segretario del commercio Lutnik"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/13/scandalo-nvidia-alice-huang-spia-cina-notizie/8570890/",
-     "title": "Nvidia, Cnn: “Non ci sono prove certe che l’amante del Ceo Jensen Huang fosse stata reclutata dalla Cina”"
     },
     {
      "name": "Nicola Porro",
@@ -357,22 +429,27 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Outlook down, Microsoft: 'Miglioramenti in Nord America ed Europa'. Il titolo soffre in Borsa",
-   "summary": "Il colosso aggiorna la situazione: 'Non siamo ancora ai livelli base'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/outlook-down-microsoft-miglioramenti-in-nord-america-ed-europa.-il-titolo-soffre-in-borsa_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
-   "pub_ts": 1794584549,
-   "n_sources": 8,
+   "title": "Microsoft down in tutto il mondo, 'ma non è un cyberattacco'",
+   "summary": "Colpiti governi e aziende, ma anche scuole, trasporti e sanità. L'ironia sui social",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/microsoft-down-in-tutto-il-mondo-ma-non-e-un-cyberattacco_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
+   "pub_ts": 1794595388,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/outlook-down-microsoft-miglioramenti-in-nord-america-ed-europa.-il-titolo-soffre-in-borsa_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
-     "title": "Outlook down, Microsoft: 'Miglioramenti in Nord America ed Europa'. Il titolo soffre in Borsa"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/microsoft-down-in-tutto-il-mondo-ma-non-e-un-cyberattacco_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
+     "title": "Microsoft down in tutto il mondo, 'ma non è un cyberattacco'"
     },
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/microsoft_down_outlook_cosa_successo-425720300/?rss",
-     "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/proseguono-disservizi-di-microsoft-colpiti-governi-e-aziende-in-tutto-il-mondo_49096e90-871f-47d6-91bb-5fd9ad69b8d0.html",
+     "title": "++ Proseguono disservizi di Microsoft, colpiti governi e aziende in tutto il mondo ++"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/proseguono-disservizi-di-microsoft-colpiti-governi-e-aziende-in-tutto-il-mondo_d622ba6e-1cbc-4cd1-9d0e-b71bb48e359d.html",
+     "title": "++ Proseguono disservizi di Microsoft, colpiti governi e aziende in tutto il mondo ++"
     },
     {
      "name": "Punto Informatico",
@@ -385,21 +462,6 @@
      "title": "Microsoft, il ripristino dà i primi risultati positivi dopo il down globale"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/microsoft-down-le-reazioni-degli-utenti-6540bc13-e049-49fd-b8d8-2f379d51649a.html",
-     "title": "Microsoft down: le reazioni degli utenti"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/outlook-problemi-microsoft-down_6DNqu1IZ2nWe4Q5xQeNUDA",
-     "title": "Outlook down, problemi per la posta di Microsoft: mail in tilt"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/12/news/microsoft_down_in_tutto_il_mondo_disservizi_sulla_mail_negli_usa_130mila_segnalazioni-425719351/",
-     "title": "Down mondiale di Microsoft, riprendono i primi servizi. L’azienda assicura: “Nessun attacco hacker”"
-    },
-    {
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/economia-finanza/microsoft-down-outlook-teams-copilot-nessun-hacker/",
      "title": "Microsoft down, niente hacker: Outlook e Teams in tilt da soli"
@@ -409,125 +471,116 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'",
-   "summary": "Il colosso aggiorna la situazione su X, 'non siamo ancora ai livelli base'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_8ad2e148-60aa-4ca8-a98b-4c7753fb069b.html",
-   "pub_ts": 1794567196,
+   "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
+   "summary": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
+   "pub_ts": 1794587335,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_8ad2e148-60aa-4ca8-a98b-4c7753fb069b.html",
-     "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'"
-    },
-    {
      "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_3ce53cd2-06ae-488b-9a9a-c45d1e3d9f3d.html",
-     "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "++ Proseguono disservizi di Microsoft, colpiti governi e aziende in tutto il mondo ++",
-   "summary": "Azienda, 'stabilizzazione e miglioramenti'. Problemi per assistenza delle compagnie aeree",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/proseguono-disservizi-di-microsoft-colpiti-governi-e-aziende-in-tutto-il-mondo_49096e90-871f-47d6-91bb-5fd9ad69b8d0.html",
-   "pub_ts": 1794563914,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
+     "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down"
+    },
     {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/proseguono-disservizi-di-microsoft-colpiti-governi-e-aziende-in-tutto-il-mondo_49096e90-871f-47d6-91bb-5fd9ad69b8d0.html",
-     "title": "++ Proseguono disservizi di Microsoft, colpiti governi e aziende in tutto il mondo ++"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/proseguono-disservizi-di-microsoft-colpiti-governi-e-aziende-in-tutto-il-mondo_d622ba6e-1cbc-4cd1-9d0e-b71bb48e359d.html",
-     "title": "++ Proseguono disservizi di Microsoft, colpiti governi e aziende in tutto il mondo ++"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_237e2ab2-4aff-4713-9398-ae1b59ecd750.html",
+     "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down"
     }
    ]
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Ulteriori elementi su BellaMa' di Diaco, la Rai avvia un audit interno",
-   "summary": "Nota dell'azienda che aveva già avviato accertamenti sulla trasmissione",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/ulteriori-elementi-su-bellama-di-diaco-la-rai-avvia-un-audit-interno_2b465eba-9d87-4b75-8890-75c0d12d31d9.html",
-   "pub_ts": 1794583686,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/ulteriori-elementi-su-bellama-di-diaco-la-rai-avvia-un-audit-interno_2b465eba-9d87-4b75-8890-75c0d12d31d9.html",
-     "title": "Ulteriori elementi su BellaMa' di Diaco, la Rai avvia un audit interno"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/11/la-rai-avvia-accertamenti-su-bellama-di-diaco.-il-conduttore-la-mia-giornata-piu-difficile_227263e9-89b9-4ac4-995c-60f27cad298a.html",
-     "title": "La Rai avvia accertamenti su Bellama' di Diaco. Il conduttore: 'La mia giornata più difficile, ma bisogna andare avanti'"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/13/a-seguito-delle-segnalazioni-pervenute-dalla-direzione-daytime-sulla-gestione-di-bellama-la-rai-ha-disposto-lavvio-di-un-audit-interno-la-nota-su-diaco/8570973/",
-     "title": "“A seguito delle segnalazioni pervenute dalla direzione Daytime sulla gestione di ‘BellaMa’, la Rai ha disposto l’avvio di un audit interno”: la nota dell’azienda su Pierluigi Diaco"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "'Italia Germania', oltre 160 opere in Basilica Palladiana a Vicenza",
-   "summary": "La grande mostra di opere tra Ottocento e Novecento, domani apertura con Mattarella",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/12/italia-germania-oltre-160-opere-in-basilica-palladiana-a-vicenza_506b012e-d24a-4fa1-9a46-d08b62d7fbd2.html",
-   "pub_ts": 1794578820,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/12/italia-germania-oltre-160-opere-in-basilica-palladiana-a-vicenza_506b012e-d24a-4fa1-9a46-d08b62d7fbd2.html",
-     "title": "'Italia Germania', oltre 160 opere in Basilica Palladiana a Vicenza"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/12/news/falsi_allarmi_bombe_guerra_ibrida_italia-425718278/?rss",
-     "title": "Sulla guerra ibrida l’Italia resta il ventre molle d’Europa"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/vicenza-presidente-repubblica-sergio-mattarella-inaugura-mostra-ispirazione-europa-italia-germania-554d25a1-5044-49ca-909f-ba50455fb5c0.html",
-     "title": "Mattarella inaugura la mostra “Ispirazione Europa - Italia e Germania\" a Vicenza"
-    }
-   ],
-   "subtype": "cultura"
   },
   {
    "category": "varia",
    "area": null,
    "title": "Jane Fonda esclusa dal testamento dell'ex marito Ted Turner, tycoon fondatore di Cnn",
    "summary": "L'intero patrimonio del magnate è destinato esclusivamente ai suoi cinque figli",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_e06d4979-36cc-4dc9-a736-485ba981a532.html",
-   "pub_ts": 1794584323,
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_52d056b8-5ceb-41de-99bc-95ea01a4b50d.html",
+   "pub_ts": 1794594251,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_e06d4979-36cc-4dc9-a736-485ba981a532.html",
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_52d056b8-5ceb-41de-99bc-95ea01a4b50d.html",
      "title": "Jane Fonda esclusa dal testamento dell'ex marito Ted Turner, tycoon fondatore di Cnn"
     },
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_52d056b8-5ceb-41de-99bc-95ea01a4b50d.html",
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_e06d4979-36cc-4dc9-a736-485ba981a532.html",
      "title": "Jane Fonda esclusa dal testamento dell'ex marito Ted Turner, tycoon fondatore di Cnn"
     }
    ],
    "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Farhadi, 'nel mondo di oggi le persone vengono sempre più disumanizzate'",
+   "summary": "Dopo il debutto a Cannes, il regista iraniano in sala con Storie parallele dal 26 novembre",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/farhadi-nel-mondo-di-oggi-le-persone-vengono-sempre-piu-disumanizzate_f5cef144-b852-44a1-b74d-bdcf1fa627e6.html",
+   "pub_ts": 1794593346,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/farhadi-nel-mondo-di-oggi-le-persone-vengono-sempre-piu-disumanizzate_f5cef144-b852-44a1-b74d-bdcf1fa627e6.html",
+     "title": "Farhadi, 'nel mondo di oggi le persone vengono sempre più disumanizzate'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/spettacoli/asghar-farhadi-presenta-storie-parallele-dal-26-novembre-in-sala_3xlEhhG0rRh3BPkvQN2myW",
+     "title": "Asghar Farhadi: \"Oggi sempre più difficile capire di quale verità possiamo fidarci\""
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Laura Pausini vince il suo quinto Latin Grammy con l'album Yo canto 2",
+   "summary": "Premiato nella categoria Miglior album pop tradizionale",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/laura-pausini-vince-il-suo-quinto-latin-grammy-con-lalbum-yo-canto_e746d313-b1c5-49c4-8d18-8d57e3cec6ed.html",
+   "pub_ts": 1794593147,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/laura-pausini-vince-il-suo-quinto-latin-grammy-con-lalbum-yo-canto_e746d313-b1c5-49c4-8d18-8d57e3cec6ed.html",
+     "title": "Laura Pausini vince il suo quinto Latin Grammy con l'album Yo canto 2"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/musica-laura-pausini-las-vegas-laura-pausini-nella-storia-arriva-il-quinto-latin-grammy-6b7925d7-c0a5-44d4-a41d-64159667b230.html",
+     "title": "Laura Pausini nella storia: arriva il quinto Latin Grammy"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna",
+   "summary": "E' il primo trapianto renale robotico da donatore vivente eseguito dall'Asufc",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
+   "pub_ts": 1794591039,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
+     "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-lincompatibilita-sanguigna_045c89a4-4e51-414c-b90c-0876c9e3d673.html",
+     "title": "A Udine marito dona un rene alla moglie superando l'incompatibilità sanguigna"
+    }
+   ],
+   "subtype": "scienza"
   },
   {
    "category": "varia",
@@ -553,35 +606,12 @@
    "subtype": "scienza"
   },
   {
-   "category": "varia",
-   "area": null,
-   "title": "'Divieto di fumo assoluto al chiuso e niente pubblicità', al via Manifesto per tutela diritti dei non fumatori",
-   "summary": "Appello di Aiom, Fondazione Veronesi e Airc. 'Parlamento discuta proposta di legge per aumentare di 5 euro il costo di tutti i prodotti da fumo'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/12/divieto-di-fumo-assoluto-al-chiuso-e-niente-pubblicita-al-via-manifesto_9ead1a5c-8092-4b45-82f4-7049d2528ab5.html",
-   "pub_ts": 1794500483,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/12/divieto-di-fumo-assoluto-al-chiuso-e-niente-pubblicita-al-via-manifesto_9ead1a5c-8092-4b45-82f4-7049d2528ab5.html",
-     "title": "'Divieto di fumo assoluto al chiuso e niente pubblicità', al via Manifesto per tutela diritti dei non fumatori"
-    },
-    {
-     "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/2026/11/12/news/sigarette_elettroniche_e_tabacco_riscaldato_divieto_di_pubblicita_e_di_fumo_al_chiuso-425717603/?rss",
-     "title": "Sigarette elettroniche e tabacco riscaldato: divieto di pubblicità e di fumo al chiuso"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
    "category": "cronaca",
    "area": null,
    "title": "Fuoco di Israele su Gaza: due morti. Intercettato attacco contro radar americano in Bahrein",
-   "summary": "Capo del Mossad negli Usa. Israele bombarda l'ospedale Nasser a Gaza, almeno 6 morti e 20 feriti. Israele, faccia a faccia tra Netanyahu ed Eisenkot. Nave metaniera esplode dopo aver urtato mina. Trump esclude JD Vance dai colloqui con l'Iran",
+   "summary": "Capo del Mossad negli Usa. Due navi esplodono dopo avere urtato una mina. Trump esclude JD Vance dai colloqui con l'Iran. Israele bombarda l'ospedale Nasser a Gaza, almeno 6 morti e 20 feriti. Giovedì vertice dei Volenterosi a Berlino",
    "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-bombarda-ospedale-nasser-a-gaza-6-morti-e-20-feriti-ab1dcae8-7cc2-40f2-95d4-991df36d0e32.html",
-   "pub_ts": 1794580380,
+   "pub_ts": 1794606840,
    "n_sources": 3,
    "documented": true,
    "sources": [
@@ -605,6 +635,24 @@
  ],
  "articles": [
   {
+   "title": "Usa, traffico aereo bloccato: “Non è cyber-attacco”.Si indaga su blackout per aggiornamento software",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
+   "description": "Il provvedimento arriva dopo che in alcune zone del Paese erano state segnalate interruzioni delle frequenze radio utilizzate per le comunicazioni aeronautiche",
+   "pub_ts": 1794608556,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+   "description": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
+   "pub_ts": 1794601264,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
    "description": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
@@ -614,146 +662,137 @@
    "section": "politica"
   },
   {
-   "title": "'E' tanto che non ci vediamo'. 'Tu non volevi...'. La battuta di Zelensky con Meloni",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
-   "description": "Il siparietto pubblicato su X dal leader ucraino, che ringrazia l'Italia",
-   "pub_ts": 1794581512,
+   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'e",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giustae_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+   "description": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
+   "pub_ts": 1794607955,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ucraina, Bild: 'Mosca chiede la Finlandia fuori dalla Nato e la Moldavia divisa'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/ucraina-bild-mosca-chiede-la-finlandia-fuori-dalla-nato-e-la-moldavia-divisa_44817c41-c94b-49c5-82d4-c2480ddd3563.html",
-   "description": "Merz: 'Berlino sarà ai negoziati'. Kallas contro il modello Kushner-Witkoff",
-   "pub_ts": 1794584127,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il Nyt: 'Trump ha chiamato Huang martedì per incoraggiarlo a non cedere'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/il-nyt-trump-ha-chiamato-huang-martedi-per-incoraggiarlo-a-non-cedere_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html",
-   "description": "Il segretario Usa al Commercio testimonierà sul caso Nvidia prima del Congresso. Gli 007 americani non sono sicuri che Alice Huang sia una spia",
-   "pub_ts": 1794584731,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "'Capo Mossad a Washington mentre Netanyahu preme per riprendere guerra Iran'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/capo-mossad-a-washington-mentre-netanyahu-preme-per-riprendere-guerra-iran_fd0c71d7-c824-4c19-9790-2826173612ec.html",
-   "description": "Axios, 'incontri con il capo della Cia e Witkoff'",
-   "pub_ts": 1794581795,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Presidenza Ue, decidere entro due settimane chi rappresenta l'Europa su Ucraina",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/presidenza-ue-decidere-entro-due-settimane-chi-rappresenta-leuropa-su-ucraina_e7a86d80-23b7-4d0d-96d4-e118e2affc4e.html",
-   "description": "'Mi auguro che il vertice di oggi faccia chiarezza'",
-   "pub_ts": 1794575144,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Witkoff, gli europei parteciperanno al prossimo round di colloqui sull'Ucraina",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/witkoff-gli-europei-parteciperanno-al-prossimo-round-di-colloqui-sullucraina_65d7bcd4-2d20-47f0-b695-91e1adb4f015.html",
-   "description": "'Sono nostri partner ed è importante per noi che ne prendano parte'",
-   "pub_ts": 1794563928,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump rimette in riga Vance: “Non serve un accordo con l’Iran”",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/trump_rimette_in_riga_vance_non_serve_accordo_con_iran-425719758/?rss",
-   "description": "Il presidente ordina al suo vice di occuparsi dei “crimini dei democratici” e smettere di negoziare con Teheran. In Israele tensione tra Eisenkot e Netanyahu",
-   "pub_ts": 1794562008,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Manovra: Meloni, 'La sinistra pensa alle patrimoniali, noi ad abbassare le tasse'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-meloni-difesa-del-ceto-medio-e-premio-al-merito-ad-altri-la-retorica_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-   "description": "'Difesa del ceto medio e premio al merito, ad altri la retorica dell'uno vale uno. Il reddito di 55mila euro è quello di un giovane medico. E' un ricco da spennare?'",
-   "pub_ts": 1794582631,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Patuanelli: 'Il reddito di cittadinanza sarà nel programma del campo largo, accordo trovato'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/patuanelli-il-reddito-di-cittadinanza-sara-nel-programma-del-campo-largo-accordo_9a4159c6-1d46-4b45-b73e-9dc2b9240ac4.html",
-   "description": "Il vicepresidente del M5s: 'Se sei in grado di lavorare e hai perso il lavoro, noi per un periodo della tua vita ti sosteniamo economicamente e ti diamo gli strumenti per riqualificarti'",
-   "pub_ts": 1794580655,
+   "title": "Calenda scarica D'Amato ma non rompe con Gualtieri",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/calenda-no-a-ultimatum-auguro-a-damato-successo-nel-campo-largo_2c959900-15cf-4c6d-9ec5-f09fbde97552.html",
+   "description": "L'ex segretario romano di Azione torna nel Pd e lui gli augura 'successo nel campo largo'",
+   "pub_ts": 1794592831,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Huang lascia Nvidia. L’ex ceo chiamato a testimoniare insieme al segretario del commercio Lutnik",
-   "link": "https://www.repubblica.it/esteri/2026/11/12/news/jensen_huang_dimissioni_ceo_nvidia_spia_cinese-425718641/?rss",
-   "description": "Dopo l’annuncio delle dimissioni da Ceo, le azioni in Borsa sono crollate",
-   "pub_ts": 1794585530,
+   "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/kushner-progressi-significativi-nei-negoziati-ucraina-russia_eb0bf24d-6068-4664-a627-2a8d50fdc5bf.html",
+   "description": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
+   "pub_ts": 1794599370,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "'E' tanto che non ci vediamo'. 'Tu non volevi...'. La battuta di Zelensky con Meloni",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
+   "description": "Il siparietto pubblicato su X dal leader ucraino, che ringrazia l'Italia",
+   "pub_ts": 1794581512,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_0687956c-c205-47cc-ae5e-26338a22eb3c.html",
+   "description": "Media, misura adotta una sola volta dopo l'11 Settembre. 'Problemi alle comunicazioni'",
+   "pub_ts": 1794606719,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Fonti, 'per ora ai negoziati su Kiev con i rappresentanti Ue e degli E5'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-per-ora-ai-negoziati-su-kiev-con-i-rappresentanti-ue-e-degli-e5_ee9227d0-9a26-4151-8f8a-87e358edcac4.html",
+   "description": "E quanto hanno concordato i leader al summit di Dublino",
+   "pub_ts": 1794596997,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "“Mélenchon persona non grata”: Israele vieta l’ingresso al candidato all’Eliseo",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/israele_vieta_ingresso_melenchon_leader_france_insoumise-425721651/?rss",
+   "description": "Il ministero degli Esteri israeliano accusa il candidato all’Eliseo e un altro esponente della France Insoumise Mathilde Panot di aver diffuso “calunnie antisemite”. La reazione: “Mi viene vietato l'ingresso in un territorio nel quale non avevo chiesto di entrare”",
+   "pub_ts": 1794588776,
    "source": "Repubblica Esteri",
    "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
+   "description": "Mandati in fumo oltre 500 miliardi di capitalizzazione di Borsa",
+   "pub_ts": 1794605372,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Outlook down, Microsoft: 'Miglioramenti in Nord America ed Europa'. Il titolo soffre in Borsa",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/outlook-down-microsoft-miglioramenti-in-nord-america-ed-europa.-il-titolo-soffre-in-borsa_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
-   "description": "Il colosso aggiorna la situazione: 'Non siamo ancora ai livelli base'",
-   "pub_ts": 1794584549,
+   "title": "Caccia al successore in Nvidia, contattato il ceo della rivale Arm, Rene Haas",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/caccia-al-successore-in-nvidia-contattato-il-ceo-della-rivale-arm-rene-haas_687fc1cb-f5ec-40c5-b754-207e9c93270f.html",
+   "description": "Nel toto-nomi del dopo Huang anche i figli. Tra le opzioni interne Kress, Buck e Teter",
+   "pub_ts": 1794602152,
    "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_8ad2e148-60aa-4ca8-a98b-4c7753fb069b.html",
-   "description": "Il colosso aggiorna la situazione su X, 'non siamo ancora ai livelli base'",
-   "pub_ts": 1794567196,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "++ Proseguono disservizi di Microsoft, colpiti governi e aziende in tutto il mondo ++",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/proseguono-disservizi-di-microsoft-colpiti-governi-e-aziende-in-tutto-il-mondo_49096e90-871f-47d6-91bb-5fd9ad69b8d0.html",
-   "description": "Azienda, 'stabilizzazione e miglioramenti'. Problemi per assistenza delle compagnie aeree",
-   "pub_ts": 1794563914,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Ulteriori elementi su BellaMa' di Diaco, la Rai avvia un audit interno",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/ulteriori-elementi-su-bellama-di-diaco-la-rai-avvia-un-audit-interno_2b465eba-9d87-4b75-8890-75c0d12d31d9.html",
-   "description": "Nota dell'azienda che aveva già avviato accertamenti sulla trasmissione",
-   "pub_ts": 1794583686,
+   "title": "Microsoft down in tutto il mondo, 'ma non è un cyberattacco'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/microsoft-down-in-tutto-il-mondo-ma-non-e-un-cyberattacco_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
+   "description": "Colpiti governi e aziende, ma anche scuole, trasporti e sanità. L'ironia sui social",
+   "pub_ts": 1794595388,
    "source": "ANSA",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "'Italia Germania', oltre 160 opere in Basilica Palladiana a Vicenza",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/12/italia-germania-oltre-160-opere-in-basilica-palladiana-a-vicenza_506b012e-d24a-4fa1-9a46-d08b62d7fbd2.html",
-   "description": "La grande mostra di opere tra Ottocento e Novecento, domani apertura con Mattarella",
-   "pub_ts": 1794578820,
+   "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
+   "description": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
+   "pub_ts": 1794587335,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Jane Fonda esclusa dal testamento dell'ex marito Ted Turner, tycoon fondatore di Cnn",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_52d056b8-5ceb-41de-99bc-95ea01a4b50d.html",
+   "description": "L'intero patrimonio del magnate è destinato esclusivamente ai suoi cinque figli",
+   "pub_ts": 1794594251,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Jane Fonda esclusa dal testamento dell'ex marito Ted Turner, tycoon fondatore di Cnn",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_e06d4979-36cc-4dc9-a736-485ba981a532.html",
-   "description": "L'intero patrimonio del magnate è destinato esclusivamente ai suoi cinque figli",
-   "pub_ts": 1794584323,
-   "source": "ANSA Mondo",
+   "title": "Farhadi, 'nel mondo di oggi le persone vengono sempre più disumanizzate'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/farhadi-nel-mondo-di-oggi-le-persone-vengono-sempre-piu-disumanizzate_f5cef144-b852-44a1-b74d-bdcf1fa627e6.html",
+   "description": "Dopo il debutto a Cannes, il regista iraniano in sala con Storie parallele dal 26 novembre",
+   "pub_ts": 1794593346,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Laura Pausini vince il suo quinto Latin Grammy con l'album Yo canto 2",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/laura-pausini-vince-il-suo-quinto-latin-grammy-con-lalbum-yo-canto_e746d313-b1c5-49c4-8d18-8d57e3cec6ed.html",
+   "description": "Premiato nella categoria Miglior album pop tradizionale",
+   "pub_ts": 1794593147,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
+   "description": "E' il primo trapianto renale robotico da donatore vivente eseguito dall'Asufc",
+   "pub_ts": 1794591039,
+   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
@@ -767,19 +806,10 @@
    "section": "varia"
   },
   {
-   "title": "'Divieto di fumo assoluto al chiuso e niente pubblicità', al via Manifesto per tutela diritti dei non fumatori",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/12/divieto-di-fumo-assoluto-al-chiuso-e-niente-pubblicita-al-via-manifesto_9ead1a5c-8092-4b45-82f4-7049d2528ab5.html",
-   "description": "Appello di Aiom, Fondazione Veronesi e Airc. 'Parlamento discuta proposta di legge per aumentare di 5 euro il costo di tutti i prodotti da fumo'",
-   "pub_ts": 1794500483,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
    "title": "Fuoco di Israele su Gaza: due morti. Intercettato attacco contro radar americano in Bahrein",
    "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-bombarda-ospedale-nasser-a-gaza-6-morti-e-20-feriti-ab1dcae8-7cc2-40f2-95d4-991df36d0e32.html",
-   "description": "Capo del Mossad negli Usa. Israele bombarda l'ospedale Nasser a Gaza, almeno 6 morti e 20 feriti. Israele, faccia a faccia tra Netanyahu ed Eisenkot. Nave metaniera esplode dopo aver urtato mina. Trump esclude JD Vance dai colloqui con l'Iran",
-   "pub_ts": 1794580380,
+   "description": "Capo del Mossad negli Usa. Due navi esplodono dopo avere urtato una mina. Trump esclude JD Vance dai colloqui con l'Iran. Israele bombarda l'ospedale Nasser a Gaza, almeno 6 morti e 20 feriti. Giovedì vertice dei Volenterosi a Berlino",
+   "pub_ts": 1794606840,
    "source": "Rai News",
    "source_priority": 1,
    "section": "cronaca"
