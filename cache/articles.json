@@ -1,6 +1,6 @@
 {
- "generated_at": 1794625126,
- "updated_at": 1794625126,
+ "generated_at": 1794650895,
+ "updated_at": 1794650895,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,18 +9,28 @@
  "items": [
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'",
-   "summary": "Dopo lo stop disposto dall'Authority dei trasporti per motivi di sicurezza",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_1de7bb19-d7ff-49ff-b146-891c95e66c11.html",
-   "pub_ts": 1794622860,
+   "area": "italia",
+   "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
+   "pub_ts": 1794649932,
    "n_sources": 7,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_1de7bb19-d7ff-49ff-b146-891c95e66c11.html",
-     "title": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
+     "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/revocato-il-blocco-dei-voli-negli-stati-uniti-decine-di-migliaia-di-passeggeri_d2a6ded1-a075-4399-8855-8bc69e436c24.html",
+     "title": "Revocato dopo 4 ore il blocco dei voli negli Stati Uniti, 'decine di migliaia di passeggeri bloccati'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/stati-uniti-caos-voli-ritardi-cancellazioni-software-cosa-e-successo-nor4rbiv",
+     "title": "Stati Uniti, traffico aereo in tilt per 4 ore: migliaia di voli in ritardo o cancellati"
     },
     {
      "name": "Rai News",
@@ -28,172 +38,130 @@
      "title": "Caos nei cieli Usa, revocato lo stop dopo oltre quattro ore di paralisi: 3.000 voli cancellati"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/usa-faa-dispone-blocco-nazionale-voli-partenza-AJkGYJGC",
-     "title": "Usa, quattro ore di blocco nazionale dei voli in partenza per un crash tecnologico"
-    },
-    {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/stop-voli-usa-oggi-sicurezza_10e7RF5gereJoJkK2RVyIm",
-     "title": "Stop a tutti gli aerei negli Usa per 4 ore, voli bloccati per motivi di sicurezza"
+     "link": "https://www.adnkronos.com/internazionale/esteri/stop-voli-usa-revocato-cosa-e-successo-ultime-notizie_47P9GTKjc1xktl6qCn2JKm",
+     "title": "Usa, stop voli revocato dopo 4 ore: \"Abbiamo sistema di controllo del traffico aereo obsoleto\". Ecco cosa ha scatenato il caos"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/13/faa-ordine-blocco-voli/",
-     "title": "Gli Stati Uniti hanno bloccato tutti i voli in partenza"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/13/usa-faa-ground-stop-blocco-voli-cosa-succede/",
-     "title": "Blocco a tutti i voli negli Usa, caos negli aeroporti. Almeno 6 partiti dall’Italia. Allarme sicurezza, l’ipotesi sull’aggiornamento con l’AI."
+     "link": "https://www.ilpost.it/2026/11/14/voli-stati-uniti-ripresi/",
+     "title": "Cos’è successo col blocco dei voli negli Stati Uniti"
     },
     {
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/divieto-di-decollo-negli-usa-bloccati-tutti-i-voli/",
-     "title": "Divieto di decollo negli Usa: bloccati tutti i voli"
+     "title": "Caos voli negli Usa, stop revocato dopo quattro ore. Il governo: “Sistema obsoleto”"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
-   "summary": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-   "pub_ts": 1794601264,
-   "n_sources": 7,
+   "area": "mondo",
+   "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia",
+   "summary": "Confermato il format usato ad Abu Dhabi con due sedie in più. Salta per ora l’ipotesi del portavoce unico. Ma il Cremlino mantiene l’ambiguità",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
+   "pub_ts": 1794648297,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-     "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
+     "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/meloni-segnale-di-attenzione-alla-scuola-ma-non-erano-tagli_81008142-0f7b-4f04-aca7-43de6211d8b6.html",
-     "title": "Meloni, segnale di attenzione alla scuola ma non erano tagli"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/14/ucraina-formato-dublino-negoziati-guerra-russia-italia-meloni/",
+     "title": "Negoziati sull’Ucraina, l’Europa sceglie il «formato di Dublino»: c’è anche l’Italia al tavolo dei cinque"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/",
+     "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/manovra-governo-retromarcia-tagli-scuola-sindacati-wkgnba0d",
-     "title": "Un governo in retromarcia, saltano i tagli alla scuola"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/13/manovra-meloni-vs-sindacati-tagli-scuola-risposta-video/",
-     "title": "Meloni ai sindacati sulla scuola e il dietrofront: «Perché non erano tagli: nessuno avrebbe perso il posto» – Il video"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/manovra-incontro-governo-sindacati-retromarcia-sui-tagli-alla-scuola-tg3-di-liegro-0ae96e08-0511-4006-83e5-537563a53ee1.html",
-     "title": "Incontro governo-sindacati, retromarcia sui tagli alla scuola"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/13/news/manovra_governo_incontro_sindacati_dietrofront_su_scuola_no_tagli-425721691/",
-     "title": "Manovra, via i tagli alla scuola. Il governo cerca altri fondi per la sanità"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/13/tagli-scuola-meloni-dietrofront-notizie/8571430/",
-     "title": "Meloni conferma il dietrofront sulla scuola: “Ma non erano tagli, solo adeguamento agli studenti effettivi”. Conte: “Ora avanti sulla sanità”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
-   "summary": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-   "pub_ts": 1794609132,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-     "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/economia-finanza-rating-italia-standard-poor-s-conferma-bbb-a-2-export-compensa-dazi-6aa2ae78-b7c6-4e25-9bdd-8a587bfa79fd.html",
-     "title": "S&P conferma il rating dell’Italia a BBB+/A-2: “L’export compensa i dazi Usa”"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/13/sp-rating-italia-13-nov-giorgetti/",
-     "title": "Standard & Poor’s conferma il rating BBB+/A-2 dell’Italia, outlook positivo: «La crescita supererà le stime precedenti»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/13/news/standard_sp_rating_italia_confermato-425722400/",
-     "title": "S&p conferma il rating dell’Italia. Outlook positivo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Calenda scarica D'Amato ma non rompe con Gualtieri",
-   "summary": "L'ex segretario romano di Azione torna nel Pd e lui gli augura 'successo nel campo largo'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/calenda-no-a-ultimatum-auguro-a-damato-successo-nel-campo-largo_2c959900-15cf-4c6d-9ec5-f09fbde97552.html",
-   "pub_ts": 1794592831,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/calenda-no-a-ultimatum-auguro-a-damato-successo-nel-campo-largo_2c959900-15cf-4c6d-9ec5-f09fbde97552.html",
-     "title": "Calenda scarica D'Amato ma non rompe con Gualtieri"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/calenda-no-a-ultimatum-auguro-a-damato-successo-nel-campo-largo_760a2127-645d-40fa-b0c1-a23bb3eafb69.html",
-     "title": "Calenda, 'no a ultimatum, auguro a D'Amato successo nel campo largo'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/13/news/damato_fuori_azione_calenda_intervista-425721378/",
-     "title": "D’Amato rompe con Calenda: “Vuole diventare la ruota di scorta di Meloni, tornerò nel Pd”"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/il-campo-largo-ha-un-guastafeste/",
-     "title": "Il Campo Largo ha un guastafeste"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe",
-   "summary": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
-   "pub_ts": 1794568692,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
-     "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/13/scuola-allarme-bomba-protocollo/",
-     "title": "Cosa devono fare le scuole con gli allarmi bomba d’ora in poi"
+     "link": "https://www.editorialedomani.it/politica/europa/europa-sette-negoziatori-consiglio-dublino-ucraina-ue-yupw4v59",
+     "title": "Ucraina e negoziati. Per l’Europa non una voce, ma sette: il pasticciaccio di Dublino"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/allarme-bomba-oggi-misure-governo-ultime-notizie_7otbBP3JBvJyXUhyV2hFGb",
-     "title": "Allarmi bomba nelle scuole, oggi tavolo tecnico a Palazzo Chigi"
+     "link": "https://www.adnkronos.com/internazionale/esteri/kallas-lue-e-i-negoziati-ucraina-non-siamo-gli-usa_4Tkne2FrlSymK3MwLXxWXk",
+     "title": "Kallas: l'Ue e i negoziati Ucraina, \"non siamo gli Usa\""
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/nuovi-allarmi-bomba-minacce-ibride-meloni-unita-nazionale-incontro-opposizioni-i4y5d7se",
-     "title": "Nuovi allarmi bomba e minacce ibride: Meloni si rifugia nell’unità nazionale"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino/",
+     "title": "L’Europa non avrà un unico rappresentante nei negoziati per l’Ucraina"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'",
+   "summary": "'Nel caso, dovrò affrontare la questione con l'opinione pubblica'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html",
+   "pub_ts": 1794650277,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html",
+     "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/flash/2026/11/14/-zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini-_b40be019-53e8-4bc0-9c0b-655e9ea59ff4.html",
+     "title": "++ Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini' ++"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/zelensky-mi-aspetto-il-piu-grande-scambio-di-prigionieri-della-guerra-da3923aa-aa93-4585-a55c-402470b83643.html",
+     "title": "Zelensky: \"Usa propongono adesione Nato in cambio cessione territori ucraini\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/diretta/guerra_ucraina_russia_news_oggi-425722502/",
+     "title": "Guerra Ucraina - Russia. Zelensky: “Usa propongono adesione Nato in cambio di cessione territori”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/zelensky-cessione-territori-ucraina-nato-notizie/8571829/",
+     "title": "Zelensky: “Gli Usa propongono la cessione di territori ucraini in cambio dell’adesione alla Nato”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Ciro Grillo: 'nessuna concessione, piuttosto in galera da innocente'",
+   "summary": "Condannato in primo grado a otto anni per uno stupro di gruppo avvenuto nel 2019 in Sardegna.",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/ciro-grillo-nessuna-concessione-piuttosto-in-galera-da-innocente-_493a185c-4b7b-4e27-b548-0e8ddd2c6acf.html",
+   "pub_ts": 1794650869,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/ciro-grillo-nessuna-concessione-piuttosto-in-galera-da-innocente-_493a185c-4b7b-4e27-b548-0e8ddd2c6acf.html",
+     "title": "Ciro Grillo: 'nessuna concessione, piuttosto in galera da innocente'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/13/ciro-grillo-intervista-telenord-processo-vs-giulia-bongiorno-video/",
+     "title": "Ciro Grillo e lo sfogo sul suo processo e il crollo del governo M5s-Lega: l’accusa «pesante» a Giulia Bongiorno – Il video"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/caso-grillo-ciro-dichiarazioni-patteggiamento-notizie/8571788/",
+     "title": "Ciro Grillo parla in tv: “Contro di me un atto di guerra. Patteggiare? Mai, preferisco andare in galera da innocente”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/pper-la-prima-volta-parla-ciro-grillo-vado-in-galera-da-innocente-poi-lattacco-a-giulia-bongiorno/",
+     "title": "Per la prima volta parla Ciro Grillo: “Vado in galera da innocente”. Poi l’attacco a Giulia Bongiorno"
     }
    ]
   },
@@ -203,7 +171,7 @@
    "title": "Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen",
    "summary": "Lo comunica la Casa Bianca. A margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_5cbbf8a4-fed1-4d94-826a-eb8148cd6b4e.html",
-   "pub_ts": 1794616908,
+   "pub_ts": 1794642700,
    "n_sources": 3,
    "documented": true,
    "sources": [
@@ -221,6 +189,33 @@
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/casa-bianca-trump-discutera-di-iran-con-xi-e-putin-non-di-ucraina_864145b8-8539-4476-afaa-f64bca240844.html",
      "title": "Casa Bianca, 'Trump discuterà di Iran con Xi e Putin, non di Ucraina'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
+   "summary": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+   "pub_ts": 1794640564,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+     "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/meloni-segnale-di-attenzione-alla-scuola-ma-non-erano-tagli_81008142-0f7b-4f04-aca7-43de6211d8b6.html",
+     "title": "Meloni, segnale di attenzione alla scuola ma non erano tagli"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/politicoquotidiano/eh-no-meloni-che-errore-fare-dietrofront-i-tagli-alla-scuola-sono-sacrosanti/",
+     "title": "Eh no, Meloni che errore fare dietrofront: i “tagli” alla scuola sono sacrosanti"
     }
    ]
   },
@@ -253,77 +248,129 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia",
-   "summary": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/kushner-progressi-significativi-nei-negoziati-ucraina-russia_eb0bf24d-6068-4664-a627-2a8d50fdc5bf.html",
-   "pub_ts": 1794599370,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/kushner-progressi-significativi-nei-negoziati-ucraina-russia_eb0bf24d-6068-4664-a627-2a8d50fdc5bf.html",
-     "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/europa-sette-negoziatori-consiglio-dublino-ucraina-ue-yupw4v59",
-     "title": "Ucraina e negoziati. Per l’Europa non una voce, ma sette: il pasticciaccio di Dublino"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/kallas-lue-e-i-negoziati-ucraina-non-siamo-gli-usa_4Tkne2FrlSymK3MwLXxWXk",
-     "title": "Kallas: l'Ue e i negoziati Ucraina, \"non siamo gli Usa\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Ucraina, Europa ha scelto i rappresentanti al tavolo di pace: 5 Paesi più Commissione e Consiglio Ue. C'è anche l'Italia",
-   "summary": "(Adnkronos) - Per Costa \"le garanzie di sicurezza devono essere affrontate nell'ambito della coalizione dei volenterosi, in stretto coordinamento con la Nato\". Questa decisione è frutto del pressing esercitato dagli Usa, oltre che dal presidente ucraino Volodymyr Zelensky, che conta sul sostegno degli europei al tavolo negoziale",
-   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-tavolo-pace-europa-italia_3bbGRTvLBqnm9O6YYU6KLA",
-   "pub_ts": 1794611531,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-tavolo-pace-europa-italia_3bbGRTvLBqnm9O6YYU6KLA",
-     "title": "Ucraina, Europa ha scelto i rappresentanti al tavolo di pace: 5 Paesi più Commissione e Consiglio Ue. C'è anche l'Italia"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino/",
-     "title": "L’Europa non avrà un unico rappresentante nei negoziati per l’Ucraina"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/13/negoziati-pace-ucraina-formato-e5-notizie/8571475/",
-     "title": "L’Europa ha scelto i suoi rappresentanti al tavolo di pace sull’Ucraina: formato E5 più Commissione e Consiglio Ue. C’è anche l’Italia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
-   "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa",
-   "summary": "Dietro c’è il desiderio di Trump di avere al tavolo negoziale un interlocutore affidabile",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
-   "pub_ts": 1794614400,
+   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
+   "summary": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+   "pub_ts": 1794609132,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+     "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/economia-finanza-rating-italia-standard-poor-s-conferma-bbb-a-2-export-compensa-dazi-6aa2ae78-b7c6-4e25-9bdd-8a587bfa79fd.html",
+     "title": "S&P conferma il rating dell’Italia a BBB+/A-2: “L’export compensa i dazi Usa”"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/13/sp-rating-italia-13-nov-giorgetti/",
+     "title": "Standard & Poor’s conferma il rating BBB+/A-2 dell’Italia, outlook positivo: «La crescita supererà le stime precedenti»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”",
+   "summary": "La svolta del suo partito Reform UK, dopo le accuse al leader di vicinanza a Mosca: “C’è una guerra ibrida contro Londra”. La risposta del Labour: “Finalmente se n’è accorto”",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
+   "pub_ts": 1794645480,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
-     "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa"
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
+     "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/",
-     "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa"
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/",
+     "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Usa, traffico aereo bloccato: “Non è il nuovo 11 settembre né un attacco hacker”",
+   "summary": "Il provvedimento arriva dopo che in alcune zone del Paese erano state segnalate interruzioni delle frequenze radio utilizzate per le comunicazioni aeronautiche. Il precedente del 2023",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
+   "pub_ts": 1794644148,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
+     "title": "Usa, traffico aereo bloccato: “Non è il nuovo 11 settembre né un attacco hacker”"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/14/blocco-voli-stati-uniti-faa-guasto-telecomunicazioni-cosa-e-successo/",
+     "title": "Dopo quattro ore di caos riparte il traffico aereo negli Usa, escluso l’attacco hacker: «Voli bloccati per le infrastrutture obsolete». Cosa è successo"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
+   "summary": "Il disservizio ha interessato oltre 70 Paesi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_fcbd3697-9a41-4805-9a00-5c1a6949b294.html",
+   "pub_ts": 1794647882,
+   "n_sources": 9,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_fcbd3697-9a41-4805-9a00-5c1a6949b294.html",
+     "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale"
+    },
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/microsoft_down_outlook_cosa_successo-425720300/?rss",
+     "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo"
+    },
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/politecnico-milano-nessun-attacco-hacker-ai-servizi-di-microsoft-possibile-guasto_ad39a9ed-eb41-4055-a2dc-0599f4eb4f18.html",
+     "title": "Politecnico Milano: 'Nessun attacco hacker ai servizi di Microsoft, possibile guasto'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/microsoft-outlook-ripristinati-servizi-ultime-news_6Q94rH1EbRLPWEm1CQw1pY",
+     "title": "Microsoft, ripristinati tutti i servizi: ecco cosa è successo"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/14/microsoft-blackout-ripristinato-servizio-outlook-cause-rischi/",
+     "title": "Così il blackout di Microsoft ha mandato in tilt il mondo per oltre 20 ore: «Ripristinati i servizi». Cos’è successo e perché può ripetersi"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/down-microsoft-fax/",
+     "title": "Il down di Microsoft ha riportato in vita i fax"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/tecnologia/guasto-di-microsoft-email-disservizi-in-tutto-il-mondo-ripristino-non-e-un-attacco-haker-ca2jbhg7",
+     "title": "Microsoft, il ripristino dà i primi risultati positivi dopo il down globale"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/blackout-microsoft-servizi-ripristinati-notizie/8571783/",
+     "title": "Microsoft: “Ripristinati tutti i servizi. Il blackout causato da un aggiornamento della rete, escluso l’attacco hacker””"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/microsoft-down-outlook-teams-copilot-nessun-hacker/",
+     "title": "Microsoft down, niente hacker: Outlook e Teams in tilt da soli"
     }
    ]
   },
@@ -372,80 +419,6 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Microsoft down in tutto il mondo, 'ma non è un cyberattacco'",
-   "summary": "Colpiti governi e aziende, ma anche scuole, trasporti e sanità. L'ironia sui social",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/microsoft-down-in-tutto-il-mondo-ma-non-e-un-cyberattacco_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
-   "pub_ts": 1794595388,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/microsoft-down-in-tutto-il-mondo-ma-non-e-un-cyberattacco_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
-     "title": "Microsoft down in tutto il mondo, 'ma non è un cyberattacco'"
-    },
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/proseguono-disservizi-di-microsoft-colpiti-governi-e-aziende-in-tutto-il-mondo_49096e90-871f-47d6-91bb-5fd9ad69b8d0.html",
-     "title": "++ Proseguono disservizi di Microsoft, colpiti governi e aziende in tutto il mondo ++"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/proseguono-disservizi-di-microsoft-colpiti-governi-e-aziende-in-tutto-il-mondo_d622ba6e-1cbc-4cd1-9d0e-b71bb48e359d.html",
-     "title": "++ Proseguono disservizi di Microsoft, colpiti governi e aziende in tutto il mondo ++"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/down-microsoft-fax/",
-     "title": "Il down di Microsoft ha riportato in vita i fax"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/tecnologia/guasto-di-microsoft-email-disservizi-in-tutto-il-mondo-ripristino-non-e-un-attacco-haker-ca2jbhg7",
-     "title": "Microsoft, il ripristino dà i primi risultati positivi dopo il down globale"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/microsoft-down-outlook-teams-copilot-nessun-hacker/",
-     "title": "Microsoft down, niente hacker: Outlook e Teams in tilt da soli"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
-   "summary": "Mandati in fumo oltre 500 miliardi di capitalizzazione di Borsa",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
-   "pub_ts": 1794605372,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
-     "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang"
-    },
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/12/news/chi-e-jensen-huang-nvidia-tradimento-425718607/?rss",
-     "title": "Ascesa e caduta di Jensen Huang, l’ex CEO di Nvidia che ha creato un impero dell’IA"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/scandalo-nvidia-huang-trump-retroscena_3MHe7q2qObezt7Tj2AOPjZ",
-     "title": "Scandalo Nvidia, Trump aveva chiamato Huang per dirgli di non cedere: il retroscena"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/jensen-huang-nvidia-dimissioni-trump-hdlpq0ke",
-     "title": "Scandalo Nvidia: la caduta di Huang inguaia anche Trump"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
    "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
    "summary": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
@@ -466,24 +439,51 @@
    ]
   },
   {
-   "category": "varia",
+   "category": "tech",
    "area": null,
-   "title": "Jane Fonda esclusa dal testamento dell'ex marito Ted Turner, tycoon fondatore di Cnn",
-   "summary": "L'intero patrimonio del magnate è destinato esclusivamente ai suoi cinque figli",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_52d056b8-5ceb-41de-99bc-95ea01a4b50d.html",
-   "pub_ts": 1794594251,
+   "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'",
+   "summary": "Il colosso aggiorna la situazione su X, 'non siamo ancora ai livelli base'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_8ad2e148-60aa-4ca8-a98b-4c7753fb069b.html",
+   "pub_ts": 1794567196,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_52d056b8-5ceb-41de-99bc-95ea01a4b50d.html",
-     "title": "Jane Fonda esclusa dal testamento dell'ex marito Ted Turner, tycoon fondatore di Cnn"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_8ad2e148-60aa-4ca8-a98b-4c7753fb069b.html",
+     "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_e06d4979-36cc-4dc9-a736-485ba981a532.html",
-     "title": "Jane Fonda esclusa dal testamento dell'ex marito Ted Turner, tycoon fondatore di Cnn"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_3ce53cd2-06ae-488b-9a9a-c45d1e3d9f3d.html",
+     "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'"
+    }
+   ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Raiuno: programmi di sabato 14 novembre",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/13/raiuno-programmi-di-sabato-14-novembre_c886beec-421a-4627-a633-01b14fa8864f.html",
+   "pub_ts": 1794636195,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/13/raiuno-programmi-di-sabato-14-novembre_c886beec-421a-4627-a633-01b14fa8864f.html",
+     "title": "Raiuno: programmi di sabato 14 novembre"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/14/sabato-14-novembre-3/",
+     "title": "Sabato 14 novembre"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/photogallery/2026/11/fotorassegna-stampa-le-prime-pagine-dei-quotidiani-di-sabato-14-novembre-e762e9f1-c3aa-4df5-a220-9149b21a0e54.html",
+     "title": "Fotorassegna stampa, le prime pagine dei quotidiani di sabato 14 novembre"
     }
    ],
    "subtype": "cultura"
@@ -491,22 +491,45 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Farhadi, 'nel mondo di oggi le persone vengono sempre più disumanizzate'",
-   "summary": "Dopo il debutto a Cannes, il regista iraniano in sala con Storie parallele dal 26 novembre",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/farhadi-nel-mondo-di-oggi-le-persone-vengono-sempre-piu-disumanizzate_f5cef144-b852-44a1-b74d-bdcf1fa627e6.html",
-   "pub_ts": 1794593346,
+   "title": "Al Bano, 'se il Papa va a Gaza, ci vado anch'io al suo fianco'",
+   "summary": "Il cantante firma l'appello al Pontefice dell'associazione 'L'Isola che non c'è'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
+   "pub_ts": 1794648929,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/farhadi-nel-mondo-di-oggi-le-persone-vengono-sempre-piu-disumanizzate_f5cef144-b852-44a1-b74d-bdcf1fa627e6.html",
-     "title": "Farhadi, 'nel mondo di oggi le persone vengono sempre più disumanizzate'"
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
+     "title": "Al Bano, 'se il Papa va a Gaza, ci vado anch'io al suo fianco'"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/spettacoli/asghar-farhadi-presenta-storie-parallele-dal-26-novembre-in-sala_3xlEhhG0rRh3BPkvQN2myW",
-     "title": "Asghar Farhadi: \"Oggi sempre più difficile capire di quale verità possiamo fidarci\""
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/se-mi-danno-la-possibilita-vado-anche-io-insieme-a-papa-leone-a-gaza-al-bano-sottoscrive-lappello-per-una-missione-di-pace-in-palestina/8571764/",
+     "title": "“Se mi danno la possibilità, vado anche io insieme a Papa Leone a Gaza”: Al Bano sottoscrive l’appello per una missione di pace in Palestina"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Italia Germania, nella Basilica Palladiana di Vicenza l'arte come valore fondante dell'Europa",
+   "summary": "Aperta fino al 2 maggio, è la prima di un ciclo di mostre dal titolo Ispirazione Europa, organizzato da Marsilio Arte. I prossimi anni il focus sarà su Francia e Spagna. Da Canova fino a Anselm Kiefer: due secoli di confronto e di stimoli culturali.",
+   "link": "https://www.rainews.it/video/2026/11/italia-germania-nella-basilica-palladiana-di-vicenza-larte-come-valore-fondante-delleuropa-861fbd34-a1a5-4104-a8a2-a4c91d370009.html",
+   "pub_ts": 1794649140,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/italia-germania-nella-basilica-palladiana-di-vicenza-larte-come-valore-fondante-delleuropa-861fbd34-a1a5-4104-a8a2-a4c91d370009.html",
+     "title": "Italia Germania, nella Basilica Palladiana di Vicenza l'arte come valore fondante dell'Europa"
+    },
+    {
+     "name": "Sole 24 Ore Cultura",
+     "link": "https://www.ilsole24ore.com/art/da-canova-kiefer-vicenza-due-secoli-d-arte-confronto-AJBHhjFC",
+     "title": "Da Canova a Kiefer, a Vicenza due secoli d’arte a confronto"
     }
    ],
    "subtype": "cultura"
@@ -537,152 +560,56 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Anitta conquista il Grammy Latino con Equilibrivm",
-   "summary": "La cantante premiata per il miglior album pop contemporaneo in portoghese",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/anitta-conquista-il-grammy-latino-con-equilibrivm_ec045ed1-db30-4e54-8f4a-2f4584da16aa.html",
-   "pub_ts": 1794574141,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/anitta-conquista-il-grammy-latino-con-equilibrivm_ec045ed1-db30-4e54-8f4a-2f4584da16aa.html",
-     "title": "Anitta conquista il Grammy Latino con Equilibrivm"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/anitta-conquista-il-grammy-latino-con-equilibrivm_60c07292-0fb8-4961-bdbe-9352195a8d64.html",
-     "title": "Anitta conquista il Grammy Latino con Equilibrivm"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Cyber team e sistemi 'anti-buco', Asl allertate su cybersecurity",
-   "summary": "Quintavalle (Fiaso), 'vigilanza alta, ospedali preparati. Pronti anche piani evacuazione'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/11/12/ansa-focus-cyber-team-e-sistemi-anti-buco-asl-allertate-su-cybersecurity_bd7b060f-d747-457c-99c8-e4029b7c0812.html",
-   "pub_ts": 1794572513,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Iss, al via borse di studio per neolaureati grazie all'evento 'Note per la ricerca'",
+   "summary": "In concerto a Roma la banda della Guardia di finanza e artisti amici del progetto",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/14/iss-al-via-borse-di-studio-per-neolaureati-grazie-allevento-note-per_dc484eb5-7d5e-46cd-a45a-f7f189daa93c.html",
+   "pub_ts": 1794645942,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/11/12/ansa-focus-cyber-team-e-sistemi-anti-buco-asl-allertate-su-cybersecurity_bd7b060f-d747-457c-99c8-e4029b7c0812.html",
-     "title": "Cyber team e sistemi 'anti-buco', Asl allertate su cybersecurity"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/cyber-team-e-sistemi-anti-buco-asl-allertate-su-cybersecurity_82350fa7-36c4-4dea-8347-1da8e9bb25e5.html",
-     "title": "Cyber team e sistemi 'anti-buco', Asl allertate su cybersecurity"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/14/iss-al-via-borse-di-studio-per-neolaureati-grazie-allevento-note-per_dc484eb5-7d5e-46cd-a45a-f7f189daa93c.html",
+     "title": "Iss, al via borse di studio per neolaureati grazie all'evento 'Note per la ricerca'"
     }
    ],
    "subtype": "scienza"
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia",
-   "summary": "Confermato il format usato ad Abu Dhabi con due sedie in più. Salta per ora l’ipotesi del portavoce unico. Ma il Cremlino mantiene l’ambiguità",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
-   "pub_ts": 1794614820,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
-     "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/russia-pronta-a-dialogare-con-leuropa-e24a94d9-a773-4a26-bd43-653b208e833c.html",
-     "title": "Russia pronta a dialogare con l'Europa"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/",
-     "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-13-novembre-2026_6jJcZYb7D6tvi7z7RZubCK",
-     "title": "Ucraina, Cremlino: \"Russia pronta a dialogare con l'Ue\". Nuovi raid incrociati con morti e feriti"
-    }
-   ]
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Gaza, Israele bombarda l’ospedale Nasser: sei morti, tra loro anche il medico di American Doctor",
-   "summary": "Distrutto il reparto di chirurgia. L’Idf: “Hamas usa gli ospedali per attività militari”. Il gruppo nega",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/gaza_israele_bombarda_ospedale_nasser_sei_morti_anche_chirurgo_american_doctor-425720399/?rss",
-   "pub_ts": 1794575863,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/13/news/gaza_israele_bombarda_ospedale_nasser_sei_morti_anche_chirurgo_american_doctor-425720399/?rss",
-     "title": "Gaza, Israele bombarda l’ospedale Nasser: sei morti, tra loro anche il medico di American Doctor"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/episodes/ep-521-lalluvione-a-gaza-e-le-tribu-di-israele/",
-     "title": "Ep. 521 – L’alluvione a Gaza e le tribù di Israele"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/iran-trump-isola-vance-israele-colpisce-gaza-blitz-finale-ye2chj0p",
-     "title": "Iran, Trump isola Vance, Israele colpisce Gaza e medita il blitz finale"
-    }
-   ]
   }
  ],
  "articles": [
   {
-   "title": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_1de7bb19-d7ff-49ff-b146-891c95e66c11.html",
-   "description": "Dopo lo stop disposto dall'Authority dei trasporti per motivi di sicurezza",
-   "pub_ts": 1794622860,
+   "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
+   "description": "",
+   "pub_ts": 1794649932,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-   "description": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
-   "pub_ts": 1794601264,
+   "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
+   "description": "Confermato il format usato ad Abu Dhabi con due sedie in più. Salta per ora l’ipotesi del portavoce unico. Ma il Cremlino mantiene l’ambiguità",
+   "pub_ts": 1794648297,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html",
+   "description": "'Nel caso, dovrò affrontare la questione con l'opinione pubblica'",
+   "pub_ts": 1794650277,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Ciro Grillo: 'nessuna concessione, piuttosto in galera da innocente'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/ciro-grillo-nessuna-concessione-piuttosto-in-galera-da-innocente-_493a185c-4b7b-4e27-b548-0e8ddd2c6acf.html",
+   "description": "Condannato in primo grado a otto anni per uno stupro di gruppo avvenuto nel 2019 in Sardegna.",
+   "pub_ts": 1794650869,
    "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-   "description": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
-   "pub_ts": 1794609132,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Calenda scarica D'Amato ma non rompe con Gualtieri",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/calenda-no-a-ultimatum-auguro-a-damato-successo-nel-campo-largo_2c959900-15cf-4c6d-9ec5-f09fbde97552.html",
-   "description": "L'ex segretario romano di Azione torna nel Pd e lui gli augura 'successo nel campo largo'",
-   "pub_ts": 1794592831,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
-   "description": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
-   "pub_ts": 1794568692,
-   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
@@ -690,7 +617,16 @@
    "title": "Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_5cbbf8a4-fed1-4d94-826a-eb8148cd6b4e.html",
    "description": "Lo comunica la Casa Bianca. A margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
-   "pub_ts": 1794616908,
+   "pub_ts": 1794642700,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+   "description": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
+   "pub_ts": 1794640564,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -705,31 +641,40 @@
    "section": "politica"
   },
   {
-   "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/kushner-progressi-significativi-nei-negoziati-ucraina-russia_eb0bf24d-6068-4664-a627-2a8d50fdc5bf.html",
-   "description": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
-   "pub_ts": 1794599370,
-   "source": "ANSA Mondo",
+   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+   "description": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
+   "pub_ts": 1794609132,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ucraina, Europa ha scelto i rappresentanti al tavolo di pace: 5 Paesi più Commissione e Consiglio Ue. C'è anche l'Italia",
-   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-tavolo-pace-europa-italia_3bbGRTvLBqnm9O6YYU6KLA",
-   "description": "(Adnkronos) - Per Costa \"le garanzie di sicurezza devono essere affrontate nell'ambito della coalizione dei volenterosi, in stretto coordinamento con la Nato\". Questa decisione è frutto del pressing esercitato dagli Usa, oltre che dal presidente ucraino Volodymyr Zelensky, che conta sul sostegno degli europei al tavolo negoziale",
-   "pub_ts": 1794611531,
-   "source": "Adnkronos Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
-   "description": "Dietro c’è il desiderio di Trump di avere al tavolo negoziale un interlocutore affidabile",
-   "pub_ts": 1794614400,
+   "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
+   "description": "La svolta del suo partito Reform UK, dopo le accuse al leader di vicinanza a Mosca: “C’è una guerra ibrida contro Londra”. La risposta del Labour: “Finalmente se n’è accorto”",
+   "pub_ts": 1794645480,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
+  },
+  {
+   "title": "Usa, traffico aereo bloccato: “Non è il nuovo 11 settembre né un attacco hacker”",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
+   "description": "Il provvedimento arriva dopo che in alcune zone del Paese erano state segnalate interruzioni delle frequenze radio utilizzate per le comunicazioni aeronautiche. Il precedente del 2023",
+   "pub_ts": 1794644148,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_fcbd3697-9a41-4805-9a00-5c1a6949b294.html",
+   "description": "Il disservizio ha interessato oltre 70 Paesi",
+   "pub_ts": 1794647882,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "tech"
   },
   {
    "title": "Nvidia, Rene Haas contattato per la successione a Huang",
@@ -737,24 +682,6 @@
    "description": "Lo riporta il Financial Times, secondo il quale il consiglio di amministrazione dell’azienda Usa starebbe pensando all’amministratore delegato del produttore britannico di chip Arm Holdings. La lista dei candidati è lunga: dalla Ceo ad interim Colette Kress a Tim Cook",
    "pub_ts": 1794600137,
    "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Microsoft down in tutto il mondo, 'ma non è un cyberattacco'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/microsoft-down-in-tutto-il-mondo-ma-non-e-un-cyberattacco_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
-   "description": "Colpiti governi e aziende, ma anche scuole, trasporti e sanità. L'ironia sui social",
-   "pub_ts": 1794595388,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
-   "description": "Mandati in fumo oltre 500 miliardi di capitalizzazione di Borsa",
-   "pub_ts": 1794605372,
-   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "tech"
   },
@@ -768,20 +695,38 @@
    "section": "tech"
   },
   {
-   "title": "Jane Fonda esclusa dal testamento dell'ex marito Ted Turner, tycoon fondatore di Cnn",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/jane-fonda-esclusa-dal-testamento-dellex-marito-ted-turner-tycoon_52d056b8-5ceb-41de-99bc-95ea01a4b50d.html",
-   "description": "L'intero patrimonio del magnate è destinato esclusivamente ai suoi cinque figli",
-   "pub_ts": 1794594251,
+   "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_8ad2e148-60aa-4ca8-a98b-4c7753fb069b.html",
+   "description": "Il colosso aggiorna la situazione su X, 'non siamo ancora ai livelli base'",
+   "pub_ts": 1794567196,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Raiuno: programmi di sabato 14 novembre",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/13/raiuno-programmi-di-sabato-14-novembre_c886beec-421a-4627-a633-01b14fa8864f.html",
+   "description": "",
+   "pub_ts": 1794636195,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Farhadi, 'nel mondo di oggi le persone vengono sempre più disumanizzate'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/farhadi-nel-mondo-di-oggi-le-persone-vengono-sempre-piu-disumanizzate_f5cef144-b852-44a1-b74d-bdcf1fa627e6.html",
-   "description": "Dopo il debutto a Cannes, il regista iraniano in sala con Storie parallele dal 26 novembre",
-   "pub_ts": 1794593346,
+   "title": "Al Bano, 'se il Papa va a Gaza, ci vado anch'io al suo fianco'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
+   "description": "Il cantante firma l'appello al Pontefice dell'associazione 'L'Isola che non c'è'",
+   "pub_ts": 1794648929,
    "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Italia Germania, nella Basilica Palladiana di Vicenza l'arte come valore fondante dell'Europa",
+   "link": "https://www.rainews.it/video/2026/11/italia-germania-nella-basilica-palladiana-di-vicenza-larte-come-valore-fondante-delleuropa-861fbd34-a1a5-4104-a8a2-a4c91d370009.html",
+   "description": "Aperta fino al 2 maggio, è la prima di un ciclo di mostre dal titolo Ispirazione Europa, organizzato da Marsilio Arte. I prossimi anni il focus sarà su Francia e Spagna. Da Canova fino a Anselm Kiefer: due secoli di confronto e di stimoli culturali.",
+   "pub_ts": 1794649140,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "varia"
   },
@@ -795,40 +740,13 @@
    "section": "varia"
   },
   {
-   "title": "Anitta conquista il Grammy Latino con Equilibrivm",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/anitta-conquista-il-grammy-latino-con-equilibrivm_ec045ed1-db30-4e54-8f4a-2f4584da16aa.html",
-   "description": "La cantante premiata per il miglior album pop contemporaneo in portoghese",
-   "pub_ts": 1794574141,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Cyber team e sistemi 'anti-buco', Asl allertate su cybersecurity",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/ospedali_italiani/2026/11/12/ansa-focus-cyber-team-e-sistemi-anti-buco-asl-allertate-su-cybersecurity_bd7b060f-d747-457c-99c8-e4029b7c0812.html",
-   "description": "Quintavalle (Fiaso), 'vigilanza alta, ospedali preparati. Pronti anche piani evacuazione'",
-   "pub_ts": 1794572513,
+   "title": "Iss, al via borse di studio per neolaureati grazie all'evento 'Note per la ricerca'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/14/iss-al-via-borse-di-studio-per-neolaureati-grazie-allevento-note-per_dc484eb5-7d5e-46cd-a45a-f7f189daa93c.html",
+   "description": "In concerto a Roma la banda della Guardia di finanza e artisti amici del progetto",
+   "pub_ts": 1794645942,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
-  },
-  {
-   "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
-   "description": "Confermato il format usato ad Abu Dhabi con due sedie in più. Salta per ora l’ipotesi del portavoce unico. Ma il Cremlino mantiene l’ambiguità",
-   "pub_ts": 1794614820,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "cronaca"
-  },
-  {
-   "title": "Gaza, Israele bombarda l’ospedale Nasser: sei morti, tra loro anche il medico di American Doctor",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/gaza_israele_bombarda_ospedale_nasser_sei_morti_anche_chirurgo_american_doctor-425720399/?rss",
-   "description": "Distrutto il reparto di chirurgia. L’Idf: “Hamas usa gli ospedali per attività militari”. Il gruppo nega",
-   "pub_ts": 1794575863,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "cronaca"
   }
  ]
 }
