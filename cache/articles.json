@@ -1,6 +1,6 @@
 {
- "generated_at": 1794650895,
- "updated_at": 1794650895,
+ "generated_at": 1794675324,
+ "updated_at": 1794675324,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,101 +9,12 @@
  "items": [
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
-   "pub_ts": 1794649932,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
-     "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/revocato-il-blocco-dei-voli-negli-stati-uniti-decine-di-migliaia-di-passeggeri_d2a6ded1-a075-4399-8855-8bc69e436c24.html",
-     "title": "Revocato dopo 4 ore il blocco dei voli negli Stati Uniti, 'decine di migliaia di passeggeri bloccati'"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/stati-uniti-caos-voli-ritardi-cancellazioni-software-cosa-e-successo-nor4rbiv",
-     "title": "Stati Uniti, traffico aereo in tilt per 4 ore: migliaia di voli in ritardo o cancellati"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/tutti-gli-aerei-a-terra-voli-fermi-negli-stati-uniti-faa-ground-stop-bb91497f-1167-4842-81e2-e3e10f823786.html",
-     "title": "Caos nei cieli Usa, revocato lo stop dopo oltre quattro ore di paralisi: 3.000 voli cancellati"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/stop-voli-usa-revocato-cosa-e-successo-ultime-notizie_47P9GTKjc1xktl6qCn2JKm",
-     "title": "Usa, stop voli revocato dopo 4 ore: \"Abbiamo sistema di controllo del traffico aereo obsoleto\". Ecco cosa ha scatenato il caos"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/14/voli-stati-uniti-ripresi/",
-     "title": "Cos’è successo col blocco dei voli negli Stati Uniti"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/divieto-di-decollo-negli-usa-bloccati-tutti-i-voli/",
-     "title": "Caos voli negli Usa, stop revocato dopo quattro ore. Il governo: “Sistema obsoleto”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia",
-   "summary": "Confermato il format usato ad Abu Dhabi con due sedie in più. Salta per ora l’ipotesi del portavoce unico. Ma il Cremlino mantiene l’ambiguità",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
-   "pub_ts": 1794648297,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
-     "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/14/ucraina-formato-dublino-negoziati-guerra-russia-italia-meloni/",
-     "title": "Negoziati sull’Ucraina, l’Europa sceglie il «formato di Dublino»: c’è anche l’Italia al tavolo dei cinque"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/",
-     "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/europa-sette-negoziatori-consiglio-dublino-ucraina-ue-yupw4v59",
-     "title": "Ucraina e negoziati. Per l’Europa non una voce, ma sette: il pasticciaccio di Dublino"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/kallas-lue-e-i-negoziati-ucraina-non-siamo-gli-usa_4Tkne2FrlSymK3MwLXxWXk",
-     "title": "Kallas: l'Ue e i negoziati Ucraina, \"non siamo gli Usa\""
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino/",
-     "title": "L’Europa non avrà un unico rappresentante nei negoziati per l’Ucraina"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "mondo",
    "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'",
    "summary": "'Nel caso, dovrò affrontare la questione con l'opinione pubblica'",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html",
-   "pub_ts": 1794650277,
-   "n_sources": 5,
+   "pub_ts": 1794674548,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
@@ -112,14 +23,19 @@
      "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/flash/2026/11/14/-zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini-_b40be019-53e8-4bc0-9c0b-655e9ea59ff4.html",
-     "title": "++ Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini' ++"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/proposta-usa-ucraina-nato-cessione-territori-donbass-guerra-russia-kdhxzjtc",
+     "title": "Il Donbass in cambio della Nato: il rischio di una nuova Yalta"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/zelensky-mi-aspetto-il-piu-grande-scambio-di-prigionieri-della-guerra-da3923aa-aa93-4585-a55c-402470b83643.html",
-     "title": "Zelensky: \"Usa propongono adesione Nato in cambio cessione territori ucraini\""
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/14/guerra-ucraina-zelensky-negoziati-russia-ultime-notizie-14-nov/",
+     "title": "Zelensky: «Gli Usa propongono l’adesione alla Nato in cambio della cessione del Donbass. Chiederò agli ucraini»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-news-guerra-oggi-14-novembre-ultima-ora_1mJ0GfMZCWFbDYr4eDk5L8",
+     "title": "Ucraina, Zelensky: \"Usa hanno proposto adesione Nato in cambio della cessione di territori alla Russia\". Giovedì vertice Putin-Xi-Trump"
     },
     {
      "name": "la Repubblica",
@@ -127,58 +43,26 @@
      "title": "Guerra Ucraina - Russia. Zelensky: “Usa propongono adesione Nato in cambio di cessione territori”"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/zelensky-cessione-territori-ucraina-nato-notizie/8571829/",
-     "title": "Zelensky: “Gli Usa propongono la cessione di territori ucraini in cambio dell’adesione alla Nato”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Ciro Grillo: 'nessuna concessione, piuttosto in galera da innocente'",
-   "summary": "Condannato in primo grado a otto anni per uno stupro di gruppo avvenuto nel 2019 in Sardegna.",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/ciro-grillo-nessuna-concessione-piuttosto-in-galera-da-innocente-_493a185c-4b7b-4e27-b548-0e8ddd2c6acf.html",
-   "pub_ts": 1794650869,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/ciro-grillo-nessuna-concessione-piuttosto-in-galera-da-innocente-_493a185c-4b7b-4e27-b548-0e8ddd2c6acf.html",
-     "title": "Ciro Grillo: 'nessuna concessione, piuttosto in galera da innocente'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/13/ciro-grillo-intervista-telenord-processo-vs-giulia-bongiorno-video/",
-     "title": "Ciro Grillo e lo sfogo sul suo processo e il crollo del governo M5s-Lega: l’accusa «pesante» a Giulia Bongiorno – Il video"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/caso-grillo-ciro-dichiarazioni-patteggiamento-notizie/8571788/",
-     "title": "Ciro Grillo parla in tv: “Contro di me un atto di guerra. Patteggiare? Mai, preferisco andare in galera da innocente”"
-    },
-    {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/pper-la-prima-volta-parla-ciro-grillo-vado-in-galera-da-innocente-poi-lattacco-a-giulia-bongiorno/",
-     "title": "Per la prima volta parla Ciro Grillo: “Vado in galera da innocente”. Poi l’attacco a Giulia Bongiorno"
+     "link": "https://www.nicolaporro.it/ucraina-svolta-di-zelensky-donbass-in-cambio-della-nato-chiedero-al-popolo/",
+     "title": "Ucraina, svolta di Zelensky: “Donbass in cambio della Nato? Chiederò al popolo”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen",
-   "summary": "Lo comunica la Casa Bianca. A margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_5cbbf8a4-fed1-4d94-826a-eb8148cd6b4e.html",
-   "pub_ts": 1794642700,
-   "n_sources": 3,
+   "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
+   "summary": "Il portavoce Peskov: 'Raggiunto un accordo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
+   "pub_ts": 1794674760,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_5cbbf8a4-fed1-4d94-826a-eb8148cd6b4e.html",
-     "title": "Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
+     "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre"
     },
     {
      "name": "Repubblica Esteri",
@@ -186,90 +70,41 @@
      "title": "Trump, Xi e Putin: sì al trilaterale a Shenzen"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/casa-bianca-trump-discutera-di-iran-con-xi-e-putin-non-di-ucraina_864145b8-8539-4476-afaa-f64bca240844.html",
-     "title": "Casa Bianca, 'Trump discuterà di Iran con Xi e Putin, non di Ucraina'"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
-   "summary": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-   "pub_ts": 1794640564,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-     "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/meloni-segnale-di-attenzione-alla-scuola-ma-non-erano-tagli_81008142-0f7b-4f04-aca7-43de6211d8b6.html",
-     "title": "Meloni, segnale di attenzione alla scuola ma non erano tagli"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/politicoquotidiano/eh-no-meloni-che-errore-fare-dietrofront-i-tagli-alla-scuola-sono-sacrosanti/",
-     "title": "Eh no, Meloni che errore fare dietrofront: i “tagli” alla scuola sono sacrosanti"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra",
-   "summary": "Gofman vedrà Ratcliffe e altri funzionari Usa. Allarme Aiea per la centrale di Isfahan, dove si arricchisce l’uranio",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
-   "pub_ts": 1794614400,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
-     "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/capo-mossad-a-washington-mentre-netanyahu-preme-per-riprendere-guerra-iran_fd0c71d7-c824-4c19-9790-2826173612ec.html",
-     "title": "'Capo Mossad a Washington mentre Netanyahu preme per riprendere guerra Iran'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/iran-usa-ultime-news-oggi-13-novembre_6pKQ42AsbHtdMy4fYlNjvU",
-     "title": "Iran-Usa, Axios: capo Mossad a Washington mentre Netanyahu fa pressione su Trump per riprendere la guerra"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
-   "summary": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-   "pub_ts": 1794609132,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-     "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'"
-    },
-    {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/economia-finanza-rating-italia-standard-poor-s-conferma-bbb-a-2-export-compensa-dazi-6aa2ae78-b7c6-4e25-9bdd-8a587bfa79fd.html",
-     "title": "S&P conferma il rating dell’Italia a BBB+/A-2: “L’export compensa i dazi Usa”"
+     "link": "https://www.rainews.it/maratona/2026/11/zelensky-mi-aspetto-il-piu-grande-scambio-di-prigionieri-della-guerra-da3923aa-aa93-4585-a55c-402470b83643.html",
+     "title": "Il Cremlino conferma: il 19 novembre incontro trilaterale Putin-Xi-Trump a Shenzhen"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/13/sp-rating-italia-13-nov-giorgetti/",
-     "title": "Standard & Poor’s conferma il rating BBB+/A-2 dell’Italia, outlook positivo: «La crescita supererà le stime precedenti»"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/vertice-trump-putin-xi-shenzhen-nucleare-notizie/8572128/",
+     "title": "Trump, Putin e Xi: trilaterale il 19 novembre in Cina. Al centro disarmo nucleare e Iran, esclusa dal tavolo la guerra in Ucraina"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
+   "summary": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
+   "pub_ts": 1794675112,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
+     "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/14/jonathan-kreiss-tomkins-eletto-alaska-governatore/",
+     "title": "L’Alaska avrà il primo governatore Democratico dal 1998, e il più giovane della sua storia"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/elezioni-alaska-primo-governatore-dem-1998-kreiss-tomkins/8572172/",
+     "title": "In Alaska eletto per la prima volta dal 1998 un governatore democratico: è Jonathan Kreiss-Tomkins"
     }
    ]
   },
@@ -279,14 +114,19 @@
    "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”",
    "summary": "La svolta del suo partito Reform UK, dopo le accuse al leader di vicinanza a Mosca: “C’è una guerra ibrida contro Londra”. La risposta del Labour: “Finalmente se n’è accorto”",
    "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
-   "pub_ts": 1794645480,
-   "n_sources": 2,
+   "pub_ts": 1794674837,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
      "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/farage-attacca-cina-iran-e-russia-minaccia-l-occidente-AJ75muGC",
+     "title": "Farage attacca Cina, Iran e Russia: minaccia per l’Occidente"
     },
     {
      "name": "la Repubblica",
@@ -298,22 +138,147 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Usa, traffico aereo bloccato: “Non è il nuovo 11 settembre né un attacco hacker”",
-   "summary": "Il provvedimento arriva dopo che in alcune zone del Paese erano state segnalate interruzioni delle frequenze radio utilizzate per le comunicazioni aeronautiche. Il precedente del 2023",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
-   "pub_ts": 1794644148,
+   "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X",
+   "summary": "Lo scrittore americano ironizza sui social. Migliaia le reazioni",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/?rss",
+   "pub_ts": 1794670395,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/?rss",
+     "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/",
+     "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/stephen-king-alieni-aeroporti-usa-blocco_3mrZZpEi8MPJZadNbSfVF",
+     "title": "Stop voli negli Usa, Stephen King: \"Sono atterrati gli alieni\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "La Russa agli studenti: 'La volontà del popolo può essere imperfetta, ha voluto il fascismo'",
+   "summary": "Bonelli gli replica: 'Ma quale popolo, sono stati i manganelli'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/la-russa-agli-studenti-la-volonta-del-popolo-puo-essere-imperfetta-ha-voluto_c0fc433c-6015-4673-b0c0-2e56d7f0306a.html",
+   "pub_ts": 1794665473,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/la-russa-agli-studenti-la-volonta-del-popolo-puo-essere-imperfetta-ha-voluto_c0fc433c-6015-4673-b0c0-2e56d7f0306a.html",
+     "title": "La Russa agli studenti: 'La volontà del popolo può essere imperfetta, ha voluto il fascismo'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/idee/commenti/la-russa--fascismo-di-popolo-invenzioni-storiche-kdcx0hqx",
+     "title": "Il fascismo «di popolo» e le invenzioni storiche di La Russa"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/la-russa-fascismo-popolo-critiche-notizie/8571879/",
+     "title": "La Russa e il fascismo “votato dal popolo”: “Forse dovrebbe leggere qualche libro, in terza media l’avrebbero bocciato”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
+   "summary": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+   "pub_ts": 1794656194,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+     "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/manovra-governo-retromarcia-tagli-scuola-sindacati-wkgnba0d",
+     "title": "Un governo in retromarcia, saltano i tagli alla scuola"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/politicoquotidiano/eh-no-meloni-che-errore-fare-dietrofront-i-tagli-alla-scuola-sono-sacrosanti/",
+     "title": "Eh no, Meloni che errore fare dietrofront: i “tagli” alla scuola sono sacrosanti"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Ucraina: Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, il modello è il Patto di Varsavia'",
+   "summary": "Il documento: 'Si allontani da Polonia e Baltici, mappa Guerra Fredda garantiva equilibrio'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7f51d62e-b932-4ce7-873e-ed2192960bb2.html",
+   "pub_ts": 1794663373,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7f51d62e-b932-4ce7-873e-ed2192960bb2.html",
+     "title": "Ucraina: Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, il modello è il Patto di Varsavia'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7ee54d9d-98f9-41de-a1b8-76355b53a939.html",
+     "title": "Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, modello è Patto Varsavia'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "A Parma il corteo di estrema destra e la contro-manifestazione antifascista",
+   "summary": "Grande presenza di forze dell'ordine per gestire l'ordine pubblico, città blindata",
+   "link": "https://www.rainews.it/articoli/2026/11/a-parma-il-corteo-di-estrema-destra-e-la-contro-manifestazione-antifascista-a376b7ed-bc4d-45d1-a7d0-996258ef069f.html",
+   "pub_ts": 1794667800,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/a-parma-il-corteo-di-estrema-destra-e-la-contro-manifestazione-antifascista-a376b7ed-bc4d-45d1-a7d0-996258ef069f.html",
+     "title": "A Parma il corteo di estrema destra e la contro-manifestazione antifascista"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://bologna.repubblica.it/cronaca/2026/11/14/news/parma_corteo_remigrazione_antifascisti-425723382/",
+     "title": "Parma, oltre 20mila sfilano contro il corteo per la remigrazione. Guerra: “Segnale forte”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa",
+   "summary": "Dietro c’è il desiderio di Trump di avere al tavolo negoziale un interlocutore affidabile",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
+   "pub_ts": 1794614400,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
-     "title": "Usa, traffico aereo bloccato: “Non è il nuovo 11 settembre né un attacco hacker”"
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
+     "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/14/blocco-voli-stati-uniti-faa-guasto-telecomunicazioni-cosa-e-successo/",
-     "title": "Dopo quattro ore di caos riparte il traffico aereo negli Usa, escluso l’attacco hacker: «Voli bloccati per le infrastrutture obsolete». Cosa è successo"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/",
+     "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa"
     }
    ]
   },
@@ -322,14 +287,14 @@
    "area": null,
    "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
    "summary": "Il disservizio ha interessato oltre 70 Paesi",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_fcbd3697-9a41-4805-9a00-5c1a6949b294.html",
-   "pub_ts": 1794647882,
-   "n_sources": 9,
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_7cecae08-705d-4f89-ac5c-293be818c58d.html",
+   "pub_ts": 1794661923,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_fcbd3697-9a41-4805-9a00-5c1a6949b294.html",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_7cecae08-705d-4f89-ac5c-293be818c58d.html",
      "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale"
     },
     {
@@ -338,19 +303,9 @@
      "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo"
     },
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/politecnico-milano-nessun-attacco-hacker-ai-servizi-di-microsoft-possibile-guasto_ad39a9ed-eb41-4055-a2dc-0599f4eb4f18.html",
-     "title": "Politecnico Milano: 'Nessun attacco hacker ai servizi di Microsoft, possibile guasto'"
-    },
-    {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/microsoft-outlook-ripristinati-servizi-ultime-news_6Q94rH1EbRLPWEm1CQw1pY",
      "title": "Microsoft, ripristinati tutti i servizi: ecco cosa è successo"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/14/microsoft-blackout-ripristinato-servizio-outlook-cause-rischi/",
-     "title": "Così il blackout di Microsoft ha mandato in tilt il mondo per oltre 20 ore: «Ripristinati i servizi». Cos’è successo e perché può ripetersi"
     },
     {
      "name": "Punto Informatico",
@@ -361,11 +316,6 @@
      "name": "Domani",
      "link": "https://www.editorialedomani.it/tecnologia/guasto-di-microsoft-email-disservizi-in-tutto-il-mondo-ripristino-non-e-un-attacco-haker-ca2jbhg7",
      "title": "Microsoft, il ripristino dà i primi risultati positivi dopo il down globale"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/blackout-microsoft-servizi-ripristinati-notizie/8571783/",
-     "title": "Microsoft: “Ripristinati tutti i servizi. Il blackout causato da un aggiornamento della rete, escluso l’attacco hacker””"
     },
     {
      "name": "Nicola Porro",
@@ -381,7 +331,7 @@
    "summary": "Lo riporta il Financial Times, secondo il quale il consiglio di amministrazione dell’azienda Usa starebbe pensando all’amministratore delegato del produttore britannico di chip Arm Holdings. La lista dei candidati è lunga: dalla Ceo ad interim Colette Kress a Tim Cook",
    "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
    "pub_ts": 1794600137,
-   "n_sources": 6,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -400,19 +350,9 @@
      "title": "Chi guiderà Nvidia dopo Jensen Huang? I candidati alla successione e le ragioni della scelta"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/",
-     "title": "Nvidia, Rene Haas contattato per la successione a Huang"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/13/jensen-huang/",
      "title": "Jensen Huang prima di tutto questo"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/fuori-jensen-huang-quale-impatto-sulla-corsa-usa-cina-allia/",
-     "title": "Fuori Jensen Huang, quale impatto sulla corsa Usa-Cina all’IA?"
     }
    ]
   },
@@ -463,27 +403,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Raiuno: programmi di sabato 14 novembre",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/13/raiuno-programmi-di-sabato-14-novembre_c886beec-421a-4627-a633-01b14fa8864f.html",
-   "pub_ts": 1794636195,
-   "n_sources": 3,
+   "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
+   "summary": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
+   "pub_ts": 1794663765,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/13/raiuno-programmi-di-sabato-14-novembre_c886beec-421a-4627-a633-01b14fa8864f.html",
-     "title": "Raiuno: programmi di sabato 14 novembre"
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
+     "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/14/sabato-14-novembre-3/",
-     "title": "Sabato 14 novembre"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/photogallery/2026/11/fotorassegna-stampa-le-prime-pagine-dei-quotidiani-di-sabato-14-novembre-e762e9f1-c3aa-4df5-a220-9149b21a0e54.html",
-     "title": "Fotorassegna stampa, le prime pagine dei quotidiani di sabato 14 novembre"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/nomi-archistar-gara-ampliamento-galleria-borghese-roma_3qy7VkMSEdQ4PTfZuwWbcf",
+     "title": "Galleria Borghese, da Siza a Chipperfield e Fuksas: le archistar in gara per l'ampliamento"
     }
    ],
    "subtype": "cultura"
@@ -491,22 +426,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Al Bano, 'se il Papa va a Gaza, ci vado anch'io al suo fianco'",
-   "summary": "Il cantante firma l'appello al Pontefice dell'associazione 'L'Isola che non c'è'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
-   "pub_ts": 1794648929,
+   "title": "Torna Orfeo Week 2026, tra gli ospiti Mancuso, Saturnino, Arminio, Campaner e Gualazzi",
+   "summary": "Dal 21 al 29 novembre a Lodi, musica, poesia, teatro, radio, scienza e formazione",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/12/torna-orfeo-week-2026-tra-gli-ospiti-mancuso-saturnino-arminio_1c23b96c-26f1-4eb6-9507-dbc8c49d8c86.html",
+   "pub_ts": 1794661290,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
-     "title": "Al Bano, 'se il Papa va a Gaza, ci vado anch'io al suo fianco'"
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/12/torna-orfeo-week-2026-tra-gli-ospiti-mancuso-saturnino-arminio_1c23b96c-26f1-4eb6-9507-dbc8c49d8c86.html",
+     "title": "Torna Orfeo Week 2026, tra gli ospiti Mancuso, Saturnino, Arminio, Campaner e Gualazzi"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/se-mi-danno-la-possibilita-vado-anche-io-insieme-a-papa-leone-a-gaza-al-bano-sottoscrive-lappello-per-una-missione-di-pace-in-palestina/8571764/",
-     "title": "“Se mi danno la possibilità, vado anche io insieme a Papa Leone a Gaza”: Al Bano sottoscrive l’appello per una missione di pace in Palestina"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/rubriche/tg2week-end/video/2026/11/TG2-Week-End-del-14112026-3a96ae70-3102-45d5-bbc4-db02e32864ef.html",
+     "title": "TG2 Week End del 14/11/2026"
     }
    ],
    "subtype": "cultura"
@@ -514,22 +449,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Italia Germania, nella Basilica Palladiana di Vicenza l'arte come valore fondante dell'Europa",
-   "summary": "Aperta fino al 2 maggio, è la prima di un ciclo di mostre dal titolo Ispirazione Europa, organizzato da Marsilio Arte. I prossimi anni il focus sarà su Francia e Spagna. Da Canova fino a Anselm Kiefer: due secoli di confronto e di stimoli culturali.",
-   "link": "https://www.rainews.it/video/2026/11/italia-germania-nella-basilica-palladiana-di-vicenza-larte-come-valore-fondante-delleuropa-861fbd34-a1a5-4104-a8a2-a4c91d370009.html",
-   "pub_ts": 1794649140,
+   "title": ">>>ANSA/ Anna Marchesini, a dieci anni dalla morte entra nella Treccani",
+   "summary": "la voce nel Dizionario biografico e tematico delle donne",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/14/ansa-anna-marchesini-a-dieci-anni-dalla-morte-entra-nella-treccani_82cc7d61-6de2-431e-86ef-d41f4d2ff894.html",
+   "pub_ts": 1794653760,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/italia-germania-nella-basilica-palladiana-di-vicenza-larte-come-valore-fondante-delleuropa-861fbd34-a1a5-4104-a8a2-a4c91d370009.html",
-     "title": "Italia Germania, nella Basilica Palladiana di Vicenza l'arte come valore fondante dell'Europa"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/14/ansa-anna-marchesini-a-dieci-anni-dalla-morte-entra-nella-treccani_82cc7d61-6de2-431e-86ef-d41f4d2ff894.html",
+     "title": ">>>ANSA/ Anna Marchesini, a dieci anni dalla morte entra nella Treccani"
     },
     {
-     "name": "Sole 24 Ore Cultura",
-     "link": "https://www.ilsole24ore.com/art/da-canova-kiefer-vicenza-due-secoli-d-arte-confronto-AJBHhjFC",
-     "title": "Da Canova a Kiefer, a Vicenza due secoli d’arte a confronto"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/anna-marchesini-entra-nel-dizionario-treccani-mille-volti-tra-ironia-e-malinconia-51c711f8-39f4-419f-9f6c-d2f82a030ba2.html",
+     "title": "Anna Marchesini entra nel Dizionario Treccani: mille volti tra ironia e malinconia"
     }
    ],
    "subtype": "cultura"
@@ -560,92 +495,79 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Iss, al via borse di studio per neolaureati grazie all'evento 'Note per la ricerca'",
-   "summary": "In concerto a Roma la banda della Guardia di finanza e artisti amici del progetto",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/14/iss-al-via-borse-di-studio-per-neolaureati-grazie-allevento-note-per_dc484eb5-7d5e-46cd-a45a-f7f189daa93c.html",
-   "pub_ts": 1794645942,
+   "title": "Sei oncologi su 10 malati di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia",
+   "summary": "Aiom, Per 54% anche scarso accesso a supporto psicologico e per 64% aggressioni verbali",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
+   "pub_ts": 1794671301,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/14/iss-al-via-borse-di-studio-per-neolaureati-grazie-allevento-note-per_dc484eb5-7d5e-46cd-a45a-f7f189daa93c.html",
-     "title": "Iss, al via borse di studio per neolaureati grazie all'evento 'Note per la ricerca'"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
+     "title": "Sei oncologi su 10 malati di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia"
     }
    ],
    "subtype": "scienza"
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Scontro tra due auto in galleria, 4 morti e una ferita grave nel Cosentino",
+   "summary": "L'incidente è avvenuto sulla statale 107",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-4-morti-e-una-ferita-grave-nel_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
+   "pub_ts": 1794674639,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-4-morti-e-una-ferita-grave-nel_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
+     "title": "Scontro tra due auto in galleria, 4 morti e una ferita grave nel Cosentino"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
+     "title": "Scontro tra due auto in galleria, cinque morti nel Cosentino"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/cosenza-scontro-tra-due-auto-in-galleria-a-san-fili-quattro-vittime-e-un-ferito-grave-96316251-7ed8-4512-b53e-c1194aa06afe.html",
+     "title": "Scontro tra due auto in galleria a San Fili: vittime tre donne e un uomo, una ferita gravissima"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/incidente-galleria-san-fili-cinque-vittime-notizie/8572149/",
+     "title": "Scontro frontale tra due auto in galleria nel Cosentino: morti quattro donne e un uomo"
+    }
+   ]
   }
  ],
  "articles": [
   {
-   "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
-   "description": "",
-   "pub_ts": 1794649932,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
-   "description": "Confermato il format usato ad Abu Dhabi con due sedie in più. Salta per ora l’ipotesi del portavoce unico. Ma il Cremlino mantiene l’ambiguità",
-   "pub_ts": 1794648297,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html",
    "description": "'Nel caso, dovrò affrontare la questione con l'opinione pubblica'",
-   "pub_ts": 1794650277,
+   "pub_ts": 1794674548,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ciro Grillo: 'nessuna concessione, piuttosto in galera da innocente'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/ciro-grillo-nessuna-concessione-piuttosto-in-galera-da-innocente-_493a185c-4b7b-4e27-b548-0e8ddd2c6acf.html",
-   "description": "Condannato in primo grado a otto anni per uno stupro di gruppo avvenuto nel 2019 in Sardegna.",
-   "pub_ts": 1794650869,
-   "source": "ANSA",
+   "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
+   "description": "Il portavoce Peskov: 'Raggiunto un accordo'",
+   "pub_ts": 1794674760,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_5cbbf8a4-fed1-4d94-826a-eb8148cd6b4e.html",
-   "description": "Lo comunica la Casa Bianca. A margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
-   "pub_ts": 1794642700,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-   "description": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
-   "pub_ts": 1794640564,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
-   "description": "Gofman vedrà Ratcliffe e altri funzionari Usa. Allarme Aiea per la centrale di Isfahan, dove si arricchisce l’uranio",
-   "pub_ts": 1794614400,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-   "description": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
-   "pub_ts": 1794609132,
-   "source": "ANSA",
+   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
+   "description": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
+   "pub_ts": 1794675112,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -653,25 +575,70 @@
    "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”",
    "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
    "description": "La svolta del suo partito Reform UK, dopo le accuse al leader di vicinanza a Mosca: “C’è una guerra ibrida contro Londra”. La risposta del Labour: “Finalmente se n’è accorto”",
-   "pub_ts": 1794645480,
+   "pub_ts": 1794674837,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Usa, traffico aereo bloccato: “Non è il nuovo 11 settembre né un attacco hacker”",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
-   "description": "Il provvedimento arriva dopo che in alcune zone del Paese erano state segnalate interruzioni delle frequenze radio utilizzate per le comunicazioni aeronautiche. Il precedente del 2023",
-   "pub_ts": 1794644148,
+   "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/?rss",
+   "description": "Lo scrittore americano ironizza sui social. Migliaia le reazioni",
+   "pub_ts": 1794670395,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La Russa agli studenti: 'La volontà del popolo può essere imperfetta, ha voluto il fascismo'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/la-russa-agli-studenti-la-volonta-del-popolo-puo-essere-imperfetta-ha-voluto_c0fc433c-6015-4673-b0c0-2e56d7f0306a.html",
+   "description": "Bonelli gli replica: 'Ma quale popolo, sono stati i manganelli'",
+   "pub_ts": 1794665473,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+   "description": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
+   "pub_ts": 1794656194,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Ucraina: Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, il modello è il Patto di Varsavia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7f51d62e-b932-4ce7-873e-ed2192960bb2.html",
+   "description": "Il documento: 'Si allontani da Polonia e Baltici, mappa Guerra Fredda garantiva equilibrio'",
+   "pub_ts": 1794663373,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "A Parma il corteo di estrema destra e la contro-manifestazione antifascista",
+   "link": "https://www.rainews.it/articoli/2026/11/a-parma-il-corteo-di-estrema-destra-e-la-contro-manifestazione-antifascista-a376b7ed-bc4d-45d1-a7d0-996258ef069f.html",
+   "description": "Grande presenza di forze dell'ordine per gestire l'ordine pubblico, città blindata",
+   "pub_ts": 1794667800,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
+   "description": "Dietro c’è il desiderio di Trump di avere al tavolo negoziale un interlocutore affidabile",
+   "pub_ts": 1794614400,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
    "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_fcbd3697-9a41-4805-9a00-5c1a6949b294.html",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_7cecae08-705d-4f89-ac5c-293be818c58d.html",
    "description": "Il disservizio ha interessato oltre 70 Paesi",
-   "pub_ts": 1794647882,
+   "pub_ts": 1794661923,
    "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
@@ -704,29 +671,29 @@
    "section": "tech"
   },
   {
-   "title": "Raiuno: programmi di sabato 14 novembre",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/13/raiuno-programmi-di-sabato-14-novembre_c886beec-421a-4627-a633-01b14fa8864f.html",
-   "description": "",
-   "pub_ts": 1794636195,
+   "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
+   "description": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
+   "pub_ts": 1794663765,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Al Bano, 'se il Papa va a Gaza, ci vado anch'io al suo fianco'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
-   "description": "Il cantante firma l'appello al Pontefice dell'associazione 'L'Isola che non c'è'",
-   "pub_ts": 1794648929,
+   "title": "Torna Orfeo Week 2026, tra gli ospiti Mancuso, Saturnino, Arminio, Campaner e Gualazzi",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/12/torna-orfeo-week-2026-tra-gli-ospiti-mancuso-saturnino-arminio_1c23b96c-26f1-4eb6-9507-dbc8c49d8c86.html",
+   "description": "Dal 21 al 29 novembre a Lodi, musica, poesia, teatro, radio, scienza e formazione",
+   "pub_ts": 1794661290,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Italia Germania, nella Basilica Palladiana di Vicenza l'arte come valore fondante dell'Europa",
-   "link": "https://www.rainews.it/video/2026/11/italia-germania-nella-basilica-palladiana-di-vicenza-larte-come-valore-fondante-delleuropa-861fbd34-a1a5-4104-a8a2-a4c91d370009.html",
-   "description": "Aperta fino al 2 maggio, è la prima di un ciclo di mostre dal titolo Ispirazione Europa, organizzato da Marsilio Arte. I prossimi anni il focus sarà su Francia e Spagna. Da Canova fino a Anselm Kiefer: due secoli di confronto e di stimoli culturali.",
-   "pub_ts": 1794649140,
-   "source": "Rai News",
+   "title": ">>>ANSA/ Anna Marchesini, a dieci anni dalla morte entra nella Treccani",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/14/ansa-anna-marchesini-a-dieci-anni-dalla-morte-entra-nella-treccani_82cc7d61-6de2-431e-86ef-d41f4d2ff894.html",
+   "description": "la voce nel Dizionario biografico e tematico delle donne",
+   "pub_ts": 1794653760,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
@@ -740,13 +707,22 @@
    "section": "varia"
   },
   {
-   "title": "Iss, al via borse di studio per neolaureati grazie all'evento 'Note per la ricerca'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/14/iss-al-via-borse-di-studio-per-neolaureati-grazie-allevento-note-per_dc484eb5-7d5e-46cd-a45a-f7f189daa93c.html",
-   "description": "In concerto a Roma la banda della Guardia di finanza e artisti amici del progetto",
-   "pub_ts": 1794645942,
+   "title": "Sei oncologi su 10 malati di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
+   "description": "Aiom, Per 54% anche scarso accesso a supporto psicologico e per 64% aggressioni verbali",
+   "pub_ts": 1794671301,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
+  },
+  {
+   "title": "Scontro tra due auto in galleria, 4 morti e una ferita grave nel Cosentino",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-4-morti-e-una-ferita-grave-nel_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
+   "description": "L'incidente è avvenuto sulla statale 107",
+   "pub_ts": 1794674639,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "cronaca"
   }
  ]
 }
