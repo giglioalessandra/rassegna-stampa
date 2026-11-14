@@ -1,6 +1,6 @@
 {
- "generated_at": 1794675324,
- "updated_at": 1794675324,
+ "generated_at": 1794691006,
+ "updated_at": 1794691006,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,37 +10,42 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'",
-   "summary": "'Nel caso, dovrò affrontare la questione con l'opinione pubblica'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html",
-   "pub_ts": 1794674548,
-   "n_sources": 6,
+   "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
+   "summary": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
+   "pub_ts": 1794683468,
+   "n_sources": 7,
    "documented": true,
    "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
+     "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
+     "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass'"
+    },
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html",
      "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/proposta-usa-ucraina-nato-cessione-territori-donbass-guerra-russia-kdhxzjtc",
-     "title": "Il Donbass in cambio della Nato: il rischio di una nuova Yalta"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/",
+     "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/14/guerra-ucraina-zelensky-negoziati-russia-ultime-notizie-14-nov/",
-     "title": "Zelensky: «Gli Usa propongono l’adesione alla Nato in cambio della cessione del Donbass. Chiederò agli ucraini»"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/il-donbass-a-mosca-in-cambio-della-nato-la-proposta-degli-stati-uniti-allucraina-mzalwb5z",
+     "title": "«Il Donbass a Mosca in cambio della Nato». La proposta degli Stati Uniti all’Ucraina"
     },
     {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-news-guerra-oggi-14-novembre-ultima-ora_1mJ0GfMZCWFbDYr4eDk5L8",
      "title": "Ucraina, Zelensky: \"Usa hanno proposto adesione Nato in cambio della cessione di territori alla Russia\". Giovedì vertice Putin-Xi-Trump"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/diretta/guerra_ucraina_russia_news_oggi-425722502/",
-     "title": "Guerra Ucraina - Russia. Zelensky: “Usa propongono adesione Nato in cambio di cessione territori”"
     },
     {
      "name": "Nicola Porro",
@@ -51,11 +56,43 @@
   },
   {
    "category": "politica",
+   "area": "italia",
+   "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'",
+   "summary": "Stallo con Eisenkot, all'oscuro di missione Mossad in Usa. Monito Ue su inferno Gaza",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
+   "pub_ts": 1794690461,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
+     "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
+     "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
+     "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/14/netanyahu-governo-unita-nazionale-scontro-eisenkot/",
+     "title": "Netanyahu vuole un governo di unità nazionale e la guerra all’Iran «una volta per tutte». Il muro di Eisenkot e i sospetti: «Vuole restare al potere»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "mondo",
    "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
    "summary": "Il portavoce Peskov: 'Raggiunto un accordo'",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
-   "pub_ts": 1794674760,
+   "pub_ts": 1794686640,
    "n_sources": 4,
    "documented": true,
    "sources": [
@@ -84,13 +121,18 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
-   "summary": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
-   "pub_ts": 1794675112,
-   "n_sources": 3,
+   "title": "Kreiss-Tomkins sbanca l'Alaska, primo governatore dem dal 1998",
+   "summary": "Per il Senato Peltola consolida il vantaggio sul repubblicano uscente Sullivan",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/kreiss-tomkins-sbanca-lalaska-primo-governatore-dem-dal-1998_3cdbfc15-79fd-424a-ae76-146dba306eed.html",
+   "pub_ts": 1794677970,
+   "n_sources": 4,
    "documented": true,
    "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/kreiss-tomkins-sbanca-lalaska-primo-governatore-dem-dal-1998_3cdbfc15-79fd-424a-ae76-146dba306eed.html",
+     "title": "Kreiss-Tomkins sbanca l'Alaska, primo governatore dem dal 1998"
+    },
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
@@ -111,22 +153,27 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”",
-   "summary": "La svolta del suo partito Reform UK, dopo le accuse al leader di vicinanza a Mosca: “C’è una guerra ibrida contro Londra”. La risposta del Labour: “Finalmente se n’è accorto”",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
-   "pub_ts": 1794674837,
-   "n_sources": 3,
+   "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'",
+   "summary": "Il leader dell'ultradestra si riallinea all'establishment e affida il dossier a un falco",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
+   "pub_ts": 1794677675,
+   "n_sources": 4,
    "documented": true,
    "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
+     "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/farage-suggella-la-rottura-con-putin-mosca-e-minacca-numero-1-per-gb_6d53f2ff-51ca-4dc1-840a-194cdf7a2504.html",
+     "title": "Farage suggella la rottura con Putin, 'Mosca è minacca numero 1 per Gb'"
+    },
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
      "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/farage-attacca-cina-iran-e-russia-minaccia-l-occidente-AJ75muGC",
-     "title": "Farage attacca Cina, Iran e Russia: minaccia per l’Occidente"
     },
     {
      "name": "la Repubblica",
@@ -138,21 +185,53 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X",
-   "summary": "Lo scrittore americano ironizza sui social. Migliaia le reazioni",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/?rss",
-   "pub_ts": 1794670395,
+   "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
+   "pub_ts": 1794675004,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
+     "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/14/stati-uniti-problemi-voli-cancellati-ritardi/",
+     "title": "Ci sono ancora problemi con i voli negli Stati Uniti"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/stati-uniti-caos-voli-ritardi-cancellazioni-software-cosa-e-successo-nor4rbiv",
+     "title": "Stati Uniti, traffico aereo in tilt per 4 ore: migliaia di voli in ritardo o cancellati"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/stop-voli-usa-revocato-cosa-e-successo-ultime-notizie_47P9GTKjc1xktl6qCn2JKm",
+     "title": "Usa, tilt al traffico aereo: oltre 16mila voli cancellati. Duffy: \"Guasto durante il passaggio dal rame alla fibra\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'",
+   "summary": "Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
+   "pub_ts": 1794679758,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/?rss",
-     "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
+     "title": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/",
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/?rss",
      "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X"
     },
     {
@@ -165,45 +244,57 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "La Russa agli studenti: 'La volontà del popolo può essere imperfetta, ha voluto il fascismo'",
-   "summary": "Bonelli gli replica: 'Ma quale popolo, sono stati i manganelli'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/la-russa-agli-studenti-la-volonta-del-popolo-puo-essere-imperfetta-ha-voluto_c0fc433c-6015-4673-b0c0-2e56d7f0306a.html",
-   "pub_ts": 1794665473,
-   "n_sources": 3,
+   "title": "\"Eliminare Zelensky\", Russia pronta a colpire il presidente ucraino: il retroscena",
+   "summary": "(Adnkronos) - La decisione sarebbe stata presa durante una riunione del Consiglio di sicurezza russo, guidato dal presidente Vladimir Putin",
+   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-ordine-uccidere-zelensky_4OyuJoh9W9jnrSo7fnwzWC",
+   "pub_ts": 1794678813,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/la-russa-agli-studenti-la-volonta-del-popolo-puo-essere-imperfetta-ha-voluto_c0fc433c-6015-4673-b0c0-2e56d7f0306a.html",
-     "title": "La Russa agli studenti: 'La volontà del popolo può essere imperfetta, ha voluto il fascismo'"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/idee/commenti/la-russa--fascismo-di-popolo-invenzioni-storiche-kdcx0hqx",
-     "title": "Il fascismo «di popolo» e le invenzioni storiche di La Russa"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-ordine-uccidere-zelensky_4OyuJoh9W9jnrSo7fnwzWC",
+     "title": "\"Eliminare Zelensky\", Russia pronta a colpire il presidente ucraino: il retroscena"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/la-russa-fascismo-popolo-critiche-notizie/8571879/",
-     "title": "La Russa e il fascismo “votato dal popolo”: “Forse dovrebbe leggere qualche libro, in terza media l’avrebbero bocciato”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/russia-via-libera-morte-zelensky-consiglio-sicurezza/8572275/",
+     "title": "“Per la Russia via libera all’uccisione di Zelensky e dei vertici politico-militari di Kiev”: la decisione durante il Consiglio di sicurezza"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
-   "summary": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-   "pub_ts": 1794656194,
-   "n_sources": 3,
+   "title": "Schlein dice no ad Atreju: «Confronto in parlamento, agli italiani non serve una festa ma riscrivere la manovra»",
+   "summary": "Al Nazareno arriva l’invito alla kermesse di Fratelli d’Italia, in programma a Roma dal 3 dicembre. Ma anche quest’anno la segretaria Pd declina. Lo scorso anno si era resa disponibile a salire sul palco, ma solo per un faccia a faccia con la premier. Che aveva rilanciato: dibattito a tre, anche con Conte, perché il centrosinistra non ha un leader riconosciuto. Il presidente M5s alla fine aveva…",
+   "link": "https://www.editorialedomani.it/politica/italia/schlein-no-atreju-meloni-confronto-in-parlamento-f031216v",
+   "pub_ts": 1794648632,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-     "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/schlein-no-atreju-meloni-confronto-in-parlamento-f031216v",
+     "title": "Schlein dice no ad Atreju: «Confronto in parlamento, agli italiani non serve una festa ma riscrivere la manovra»"
     },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/politicoquotidiano/no-ad-atreju-schlein-scappa-da-meloni-ma-di-cosa-ha-paura/",
+     "title": "“No ad Atreju”: Schlein scappa da Meloni. Ma di cosa ha paura?"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Un governo in retromarcia, saltano i tagli alla scuola",
+   "summary": "Tradite le promesse di Matteo Salvini sulle infrastrutture. I cantieri rischiano di chiudere. Meloni difende la legge: «Potere d’acquisto rafforzato». Per Eurostat il Pil italiano è fermo. La cgil conferma lo sciopero del 20 novembre",
+   "link": "https://www.editorialedomani.it/politica/italia/manovra-governo-retromarcia-tagli-scuola-sindacati-wkgnba0d",
+   "pub_ts": 1794647361,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
     {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/italia/manovra-governo-retromarcia-tagli-scuola-sindacati-wkgnba0d",
@@ -211,111 +302,30 @@
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/politicoquotidiano/eh-no-meloni-che-errore-fare-dietrofront-i-tagli-alla-scuola-sono-sacrosanti/",
-     "title": "Eh no, Meloni che errore fare dietrofront: i “tagli” alla scuola sono sacrosanti"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Ucraina: Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, il modello è il Patto di Varsavia'",
-   "summary": "Il documento: 'Si allontani da Polonia e Baltici, mappa Guerra Fredda garantiva equilibrio'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7f51d62e-b932-4ce7-873e-ed2192960bb2.html",
-   "pub_ts": 1794663373,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7f51d62e-b932-4ce7-873e-ed2192960bb2.html",
-     "title": "Ucraina: Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, il modello è il Patto di Varsavia'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7ee54d9d-98f9-41de-a1b8-76355b53a939.html",
-     "title": "Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, modello è Patto Varsavia'"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "A Parma il corteo di estrema destra e la contro-manifestazione antifascista",
-   "summary": "Grande presenza di forze dell'ordine per gestire l'ordine pubblico, città blindata",
-   "link": "https://www.rainews.it/articoli/2026/11/a-parma-il-corteo-di-estrema-destra-e-la-contro-manifestazione-antifascista-a376b7ed-bc4d-45d1-a7d0-996258ef069f.html",
-   "pub_ts": 1794667800,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/a-parma-il-corteo-di-estrema-destra-e-la-contro-manifestazione-antifascista-a376b7ed-bc4d-45d1-a7d0-996258ef069f.html",
-     "title": "A Parma il corteo di estrema destra e la contro-manifestazione antifascista"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://bologna.repubblica.it/cronaca/2026/11/14/news/parma_corteo_remigrazione_antifascisti-425723382/",
-     "title": "Parma, oltre 20mila sfilano contro il corteo per la remigrazione. Guerra: “Segnale forte”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa",
-   "summary": "Dietro c’è il desiderio di Trump di avere al tavolo negoziale un interlocutore affidabile",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
-   "pub_ts": 1794614400,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
-     "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/",
-     "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa"
+     "link": "https://www.nicolaporro.it/zuppa-di-porro/zuppa-di-porro-del-14-novembre-2026/",
+     "title": "Tagli alla scuola: una cosa buona aveva fatto il governo ma se la rimangia"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
-   "summary": "Il disservizio ha interessato oltre 70 Paesi",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_7cecae08-705d-4f89-ac5c-293be818c58d.html",
-   "pub_ts": 1794661923,
-   "n_sources": 6,
+   "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
+   "summary": "Messaggi da account sospetti. Salvini: 'Ci insultano'. Non si parli di hacker russi",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
+   "pub_ts": 1794682743,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_7cecae08-705d-4f89-ac5c-293be818c58d.html",
-     "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale"
-    },
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/microsoft_down_outlook_cosa_successo-425720300/?rss",
-     "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/microsoft-outlook-ripristinati-servizi-ultime-news_6Q94rH1EbRLPWEm1CQw1pY",
-     "title": "Microsoft, ripristinati tutti i servizi: ecco cosa è successo"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
+     "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down"
     },
     {
      "name": "Punto Informatico",
      "link": "https://www.punto-informatico.it/down-microsoft-fax/",
      "title": "Il down di Microsoft ha riportato in vita i fax"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/tecnologia/guasto-di-microsoft-email-disservizi-in-tutto-il-mondo-ripristino-non-e-un-attacco-haker-ca2jbhg7",
-     "title": "Microsoft, il ripristino dà i primi risultati positivi dopo il down globale"
     },
     {
      "name": "Nicola Porro",
@@ -327,22 +337,71 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo",
+   "summary": "Un guasto all'infrastruttura Microsoft ha provocato interruzioni e rallentamenti dei servizi digitali in numerosi Paesi, Italia compresa. Coinvolti Outlook, Teams, Copilot e diverse applicazioni utilizzate da imprese e pubbliche amministrazioni. La società è al lavoro per...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/microsoft_down_outlook_cosa_successo-425720300/?rss",
+   "pub_ts": 1794681300,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/microsoft_down_outlook_cosa_successo-425720300/?rss",
+     "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/il-black-out-aereo-negli-usa-cosa-e-successo-bf4fa9f5-53c7-4ba5-b0ea-85edcd06be77.html",
+     "title": "Il black out aereo negli Usa: cosa è successo?"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/microsoft-outlook-ripristinati-servizi-ultime-news_6Q94rH1EbRLPWEm1CQw1pY",
+     "title": "Microsoft, ripristinati tutti i servizi: ecco cosa è successo"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso",
+   "summary": "Sanzione da 805 milioni per l'uso di foto \"non autorizzato dell'utente\" su Facebook",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
+   "pub_ts": 1794680162,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
+     "title": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/accesso-foto-video-senza-consenso-multa-805-milioni-meta/",
+     "title": "Accesso a foto e video senza consenso, multa di 805 milioni a Meta"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/14/garante-privacy-multa-meta-805-euro-facebook-foto-galleria-android/",
+     "title": "Il Garante della Privacy ha multato Meta per 805 milioni di euro per l’accesso alle foto sugli smartphone senza il consenso delle persone"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "Nvidia, Rene Haas contattato per la successione a Huang",
    "summary": "Lo riporta il Financial Times, secondo il quale il consiglio di amministrazione dell’azienda Usa starebbe pensando all’amministratore delegato del produttore britannico di chip Arm Holdings. La lista dei candidati è lunga: dalla Ceo ad interim Colette Kress a Tim Cook",
    "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
    "pub_ts": 1794600137,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
      "title": "Nvidia, Rene Haas contattato per la successione a Huang"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/ft-nvidia-ha-contattato-il-ceo-di-arm-rene-haas-per-il-dopo-huang_e92c57ea-9662-4094-9ab1-9c7b977625e3.html",
-     "title": "Ft, Nvidia ha contattato il ceo di Arm, Rene Haas, per il dopo Huang"
     },
     {
      "name": "Repubblica Tecnologia",
@@ -353,50 +412,6 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/13/jensen-huang/",
      "title": "Jensen Huang prima di tutto questo"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
-   "summary": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
-   "pub_ts": 1794587335,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
-     "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down"
-    },
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_237e2ab2-4aff-4713-9398-ae1b59ecd750.html",
-     "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'",
-   "summary": "Il colosso aggiorna la situazione su X, 'non siamo ancora ai livelli base'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_8ad2e148-60aa-4ca8-a98b-4c7753fb069b.html",
-   "pub_ts": 1794567196,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_8ad2e148-60aa-4ca8-a98b-4c7753fb069b.html",
-     "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_3ce53cd2-06ae-488b-9a9a-c45d1e3d9f3d.html",
-     "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'"
     }
    ]
   },
@@ -449,29 +464,6 @@
   {
    "category": "varia",
    "area": null,
-   "title": ">>>ANSA/ Anna Marchesini, a dieci anni dalla morte entra nella Treccani",
-   "summary": "la voce nel Dizionario biografico e tematico delle donne",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/14/ansa-anna-marchesini-a-dieci-anni-dalla-morte-entra-nella-treccani_82cc7d61-6de2-431e-86ef-d41f4d2ff894.html",
-   "pub_ts": 1794653760,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/14/ansa-anna-marchesini-a-dieci-anni-dalla-morte-entra-nella-treccani_82cc7d61-6de2-431e-86ef-d41f4d2ff894.html",
-     "title": ">>>ANSA/ Anna Marchesini, a dieci anni dalla morte entra nella Treccani"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/anna-marchesini-entra-nel-dizionario-treccani-mille-volti-tra-ironia-e-malinconia-51c711f8-39f4-419f-9f6c-d2f82a030ba2.html",
-     "title": "Anna Marchesini entra nel Dizionario Treccani: mille volti tra ironia e malinconia"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
    "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna",
    "summary": "E' il primo trapianto renale robotico da donatore vivente eseguito dall'Asufc",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
@@ -495,6 +487,24 @@
   {
    "category": "varia",
    "area": null,
+   "title": "Agli EFA 2027 testa a testa tra Fatherland e La bola negra",
+   "summary": "Premiazione il 16 gennaio ad Atene",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/14/agli-efa-2027-testa-a-testa-tra-fatherland-e-la-bola-negra_8ba79f60-a74e-45c0-bfb0-0e956808da89.html",
+   "pub_ts": 1794677807,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/14/agli-efa-2027-testa-a-testa-tra-fatherland-e-la-bola-negra_8ba79f60-a74e-45c0-bfb0-0e956808da89.html",
+     "title": "Agli EFA 2027 testa a testa tra Fatherland e La bola negra"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
    "title": "Sei oncologi su 10 malati di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia",
    "summary": "Aiom, Per 54% anche scarso accesso a supporto psicologico e per 64% aggressioni verbali",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
@@ -513,18 +523,13 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Scontro tra due auto in galleria, 4 morti e una ferita grave nel Cosentino",
-   "summary": "L'incidente è avvenuto sulla statale 107",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-4-morti-e-una-ferita-grave-nel_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
-   "pub_ts": 1794674639,
+   "title": "Scontro tra due auto in galleria, cinque morti nel Cosentino",
+   "summary": "Morti tutti gli occupanti dei veicoli, l'impatto in una curva",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
+   "pub_ts": 1794688440,
    "n_sources": 4,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-4-morti-e-una-ferita-grave-nel_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
-     "title": "Scontro tra due auto in galleria, 4 morti e una ferita grave nel Cosentino"
-    },
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
@@ -532,8 +537,13 @@
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/cosenza-scontro-tra-due-auto-in-galleria-a-san-fili-quattro-vittime-e-un-ferito-grave-96316251-7ed8-4512-b53e-c1194aa06afe.html",
-     "title": "Scontro tra due auto in galleria a San Fili: vittime tre donne e un uomo, una ferita gravissima"
+     "link": "https://www.rainews.it/video/2026/11/scontro-tra-due-auto-un-cumulo-di-lamiere-in-galleria-morti-tutti-gli-occupanti-dei-veicoli-37dbcc18-45a0-4998-876a-2bc95197598c.html",
+     "title": "Scontro tra due auto: un cumulo di lamiere in galleria. Morti tutti gli occupanti dei veicoli"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/14/incidente-san-fili-galleria-chi-sono-vittime/",
+     "title": "Tragico incidente nel Cosentino, cinque morti: l’imprenditore Alfredo Spizzirri, la fidanzata, tre 80enni. Chi sono le vittime"
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -545,11 +555,20 @@
  ],
  "articles": [
   {
-   "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html",
-   "description": "'Nel caso, dovrò affrontare la questione con l'opinione pubblica'",
-   "pub_ts": 1794674548,
-   "source": "ANSA Mondo",
+   "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
+   "description": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
+   "pub_ts": 1794683468,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
+   "description": "Stallo con Eisenkot, all'oscuro di missione Mossad in Usa. Monito Ue su inferno Gaza",
+   "pub_ts": 1794690461,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -557,88 +576,97 @@
    "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
    "description": "Il portavoce Peskov: 'Raggiunto un accordo'",
-   "pub_ts": 1794674760,
+   "pub_ts": 1794686640,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
-   "description": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
-   "pub_ts": 1794675112,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
-   "description": "La svolta del suo partito Reform UK, dopo le accuse al leader di vicinanza a Mosca: “C’è una guerra ibrida contro Londra”. La risposta del Labour: “Finalmente se n’è accorto”",
-   "pub_ts": 1794674837,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/?rss",
-   "description": "Lo scrittore americano ironizza sui social. Migliaia le reazioni",
-   "pub_ts": 1794670395,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La Russa agli studenti: 'La volontà del popolo può essere imperfetta, ha voluto il fascismo'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/la-russa-agli-studenti-la-volonta-del-popolo-puo-essere-imperfetta-ha-voluto_c0fc433c-6015-4673-b0c0-2e56d7f0306a.html",
-   "description": "Bonelli gli replica: 'Ma quale popolo, sono stati i manganelli'",
-   "pub_ts": 1794665473,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Manovra: dietrofront del governo sulla scuola. Meloni: 'E' un segnale ma non erano tagli'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-   "description": "L'esecutivo apre sulla sanità. Verso modifiche su superbonus e exit tax, resta il nodo pensioni",
-   "pub_ts": 1794656194,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Ucraina: Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, il modello è il Patto di Varsavia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7f51d62e-b932-4ce7-873e-ed2192960bb2.html",
-   "description": "Il documento: 'Si allontani da Polonia e Baltici, mappa Guerra Fredda garantiva equilibrio'",
-   "pub_ts": 1794663373,
+   "title": "Kreiss-Tomkins sbanca l'Alaska, primo governatore dem dal 1998",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/kreiss-tomkins-sbanca-lalaska-primo-governatore-dem-dal-1998_3cdbfc15-79fd-424a-ae76-146dba306eed.html",
+   "description": "Per il Senato Peltola consolida il vantaggio sul repubblicano uscente Sullivan",
+   "pub_ts": 1794677970,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "A Parma il corteo di estrema destra e la contro-manifestazione antifascista",
-   "link": "https://www.rainews.it/articoli/2026/11/a-parma-il-corteo-di-estrema-destra-e-la-contro-manifestazione-antifascista-a376b7ed-bc4d-45d1-a7d0-996258ef069f.html",
-   "description": "Grande presenza di forze dell'ordine per gestire l'ordine pubblico, città blindata",
-   "pub_ts": 1794667800,
-   "source": "Rai News",
+   "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
+   "description": "Il leader dell'ultradestra si riallinea all'establishment e affida il dossier a un falco",
+   "pub_ts": 1794677675,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
-   "description": "Dietro c’è il desiderio di Trump di avere al tavolo negoziale un interlocutore affidabile",
-   "pub_ts": 1794614400,
-   "source": "Repubblica Esteri",
+   "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
+   "description": "",
+   "pub_ts": 1794675004,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_7cecae08-705d-4f89-ac5c-293be818c58d.html",
-   "description": "Il disservizio ha interessato oltre 70 Paesi",
-   "pub_ts": 1794661923,
+   "title": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
+   "description": "Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni",
+   "pub_ts": 1794679758,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "\"Eliminare Zelensky\", Russia pronta a colpire il presidente ucraino: il retroscena",
+   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-ordine-uccidere-zelensky_4OyuJoh9W9jnrSo7fnwzWC",
+   "description": "(Adnkronos) - La decisione sarebbe stata presa durante una riunione del Consiglio di sicurezza russo, guidato dal presidente Vladimir Putin",
+   "pub_ts": 1794678813,
+   "source": "Adnkronos Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Schlein dice no ad Atreju: «Confronto in parlamento, agli italiani non serve una festa ma riscrivere la manovra»",
+   "link": "https://www.editorialedomani.it/politica/italia/schlein-no-atreju-meloni-confronto-in-parlamento-f031216v",
+   "description": "Al Nazareno arriva l’invito alla kermesse di Fratelli d’Italia, in programma a Roma dal 3 dicembre. Ma anche quest’anno la segretaria Pd declina. Lo scorso anno si era resa disponibile a salire sul palco, ma solo per un faccia a faccia con la premier. Che aveva rilanciato: dibattito a tre, anche con Conte, perché il centrosinistra non ha un leader riconosciuto. Il presidente M5s alla fine aveva…",
+   "pub_ts": 1794648632,
+   "source": "Domani",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Un governo in retromarcia, saltano i tagli alla scuola",
+   "link": "https://www.editorialedomani.it/politica/italia/manovra-governo-retromarcia-tagli-scuola-sindacati-wkgnba0d",
+   "description": "Tradite le promesse di Matteo Salvini sulle infrastrutture. I cantieri rischiano di chiudere. Meloni difende la legge: «Potere d’acquisto rafforzato». Per Eurostat il Pil italiano è fermo. La cgil conferma lo sciopero del 20 novembre",
+   "pub_ts": 1794647361,
+   "source": "Domani",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
+   "description": "Messaggi da account sospetti. Salvini: 'Ci insultano'. Non si parli di hacker russi",
+   "pub_ts": 1794682743,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/microsoft_down_outlook_cosa_successo-425720300/?rss",
+   "description": "Un guasto all'infrastruttura Microsoft ha provocato interruzioni e rallentamenti dei servizi digitali in numerosi Paesi, Italia compresa. Coinvolti Outlook, Teams, Copilot e diverse applicazioni utilizzate da imprese e pubbliche amministrazioni. La società è al lavoro per...",
+   "pub_ts": 1794681300,
+   "source": "Repubblica Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
+   "description": "Sanzione da 805 milioni per l'uso di foto \"non autorizzato dell'utente\" su Facebook",
+   "pub_ts": 1794680162,
    "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
@@ -649,24 +677,6 @@
    "description": "Lo riporta il Financial Times, secondo il quale il consiglio di amministrazione dell’azienda Usa starebbe pensando all’amministratore delegato del produttore britannico di chip Arm Holdings. La lista dei candidati è lunga: dalla Ceo ad interim Colette Kress a Tim Cook",
    "pub_ts": 1794600137,
    "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
-   "description": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
-   "pub_ts": 1794587335,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Microsoft, 'servizi in miglioramento, ripristino a fasi'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/microsoft-servizi-in-miglioramento-ripristino-a-fasi_8ad2e148-60aa-4ca8-a98b-4c7753fb069b.html",
-   "description": "Il colosso aggiorna la situazione su X, 'non siamo ancora ai livelli base'",
-   "pub_ts": 1794567196,
-   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -689,20 +699,20 @@
    "section": "varia"
   },
   {
-   "title": ">>>ANSA/ Anna Marchesini, a dieci anni dalla morte entra nella Treccani",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/14/ansa-anna-marchesini-a-dieci-anni-dalla-morte-entra-nella-treccani_82cc7d61-6de2-431e-86ef-d41f4d2ff894.html",
-   "description": "la voce nel Dizionario biografico e tematico delle donne",
-   "pub_ts": 1794653760,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
    "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
    "description": "E' il primo trapianto renale robotico da donatore vivente eseguito dall'Asufc",
    "pub_ts": 1794591039,
    "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Agli EFA 2027 testa a testa tra Fatherland e La bola negra",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/14/agli-efa-2027-testa-a-testa-tra-fatherland-e-la-bola-negra_8ba79f60-a74e-45c0-bfb0-0e956808da89.html",
+   "description": "Premiazione il 16 gennaio ad Atene",
+   "pub_ts": 1794677807,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
@@ -716,11 +726,11 @@
    "section": "varia"
   },
   {
-   "title": "Scontro tra due auto in galleria, 4 morti e una ferita grave nel Cosentino",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-4-morti-e-una-ferita-grave-nel_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
-   "description": "L'incidente è avvenuto sulla statale 107",
-   "pub_ts": 1794674639,
-   "source": "ANSA Cronaca",
+   "title": "Scontro tra due auto in galleria, cinque morti nel Cosentino",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
+   "description": "Morti tutti gli occupanti dei veicoli, l'impatto in una curva",
+   "pub_ts": 1794688440,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   }
