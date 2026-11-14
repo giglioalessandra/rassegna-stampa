@@ -1,6 +1,6 @@
 {
- "generated_at": 1794608806,
- "updated_at": 1794608806,
+ "generated_at": 1794625126,
+ "updated_at": 1794625126,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,27 +10,32 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Usa, traffico aereo bloccato: “Non è cyber-attacco”.Si indaga su blackout per aggiornamento software",
-   "summary": "Il provvedimento arriva dopo che in alcune zone del Paese erano state segnalate interruzioni delle frequenze radio utilizzate per le comunicazioni aeronautiche",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
-   "pub_ts": 1794608556,
-   "n_sources": 9,
+   "title": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'",
+   "summary": "Dopo lo stop disposto dall'Authority dei trasporti per motivi di sicurezza",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_1de7bb19-d7ff-49ff-b146-891c95e66c11.html",
+   "pub_ts": 1794622860,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
-     "title": "Usa, traffico aereo bloccato: “Non è cyber-attacco”.Si indaga su blackout per aggiornamento software"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_1de7bb19-d7ff-49ff-b146-891c95e66c11.html",
+     "title": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/traffico-aereo-bloccato-in-tutti-gli-stati-uniti.-escluso-per-ora_b5ee5d87-e55e-4312-9c02-6297ce3e99d9.html",
-     "title": "Traffico aereo bloccato in tutti gli Stati Uniti. Escluso per ora un attacco cyber"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/tutti-gli-aerei-a-terra-voli-fermi-negli-stati-uniti-faa-ground-stop-bb91497f-1167-4842-81e2-e3e10f823786.html",
+     "title": "Caos nei cieli Usa, revocato lo stop dopo oltre quattro ore di paralisi: 3.000 voli cancellati"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/usa-faa-dispone-blocco-nazionale-voli-partenza-AJkGYJGC",
+     "title": "Usa, quattro ore di blocco nazionale dei voli in partenza per un crash tecnologico"
     },
     {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/stop-voli-usa-oggi-sicurezza_10e7RF5gereJoJkK2RVyIm",
-     "title": "Stop a tutti gli aerei negli Usa, voli bloccati per motivi di sicurezza"
+     "title": "Stop a tutti gli aerei negli Usa per 4 ore, voli bloccati per motivi di sicurezza"
     },
     {
      "name": "Il Post",
@@ -38,24 +43,9 @@
      "title": "Gli Stati Uniti hanno bloccato tutti i voli in partenza"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/",
-     "title": "Stati Uniti, traffico aereo bloccato: “Nessun attacco cyber”. Comunicazioni in tilt"
-    },
-    {
      "name": "Open",
      "link": "https://www.open.online/2026/11/13/usa-faa-ground-stop-blocco-voli-cosa-succede/",
-     "title": "Blocco a tutti i voli negli Usa, caos negli aeroporti. Allarme sicurezza, in tilt i sistemi Tlc. L’ipotesi sull’aggiornamento con l’AI"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/tutti-gli-aerei-a-terra-voli-fermi-negli-stati-uniti-faa-ground-stop-fbe5f54d-622d-4470-aed5-407ef77f076b.html",
-     "title": "\"Tutti gli aerei a terra\", 7000 voli fermi negli Stati Uniti. La FAA: \"Guasto tecnico\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/13/sospensione-voli-usa-perche-motivo-cosa-e-successo/8571638/",
-     "title": "Traffico aereo bloccato in tutti gli Stati Uniti: “Motivi di sicurezza. Non ci sono indicazioni di un attacco cyber”"
+     "title": "Blocco a tutti i voli negli Usa, caos negli aeroporti. Almeno 6 partiti dall’Italia. Allarme sicurezza, l’ipotesi sull’aggiornamento con l’AI."
     },
     {
      "name": "Nicola Porro",
@@ -114,64 +104,27 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe",
-   "summary": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
-   "pub_ts": 1794568692,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
-     "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/13/scuola-allarme-bomba-protocollo/",
-     "title": "Cosa devono fare le scuole con gli allarmi bomba d’ora in poi"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/allarme-bomba-oggi-misure-governo-ultime-notizie_7otbBP3JBvJyXUhyV2hFGb",
-     "title": "Allarmi bomba nelle scuole, oggi tavolo tecnico a Palazzo Chigi"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/nuovi-allarmi-bomba-minacce-ibride-meloni-unita-nazionale-incontro-opposizioni-i4y5d7se",
-     "title": "Nuovi allarmi bomba e minacce ibride: Meloni si rifugia nell’unità nazionale"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/altri-allarmi-bomba-scuole-chiuse-il-governo-cambia-strategia-cosa-devono-fare-i-presidi/",
-     "title": "Altri allarmi bomba, scuole chiuse? Il governo cambia strategia: cosa devono fare i presidi"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'e",
+   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
    "summary": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giustae_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-   "pub_ts": 1794607955,
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+   "pub_ts": 1794609132,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giustae_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
-     "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'e"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/13/sp-rating-italia-13-nov-giorgetti/",
-     "title": "Standard & Poor’s conferma il rating BBB+/A-2 dell’Italia, outlook positivo: «La crescita supererà le stime precedenti»"
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+     "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'"
     },
     {
      "name": "Rai News",
      "link": "https://www.rainews.it/articoli/2026/11/economia-finanza-rating-italia-standard-poor-s-conferma-bbb-a-2-export-compensa-dazi-6aa2ae78-b7c6-4e25-9bdd-8a587bfa79fd.html",
      "title": "S&P conferma il rating dell’Italia a BBB+/A-2: “L’export compensa i dazi Usa”"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/13/sp-rating-italia-13-nov-giorgetti/",
+     "title": "Standard & Poor’s conferma il rating BBB+/A-2 dell’Italia, outlook positivo: «La crescita supererà le stime precedenti»"
     },
     {
      "name": "la Repubblica",
@@ -214,6 +167,92 @@
   },
   {
    "category": "politica",
+   "area": "italia",
+   "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe",
+   "summary": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
+   "pub_ts": 1794568692,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
+     "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/13/scuola-allarme-bomba-protocollo/",
+     "title": "Cosa devono fare le scuole con gli allarmi bomba d’ora in poi"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/allarme-bomba-oggi-misure-governo-ultime-notizie_7otbBP3JBvJyXUhyV2hFGb",
+     "title": "Allarmi bomba nelle scuole, oggi tavolo tecnico a Palazzo Chigi"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/nuovi-allarmi-bomba-minacce-ibride-meloni-unita-nazionale-incontro-opposizioni-i4y5d7se",
+     "title": "Nuovi allarmi bomba e minacce ibride: Meloni si rifugia nell’unità nazionale"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen",
+   "summary": "Lo comunica la Casa Bianca. A margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_5cbbf8a4-fed1-4d94-826a-eb8148cd6b4e.html",
+   "pub_ts": 1794616908,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_5cbbf8a4-fed1-4d94-826a-eb8148cd6b4e.html",
+     "title": "Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/xi_putin_trump_trilaterale_shenzen_cina-425722515/?rss",
+     "title": "Trump, Xi e Putin: sì al trilaterale a Shenzen"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/casa-bianca-trump-discutera-di-iran-con-xi-e-putin-non-di-ucraina_864145b8-8539-4476-afaa-f64bca240844.html",
+     "title": "Casa Bianca, 'Trump discuterà di Iran con Xi e Putin, non di Ucraina'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra",
+   "summary": "Gofman vedrà Ratcliffe e altri funzionari Usa. Allarme Aiea per la centrale di Isfahan, dove si arricchisce l’uranio",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
+   "pub_ts": 1794614400,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
+     "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/capo-mossad-a-washington-mentre-netanyahu-preme-per-riprendere-guerra-iran_fd0c71d7-c824-4c19-9790-2826173612ec.html",
+     "title": "'Capo Mossad a Washington mentre Netanyahu preme per riprendere guerra Iran'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/iran-usa-ultime-news-oggi-13-novembre_6pKQ42AsbHtdMy4fYlNjvU",
+     "title": "Iran-Usa, Axios: capo Mossad a Washington mentre Netanyahu fa pressione su Trump per riprendere la guerra"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "mondo",
    "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia",
    "summary": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
@@ -241,159 +280,63 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "'E' tanto che non ci vediamo'. 'Tu non volevi...'. La battuta di Zelensky con Meloni",
-   "summary": "Il siparietto pubblicato su X dal leader ucraino, che ringrazia l'Italia",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
-   "pub_ts": 1794581512,
+   "area": "mondo",
+   "title": "Ucraina, Europa ha scelto i rappresentanti al tavolo di pace: 5 Paesi più Commissione e Consiglio Ue. C'è anche l'Italia",
+   "summary": "(Adnkronos) - Per Costa \"le garanzie di sicurezza devono essere affrontate nell'ambito della coalizione dei volenterosi, in stretto coordinamento con la Nato\". Questa decisione è frutto del pressing esercitato dagli Usa, oltre che dal presidente ucraino Volodymyr Zelensky, che conta sul sostegno degli europei al tavolo negoziale",
+   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-tavolo-pace-europa-italia_3bbGRTvLBqnm9O6YYU6KLA",
+   "pub_ts": 1794611531,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
-     "title": "'E' tanto che non ci vediamo'. 'Tu non volevi...'. La battuta di Zelensky con Meloni"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-tavolo-pace-europa-italia_3bbGRTvLBqnm9O6YYU6KLA",
+     "title": "Ucraina, Europa ha scelto i rappresentanti al tavolo di pace: 5 Paesi più Commissione e Consiglio Ue. C'è anche l'Italia"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/flashes/zelensky-meloni-dublino/",
-     "title": "La battuta con cui Zelensky accusa Meloni di essersi allontanata"
+     "link": "https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino/",
+     "title": "L’Europa non avrà un unico rappresentante nei negoziati per l’Ucraina"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/13/news/dublino_incontro_zelensky_meloni_battuta-425720482/",
-     "title": "Zelensky e la frecciata a Meloni: “Da quanto tempo…? Sei tu che non volevi vedermi”"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/13/negoziati-pace-ucraina-formato-e5-notizie/8571475/",
+     "title": "L’Europa ha scelto i suoi rappresentanti al tavolo di pace sull’Ucraina: formato E5 più Commissione e Consiglio Ue. C’è anche l’Italia"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie",
-   "summary": "Media, misura adotta una sola volta dopo l'11 Settembre. 'Problemi alle comunicazioni'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_0687956c-c205-47cc-ae5e-26338a22eb3c.html",
-   "pub_ts": 1794606719,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_0687956c-c205-47cc-ae5e-26338a22eb3c.html",
-     "title": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/usa-faa-dispone-blocco-nazionale-voli-partenza-AJkGYJGC",
-     "title": "Usa, Faa dispone blocco nazionale dei voli in partenza"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Fonti, 'per ora ai negoziati su Kiev con i rappresentanti Ue e degli E5'",
-   "summary": "E quanto hanno concordato i leader al summit di Dublino",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-per-ora-ai-negoziati-su-kiev-con-i-rappresentanti-ue-e-degli-e5_ee9227d0-9a26-4151-8f8a-87e358edcac4.html",
-   "pub_ts": 1794596997,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-per-ora-ai-negoziati-su-kiev-con-i-rappresentanti-ue-e-degli-e5_ee9227d0-9a26-4151-8f8a-87e358edcac4.html",
-     "title": "Fonti, 'per ora ai negoziati su Kiev con i rappresentanti Ue e degli E5'"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-guerra-provocazioni-russe-paralizzano-negoziati-finlandia-fuori-dalla-nato-xl94pcic",
-     "title": "Kiev, le provocazioni russe paralizzano i negoziati: «Finlandia fuori dalla Nato»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "“Mélenchon persona non grata”: Israele vieta l’ingresso al candidato all’Eliseo",
-   "summary": "Il ministero degli Esteri israeliano accusa il candidato all’Eliseo e un altro esponente della France Insoumise Mathilde Panot di aver diffuso “calunnie antisemite”. La reazione: “Mi viene vietato l'ingresso in un territorio nel quale non avevo chiesto di entrare”",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/israele_vieta_ingresso_melenchon_leader_france_insoumise-425721651/?rss",
-   "pub_ts": 1794588776,
+   "area": "italia",
+   "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa",
+   "summary": "Dietro c’è il desiderio di Trump di avere al tavolo negoziale un interlocutore affidabile",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
+   "pub_ts": 1794614400,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/13/news/israele_vieta_ingresso_melenchon_leader_france_insoumise-425721651/?rss",
-     "title": "“Mélenchon persona non grata”: Israele vieta l’ingresso al candidato all’Eliseo"
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
+     "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/12/israele-ha-vietato-ingresso-jean-luc-melenchon/",
-     "title": "Israele ha vietato l’ingresso a Jean-Luc Mélenchon, candidato di estrema sinistra alle presidenziali francesi"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/",
+     "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
-   "summary": "Mandati in fumo oltre 500 miliardi di capitalizzazione di Borsa",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
-   "pub_ts": 1794605372,
-   "n_sources": 7,
+   "title": "Nvidia, Rene Haas contattato per la successione a Huang",
+   "summary": "Lo riporta il Financial Times, secondo il quale il consiglio di amministrazione dell’azienda Usa starebbe pensando all’amministratore delegato del produttore britannico di chip Arm Holdings. La lista dei candidati è lunga: dalla Ceo ad interim Colette Kress a Tim Cook",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
+   "pub_ts": 1794600137,
+   "n_sources": 6,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
-     "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang"
-    },
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/12/news/chi-e-jensen-huang-nvidia-tradimento-425718607/?rss",
-     "title": "Ascesa e caduta di Jensen Huang, l’ex CEO di Nvidia che ha creato un impero dell’IA"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/scandalo-nvidia-huang-trump-retroscena_3MHe7q2qObezt7Tj2AOPjZ",
-     "title": "Scandalo Nvidia, Trump aveva chiamato Huang per dirgli di non cedere: il retroscena"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/jensen-huang-nvidia-dimissioni-trump-hdlpq0ke",
-     "title": "Scandalo Nvidia: la caduta di Huang inguaia anche Trump"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/alice-huang-finanza-shanghai-cuore-nvidia-chi-e-spia-scandalo-jensen-huang-AJB7zOEC",
-     "title": "Alice Huang, dalla finanza di Shanghai al cuore di Nvidia: chi è la spia dello scandalo Jensen Huang"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/12/nvidia-dimissioni-jensen-huang/",
-     "title": "Jensen Huang si è dimesso da amministratore delegato di Nvidia"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/huang-si-e-dimesso-da-nvidia/",
-     "title": "Huang si è dimesso da Nvidia"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Caccia al successore in Nvidia, contattato il ceo della rivale Arm, Rene Haas",
-   "summary": "Nel toto-nomi del dopo Huang anche i figli. Tra le opzioni interne Kress, Buck e Teter",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/caccia-al-successore-in-nvidia-contattato-il-ceo-della-rivale-arm-rene-haas_687fc1cb-f5ec-40c5-b754-207e9c93270f.html",
-   "pub_ts": 1794602152,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/caccia-al-successore-in-nvidia-contattato-il-ceo-della-rivale-arm-rene-haas_687fc1cb-f5ec-40c5-b754-207e9c93270f.html",
-     "title": "Caccia al successore in Nvidia, contattato il ceo della rivale Arm, Rene Haas"
-    },
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
@@ -471,6 +414,38 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
+   "summary": "Mandati in fumo oltre 500 miliardi di capitalizzazione di Borsa",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
+   "pub_ts": 1794605372,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
+     "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang"
+    },
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/12/news/chi-e-jensen-huang-nvidia-tradimento-425718607/?rss",
+     "title": "Ascesa e caduta di Jensen Huang, l’ex CEO di Nvidia che ha creato un impero dell’IA"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/scandalo-nvidia-huang-trump-retroscena_3MHe7q2qObezt7Tj2AOPjZ",
+     "title": "Scandalo Nvidia, Trump aveva chiamato Huang per dirgli di non cedere: il retroscena"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/jensen-huang-nvidia-dimissioni-trump-hdlpq0ke",
+     "title": "Scandalo Nvidia: la caduta di Huang inguaia anche Trump"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
    "summary": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
@@ -539,29 +514,6 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Laura Pausini vince il suo quinto Latin Grammy con l'album Yo canto 2",
-   "summary": "Premiato nella categoria Miglior album pop tradizionale",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/laura-pausini-vince-il-suo-quinto-latin-grammy-con-lalbum-yo-canto_e746d313-b1c5-49c4-8d18-8d57e3cec6ed.html",
-   "pub_ts": 1794593147,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/laura-pausini-vince-il-suo-quinto-latin-grammy-con-lalbum-yo-canto_e746d313-b1c5-49c4-8d18-8d57e3cec6ed.html",
-     "title": "Laura Pausini vince il suo quinto Latin Grammy con l'album Yo canto 2"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/musica-laura-pausini-las-vegas-laura-pausini-nella-storia-arriva-il-quinto-latin-grammy-6b7925d7-c0a5-44d4-a41d-64159667b230.html",
-     "title": "Laura Pausini nella storia: arriva il quinto Latin Grammy"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
    "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna",
    "summary": "E' il primo trapianto renale robotico da donatore vivente eseguito dall'Asufc",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
@@ -581,6 +533,29 @@
     }
    ],
    "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Anitta conquista il Grammy Latino con Equilibrivm",
+   "summary": "La cantante premiata per il miglior album pop contemporaneo in portoghese",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/anitta-conquista-il-grammy-latino-con-equilibrivm_ec045ed1-db30-4e54-8f4a-2f4584da16aa.html",
+   "pub_ts": 1794574141,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/anitta-conquista-il-grammy-latino-con-equilibrivm_ec045ed1-db30-4e54-8f4a-2f4584da16aa.html",
+     "title": "Anitta conquista il Grammy Latino con Equilibrivm"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/anitta-conquista-il-grammy-latino-con-equilibrivm_60c07292-0fb8-4961-bdbe-9352195a8d64.html",
+     "title": "Anitta conquista il Grammy Latino con Equilibrivm"
+    }
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -608,17 +583,49 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Fuoco di Israele su Gaza: due morti. Intercettato attacco contro radar americano in Bahrein",
-   "summary": "Capo del Mossad negli Usa. Due navi esplodono dopo avere urtato una mina. Trump esclude JD Vance dai colloqui con l'Iran. Israele bombarda l'ospedale Nasser a Gaza, almeno 6 morti e 20 feriti. Giovedì vertice dei Volenterosi a Berlino",
-   "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-bombarda-ospedale-nasser-a-gaza-6-morti-e-20-feriti-ab1dcae8-7cc2-40f2-95d4-991df36d0e32.html",
-   "pub_ts": 1794606840,
+   "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia",
+   "summary": "Confermato il format usato ad Abu Dhabi con due sedie in più. Salta per ora l’ipotesi del portavoce unico. Ma il Cremlino mantiene l’ambiguità",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
+   "pub_ts": 1794614820,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
+     "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/russia-pronta-a-dialogare-con-leuropa-e24a94d9-a773-4a26-bd43-653b208e833c.html",
+     "title": "Russia pronta a dialogare con l'Europa"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/",
+     "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-13-novembre-2026_6jJcZYb7D6tvi7z7RZubCK",
+     "title": "Ucraina, Cremlino: \"Russia pronta a dialogare con l'Ue\". Nuovi raid incrociati con morti e feriti"
+    }
+   ]
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Gaza, Israele bombarda l’ospedale Nasser: sei morti, tra loro anche il medico di American Doctor",
+   "summary": "Distrutto il reparto di chirurgia. L’Idf: “Hamas usa gli ospedali per attività militari”. Il gruppo nega",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/gaza_israele_bombarda_ospedale_nasser_sei_morti_anche_chirurgo_american_doctor-425720399/?rss",
+   "pub_ts": 1794575863,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-bombarda-ospedale-nasser-a-gaza-6-morti-e-20-feriti-ab1dcae8-7cc2-40f2-95d4-991df36d0e32.html",
-     "title": "Fuoco di Israele su Gaza: due morti. Intercettato attacco contro radar americano in Bahrein"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/13/news/gaza_israele_bombarda_ospedale_nasser_sei_morti_anche_chirurgo_american_doctor-425720399/?rss",
+     "title": "Gaza, Israele bombarda l’ospedale Nasser: sei morti, tra loro anche il medico di American Doctor"
     },
     {
      "name": "Il Post",
@@ -635,11 +642,11 @@
  ],
  "articles": [
   {
-   "title": "Usa, traffico aereo bloccato: “Non è cyber-attacco”.Si indaga su blackout per aggiornamento software",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/?rss",
-   "description": "Il provvedimento arriva dopo che in alcune zone del Paese erano state segnalate interruzioni delle frequenze radio utilizzate per le comunicazioni aeronautiche",
-   "pub_ts": 1794608556,
-   "source": "Repubblica Esteri",
+   "title": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_1de7bb19-d7ff-49ff-b146-891c95e66c11.html",
+   "description": "Dopo lo stop disposto dall'Authority dei trasporti per motivi di sicurezza",
+   "pub_ts": 1794622860,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -653,19 +660,10 @@
    "section": "politica"
   },
   {
-   "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
-   "description": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
-   "pub_ts": 1794568692,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'e",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giustae_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
+   "title": "S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html",
    "description": "Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'",
-   "pub_ts": 1794607955,
+   "pub_ts": 1794609132,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -680,6 +678,33 @@
    "section": "politica"
   },
   {
+   "title": "Nuovi allarmi bomba ieri in 3.800 scuole, ma si è rimasti in classe",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
+   "description": "Il governo: 'Impedire che le minacce blocchino i servizi'. La firma sempre di Antropov",
+   "pub_ts": 1794568692,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_5cbbf8a4-fed1-4d94-826a-eb8148cd6b4e.html",
+   "description": "Lo comunica la Casa Bianca. A margine del vertice dell'Apec in programma il 18 e il 19 novembre prossimi",
+   "pub_ts": 1794616908,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
+   "description": "Gofman vedrà Ratcliffe e altri funzionari Usa. Allarme Aiea per la centrale di Isfahan, dove si arricchisce l’uranio",
+   "pub_ts": 1794614400,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/kushner-progressi-significativi-nei-negoziati-ucraina-russia_eb0bf24d-6068-4664-a627-2a8d50fdc5bf.html",
    "description": "L'agenzia Tass, 'presto dettagli sul nuovo round dei colloqui'",
@@ -689,56 +714,29 @@
    "section": "politica"
   },
   {
-   "title": "'E' tanto che non ci vediamo'. 'Tu non volevi...'. La battuta di Zelensky con Meloni",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
-   "description": "Il siparietto pubblicato su X dal leader ucraino, che ringrazia l'Italia",
-   "pub_ts": 1794581512,
-   "source": "ANSA Politica",
+   "title": "Ucraina, Europa ha scelto i rappresentanti al tavolo di pace: 5 Paesi più Commissione e Consiglio Ue. C'è anche l'Italia",
+   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-tavolo-pace-europa-italia_3bbGRTvLBqnm9O6YYU6KLA",
+   "description": "(Adnkronos) - Per Costa \"le garanzie di sicurezza devono essere affrontate nell'ambito della coalizione dei volenterosi, in stretto coordinamento con la Nato\". Questa decisione è frutto del pressing esercitato dagli Usa, oltre che dal presidente ucraino Volodymyr Zelensky, che conta sul sostegno degli europei al tavolo negoziale",
+   "pub_ts": 1794611531,
+   "source": "Adnkronos Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_0687956c-c205-47cc-ae5e-26338a22eb3c.html",
-   "description": "Media, misura adotta una sola volta dopo l'11 Settembre. 'Problemi alle comunicazioni'",
-   "pub_ts": 1794606719,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Fonti, 'per ora ai negoziati su Kiev con i rappresentanti Ue e degli E5'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-per-ora-ai-negoziati-su-kiev-con-i-rappresentanti-ue-e-degli-e5_ee9227d0-9a26-4151-8f8a-87e358edcac4.html",
-   "description": "E quanto hanno concordato i leader al summit di Dublino",
-   "pub_ts": 1794596997,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "“Mélenchon persona non grata”: Israele vieta l’ingresso al candidato all’Eliseo",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/israele_vieta_ingresso_melenchon_leader_france_insoumise-425721651/?rss",
-   "description": "Il ministero degli Esteri israeliano accusa il candidato all’Eliseo e un altro esponente della France Insoumise Mathilde Panot di aver diffuso “calunnie antisemite”. La reazione: “Mi viene vietato l'ingresso in un territorio nel quale non avevo chiesto di entrare”",
-   "pub_ts": 1794588776,
+   "title": "Ucraina, sull’allargamento della delegazione Ue Palazzo Chigi canta vittoria. Decisivo il ruolo Usa",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_allargamento_delegazione_ue_negoziati_palazzo_chigi_canta_vittoria_decisivo_ruolo_usa-425722233/?rss",
+   "description": "Dietro c’è il desiderio di Trump di avere al tavolo negoziale un interlocutore affidabile",
+   "pub_ts": 1794614400,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
-   "description": "Mandati in fumo oltre 500 miliardi di capitalizzazione di Borsa",
-   "pub_ts": 1794605372,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Caccia al successore in Nvidia, contattato il ceo della rivale Arm, Rene Haas",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/caccia-al-successore-in-nvidia-contattato-il-ceo-della-rivale-arm-rene-haas_687fc1cb-f5ec-40c5-b754-207e9c93270f.html",
-   "description": "Nel toto-nomi del dopo Huang anche i figli. Tra le opzioni interne Kress, Buck e Teter",
-   "pub_ts": 1794602152,
-   "source": "ANSA",
+   "title": "Nvidia, Rene Haas contattato per la successione a Huang",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
+   "description": "Lo riporta il Financial Times, secondo il quale il consiglio di amministrazione dell’azienda Usa starebbe pensando all’amministratore delegato del produttore britannico di chip Arm Holdings. La lista dei candidati è lunga: dalla Ceo ad interim Colette Kress a Tim Cook",
+   "pub_ts": 1794600137,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "tech"
   },
@@ -748,6 +746,15 @@
    "description": "Colpiti governi e aziende, ma anche scuole, trasporti e sanità. L'ironia sui social",
    "pub_ts": 1794595388,
    "source": "ANSA",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html",
+   "description": "Mandati in fumo oltre 500 miliardi di capitalizzazione di Borsa",
+   "pub_ts": 1794605372,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "tech"
   },
@@ -779,20 +786,20 @@
    "section": "varia"
   },
   {
-   "title": "Laura Pausini vince il suo quinto Latin Grammy con l'album Yo canto 2",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/laura-pausini-vince-il-suo-quinto-latin-grammy-con-lalbum-yo-canto_e746d313-b1c5-49c4-8d18-8d57e3cec6ed.html",
-   "description": "Premiato nella categoria Miglior album pop tradizionale",
-   "pub_ts": 1794593147,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
    "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
    "description": "E' il primo trapianto renale robotico da donatore vivente eseguito dall'Asufc",
    "pub_ts": 1794591039,
    "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Anitta conquista il Grammy Latino con Equilibrivm",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/anitta-conquista-il-grammy-latino-con-equilibrivm_ec045ed1-db30-4e54-8f4a-2f4584da16aa.html",
+   "description": "La cantante premiata per il miglior album pop contemporaneo in portoghese",
+   "pub_ts": 1794574141,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "varia"
   },
@@ -806,11 +813,20 @@
    "section": "varia"
   },
   {
-   "title": "Fuoco di Israele su Gaza: due morti. Intercettato attacco contro radar americano in Bahrein",
-   "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-israele-bombarda-ospedale-nasser-a-gaza-6-morti-e-20-feriti-ab1dcae8-7cc2-40f2-95d4-991df36d0e32.html",
-   "description": "Capo del Mossad negli Usa. Due navi esplodono dopo avere urtato una mina. Trump esclude JD Vance dai colloqui con l'Iran. Israele bombarda l'ospedale Nasser a Gaza, almeno 6 morti e 20 feriti. Giovedì vertice dei Volenterosi a Berlino",
-   "pub_ts": 1794606840,
-   "source": "Rai News",
+   "title": "Russia, l’Europa trova l’intesa: il tavolo dei negoziati si allarga a Italia e Polonia",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/russia_ucraina_europa_trova_intesa_tavolo_negoziati_allarga_italia_polonia_confermato_format_abu_dhabi-425722277/?rss",
+   "description": "Confermato il format usato ad Abu Dhabi con due sedie in più. Salta per ora l’ipotesi del portavoce unico. Ma il Cremlino mantiene l’ambiguità",
+   "pub_ts": 1794614820,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "cronaca"
+  },
+  {
+   "title": "Gaza, Israele bombarda l’ospedale Nasser: sei morti, tra loro anche il medico di American Doctor",
+   "link": "https://www.repubblica.it/esteri/2026/11/13/news/gaza_israele_bombarda_ospedale_nasser_sei_morti_anche_chirurgo_american_doctor-425720399/?rss",
+   "description": "Distrutto il reparto di chirurgia. L’Idf: “Hamas usa gli ospedali per attività militari”. Il gruppo nega",
+   "pub_ts": 1794575863,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   }
