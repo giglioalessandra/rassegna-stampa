@@ -1,6 +1,6 @@
 {
- "generated_at": 1794733446,
- "updated_at": 1794733446,
+ "generated_at": 1794761672,
+ "updated_at": 1794761672,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,22 +10,64 @@
   {
    "category": "politica",
    "area": "mondo",
+   "title": "Ucraina, Cremlino: 'Se non ci sarà un accordo con l'Europa useremo la forza'",
+   "summary": "'Negozieremo per raggiungere gli obiettivi fissati da Putin nel 2024'. Lavrov: 'Negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno. Capiscono che il convoglio sta partendo e vogliono prendere il vagone di coda'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/ucraina-mosca-negozieremo-per-raggiungere-gli-obiettivi-fissati-da-putin-nel_b2d35761-af9c-44dd-964c-e157cfba1464.html",
+   "pub_ts": 1794760957,
+   "n_sources": 7,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/ucraina-mosca-negozieremo-per-raggiungere-gli-obiettivi-fissati-da-putin-nel_b2d35761-af9c-44dd-964c-e157cfba1464.html",
+     "title": "Ucraina, Cremlino: 'Se non ci sarà un accordo con l'Europa useremo la forza'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/cremlino-se-non-ci-sara-un-accordo-con-leuropa-useremo-la-forza_f588b228-e761-47ac-9c65-dec04a5670ad.html",
+     "title": "Cremlino, 'se non ci sarà un accordo con l'Europa useremo la forza'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/15/guerra-ucraina-russia-negoziati-pace-ultime-notizie-15-nov/",
+     "title": "Guerra in Ucraina, Mosca: «Negozieremo per raggiungere gli obiettivi di Putin del 2024». E sull’Ue: «Senza un accordo useremo la forza»"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/la-proposta-usa-a-kiev-nella-nato-in-cambio-del-donbass-e76760e0-8515-4edc-8cb7-f10f4974d96a.html",
+     "title": "Peskov: \"Collegati Kiev e il nuovo ordine europeo. Se non c'è accordo con l'Ue, useremo la forza\""
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-negoziati-putin-obiettivi_1NYJFbKPCPDsTUGski5xtc",
+     "title": "Ucraina, Russia: \"Senza accordo con l'Europa non resta che la forza\". L'Estonia chiude il confine con Russia da 1 dicembre"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/guerra-russia-ucraina-ultime-notizie-oggi-15-novembre-n9rgdh31",
+     "title": "Il Cremlino: «Se non ci sarà un accordo useremo la forza per raggiungere i nostri obiettivi»"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/15/diretta/guerra_ucraina_russia_news_oggi-425724541/",
+     "title": "Guerra Ucraina - Russia, le news. Cremlino: “Senza accordo con l’Europa useremo la forza”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
    "summary": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
    "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
    "pub_ts": 1794729995,
-   "n_sources": 6,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
      "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-ad-abu-dhabi-emerso-che-putin-non-vuole-il-cessate-il-fuoco_bf34b3cb-1c7d-4af3-97c0-c1aa36b7cb35.html",
-     "title": "Zelensky, 'ad Abu Dhabi emerso che Putin non vuole il cessate il fuoco'"
     },
     {
      "name": "Adnkronos Esteri",
@@ -52,22 +94,54 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi",
+   "title": "Trump scarica tutto su Biden: 'Sua la colpa del caos aerei'",
+   "summary": "Cancellati oggi negli Usa altri 1.400 voli dopo i 6.700 di sabato. Migliora la situazione dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+   "pub_ts": 1794758693,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+     "title": "Trump scarica tutto su Biden: 'Sua la colpa del caos aerei'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/trump-amministrazione-biden-un-disastro-per-la-federal-aviation-administration_36ed56cd-4a63-48d7-bb27-dc7ea630eb21.html",
+     "title": "Trump, 'amministrazione Biden un disastro per la Federal Aviation Administration'"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/caos-voli-usa-trump-da-colpa-biden-due-aerei-si-scontrano-pista-miami-AJXo9THC",
+     "title": "Caos voli Usa, Trump dà la colpa a Biden. Intanto, due aerei si scontrano in pista a Miami"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/caos-voli-usa-voli-cancellati-ultime-news_4SYWhb6fxVMMN9DDUfHZ2b",
+     "title": "Caos nei cieli Usa, sabato cancellati quasi 6.500 voli: oggi già altri 760. Trump: \"Colpa della precedente amministrazione Biden\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzhen una Yalta con Trump e Xi",
    "summary": "Il documento consegnato agli americani: “Il Patto atlantico deve ritirarsi ai confini del 1997”. Il ritorno alle sfere di influenza",
    "link": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/?rss",
-   "pub_ts": 1794727320,
+   "pub_ts": 1794736355,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/?rss",
-     "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi"
+     "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzhen una Yalta con Trump e Xi"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
-     "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/15/ucraina-trump-putin-piano-europa-francesca-mannocchi/",
+     "title": "Ucraina, la nuova Yalta di Trump e Putin: il piano per ridisegnare l’Europa – L’analisi di Francesca Mannocchi"
     },
     {
      "name": "Rai News",
@@ -77,7 +151,34 @@
     {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/",
-     "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi"
+     "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzhen una Yalta con Trump e Xi"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Atreju: Conte va alla festa di FdI, Schlein no",
+   "summary": "Il leader M5s accetta l’invito: “Sarò lì per ricordare a Meloni gli errori di questi quattro anni”. La segretaria dem declina: “Il confronto si fa in Parlamento”. No anche da Fratoianni e Bonelli. Renzi ci sarà, presenza data per scontata per Calenda",
+   "link": "https://www.repubblica.it/politica/2026/11/15/news/atreju_conte_va_alla_festa_di_fdi_schlein_no-425725312/",
+   "pub_ts": 1794755015,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/15/news/atreju_conte_va_alla_festa_di_fdi_schlein_no-425725312/",
+     "title": "Atreju: Conte va alla festa di FdI, Schlein no"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/conte-intervista-campo-largo-evento-domani-fuawgxc0",
+     "title": "Conte: «Andrò ad Atreju. Alle primarie dobbiamo scegliere chi può battere Meloni»"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/politicoquotidiano/no-ad-atreju-schlein-scappa-da-meloni-ma-di-cosa-ha-paura/",
+     "title": "“No ad Atreju”: Schlein scappa da Meloni. Ma di cosa ha paura?"
     }
    ]
   },
@@ -88,7 +189,7 @@
    "summary": "Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
    "pub_ts": 1794679758,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -102,11 +203,6 @@
      "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/",
-     "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X"
-    },
-    {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/stephen-king-alieni-aeroporti-usa-blocco_3mrZZpEi8MPJZadNbSfVF",
      "title": "Stop voli negli Usa, Stephen King: \"Sono atterrati gli alieni\""
@@ -116,125 +212,44 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Cancellati sabato negli Usa 6.500 voli, oggi almeno altri 760",
-   "summary": "Proseguono i disagi dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-sabato-negli-usa-6.500-voli-oggi-almeno-altri-760_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
-   "pub_ts": 1794732177,
-   "n_sources": 3,
+   "title": "Vigilanza Rai, Richetti: 'Non farò mai il presidente di nulla per conto della destra'",
+   "summary": "'Ma l'opposizione si fa dando battaglia non dimettendosi dagli organismi parlamentari'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/vigilanza-rai-richetti-non-faro-mai-il-presidente-di-nulla-per-conto_b098c0d7-1b2d-452b-a641-ac71ecac7d33.html",
+   "pub_ts": 1794746500,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-sabato-negli-usa-6.500-voli-oggi-almeno-altri-760_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
-     "title": "Cancellati sabato negli Usa 6.500 voli, oggi almeno altri 760"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/vigilanza-rai-richetti-non-faro-mai-il-presidente-di-nulla-per-conto_b098c0d7-1b2d-452b-a641-ac71ecac7d33.html",
+     "title": "Vigilanza Rai, Richetti: 'Non farò mai il presidente di nulla per conto della destra'"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/federal-aviation-piu-di-16.000-voli-cancellati-fra-ieri-e-oggi_cf6a376e-23ff-4edd-b753-881d92479b20.html",
-     "title": "Federal Aviation, più di 16.000 voli cancellati fra ieri e oggi"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/caos-voli-usa-voli-cancellati-ultime-news_4SYWhb6fxVMMN9DDUfHZ2b",
-     "title": "Caos nei cieli Usa, sabato cancellati quasi 6.500 voli: oggi già altri 760"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/rai-richetti-az-non-faro-mai-il-presidente-di-nulla-per-conto-della_f49e63e5-9b87-49c4-9b23-8d47e1603c53.html",
+     "title": "Rai: Richetti (Az), non farò mai il presidente di nulla per conto della destra"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'",
-   "summary": "'Solo una coalizione con me garantisce la sicurezza d'Israele', dice il premier",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
-   "pub_ts": 1794690461,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
-     "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
-     "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/14/netanyahu-governo-unita-nazionale-scontro-eisenkot/",
-     "title": "Netanyahu vuole un governo di unità nazionale e la guerra all’Iran «una volta per tutte». Il muro di Eisenkot e i sospetti: «Vuole restare al potere»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'",
-   "summary": "Il leader dell'ultradestra si riallinea all'establishment e affida il dossier a un falco",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
-   "pub_ts": 1794677675,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
-     "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/farage-suggella-la-rottura-con-putin-mosca-e-minacca-numero-1-per-gb_6d53f2ff-51ca-4dc1-840a-194cdf7a2504.html",
-     "title": "Farage suggella la rottura con Putin, 'Mosca è minacca numero 1 per Gb'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
-     "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "YouTube blocca 16 canali russi in Ucraina, tra cui versioni di Masha e Orso",
-   "summary": "Centro per lotta alla disinformazione, 'canali propagandisti russi e blogger filobellici'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/youtube-blocca-16-canali-russi-in-ucraina-tra-cui-versioni-di-masha-e-orso_5e8e7efe-2664-4be5-9913-b72904a473fb.html",
-   "pub_ts": 1794729059,
+   "title": "“Mio fratello ha chiesto scusa al rabbino. Ma non si può cacciare così un ragazzo nato in Italia”",
+   "summary": "Dopo l’aggressione a un religioso a Milano, un ragazzo è stato espulso e un altro è al Cpr. Il terzogenito della famiglia, di origine tunisina, dice: “Mia mamma è distrutta. Noi studiamo e lavoriamo, non conosciamo nemmeno l’arabo. Deluso per non avere la cittadinanza”",
+   "link": "https://milano.repubblica.it/cronaca/2026/11/15/news/aggressione_rabbino_intervista_fratello_cpr_espulso_mouthanna-425724940/",
+   "pub_ts": 1794752028,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/youtube-blocca-16-canali-russi-in-ucraina-tra-cui-versioni-di-masha-e-orso_5e8e7efe-2664-4be5-9913-b72904a473fb.html",
-     "title": "YouTube blocca 16 canali russi in Ucraina, tra cui versioni di Masha e Orso"
+     "name": "la Repubblica",
+     "link": "https://milano.repubblica.it/cronaca/2026/11/15/news/aggressione_rabbino_intervista_fratello_cpr_espulso_mouthanna-425724940/",
+     "title": "“Mio fratello ha chiesto scusa al rabbino. Ma non si può cacciare così un ragazzo nato in Italia”"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/nuovo-stop-di-youtube-a-masha-e-orso-in-ucraina_5bc38465-e5fb-4513-9c28-bbfbf39348a5.html",
-     "title": "Nuovo stop di YouTube a 'Masha e Orso' in Ucraina"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
-   "summary": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
-   "pub_ts": 1794675112,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
-     "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/14/jonathan-kreiss-tomkins-eletto-alaska-governatore/",
-     "title": "L’Alaska avrà il primo governatore Democratico dal 1998, e il più giovane della sua storia"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/15/aggressione-rabbino-milano-espulsione-tunisia-notizie/8572760/",
+     "title": "“Lo hanno preso per strada e portato in Tunisia senza un euro. È nato in Italia, non possono cacciarlo così”: parla il fratello dei ragazzi accusati dell’aggressione al rabbino"
     }
    ]
   },
@@ -263,35 +278,52 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Meloni-Messina, una telefonata per chiarirsi dopo le 'incomprensioni'",
-   "summary": "Evitare strumentalizzazioni nel rapporto Governo-banche. La parola chiave è 'ricucire'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-messina-una-telefonata-per-chiarirsi-dopo-le-incomprensioni_44e64f57-2657-4960-b7bf-c79677f0315e.html",
-   "pub_ts": 1794683911,
+   "title": "Cicr, gli Houthi in Yemen rilasciano 600 combattenti filo-governativi",
+   "summary": "Erano detenuti dalla ripresa delle ostilità a luglio",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/cicr-gli-houthi-in-yemen-rilasciano-600-combattenti-filo-governativi_76e766c7-a585-492d-83c0-653a0fc2619d.html",
+   "pub_ts": 1794755105,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-messina-una-telefonata-per-chiarirsi-dopo-le-incomprensioni_44e64f57-2657-4960-b7bf-c79677f0315e.html",
-     "title": "Meloni-Messina, una telefonata per chiarirsi dopo le 'incomprensioni'"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/cicr-gli-houthi-in-yemen-rilasciano-600-combattenti-filo-governativi_76e766c7-a585-492d-83c0-653a0fc2619d.html",
+     "title": "Cicr, gli Houthi in Yemen rilasciano 600 combattenti filo-governativi"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso",
-   "summary": "Sanzione da 805 milioni per l'uso di foto \"non autorizzato dell'utente\" su Facebook",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
-   "pub_ts": 1794692139,
-   "n_sources": 3,
+   "title": "Musk vuole il ritorno di Jensen Huang alla guida di NVIDIA",
+   "summary": "Elon Musk è uno dei firmatari della petizione con la quale viene chiesto al consiglio di amministrazione di reintegrare Jensen Huang come CEO. The post Musk vuole il ritorno di Jensen Huang alla guida di NVIDIA appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/musk-vuole-ritorno-jensen-huang-guida-nvidia/",
+   "pub_ts": 1794754788,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
-     "title": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/musk-vuole-ritorno-jensen-huang-guida-nvidia/",
+     "title": "Musk vuole il ritorno di Jensen Huang alla guida di NVIDIA"
     },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/caso-nvidia-bessent-accusa-lutnick-il-dipartimento-commercio-ha-ritardato-restrizioni-megaspeed-AJsYRZGC",
+     "title": "Nvidia, petizione per il reintegro di Huang. Firma anche Elon Musk"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update)",
+   "summary": "Il Garante della privacy ha inflitto una sanzione di 805 milioni di euro a Meta per l'accesso a foto e video senza consenso con l'app Facebook. The post Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update) appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/accesso-foto-video-senza-consenso-multa-805-milioni-meta/",
+   "pub_ts": 1794675495,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
     {
      "name": "Punto Informatico",
      "link": "https://www.punto-informatico.it/accesso-foto-video-senza-consenso-multa-805-milioni-meta/",
@@ -310,7 +342,7 @@
    "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria",
    "summary": "Il nodo degli indennizzi. Esperto cyber, 'assicurati non vuol dire protetti'",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
-   "pub_ts": 1794672814,
+   "pub_ts": 1794740719,
    "n_sources": 1,
    "documented": false,
    "sources": [
@@ -324,34 +356,17 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Charlie, le AI per chi",
-   "summary": "",
-   "link": "https://www.ilpost.it/newsletter/49548f382cf240f8b03560eb5a81997e/",
-   "pub_ts": 1794697200,
+   "title": "Foto Pitone dal wc con l'IA, a 9 anni semina panico ad Ancona",
+   "summary": "Una foto realizzata con l'intelligenza artificiale ha creato panico in provincia di Ancona",
+   "link": "https://www.rainews.it/articoli/2026/11/foto-pitone-dal-wc-con-lia-a-9-anni-semina-panico-ad-ancona-f5d0b62e-3132-4fb1-b68b-c37e7ede69a0.html",
+   "pub_ts": 1794759960,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/newsletter/49548f382cf240f8b03560eb5a81997e/",
-     "title": "Charlie, le AI per chi"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Microsoft 365: down causato da un intervento tecnico (update)",
-   "summary": "Microsoft ha comunicato che il malfunzionamento dei servizi è stato causato da un intervento di potenziamento della capacità di rete. The post Microsoft 365: down causato da un intervento tecnico (update) appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/microsoft-365-down-causato-intervento-tecnico/",
-   "pub_ts": 1794659991,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/microsoft-365-down-causato-intervento-tecnico/",
-     "title": "Microsoft 365: down causato da un intervento tecnico (update)"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/foto-pitone-dal-wc-con-lia-a-9-anni-semina-panico-ad-ancona-f5d0b62e-3132-4fb1-b68b-c37e7ede69a0.html",
+     "title": "Foto Pitone dal wc con l'IA, a 9 anni semina panico ad Ancona"
     }
    ]
   },
@@ -361,13 +376,18 @@
    "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
    "summary": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
    "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
-   "pub_ts": 1794663765,
-   "n_sources": 2,
+   "pub_ts": 1794739945,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
      "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
+     "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_2332397c-b458-46c0-b8d4-40daeccfc60b.html",
      "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento"
     },
     {
@@ -381,17 +401,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Al Bano: 'Se il Papa va a Gaza, ci vado anch'io al suo fianco'",
-   "summary": "Il cantante firma l'appello al Pontefice dell'associazione 'L'Isola che non c'è'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
-   "pub_ts": 1794732386,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia",
+   "summary": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
+   "pub_ts": 1794758823,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
-     "title": "Al Bano: 'Se il Papa va a Gaza, ci vado anch'io al suo fianco'"
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
+     "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_3253a34a-705f-45f5-b017-11102efb9147.html",
+     "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia"
     }
    ],
    "subtype": "cultura"
@@ -399,17 +424,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Steven Spielberg: \"Ho ancora l'entusiasmo di un ragazzino quando faccio un film\"",
-   "summary": "Il regista al galà di beneficenza cinematografico annuale del MoMA di New York",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/steven-spielberg-ho-ancora-lentusiasmo-di-un-ragazzino-quando-faccio-un-film_a995f667-7465-4d54-ad60-01e83c96a0bf.html",
-   "pub_ts": 1794731722,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Donne al centro nella new wave del cinema egiziano",
+   "summary": "Lotta per indipendenza e autonomia fil rouge al Cairo Film Festival",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/donne-al-centro-nella-new-wave-del-cinema-egiziano_09f1ed02-bc4c-4d84-bceb-93037bc447d9.html",
+   "pub_ts": 1794749332,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/donne-al-centro-nella-new-wave-del-cinema-egiziano_09f1ed02-bc4c-4d84-bceb-93037bc447d9.html",
+     "title": "Donne al centro nella new wave del cinema egiziano"
+    },
+    {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/steven-spielberg-ho-ancora-lentusiasmo-di-un-ragazzino-quando-faccio-un-film_a995f667-7465-4d54-ad60-01e83c96a0bf.html",
-     "title": "Steven Spielberg: \"Ho ancora l'entusiasmo di un ragazzino quando faccio un film\""
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/donne-al-centro-nella-new-wave-del-cinema-egiziano_f0d76f05-04c0-4d27-82a7-2ba2fbad50be.html",
+     "title": "Donne al centro nella new wave del cinema egiziano"
     }
    ],
    "subtype": "cultura"
@@ -417,17 +447,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Tumori, 'in 9 anni inutilizzati 3 miliardi del fondo farmaci innovativi'",
-   "summary": "Oncologi, 'dopo l'ok di Aifa servono fino a 400 giorni per accedere ai nuovi medicinali'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/tumori-in-9-anni-inutilizzati-3-miliardi-del-fondo-farmaci-innovativi_e32cc588-7131-494c-938e-20c5c0b9d261.html",
-   "pub_ts": 1794729672,
+   "title": ">ANSA-BOX/ Oncologo professione 'usurante', un emendamento in manovra",
+   "summary": "Berardi (Aiom), più supporto psicologico a professionisti per migliore assistenza pazienti",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/ansa-box-oncologo-professione-usurante-un-emendamento-in-manovra_cbd200ef-df06-41a5-aedc-a6d50228dd40.html",
+   "pub_ts": 1794753069,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/tumori-in-9-anni-inutilizzati-3-miliardi-del-fondo-farmaci-innovativi_e32cc588-7131-494c-938e-20c5c0b9d261.html",
-     "title": "Tumori, 'in 9 anni inutilizzati 3 miliardi del fondo farmaci innovativi'"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/ansa-box-oncologo-professione-usurante-un-emendamento-in-manovra_cbd200ef-df06-41a5-aedc-a6d50228dd40.html",
+     "title": ">ANSA-BOX/ Oncologo professione 'usurante', un emendamento in manovra"
     }
    ],
    "subtype": "scienza"
@@ -435,23 +465,32 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Sei oncologi su 10 a rischio di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia",
-   "summary": "Aiom, Per 54% anche scarso accesso a supporto psicologico e per 64% aggressioni verbali",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
-   "pub_ts": 1794729456,
+   "title": "Tumore seno, cure su misura con oncologia di precisione ma pazienti poco consapevoli",
+   "summary": "43% non conosce terapie mirate e solo 32% sa cos'è biopsia liquida. Aiom, più informazione",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/tumore-seno-cure-su-misura-con-oncologia-di-precisione-ma-pazienti-poco-consapevoli_0f6baf4d-8176-4606-89c9-fcba651cf334.html",
+   "pub_ts": 1794737400,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
-     "title": "Sei oncologi su 10 a rischio di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/tumore-seno-cure-su-misura-con-oncologia-di-precisione-ma-pazienti-poco-consapevoli_0f6baf4d-8176-4606-89c9-fcba651cf334.html",
+     "title": "Tumore seno, cure su misura con oncologia di precisione ma pazienti poco consapevoli"
     }
    ],
    "subtype": "scienza"
   }
  ],
  "articles": [
+  {
+   "title": "Ucraina, Cremlino: 'Se non ci sarà un accordo con l'Europa useremo la forza'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/ucraina-mosca-negozieremo-per-raggiungere-gli-obiettivi-fissati-da-putin-nel_b2d35761-af9c-44dd-964c-e157cfba1464.html",
+   "description": "'Negozieremo per raggiungere gli obiettivi fissati da Putin nel 2024'. Lavrov: 'Negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno. Capiscono che il convoglio sta partendo e vogliono prendere il vagone di coda'",
+   "pub_ts": 1794760957,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
   {
    "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
    "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
@@ -462,11 +501,29 @@
    "section": "politica"
   },
   {
-   "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi",
+   "title": "Trump scarica tutto su Biden: 'Sua la colpa del caos aerei'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+   "description": "Cancellati oggi negli Usa altri 1.400 voli dopo i 6.700 di sabato. Migliora la situazione dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
+   "pub_ts": 1794758693,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzhen una Yalta con Trump e Xi",
    "link": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/?rss",
    "description": "Il documento consegnato agli americani: “Il Patto atlantico deve ritirarsi ai confini del 1997”. Il ritorno alle sfere di influenza",
-   "pub_ts": 1794727320,
+   "pub_ts": 1794736355,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Atreju: Conte va alla festa di FdI, Schlein no",
+   "link": "https://www.repubblica.it/politica/2026/11/15/news/atreju_conte_va_alla_festa_di_fdi_schlein_no-425725312/",
+   "description": "Il leader M5s accetta l’invito: “Sarò lì per ricordare a Meloni gli errori di questi quattro anni”. La segretaria dem declina: “Il confronto si fa in Parlamento”. No anche da Fratoianni e Bonelli. Renzi ci sarà, presenza data per scontata per Calenda",
+   "pub_ts": 1794755015,
+   "source": "la Repubblica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -480,47 +537,20 @@
    "section": "politica"
   },
   {
-   "title": "Cancellati sabato negli Usa 6.500 voli, oggi almeno altri 760",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-sabato-negli-usa-6.500-voli-oggi-almeno-altri-760_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
-   "description": "Proseguono i disagi dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
-   "pub_ts": 1794732177,
+   "title": "Vigilanza Rai, Richetti: 'Non farò mai il presidente di nulla per conto della destra'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/vigilanza-rai-richetti-non-faro-mai-il-presidente-di-nulla-per-conto_b098c0d7-1b2d-452b-a641-ac71ecac7d33.html",
+   "description": "'Ma l'opposizione si fa dando battaglia non dimettendosi dagli organismi parlamentari'",
+   "pub_ts": 1794746500,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
-   "description": "'Solo una coalizione con me garantisce la sicurezza d'Israele', dice il premier",
-   "pub_ts": 1794690461,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
-   "description": "Il leader dell'ultradestra si riallinea all'establishment e affida il dossier a un falco",
-   "pub_ts": 1794677675,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "YouTube blocca 16 canali russi in Ucraina, tra cui versioni di Masha e Orso",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/youtube-blocca-16-canali-russi-in-ucraina-tra-cui-versioni-di-masha-e-orso_5e8e7efe-2664-4be5-9913-b72904a473fb.html",
-   "description": "Centro per lotta alla disinformazione, 'canali propagandisti russi e blogger filobellici'",
-   "pub_ts": 1794729059,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
-   "description": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
-   "pub_ts": 1794675112,
-   "source": "ANSA Mondo",
+   "title": "“Mio fratello ha chiesto scusa al rabbino. Ma non si può cacciare così un ragazzo nato in Italia”",
+   "link": "https://milano.repubblica.it/cronaca/2026/11/15/news/aggressione_rabbino_intervista_fratello_cpr_espulso_mouthanna-425724940/",
+   "description": "Dopo l’aggressione a un religioso a Milano, un ragazzo è stato espulso e un altro è al Cpr. Il terzogenito della famiglia, di origine tunisina, dice: “Mia mamma è distrutta. Noi studiamo e lavoriamo, non conosciamo nemmeno l’arabo. Deluso per non avere la cittadinanza”",
+   "pub_ts": 1794752028,
+   "source": "la Repubblica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -534,20 +564,29 @@
    "section": "politica"
   },
   {
-   "title": "Meloni-Messina, una telefonata per chiarirsi dopo le 'incomprensioni'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-messina-una-telefonata-per-chiarirsi-dopo-le-incomprensioni_44e64f57-2657-4960-b7bf-c79677f0315e.html",
-   "description": "Evitare strumentalizzazioni nel rapporto Governo-banche. La parola chiave è 'ricucire'",
-   "pub_ts": 1794683911,
-   "source": "ANSA Politica",
+   "title": "Cicr, gli Houthi in Yemen rilasciano 600 combattenti filo-governativi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/cicr-gli-houthi-in-yemen-rilasciano-600-combattenti-filo-governativi_76e766c7-a585-492d-83c0-653a0fc2619d.html",
+   "description": "Erano detenuti dalla ripresa delle ostilità a luglio",
+   "pub_ts": 1794755105,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
-   "description": "Sanzione da 805 milioni per l'uso di foto \"non autorizzato dell'utente\" su Facebook",
-   "pub_ts": 1794692139,
-   "source": "ANSA",
+   "title": "Musk vuole il ritorno di Jensen Huang alla guida di NVIDIA",
+   "link": "https://www.punto-informatico.it/musk-vuole-ritorno-jensen-huang-guida-nvidia/",
+   "description": "Elon Musk è uno dei firmatari della petizione con la quale viene chiesto al consiglio di amministrazione di reintegrare Jensen Huang come CEO. The post Musk vuole il ritorno di Jensen Huang alla guida di NVIDIA appeared first on Punto Informatico .",
+   "pub_ts": 1794754788,
+   "source": "Punto Informatico",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update)",
+   "link": "https://www.punto-informatico.it/accesso-foto-video-senza-consenso-multa-805-milioni-meta/",
+   "description": "Il Garante della privacy ha inflitto una sanzione di 805 milioni di euro a Meta per l'accesso a foto e video senza consenso con l'app Facebook. The post Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update) appeared first on Punto Informatico .",
+   "pub_ts": 1794675495,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
@@ -555,26 +594,17 @@
    "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
    "description": "Il nodo degli indennizzi. Esperto cyber, 'assicurati non vuol dire protetti'",
-   "pub_ts": 1794672814,
+   "pub_ts": 1794740719,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Charlie, le AI per chi",
-   "link": "https://www.ilpost.it/newsletter/49548f382cf240f8b03560eb5a81997e/",
-   "description": "",
-   "pub_ts": 1794697200,
-   "source": "Il Post",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Microsoft 365: down causato da un intervento tecnico (update)",
-   "link": "https://www.punto-informatico.it/microsoft-365-down-causato-intervento-tecnico/",
-   "description": "Microsoft ha comunicato che il malfunzionamento dei servizi è stato causato da un intervento di potenziamento della capacità di rete. The post Microsoft 365: down causato da un intervento tecnico (update) appeared first on Punto Informatico .",
-   "pub_ts": 1794659991,
-   "source": "Punto Informatico",
+   "title": "Foto Pitone dal wc con l'IA, a 9 anni semina panico ad Ancona",
+   "link": "https://www.rainews.it/articoli/2026/11/foto-pitone-dal-wc-con-lia-a-9-anni-semina-panico-ad-ancona-f5d0b62e-3132-4fb1-b68b-c37e7ede69a0.html",
+   "description": "Una foto realizzata con l'intelligenza artificiale ha creato panico in provincia di Ancona",
+   "pub_ts": 1794759960,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "tech"
   },
@@ -582,43 +612,43 @@
    "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
    "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
    "description": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
-   "pub_ts": 1794663765,
+   "pub_ts": 1794739945,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Al Bano: 'Se il Papa va a Gaza, ci vado anch'io al suo fianco'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
-   "description": "Il cantante firma l'appello al Pontefice dell'associazione 'L'Isola che non c'è'",
-   "pub_ts": 1794732386,
+   "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
+   "description": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
+   "pub_ts": 1794758823,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Steven Spielberg: \"Ho ancora l'entusiasmo di un ragazzino quando faccio un film\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/steven-spielberg-ho-ancora-lentusiasmo-di-un-ragazzino-quando-faccio-un-film_a995f667-7465-4d54-ad60-01e83c96a0bf.html",
-   "description": "Il regista al galà di beneficenza cinematografico annuale del MoMA di New York",
-   "pub_ts": 1794731722,
-   "source": "ANSA Cultura",
+   "title": "Donne al centro nella new wave del cinema egiziano",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/donne-al-centro-nella-new-wave-del-cinema-egiziano_09f1ed02-bc4c-4d84-bceb-93037bc447d9.html",
+   "description": "Lotta per indipendenza e autonomia fil rouge al Cairo Film Festival",
+   "pub_ts": 1794749332,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Tumori, 'in 9 anni inutilizzati 3 miliardi del fondo farmaci innovativi'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/tumori-in-9-anni-inutilizzati-3-miliardi-del-fondo-farmaci-innovativi_e32cc588-7131-494c-938e-20c5c0b9d261.html",
-   "description": "Oncologi, 'dopo l'ok di Aifa servono fino a 400 giorni per accedere ai nuovi medicinali'",
-   "pub_ts": 1794729672,
+   "title": ">ANSA-BOX/ Oncologo professione 'usurante', un emendamento in manovra",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/ansa-box-oncologo-professione-usurante-un-emendamento-in-manovra_cbd200ef-df06-41a5-aedc-a6d50228dd40.html",
+   "description": "Berardi (Aiom), più supporto psicologico a professionisti per migliore assistenza pazienti",
+   "pub_ts": 1794753069,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Sei oncologi su 10 a rischio di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
-   "description": "Aiom, Per 54% anche scarso accesso a supporto psicologico e per 64% aggressioni verbali",
-   "pub_ts": 1794729456,
+   "title": "Tumore seno, cure su misura con oncologia di precisione ma pazienti poco consapevoli",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/tumore-seno-cure-su-misura-con-oncologia-di-precisione-ma-pazienti-poco-consapevoli_0f6baf4d-8176-4606-89c9-fcba651cf334.html",
+   "description": "43% non conosce terapie mirate e solo 32% sa cos'è biopsia liquida. Aiom, più informazione",
+   "pub_ts": 1794737400,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
