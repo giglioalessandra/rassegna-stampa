@@ -1,6 +1,6 @@
 {
- "generated_at": 1794706864,
- "updated_at": 1794706864,
+ "generated_at": 1794733446,
+ "updated_at": 1794733446,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,17 +10,17 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass'",
-   "summary": "La Russia chiede il ritorno dell'Alleanza ai confini del 1997",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
-   "pub_ts": 1794697353,
-   "n_sources": 5,
+   "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
+   "summary": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
+   "pub_ts": 1794729995,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
-     "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
+     "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”"
     },
     {
      "name": "ANSA Mondo",
@@ -33,100 +33,51 @@
      "title": "Ucraina, Zelensky svela la proposta di Trump: \"Nato in cambio del Donbass. Putin? Vuole cambiare i confini d'Europa\""
     },
     {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/",
+     "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”"
+    },
+    {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/idee/commenti/trump-e-putin-hanno-teso-una-trappola-a-zelensky-xcef93ac",
      "title": "Trump e Putin hanno teso una trappola a Zelensky"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/ucraina-svolta-di-zelensky-donbass-in-cambio-della-nato-chiedero-al-popolo/",
-     "title": "Ucraina, svolta di Zelensky: “Donbass in cambio della Nato? Chiederò al popolo”"
+     "link": "https://www.nicolaporro.it/non-solo-il-donbass-putin-presenta-il-conto-ecco-cosa-vuole-dalla-nato/",
+     "title": "Non solo il Donbass: Putin presenta il conto. Ecco cosa vuole dalla Nato"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
-   "pub_ts": 1794675004,
+   "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi",
+   "summary": "Il documento consegnato agli americani: “Il Patto atlantico deve ritirarsi ai confini del 1997”. Il ritorno alle sfere di influenza",
+   "link": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/?rss",
+   "pub_ts": 1794727320,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
-     "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/14/stati-uniti-problemi-voli-cancellati-ritardi/",
-     "title": "I grossi problemi con i voli negli Stati Uniti"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/stati-uniti-caos-voli-ritardi-cancellazioni-software-cosa-e-successo-nor4rbiv",
-     "title": "Stati Uniti, traffico aereo in tilt per 4 ore: migliaia di voli in ritardo o cancellati"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/stop-voli-usa-revocato-cosa-e-successo-ultime-notizie_47P9GTKjc1xktl6qCn2JKm",
-     "title": "Usa, tilt al traffico aereo: oltre 16mila voli cancellati. Duffy: \"Guasto durante il passaggio dal rame alla fibra\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'",
-   "summary": "Stallo con Eisenkot, all'oscuro di missione Mossad in Usa. Monito Ue su inferno Gaza",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
-   "pub_ts": 1794690461,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
-     "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/?rss",
+     "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
-     "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
+     "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/14/netanyahu-governo-unita-nazionale-scontro-eisenkot/",
-     "title": "Netanyahu vuole un governo di unità nazionale e la guerra all’Iran «una volta per tutte». Il muro di Eisenkot e i sospetti: «Vuole restare al potere»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
-   "summary": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
-   "pub_ts": 1794675112,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
-     "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/trump-putin-e-xi-in-posa-come-a-yalta-il-dipinto-di-un-artista-russo-f82bfa60-9094-43d9-b176-950c66351cec.html",
+     "title": "Trump, Putin e Xi in posa come a Yalta: il dipinto di un artista russo"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/14/jonathan-kreiss-tomkins-eletto-alaska-governatore/",
-     "title": "L’Alaska avrà il primo governatore Democratico dal 1998, e il più giovane della sua storia"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/elezioni-alaska-primo-governatore-dem-1998-kreiss-tomkins/8572172/",
-     "title": "In Alaska eletto per la prima volta dal 1998 un governatore democratico: è Jonathan Kreiss-Tomkins"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/",
+     "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi"
     }
    ]
   },
@@ -137,13 +88,23 @@
    "summary": "Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
    "pub_ts": 1794679758,
-   "n_sources": 2,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
      "title": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/?rss",
+     "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/",
+     "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X"
     },
     {
      "name": "Adnkronos Esteri",
@@ -155,11 +116,65 @@
   {
    "category": "politica",
    "area": "mondo",
+   "title": "Cancellati sabato negli Usa 6.500 voli, oggi almeno altri 760",
+   "summary": "Proseguono i disagi dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-sabato-negli-usa-6.500-voli-oggi-almeno-altri-760_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+   "pub_ts": 1794732177,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-sabato-negli-usa-6.500-voli-oggi-almeno-altri-760_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+     "title": "Cancellati sabato negli Usa 6.500 voli, oggi almeno altri 760"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/federal-aviation-piu-di-16.000-voli-cancellati-fra-ieri-e-oggi_cf6a376e-23ff-4edd-b753-881d92479b20.html",
+     "title": "Federal Aviation, più di 16.000 voli cancellati fra ieri e oggi"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/caos-voli-usa-voli-cancellati-ultime-news_4SYWhb6fxVMMN9DDUfHZ2b",
+     "title": "Caos nei cieli Usa, sabato cancellati quasi 6.500 voli: oggi già altri 760"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'",
+   "summary": "'Solo una coalizione con me garantisce la sicurezza d'Israele', dice il premier",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
+   "pub_ts": 1794690461,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
+     "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
+     "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/14/netanyahu-governo-unita-nazionale-scontro-eisenkot/",
+     "title": "Netanyahu vuole un governo di unità nazionale e la guerra all’Iran «una volta per tutte». Il muro di Eisenkot e i sospetti: «Vuole restare al potere»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'",
    "summary": "Il leader dell'ultradestra si riallinea all'establishment e affida il dossier a un falco",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
    "pub_ts": 1794677675,
-   "n_sources": 2,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -171,94 +186,94 @@
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/farage-suggella-la-rottura-con-putin-mosca-e-minacca-numero-1-per-gb_6d53f2ff-51ca-4dc1-840a-194cdf7a2504.html",
      "title": "Farage suggella la rottura con Putin, 'Mosca è minacca numero 1 per Gb'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
+     "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
-   "summary": "Il portavoce Peskov: 'Raggiunto un accordo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
-   "pub_ts": 1794672161,
+   "title": "YouTube blocca 16 canali russi in Ucraina, tra cui versioni di Masha e Orso",
+   "summary": "Centro per lotta alla disinformazione, 'canali propagandisti russi e blogger filobellici'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/youtube-blocca-16-canali-russi-in-ucraina-tra-cui-versioni-di-masha-e-orso_5e8e7efe-2664-4be5-9913-b72904a473fb.html",
+   "pub_ts": 1794729059,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/youtube-blocca-16-canali-russi-in-ucraina-tra-cui-versioni-di-masha-e-orso_5e8e7efe-2664-4be5-9913-b72904a473fb.html",
+     "title": "YouTube blocca 16 canali russi in Ucraina, tra cui versioni di Masha e Orso"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/nuovo-stop-di-youtube-a-masha-e-orso-in-ucraina_5bc38465-e5fb-4513-9c28-bbfbf39348a5.html",
+     "title": "Nuovo stop di YouTube a 'Masha e Orso' in Ucraina"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
+   "summary": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
+   "pub_ts": 1794675112,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
-     "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
+     "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/vertice-trump-putin-xi-shenzhen-nucleare-notizie/8572128/",
-     "title": "Trump, Putin e Xi: trilaterale il 19 novembre in Cina. Al centro disarmo nucleare e Iran, esclusa dal tavolo la guerra in Ucraina"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il black out aereo negli Usa: cosa è successo?",
-   "summary": "Potrebbero essere stati aggiornamenti software a causare lo stop di 4mila voli negli Stati Uniti. L'episodio svela la fragilità delle reti informatiche e la necessità urgente di sistemi resilienti",
-   "link": "https://www.rainews.it/video/2026/11/il-black-out-aereo-negli-usa-cosa-e-successo-bf4fa9f5-53c7-4ba5-b0ea-85edcd06be77.html",
-   "pub_ts": 1794681300,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/il-black-out-aereo-negli-usa-cosa-e-successo-bf4fa9f5-53c7-4ba5-b0ea-85edcd06be77.html",
-     "title": "Il black out aereo negli Usa: cosa è successo?"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/microsoft-outlook-ripristinati-servizi-ultime-news_6Q94rH1EbRLPWEm1CQw1pY",
-     "title": "Microsoft, ripristinati tutti i servizi: ecco cosa è successo"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/14/jonathan-kreiss-tomkins-eletto-alaska-governatore/",
+     "title": "L’Alaska avrà il primo governatore Democratico dal 1998, e il più giovane della sua storia"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Schlein dice no ad Atreju: «Confronto in parlamento, agli italiani non serve una festa ma riscrivere la manovra»",
-   "summary": "Al Nazareno arriva l’invito alla kermesse di Fratelli d’Italia, in programma a Roma dal 3 dicembre. Ma anche quest’anno la segretaria Pd declina. Lo scorso anno si era resa disponibile a salire sul palco, ma solo per un faccia a faccia con la premier. Che aveva rilanciato: dibattito a tre, anche con Conte, perché il centrosinistra non ha un leader riconosciuto. Il presidente M5s alla fine aveva…",
-   "link": "https://www.editorialedomani.it/politica/italia/schlein-no-atreju-meloni-confronto-in-parlamento-f031216v",
-   "pub_ts": 1794648632,
+   "title": "Trump cerca la svolta a Gaza. Il Board non ha soldi né piani",
+   "summary": "Il presidente Usa tenta di sbloccare 2,45 miliardi prima che si insedi il Congresso a guida dem. I progetti annunciati concentrano risorse sulla sicurezza. Solo l’1 per cento per l’economia locale",
+   "link": "https://www.editorialedomani.it/politica/mondo/trump-cerca-la-svolta-a-gaza-il-board-non-ha-soldi-ne-piani-kh6gir5k",
+   "pub_ts": 1794722400,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/schlein-no-atreju-meloni-confronto-in-parlamento-f031216v",
-     "title": "Schlein dice no ad Atreju: «Confronto in parlamento, agli italiani non serve una festa ma riscrivere la manovra»"
+     "link": "https://www.editorialedomani.it/politica/mondo/trump-cerca-la-svolta-a-gaza-il-board-non-ha-soldi-ne-piani-kh6gir5k",
+     "title": "Trump cerca la svolta a Gaza. Il Board non ha soldi né piani"
     },
     {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/politicoquotidiano/no-ad-atreju-schlein-scappa-da-meloni-ma-di-cosa-ha-paura/",
-     "title": "“No ad Atreju”: Schlein scappa da Meloni. Ma di cosa ha paura?"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/newsletter/bb9cc7679fabb3deaf9a958b6368e9d1/",
+     "title": "Chi cerca di informare Israele su Gaza"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Un governo in retromarcia, saltano i tagli alla scuola",
-   "summary": "Tradite le promesse di Matteo Salvini sulle infrastrutture. I cantieri rischiano di chiudere. Meloni difende la legge: «Potere d’acquisto rafforzato». Per Eurostat il Pil italiano è fermo. La cgil conferma lo sciopero del 20 novembre",
-   "link": "https://www.editorialedomani.it/politica/italia/manovra-governo-retromarcia-tagli-scuola-sindacati-wkgnba0d",
-   "pub_ts": 1794647361,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Meloni-Messina, una telefonata per chiarirsi dopo le 'incomprensioni'",
+   "summary": "Evitare strumentalizzazioni nel rapporto Governo-banche. La parola chiave è 'ricucire'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-messina-una-telefonata-per-chiarirsi-dopo-le-incomprensioni_44e64f57-2657-4960-b7bf-c79677f0315e.html",
+   "pub_ts": 1794683911,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/manovra-governo-retromarcia-tagli-scuola-sindacati-wkgnba0d",
-     "title": "Un governo in retromarcia, saltano i tagli alla scuola"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/zuppa-di-porro/zuppa-di-porro-del-14-novembre-2026/",
-     "title": "Tagli alla scuola: una cosa buona aveva fatto il governo ma se la rimangia"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-messina-una-telefonata-per-chiarirsi-dopo-le-incomprensioni_44e64f57-2657-4960-b7bf-c79677f0315e.html",
+     "title": "Meloni-Messina, una telefonata per chiarirsi dopo le 'incomprensioni'"
     }
    ]
   },
@@ -280,56 +295,12 @@
     {
      "name": "Punto Informatico",
      "link": "https://www.punto-informatico.it/accesso-foto-video-senza-consenso-multa-805-milioni-meta/",
-     "title": "Accesso a foto e video senza consenso, multa di 805 milioni a Meta"
+     "title": "Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update)"
     },
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/14/garante-privacy-multa-meta-805-euro-facebook-foto-galleria-android/",
-     "title": "Il Garante della Privacy ha multato Meta per 805 milioni di euro per l’accesso alle foto sugli smartphone senza il consenso delle persone"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
-   "summary": "Messaggi da account sospetti. Salvini: 'Ci insultano'. Non si parli di hacker russi",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
-   "pub_ts": 1794693252,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
-     "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/down-microsoft-fax/",
-     "title": "Il down di Microsoft ha riportato in vita i fax"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
-   "summary": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
-   "pub_ts": 1794587335,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
-     "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down"
-    },
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_237e2ab2-4aff-4713-9398-ae1b59ecd750.html",
-     "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down"
+     "title": "Il Garante della Privacy ha multato Meta per 805 milioni di euro"
     }
    ]
   },
@@ -347,6 +318,40 @@
      "name": "ANSA Tecnologia",
      "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
      "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Charlie, le AI per chi",
+   "summary": "",
+   "link": "https://www.ilpost.it/newsletter/49548f382cf240f8b03560eb5a81997e/",
+   "pub_ts": 1794697200,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/newsletter/49548f382cf240f8b03560eb5a81997e/",
+     "title": "Charlie, le AI per chi"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Microsoft 365: down causato da un intervento tecnico (update)",
+   "summary": "Microsoft ha comunicato che il malfunzionamento dei servizi è stato causato da un intervento di potenziamento della capacità di rete. The post Microsoft 365: down causato da un intervento tecnico (update) appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/microsoft-365-down-causato-intervento-tecnico/",
+   "pub_ts": 1794659991,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/microsoft-365-down-causato-intervento-tecnico/",
+     "title": "Microsoft 365: down causato da un intervento tecnico (update)"
     }
    ]
   },
@@ -376,40 +381,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna",
-   "summary": "E' il primo trapianto renale robotico da donatore vivente eseguito dall'Asufc",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
-   "pub_ts": 1794591039,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
-     "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-lincompatibilita-sanguigna_045c89a4-4e51-414c-b90c-0876c9e3d673.html",
-     "title": "A Udine marito dona un rene alla moglie superando l'incompatibilità sanguigna"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Agli EFA 2027 testa a testa tra Fatherland e La bola negra",
-   "summary": "Premiazione il 16 gennaio ad Atene",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/14/agli-efa-2027-testa-a-testa-tra-fatherland-e-la-bola-negra_8ba79f60-a74e-45c0-bfb0-0e956808da89.html",
-   "pub_ts": 1794677807,
+   "title": "Al Bano: 'Se il Papa va a Gaza, ci vado anch'io al suo fianco'",
+   "summary": "Il cantante firma l'appello al Pontefice dell'associazione 'L'Isola che non c'è'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
+   "pub_ts": 1794732386,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/14/agli-efa-2027-testa-a-testa-tra-fatherland-e-la-bola-negra_8ba79f60-a74e-45c0-bfb0-0e956808da89.html",
-     "title": "Agli EFA 2027 testa a testa tra Fatherland e La bola negra"
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
+     "title": "Al Bano: 'Se il Papa va a Gaza, ci vado anch'io al suo fianco'"
     }
    ],
    "subtype": "cultura"
@@ -417,17 +399,35 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Sei oncologi su 10 malati di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia",
-   "summary": "Aiom, Per 54% anche scarso accesso a supporto psicologico e per 64% aggressioni verbali",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
-   "pub_ts": 1794671301,
+   "title": "Steven Spielberg: \"Ho ancora l'entusiasmo di un ragazzino quando faccio un film\"",
+   "summary": "Il regista al galà di beneficenza cinematografico annuale del MoMA di New York",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/steven-spielberg-ho-ancora-lentusiasmo-di-un-ragazzino-quando-faccio-un-film_a995f667-7465-4d54-ad60-01e83c96a0bf.html",
+   "pub_ts": 1794731722,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/steven-spielberg-ho-ancora-lentusiasmo-di-un-ragazzino-quando-faccio-un-film_a995f667-7465-4d54-ad60-01e83c96a0bf.html",
+     "title": "Steven Spielberg: \"Ho ancora l'entusiasmo di un ragazzino quando faccio un film\""
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Tumori, 'in 9 anni inutilizzati 3 miliardi del fondo farmaci innovativi'",
+   "summary": "Oncologi, 'dopo l'ok di Aifa servono fino a 400 giorni per accedere ai nuovi medicinali'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/tumori-in-9-anni-inutilizzati-3-miliardi-del-fondo-farmaci-innovativi_e32cc588-7131-494c-938e-20c5c0b9d261.html",
+   "pub_ts": 1794729672,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
-     "title": "Sei oncologi su 10 malati di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/tumori-in-9-anni-inutilizzati-3-miliardi-del-fondo-farmaci-innovativi_e32cc588-7131-494c-938e-20c5c0b9d261.html",
+     "title": "Tumori, 'in 9 anni inutilizzati 3 miliardi del fondo farmaci innovativi'"
     }
    ],
    "subtype": "scienza"
@@ -435,83 +435,38 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Aiom, in Italia 3mila oncologi per 4 milioni che convivono con tumore",
-   "summary": "Berardi, 'numero insufficiente. Pesa il lavoro 'invisibile' dei medici'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/aiom-in-italia-3mila-oncologi-per-4-milioni-che-convivono-con-tumore_cd88a34b-9343-4db9-9216-bad0a49f0426.html",
-   "pub_ts": 1794668922,
+   "title": "Sei oncologi su 10 a rischio di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia",
+   "summary": "Aiom, Per 54% anche scarso accesso a supporto psicologico e per 64% aggressioni verbali",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
+   "pub_ts": 1794729456,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/aiom-in-italia-3mila-oncologi-per-4-milioni-che-convivono-con-tumore_cd88a34b-9343-4db9-9216-bad0a49f0426.html",
-     "title": "Aiom, in Italia 3mila oncologi per 4 milioni che convivono con tumore"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
+     "title": "Sei oncologi su 10 a rischio di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia"
     }
    ],
    "subtype": "scienza"
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Scontro tra due auto in galleria, cinque morti nel Cosentino",
-   "summary": "Morti tutti gli occupanti dei veicoli, l'impatto in una curva",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
-   "pub_ts": 1794688440,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
-     "title": "Scontro tra due auto in galleria, cinque morti nel Cosentino"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/scontro-tra-due-auto-un-cumulo-di-lamiere-in-galleria-morti-tutti-gli-occupanti-dei-veicoli-37dbcc18-45a0-4998-876a-2bc95197598c.html",
-     "title": "Scontro tra due auto: un cumulo di lamiere in galleria. Morti tutti gli occupanti dei veicoli"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/incidente-galleria-san-fili-cinque-vittime-notizie/8572149/",
-     "title": "Scontro frontale tra due auto in galleria nel Cosentino: morti quattro donne e un uomo"
-    }
-   ]
   }
  ],
  "articles": [
   {
-   "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
-   "description": "La Russia chiede il ritorno dell'Alleanza ai confini del 1997",
-   "pub_ts": 1794697353,
-   "source": "ANSA",
+   "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
+   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
+   "description": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
+   "pub_ts": 1794729995,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html",
-   "description": "",
-   "pub_ts": 1794675004,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
-   "description": "Stallo con Eisenkot, all'oscuro di missione Mossad in Usa. Monito Ue su inferno Gaza",
-   "pub_ts": 1794690461,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
-   "description": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
-   "pub_ts": 1794675112,
-   "source": "ANSA Mondo",
+   "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi",
+   "link": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/?rss",
+   "description": "Il documento consegnato agli americani: “Il Patto atlantico deve ritirarsi ai confini del 1997”. Il ritorno alle sfere di influenza",
+   "pub_ts": 1794727320,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -520,6 +475,24 @@
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
    "description": "Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni",
    "pub_ts": 1794679758,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Cancellati sabato negli Usa 6.500 voli, oggi almeno altri 760",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-sabato-negli-usa-6.500-voli-oggi-almeno-altri-760_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+   "description": "Proseguono i disagi dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
+   "pub_ts": 1794732177,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
+   "description": "'Solo una coalizione con me garantisce la sicurezza d'Israele', dice il premier",
+   "pub_ts": 1794690461,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
@@ -534,38 +507,38 @@
    "section": "politica"
   },
   {
-   "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
-   "description": "Il portavoce Peskov: 'Raggiunto un accordo'",
-   "pub_ts": 1794672161,
+   "title": "YouTube blocca 16 canali russi in Ucraina, tra cui versioni di Masha e Orso",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/youtube-blocca-16-canali-russi-in-ucraina-tra-cui-versioni-di-masha-e-orso_5e8e7efe-2664-4be5-9913-b72904a473fb.html",
+   "description": "Centro per lotta alla disinformazione, 'canali propagandisti russi e blogger filobellici'",
+   "pub_ts": 1794729059,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
+   "description": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
+   "pub_ts": 1794675112,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Il black out aereo negli Usa: cosa è successo?",
-   "link": "https://www.rainews.it/video/2026/11/il-black-out-aereo-negli-usa-cosa-e-successo-bf4fa9f5-53c7-4ba5-b0ea-85edcd06be77.html",
-   "description": "Potrebbero essere stati aggiornamenti software a causare lo stop di 4mila voli negli Stati Uniti. L'episodio svela la fragilità delle reti informatiche e la necessità urgente di sistemi resilienti",
-   "pub_ts": 1794681300,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Schlein dice no ad Atreju: «Confronto in parlamento, agli italiani non serve una festa ma riscrivere la manovra»",
-   "link": "https://www.editorialedomani.it/politica/italia/schlein-no-atreju-meloni-confronto-in-parlamento-f031216v",
-   "description": "Al Nazareno arriva l’invito alla kermesse di Fratelli d’Italia, in programma a Roma dal 3 dicembre. Ma anche quest’anno la segretaria Pd declina. Lo scorso anno si era resa disponibile a salire sul palco, ma solo per un faccia a faccia con la premier. Che aveva rilanciato: dibattito a tre, anche con Conte, perché il centrosinistra non ha un leader riconosciuto. Il presidente M5s alla fine aveva…",
-   "pub_ts": 1794648632,
+   "title": "Trump cerca la svolta a Gaza. Il Board non ha soldi né piani",
+   "link": "https://www.editorialedomani.it/politica/mondo/trump-cerca-la-svolta-a-gaza-il-board-non-ha-soldi-ne-piani-kh6gir5k",
+   "description": "Il presidente Usa tenta di sbloccare 2,45 miliardi prima che si insedi il Congresso a guida dem. I progetti annunciati concentrano risorse sulla sicurezza. Solo l’1 per cento per l’economia locale",
+   "pub_ts": 1794722400,
    "source": "Domani",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Un governo in retromarcia, saltano i tagli alla scuola",
-   "link": "https://www.editorialedomani.it/politica/italia/manovra-governo-retromarcia-tagli-scuola-sindacati-wkgnba0d",
-   "description": "Tradite le promesse di Matteo Salvini sulle infrastrutture. I cantieri rischiano di chiudere. Meloni difende la legge: «Potere d’acquisto rafforzato». Per Eurostat il Pil italiano è fermo. La cgil conferma lo sciopero del 20 novembre",
-   "pub_ts": 1794647361,
-   "source": "Domani",
+   "title": "Meloni-Messina, una telefonata per chiarirsi dopo le 'incomprensioni'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/meloni-messina-una-telefonata-per-chiarirsi-dopo-le-incomprensioni_44e64f57-2657-4960-b7bf-c79677f0315e.html",
+   "description": "Evitare strumentalizzazioni nel rapporto Governo-banche. La parola chiave è 'ricucire'",
+   "pub_ts": 1794683911,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -579,29 +552,29 @@
    "section": "tech"
   },
   {
-   "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
-   "description": "Messaggi da account sospetti. Salvini: 'Ci insultano'. Non si parli di hacker russi",
-   "pub_ts": 1794693252,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
-   "description": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
-   "pub_ts": 1794587335,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
    "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
    "description": "Il nodo degli indennizzi. Esperto cyber, 'assicurati non vuol dire protetti'",
    "pub_ts": 1794672814,
    "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Charlie, le AI per chi",
+   "link": "https://www.ilpost.it/newsletter/49548f382cf240f8b03560eb5a81997e/",
+   "description": "",
+   "pub_ts": 1794697200,
+   "source": "Il Post",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Microsoft 365: down causato da un intervento tecnico (update)",
+   "link": "https://www.punto-informatico.it/microsoft-365-down-causato-intervento-tecnico/",
+   "description": "Microsoft ha comunicato che il malfunzionamento dei servizi è stato causato da un intervento di potenziamento della capacità di rete. The post Microsoft 365: down causato da un intervento tecnico (update) appeared first on Punto Informatico .",
+   "pub_ts": 1794659991,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
@@ -615,49 +588,40 @@
    "section": "varia"
   },
   {
-   "title": "A Udine marito dona un rene alla moglie superando incompatibilità sanguigna",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/13/a-udine-marito-dona-un-rene-alla-moglie-superando-incompatibilita-sanguigna_88fdb2a1-bc6f-4f85-9aff-cfb23acb396b.html",
-   "description": "E' il primo trapianto renale robotico da donatore vivente eseguito dall'Asufc",
-   "pub_ts": 1794591039,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Agli EFA 2027 testa a testa tra Fatherland e La bola negra",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/14/agli-efa-2027-testa-a-testa-tra-fatherland-e-la-bola-negra_8ba79f60-a74e-45c0-bfb0-0e956808da89.html",
-   "description": "Premiazione il 16 gennaio ad Atene",
-   "pub_ts": 1794677807,
+   "title": "Al Bano: 'Se il Papa va a Gaza, ci vado anch'io al suo fianco'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
+   "description": "Il cantante firma l'appello al Pontefice dell'associazione 'L'Isola che non c'è'",
+   "pub_ts": 1794732386,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Sei oncologi su 10 malati di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia",
+   "title": "Steven Spielberg: \"Ho ancora l'entusiasmo di un ragazzino quando faccio un film\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/steven-spielberg-ho-ancora-lentusiasmo-di-un-ragazzino-quando-faccio-un-film_a995f667-7465-4d54-ad60-01e83c96a0bf.html",
+   "description": "Il regista al galà di beneficenza cinematografico annuale del MoMA di New York",
+   "pub_ts": 1794731722,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Tumori, 'in 9 anni inutilizzati 3 miliardi del fondo farmaci innovativi'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/tumori-in-9-anni-inutilizzati-3-miliardi-del-fondo-farmaci-innovativi_e32cc588-7131-494c-938e-20c5c0b9d261.html",
+   "description": "Oncologi, 'dopo l'ok di Aifa servono fino a 400 giorni per accedere ai nuovi medicinali'",
+   "pub_ts": 1794729672,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Sei oncologi su 10 a rischio di burnout e per il 55% troppo tempo da dover dedicare alla burocrazia",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
    "description": "Aiom, Per 54% anche scarso accesso a supporto psicologico e per 64% aggressioni verbali",
-   "pub_ts": 1794671301,
+   "pub_ts": 1794729456,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
-  },
-  {
-   "title": "Aiom, in Italia 3mila oncologi per 4 milioni che convivono con tumore",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/aiom-in-italia-3mila-oncologi-per-4-milioni-che-convivono-con-tumore_cd88a34b-9343-4db9-9216-bad0a49f0426.html",
-   "description": "Berardi, 'numero insufficiente. Pesa il lavoro 'invisibile' dei medici'",
-   "pub_ts": 1794668922,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Scontro tra due auto in galleria, cinque morti nel Cosentino",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
-   "description": "Morti tutti gli occupanti dei veicoli, l'impatto in una curva",
-   "pub_ts": 1794688440,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "cronaca"
   }
  ]
 }
