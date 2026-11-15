@@ -1,6 +1,6 @@
 {
- "generated_at": 1794691006,
- "updated_at": 1794691006,
+ "generated_at": 1794706864,
+ "updated_at": 1794706864,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,18 +10,13 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
-   "summary": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
-   "pub_ts": 1794683468,
-   "n_sources": 7,
+   "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass'",
+   "summary": "La Russia chiede il ritorno dell'Alleanza ai confini del 1997",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
+   "pub_ts": 1794697353,
+   "n_sources": 5,
    "documented": true,
    "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
-     "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”"
-    },
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
@@ -29,156 +24,23 @@
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html",
-     "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/",
-     "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/il-donbass-a-mosca-in-cambio-della-nato-la-proposta-degli-stati-uniti-allucraina-mzalwb5z",
-     "title": "«Il Donbass a Mosca in cambio della Nato». La proposta degli Stati Uniti all’Ucraina"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-ad-abu-dhabi-emerso-che-putin-non-vuole-il-cessate-il-fuoco_bf34b3cb-1c7d-4af3-97c0-c1aa36b7cb35.html",
+     "title": "Zelensky, 'ad Abu Dhabi emerso che Putin non vuole il cessate il fuoco'"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-news-guerra-oggi-14-novembre-ultima-ora_1mJ0GfMZCWFbDYr4eDk5L8",
-     "title": "Ucraina, Zelensky: \"Usa hanno proposto adesione Nato in cambio della cessione di territori alla Russia\". Giovedì vertice Putin-Xi-Trump"
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-zelensky-trump-putin-news-negoziati_5wdKzfSsLKkrynF8VBP7fU",
+     "title": "Ucraina, Zelensky svela la proposta di Trump: \"Nato in cambio del Donbass. Putin? Vuole cambiare i confini d'Europa\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/idee/commenti/trump-e-putin-hanno-teso-una-trappola-a-zelensky-xcef93ac",
+     "title": "Trump e Putin hanno teso una trappola a Zelensky"
     },
     {
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/ucraina-svolta-di-zelensky-donbass-in-cambio-della-nato-chiedero-al-popolo/",
      "title": "Ucraina, svolta di Zelensky: “Donbass in cambio della Nato? Chiederò al popolo”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'",
-   "summary": "Stallo con Eisenkot, all'oscuro di missione Mossad in Usa. Monito Ue su inferno Gaza",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
-   "pub_ts": 1794690461,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
-     "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
-     "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/guerra_iran_mossa_netanyahu_capo_mossad_usa-425722057/?rss",
-     "title": "Iran, mossa di Netanyahu: il capo del Mossad a Washington per la guerra"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/14/netanyahu-governo-unita-nazionale-scontro-eisenkot/",
-     "title": "Netanyahu vuole un governo di unità nazionale e la guerra all’Iran «una volta per tutte». Il muro di Eisenkot e i sospetti: «Vuole restare al potere»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
-   "summary": "Il portavoce Peskov: 'Raggiunto un accordo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
-   "pub_ts": 1794686640,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
-     "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/xi_putin_trump_trilaterale_shenzen_cina-425722515/?rss",
-     "title": "Trump, Xi e Putin: sì al trilaterale a Shenzen"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/zelensky-mi-aspetto-il-piu-grande-scambio-di-prigionieri-della-guerra-da3923aa-aa93-4585-a55c-402470b83643.html",
-     "title": "Il Cremlino conferma: il 19 novembre incontro trilaterale Putin-Xi-Trump a Shenzhen"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/vertice-trump-putin-xi-shenzhen-nucleare-notizie/8572128/",
-     "title": "Trump, Putin e Xi: trilaterale il 19 novembre in Cina. Al centro disarmo nucleare e Iran, esclusa dal tavolo la guerra in Ucraina"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Kreiss-Tomkins sbanca l'Alaska, primo governatore dem dal 1998",
-   "summary": "Per il Senato Peltola consolida il vantaggio sul repubblicano uscente Sullivan",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/kreiss-tomkins-sbanca-lalaska-primo-governatore-dem-dal-1998_3cdbfc15-79fd-424a-ae76-146dba306eed.html",
-   "pub_ts": 1794677970,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/kreiss-tomkins-sbanca-lalaska-primo-governatore-dem-dal-1998_3cdbfc15-79fd-424a-ae76-146dba306eed.html",
-     "title": "Kreiss-Tomkins sbanca l'Alaska, primo governatore dem dal 1998"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
-     "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/14/jonathan-kreiss-tomkins-eletto-alaska-governatore/",
-     "title": "L’Alaska avrà il primo governatore Democratico dal 1998, e il più giovane della sua storia"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/elezioni-alaska-primo-governatore-dem-1998-kreiss-tomkins/8572172/",
-     "title": "In Alaska eletto per la prima volta dal 1998 un governatore democratico: è Jonathan Kreiss-Tomkins"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'",
-   "summary": "Il leader dell'ultradestra si riallinea all'establishment e affida il dossier a un falco",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
-   "pub_ts": 1794677675,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
-     "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/farage-suggella-la-rottura-con-putin-mosca-e-minacca-numero-1-per-gb_6d53f2ff-51ca-4dc1-840a-194cdf7a2504.html",
-     "title": "Farage suggella la rottura con Putin, 'Mosca è minacca numero 1 per Gb'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/?rss",
-     "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/farage_scarica_putin_russia_piu_grande_minaccia_regno_unito-425722812/",
-     "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”"
     }
    ]
   },
@@ -200,7 +62,7 @@
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/14/stati-uniti-problemi-voli-cancellati-ritardi/",
-     "title": "Ci sono ancora problemi con i voli negli Stati Uniti"
+     "title": "I grossi problemi con i voli negli Stati Uniti"
     },
     {
      "name": "Domani",
@@ -216,23 +78,72 @@
   },
   {
    "category": "politica",
+   "area": "italia",
+   "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'",
+   "summary": "Stallo con Eisenkot, all'oscuro di missione Mossad in Usa. Monito Ue su inferno Gaza",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
+   "pub_ts": 1794690461,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
+     "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_1a6cf349-2733-473d-be50-7031e221eaa6.html",
+     "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/14/netanyahu-governo-unita-nazionale-scontro-eisenkot/",
+     "title": "Netanyahu vuole un governo di unità nazionale e la guerra all’Iran «una volta per tutte». Il muro di Eisenkot e i sospetti: «Vuole restare al potere»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
+   "summary": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
+   "pub_ts": 1794675112,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
+     "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/14/jonathan-kreiss-tomkins-eletto-alaska-governatore/",
+     "title": "L’Alaska avrà il primo governatore Democratico dal 1998, e il più giovane della sua storia"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/elezioni-alaska-primo-governatore-dem-1998-kreiss-tomkins/8572172/",
+     "title": "In Alaska eletto per la prima volta dal 1998 un governatore democratico: è Jonathan Kreiss-Tomkins"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "mondo",
    "title": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'",
    "summary": "Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
    "pub_ts": 1794679758,
-   "n_sources": 3,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
      "title": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/aeroporti_usa_sono_arrivati_gli_alieni_e_il_vero_motivo_per_il_blocco_dei_voli_il_post_di_stephen_king_su_x-425723480/?rss",
-     "title": "“Sono arrivati gli alieni, è il vero motivo per il blocco dei voli”: così Stephen King su X"
     },
     {
      "name": "Adnkronos Esteri",
@@ -244,22 +155,66 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "\"Eliminare Zelensky\", Russia pronta a colpire il presidente ucraino: il retroscena",
-   "summary": "(Adnkronos) - La decisione sarebbe stata presa durante una riunione del Consiglio di sicurezza russo, guidato dal presidente Vladimir Putin",
-   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-ordine-uccidere-zelensky_4OyuJoh9W9jnrSo7fnwzWC",
-   "pub_ts": 1794678813,
+   "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'",
+   "summary": "Il leader dell'ultradestra si riallinea all'establishment e affida il dossier a un falco",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
+   "pub_ts": 1794677675,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-ordine-uccidere-zelensky_4OyuJoh9W9jnrSo7fnwzWC",
-     "title": "\"Eliminare Zelensky\", Russia pronta a colpire il presidente ucraino: il retroscena"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
+     "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/farage-suggella-la-rottura-con-putin-mosca-e-minacca-numero-1-per-gb_6d53f2ff-51ca-4dc1-840a-194cdf7a2504.html",
+     "title": "Farage suggella la rottura con Putin, 'Mosca è minacca numero 1 per Gb'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
+   "summary": "Il portavoce Peskov: 'Raggiunto un accordo'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
+   "pub_ts": 1794672161,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
+     "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/14/russia-via-libera-morte-zelensky-consiglio-sicurezza/8572275/",
-     "title": "“Per la Russia via libera all’uccisione di Zelensky e dei vertici politico-militari di Kiev”: la decisione durante il Consiglio di sicurezza"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/14/vertice-trump-putin-xi-shenzhen-nucleare-notizie/8572128/",
+     "title": "Trump, Putin e Xi: trilaterale il 19 novembre in Cina. Al centro disarmo nucleare e Iran, esclusa dal tavolo la guerra in Ucraina"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il black out aereo negli Usa: cosa è successo?",
+   "summary": "Potrebbero essere stati aggiornamenti software a causare lo stop di 4mila voli negli Stati Uniti. L'episodio svela la fragilità delle reti informatiche e la necessità urgente di sistemi resilienti",
+   "link": "https://www.rainews.it/video/2026/11/il-black-out-aereo-negli-usa-cosa-e-successo-bf4fa9f5-53c7-4ba5-b0ea-85edcd06be77.html",
+   "pub_ts": 1794681300,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/il-black-out-aereo-negli-usa-cosa-e-successo-bf4fa9f5-53c7-4ba5-b0ea-85edcd06be77.html",
+     "title": "Il black out aereo negli Usa: cosa è successo?"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/microsoft-outlook-ripristinati-servizi-ultime-news_6Q94rH1EbRLPWEm1CQw1pY",
+     "title": "Microsoft, ripristinati tutti i servizi: ecco cosa è successo"
     }
    ]
   },
@@ -310,64 +265,10 @@
   {
    "category": "tech",
    "area": null,
-   "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
-   "summary": "Messaggi da account sospetti. Salvini: 'Ci insultano'. Non si parli di hacker russi",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
-   "pub_ts": 1794682743,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
-     "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/down-microsoft-fax/",
-     "title": "Il down di Microsoft ha riportato in vita i fax"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/microsoft-down-outlook-teams-copilot-nessun-hacker/",
-     "title": "Microsoft down, niente hacker: Outlook e Teams in tilt da soli"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo",
-   "summary": "Un guasto all'infrastruttura Microsoft ha provocato interruzioni e rallentamenti dei servizi digitali in numerosi Paesi, Italia compresa. Coinvolti Outlook, Teams, Copilot e diverse applicazioni utilizzate da imprese e pubbliche amministrazioni. La società è al lavoro per...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/microsoft_down_outlook_cosa_successo-425720300/?rss",
-   "pub_ts": 1794681300,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/microsoft_down_outlook_cosa_successo-425720300/?rss",
-     "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/il-black-out-aereo-negli-usa-cosa-e-successo-bf4fa9f5-53c7-4ba5-b0ea-85edcd06be77.html",
-     "title": "Il black out aereo negli Usa: cosa è successo?"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/microsoft-outlook-ripristinati-servizi-ultime-news_6Q94rH1EbRLPWEm1CQw1pY",
-     "title": "Microsoft, ripristinati tutti i servizi: ecco cosa è successo"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
    "title": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso",
    "summary": "Sanzione da 805 milioni per l'uso di foto \"non autorizzato dell'utente\" su Facebook",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
-   "pub_ts": 1794680162,
+   "pub_ts": 1794692139,
    "n_sources": 3,
    "documented": true,
    "sources": [
@@ -391,27 +292,61 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Nvidia, Rene Haas contattato per la successione a Huang",
-   "summary": "Lo riporta il Financial Times, secondo il quale il consiglio di amministrazione dell’azienda Usa starebbe pensando all’amministratore delegato del produttore britannico di chip Arm Holdings. La lista dei candidati è lunga: dalla Ceo ad interim Colette Kress a Tim Cook",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
-   "pub_ts": 1794600137,
-   "n_sources": 3,
+   "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
+   "summary": "Messaggi da account sospetti. Salvini: 'Ci insultano'. Non si parli di hacker russi",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
+   "pub_ts": 1794693252,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
-     "title": "Nvidia, Rene Haas contattato per la successione a Huang"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
+     "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down"
     },
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/chi_nvidia_dopo_jensen_huang_candidati-425721020/?rss",
-     "title": "Chi guiderà Nvidia dopo Jensen Huang? I candidati alla successione e le ragioni della scelta"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/down-microsoft-fax/",
+     "title": "Il down di Microsoft ha riportato in vita i fax"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
+   "summary": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
+   "pub_ts": 1794587335,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
+     "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/13/jensen-huang/",
-     "title": "Jensen Huang prima di tutto questo"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_237e2ab2-4aff-4713-9398-ae1b59ecd750.html",
+     "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria",
+   "summary": "Il nodo degli indennizzi. Esperto cyber, 'assicurati non vuol dire protetti'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
+   "pub_ts": 1794672814,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
+     "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria"
     }
    ]
   },
@@ -434,29 +369,6 @@
      "name": "Adnkronos Cultura",
      "link": "https://www.adnkronos.com/cultura/nomi-archistar-gara-ampliamento-galleria-borghese-roma_3qy7VkMSEdQ4PTfZuwWbcf",
      "title": "Galleria Borghese, da Siza a Chipperfield e Fuksas: le archistar in gara per l'ampliamento"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Torna Orfeo Week 2026, tra gli ospiti Mancuso, Saturnino, Arminio, Campaner e Gualazzi",
-   "summary": "Dal 21 al 29 novembre a Lodi, musica, poesia, teatro, radio, scienza e formazione",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/12/torna-orfeo-week-2026-tra-gli-ospiti-mancuso-saturnino-arminio_1c23b96c-26f1-4eb6-9507-dbc8c49d8c86.html",
-   "pub_ts": 1794661290,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/12/torna-orfeo-week-2026-tra-gli-ospiti-mancuso-saturnino-arminio_1c23b96c-26f1-4eb6-9507-dbc8c49d8c86.html",
-     "title": "Torna Orfeo Week 2026, tra gli ospiti Mancuso, Saturnino, Arminio, Campaner e Gualazzi"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/rubriche/tg2week-end/video/2026/11/TG2-Week-End-del-14112026-3a96ae70-3102-45d5-bbc4-db02e32864ef.html",
-     "title": "TG2 Week End del 14/11/2026"
     }
    ],
    "subtype": "cultura"
@@ -521,13 +433,31 @@
    "subtype": "scienza"
   },
   {
+   "category": "varia",
+   "area": null,
+   "title": "Aiom, in Italia 3mila oncologi per 4 milioni che convivono con tumore",
+   "summary": "Berardi, 'numero insufficiente. Pesa il lavoro 'invisibile' dei medici'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/aiom-in-italia-3mila-oncologi-per-4-milioni-che-convivono-con-tumore_cd88a34b-9343-4db9-9216-bad0a49f0426.html",
+   "pub_ts": 1794668922,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/aiom-in-italia-3mila-oncologi-per-4-milioni-che-convivono-con-tumore_cd88a34b-9343-4db9-9216-bad0a49f0426.html",
+     "title": "Aiom, in Italia 3mila oncologi per 4 milioni che convivono con tumore"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
    "category": "cronaca",
    "area": null,
    "title": "Scontro tra due auto in galleria, cinque morti nel Cosentino",
    "summary": "Morti tutti gli occupanti dei veicoli, l'impatto in una curva",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/scontro-tra-due-auto-in-galleria-cinque-morti-nel-cosentino_8ec108df-8b0d-4769-b193-6ad64658d5fa.html",
    "pub_ts": 1794688440,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -541,11 +471,6 @@
      "title": "Scontro tra due auto: un cumulo di lamiere in galleria. Morti tutti gli occupanti dei veicoli"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/14/incidente-san-fili-galleria-chi-sono-vittime/",
-     "title": "Tragico incidente nel Cosentino, cinque morti: l’imprenditore Alfredo Spizzirri, la fidanzata, tre 80enni. Chi sono le vittime"
-    },
-    {
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/14/incidente-galleria-san-fili-cinque-vittime-notizie/8572149/",
      "title": "Scontro frontale tra due auto in galleria nel Cosentino: morti quattro donne e un uomo"
@@ -555,46 +480,10 @@
  ],
  "articles": [
   {
-   "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
-   "description": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
-   "pub_ts": 1794683468,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
-   "description": "Stallo con Eisenkot, all'oscuro di missione Mossad in Usa. Monito Ue su inferno Gaza",
-   "pub_ts": 1794690461,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
-   "description": "Il portavoce Peskov: 'Raggiunto un accordo'",
-   "pub_ts": 1794686640,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Kreiss-Tomkins sbanca l'Alaska, primo governatore dem dal 1998",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/kreiss-tomkins-sbanca-lalaska-primo-governatore-dem-dal-1998_3cdbfc15-79fd-424a-ae76-146dba306eed.html",
-   "description": "Per il Senato Peltola consolida il vantaggio sul repubblicano uscente Sullivan",
-   "pub_ts": 1794677970,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
-   "description": "Il leader dell'ultradestra si riallinea all'establishment e affida il dossier a un falco",
-   "pub_ts": 1794677675,
+   "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
+   "description": "La Russia chiede il ritorno dell'Alleanza ai confini del 1997",
+   "pub_ts": 1794697353,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -609,6 +498,24 @@
    "section": "politica"
   },
   {
+   "title": "Netanyahu non molla: 'Governo con me per chiudere i conti con l'Iran'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_4d3f88f9-75de-4a25-8443-33545fc2ce33.html",
+   "description": "Stallo con Eisenkot, all'oscuro di missione Mossad in Usa. Monito Ue su inferno Gaza",
+   "pub_ts": 1794690461,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_f051fa49-f88c-41d8-accf-34c39fc45c89.html",
+   "description": "Ha sconfitto tre candidati repubblicani, tra cui uno sostenuto dal Trump",
+   "pub_ts": 1794675112,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
    "description": "Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni",
@@ -618,11 +525,29 @@
    "section": "politica"
   },
   {
-   "title": "\"Eliminare Zelensky\", Russia pronta a colpire il presidente ucraino: il retroscena",
-   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-ordine-uccidere-zelensky_4OyuJoh9W9jnrSo7fnwzWC",
-   "description": "(Adnkronos) - La decisione sarebbe stata presa durante una riunione del Consiglio di sicurezza russo, guidato dal presidente Vladimir Putin",
-   "pub_ts": 1794678813,
-   "source": "Adnkronos Esteri",
+   "title": "Farage sugella la rottura con Putin: 'Mosca minaccia numero 1'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/farage-sugella-la-rottura-con-putin-mosca-minaccia-numero-1_a3bf317d-5934-4bba-89c2-bc14c666fd98.html",
+   "description": "Il leader dell'ultradestra si riallinea all'establishment e affida il dossier a un falco",
+   "pub_ts": 1794677675,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_b501c80c-3d4d-4a91-ac9b-6fde92be2f6d.html",
+   "description": "Il portavoce Peskov: 'Raggiunto un accordo'",
+   "pub_ts": 1794672161,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il black out aereo negli Usa: cosa è successo?",
+   "link": "https://www.rainews.it/video/2026/11/il-black-out-aereo-negli-usa-cosa-e-successo-bf4fa9f5-53c7-4ba5-b0ea-85edcd06be77.html",
+   "description": "Potrebbero essere stati aggiornamenti software a causare lo stop di 4mila voli negli Stati Uniti. L'episodio svela la fragilità delle reti informatiche e la necessità urgente di sistemi resilienti",
+   "pub_ts": 1794681300,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
@@ -645,38 +570,38 @@
    "section": "politica"
   },
   {
-   "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
-   "description": "Messaggi da account sospetti. Salvini: 'Ci insultano'. Non si parli di hacker russi",
-   "pub_ts": 1794682743,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/13/news/microsoft_down_outlook_cosa_successo-425720300/?rss",
-   "description": "Un guasto all'infrastruttura Microsoft ha provocato interruzioni e rallentamenti dei servizi digitali in numerosi Paesi, Italia compresa. Coinvolti Outlook, Teams, Copilot e diverse applicazioni utilizzate da imprese e pubbliche amministrazioni. La società è al lavoro per...",
-   "pub_ts": 1794681300,
-   "source": "Repubblica Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
    "title": "Maxi-multa del Garante per Meta, l'azienda prepara il ricorso",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html",
    "description": "Sanzione da 805 milioni per l'uso di foto \"non autorizzato dell'utente\" su Facebook",
-   "pub_ts": 1794680162,
+   "pub_ts": 1794692139,
    "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Nvidia, Rene Haas contattato per la successione a Huang",
-   "link": "https://www.repubblica.it/esteri/2026/11/13/news/nvidia_rene_haas_successione_jensen_huang-425721809/?rss",
-   "description": "Lo riporta il Financial Times, secondo il quale il consiglio di amministrazione dell’azienda Usa starebbe pensando all’amministratore delegato del produttore britannico di chip Arm Holdings. La lista dei candidati è lunga: dalla Ceo ad interim Colette Kress a Tim Cook",
-   "pub_ts": 1794600137,
-   "source": "Repubblica Esteri",
+   "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
+   "description": "Messaggi da account sospetti. Salvini: 'Ci insultano'. Non si parli di hacker russi",
+   "pub_ts": 1794693252,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/rammaricati-per-limpatto-sui-clienti-microsoft-al-lavoro-per-risolvere-il-down_c5e29d67-f80b-4777-8a0a-e0fa5ba5ff30.html",
+   "description": "La compagnia, ci sono \"progressi incoraggianti\" e smentisce ancora l'ipotesi hacker",
+   "pub_ts": 1794587335,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
+   "description": "Il nodo degli indennizzi. Esperto cyber, 'assicurati non vuol dire protetti'",
+   "pub_ts": 1794672814,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -685,15 +610,6 @@
    "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
    "description": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
    "pub_ts": 1794663765,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Torna Orfeo Week 2026, tra gli ospiti Mancuso, Saturnino, Arminio, Campaner e Gualazzi",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/12/torna-orfeo-week-2026-tra-gli-ospiti-mancuso-saturnino-arminio_1c23b96c-26f1-4eb6-9507-dbc8c49d8c86.html",
-   "description": "Dal 21 al 29 novembre a Lodi, musica, poesia, teatro, radio, scienza e formazione",
-   "pub_ts": 1794661290,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -721,6 +637,15 @@
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/14/sei-oncologi-su-10-malati-di-burnout-e-per-55-troppo-tempo-alla-burocrazia_2f6efb09-3fb4-49a1-9f7e-ae1951a6f6cf.html",
    "description": "Aiom, Per 54% anche scarso accesso a supporto psicologico e per 64% aggressioni verbali",
    "pub_ts": 1794671301,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Aiom, in Italia 3mila oncologi per 4 milioni che convivono con tumore",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/13/aiom-in-italia-3mila-oncologi-per-4-milioni-che-convivono-con-tumore_cd88a34b-9343-4db9-9216-bad0a49f0426.html",
+   "description": "Berardi, 'numero insufficiente. Pesa il lavoro 'invisibile' dei medici'",
+   "pub_ts": 1794668922,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
