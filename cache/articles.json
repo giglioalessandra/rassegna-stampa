@@ -1,6 +1,6 @@
 {
- "generated_at": 1794778597,
- "updated_at": 1794778597,
+ "generated_at": 1794793486,
+ "updated_at": 1794793486,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,50 +10,18 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”",
-   "summary": "Zelensky denuncia: “Ancora attacchi brutali e limiti a Starshield”. L’Estonia annuncia la chiusura del confine con la Russia a dicembre. Per Lavrov le condizioni per la Pace “restano quelle del 2024”",
-   "link": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/?rss",
-   "pub_ts": 1794771767,
-   "n_sources": 5,
+   "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”",
+   "summary": "Il tycoon lo accusa di aver investito male sul rinnovamento del sistema, ma è stato lui a chiedere al Congresso soldi soprattutto per la guerra",
+   "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
+   "pub_ts": 1794787243,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/?rss",
-     "title": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”"
+     "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
+     "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”"
     },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/cremlino-se-non-ci-sara-un-accordo-con-leuropa-useremo-la-forza_f588b228-e761-47ac-9c65-dec04a5670ad.html",
-     "title": "Cremlino, 'se non ci sarà un accordo con l'Europa useremo la forza'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/",
-     "title": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-negoziati-putin-obiettivi_1NYJFbKPCPDsTUGski5xtc",
-     "title": "Ucraina, Mosca: \"Senza accordo con l'Europa non resta che la forza\". L'Estonia chiude il confine con Russia da 1 dicembre"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/guerra-russia-ucraina-ultime-notizie-oggi-15-novembre-n9rgdh31",
-     "title": "Il Cremlino: «Se non ci sarà un accordo useremo la forza per raggiungere i nostri obiettivi»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump scarica su Biden lo stop dei voli, 'un disastro'",
-   "summary": "Il Congresso apre sui nuovi fondi per ammodernare i sistemi. Altri 1.600 aerei cancellati",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
-   "pub_ts": 1794770355,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
@@ -63,6 +31,11 @@
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/trump-amministrazione-biden-un-disastro-per-la-federal-aviation-administration_36ed56cd-4a63-48d7-bb27-dc7ea630eb21.html",
      "title": "Trump, 'amministrazione Biden un disastro per la Federal Aviation Administration'"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/",
+     "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”"
     },
     {
      "name": "Open",
@@ -78,6 +51,38 @@
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/caos-voli-usa-voli-cancellati-ultime-news_4SYWhb6fxVMMN9DDUfHZ2b",
      "title": "Caos nei cieli Usa, sabato cancellati quasi 6.500 voli e domenica altri 760. Trump: \"Colpa della precedente amministrazione Biden\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Cremlino, 'se non ci sarà un accordo con l'Europa useremo la forza'",
+   "summary": "'L'Ue è lenta a decidere perché è divisa, bisogna vedere se vogliono davvero la pace'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/cremlino-se-non-ci-sara-un-accordo-con-leuropa-useremo-la-forza_f588b228-e761-47ac-9c65-dec04a5670ad.html",
+   "pub_ts": 1794793260,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/cremlino-se-non-ci-sara-un-accordo-con-leuropa-useremo-la-forza_f588b228-e761-47ac-9c65-dec04a5670ad.html",
+     "title": "Cremlino, 'se non ci sarà un accordo con l'Europa useremo la forza'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/cremlino-linea-dura-contro-leuropa-senza-accordo-sullucraina-275e1919-9393-4468-accb-11a84393ccda.html",
+     "title": "Cremlino, linea dura contro l'Europa senza accordo sull'Ucraina"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-negoziati-putin-obiettivi_1NYJFbKPCPDsTUGski5xtc",
+     "title": "Ucraina, Mosca: \"Senza accordo con l'Europa non resta che la forza\". L'Estonia chiude il confine con Russia da 1 dicembre"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/guerra-russia-ucraina-ultime-notizie-oggi-15-novembre-n9rgdh31",
+     "title": "Il Cremlino: «Se non ci sarà un accordo useremo la forza per raggiungere i nostri obiettivi»"
     }
    ]
   },
@@ -110,6 +115,33 @@
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/non-solo-il-donbass-putin-presenta-il-conto-ecco-cosa-vuole-dalla-nato/",
      "title": "Non solo il Donbass: Putin presenta il conto. Ecco cosa vuole dalla Nato"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
+   "summary": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
+   "pub_ts": 1794788700,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
+     "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/media-israele-potrebbe-intraprendere-azione-autonoma-senza-usa-in-iran-4111f81d-68d9-4c7c-89ca-eb56811c943a.html",
+     "title": "Gli Houthi a circa 60 chilometri dalla città di Aden, sede del governo yemenita"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/15/yemen-governo-si-ritira-stretto-bab-el-mandeb-houthi/",
+     "title": "L’esercito yemenita ha detto che lascerà la zona dello stretto di Bab el Mandeb per proteggere Aden, sede del governo"
     }
    ]
   },
@@ -200,8 +232,8 @@
    "title": "L'Estonia annuncia, da dicembre chiuso completamente il confine con la Russia",
    "summary": "Lo ha annunciato su X il ministro degli Esteri estone, Margus Tsahkna.",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/lestonia-annuncia-da-dicembre-chiuso-completamente-il-confine-con-la-russia_31af256e-893a-489e-8997-f30dff55d892.html",
-   "pub_ts": 1794770160,
-   "n_sources": 3,
+   "pub_ts": 1794793020,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
@@ -209,6 +241,23 @@
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/lestonia-annuncia-da-dicembre-chiuso-completamente-il-confine-con-la-russia_31af256e-893a-489e-8997-f30dff55d892.html",
      "title": "L'Estonia annuncia, da dicembre chiuso completamente il confine con la Russia"
     },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/raid-nel-sud-dellucraina-almeno-sei-feriti-acb0bd37-2cca-408b-8758-c191b249f49b.html",
+     "title": "Raid contro il sud dell'Ucraina, almeno sei feriti"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Sabotaggio alla fabbrica di droni: l'Estonia chiude i valichi con la Russia",
+   "summary": "Il ministro estone Tsahkna accusa l'intelligence del Cremlino per il tentato incendio e fissa il blocco dal primo dicembre. Il generale Camporini avverte sui rischi per la Nato e sull'esclusione dell'Ue dal vertice di Shenzhen tra Putin, Xi e Trump",
+   "link": "https://www.rainews.it/video/2026/11/sabotaggio-alla-fabbrica-di-droni-lestonia-chiude-i-valichi-con-la-russia-9fc196a0-9020-43bd-a896-f40ade0b0943.html",
+   "pub_ts": 1794770160,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
     {
      "name": "Rai News",
      "link": "https://www.rainews.it/video/2026/11/sabotaggio-alla-fabbrica-di-droni-lestonia-chiude-i-valichi-con-la-russia-9fc196a0-9020-43bd-a896-f40ade0b0943.html",
@@ -224,50 +273,6 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
-   "summary": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
-   "pub_ts": 1794769460,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
-     "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/15/yemen-governo-si-ritira-stretto-bab-el-mandeb-houthi/",
-     "title": "L’esercito yemenita ha detto che lascerà la zona dello stretto di Bab el Mandeb per proteggere Aden, sede del governo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Giuseppe Conte: «Io andrò ad Atreju. Sulle armi a Kiev la sintesi è possibile»",
-   "summary": "L’ex premier al nostro Festival: sì alla sicurezza cyber, no agli F35. Renzi affidabile? Un tema per tutti. Le primarie non siano fra partiti",
-   "link": "https://www.editorialedomani.it/politica/italia/giuseppe-conte-io-andro-ad-atreju-sulle-armi-a-kiev-la-sintesi-e-possibile-fohlvkwi",
-   "pub_ts": 1794773544,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/giuseppe-conte-io-andro-ad-atreju-sulle-armi-a-kiev-la-sintesi-e-possibile-fohlvkwi",
-     "title": "Giuseppe Conte: «Io andrò ad Atreju. Sulle armi a Kiev la sintesi è possibile»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/15/news/atreju_conte_va_alla_festa_di_fdi_schlein_no-425725312/",
-     "title": "Atreju: Conte va alla festa di FdI, Schlein no"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
    "title": "Ultimatum di Avs sulla patrimoniale con sponda Schlein, Conte apre al confronto",
    "summary": "In ballo anche il reddito di cittadinza. Segretaria dem: 'Leader coalizione vincolato a programma'. Atreju divide",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/fratoianni-a-conte-la-tassa-sulle-grandi-ricchezze-deve-essere-nel-programma_3c918e6b-74f7-42a0-b926-70c8340c5820.html",
@@ -276,7 +281,7 @@
    "documented": false,
    "sources": [
     {
-     "name": "ANSA",
+     "name": "ANSA Politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/fratoianni-a-conte-la-tassa-sulle-grandi-ricchezze-deve-essere-nel-programma_3c918e6b-74f7-42a0-b926-70c8340c5820.html",
      "title": "Ultimatum di Avs sulla patrimoniale con sponda Schlein, Conte apre al confronto"
     }
@@ -378,34 +383,6 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
-   "summary": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
-   "pub_ts": 1794739945,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
-     "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_2332397c-b458-46c0-b8d4-40daeccfc60b.html",
-     "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/nomi-archistar-gara-ampliamento-galleria-borghese-roma_3qy7VkMSEdQ4PTfZuwWbcf",
-     "title": "Galleria Borghese, da Siza a Chipperfield e Fuksas: le archistar in gara per l'ampliamento"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
    "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia",
    "summary": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
@@ -452,6 +429,29 @@
   {
    "category": "varia",
    "area": null,
+   "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
+   "summary": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
+   "pub_ts": 1794739945,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
+     "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_2332397c-b458-46c0-b8d4-40daeccfc60b.html",
+     "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
    "title": ">ANSA-BOX/ Oncologo professione 'usurante', un emendamento in manovra",
    "summary": "Berardi (Aiom), più supporto psicologico a professionisti per migliore assistenza pazienti",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/ansa-box-oncologo-professione-usurante-un-emendamento-in-manovra_cbd200ef-df06-41a5-aedc-a6d50228dd40.html",
@@ -488,20 +488,20 @@
  ],
  "articles": [
   {
-   "title": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”",
-   "link": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/?rss",
-   "description": "Zelensky denuncia: “Ancora attacchi brutali e limiti a Starshield”. L’Estonia annuncia la chiusura del confine con la Russia a dicembre. Per Lavrov le condizioni per la Pace “restano quelle del 2024”",
-   "pub_ts": 1794771767,
+   "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”",
+   "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
+   "description": "Il tycoon lo accusa di aver investito male sul rinnovamento del sistema, ma è stato lui a chiedere al Congresso soldi soprattutto per la guerra",
+   "pub_ts": 1794787243,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump scarica su Biden lo stop dei voli, 'un disastro'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
-   "description": "Il Congresso apre sui nuovi fondi per ammodernare i sistemi. Altri 1.600 aerei cancellati",
-   "pub_ts": 1794770355,
-   "source": "ANSA",
+   "title": "Cremlino, 'se non ci sarà un accordo con l'Europa useremo la forza'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/cremlino-se-non-ci-sara-un-accordo-con-leuropa-useremo-la-forza_f588b228-e761-47ac-9c65-dec04a5670ad.html",
+   "description": "'L'Ue è lenta a decidere perché è divisa, bisogna vedere se vogliono davvero la pace'",
+   "pub_ts": 1794793260,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -511,6 +511,15 @@
    "description": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
    "pub_ts": 1794729995,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
+   "description": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
+   "pub_ts": 1794788700,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -545,26 +554,17 @@
    "title": "L'Estonia annuncia, da dicembre chiuso completamente il confine con la Russia",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/lestonia-annuncia-da-dicembre-chiuso-completamente-il-confine-con-la-russia_31af256e-893a-489e-8997-f30dff55d892.html",
    "description": "Lo ha annunciato su X il ministro degli Esteri estone, Margus Tsahkna.",
+   "pub_ts": 1794793020,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Sabotaggio alla fabbrica di droni: l'Estonia chiude i valichi con la Russia",
+   "link": "https://www.rainews.it/video/2026/11/sabotaggio-alla-fabbrica-di-droni-lestonia-chiude-i-valichi-con-la-russia-9fc196a0-9020-43bd-a896-f40ade0b0943.html",
+   "description": "Il ministro estone Tsahkna accusa l'intelligence del Cremlino per il tentato incendio e fissa il blocco dal primo dicembre. Il generale Camporini avverte sui rischi per la Nato e sull'esclusione dell'Ue dal vertice di Shenzhen tra Putin, Xi e Trump",
    "pub_ts": 1794770160,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
-   "description": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
-   "pub_ts": 1794769460,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Giuseppe Conte: «Io andrò ad Atreju. Sulle armi a Kiev la sintesi è possibile»",
-   "link": "https://www.editorialedomani.it/politica/italia/giuseppe-conte-io-andro-ad-atreju-sulle-armi-a-kiev-la-sintesi-e-possibile-fohlvkwi",
-   "description": "L’ex premier al nostro Festival: sì alla sicurezza cyber, no agli F35. Renzi affidabile? Un tema per tutti. Le primarie non siano fra partiti",
-   "pub_ts": 1794773544,
-   "source": "Domani",
+   "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
@@ -573,7 +573,7 @@
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/fratoianni-a-conte-la-tassa-sulle-grandi-ricchezze-deve-essere-nel-programma_3c918e6b-74f7-42a0-b926-70c8340c5820.html",
    "description": "In ballo anche il reddito di cittadinza. Segretaria dem: 'Leader coalizione vincolato a programma'. Atreju divide",
    "pub_ts": 1794773018,
-   "source": "ANSA",
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -614,15 +614,6 @@
    "section": "tech"
   },
   {
-   "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
-   "description": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
-   "pub_ts": 1794739945,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
    "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia",
    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
    "description": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
@@ -637,6 +628,15 @@
    "description": "Lotta per indipendenza e autonomia fil rouge al Cairo Film Festival",
    "pub_ts": 1794749332,
    "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
+   "description": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
+   "pub_ts": 1794739945,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
