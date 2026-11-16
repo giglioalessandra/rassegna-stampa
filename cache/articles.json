@@ -1,6 +1,6 @@
 {
- "generated_at": 1794793486,
- "updated_at": 1794793486,
+ "generated_at": 1794820857,
+ "updated_at": 1794820857,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,69 +10,69 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”",
-   "summary": "Il tycoon lo accusa di aver investito male sul rinnovamento del sistema, ma è stato lui a chiedere al Congresso soldi soprattutto per la guerra",
-   "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
-   "pub_ts": 1794787243,
-   "n_sources": 7,
+   "title": "Pechino conferma il trilaterale tra Xi, Trump e Putin: 'Si discuterà della pace mondiale'",
+   "summary": "Il ministero degli Esteri: 'Previsto per il 19 novembre a Shenzen'. Il Financial Times: 'Usa e alleati firmano un accordo per tutelare la supply chain dell'Ia dalla Cina'. L'intesa a pochi giorni dall'incontro di giovedì tra i leader",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/pechino-conferma-il-trilaterale-tra-xi-trump-e-putin-e-gli-usa-si-blindano-sullia_719b0e4a-833e-4411-9f49-e3bdeca194d9.html",
+   "pub_ts": 1794818643,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
-     "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”"
-    },
-    {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
-     "title": "Trump scarica su Biden lo stop dei voli, 'un disastro'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/trump-amministrazione-biden-un-disastro-per-la-federal-aviation-administration_36ed56cd-4a63-48d7-bb27-dc7ea630eb21.html",
-     "title": "Trump, 'amministrazione Biden un disastro per la Federal Aviation Administration'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/",
-     "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/pechino-conferma-il-trilaterale-tra-xi-trump-e-putin-e-gli-usa-si-blindano-sullia_719b0e4a-833e-4411-9f49-e3bdeca194d9.html",
+     "title": "Pechino conferma il trilaterale tra Xi, Trump e Putin: 'Si discuterà della pace mondiale'"
     },
     {
      "name": "Open",
-     "link": "https://www.open.online/2026/11/15/caos-voli-usa-ritardi-cancellazioni-trump/",
-     "title": "Caos voli, ancora migliaia di cancellazioni. L’ira di Trump: «È colpa di Biden». Ecco quando finiranno i ritardi"
+     "link": "https://www.open.online/2026/11/16/usa-russia-cina-trump-xi-putin-shenzen/",
+     "title": "Trump-Xi-Putin, il vertice «rivoluzionario» per «la pace e la stabilità nel mondo»"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/caos-voli-usa-trump-da-colpa-biden-due-aerei-si-scontrano-pista-miami-AJXo9THC",
-     "title": "Caos voli Usa, Trump dà la colpa a Biden. Intanto, due aerei si scontrano in pista a Miami"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-vertice-a-tre-putin-trump-xi-giovedi-kiev-ponte-di-crimea-droni-mosca-f9u5yomc",
+     "title": "Ucraina, confermato il vertice a tre Putin-Trump-Xi giovedì. Kiev attacca il ponte di Crimea"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/caos-voli-usa-voli-cancellati-ultime-news_4SYWhb6fxVMMN9DDUfHZ2b",
-     "title": "Caos nei cieli Usa, sabato cancellati quasi 6.500 voli e domenica altri 760. Trump: \"Colpa della precedente amministrazione Biden\""
+     "link": "https://www.adnkronos.com/internazionale/esteri/cina-vertice-xi-trump-putin_72qAbJ9sAJ4V4MSvBpDBi0",
+     "title": "Xi-Trump-Putin, confermato vertice in Cina. Fonti: \"Presidente Usa vuole evitare tema della guerra fra Mosca e Kiev\""
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/ucraina-cina-conferma-vertice-tra-xi-trump-e-putin-la-guerra-e-le-trattative-e5061f0e-c2c1-4f4c-bcd3-a8132fddb854.html",
+     "title": "Ucraina, Cina conferma: vertice tra Xi, Trump e Putin"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/16/diretta/guerra_ucraina_russia_news_oggi-425726151/",
+     "title": "Guerra Ucraina - Russia, le news. Pechino: “Pace mondiale al centro del vertice Xi-Trump-Putin”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Cremlino, 'se non ci sarà un accordo con l'Europa useremo la forza'",
-   "summary": "'L'Ue è lenta a decidere perché è divisa, bisogna vedere se vogliono davvero la pace'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/cremlino-se-non-ci-sara-un-accordo-con-leuropa-useremo-la-forza_f588b228-e761-47ac-9c65-dec04a5670ad.html",
-   "pub_ts": 1794793260,
-   "n_sources": 4,
+   "title": "Colpito nella notte il ponte di Crimea, 'traffico bloccato'",
+   "summary": "Mosca: 'Abbattuti 1.336 droni sulle regioni russe'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/colpito-nella-notte-il-ponte-di-cirmea-traffico-bloccato_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html",
+   "pub_ts": 1794815940,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/cremlino-se-non-ci-sara-un-accordo-con-leuropa-useremo-la-forza_f588b228-e761-47ac-9c65-dec04a5670ad.html",
-     "title": "Cremlino, 'se non ci sarà un accordo con l'Europa useremo la forza'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/colpito-nella-notte-il-ponte-di-cirmea-traffico-bloccato_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html",
+     "title": "Colpito nella notte il ponte di Crimea, 'traffico bloccato'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/?rss",
+     "title": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/cremlino-linea-dura-contro-leuropa-senza-accordo-sullucraina-275e1919-9393-4468-accb-11a84393ccda.html",
-     "title": "Cremlino, linea dura contro l'Europa senza accordo sull'Ucraina"
+     "link": "https://www.rainews.it/maratona/2026/11/mosca-minaccia-lue-senza-accordo-useremo-la-forza-zelensky-importante-che-europa-resti-forte-93329fa2-c375-48bd-bf19-be79b06ac7eb.html",
+     "title": "Attacco al ponte di Crimea: traffico sospeso. Mosca minaccia l'Ue: \"Senza accordo useremo la forza\""
     },
     {
      "name": "Adnkronos Esteri",
@@ -89,86 +89,27 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
-   "summary": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
-   "pub_ts": 1794729995,
-   "n_sources": 4,
+   "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”",
+   "summary": "Il tycoon lo accusa di aver investito male sul rinnovamento del sistema, ma è stato lui a chiedere al Congresso soldi soprattutto per la guerra",
+   "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
+   "pub_ts": 1794787243,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
-     "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”"
+     "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
+     "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/caos-voli-usa-trump-da-colpa-biden-due-aerei-si-scontrano-pista-miami-AJXo9THC",
+     "title": "Caos voli Usa, Trump dà la colpa a Biden. Intanto, due aerei si scontrano in pista a Miami"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-zelensky-trump-putin-news-negoziati_5wdKzfSsLKkrynF8VBP7fU",
-     "title": "Ucraina, Zelensky svela la proposta di Trump: \"Nato in cambio del Donbass. Putin? Vuole cambiare i confini d'Europa\""
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/idee/commenti/trump-e-putin-hanno-teso-una-trappola-a-zelensky-xcef93ac",
-     "title": "Trump e Putin hanno teso una trappola a Zelensky"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/non-solo-il-donbass-putin-presenta-il-conto-ecco-cosa-vuole-dalla-nato/",
-     "title": "Non solo il Donbass: Putin presenta il conto. Ecco cosa vuole dalla Nato"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
-   "summary": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
-   "pub_ts": 1794788700,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
-     "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/media-israele-potrebbe-intraprendere-azione-autonoma-senza-usa-in-iran-4111f81d-68d9-4c7c-89ca-eb56811c943a.html",
-     "title": "Gli Houthi a circa 60 chilometri dalla città di Aden, sede del governo yemenita"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/15/yemen-governo-si-ritira-stretto-bab-el-mandeb-houthi/",
-     "title": "L’esercito yemenita ha detto che lascerà la zona dello stretto di Bab el Mandeb per proteggere Aden, sede del governo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "L’Iran attacca gli Usa in Bahrein. Il Wsj: “Ha ancora fino a 2.500 missili”",
-   "summary": "L’operazione nella notte come risposta ai colpi contro i radar. E il Wall Street Journal riporta la stima dell’intelligence sull’arsenale iraniano",
-   "link": "https://www.repubblica.it/esteri/2026/11/16/news/iran_attacca_gli_usa_in_bahrein_ha_ancora_fino_a_2500_missili-425725654/?rss",
-   "pub_ts": 1794787234,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/news/iran_attacca_gli_usa_in_bahrein_ha_ancora_fino_a_2500_missili-425725654/?rss",
-     "title": "L’Iran attacca gli Usa in Bahrein. Il Wsj: “Ha ancora fino a 2.500 missili”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/news/iran_attacca_gli_usa_in_bahrein_ha_ancora_fino_a_2500_missili-425725654/",
-     "title": "L’Iran attacca gli Usa in Bahrein. Il Wsj: “Ha ancora fino a 2.500 missili”"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/la-tregua-e-illusoria-liran-attacca-ancora-le-basi-usa-nel-golfo-mwjz2jy6",
-     "title": "La tregua è illusoria. L’Iran attacca ancora le basi Usa nel Golfo"
+     "link": "https://www.adnkronos.com/internazionale/esteri/caos-voli-usa-voli-cancellati-ultime-news_4SYWhb6fxVMMN9DDUfHZ2b",
+     "title": "Caos nei cieli Usa, sabato cancellati quasi 6.500 voli e domenica altri 760. Trump: \"Colpa della precedente amministrazione Biden\""
     }
    ]
   },
@@ -228,62 +169,111 @@
   },
   {
    "category": "politica",
+   "area": "italia",
+   "title": "Ciardi: “L’Italia investa di più contro gli attacchi cyber. Voto a rischio manipolazione”",
+   "summary": "La vicedirettrice dell’Agenzia per la sicurezza cibernetica: “Non è più solo disinformazione ma capacità di influire sull’opinione e il consenso”",
+   "link": "https://www.repubblica.it/politica/2026/11/16/news/nunzia_ciardi_italia_investa_di_piu_cybersicurezza_voto_manipolazione_intervista-425726012/",
+   "pub_ts": 1794787200,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/16/news/nunzia_ciardi_italia_investa_di_piu_cybersicurezza_voto_manipolazione_intervista-425726012/",
+     "title": "Ciardi: “L’Italia investa di più contro gli attacchi cyber. Voto a rischio manipolazione”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/15/italia-perde-contro-il-belgio-in-nations-league/",
+     "title": "L’Italia ha perso 4-1 contro il Belgio"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/15/nations-league-italia-belgio-diretta/",
+     "title": "Nations League, il Belgio travolge l’Italia 4 a 1: gli azzurri non si qualificano ai quarti"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "mondo",
-   "title": "L'Estonia annuncia, da dicembre chiuso completamente il confine con la Russia",
-   "summary": "Lo ha annunciato su X il ministro degli Esteri estone, Margus Tsahkna.",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/lestonia-annuncia-da-dicembre-chiuso-completamente-il-confine-con-la-russia_31af256e-893a-489e-8997-f30dff55d892.html",
-   "pub_ts": 1794793020,
+   "title": "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'",
+   "summary": "Si unirà alla Washington e alla Bush",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/nyt-entro-24-ore-la-portaerei-roosevelt-in-medio-oriente-e-la-terza-nellarea_7dfdbe44-45d8-41aa-ab7c-397bd05b75f8.html",
+   "pub_ts": 1794816060,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/lestonia-annuncia-da-dicembre-chiuso-completamente-il-confine-con-la-russia_31af256e-893a-489e-8997-f30dff55d892.html",
-     "title": "L'Estonia annuncia, da dicembre chiuso completamente il confine con la Russia"
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/nyt-entro-24-ore-la-portaerei-roosevelt-in-medio-oriente-e-la-terza-nellarea_7dfdbe44-45d8-41aa-ab7c-397bd05b75f8.html",
+     "title": "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/raid-nel-sud-dellucraina-almeno-sei-feriti-acb0bd37-2cca-408b-8758-c191b249f49b.html",
-     "title": "Raid contro il sud dell'Ucraina, almeno sei feriti"
+     "link": "https://www.rainews.it/maratona/2026/11/ncontro-tra-il-likud-di-netanyahu-e-yashar-di-eisenkot-per-governo-di-unita-nazionale-gli-houthi-a-circa-60-chilometri-dalla-citta-di-aden-sede-del-governo-yemenita-4111f81d-68d9-4c7c-89ca-eb56811c943a.html",
+     "title": "L'Iran rivendica 6 petroliere affondate a Hormuz. Media: terza portaerei Usa nell'area"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Sabotaggio alla fabbrica di droni: l'Estonia chiude i valichi con la Russia",
-   "summary": "Il ministro estone Tsahkna accusa l'intelligence del Cremlino per il tentato incendio e fissa il blocco dal primo dicembre. Il generale Camporini avverte sui rischi per la Nato e sull'esclusione dell'Ue dal vertice di Shenzhen tra Putin, Xi e Trump",
-   "link": "https://www.rainews.it/video/2026/11/sabotaggio-alla-fabbrica-di-droni-lestonia-chiude-i-valichi-con-la-russia-9fc196a0-9020-43bd-a896-f40ade0b0943.html",
-   "pub_ts": 1794770160,
+   "area": "mondo",
+   "title": "PRIME PAGINE | Mosca gela gli Usa, 'niente Nato per Kiev'. Poi minaccia l'Ue",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/16/prime-pagine-mosca-gela-gli-usa-niente-nato-per-kiev._675b26d2-eee0-4361-908f-4285be19f51f.html",
+   "pub_ts": 1794815644,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/sabotaggio-alla-fabbrica-di-droni-lestonia-chiude-i-valichi-con-la-russia-9fc196a0-9020-43bd-a896-f40ade0b0943.html",
-     "title": "Sabotaggio alla fabbrica di droni: l'Estonia chiude i valichi con la Russia"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/16/prime-pagine-mosca-gela-gli-usa-niente-nato-per-kiev._675b26d2-eee0-4361-908f-4285be19f51f.html",
+     "title": "PRIME PAGINE | Mosca gela gli Usa, 'niente Nato per Kiev'. Poi minaccia l'Ue"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/15/estonia-chiude-confini-russia-perche/",
-     "title": "Tensione Estonia-Russia, chiusi tutti i confini: il sabotaggio sventato e l’ombra dei servizi segreti di Mosca"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/le-prime-pagine-di-oggi-4736/",
+     "title": "Le prime pagine di oggi"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Ultimatum di Avs sulla patrimoniale con sponda Schlein, Conte apre al confronto",
-   "summary": "In ballo anche il reddito di cittadinza. Segretaria dem: 'Leader coalizione vincolato a programma'. Atreju divide",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/fratoianni-a-conte-la-tassa-sulle-grandi-ricchezze-deve-essere-nel-programma_3c918e6b-74f7-42a0-b926-70c8340c5820.html",
-   "pub_ts": 1794773018,
+   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
+   "summary": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
+   "pub_ts": 1794769460,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
+     "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/15/yemen-governo-si-ritira-stretto-bab-el-mandeb-houthi/",
+     "title": "L’esercito yemenita ha detto che lascerà la zona dello stretto di Bab el Mandeb per proteggere Aden, sede del governo"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Meloni, il lavoro deve sempre essere sinonimo di dignità, diritti e sicurezza",
+   "summary": "Premier, 'l'8 agosto diventa giornata europea in memoria vittime incidenti sul lavoro'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/meloni-il-lavoro-deve-sempre-essere-sinonimo-di-dignita-diritti-e-sicurezza_743f52f3-b94e-4856-9965-0a229ce0f494.html",
+   "pub_ts": 1794819516,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/fratoianni-a-conte-la-tassa-sulle-grandi-ricchezze-deve-essere-nel-programma_3c918e6b-74f7-42a0-b926-70c8340c5820.html",
-     "title": "Ultimatum di Avs sulla patrimoniale con sponda Schlein, Conte apre al confronto"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/meloni-il-lavoro-deve-sempre-essere-sinonimo-di-dignita-diritti-e-sicurezza_743f52f3-b94e-4856-9965-0a229ce0f494.html",
+     "title": "Meloni, il lavoro deve sempre essere sinonimo di dignità, diritti e sicurezza"
     }
    ]
   },
@@ -293,8 +283,8 @@
    "title": "Scoop del Financial Times: 'Huang pensa a un clamoroso ritorno alla guida di Nvidia'",
    "summary": "'I guru della Silicon Valley cercano il sostegno di Trump'. Ma Bessent vuole un ricambio",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/scoop-del-financial-times-huang-pensa-a-un-clamoroso-ritorno-alla-guida_5f2ba24d-056b-4f96-aca8-03e59566888d.html",
-   "pub_ts": 1794775094,
-   "n_sources": 5,
+   "pub_ts": 1794816882,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
@@ -308,9 +298,14 @@
      "title": "Ft, 'Jensen Huang pensa a un clamoroso ritorno alla guida di Nvidia'"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/15/nvidia-jensen-huang-possibile-ritorno-caso-lutnik/",
-     "title": "Nvidia verso il dietrofront: Huang valuta il clamoroso ritorno dopo lo scandalo delle amanti-spia. E spunta il caso Lutnick"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/war-room-ritorno-jensen-huang-ceo-nvidia/",
+     "title": "Una war room per il ritorno di Jensen Huang a CEO di NVIDIA"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/jensen-huang-valuta-rientro-nvidia/",
+     "title": "Jensen Huang valuta un ritorno in Nvidia, scrive il Financial Times"
     },
     {
      "name": "la Repubblica",
@@ -318,82 +313,87 @@
      "title": "Nvidia, possibile colpo di scena: Huang pensa al ritorno, Bessent: “L’azienda cerchi un esterno”"
     },
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/musk-vuole-ritorno-jensen-huang-guida-nvidia/",
-     "title": "Musk vuole il ritorno di Jensen Huang alla guida di NVIDIA"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/16/jensen-huang-nvidia-ritorno-notizie/8573230/",
+     "title": "Financial Times: “I guru della Silicon Valley tentano di riportare Huang alla guida di Nvidia. Con l’aiuto di Trump”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/nvidia-jensen-huang-ritorno-bessent-cina/",
+     "title": "Nvidia, Huang pensa al ritorno. Ma Bessent gli sbarra la strada"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update)",
-   "summary": "Il Garante della privacy ha inflitto una sanzione di 805 milioni di euro a Meta per l'accesso a foto e video senza consenso con l'app Facebook. The post Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update) appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/accesso-foto-video-senza-consenso-multa-805-milioni-meta/",
-   "pub_ts": 1794675495,
+   "title": "Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti",
+   "summary": "A causa di un'anomalia attualmente ignota, il razzo Vulcan Centaur di ULA non ha portato in orbita i 40 satelliti della costellazione Amazon Leo. The post Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/lancio-razzo-vulcan-fallito-amazon-perde-40-satelliti/",
+   "pub_ts": 1794819234,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/accesso-foto-video-senza-consenso-multa-805-milioni-meta/",
-     "title": "Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update)"
+     "link": "https://www.punto-informatico.it/lancio-razzo-vulcan-fallito-amazon-perde-40-satelliti/",
+     "title": "Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/14/garante-privacy-multa-meta-805-euro-facebook-foto-galleria-android/",
-     "title": "Il Garante della Privacy ha multato Meta per 805 milioni di euro"
+     "link": "https://www.ilpost.it/2026/11/16/amazon-razzo-satelliti-avaria/",
+     "title": "Un razzo che doveva portare in orbita 40 satelliti di Amazon ha avuto un’avaria poco dopo il lancio"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria",
-   "summary": "Il nodo degli indennizzi. Esperto cyber, 'assicurati non vuol dire protetti'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
-   "pub_ts": 1794740719,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
-     "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Lo scandalo dei microchip Nvidia e la rocambolesca spy story in Malesia",
-   "summary": "L'inchiesta svela traffici illeciti di tecnologie avanzate verso la Cina e tensioni nella Silicon Valley",
-   "link": "https://www.rainews.it/video/2026/11/lo-scandalo-dei-microchip-nvidia-e-la-rocambolesca-spy-story-in-malesia-7ed51a7c-555d-41f0-89ae-68d0a5b08ee5.html",
-   "pub_ts": 1794770040,
+   "title": "Apertura debole per le borse europee. Tech sotto pressione in attesa dei conti Nvidia",
+   "summary": "Sono in rosso Milano (-0,4%) e Francoforte (-0,05%), restano in territorio positivo Londra e Parigi (+0,2%)",
+   "link": "https://www.rainews.it/articoli/2026/11/apertura-debole-per-le-borse-europee-tech-sotto-pressione-in-attesa-dei-conti-nvidia-f937cc3e-51f0-4bb0-b2f7-33e338f09ef6.html",
+   "pub_ts": 1794818100,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/lo-scandalo-dei-microchip-nvidia-e-la-rocambolesca-spy-story-in-malesia-7ed51a7c-555d-41f0-89ae-68d0a5b08ee5.html",
-     "title": "Lo scandalo dei microchip Nvidia e la rocambolesca spy story in Malesia"
+     "link": "https://www.rainews.it/articoli/2026/11/apertura-debole-per-le-borse-europee-tech-sotto-pressione-in-attesa-dei-conti-nvidia-f937cc3e-51f0-4bb0-b2f7-33e338f09ef6.html",
+     "title": "Apertura debole per le borse europee. Tech sotto pressione in attesa dei conti Nvidia"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Infomaniak: un’alternativa a Microsoft 365 e Google Workspace",
+   "summary": "kSuite Pro riunisce posta, archiviazione, videoconferenze, chat e strumenti d’ufficio in una suite europea, ospitata al 100% in Svizzera, con una migrazione pensata per chi parte da Microsoft o Google. The post Infomaniak: un’alternativa a Microsoft 365 e Google Workspace appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/infomaniak-alternativa-a-microsoft-365-e-google-workspace/",
+   "pub_ts": 1794817898,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/infomaniak-alternativa-a-microsoft-365-e-google-workspace/",
+     "title": "Infomaniak: un’alternativa a Microsoft 365 e Google Workspace"
     }
    ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia",
+   "title": "Garrone: 'Il mio cinema di eroi 'umani' con cui provare empatia'",
    "summary": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
-   "pub_ts": 1794758823,
+   "pub_ts": 1794817188,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
-     "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia"
+     "title": "Garrone: 'Il mio cinema di eroi 'umani' con cui provare empatia'"
     },
     {
      "name": "ANSA Mondo",
@@ -429,22 +429,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
-   "summary": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
-   "pub_ts": 1794739945,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Blade Runner 2099, arriva la serie futurista con al centro due donne",
+   "summary": "Con Michelle Yeoh e Hunter Schafer, il 25 novembre in esclusiva su Prime Video",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/15/blade-runner-2099-arriva-la-serie-futurista-con-al-centro-due-donne_2c850f13-2983-47a8-bf19-9959316412bb.html",
+   "pub_ts": 1794817227,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
-     "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/canale_viaggi/notizie/news/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_2332397c-b458-46c0-b8d4-40daeccfc60b.html",
-     "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento"
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/15/blade-runner-2099-arriva-la-serie-futurista-con-al-centro-due-donne_2c850f13-2983-47a8-bf19-9959316412bb.html",
+     "title": "Blade Runner 2099, arriva la serie futurista con al centro due donne"
     }
    ],
    "subtype": "cultura"
@@ -452,17 +447,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": ">ANSA-BOX/ Oncologo professione 'usurante', un emendamento in manovra",
-   "summary": "Berardi (Aiom), più supporto psicologico a professionisti per migliore assistenza pazienti",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/ansa-box-oncologo-professione-usurante-un-emendamento-in-manovra_cbd200ef-df06-41a5-aedc-a6d50228dd40.html",
-   "pub_ts": 1794753069,
+   "title": "Alla COP31 si litiga su quando pubblicare i prossimi rapporti climatici",
+   "summary": "Alcuni li vogliono entro il 2028, in tempo per il nuovo bilancio dell’Accordo di Parigi, ma i produttori di combustibili fossili vorrebbero posticiparli",
+   "link": "https://www.ilpost.it/2026/11/16/cop31-rapporti-ipcc-discussioni/",
+   "pub_ts": 1794818253,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/ansa-box-oncologo-professione-usurante-un-emendamento-in-manovra_cbd200ef-df06-41a5-aedc-a6d50228dd40.html",
-     "title": ">ANSA-BOX/ Oncologo professione 'usurante', un emendamento in manovra"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/cop31-rapporti-ipcc-discussioni/",
+     "title": "Alla COP31 si litiga su quando pubblicare i prossimi rapporti climatici"
     }
    ],
    "subtype": "scienza"
@@ -470,64 +465,73 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Tumore seno, cure su misura con oncologia di precisione ma pazienti poco consapevoli",
-   "summary": "43% non conosce terapie mirate e solo 32% sa cos'è biopsia liquida. Aiom, più informazione",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/tumore-seno-cure-su-misura-con-oncologia-di-precisione-ma-pazienti-poco-consapevoli_0f6baf4d-8176-4606-89c9-fcba651cf334.html",
-   "pub_ts": 1794737400,
+   "title": "“Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso",
+   "summary": "Boom di avvistamenti della medusa nomade del Mar Rosso in Sicilia. Ecco come riconoscerla e come inviare segnalazioni ai centri di ricerca L'articolo “Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso sembra essere il primo su Galileo .",
+   "link": "https://www.galileonet.it/medusa-nomade-sicilia/",
+   "pub_ts": 1794811622,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/tumore-seno-cure-su-misura-con-oncologia-di-precisione-ma-pazienti-poco-consapevoli_0f6baf4d-8176-4606-89c9-fcba651cf334.html",
-     "title": "Tumore seno, cure su misura con oncologia di precisione ma pazienti poco consapevoli"
+     "name": "Galileo",
+     "link": "https://www.galileonet.it/medusa-nomade-sicilia/",
+     "title": "“Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso"
     }
    ],
    "subtype": "scienza"
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Yemen, cinque morti in attacco Houthi vicino Aden",
+   "summary": "Colpita una postazione delle forze governative yemenite nella provincia di Lahj",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/yemen-cinque-morti-in-attacco-houthi-vicino-aden_2cc8be85-eb0c-4067-bf54-3e68c36e6a8d.html",
+   "pub_ts": 1794814112,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/yemen-cinque-morti-in-attacco-houthi-vicino-aden_2cc8be85-eb0c-4067-bf54-3e68c36e6a8d.html",
+     "title": "Yemen, cinque morti in attacco Houthi vicino Aden"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/stati-uniti-portaerei-uss-theodore-roosevelt-medio-oriente/",
+     "title": "Ora gli Stati Uniti hanno di nuovo tre portaerei in Medio Oriente"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/11/16/yemen-houthi-medio-oriente-israele-usa-iran-ultime-notizie/8573221/",
+     "title": "Yemen, gli Houthi a 60 chilometri dalla capitale provvisoria Aden: le forze governative si ritirano da Bab el-Mandeb. La portaerei Roosevelt verso il Medio oriente"
+    }
+   ]
   }
  ],
  "articles": [
+  {
+   "title": "Pechino conferma il trilaterale tra Xi, Trump e Putin: 'Si discuterà della pace mondiale'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/pechino-conferma-il-trilaterale-tra-xi-trump-e-putin-e-gli-usa-si-blindano-sullia_719b0e4a-833e-4411-9f49-e3bdeca194d9.html",
+   "description": "Il ministero degli Esteri: 'Previsto per il 19 novembre a Shenzen'. Il Financial Times: 'Usa e alleati firmano un accordo per tutelare la supply chain dell'Ia dalla Cina'. L'intesa a pochi giorni dall'incontro di giovedì tra i leader",
+   "pub_ts": 1794818643,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Colpito nella notte il ponte di Crimea, 'traffico bloccato'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/colpito-nella-notte-il-ponte-di-cirmea-traffico-bloccato_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html",
+   "description": "Mosca: 'Abbattuti 1.336 droni sulle regioni russe'",
+   "pub_ts": 1794815940,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
   {
    "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”",
    "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
    "description": "Il tycoon lo accusa di aver investito male sul rinnovamento del sistema, ma è stato lui a chiedere al Congresso soldi soprattutto per la guerra",
    "pub_ts": 1794787243,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Cremlino, 'se non ci sarà un accordo con l'Europa useremo la forza'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/cremlino-se-non-ci-sara-un-accordo-con-leuropa-useremo-la-forza_f588b228-e761-47ac-9c65-dec04a5670ad.html",
-   "description": "'L'Ue è lenta a decidere perché è divisa, bisogna vedere se vogliono davvero la pace'",
-   "pub_ts": 1794793260,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
-   "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
-   "description": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
-   "pub_ts": 1794729995,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
-   "description": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
-   "pub_ts": 1794788700,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "L’Iran attacca gli Usa in Bahrein. Il Wsj: “Ha ancora fino a 2.500 missili”",
-   "link": "https://www.repubblica.it/esteri/2026/11/16/news/iran_attacca_gli_usa_in_bahrein_ha_ancora_fino_a_2500_missili-425725654/?rss",
-   "description": "L’operazione nella notte come risposta ai colpi contro i radar. E il Wall Street Journal riporta la stima dell’intelligence sull’arsenale iraniano",
-   "pub_ts": 1794787234,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
@@ -551,28 +555,46 @@
    "section": "politica"
   },
   {
-   "title": "L'Estonia annuncia, da dicembre chiuso completamente il confine con la Russia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/lestonia-annuncia-da-dicembre-chiuso-completamente-il-confine-con-la-russia_31af256e-893a-489e-8997-f30dff55d892.html",
-   "description": "Lo ha annunciato su X il ministro degli Esteri estone, Margus Tsahkna.",
-   "pub_ts": 1794793020,
+   "title": "Ciardi: “L’Italia investa di più contro gli attacchi cyber. Voto a rischio manipolazione”",
+   "link": "https://www.repubblica.it/politica/2026/11/16/news/nunzia_ciardi_italia_investa_di_piu_cybersicurezza_voto_manipolazione_intervista-425726012/",
+   "description": "La vicedirettrice dell’Agenzia per la sicurezza cibernetica: “Non è più solo disinformazione ma capacità di influire sull’opinione e il consenso”",
+   "pub_ts": 1794787200,
+   "source": "la Repubblica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/nyt-entro-24-ore-la-portaerei-roosevelt-in-medio-oriente-e-la-terza-nellarea_7dfdbe44-45d8-41aa-ab7c-397bd05b75f8.html",
+   "description": "Si unirà alla Washington e alla Bush",
+   "pub_ts": 1794816060,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Sabotaggio alla fabbrica di droni: l'Estonia chiude i valichi con la Russia",
-   "link": "https://www.rainews.it/video/2026/11/sabotaggio-alla-fabbrica-di-droni-lestonia-chiude-i-valichi-con-la-russia-9fc196a0-9020-43bd-a896-f40ade0b0943.html",
-   "description": "Il ministro estone Tsahkna accusa l'intelligence del Cremlino per il tentato incendio e fissa il blocco dal primo dicembre. Il generale Camporini avverte sui rischi per la Nato e sull'esclusione dell'Ue dal vertice di Shenzhen tra Putin, Xi e Trump",
-   "pub_ts": 1794770160,
-   "source": "Rai News",
+   "title": "PRIME PAGINE | Mosca gela gli Usa, 'niente Nato per Kiev'. Poi minaccia l'Ue",
+   "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/16/prime-pagine-mosca-gela-gli-usa-niente-nato-per-kiev._675b26d2-eee0-4361-908f-4285be19f51f.html",
+   "description": "",
+   "pub_ts": 1794815644,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ultimatum di Avs sulla patrimoniale con sponda Schlein, Conte apre al confronto",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/fratoianni-a-conte-la-tassa-sulle-grandi-ricchezze-deve-essere-nel-programma_3c918e6b-74f7-42a0-b926-70c8340c5820.html",
-   "description": "In ballo anche il reddito di cittadinza. Segretaria dem: 'Leader coalizione vincolato a programma'. Atreju divide",
-   "pub_ts": 1794773018,
+   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
+   "description": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
+   "pub_ts": 1794769460,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Meloni, il lavoro deve sempre essere sinonimo di dignità, diritti e sicurezza",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/meloni-il-lavoro-deve-sempre-essere-sinonimo-di-dignita-diritti-e-sicurezza_743f52f3-b94e-4856-9965-0a229ce0f494.html",
+   "description": "Premier, 'l'8 agosto diventa giornata europea in memoria vittime incidenti sul lavoro'",
+   "pub_ts": 1794819516,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
@@ -581,43 +603,43 @@
    "title": "Scoop del Financial Times: 'Huang pensa a un clamoroso ritorno alla guida di Nvidia'",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/scoop-del-financial-times-huang-pensa-a-un-clamoroso-ritorno-alla-guida_5f2ba24d-056b-4f96-aca8-03e59566888d.html",
    "description": "'I guru della Silicon Valley cercano il sostegno di Trump'. Ma Bessent vuole un ricambio",
-   "pub_ts": 1794775094,
+   "pub_ts": 1794816882,
    "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update)",
-   "link": "https://www.punto-informatico.it/accesso-foto-video-senza-consenso-multa-805-milioni-meta/",
-   "description": "Il Garante della privacy ha inflitto una sanzione di 805 milioni di euro a Meta per l'accesso a foto e video senza consenso con l'app Facebook. The post Accesso a foto e video senza consenso, multa di 805 milioni a Meta (update) appeared first on Punto Informatico .",
-   "pub_ts": 1794675495,
+   "title": "Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti",
+   "link": "https://www.punto-informatico.it/lancio-razzo-vulcan-fallito-amazon-perde-40-satelliti/",
+   "description": "A causa di un'anomalia attualmente ignota, il razzo Vulcan Centaur di ULA non ha portato in orbita i 40 satelliti della costellazione Amazon Leo. The post Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti appeared first on Punto Informatico .",
+   "pub_ts": 1794819234,
    "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Microsoft torna a funzionare, ma la conta dei danni è milionaria",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/14/microsoft-torna-a-funzionare-ma-la-conta-dei-danni-e-milionaria_91712ed1-047f-4a59-b3be-0ef3e92e3b4c.html",
-   "description": "Il nodo degli indennizzi. Esperto cyber, 'assicurati non vuol dire protetti'",
-   "pub_ts": 1794740719,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Lo scandalo dei microchip Nvidia e la rocambolesca spy story in Malesia",
-   "link": "https://www.rainews.it/video/2026/11/lo-scandalo-dei-microchip-nvidia-e-la-rocambolesca-spy-story-in-malesia-7ed51a7c-555d-41f0-89ae-68d0a5b08ee5.html",
-   "description": "L'inchiesta svela traffici illeciti di tecnologie avanzate verso la Cina e tensioni nella Silicon Valley",
-   "pub_ts": 1794770040,
+   "title": "Apertura debole per le borse europee. Tech sotto pressione in attesa dei conti Nvidia",
+   "link": "https://www.rainews.it/articoli/2026/11/apertura-debole-per-le-borse-europee-tech-sotto-pressione-in-attesa-dei-conti-nvidia-f937cc3e-51f0-4bb0-b2f7-33e338f09ef6.html",
+   "description": "Sono in rosso Milano (-0,4%) e Francoforte (-0,05%), restano in territorio positivo Londra e Parigi (+0,2%)",
+   "pub_ts": 1794818100,
    "source": "Rai News",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia",
+   "title": "Infomaniak: un’alternativa a Microsoft 365 e Google Workspace",
+   "link": "https://www.punto-informatico.it/infomaniak-alternativa-a-microsoft-365-e-google-workspace/",
+   "description": "kSuite Pro riunisce posta, archiviazione, videoconferenze, chat e strumenti d’ufficio in una suite europea, ospitata al 100% in Svizzera, con una migrazione pensata per chi parte da Microsoft o Google. The post Infomaniak: un’alternativa a Microsoft 365 e Google Workspace appeared first on Punto Informatico .",
+   "pub_ts": 1794817898,
+   "source": "Punto Informatico",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Garrone: 'Il mio cinema di eroi 'umani' con cui provare empatia'",
    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
    "description": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
-   "pub_ts": 1794758823,
+   "pub_ts": 1794817188,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -632,31 +654,40 @@
    "section": "varia"
   },
   {
-   "title": "Galleria Borghese, grandi firme si candidano per l'ampliamento",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/14/galleria-borghese-grandi-firme-si-candidano-per-lampliamento_60aa58f5-3e2f-4aee-904a-66976d0544f4.html",
-   "description": "63 i gruppi che hanno risposto al concorso, la commissione sceglierà i finalisti",
-   "pub_ts": 1794739945,
+   "title": "Blade Runner 2099, arriva la serie futurista con al centro due donne",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/15/blade-runner-2099-arriva-la-serie-futurista-con-al-centro-due-donne_2c850f13-2983-47a8-bf19-9959316412bb.html",
+   "description": "Con Michelle Yeoh e Hunter Schafer, il 25 novembre in esclusiva su Prime Video",
+   "pub_ts": 1794817227,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": ">ANSA-BOX/ Oncologo professione 'usurante', un emendamento in manovra",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/ansa-box-oncologo-professione-usurante-un-emendamento-in-manovra_cbd200ef-df06-41a5-aedc-a6d50228dd40.html",
-   "description": "Berardi (Aiom), più supporto psicologico a professionisti per migliore assistenza pazienti",
-   "pub_ts": 1794753069,
-   "source": "ANSA Salute",
+   "title": "Alla COP31 si litiga su quando pubblicare i prossimi rapporti climatici",
+   "link": "https://www.ilpost.it/2026/11/16/cop31-rapporti-ipcc-discussioni/",
+   "description": "Alcuni li vogliono entro il 2028, in tempo per il nuovo bilancio dell’Accordo di Parigi, ma i produttori di combustibili fossili vorrebbero posticiparli",
+   "pub_ts": 1794818253,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Tumore seno, cure su misura con oncologia di precisione ma pazienti poco consapevoli",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/15/tumore-seno-cure-su-misura-con-oncologia-di-precisione-ma-pazienti-poco-consapevoli_0f6baf4d-8176-4606-89c9-fcba651cf334.html",
-   "description": "43% non conosce terapie mirate e solo 32% sa cos'è biopsia liquida. Aiom, più informazione",
-   "pub_ts": 1794737400,
-   "source": "ANSA Salute",
+   "title": "“Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso",
+   "link": "https://www.galileonet.it/medusa-nomade-sicilia/",
+   "description": "Boom di avvistamenti della medusa nomade del Mar Rosso in Sicilia. Ecco come riconoscerla e come inviare segnalazioni ai centri di ricerca L'articolo “Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso sembra essere il primo su Galileo .",
+   "pub_ts": 1794811622,
+   "source": "Galileo",
    "source_priority": 1,
    "section": "varia"
+  },
+  {
+   "title": "Yemen, cinque morti in attacco Houthi vicino Aden",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/yemen-cinque-morti-in-attacco-houthi-vicino-aden_2cc8be85-eb0c-4067-bf54-3e68c36e6a8d.html",
+   "description": "Colpita una postazione delle forze governative yemenite nella provincia di Lahj",
+   "pub_ts": 1794814112,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "cronaca"
   }
  ]
 }
