@@ -1,6 +1,6 @@
 {
- "generated_at": 1794820857,
- "updated_at": 1794820857,
+ "generated_at": 1794859936,
+ "updated_at": 1794859936,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,312 +10,106 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Pechino conferma il trilaterale tra Xi, Trump e Putin: 'Si discuterà della pace mondiale'",
-   "summary": "Il ministero degli Esteri: 'Previsto per il 19 novembre a Shenzen'. Il Financial Times: 'Usa e alleati firmano un accordo per tutelare la supply chain dell'Ia dalla Cina'. L'intesa a pochi giorni dall'incontro di giovedì tra i leader",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/pechino-conferma-il-trilaterale-tra-xi-trump-e-putin-e-gli-usa-si-blindano-sullia_719b0e4a-833e-4411-9f49-e3bdeca194d9.html",
-   "pub_ts": 1794818643,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/pechino-conferma-il-trilaterale-tra-xi-trump-e-putin-e-gli-usa-si-blindano-sullia_719b0e4a-833e-4411-9f49-e3bdeca194d9.html",
-     "title": "Pechino conferma il trilaterale tra Xi, Trump e Putin: 'Si discuterà della pace mondiale'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/16/usa-russia-cina-trump-xi-putin-shenzen/",
-     "title": "Trump-Xi-Putin, il vertice «rivoluzionario» per «la pace e la stabilità nel mondo»"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-vertice-a-tre-putin-trump-xi-giovedi-kiev-ponte-di-crimea-droni-mosca-f9u5yomc",
-     "title": "Ucraina, confermato il vertice a tre Putin-Trump-Xi giovedì. Kiev attacca il ponte di Crimea"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/cina-vertice-xi-trump-putin_72qAbJ9sAJ4V4MSvBpDBi0",
-     "title": "Xi-Trump-Putin, confermato vertice in Cina. Fonti: \"Presidente Usa vuole evitare tema della guerra fra Mosca e Kiev\""
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/ucraina-cina-conferma-vertice-tra-xi-trump-e-putin-la-guerra-e-le-trattative-e5061f0e-c2c1-4f4c-bcd3-a8132fddb854.html",
-     "title": "Ucraina, Cina conferma: vertice tra Xi, Trump e Putin"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/diretta/guerra_ucraina_russia_news_oggi-425726151/",
-     "title": "Guerra Ucraina - Russia, le news. Pechino: “Pace mondiale al centro del vertice Xi-Trump-Putin”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Colpito nella notte il ponte di Crimea, 'traffico bloccato'",
-   "summary": "Mosca: 'Abbattuti 1.336 droni sulle regioni russe'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/colpito-nella-notte-il-ponte-di-cirmea-traffico-bloccato_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html",
-   "pub_ts": 1794815940,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/colpito-nella-notte-il-ponte-di-cirmea-traffico-bloccato_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html",
-     "title": "Colpito nella notte il ponte di Crimea, 'traffico bloccato'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/?rss",
-     "title": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/mosca-minaccia-lue-senza-accordo-useremo-la-forza-zelensky-importante-che-europa-resti-forte-93329fa2-c375-48bd-bf19-be79b06ac7eb.html",
-     "title": "Attacco al ponte di Crimea: traffico sospeso. Mosca minaccia l'Ue: \"Senza accordo useremo la forza\""
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-negoziati-putin-obiettivi_1NYJFbKPCPDsTUGski5xtc",
-     "title": "Ucraina, Mosca: \"Senza accordo con l'Europa non resta che la forza\". L'Estonia chiude il confine con Russia da 1 dicembre"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/guerra-russia-ucraina-ultime-notizie-oggi-15-novembre-n9rgdh31",
-     "title": "Il Cremlino: «Se non ci sarà un accordo useremo la forza per raggiungere i nostri obiettivi»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”",
-   "summary": "Il tycoon lo accusa di aver investito male sul rinnovamento del sistema, ma è stato lui a chiedere al Congresso soldi soprattutto per la guerra",
-   "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
-   "pub_ts": 1794787243,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
-     "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/caos-voli-usa-trump-da-colpa-biden-due-aerei-si-scontrano-pista-miami-AJXo9THC",
-     "title": "Caos voli Usa, Trump dà la colpa a Biden. Intanto, due aerei si scontrano in pista a Miami"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/caos-voli-usa-voli-cancellati-ultime-news_4SYWhb6fxVMMN9DDUfHZ2b",
-     "title": "Caos nei cieli Usa, sabato cancellati quasi 6.500 voli e domenica altri 760. Trump: \"Colpa della precedente amministrazione Biden\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
-   "summary": "Dichiarazione congiunta dei 4 ministri degli Esteri",
-   "link": "https://www.ansa.it/sito/notizie/mondo/oceania/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_64400f3d-50b3-4176-b113-bdd703a7b4d8.html",
-   "pub_ts": 1794776011,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/oceania/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_64400f3d-50b3-4176-b113-bdd703a7b4d8.html",
-     "title": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/15/gaza-piogge-dichiarazione-congiunta-italia-uk-canada-israele/",
-     "title": "L’incubo di Gaza sotto le piogge torrenziali, l’appello di Italia, Uk, Canada e Australia: «Israele faccia entrare subito le 150mila tende»"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/newsletter/bb9cc7679fabb3deaf9a958b6368e9d1/",
-     "title": "Chi cerca di informare Israele su Gaza"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Schlein, io per tassa sui super ricchi, il ceto medio lo tassa Meloni",
-   "summary": "La leader del Pd alla premier, per noi non ci sono lavoratori di serie B",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/schlein-io-per-tassa-sui-super-ricchi-il-ceto-medio-lo-tassa-meloni_e67f81e9-88be-4083-abe1-f3997b00ce46.html",
-   "pub_ts": 1794773348,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/schlein-io-per-tassa-sui-super-ricchi-il-ceto-medio-lo-tassa-meloni_e67f81e9-88be-4083-abe1-f3997b00ce46.html",
-     "title": "Schlein, io per tassa sui super ricchi, il ceto medio lo tassa Meloni"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/schlein-nuova-tassa-supericchi-vittoria-centrosinistra-op6wza7p",
-     "title": "Schlein: «Se vinco metterò una nuova tassa per i super ricchi»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/15/news/elly_schlein_pd_stati_generali_scuola-425725246/",
-     "title": "Schlein su fisco e scuola: “Sì alla tassa sui super ricchi e ai prof stipendi più alti”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Ciardi: “L’Italia investa di più contro gli attacchi cyber. Voto a rischio manipolazione”",
-   "summary": "La vicedirettrice dell’Agenzia per la sicurezza cibernetica: “Non è più solo disinformazione ma capacità di influire sull’opinione e il consenso”",
-   "link": "https://www.repubblica.it/politica/2026/11/16/news/nunzia_ciardi_italia_investa_di_piu_cybersicurezza_voto_manipolazione_intervista-425726012/",
-   "pub_ts": 1794787200,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/16/news/nunzia_ciardi_italia_investa_di_piu_cybersicurezza_voto_manipolazione_intervista-425726012/",
-     "title": "Ciardi: “L’Italia investa di più contro gli attacchi cyber. Voto a rischio manipolazione”"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/15/italia-perde-contro-il-belgio-in-nations-league/",
-     "title": "L’Italia ha perso 4-1 contro il Belgio"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/15/nations-league-italia-belgio-diretta/",
-     "title": "Nations League, il Belgio travolge l’Italia 4 a 1: gli azzurri non si qualificano ai quarti"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'",
-   "summary": "Si unirà alla Washington e alla Bush",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/nyt-entro-24-ore-la-portaerei-roosevelt-in-medio-oriente-e-la-terza-nellarea_7dfdbe44-45d8-41aa-ab7c-397bd05b75f8.html",
-   "pub_ts": 1794816060,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/nyt-entro-24-ore-la-portaerei-roosevelt-in-medio-oriente-e-la-terza-nellarea_7dfdbe44-45d8-41aa-ab7c-397bd05b75f8.html",
-     "title": "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/ncontro-tra-il-likud-di-netanyahu-e-yashar-di-eisenkot-per-governo-di-unita-nazionale-gli-houthi-a-circa-60-chilometri-dalla-citta-di-aden-sede-del-governo-yemenita-4111f81d-68d9-4c7c-89ca-eb56811c943a.html",
-     "title": "L'Iran rivendica 6 petroliere affondate a Hormuz. Media: terza portaerei Usa nell'area"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "PRIME PAGINE | Mosca gela gli Usa, 'niente Nato per Kiev'. Poi minaccia l'Ue",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/16/prime-pagine-mosca-gela-gli-usa-niente-nato-per-kiev._675b26d2-eee0-4361-908f-4285be19f51f.html",
-   "pub_ts": 1794815644,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/16/prime-pagine-mosca-gela-gli-usa-niente-nato-per-kiev._675b26d2-eee0-4361-908f-4285be19f51f.html",
-     "title": "PRIME PAGINE | Mosca gela gli Usa, 'niente Nato per Kiev'. Poi minaccia l'Ue"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/le-prime-pagine-di-oggi-4736/",
-     "title": "Le prime pagine di oggi"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
-   "summary": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
-   "pub_ts": 1794769460,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
-     "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/15/yemen-governo-si-ritira-stretto-bab-el-mandeb-houthi/",
-     "title": "L’esercito yemenita ha detto che lascerà la zona dello stretto di Bab el Mandeb per proteggere Aden, sede del governo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Meloni, il lavoro deve sempre essere sinonimo di dignità, diritti e sicurezza",
-   "summary": "Premier, 'l'8 agosto diventa giornata europea in memoria vittime incidenti sul lavoro'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/meloni-il-lavoro-deve-sempre-essere-sinonimo-di-dignita-diritti-e-sicurezza_743f52f3-b94e-4856-9965-0a229ce0f494.html",
-   "pub_ts": 1794819516,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/meloni-il-lavoro-deve-sempre-essere-sinonimo-di-dignita-diritti-e-sicurezza_743f52f3-b94e-4856-9965-0a229ce0f494.html",
-     "title": "Meloni, il lavoro deve sempre essere sinonimo di dignità, diritti e sicurezza"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Scoop del Financial Times: 'Huang pensa a un clamoroso ritorno alla guida di Nvidia'",
-   "summary": "'I guru della Silicon Valley cercano il sostegno di Trump'. Ma Bessent vuole un ricambio",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/scoop-del-financial-times-huang-pensa-a-un-clamoroso-ritorno-alla-guida_5f2ba24d-056b-4f96-aca8-03e59566888d.html",
-   "pub_ts": 1794816882,
+   "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda",
+   "summary": "Austria, Germania, Danimarca, Grecia e Paesi Bassi hanno raggiunto un accordo con lo stato africano, implicato per i massacri nel Congo, per aprire nel 2027 un centro destinato a richiedenti asilo la cui domanda sia stata respinta definitivamente",
+   "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/?rss",
+   "pub_ts": 1794859681,
    "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/scoop-del-financial-times-huang-pensa-a-un-clamoroso-ritorno-alla-guida_5f2ba24d-056b-4f96-aca8-03e59566888d.html",
-     "title": "Scoop del Financial Times: 'Huang pensa a un clamoroso ritorno alla guida di Nvidia'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/?rss",
+     "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/ft-jensen-huang-pensa-a-un-clamoroso-ritorno-alla-guida-di-nvidia_1f170e97-e986-4422-8f86-af141ba247d2.html",
-     "title": "Ft, 'Jensen Huang pensa a un clamoroso ritorno alla guida di Nvidia'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/16/vienna-ufficializza-primo-centro-di-rimpatrio-di-5-paesi-ue-in-ruanda-nel-2027_1461d92e-a5fa-427e-8647-a2d8d50881e5.html",
+     "title": "Vienna ufficializza primo centro di rimpatrio di 5 Paesi Ue in Ruanda nel 2027"
     },
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/war-room-ritorno-jensen-huang-ceo-nvidia/",
-     "title": "Una war room per il ritorno di Jensen Huang a CEO di NVIDIA"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/europa/return-hub-migranti-deportare-ruanda-vergogna-europea-rimpatri-diritti-gsoayjio",
+     "title": "Migranti da deportare nei centri in Ruanda: una vergogna europea"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/",
+     "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/centro-espulsione-migranti-irregolari-ruanda-paesi-europei/",
+     "title": "Cinque paesi europei vogliono mandare in Ruanda i migranti che non possono espellere"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/16/ruanda-paesi-europei-hub-migranti/",
+     "title": "Vienna ufficializza il primo centro di rimpatrio di 5 Paesi Ue: «Sarà aperto in Ruanda il 2027»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/migranti-ue-espulsi-ruanda-accordo_2TYN18WRn5a46899QPosKA",
+     "title": "I migranti espulsi andranno in Ruanda, il piano di 5 paesi Ue"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Problemi d'accesso e disservizi per le principali banche Usa",
+   "summary": "Migliaia di segnalazioni. Coinvolti Chase Bank, Wells Fargo e altri",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/problemi-daccesso-e-disservizi-per-le-principali-banche-usa_19d6def5-9b31-42db-9204-cbf5380c5a51.html",
+   "pub_ts": 1794855459,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/problemi-daccesso-e-disservizi-per-le-principali-banche-usa_19d6def5-9b31-42db-9204-cbf5380c5a51.html",
+     "title": "Problemi d'accesso e disservizi per le principali banche Usa"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/problemi-daccesso-e-disservizi-per-le-principali-banche-usa-7916a891-c6c5-40fa-a879-d8f989292ab4.html",
+     "title": "Problemi d'accesso e disservizi per le principali banche Usa"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/usa-problemi-d-accesso-e-disservizi-le-principali-banche-AJfEdhIC",
+     "title": "Usa, problemi d’accesso e disservizi per le principali banche: da Chase a Bank of America"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/16/banche-americane-down-disservizi-notizie/8574081/",
+     "title": "Problemi d’accesso e disservizi sui siti delle principali banche americane"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Media: 'Il board di Nvidia non sta valutando il ritorno di Huang'",
+   "summary": "Trump: 'Jensen Huang di nuovo alla guida di Nvidia? Non è una cattiva idea. Ma io ho proposto Tim Cook'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_df084f26-8996-46a2-927f-645ecc3fe8fe.html",
+   "pub_ts": 1794851689,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_df084f26-8996-46a2-927f-645ecc3fe8fe.html",
+     "title": "Media: 'Il board di Nvidia non sta valutando il ritorno di Huang'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_646fe13e-423f-4afd-9791-062a0084a9a6.html",
+     "title": "Media, 'il board di Nvidia non sta valutando il ritorno di Huang'"
     },
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/16/jensen-huang-valuta-rientro-nvidia/",
      "title": "Jensen Huang valuta un ritorno in Nvidia, scrive il Financial Times"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/15/news/nvidia_la_svolta_possibile_huang_pensa_al_ritorno_come_ceo-425725753/",
-     "title": "Nvidia, possibile colpo di scena: Huang pensa al ritorno, Bessent: “L’azienda cerchi un esterno”"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/16/jensen-huang-nvidia-ritorno-notizie/8573230/",
-     "title": "Financial Times: “I guru della Silicon Valley tentano di riportare Huang alla guida di Nvidia. Con l’aiuto di Trump”"
     },
     {
      "name": "Nicola Porro",
@@ -325,369 +119,559 @@
    ]
   },
   {
-   "category": "tech",
-   "area": null,
-   "title": "Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti",
-   "summary": "A causa di un'anomalia attualmente ignota, il razzo Vulcan Centaur di ULA non ha portato in orbita i 40 satelliti della costellazione Amazon Leo. The post Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/lancio-razzo-vulcan-fallito-amazon-perde-40-satelliti/",
-   "pub_ts": 1794819234,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/lancio-razzo-vulcan-fallito-amazon-perde-40-satelliti/",
-     "title": "Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/amazon-razzo-satelliti-avaria/",
-     "title": "Un razzo che doveva portare in orbita 40 satelliti di Amazon ha avuto un’avaria poco dopo il lancio"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Apertura debole per le borse europee. Tech sotto pressione in attesa dei conti Nvidia",
-   "summary": "Sono in rosso Milano (-0,4%) e Francoforte (-0,05%), restano in territorio positivo Londra e Parigi (+0,2%)",
-   "link": "https://www.rainews.it/articoli/2026/11/apertura-debole-per-le-borse-europee-tech-sotto-pressione-in-attesa-dei-conti-nvidia-f937cc3e-51f0-4bb0-b2f7-33e338f09ef6.html",
-   "pub_ts": 1794818100,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/apertura-debole-per-le-borse-europee-tech-sotto-pressione-in-attesa-dei-conti-nvidia-f937cc3e-51f0-4bb0-b2f7-33e338f09ef6.html",
-     "title": "Apertura debole per le borse europee. Tech sotto pressione in attesa dei conti Nvidia"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Infomaniak: un’alternativa a Microsoft 365 e Google Workspace",
-   "summary": "kSuite Pro riunisce posta, archiviazione, videoconferenze, chat e strumenti d’ufficio in una suite europea, ospitata al 100% in Svizzera, con una migrazione pensata per chi parte da Microsoft o Google. The post Infomaniak: un’alternativa a Microsoft 365 e Google Workspace appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/infomaniak-alternativa-a-microsoft-365-e-google-workspace/",
-   "pub_ts": 1794817898,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/infomaniak-alternativa-a-microsoft-365-e-google-workspace/",
-     "title": "Infomaniak: un’alternativa a Microsoft 365 e Google Workspace"
-    }
-   ]
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Garrone: 'Il mio cinema di eroi 'umani' con cui provare empatia'",
-   "summary": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
-   "pub_ts": 1794817188,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
-     "title": "Garrone: 'Il mio cinema di eroi 'umani' con cui provare empatia'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_3253a34a-705f-45f5-b017-11102efb9147.html",
-     "title": "Garrone, il mio cinema di eroi 'umani' con cui provare empatia"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Donne al centro nella new wave del cinema egiziano",
-   "summary": "Lotta per indipendenza e autonomia fil rouge al Cairo Film Festival",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/donne-al-centro-nella-new-wave-del-cinema-egiziano_09f1ed02-bc4c-4d84-bceb-93037bc447d9.html",
-   "pub_ts": 1794749332,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/donne-al-centro-nella-new-wave-del-cinema-egiziano_09f1ed02-bc4c-4d84-bceb-93037bc447d9.html",
-     "title": "Donne al centro nella new wave del cinema egiziano"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/donne-al-centro-nella-new-wave-del-cinema-egiziano_f0d76f05-04c0-4d27-82a7-2ba2fbad50be.html",
-     "title": "Donne al centro nella new wave del cinema egiziano"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Blade Runner 2099, arriva la serie futurista con al centro due donne",
-   "summary": "Con Michelle Yeoh e Hunter Schafer, il 25 novembre in esclusiva su Prime Video",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/15/blade-runner-2099-arriva-la-serie-futurista-con-al-centro-due-donne_2c850f13-2983-47a8-bf19-9959316412bb.html",
-   "pub_ts": 1794817227,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/15/blade-runner-2099-arriva-la-serie-futurista-con-al-centro-due-donne_2c850f13-2983-47a8-bf19-9959316412bb.html",
-     "title": "Blade Runner 2099, arriva la serie futurista con al centro due donne"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Alla COP31 si litiga su quando pubblicare i prossimi rapporti climatici",
-   "summary": "Alcuni li vogliono entro il 2028, in tempo per il nuovo bilancio dell’Accordo di Parigi, ma i produttori di combustibili fossili vorrebbero posticiparli",
-   "link": "https://www.ilpost.it/2026/11/16/cop31-rapporti-ipcc-discussioni/",
-   "pub_ts": 1794818253,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/cop31-rapporti-ipcc-discussioni/",
-     "title": "Alla COP31 si litiga su quando pubblicare i prossimi rapporti climatici"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "“Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso",
-   "summary": "Boom di avvistamenti della medusa nomade del Mar Rosso in Sicilia. Ecco come riconoscerla e come inviare segnalazioni ai centri di ricerca L'articolo “Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso sembra essere il primo su Galileo .",
-   "link": "https://www.galileonet.it/medusa-nomade-sicilia/",
-   "pub_ts": 1794811622,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Galileo",
-     "link": "https://www.galileonet.it/medusa-nomade-sicilia/",
-     "title": "“Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Yemen, cinque morti in attacco Houthi vicino Aden",
-   "summary": "Colpita una postazione delle forze governative yemenite nella provincia di Lahj",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/yemen-cinque-morti-in-attacco-houthi-vicino-aden_2cc8be85-eb0c-4067-bf54-3e68c36e6a8d.html",
-   "pub_ts": 1794814112,
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump: “Forse durante il viaggio in Asia potrei incontrare anche Kim”",
+   "summary": "Il presidente degli Stati Uniti, parlando con i giornalisti prima di partire per il vertice dell’Apec, si è riferito alla possibilità di vedere il dittatore nordcoreano. E, in attesa dell’appuntamento con Putin, ha detto: “Si sta ammorbidendo, potrebbe essere più duro”",
+   "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/?rss",
+   "pub_ts": 1794849691,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/?rss",
+     "title": "Trump: “Forse durante il viaggio in Asia potrei incontrare anche Kim”"
+    },
+    {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/yemen-cinque-morti-in-attacco-houthi-vicino-aden_2cc8be85-eb0c-4067-bf54-3e68c36e6a8d.html",
-     "title": "Yemen, cinque morti in attacco Houthi vicino Aden"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/trump-in-asia-viaggio-importante-forse-incontrero-anche-kim_b9ca9c01-5397-4e65-b560-c734e32698b3.html",
+     "title": "Trump, 'in Asia viaggio importante, forse incontrerò anche Kim'"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/",
+     "title": "Trump: “Forse durante il viaggio in Asia potrei incontrare anche Kim”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "William e Kate in visita di tre giorni in India",
+   "summary": "Tra gli eventi a cui partecipano la cerimonia dell'Earthshot Prize",
+   "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/11/16/william-e-kate-in-visita-di-tre-giorni-in-india_b1a79362-fb2a-4425-bc0b-089f618eae12.html",
+   "pub_ts": 1794849533,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/11/16/william-e-kate-in-visita-di-tre-giorni-in-india_b1a79362-fb2a-4425-bc0b-089f618eae12.html",
+     "title": "William e Kate in visita di tre giorni in India"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/il-principe-william-e-la-principessa-catherine-in-visita-in-india_f4b48416-eb17-4980-a806-dd0f9c47750b.html",
+     "title": "Il principe William e la principessa Catherine in visita in India"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/william-kate-india-cricket-strada_5uQEBqrWVqPzFY6aHNHyxa",
+     "title": "William e Kate in India, l'incontro con Modi e la partita a cricket di strada"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti",
+   "summary": "Blocchi negli accessi e nei trasferimenti di denaro nei grandi istituti come Chase, Bank of America e Wells Fargo. L'interruzione arriva a poche ore dai gravi guasti ai sistemi Microsoft e al traffico aereo americano, ma al momento non risultano collegamenti né piste legate ad attacchi informatici L'articolo Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti…",
+   "link": "https://www.open.online/2026/11/16/usa-down-app-banche-conti-correnti/",
+   "pub_ts": 1794858893,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/16/usa-down-app-banche-conti-correnti/",
+     "title": "Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/16/news/banche_usa_disservizi_clienti_conti_online-425728153/",
+     "title": "Sistemi online in panne per le banche Usa: i clienti non riescono ad accedere ai conti"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/banche-usa-in-tilt-clienti-senza-accesso-ai-conti-online/",
+     "title": "Banche Usa in tilt: clienti senza accesso ai conti online"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "«La Brexit non ha funzionato»: Andy Burnham europeista tattico",
+   "summary": "",
+   "link": "https://www.editorialedomani.it/idee/commenti/andy-burnham-discorso-contro-brexit-londra-ue-x23odkxc",
+   "pub_ts": 1794857166,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/idee/commenti/andy-burnham-discorso-contro-brexit-londra-ue-x23odkxc",
+     "title": "«La Brexit non ha funzionato»: Andy Burnham europeista tattico"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/il-premier-britannico-burnham-la-brexit-non-ha-funzionato-AJ7ARZIC",
+     "title": "Il premier britannico Burnham: «La Brexit non ha funzionato»"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/stati-uniti-portaerei-uss-theodore-roosevelt-medio-oriente/",
-     "title": "Ora gli Stati Uniti hanno di nuovo tre portaerei in Medio Oriente"
+     "link": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/",
+     "title": "Andy Burnham è sempre più critico su Brexit"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "La Uefa sfida Infantino: Philippe Diallo candidato alla presidenza Fifa",
+   "summary": "La scelta arriva dopo il rifiuto di Arsene Wenger: ex presidente della Federcalcio francese, Diallo in passato fu vicino allo stesso Infantino",
+   "link": "https://www.rainews.it/articoli/2026/11/la-uefa-sfida-gianni-infantino-philippe-diallo-candidato-alla-presidenza-fifa-f8b726df-1cfd-41cf-9767-577d55e33b9a.html",
+   "pub_ts": 1794849202,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/la-uefa-sfida-gianni-infantino-philippe-diallo-candidato-alla-presidenza-fifa-f8b726df-1cfd-41cf-9767-577d55e33b9a.html",
+     "title": "La Uefa sfida Infantino: Philippe Diallo candidato alla presidenza Fifa"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/sport/diallo-candidato-fifa-contro-infantino-uefa-strategia-indagini-usa-tz8b8ckg",
+     "title": "Il francese Diallo candidato contro Infantino: ecco la strategia definitiva della Uefa"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/11/16/yemen-houthi-medio-oriente-israele-usa-iran-ultime-notizie/8573221/",
-     "title": "Yemen, gli Houthi a 60 chilometri dalla capitale provvisoria Aden: le forze governative si ritirano da Bab el-Mandeb. La portaerei Roosevelt verso il Medio oriente"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/16/elezioni-fifa-2027-diallo-chi-e-avversario-infantino/8573882/",
+     "title": "Chi è Philippe Diallo, l’uomo scelto dalla Uefa per contendere la presidenza Fifa a Infantino"
     }
    ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Più risorse per la sanità, quota 64 non sarà in manovra",
+   "summary": "Borghi: 'Ci sarà un provvedimento ad hoc'. Nuovo vertice",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
+   "pub_ts": 1794853954,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
+     "title": "Più risorse per la sanità, quota 64 non sarà in manovra"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_eef4fce8-6c9b-495e-9b8f-379b2526eb52.html",
+     "title": "Borghi (Lega), 'quota 64 ci sarà ma con un provvedimento a parte'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "La «tassa per i ricchi» o la patrimoniale: campo caotico sul fisco",
+   "summary": "Per il Pd è meglio la proposta Zucman sopra i 100 milioni netti. Scintille fra Avs e M5s, inedite convergenze tra contiani e renziani",
+   "link": "https://www.editorialedomani.it/politica/italia/centrosinistra-tassa-ricchi-patrimoniale-conte-schlein-lk07fwwg",
+   "pub_ts": 1794859435,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/centrosinistra-tassa-ricchi-patrimoniale-conte-schlein-lk07fwwg",
+     "title": "La «tassa per i ricchi» o la patrimoniale: campo caotico sul fisco"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/15/news/elly_schlein_pd_stati_generali_scuola-425725246/",
+     "title": "Schlein su fisco e scuola: “Sì alla tassa sui super ricchi e ai prof stipendi più alti”"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Apple lancia app per studiare l'uso dell'intelligenza artificiale nella salute",
+   "summary": "Il progetto coinvolgerà fino a 200.000 partecipanti negli Stati Uniti",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/16/apple-lancia-app-per-studiare-luso-dellintelligenza-artificiale-nella-salute_b2fd9fbc-ede1-40b8-ae41-05de0281f647.html",
+   "pub_ts": 1794855324,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/16/apple-lancia-app-per-studiare-luso-dellintelligenza-artificiale-nella-salute_b2fd9fbc-ede1-40b8-ae41-05de0281f647.html",
+     "title": "Apple lancia app per studiare l'uso dell'intelligenza artificiale nella salute"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/apple-lancia-app-testare-ai-salute/",
+     "title": "Apple lancia un’app per testare l’AI sulla salute"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Consigliere di OpenAI avverte, 'l'IA rischia di prendere il potere entro il 2028'",
+   "summary": "Paul Christiano indica le contromisure per mantenere il controllo dei sistemi intelligenti",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/16/consigliere-di-openai-avverte-lia-rischia-di-prendere-il-potere-entro-il-2028_bc254794-0e44-452a-9884-a9ef3dc0d994.html",
+   "pub_ts": 1794854607,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/16/consigliere-di-openai-avverte-lia-rischia-di-prendere-il-potere-entro-il-2028_bc254794-0e44-452a-9884-a9ef3dc0d994.html",
+     "title": "Consigliere di OpenAI avverte, 'l'IA rischia di prendere il potere entro il 2028'"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Naomi Klein: “Intelligenza artificiale è un nome sbagliato: chiamiamola Tecnologia del furto”",
+   "summary": "Il filosofo Andrea Colamedici racconta l’incontro con la scrittrice canadese per la presentazione del nuovo libro che ha scritto con Astra Taylor. Il furto a cui si riferisce è quello dei dati, dell’energia, del patrimonio intellettuale comune. I nuovi fascisti, dice, “In realtà...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/16/news/neomi_klein_intelligenza_artificiale_e_un_nome_sbagliato_chiamiamola_tecnologia_del_furto-425727119/?rss",
+   "pub_ts": 1794846260,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/16/news/neomi_klein_intelligenza_artificiale_e_un_nome_sbagliato_chiamiamola_tecnologia_del_furto-425727119/?rss",
+     "title": "Naomi Klein: “Intelligenza artificiale è un nome sbagliato: chiamiamola Tecnologia del furto”"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Ci sono problemi ai servizi online di diverse banche statunitensi",
+   "summary": "",
+   "link": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/",
+   "pub_ts": 1794857450,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/",
+     "title": "Ci sono problemi ai servizi online di diverse banche statunitensi"
+    }
+   ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Robert Pattinson è il nuovo James Bond",
+   "summary": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
+   "pub_ts": 1794858600,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
+     "title": "Robert Pattinson è il nuovo James Bond"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/il-nuovo-james-bond-robert-pattinson-raccoglie-leredita-di-daniel-craig--fcd5d9d8-01b4-4f07-a1e1-0adad39bda03.html",
+     "title": "Il nuovo James Bond: Robert Pattinson raccoglie l'eredità di Daniel Craig"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/spettacoli/cinema/2026/11/16/news/robert_pattinson_sara_il_nuovo_james_bond-425727456/",
+     "title": "Robert Pattinson è il nuovo James Bond: “È un sogno diventato realtà”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/robert-pattinson-007/",
+     "title": "Robert Pattinson è il nuovo 007"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Milly Carlucci, in famiglia Ballando abbiamo amore per tutti da Mariotto a Barbara d'Urso",
+   "summary": "Conduttrice sui social annuncia, Belli ballerino della Notte",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/milly-carlucci-in-famiglia-ballando-abbiamo-amore-per-tutti-da-mariotto-a-barbara_638f4206-8a5e-41de-b632-d7b0f083d3f4.html",
+   "pub_ts": 1794850902,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/milly-carlucci-in-famiglia-ballando-abbiamo-amore-per-tutti-da-mariotto-a-barbara_638f4206-8a5e-41de-b632-d7b0f083d3f4.html",
+     "title": "Milly Carlucci, in famiglia Ballando abbiamo amore per tutti da Mariotto a Barbara d'Urso"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/16/scontro-mariotto-durso-milly-carlucci-famiglia-ballando-video/",
+     "title": "Scontro Mariotto-D’Urso, Milly Carlucci prova a metterci una pezza: «Se succede un fatto in famiglia, va risolto tra noi» – Il video"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/16/mariotto-ha-chiesto-scusa-due-volte-i-fatti-di-famiglia-si-risolvono-in-famiglia-amiamo-e-difendiamo-sia-guillermo-che-barbara-milly-carlucci-prova-a-spegnere-il-caso-durso-a-ballando/8573845/",
+     "title": "“Mariotto ha chiesto scusa due volte, i fatti di famiglia si risolvono in famiglia. Amiamo e difendiamo sia Guillermo che Barbara”: Milly Carlucci prova a “spegnere” il caso D’Urso a Ballando con le Stelle"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Nel Duomo di Udine folla per i funerali di Toni Capuozzo",
+   "summary": "A dare l'ultimo saluto colleghi e dirigenti di Mediaset, nelle prime file Fedriga e Zaia",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/nel-duomo-di-udine-folla-per-i-funerali-di-toni-capuozzo_ebec0854-60bb-497f-b55e-e1ff717fc778.html",
+   "pub_ts": 1794842460,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/nel-duomo-di-udine-folla-per-i-funerali-di-toni-capuozzo_ebec0854-60bb-497f-b55e-e1ff717fc778.html",
+     "title": "Nel Duomo di Udine folla per i funerali di Toni Capuozzo"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/nel-duomo-di-udine-folla-per-i-funerali-di-toni-capuozzo_bf4b5e54-bf67-4926-ad37-fb833118d195.html",
+     "title": "Nel Duomo di Udine folla per i funerali di Toni Capuozzo"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/funerali-di-toni-capuozzo-arrivo-del-feretro-al-duomo-di-udine-video-c2520e78-1c22-4946-b29c-89f4108f5fd4.html",
+     "title": "Funerali di Toni Capuozzo, l'arrivo del feretro al Duomo di Udine"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Medici contro card anziani, 'bene Schillaci ma il 5 in piazza'",
+   "summary": "Si allarga il fronte anti-voucher, stop anche da infermieri. 'Su manovra, governo ascolti'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/16/medici-contro-card-anziani-bene-schillaci-ma-il-5-in-piazza_95cb1578-096c-4cb7-be6d-75f51be96dce.html",
+   "pub_ts": 1794852023,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/16/medici-contro-card-anziani-bene-schillaci-ma-il-5-in-piazza_95cb1578-096c-4cb7-be6d-75f51be96dce.html",
+     "title": "Medici contro card anziani, 'bene Schillaci ma il 5 in piazza'"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/16/medici-bene-apertura-schillaci-su-manovra-ma-noi-andiamo-avanti_e03b9f5e-13d6-487f-a006-23b12133edf4.html",
+     "title": "Medici, bene apertura Schillaci su manovra ma noi andiamo avanti"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Ancora pochi casi di influenza, ma c'è carenza di vaccini in alcune Regioni",
+   "summary": "Medici di Famiglia 'Circa 85mila casi in 3 settimane. In linea con gli anni passati",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_vaccini/2026/11/16/ancora-pochi-casi-di-influenza-ma-ce-carenza-di-vaccini-in-alcune-regioni_d6bbefe8-ebc4-4b3d-8ee4-5223f7401cd2.html",
+   "pub_ts": 1794856016,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_vaccini/2026/11/16/ancora-pochi-casi-di-influenza-ma-ce-carenza-di-vaccini-in-alcune-regioni_d6bbefe8-ebc4-4b3d-8ee4-5223f7401cd2.html",
+     "title": "Ancora pochi casi di influenza, ma c'è carenza di vaccini in alcune Regioni"
+    }
+   ],
+   "subtype": "scienza"
   }
  ],
  "articles": [
   {
-   "title": "Pechino conferma il trilaterale tra Xi, Trump e Putin: 'Si discuterà della pace mondiale'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/pechino-conferma-il-trilaterale-tra-xi-trump-e-putin-e-gli-usa-si-blindano-sullia_719b0e4a-833e-4411-9f49-e3bdeca194d9.html",
-   "description": "Il ministero degli Esteri: 'Previsto per il 19 novembre a Shenzen'. Il Financial Times: 'Usa e alleati firmano un accordo per tutelare la supply chain dell'Ia dalla Cina'. L'intesa a pochi giorni dall'incontro di giovedì tra i leader",
-   "pub_ts": 1794818643,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Colpito nella notte il ponte di Crimea, 'traffico bloccato'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/colpito-nella-notte-il-ponte-di-cirmea-traffico-bloccato_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html",
-   "description": "Mosca: 'Abbattuti 1.336 droni sulle regioni russe'",
-   "pub_ts": 1794815940,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Scaricabarile di Trump sul caos dei voli cancellati: “Le colpe sono di Biden”",
-   "link": "https://www.repubblica.it/esteri/2026/11/16/news/usa_caos_aerei_voli_cancellati_trump_incolpa_biden-425725938/?rss",
-   "description": "Il tycoon lo accusa di aver investito male sul rinnovamento del sistema, ma è stato lui a chiedere al Congresso soldi soprattutto per la guerra",
-   "pub_ts": 1794787243,
+   "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda",
+   "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/?rss",
+   "description": "Austria, Germania, Danimarca, Grecia e Paesi Bassi hanno raggiunto un accordo con lo stato africano, implicato per i massacri nel Congo, per aprire nel 2027 un centro destinato a richiedenti asilo la cui domanda sia stata respinta definitivamente",
+   "pub_ts": 1794859681,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/oceania/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_64400f3d-50b3-4176-b113-bdd703a7b4d8.html",
-   "description": "Dichiarazione congiunta dei 4 ministri degli Esteri",
-   "pub_ts": 1794776011,
+   "title": "Problemi d'accesso e disservizi per le principali banche Usa",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/problemi-daccesso-e-disservizi-per-le-principali-banche-usa_19d6def5-9b31-42db-9204-cbf5380c5a51.html",
+   "description": "Migliaia di segnalazioni. Coinvolti Chase Bank, Wells Fargo e altri",
+   "pub_ts": 1794855459,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Schlein, io per tassa sui super ricchi, il ceto medio lo tassa Meloni",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/15/schlein-io-per-tassa-sui-super-ricchi-il-ceto-medio-lo-tassa-meloni_e67f81e9-88be-4083-abe1-f3997b00ce46.html",
-   "description": "La leader del Pd alla premier, per noi non ci sono lavoratori di serie B",
-   "pub_ts": 1794773348,
-   "source": "ANSA Politica",
+   "title": "Media: 'Il board di Nvidia non sta valutando il ritorno di Huang'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_df084f26-8996-46a2-927f-645ecc3fe8fe.html",
+   "description": "Trump: 'Jensen Huang di nuovo alla guida di Nvidia? Non è una cattiva idea. Ma io ho proposto Tim Cook'",
+   "pub_ts": 1794851689,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ciardi: “L’Italia investa di più contro gli attacchi cyber. Voto a rischio manipolazione”",
-   "link": "https://www.repubblica.it/politica/2026/11/16/news/nunzia_ciardi_italia_investa_di_piu_cybersicurezza_voto_manipolazione_intervista-425726012/",
-   "description": "La vicedirettrice dell’Agenzia per la sicurezza cibernetica: “Non è più solo disinformazione ma capacità di influire sull’opinione e il consenso”",
-   "pub_ts": 1794787200,
-   "source": "la Repubblica",
+   "title": "Trump: “Forse durante il viaggio in Asia potrei incontrare anche Kim”",
+   "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/?rss",
+   "description": "Il presidente degli Stati Uniti, parlando con i giornalisti prima di partire per il vertice dell’Apec, si è riferito alla possibilità di vedere il dittatore nordcoreano. E, in attesa dell’appuntamento con Putin, ha detto: “Si sta ammorbidendo, potrebbe essere più duro”",
+   "pub_ts": 1794849691,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/nyt-entro-24-ore-la-portaerei-roosevelt-in-medio-oriente-e-la-terza-nellarea_7dfdbe44-45d8-41aa-ab7c-397bd05b75f8.html",
-   "description": "Si unirà alla Washington e alla Bush",
-   "pub_ts": 1794816060,
-   "source": "ANSA Mondo",
+   "title": "William e Kate in visita di tre giorni in India",
+   "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/11/16/william-e-kate-in-visita-di-tre-giorni-in-india_b1a79362-fb2a-4425-bc0b-089f618eae12.html",
+   "description": "Tra gli eventi a cui partecipano la cerimonia dell'Earthshot Prize",
+   "pub_ts": 1794849533,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "PRIME PAGINE | Mosca gela gli Usa, 'niente Nato per Kiev'. Poi minaccia l'Ue",
-   "link": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/16/prime-pagine-mosca-gela-gli-usa-niente-nato-per-kiev._675b26d2-eee0-4361-908f-4285be19f51f.html",
+   "title": "Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti",
+   "link": "https://www.open.online/2026/11/16/usa-down-app-banche-conti-correnti/",
+   "description": "Blocchi negli accessi e nei trasferimenti di denaro nei grandi istituti come Chase, Bank of America e Wells Fargo. L'interruzione arriva a poche ore dai gravi guasti ai sistemi Microsoft e al traffico aereo americano, ma al momento non risultano collegamenti né piste legate ad attacchi informatici L'articolo Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti…",
+   "pub_ts": 1794858893,
+   "source": "Open",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "«La Brexit non ha funzionato»: Andy Burnham europeista tattico",
+   "link": "https://www.editorialedomani.it/idee/commenti/andy-burnham-discorso-contro-brexit-londra-ue-x23odkxc",
    "description": "",
-   "pub_ts": 1794815644,
-   "source": "ANSA",
+   "pub_ts": 1794857166,
+   "source": "Domani",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Fonti, 'gli Houthi si trovano a 60 km da Aden, sede del governo yemenita'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/fonti-gli-houthi-si-trovano-a-60-km-da-aden-sede-del-governo-yemenita_4edc1d73-d10f-4d1b-9a05-80bf314f26c3.html",
-   "description": "Prosegue l'avanzata dei ribelli legati all'Iran, l'esercito ridispiega le truppe",
-   "pub_ts": 1794769460,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Meloni, il lavoro deve sempre essere sinonimo di dignità, diritti e sicurezza",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/meloni-il-lavoro-deve-sempre-essere-sinonimo-di-dignita-diritti-e-sicurezza_743f52f3-b94e-4856-9965-0a229ce0f494.html",
-   "description": "Premier, 'l'8 agosto diventa giornata europea in memoria vittime incidenti sul lavoro'",
-   "pub_ts": 1794819516,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Scoop del Financial Times: 'Huang pensa a un clamoroso ritorno alla guida di Nvidia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/scoop-del-financial-times-huang-pensa-a-un-clamoroso-ritorno-alla-guida_5f2ba24d-056b-4f96-aca8-03e59566888d.html",
-   "description": "'I guru della Silicon Valley cercano il sostegno di Trump'. Ma Bessent vuole un ricambio",
-   "pub_ts": 1794816882,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti",
-   "link": "https://www.punto-informatico.it/lancio-razzo-vulcan-fallito-amazon-perde-40-satelliti/",
-   "description": "A causa di un'anomalia attualmente ignota, il razzo Vulcan Centaur di ULA non ha portato in orbita i 40 satelliti della costellazione Amazon Leo. The post Lancio del razzo Vulcan fallito, Amazon perde 40 satelliti appeared first on Punto Informatico .",
-   "pub_ts": 1794819234,
-   "source": "Punto Informatico",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Apertura debole per le borse europee. Tech sotto pressione in attesa dei conti Nvidia",
-   "link": "https://www.rainews.it/articoli/2026/11/apertura-debole-per-le-borse-europee-tech-sotto-pressione-in-attesa-dei-conti-nvidia-f937cc3e-51f0-4bb0-b2f7-33e338f09ef6.html",
-   "description": "Sono in rosso Milano (-0,4%) e Francoforte (-0,05%), restano in territorio positivo Londra e Parigi (+0,2%)",
-   "pub_ts": 1794818100,
+   "title": "La Uefa sfida Infantino: Philippe Diallo candidato alla presidenza Fifa",
+   "link": "https://www.rainews.it/articoli/2026/11/la-uefa-sfida-gianni-infantino-philippe-diallo-candidato-alla-presidenza-fifa-f8b726df-1cfd-41cf-9767-577d55e33b9a.html",
+   "description": "La scelta arriva dopo il rifiuto di Arsene Wenger: ex presidente della Federcalcio francese, Diallo in passato fu vicino allo stesso Infantino",
+   "pub_ts": 1794849202,
    "source": "Rai News",
    "source_priority": 1,
-   "section": "tech"
+   "section": "politica"
   },
   {
-   "title": "Infomaniak: un’alternativa a Microsoft 365 e Google Workspace",
-   "link": "https://www.punto-informatico.it/infomaniak-alternativa-a-microsoft-365-e-google-workspace/",
-   "description": "kSuite Pro riunisce posta, archiviazione, videoconferenze, chat e strumenti d’ufficio in una suite europea, ospitata al 100% in Svizzera, con una migrazione pensata per chi parte da Microsoft o Google. The post Infomaniak: un’alternativa a Microsoft 365 e Google Workspace appeared first on Punto Informatico .",
-   "pub_ts": 1794817898,
-   "source": "Punto Informatico",
+   "title": "Più risorse per la sanità, quota 64 non sarà in manovra",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
+   "description": "Borghi: 'Ci sarà un provvedimento ad hoc'. Nuovo vertice",
+   "pub_ts": 1794853954,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La «tassa per i ricchi» o la patrimoniale: campo caotico sul fisco",
+   "link": "https://www.editorialedomani.it/politica/italia/centrosinistra-tassa-ricchi-patrimoniale-conte-schlein-lk07fwwg",
+   "description": "Per il Pd è meglio la proposta Zucman sopra i 100 milioni netti. Scintille fra Avs e M5s, inedite convergenze tra contiani e renziani",
+   "pub_ts": 1794859435,
+   "source": "Domani",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Apple lancia app per studiare l'uso dell'intelligenza artificiale nella salute",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/16/apple-lancia-app-per-studiare-luso-dellintelligenza-artificiale-nella-salute_b2fd9fbc-ede1-40b8-ae41-05de0281f647.html",
+   "description": "Il progetto coinvolgerà fino a 200.000 partecipanti negli Stati Uniti",
+   "pub_ts": 1794855324,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Garrone: 'Il mio cinema di eroi 'umani' con cui provare empatia'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/garrone-il-mio-cinema-di-eroi-umani-con-cui-provare-empatia_5f0784a5-21f6-49fe-a2bb-b7e4de2f9e51.html",
-   "description": "Il regista, che non ha annunciato ancora il nuovo film, premiato al Cairo alla carriera",
-   "pub_ts": 1794817188,
-   "source": "ANSA Cultura",
+   "title": "Consigliere di OpenAI avverte, 'l'IA rischia di prendere il potere entro il 2028'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/16/consigliere-di-openai-avverte-lia-rischia-di-prendere-il-potere-entro-il-2028_bc254794-0e44-452a-9884-a9ef3dc0d994.html",
+   "description": "Paul Christiano indica le contromisure per mantenere il controllo dei sistemi intelligenti",
+   "pub_ts": 1794854607,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "Donne al centro nella new wave del cinema egiziano",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/donne-al-centro-nella-new-wave-del-cinema-egiziano_09f1ed02-bc4c-4d84-bceb-93037bc447d9.html",
-   "description": "Lotta per indipendenza e autonomia fil rouge al Cairo Film Festival",
-   "pub_ts": 1794749332,
-   "source": "ANSA Mondo",
+   "title": "Naomi Klein: “Intelligenza artificiale è un nome sbagliato: chiamiamola Tecnologia del furto”",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/16/news/neomi_klein_intelligenza_artificiale_e_un_nome_sbagliato_chiamiamola_tecnologia_del_furto-425727119/?rss",
+   "description": "Il filosofo Andrea Colamedici racconta l’incontro con la scrittrice canadese per la presentazione del nuovo libro che ha scritto con Astra Taylor. Il furto a cui si riferisce è quello dei dati, dell’energia, del patrimonio intellettuale comune. I nuovi fascisti, dice, “In realtà...",
+   "pub_ts": 1794846260,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "Blade Runner 2099, arriva la serie futurista con al centro due donne",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/15/blade-runner-2099-arriva-la-serie-futurista-con-al-centro-due-donne_2c850f13-2983-47a8-bf19-9959316412bb.html",
-   "description": "Con Michelle Yeoh e Hunter Schafer, il 25 novembre in esclusiva su Prime Video",
-   "pub_ts": 1794817227,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Alla COP31 si litiga su quando pubblicare i prossimi rapporti climatici",
-   "link": "https://www.ilpost.it/2026/11/16/cop31-rapporti-ipcc-discussioni/",
-   "description": "Alcuni li vogliono entro il 2028, in tempo per il nuovo bilancio dell’Accordo di Parigi, ma i produttori di combustibili fossili vorrebbero posticiparli",
-   "pub_ts": 1794818253,
+   "title": "Ci sono problemi ai servizi online di diverse banche statunitensi",
+   "link": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/",
+   "description": "",
+   "pub_ts": 1794857450,
    "source": "Il Post",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "“Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso",
-   "link": "https://www.galileonet.it/medusa-nomade-sicilia/",
-   "description": "Boom di avvistamenti della medusa nomade del Mar Rosso in Sicilia. Ecco come riconoscerla e come inviare segnalazioni ai centri di ricerca L'articolo “Invasione aliena” in Sicilia: è boom di avvistamenti di medusa nomade del Mar Rosso sembra essere il primo su Galileo .",
-   "pub_ts": 1794811622,
-   "source": "Galileo",
+   "title": "Robert Pattinson è il nuovo James Bond",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
+   "description": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
+   "pub_ts": 1794858600,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Yemen, cinque morti in attacco Houthi vicino Aden",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/yemen-cinque-morti-in-attacco-houthi-vicino-aden_2cc8be85-eb0c-4067-bf54-3e68c36e6a8d.html",
-   "description": "Colpita una postazione delle forze governative yemenite nella provincia di Lahj",
-   "pub_ts": 1794814112,
-   "source": "ANSA Mondo",
+   "title": "Milly Carlucci, in famiglia Ballando abbiamo amore per tutti da Mariotto a Barbara d'Urso",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/milly-carlucci-in-famiglia-ballando-abbiamo-amore-per-tutti-da-mariotto-a-barbara_638f4206-8a5e-41de-b632-d7b0f083d3f4.html",
+   "description": "Conduttrice sui social annuncia, Belli ballerino della Notte",
+   "pub_ts": 1794850902,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "cronaca"
+   "section": "varia"
+  },
+  {
+   "title": "Nel Duomo di Udine folla per i funerali di Toni Capuozzo",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/nel-duomo-di-udine-folla-per-i-funerali-di-toni-capuozzo_ebec0854-60bb-497f-b55e-e1ff717fc778.html",
+   "description": "A dare l'ultimo saluto colleghi e dirigenti di Mediaset, nelle prime file Fedriga e Zaia",
+   "pub_ts": 1794842460,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Medici contro card anziani, 'bene Schillaci ma il 5 in piazza'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/16/medici-contro-card-anziani-bene-schillaci-ma-il-5-in-piazza_95cb1578-096c-4cb7-be6d-75f51be96dce.html",
+   "description": "Si allarga il fronte anti-voucher, stop anche da infermieri. 'Su manovra, governo ascolti'",
+   "pub_ts": 1794852023,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Ancora pochi casi di influenza, ma c'è carenza di vaccini in alcune Regioni",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_vaccini/2026/11/16/ancora-pochi-casi-di-influenza-ma-ce-carenza-di-vaccini-in-alcune-regioni_d6bbefe8-ebc4-4b3d-8ee4-5223f7401cd2.html",
+   "description": "Medici di Famiglia 'Circa 85mila casi in 3 settimane. In linea con gli anni passati",
+   "pub_ts": 1794856016,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
   }
  ]
 }
