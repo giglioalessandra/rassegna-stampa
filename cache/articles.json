@@ -1,6 +1,6 @@
 {
- "generated_at": 1794920359,
- "updated_at": 1794920359,
+ "generated_at": 1794951730,
+ "updated_at": 1794951730,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,366 +9,404 @@
  "items": [
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Zelensky, in Crimea operazione senza precedenti",
-   "summary": "'In risposta agli attacchi alle nostre infrastrutture'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/17/zelensky-in-crimea-operazione-senza-precedenti_2c138aed-b210-4551-b482-3400952451fc.html",
-   "pub_ts": 1794919424,
-   "n_sources": 6,
+   "area": "italia",
+   "title": "M5s blocca lavoro comune su emendamenti campo progressista per la manovra",
+   "summary": "Sono in corso interlocuzioni. Nodo coperture con extraprofitti",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/m5s-blocca-lavoro-comune-su-emendamenti-campo-progressista-per-la-manovra_c8285e7c-ad7a-48ea-9d28-587f03d853db.html",
+   "pub_ts": 1794949999,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/17/zelensky-in-crimea-operazione-senza-precedenti_2c138aed-b210-4551-b482-3400952451fc.html",
-     "title": "Zelensky, in Crimea operazione senza precedenti"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/17/news/guerra_dei_ponti_russia_ucraina_colpito_viadotto_kerch_crimea-425728463/?rss",
-     "title": "L'Ucraina colpisce per due notti il ponte di Kerch: crolla l’arcata simbolo"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/17/ucraina-ponte-crimea-droni-video/",
-     "title": "L’Ucraina colpisce il ponte di Kerch in Crimea: crolla un’arcata. Zelensky: «Operazione senza precedenti» – Il video"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/m5s-blocca-lavoro-comune-su-emendamenti-campo-progressista-per-la-manovra_c8285e7c-ad7a-48ea-9d28-587f03d853db.html",
+     "title": "M5s blocca lavoro comune su emendamenti campo progressista per la manovra"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/il-video-completo-dellattacco-ucraino-al-ponte-di-kerch-tra-crimea-e-russia-56bc09dd-b635-4cb5-8355-68639323e701.html",
-     "title": "Il video completo dell'attacco ucraino al ponte di Kerch tra Crimea e Russia"
+     "link": "https://www.rainews.it/articoli/2026/11/manovra-6600-emendamenti-dal-fisco-alle-pensioni-ecco-tutte-le-proposte-a0452ed2-de95-4a07-9ae5-4f573abcfb77.html",
+     "title": "Manovra, 6.600 emendamenti: dal fisco alle pensioni, ecco tutte le proposte"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-attacco-kiev-ponti-news-17-novembre_6tRPSx21FZJnD32EQYAT5S",
-     "title": "Ucraina, colpiti due ponti a Kiev: chiusa la metropolitana. Zelensky: \"Attacco senza precedenti contro ponte in Crimea\""
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/17/manovra-record-emendamenti-7mila-proposte-centrosinistra/",
+     "title": "Manovra, è record di emendamenti: depositati circa 7mila testi. Dal centrosinistra proposte unitarie"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/17/news/guerra_dei_ponti_russia_ucraina_colpito_viadotto_kerch_crimea-425728463/",
-     "title": "L'Ucraina colpisce per due notti il ponte di Kerch: crolla l’arcata simbolo"
+     "link": "https://www.repubblica.it/economia/2026/11/17/news/manovra_valanga_emendamenti_modifica_legge_record-425730357/",
+     "title": "Manovra, valanga di emendamenti: 6.600 proposte dal Reddito 2.0 alla rottamazione. Un record"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/17/diluvio-6-600-emendamenti-manovra-fi-condono-18-proposte-comuni-campo-largo-salario-minimo-stop-drenaggio-fiscale/8575281/",
+     "title": "Diluvio di 6.600 emendamenti sulla manovra. Anche FI chiede il condono. 18 proposte comuni dal campo largo: dal salario minimo allo stop al drenaggio fiscale"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Emendamento al dl sicurezza, divieto di social agli under 13",
+   "summary": "Dai 13 ai 16 anni possibilità di gestirne uno legato a quello dei genitori",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13-_f50ee740-ac1a-426d-bb89-b77139abfd54.html",
+   "pub_ts": 1794945454,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13-_f50ee740-ac1a-426d-bb89-b77139abfd54.html",
+     "title": "Emendamento al dl sicurezza, divieto di social agli under 13"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13_f08b2b2d-d504-4322-a92f-c644e8573532.html",
+     "title": "Emendamento al dl sicurezza, divieto di social agli under 13"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/nuovo-emendamento-stop-ai-social-per-i-piu-piccoli--63ef4239-2f5e-41f6-9878-6837aed76826.html",
+     "title": "Nuovo emendamento al decreto sicurezza: stop ai social per i più piccoli"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/17/news/divieto_social_minori_meloni_decreto_sicurezza-425729952/",
+     "title": "Divieto social agli under13, Meloni lo vuole nel dl sicurezza: sarà legge entro fine mese"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/17/divieto-social-minori-decreto-sicurezza-notizie/8575361/",
+     "title": "Dopo un anno di stallo il governo si muove sul divieto dei social per gli under 13. Con un emendamento al decreto sicurezza"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Romeo sostituito al Senato, Dreosto eletto capogruppo della Lega",
+   "summary": "La mossa riflette i malumori nel partito e le divisioni con i 'nordisti'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_e03edd1a-4b58-4ade-aee0-ce8fdcc464c0.html",
+   "pub_ts": 1794950744,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_e03edd1a-4b58-4ade-aee0-ce8fdcc464c0.html",
+     "title": "Romeo sostituito al Senato, Dreosto eletto capogruppo della Lega"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_f6811121-fa51-43eb-959a-34b8f9315020.html",
+     "title": "Romeo sostituito al Senato, Dreosto eletto capogruppo della Lega"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/17/lega-romeo-sfiduciato-dreosto-notizie/8575499/",
+     "title": "Resa dei conti nella Lega, sfiduciato il capogruppo al Senato Romeo. Al suo posto il friulano Dreosto"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Ddl antisemitismo è legge.No di M5s, Avs,nel Pd strappo dei riformisti",
+   "summary": "Alla Camera 147 sì. La spaccatura nei dem. Da Iv ok insieme alla maggioranza",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_fef81d69-9cd3-4bef-8409-79e71f8c4e8a.html",
+   "pub_ts": 1794947102,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_fef81d69-9cd3-4bef-8409-79e71f8c4e8a.html",
+     "title": "Ddl antisemitismo è legge.No di M5s, Avs,nel Pd strappo dei riformisti"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_2b284094-dad4-4a82-8a0a-f607814f5b71.html",
+     "title": "La Camera approva il ddl antisemitismo, 147 i si. E' legge"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/17/news/ddl_antisemitismo_approvazione_camera_pd_riformisti_tensioni-425730690/",
+     "title": "Ddl antisemitismo approvato alla Camera tra le tensioni. Pd vota contro, Renzi e Calenda a favore"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Dombrovskis: 'L'Italia può uscire dalla procedura per deficit in primavera'",
-   "summary": "Deficit dell'Italia al 2,9% nel 2026 e al 3,5% nel 2027",
+   "title": "«La Brexit non ha funzionato»: Andy Burnham europeista tattico",
+   "summary": "",
+   "link": "https://www.editorialedomani.it/idee/commenti/andy-burnham-discorso-contro-brexit-londra-ue-x23odkxc",
+   "pub_ts": 1794857166,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/idee/commenti/andy-burnham-discorso-contro-brexit-londra-ue-x23odkxc",
+     "title": "«La Brexit non ha funzionato»: Andy Burnham europeista tattico"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/il-premier-britannico-burnham-la-brexit-non-ha-funzionato-AJ7ARZIC",
+     "title": "Il premier britannico Burnham: «La Brexit non ha funzionato»"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/",
+     "title": "Andy Burnham è sempre più critico su Brexit"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "L'allarme degli 007 Usa, 'Teheran vuole colpirci con una bomba sporca'",
+   "summary": "'Nel mirino i vertici dell'amministrazione a Washington'. Trump: 'Stiamo indagando'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/lallarme-degli-007-usa-teheran-vuole-colpirci-con-una-bomba_187bd30b-f38c-4795-85cd-e36ed45edec5.html",
+   "pub_ts": 1794950428,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/lallarme-degli-007-usa-teheran-vuole-colpirci-con-una-bomba_187bd30b-f38c-4795-85cd-e36ed45edec5.html",
+     "title": "L'allarme degli 007 Usa, 'Teheran vuole colpirci con una bomba sporca'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/teheran-smentisce-cnn-su-piano-per-bomba-sporca-a-washington_1ff534ff-0097-4f93-b6e6-c62014e420b1.html",
+     "title": "Teheran smentisce Cnn su piano per bomba sporca a Washington"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump sfida Xi sulle terre rare prima di sbarcare a Shenzhen",
+   "summary": "'Dieci mesi per raggiungere la Cina'. L'ira di Pechino sulla stretta Usa sui chip",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/trump-sfida-xi-sulle-terre-rare-prima-di-sbarcare-a-shenzhen_eb409fc3-0041-4e11-984a-6f48490ab800.html",
+   "pub_ts": 1794948240,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/trump-sfida-xi-sulle-terre-rare-prima-di-sbarcare-a-shenzhen_eb409fc3-0041-4e11-984a-6f48490ab800.html",
+     "title": "Trump sfida Xi sulle terre rare prima di sbarcare a Shenzhen"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/trump-raggiungeremo-la-cina-in-10-mesi-sulle-terre-rare_53d4a7d8-4686-4a77-ac5b-3bff7b0198c1.html",
+     "title": "Trump, raggiungeremo la Cina in 10 mesi sulle terre rare"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Deutsche Bank nella bufera, dai file interni gli affari poco trasparenti",
+   "summary": "Con Epstein e oligarchi russi. Sewing: 'Banca cambiata, nulla da nascondere'. In Borsa -6%",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/berlino-deutsche-bank-deve-spiegare-in-modo-trasparente_411981b3-1c96-43d1-bfce-a2156ca0d793.html",
+   "pub_ts": 1794947004,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/berlino-deutsche-bank-deve-spiegare-in-modo-trasparente_411981b3-1c96-43d1-bfce-a2156ca0d793.html",
+     "title": "Deutsche Bank nella bufera, dai file interni gli affari poco trasparenti"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/17/news/deutsche_bank_epstein_trump_oligarchi_russi_scivola_in_borsa-425730353/",
+     "title": "Deutsche Bank, affari poco trasparenti con Epstein, Trump e gli oligarchi russi. E scivola in Borsa"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Si apre alla Camera la mostra su Pino Rauti, è polemica",
+   "summary": "La figlia Isabella: 'Occasione per una rilettura della sua eredità culturale'. Ira del Pd e dell'Anpi",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/si-apre-alla-camera-la-mostra-su-pino-rauti-e-polemica_82e5b50e-3150-4462-b408-a8673a917231.html",
+   "pub_ts": 1794944782,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/si-apre-alla-camera-la-mostra-su-pino-rauti-e-polemica_82e5b50e-3150-4462-b408-a8673a917231.html",
+     "title": "Si apre alla Camera la mostra su Pino Rauti, è polemica"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/17/news/mostra_rauti_camera_organizzata_fdi_polemica-425730267/",
+     "title": "Mostra omaggio a Rauti alla Camera, i meloniani celebrano le radici missine: “Fatevene una ragione”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "La Ue stima il deficit al 2,9%, l'Italia vede l'uscita dalla procedura",
+   "summary": "'L'economia tiene ma non accontentiamoci'. Il 24 primo responso su spese energia della Nec",
    "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/dombrovskis-litalia-puo-uscire-dalla-procedura-per-deficit-in-primavera_a85781bf-32ba-4613-98e1-5b449c4e8475.html",
-   "pub_ts": 1794916611,
-   "n_sources": 5,
+   "pub_ts": 1794937781,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/dombrovskis-litalia-puo-uscire-dalla-procedura-per-deficit-in-primavera_a85781bf-32ba-4613-98e1-5b449c4e8475.html",
-     "title": "Dombrovskis: 'L'Italia può uscire dalla procedura per deficit in primavera'"
+     "title": "La Ue stima il deficit al 2,9%, l'Italia vede l'uscita dalla procedura"
     },
     {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/economia/deficit-italia-uscita-procedura-ue-primavera-2027_4WeuxwAiwzUmTvskivhNW6",
      "title": "Conti pubblici, Dombrovskis: \"Italia può uscire dalla procedura per deficit in primavera\""
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/17/ue-italia-procedura-infrazione-pil-inflazione/",
-     "title": "L’Ue: «L’Italia può uscire dalla procedura per deficit eccessivo in primavera»"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/dombrovskis-leconomia-tiene-in-ue-litalia-puo-uscire-dalla-procedura-per-deficit-in-primavera-b57b39b1-1fef-4655-ba63-1db65dc46ab1.html",
-     "title": "Dombrovskis: \"Tiene l'economia Ue. L'Italia potrebbe uscire da procedura per deficit in primavera\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/17/news/pil_italia_stime_ue_crescita_deficit_debito-425729203/",
-     "title": "Le stime Ue sull’Italia: Pil all’1% e debito record. Dombrovskis: \"Fuori da procedura in primavera”"
     }
    ]
   },
   {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda",
-   "summary": "Austria, Germania, Danimarca, Grecia e Paesi Bassi hanno raggiunto un accordo con lo stato africano, implicato per i massacri nel Congo, per aprire nel 2027 un centro destinato a richiedenti asilo la cui domanda sia stata respinta definitivamente",
-   "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/?rss",
-   "pub_ts": 1794859681,
+   "category": "tech",
+   "area": null,
+   "title": "Apple down, problemi per iCloud, App Store, Apple Music e altri servizi online. Cos’è accaduto",
+   "summary": "Diversi servizi online di Apple sono ancora interessati da un'interruzione che sta provocando difficoltà di accesso agli account, problemi con il download delle applicazioni e malfunzionamenti di alcune piattaforme. L'azienda ha confermato le anomalie addebitandole ad un...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/apple_down_mondiale_diversi_servizi-425730450/?rss",
+   "pub_ts": 1794950898,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/?rss",
-     "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/16/vienna-ufficializza-primo-centro-di-rimpatrio-di-5-paesi-ue-in-ruanda-nel-2027_1461d92e-a5fa-427e-8647-a2d8d50881e5.html",
-     "title": "Vienna ufficializza primo centro di rimpatrio di 5 Paesi Ue in Ruanda nel 2027"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/return-hub-migranti-deportare-ruanda-vergogna-europea-rimpatri-diritti-gsoayjio",
-     "title": "Migranti da deportare nei centri in Ruanda: una vergogna europea"
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/apple_down_mondiale_diversi_servizi-425730450/?rss",
+     "title": "Apple down, problemi per iCloud, App Store, Apple Music e altri servizi online. Cos’è accaduto"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/centro-espulsione-migranti-irregolari-ruanda-paesi-europei/",
-     "title": "Cinque paesi europei vogliono mandare in Ruanda i migranti che non possono espellere"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Teheran smentisce Cnn su piano per bomba sporca a Washington",
-   "summary": "'Accuse prive di fondamento'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/teheran-smentisce-cnn-su-piano-per-bomba-sporca-a-washington_1ff534ff-0097-4f93-b6e6-c62014e420b1.html",
-   "pub_ts": 1794919994,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/teheran-smentisce-cnn-su-piano-per-bomba-sporca-a-washington_1ff534ff-0097-4f93-b6e6-c62014e420b1.html",
-     "title": "Teheran smentisce Cnn su piano per bomba sporca a Washington"
+     "link": "https://www.ilpost.it/2026/11/17/problemi-tecnici-servizi-apple/",
+     "title": "Anche i servizi di Apple stanno avendo alcuni problemi tecnici"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_187bd30b-f38c-4795-85cd-e36ed45edec5.html",
-     "title": "Gli 007 americani: 'L'Iran sta sviluppando una bomba sporca'. Teheran smentisce"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/apple-segnala-problemi-alcuni-suoi-servizi-AJrQ5yJC",
+     "title": "Apple down, problemi per iCloud, App Store e Music: «Nessun attacco hacker»"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/17/cnn-iran-prepara-attacco-bomba-sporca-washington-trump/8574379/",
-     "title": "Cnn: “L’Iran prepara un attacco a Washington con una ‘bomba sporca’”. Teheran: “Falso, piano per legittimare un’altra aggressione”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/17/apple-down-icloud-app-store-notizie/8575336/",
+     "title": "Apple down, problemi ai servizi della multinazionale tech: segnalazioni per iCloud e App Store"
     }
    ]
   },
   {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump parte per l’Asia: “Putin sta cedendo, forse incontro con Kim”",
-   "summary": "Il presidente degli Stati Uniti, parlando con i giornalisti prima di partire per il vertice dell’Apec, si è riferito alla possibilità di vedere il dittatore nordcoreano. E, in attesa dell’appuntamento con Putin, ha detto: “Si sta ammorbidendo, potrebbe essere più duro”",
-   "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/?rss",
-   "pub_ts": 1794870329,
+   "category": "tech",
+   "area": null,
+   "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene",
+   "summary": "Intervista al Wsj, chiede nuovamente scusa alla sua famiglia per i \"gravi errori\" commessi",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
+   "pub_ts": 1794936326,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
+     "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/jensen-huang-pronto-ricoprire-carica-ceo-nvidia/",
+     "title": "Jensen Huang è pronto per ricoprire la carica di CEO di Nvidia"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/17/jensen-huang-nvidia-ritorno-amministratore-delegator/",
+     "title": "Jensen Huang ha detto che tornerebbe a fare il CEO di Nvidia, se glielo chiedessero"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/nvidia-stasera-conti-attesi-ricavi-boom-91percento-ma-occhi-saranno-kress-AJaC0aJC",
+     "title": "Nvidia, i conti battono le attese al primo appuntamento con Wall Street dall’uscita del Ceo Jensen Huang"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft",
+   "summary": "Opera in tre volumi, integrazione nel gemello digitale della Basilica",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/17/pittori-e-mosaicisti-a-san-pietro-progetto-della-fabbrica-di-san-pietro-e-microsoft_a48644b2-5113-4a30-9e28-7e22ea288e51.html",
+   "pub_ts": 1794940267,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/17/pittori-e-mosaicisti-a-san-pietro-progetto-della-fabbrica-di-san-pietro-e-microsoft_a48644b2-5113-4a30-9e28-7e22ea288e51.html",
+     "title": "'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft"
+    },
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/pittori-e-mosaicisti-a-san-pietro-progetto-della-fabbrica-di-san-pietro-e-microsoft_167995a2-65fc-4d94-bb14-e3c69bafb0a9.html",
+     "title": "'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Fiducia, IA e recensioni online, a Milano il primo evento italiano di Trustpilot",
+   "summary": "La general manager Besio, 'la fiducia tra persone che non si conoscono vale più di prima'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/17/fiducia-ia-e-recensioni-online-a-milano-il-primo-evento-italiano-di-trustpilot_6af47eb6-ddc5-4415-b2ec-b2754d656627.html",
+   "pub_ts": 1794932198,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/17/fiducia-ia-e-recensioni-online-a-milano-il-primo-evento-italiano-di-trustpilot_6af47eb6-ddc5-4415-b2ec-b2754d656627.html",
+     "title": "Fiducia, IA e recensioni online, a Milano il primo evento italiano di Trustpilot"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/fiducia-ia-e-recensioni-online-a-milano-il-primo-evento-italiano-di-trustpilot_47d1c826-c415-409a-adcd-a6d42597a3b0.html",
+     "title": "Fiducia, IA e recensioni online, a Milano il primo evento italiano di Trustpilot"
+    }
+   ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Barbara D'Urso, 'sabato sarò a Ballando, ma mi sono sentita profondamente umiliata'",
+   "summary": "Al Tg1: \"La famiglia del programma aveva protetto un concorrente, mi aspettavo lo stesso\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/17/barbara-durso-sabato-saro-a-ballando-ma-mi-sono-sentita-profondamente-umiliata_7d15e7ee-13b9-4d9b-acba-4944877f6dc1.html",
+   "pub_ts": 1794947793,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/?rss",
-     "title": "Trump parte per l’Asia: “Putin sta cedendo, forse incontro con Kim”"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/17/barbara-durso-sabato-saro-a-ballando-ma-mi-sono-sentita-profondamente-umiliata_7d15e7ee-13b9-4d9b-acba-4944877f6dc1.html",
+     "title": "Barbara D'Urso, 'sabato sarò a Ballando, ma mi sono sentita profondamente umiliata'"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/trump-in-asia-viaggio-importante-forse-incontrero-anche-kim_b9ca9c01-5397-4e65-b560-c734e32698b3.html",
-     "title": "Trump, 'in Asia viaggio importante, forse incontrerò anche Kim'"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/17/barbara-durso-tg1-abbandonata-ballando-non-mollo-video/",
+     "title": "Lo sfogo di Barbara D’Urso al Tg1: «Mi sono sentita abbandonata da Ballando, ma sabato ci sarò. Non mollo» – Il video"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-incontro-ucraina-russia-news-17-novembre_5sEgMCruvME7sCya96g904",
-     "title": "Ucraina, Trump: \"Putin sta cedendo\". Zelensky: \"Russia prepara nuovo attacco\""
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/barbara-durso-a-ballando-mi-sono-sentita-profondamente-umiliata-ed34810d-3f21-4891-b947-6f63f95a11b2.html",
+     "title": "Barbara D'Urso: \"A Ballando mi sono sentita profondamente umiliata\""
     }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Fonti maggioranza, tra le priorità l'adeguamento delle pensioni e la sanità",
-   "summary": "Nella riunione sulla manovra confermata l'attenzione anche a scuola e sicurezza",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/fonti-maggioranza-tra-le-priorita-ladeguamento-delle-pensioni-e-la-sanita_29c9c0ff-24a7-43b7-82a2-97526c0f3fa7.html",
-   "pub_ts": 1794918155,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/fonti-maggioranza-tra-le-priorita-ladeguamento-delle-pensioni-e-la-sanita_29c9c0ff-24a7-43b7-82a2-97526c0f3fa7.html",
-     "title": "Fonti maggioranza, tra le priorità l'adeguamento delle pensioni e la sanità"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/in-corso-il-vertice-in-videoconferenza-tra-i-leader-di-maggioranza-sulla-manovra_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
-     "title": "Manovra, vertice tra i leader di maggioranza. Fonti: 'Tra le le priorità l'adeguamento delle pensioni e la sanità'"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Regno Unito, graziate oltre 150 donne condannate con una legge vittoriana per aver abortito",
-   "summary": "Sono state tutte accusate o incriminate da polizia e magistratura negli per aver interrotto illegalmente la propria gravidanza in base a una norma risalente al 1861",
-   "link": "https://www.repubblica.it/esteri/2026/11/17/news/aborto_grazia_regno_unito_legge_vittoriana-425729120/?rss",
-   "pub_ts": 1794909571,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/17/news/aborto_grazia_regno_unito_legge_vittoriana-425729120/?rss",
-     "title": "Regno Unito, graziate oltre 150 donne condannate con una legge vittoriana per aver abortito"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/regno-unito-aborto-grazia-donne/",
-     "title": "Le donne condannate per aver abortito violando la legge nel Regno Unito sono state graziate"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Mattarella al Papa, i suoi appelli alla pace aprono orizzonti di speranza",
-   "summary": "Messaggio al Pontefice 'c'è bisogno, soprattutto tra i giovani, di una guida sicura'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mattarella-al-papa-i-suoi-appelli-alla-pace-aprono-orizzonti-di-speranza_5e6224ae-b35d-4d36-8e2a-eea38fad5762.html",
-   "pub_ts": 1794907617,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mattarella-al-papa-i-suoi-appelli-alla-pace-aprono-orizzonti-di-speranza_5e6224ae-b35d-4d36-8e2a-eea38fad5762.html",
-     "title": "Mattarella al Papa, i suoi appelli alla pace aprono orizzonti di speranza"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/mattarella-al-papa-i-suoi-appelli-alla-pace-aprono-orizzonti-di-speranza_6d453cf4-538c-4e3a-81ae-20c35eac95ff.html",
-     "title": "Mattarella al Papa: \"I suoi appelli alla pace aprono orizzonti di speranza\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Governare dal cloud: il piano dell’Estonia in caso di invasione russa",
-   "summary": "Un piano per gestire le attività di governo e i servizi pubblici dall’estero, collegandosi al cloud che da anni il governo estone sta mettendo a punto come salvagente contro le...",
-   "link": "https://www.ilsole24ore.com/art/governare-cloud-piano-dell-estonia-caso-invasione-russa-AJtQjLIC",
-   "pub_ts": 1794903927,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/governare-cloud-piano-dell-estonia-caso-invasione-russa-AJtQjLIC",
-     "title": "Governare dal cloud: il piano dell’Estonia in caso di invasione russa"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/estonia-servizi-digitali-cloud-invasione-russa/",
-     "title": "Il governo dell’Estonia si prepara a funzionare anche in caso di invasione russa"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Per un problema tecnico i clienti di JPMorgan Chase e di altre banche negli Stati Uniti non sono riusciti ad accedere ai loro conti per diverse ore",
-   "summary": "",
-   "link": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/",
-   "pub_ts": 1794858893,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/",
-     "title": "Per un problema tecnico i clienti di JPMorgan Chase e di altre banche negli Stati Uniti non sono riusciti ad accedere ai loro conti per diverse ore"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/banche-usa-in-tilt-clienti-senza-accesso-ai-conti-online/",
-     "title": "Banche Usa in tilt: clienti senza accesso ai conti online"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Media, 'il board di Nvidia non sta valutando il ritorno di Huang'",
-   "summary": "I titoli della società ampliamo perdite al Nasdaq e cedono il 3,70%",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_646fe13e-423f-4afd-9791-062a0084a9a6.html",
-   "pub_ts": 1794902532,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_646fe13e-423f-4afd-9791-062a0084a9a6.html",
-     "title": "Media, 'il board di Nvidia non sta valutando il ritorno di Huang'"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/nvidia-ritorno-jensen-huang-poco-probabile/",
-     "title": "NVIDIA: ritorno di Jensen Huang poco probabile"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/nvidia-trump-huang-ceo-azioni_NWJwNPAYrUNp7AcPFzB9A",
-     "title": "Nvidia, Trump: \"Se Jensen Huang tornasse ceo non mi dispiacerebbe. Alice una spia? Non lo so ancora\""
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/jensen-huang-valuta-rientro-nvidia/",
-     "title": "Jensen Huang valuta un ritorno in Nvidia, scrive il Financial Times"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/nvidia-jensen-huang-ritorno-bessent-cina/",
-     "title": "Nvidia, Huang pensa al ritorno. Ma Bessent gli sbarra la strada"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Microsoft, svelate cause del blackout. Criminali sfruttano il guasto e c’è chi parla di risarcimenti",
-   "summary": "Un difetto software introdotto a luglio, il sovraccarico dei server e un problema nella gestione del traffico hanno provocato il collasso di Microsoft 365. Rimangono attuali le campagne di phishing e la possibilità di ottenere una compensazione per il disservizio",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/microsoft_cause_blackout_indennizzo_chi_spetta-425729616/?rss",
-   "pub_ts": 1794917845,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/microsoft_cause_blackout_indennizzo_chi_spetta-425729616/?rss",
-     "title": "Microsoft, svelate cause del blackout. Criminali sfruttano il guasto e c’è chi parla di risarcimenti"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Dipendenza tecnologica e rischio truffe, i nodi del caso Microsoft",
-   "summary": "Esperti, concentrare la tecnologia in poche mani amplifica l'impatto dei disservizi",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/dipendenza-tecnologica-e-rischio-truffe-i-nodi-del-caso-microsoft_d66d6be9-e87e-4070-9b69-0dc9ca7bf0ec.html",
-   "pub_ts": 1794914177,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/dipendenza-tecnologica-e-rischio-truffe-i-nodi-del-caso-microsoft_d66d6be9-e87e-4070-9b69-0dc9ca7bf0ec.html",
-     "title": "Dipendenza tecnologica e rischio truffe, i nodi del caso Microsoft"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Università di Bologna guida un progetto sull'IA etica per il patrimonio culturale europeo",
-   "summary": "Nei prossimi mesi un bando da 650mila euro per sperimentare le soluzioni sviluppate",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/universita-di-bologna-guida-progetto-su-ia-etica-per-il-patrimonio-culturale-europeo_477434a9-5087-4654-abec-faddb635cf27.html",
-   "pub_ts": 1794914165,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/universita-di-bologna-guida-progetto-su-ia-etica-per-il-patrimonio-culturale-europeo_477434a9-5087-4654-abec-faddb635cf27.html",
-     "title": "Università di Bologna guida un progetto sull'IA etica per il patrimonio culturale europeo"
-    }
-   ]
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -376,7 +414,7 @@
    "title": "Robert Pattinson è il nuovo James Bond",
    "summary": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
-   "pub_ts": 1794917625,
+   "pub_ts": 1794941280,
    "n_sources": 3,
    "documented": true,
    "sources": [
@@ -386,83 +424,37 @@
      "title": "Robert Pattinson è il nuovo James Bond"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/17/pattinson-bond/",
-     "title": "Robert Pattinson è già un Bond diverso da tutti gli altri"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/robert-pattinson-james-bond-re-carlo-reazione_5tfRWF6mEpBEynTKiTDedi",
-     "title": "Robert Pattinson nuovo James Bond, Re Carlo: \"Sei al servizio di Sua Maestà\""
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Chiara Ferragni, 'non tornerò mai più quella di prima'",
-   "summary": "Si racconta senza filtri a Vanity Fair, fa autocritica e annuncia un docu su Netflix",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/17/chiara-ferragni-non-tornero-mai-piu-quella-di-prima_15c24d0b-a810-4cb7-b2dc-2e2a66de6bfb.html",
-   "pub_ts": 1794919474,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/17/chiara-ferragni-non-tornero-mai-piu-quella-di-prima_15c24d0b-a810-4cb7-b2dc-2e2a66de6bfb.html",
-     "title": "Chiara Ferragni, 'non tornerò mai più quella di prima'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/17/chiara-ferragni-racconta-fedez-tradimento-video-pandoro-depressione-nuovo-amore/",
-     "title": "Chiara Ferragni racconta tutto: «Fedez mi confessò il tradimento, il video sul pandoro non volevo farlo». La depressione e il nuovo amore"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Tumore pancreas, da Commissione europea ok a farmaco che aumenta sopravvivenza",
-   "summary": "Daraxonrasib per forma metastatica. Ora agenzie nazionali dovranno decidere rimborsabilità",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/17/tumore-pancreas-da-commissione-europea-ok-a-farmaco-che-aumenta-sopravvivenza_6032640a-ecb3-449d-ad83-6d942eec482a.html",
-   "pub_ts": 1794918792,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/17/tumore-pancreas-da-commissione-europea-ok-a-farmaco-che-aumenta-sopravvivenza_6032640a-ecb3-449d-ad83-6d942eec482a.html",
-     "title": "Tumore pancreas, da Commissione europea ok a farmaco che aumenta sopravvivenza"
-    },
-    {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/ok-europea-al-farmaco-che-aumenta-sopravvivenza-per-tumore-al-pancreas-metastatico-5bd1a52c-70c0-4f64-95db-84aaa3ee0dbe.html",
-     "title": "OK europea al farmaco che aumenta sopravvivenza per tumore al pancreas metastatico"
+     "link": "https://www.rainews.it/video/2026/11/robert-pattinson-e-il-nuovo-007-lagente-segreto-cambia-volto-e-diventa-millennial-851068cb-6de3-45fc-a109-75c5a9ccdfe1.html",
+     "title": "Robert Pattinson è il nuovo 007: l'agente segreto cambia volto e diventa millennial"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/robert-pattinson-007/",
+     "title": "Robert Pattinson è il nuovo 007"
     }
    ],
-   "subtype": "scienza"
+   "subtype": "cultura"
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Ricerca, la musica italiana nel 2025 vale 4,3 miliardi di euro",
-   "summary": "Il live oltre il miliardo, nei concerti e nelle classifiche domina il tricolore",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/17/ricerca-la-musica-italiana-nel-2025-vale-43-miliardi-di-euro_df12abe8-60e3-4308-8255-996d1c95201e.html",
-   "pub_ts": 1794915862,
+   "title": "Il Manifesto di Venezia verso il decennale, \"non solo festa ma confronto\"",
+   "summary": "Il 27 novembre focus sui dati dell'Osservatorio Step, nel 2025 uccise 97 donne",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/17/manifesto-di-venezia-verso-il-decennale-non-solo-festa-ma-confronto_9cf912d1-ff1f-4e6d-8424-ed1c89e2be4c.html",
+   "pub_ts": 1794932259,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/17/ricerca-la-musica-italiana-nel-2025-vale-43-miliardi-di-euro_df12abe8-60e3-4308-8255-996d1c95201e.html",
-     "title": "Ricerca, la musica italiana nel 2025 vale 4,3 miliardi di euro"
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/17/manifesto-di-venezia-verso-il-decennale-non-solo-festa-ma-confronto_9cf912d1-ff1f-4e6d-8424-ed1c89e2be4c.html",
+     "title": "Il Manifesto di Venezia verso il decennale, \"non solo festa ma confronto\""
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/17/iceye-opa-avio-2-miliardi-euro/",
-     "title": "La società tecnologica finlandese Iceye vuole comprare l’italiana Avio per 2 miliardi di euro"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/manifesto-di-venezia-verso-il-decennale-non-solo-festa-ma-confronto_747488be-8516-4b5f-9a09-991bd372475c.html",
+     "title": "Manifesto di Venezia verso il decennale, \"non solo festa ma confronto\""
     }
    ],
    "subtype": "cultura"
@@ -489,167 +481,176 @@
     }
    ],
    "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Ogni anno 5.000 casi di tumore per Hpv, 'vaccinare tutti almeno fino a 30 anni'",
+   "summary": "Appello di Lilt, Fondazione IncontraDonna, Acto Italia, Loto e Cittadinanzattiva",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/17/ogni-anno-5.000-casi-di-tumore-per-hpv-vaccinare-tutti-almeno_02fc4d73-5818-49f4-b240-672af8933864.html",
+   "pub_ts": 1794936203,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/17/ogni-anno-5.000-casi-di-tumore-per-hpv-vaccinare-tutti-almeno_02fc4d73-5818-49f4-b240-672af8933864.html",
+     "title": "Ogni anno 5.000 casi di tumore per Hpv, 'vaccinare tutti almeno fino a 30 anni'"
+    }
+   ],
+   "subtype": "scienza"
   }
  ],
  "articles": [
   {
-   "title": "Zelensky, in Crimea operazione senza precedenti",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/17/zelensky-in-crimea-operazione-senza-precedenti_2c138aed-b210-4551-b482-3400952451fc.html",
-   "description": "'In risposta agli attacchi alle nostre infrastrutture'",
-   "pub_ts": 1794919424,
-   "source": "ANSA Mondo",
+   "title": "M5s blocca lavoro comune su emendamenti campo progressista per la manovra",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/m5s-blocca-lavoro-comune-su-emendamenti-campo-progressista-per-la-manovra_c8285e7c-ad7a-48ea-9d28-587f03d853db.html",
+   "description": "Sono in corso interlocuzioni. Nodo coperture con extraprofitti",
+   "pub_ts": 1794949999,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Dombrovskis: 'L'Italia può uscire dalla procedura per deficit in primavera'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/dombrovskis-litalia-puo-uscire-dalla-procedura-per-deficit-in-primavera_a85781bf-32ba-4613-98e1-5b449c4e8475.html",
-   "description": "Deficit dell'Italia al 2,9% nel 2026 e al 3,5% nel 2027",
-   "pub_ts": 1794916611,
+   "title": "Emendamento al dl sicurezza, divieto di social agli under 13",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13-_f50ee740-ac1a-426d-bb89-b77139abfd54.html",
+   "description": "Dai 13 ai 16 anni possibilità di gestirne uno legato a quello dei genitori",
+   "pub_ts": 1794945454,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda",
-   "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/?rss",
-   "description": "Austria, Germania, Danimarca, Grecia e Paesi Bassi hanno raggiunto un accordo con lo stato africano, implicato per i massacri nel Congo, per aprire nel 2027 un centro destinato a richiedenti asilo la cui domanda sia stata respinta definitivamente",
-   "pub_ts": 1794859681,
-   "source": "Repubblica Esteri",
+   "title": "Romeo sostituito al Senato, Dreosto eletto capogruppo della Lega",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_e03edd1a-4b58-4ade-aee0-ce8fdcc464c0.html",
+   "description": "La mossa riflette i malumori nel partito e le divisioni con i 'nordisti'",
+   "pub_ts": 1794950744,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Teheran smentisce Cnn su piano per bomba sporca a Washington",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/teheran-smentisce-cnn-su-piano-per-bomba-sporca-a-washington_1ff534ff-0097-4f93-b6e6-c62014e420b1.html",
-   "description": "'Accuse prive di fondamento'",
-   "pub_ts": 1794919994,
-   "source": "ANSA Mondo",
+   "title": "Ddl antisemitismo è legge.No di M5s, Avs,nel Pd strappo dei riformisti",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_fef81d69-9cd3-4bef-8409-79e71f8c4e8a.html",
+   "description": "Alla Camera 147 sì. La spaccatura nei dem. Da Iv ok insieme alla maggioranza",
+   "pub_ts": 1794947102,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump parte per l’Asia: “Putin sta cedendo, forse incontro con Kim”",
-   "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/?rss",
-   "description": "Il presidente degli Stati Uniti, parlando con i giornalisti prima di partire per il vertice dell’Apec, si è riferito alla possibilità di vedere il dittatore nordcoreano. E, in attesa dell’appuntamento con Putin, ha detto: “Si sta ammorbidendo, potrebbe essere più duro”",
-   "pub_ts": 1794870329,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Fonti maggioranza, tra le priorità l'adeguamento delle pensioni e la sanità",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/fonti-maggioranza-tra-le-priorita-ladeguamento-delle-pensioni-e-la-sanita_29c9c0ff-24a7-43b7-82a2-97526c0f3fa7.html",
-   "description": "Nella riunione sulla manovra confermata l'attenzione anche a scuola e sicurezza",
-   "pub_ts": 1794918155,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Regno Unito, graziate oltre 150 donne condannate con una legge vittoriana per aver abortito",
-   "link": "https://www.repubblica.it/esteri/2026/11/17/news/aborto_grazia_regno_unito_legge_vittoriana-425729120/?rss",
-   "description": "Sono state tutte accusate o incriminate da polizia e magistratura negli per aver interrotto illegalmente la propria gravidanza in base a una norma risalente al 1861",
-   "pub_ts": 1794909571,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Mattarella al Papa, i suoi appelli alla pace aprono orizzonti di speranza",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mattarella-al-papa-i-suoi-appelli-alla-pace-aprono-orizzonti-di-speranza_5e6224ae-b35d-4d36-8e2a-eea38fad5762.html",
-   "description": "Messaggio al Pontefice 'c'è bisogno, soprattutto tra i giovani, di una guida sicura'",
-   "pub_ts": 1794907617,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Governare dal cloud: il piano dell’Estonia in caso di invasione russa",
-   "link": "https://www.ilsole24ore.com/art/governare-cloud-piano-dell-estonia-caso-invasione-russa-AJtQjLIC",
-   "description": "Un piano per gestire le attività di governo e i servizi pubblici dall’estero, collegandosi al cloud che da anni il governo estone sta mettendo a punto come salvagente contro le...",
-   "pub_ts": 1794903927,
-   "source": "Sole 24 Ore Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Per un problema tecnico i clienti di JPMorgan Chase e di altre banche negli Stati Uniti non sono riusciti ad accedere ai loro conti per diverse ore",
-   "link": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/",
+   "title": "«La Brexit non ha funzionato»: Andy Burnham europeista tattico",
+   "link": "https://www.editorialedomani.it/idee/commenti/andy-burnham-discorso-contro-brexit-londra-ue-x23odkxc",
    "description": "",
-   "pub_ts": 1794858893,
-   "source": "Il Post",
+   "pub_ts": 1794857166,
+   "source": "Domani",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Media, 'il board di Nvidia non sta valutando il ritorno di Huang'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_646fe13e-423f-4afd-9791-062a0084a9a6.html",
-   "description": "I titoli della società ampliamo perdite al Nasdaq e cedono il 3,70%",
-   "pub_ts": 1794902532,
-   "source": "ANSA Mondo",
+   "title": "L'allarme degli 007 Usa, 'Teheran vuole colpirci con una bomba sporca'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/lallarme-degli-007-usa-teheran-vuole-colpirci-con-una-bomba_187bd30b-f38c-4795-85cd-e36ed45edec5.html",
+   "description": "'Nel mirino i vertici dell'amministrazione a Washington'. Trump: 'Stiamo indagando'",
+   "pub_ts": 1794950428,
+   "source": "ANSA",
    "source_priority": 1,
-   "section": "tech"
+   "section": "politica"
   },
   {
-   "title": "Microsoft, svelate cause del blackout. Criminali sfruttano il guasto e c’è chi parla di risarcimenti",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/microsoft_cause_blackout_indennizzo_chi_spetta-425729616/?rss",
-   "description": "Un difetto software introdotto a luglio, il sovraccarico dei server e un problema nella gestione del traffico hanno provocato il collasso di Microsoft 365. Rimangono attuali le campagne di phishing e la possibilità di ottenere una compensazione per il disservizio",
-   "pub_ts": 1794917845,
+   "title": "Trump sfida Xi sulle terre rare prima di sbarcare a Shenzhen",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/trump-sfida-xi-sulle-terre-rare-prima-di-sbarcare-a-shenzhen_eb409fc3-0041-4e11-984a-6f48490ab800.html",
+   "description": "'Dieci mesi per raggiungere la Cina'. L'ira di Pechino sulla stretta Usa sui chip",
+   "pub_ts": 1794948240,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Deutsche Bank nella bufera, dai file interni gli affari poco trasparenti",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/berlino-deutsche-bank-deve-spiegare-in-modo-trasparente_411981b3-1c96-43d1-bfce-a2156ca0d793.html",
+   "description": "Con Epstein e oligarchi russi. Sewing: 'Banca cambiata, nulla da nascondere'. In Borsa -6%",
+   "pub_ts": 1794947004,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Si apre alla Camera la mostra su Pino Rauti, è polemica",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/si-apre-alla-camera-la-mostra-su-pino-rauti-e-polemica_82e5b50e-3150-4462-b408-a8673a917231.html",
+   "description": "La figlia Isabella: 'Occasione per una rilettura della sua eredità culturale'. Ira del Pd e dell'Anpi",
+   "pub_ts": 1794944782,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La Ue stima il deficit al 2,9%, l'Italia vede l'uscita dalla procedura",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/dombrovskis-litalia-puo-uscire-dalla-procedura-per-deficit-in-primavera_a85781bf-32ba-4613-98e1-5b449c4e8475.html",
+   "description": "'L'economia tiene ma non accontentiamoci'. Il 24 primo responso su spese energia della Nec",
+   "pub_ts": 1794937781,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Apple down, problemi per iCloud, App Store, Apple Music e altri servizi online. Cos’è accaduto",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/apple_down_mondiale_diversi_servizi-425730450/?rss",
+   "description": "Diversi servizi online di Apple sono ancora interessati da un'interruzione che sta provocando difficoltà di accesso agli account, problemi con il download delle applicazioni e malfunzionamenti di alcune piattaforme. L'azienda ha confermato le anomalie addebitandole ad un...",
+   "pub_ts": 1794950898,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Dipendenza tecnologica e rischio truffe, i nodi del caso Microsoft",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/13/dipendenza-tecnologica-e-rischio-truffe-i-nodi-del-caso-microsoft_d66d6be9-e87e-4070-9b69-0dc9ca7bf0ec.html",
-   "description": "Esperti, concentrare la tecnologia in poche mani amplifica l'impatto dei disservizi",
-   "pub_ts": 1794914177,
+   "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
+   "description": "Intervista al Wsj, chiede nuovamente scusa alla sua famiglia per i \"gravi errori\" commessi",
+   "pub_ts": 1794936326,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Università di Bologna guida un progetto sull'IA etica per il patrimonio culturale europeo",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/universita-di-bologna-guida-progetto-su-ia-etica-per-il-patrimonio-culturale-europeo_477434a9-5087-4654-abec-faddb635cf27.html",
-   "description": "Nei prossimi mesi un bando da 650mila euro per sperimentare le soluzioni sviluppate",
-   "pub_ts": 1794914165,
+   "title": "'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/17/pittori-e-mosaicisti-a-san-pietro-progetto-della-fabbrica-di-san-pietro-e-microsoft_a48644b2-5113-4a30-9e28-7e22ea288e51.html",
+   "description": "Opera in tre volumi, integrazione nel gemello digitale della Basilica",
+   "pub_ts": 1794940267,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Fiducia, IA e recensioni online, a Milano il primo evento italiano di Trustpilot",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/17/fiducia-ia-e-recensioni-online-a-milano-il-primo-evento-italiano-di-trustpilot_6af47eb6-ddc5-4415-b2ec-b2754d656627.html",
+   "description": "La general manager Besio, 'la fiducia tra persone che non si conoscono vale più di prima'",
+   "pub_ts": 1794932198,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
+  },
+  {
+   "title": "Barbara D'Urso, 'sabato sarò a Ballando, ma mi sono sentita profondamente umiliata'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/17/barbara-durso-sabato-saro-a-ballando-ma-mi-sono-sentita-profondamente-umiliata_7d15e7ee-13b9-4d9b-acba-4944877f6dc1.html",
+   "description": "Al Tg1: \"La famiglia del programma aveva protetto un concorrente, mi aspettavo lo stesso\"",
+   "pub_ts": 1794947793,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
   },
   {
    "title": "Robert Pattinson è il nuovo James Bond",
    "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
    "description": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
-   "pub_ts": 1794917625,
+   "pub_ts": 1794941280,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Chiara Ferragni, 'non tornerò mai più quella di prima'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/17/chiara-ferragni-non-tornero-mai-piu-quella-di-prima_15c24d0b-a810-4cb7-b2dc-2e2a66de6bfb.html",
-   "description": "Si racconta senza filtri a Vanity Fair, fa autocritica e annuncia un docu su Netflix",
-   "pub_ts": 1794919474,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Tumore pancreas, da Commissione europea ok a farmaco che aumenta sopravvivenza",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/17/tumore-pancreas-da-commissione-europea-ok-a-farmaco-che-aumenta-sopravvivenza_6032640a-ecb3-449d-ad83-6d942eec482a.html",
-   "description": "Daraxonrasib per forma metastatica. Ora agenzie nazionali dovranno decidere rimborsabilità",
-   "pub_ts": 1794918792,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Ricerca, la musica italiana nel 2025 vale 4,3 miliardi di euro",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/17/ricerca-la-musica-italiana-nel-2025-vale-43-miliardi-di-euro_df12abe8-60e3-4308-8255-996d1c95201e.html",
-   "description": "Il live oltre il miliardo, nei concerti e nelle classifiche domina il tricolore",
-   "pub_ts": 1794915862,
+   "title": "Il Manifesto di Venezia verso il decennale, \"non solo festa ma confronto\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/17/manifesto-di-venezia-verso-il-decennale-non-solo-festa-ma-confronto_9cf912d1-ff1f-4e6d-8424-ed1c89e2be4c.html",
+   "description": "Il 27 novembre focus sui dati dell'Osservatorio Step, nel 2025 uccise 97 donne",
+   "pub_ts": 1794932259,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -659,6 +660,15 @@
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/16/medici-contro-card-anziani-bene-schillaci-ma-il-5-in-piazza_95cb1578-096c-4cb7-be6d-75f51be96dce.html",
    "description": "Si allarga il fronte anti-voucher, stop anche da infermieri. 'Su manovra, governo ascolti'",
    "pub_ts": 1794852023,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Ogni anno 5.000 casi di tumore per Hpv, 'vaccinare tutti almeno fino a 30 anni'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/17/ogni-anno-5.000-casi-di-tumore-per-hpv-vaccinare-tutti-almeno_02fc4d73-5818-49f4-b240-672af8933864.html",
+   "description": "Appello di Lilt, Fondazione IncontraDonna, Acto Italia, Loto e Cittadinanzattiva",
+   "pub_ts": 1794936203,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
