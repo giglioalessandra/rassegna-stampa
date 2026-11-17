@@ -1,6 +1,6 @@
 {
- "generated_at": 1794859936,
- "updated_at": 1794859936,
+ "generated_at": 1794886612,
+ "updated_at": 1794886612,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,11 +10,53 @@
   {
    "category": "politica",
    "area": "mondo",
+   "title": "In tilt app e siti delle principali banche Usa. Guasto ai sistemi di United Airlines, poi risolto",
+   "summary": "Dopo il caso di Microsoft e gli aerei a terra. Chase Bank: 'Nessuna prova di cyberattacco, è un bug nel software' La Federal Reserve funziona regolarmente. La compagnia aerea cala a Wall Street: 'E' un problema tecnico'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/app-e-siti-delle-banche-usa-in-tilt-dopo-il-caos-di-microsoft-e-dei_83dcdcf2-04de-4161-8b52-cd5eddce321d.html",
+   "pub_ts": 1794871587,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/app-e-siti-delle-banche-usa-in-tilt-dopo-il-caos-di-microsoft-e-dei_83dcdcf2-04de-4161-8b52-cd5eddce321d.html",
+     "title": "In tilt app e siti delle principali banche Usa. Guasto ai sistemi di United Airlines, poi risolto"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/problemi-per-united-airlines-interruzione-nei-suoi-sistemi_4cd49a1f-922d-457a-94d1-1561a7bb0e2a.html",
+     "title": "Problemi per United Airlines, interruzione nei suoi sistemi"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/16/usa-down-app-banche-conti-correnti/",
+     "title": "Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti. E United Airlines lascia gli aerei a terra per «problema tecnico»"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/usa-problemi-d-accesso-e-disservizi-le-principali-banche-AJfEdhIC",
+     "title": "Usa, problemi d’accesso e disservizi per le principali banche: da Chase a Bank of America"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/banche-usa-in-tilt-clienti-senza-accesso-ai-conti-online/",
+     "title": "Banche Usa in tilt: clienti senza accesso ai conti online"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/16/banche-americane-down-disservizi-notizie/8574081/",
+     "title": "Problemi d’accesso e disservizi sui siti delle principali banche americane"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda",
    "summary": "Austria, Germania, Danimarca, Grecia e Paesi Bassi hanno raggiunto un accordo con lo stato africano, implicato per i massacri nel Congo, per aprire nel 2027 un centro destinato a richiedenti asilo la cui domanda sia stata respinta definitivamente",
    "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/?rss",
    "pub_ts": 1794859681,
-   "n_sources": 7,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
@@ -33,19 +75,9 @@
      "title": "Migranti da deportare nei centri in Ruanda: una vergogna europea"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/",
-     "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/16/centro-espulsione-migranti-irregolari-ruanda-paesi-europei/",
      "title": "Cinque paesi europei vogliono mandare in Ruanda i migranti che non possono espellere"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/16/ruanda-paesi-europei-hub-migranti/",
-     "title": "Vienna ufficializza il primo centro di rimpatrio di 5 Paesi Ue: «Sarà aperto in Ruanda il 2027»"
     },
     {
      "name": "Adnkronos Esteri",
@@ -57,81 +89,17 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Problemi d'accesso e disservizi per le principali banche Usa",
-   "summary": "Migliaia di segnalazioni. Coinvolti Chase Bank, Wells Fargo e altri",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/problemi-daccesso-e-disservizi-per-le-principali-banche-usa_19d6def5-9b31-42db-9204-cbf5380c5a51.html",
-   "pub_ts": 1794855459,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/problemi-daccesso-e-disservizi-per-le-principali-banche-usa_19d6def5-9b31-42db-9204-cbf5380c5a51.html",
-     "title": "Problemi d'accesso e disservizi per le principali banche Usa"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/problemi-daccesso-e-disservizi-per-le-principali-banche-usa-7916a891-c6c5-40fa-a879-d8f989292ab4.html",
-     "title": "Problemi d'accesso e disservizi per le principali banche Usa"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/usa-problemi-d-accesso-e-disservizi-le-principali-banche-AJfEdhIC",
-     "title": "Usa, problemi d’accesso e disservizi per le principali banche: da Chase a Bank of America"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/16/banche-americane-down-disservizi-notizie/8574081/",
-     "title": "Problemi d’accesso e disservizi sui siti delle principali banche americane"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Media: 'Il board di Nvidia non sta valutando il ritorno di Huang'",
-   "summary": "Trump: 'Jensen Huang di nuovo alla guida di Nvidia? Non è una cattiva idea. Ma io ho proposto Tim Cook'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_df084f26-8996-46a2-927f-645ecc3fe8fe.html",
-   "pub_ts": 1794851689,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_df084f26-8996-46a2-927f-645ecc3fe8fe.html",
-     "title": "Media: 'Il board di Nvidia non sta valutando il ritorno di Huang'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_646fe13e-423f-4afd-9791-062a0084a9a6.html",
-     "title": "Media, 'il board di Nvidia non sta valutando il ritorno di Huang'"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/jensen-huang-valuta-rientro-nvidia/",
-     "title": "Jensen Huang valuta un ritorno in Nvidia, scrive il Financial Times"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/nvidia-jensen-huang-ritorno-bessent-cina/",
-     "title": "Nvidia, Huang pensa al ritorno. Ma Bessent gli sbarra la strada"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump: “Forse durante il viaggio in Asia potrei incontrare anche Kim”",
+   "title": "Trump parte per l’Asia: “Putin sta cedendo, forse incontro con Kim”",
    "summary": "Il presidente degli Stati Uniti, parlando con i giornalisti prima di partire per il vertice dell’Apec, si è riferito alla possibilità di vedere il dittatore nordcoreano. E, in attesa dell’appuntamento con Putin, ha detto: “Si sta ammorbidendo, potrebbe essere più duro”",
    "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/?rss",
-   "pub_ts": 1794849691,
-   "n_sources": 3,
+   "pub_ts": 1794870329,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/?rss",
-     "title": "Trump: “Forse durante il viaggio in Asia potrei incontrare anche Kim”"
+     "title": "Trump parte per l’Asia: “Putin sta cedendo, forse incontro con Kim”"
     },
     {
      "name": "ANSA Mondo",
@@ -139,76 +107,64 @@
      "title": "Trump, 'in Asia viaggio importante, forse incontrerò anche Kim'"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/",
-     "title": "Trump: “Forse durante il viaggio in Asia potrei incontrare anche Kim”"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-incontro-ucraina-russia-news-17-novembre_5sEgMCruvME7sCya96g904",
+     "title": "Ucraina, Trump: \"Putin sta cedendo\". Zelensky: \"Russia prepara nuovo attacco\""
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/trump-parte-per-asia-in-vista-la-yalta-20-di-shenzen-tg1-rizzo-1cd3ff9b-227e-4edb-9603-c4086354d049.html",
+     "title": "Trump parte per l'Asia, in vista la \"Yalta 2.0\" di Shenzhen"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "William e Kate in visita di tre giorni in India",
-   "summary": "Tra gli eventi a cui partecipano la cerimonia dell'Earthshot Prize",
-   "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/11/16/william-e-kate-in-visita-di-tre-giorni-in-india_b1a79362-fb2a-4425-bc0b-089f618eae12.html",
-   "pub_ts": 1794849533,
-   "n_sources": 3,
+   "title": "Atp Finals: Cobolli stecca la prima, con Medvedev una sconfitta che brucia: il russo vince in due set",
+   "summary": "Ora ci vuole un'impresa per le semifinali",
+   "link": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/16/atp-finals-cobolli-stecca-la-prima-con-medvedev-una-sconfitta-che_76b3d219-b65a-44b1-8bfa-44aa29029416.html",
+   "pub_ts": 1794869314,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/11/16/william-e-kate-in-visita-di-tre-giorni-in-india_b1a79362-fb2a-4425-bc0b-089f618eae12.html",
-     "title": "William e Kate in visita di tre giorni in India"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/il-principe-william-e-la-principessa-catherine-in-visita-in-india_f4b48416-eb17-4980-a806-dd0f9c47750b.html",
-     "title": "Il principe William e la principessa Catherine in visita in India"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/william-kate-india-cricket-strada_5uQEBqrWVqPzFY6aHNHyxa",
-     "title": "William e Kate in India, l'incontro con Modi e la partita a cricket di strada"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti",
-   "summary": "Blocchi negli accessi e nei trasferimenti di denaro nei grandi istituti come Chase, Bank of America e Wells Fargo. L'interruzione arriva a poche ore dai gravi guasti ai sistemi Microsoft e al traffico aereo americano, ma al momento non risultano collegamenti né piste legate ad attacchi informatici L'articolo Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti…",
-   "link": "https://www.open.online/2026/11/16/usa-down-app-banche-conti-correnti/",
-   "pub_ts": 1794858893,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/16/usa-down-app-banche-conti-correnti/",
-     "title": "Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti"
+     "link": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/16/atp-finals-cobolli-stecca-la-prima-con-medvedev-una-sconfitta-che_76b3d219-b65a-44b1-8bfa-44aa29029416.html",
+     "title": "Atp Finals: Cobolli stecca la prima, con Medvedev una sconfitta che brucia: il russo vince in due set"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/16/news/banche_usa_disservizi_clienti_conti_online-425728153/",
-     "title": "Sistemi online in panne per le banche Usa: i clienti non riescono ad accedere ai conti"
+     "link": "https://www.repubblica.it/sport/tennis/2026/11/16/news/cobolli_medvedev_finals_sconfitta-425728486/",
+     "title": "Cobolli, falsa partenza: cede a un Medvedev perfetto nella prima delle Finals"
     },
     {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/banche-usa-in-tilt-clienti-senza-accesso-ai-conti-online/",
-     "title": "Banche Usa in tilt: clienti senza accesso ai conti online"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/medvedev-cobolli-prima-partita-atp-finals/",
+     "title": "Flavio Cobolli ha perso contro Daniil Medvedev nella sua prima partita delle ATP Finals"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/11/16/cobolli-atp-finals-medvedev-diretta-live-risultato/8574074/",
+     "title": "Atp Finals, Cobolli cade all’esordio: Medvedev è perfetto e non sbaglia mai, l’azzurro lo fa nei momenti decisivi | Il commento"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "«La Brexit non ha funzionato»: Andy Burnham europeista tattico",
-   "summary": "",
-   "link": "https://www.editorialedomani.it/idee/commenti/andy-burnham-discorso-contro-brexit-londra-ue-x23odkxc",
-   "pub_ts": 1794857166,
-   "n_sources": 3,
+   "title": "UK, il premier Burnham: \"La Brexit non ha funzionato, serve un nuovo accordo con l'Ue\"",
+   "summary": "Il premier laburista boccia il divorzio e punta al vertice di Bruxelles per riallineare i rapporti, scatenando l'ira dei conservatori e l'altolà di Boris Johnson",
+   "link": "https://www.rainews.it/articoli/2026/11/uk-il-premier-burnham-la-brexit-non-ha-funzionato-serve-un-nuovo-accordo-con-lue-844706f6-df54-4b14-b271-5b02f8c0daf6.html",
+   "pub_ts": 1794880560,
+   "n_sources": 4,
    "documented": true,
    "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/uk-il-premier-burnham-la-brexit-non-ha-funzionato-serve-un-nuovo-accordo-con-lue-844706f6-df54-4b14-b271-5b02f8c0daf6.html",
+     "title": "UK, il premier Burnham: \"La Brexit non ha funzionato, serve un nuovo accordo con l'Ue\""
+    },
     {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/idee/commenti/andy-burnham-discorso-contro-brexit-londra-ue-x23odkxc",
@@ -223,6 +179,33 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/",
      "title": "Andy Burnham è sempre più critico su Brexit"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "'Gli 007 americani avvertono: 'L'Iran sta sviluppando piani per una bomba sporca a Washington'",
+   "summary": "La Casa Bianca: 'Monitoriamo ma al momento non ci sono minacce credibili'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_187bd30b-f38c-4795-85cd-e36ed45edec5.html",
+   "pub_ts": 1794884387,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_187bd30b-f38c-4795-85cd-e36ed45edec5.html",
+     "title": "'Gli 007 americani avvertono: 'L'Iran sta sviluppando piani per una bomba sporca a Washington'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_c9a41c6d-a84e-485c-8a1d-c7ce921b80ba.html",
+     "title": "'007 Usa, Iran sta sviluppando piani per bomba sporca a Washington'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/allarme-cnn-sulliran-piani-dettagliati-contro-funzionari-usa-ma-la-casa-bianca-frena-ncontro-tra-il-likud-di-netanyahu-e-yashar-di-eisenkot-per-governo-di-unita-nazionale-gli-houthi-a-circa-60-chilometri-dalla-citta-di-aden-sede-del-governo-yemenita-bea62f41-571e-400a-9210-ab9efb03b8e6.html",
+     "title": "Allarme Cnn sull'Iran: piani dettagliati contro funzionari Usa, ma la Casa Bianca frena"
     }
    ]
   },
@@ -256,44 +239,61 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Più risorse per la sanità, quota 64 non sarà in manovra",
-   "summary": "Borghi: 'Ci sarà un provvedimento ad hoc'. Nuovo vertice",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
-   "pub_ts": 1794853954,
+   "title": "“Chiediamo a Palazzo Chigi di inviare la Marina a Gaza per salvare la gente dal fango”",
+   "summary": "La Valle, Riccardi e Zagrebelsky chiedono un intervento umanitario sul modello della missione in Albania del 1997",
+   "link": "https://www.repubblica.it/esteri/2026/11/17/news/appello_a_governo_italiano_invii_marina_a_gaza_per_salvare_gente_dal_fango-425727671/?rss",
+   "pub_ts": 1794873600,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
-     "title": "Più risorse per la sanità, quota 64 non sarà in manovra"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/17/news/appello_a_governo_italiano_invii_marina_a_gaza_per_salvare_gente_dal_fango-425727671/?rss",
+     "title": "“Chiediamo a Palazzo Chigi di inviare la Marina a Gaza per salvare la gente dal fango”"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_eef4fce8-6c9b-495e-9b8f-379b2526eb52.html",
-     "title": "Borghi (Lega), 'quota 64 ci sarà ma con un provvedimento a parte'"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/17/news/appello_a_governo_italiano_invii_marina_a_gaza_per_salvare_gente_dal_fango-425727671/",
+     "title": "“Chiediamo a Palazzo Chigi di inviare la Marina a Gaza per salvare la gente dal fango”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "La «tassa per i ricchi» o la patrimoniale: campo caotico sul fisco",
-   "summary": "Per il Pd è meglio la proposta Zucman sopra i 100 milioni netti. Scintille fra Avs e M5s, inedite convergenze tra contiani e renziani",
-   "link": "https://www.editorialedomani.it/politica/italia/centrosinistra-tassa-ricchi-patrimoniale-conte-schlein-lk07fwwg",
-   "pub_ts": 1794859435,
+   "title": "Suppletive per la Camera, Luciano D'Amico vince a Chieti e strappa un seggio alla maggioranza",
+   "summary": "D'Amico ha ottenuto il 57,61% contro il 36,76% del candidato di centrodestra Mario Colantonio. Si votava per sostituire il leghista Alberto Bagnai nominato all'Antitrust. Molto scarsa l'affluenza, al 17,02%",
+   "link": "https://www.rainews.it/articoli/2026/11/suppletive-per-la-camera-luciano-damico-vince-a-chieti-e-strappa-un-seggio-alla-maggioranza-ea5e2d7c-03d9-4106-94f7-9ae4c546ed28.html",
+   "pub_ts": 1794850920,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/centrosinistra-tassa-ricchi-patrimoniale-conte-schlein-lk07fwwg",
-     "title": "La «tassa per i ricchi» o la patrimoniale: campo caotico sul fisco"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/suppletive-per-la-camera-luciano-damico-vince-a-chieti-e-strappa-un-seggio-alla-maggioranza-ea5e2d7c-03d9-4106-94f7-9ae4c546ed28.html",
+     "title": "Suppletive per la Camera, Luciano D'Amico vince a Chieti e strappa un seggio alla maggioranza"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/15/news/elly_schlein_pd_stati_generali_scuola-425725246/",
-     "title": "Schlein su fisco e scuola: “Sì alla tassa sui super ricchi e ai prof stipendi più alti”"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/16/elezioni-suppletive-chieti-damico-centrosinistra-notizie/8573897/",
+     "title": "Elezioni suppletive a Chieti: vince Luciano D’Amico, sostenuto da tutto il centrosinistra"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Passo indietro della Lega su quota 64. Nuovo vertice sulla manovra",
+   "summary": "'Ci sarà misura ad hoc'. Schillaci assicura fondi sulla sanità, la carica degli emendamenti",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/passo-indietro-della-lega-su-quota-64.-nuovo-vertice-sulla-manovra_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
+   "pub_ts": 1794859739,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/passo-indietro-della-lega-su-quota-64.-nuovo-vertice-sulla-manovra_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
+     "title": "Passo indietro della Lega su quota 64. Nuovo vertice sulla manovra"
     }
    ]
   },
@@ -357,7 +357,7 @@
    "category": "tech",
    "area": null,
    "title": "Ci sono problemi ai servizi online di diverse banche statunitensi",
-   "summary": "",
+   "summary": "Migliaia di persone non riescono ad accedere ai conti online e a usare i servizi di pagamento: non ci sono indicazioni di un attacco informatico",
    "link": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/",
    "pub_ts": 1794857450,
    "n_sources": 1,
@@ -373,43 +373,10 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Robert Pattinson è il nuovo James Bond",
-   "summary": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
-   "pub_ts": 1794858600,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
-     "title": "Robert Pattinson è il nuovo James Bond"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/il-nuovo-james-bond-robert-pattinson-raccoglie-leredita-di-daniel-craig--fcd5d9d8-01b4-4f07-a1e1-0adad39bda03.html",
-     "title": "Il nuovo James Bond: Robert Pattinson raccoglie l'eredità di Daniel Craig"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/spettacoli/cinema/2026/11/16/news/robert_pattinson_sara_il_nuovo_james_bond-425727456/",
-     "title": "Robert Pattinson è il nuovo James Bond: “È un sogno diventato realtà”"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/16/robert-pattinson-007/",
-     "title": "Robert Pattinson è il nuovo 007"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
    "title": "Milly Carlucci, in famiglia Ballando abbiamo amore per tutti da Mariotto a Barbara d'Urso",
    "summary": "Conduttrice sui social annuncia, Belli ballerino della Notte",
    "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/milly-carlucci-in-famiglia-ballando-abbiamo-amore-per-tutti-da-mariotto-a-barbara_638f4206-8a5e-41de-b632-d7b0f083d3f4.html",
-   "pub_ts": 1794850902,
+   "pub_ts": 1794858600,
    "n_sources": 3,
    "documented": true,
    "sources": [
@@ -419,9 +386,9 @@
      "title": "Milly Carlucci, in famiglia Ballando abbiamo amore per tutti da Mariotto a Barbara d'Urso"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/16/scontro-mariotto-durso-milly-carlucci-famiglia-ballando-video/",
-     "title": "Scontro Mariotto-D’Urso, Milly Carlucci prova a metterci una pezza: «Se succede un fatto in famiglia, va risolto tra noi» – Il video"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/ballando-con-le-stelle-caso-durso-mariotto-milly-carlucci-vediamo-se-sabato-barbara-sara-in-giuria-d8d96460-adc8-44a0-938a-b417a49ff248.html",
+     "title": "Caso D'Urso-Mariotto, Milly Carlucci: \"Vediamo se sabato Barbara sarà in giuria\""
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -434,27 +401,27 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Nel Duomo di Udine folla per i funerali di Toni Capuozzo",
-   "summary": "A dare l'ultimo saluto colleghi e dirigenti di Mediaset, nelle prime file Fedriga e Zaia",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/nel-duomo-di-udine-folla-per-i-funerali-di-toni-capuozzo_ebec0854-60bb-497f-b55e-e1ff717fc778.html",
-   "pub_ts": 1794842460,
+   "title": "Robert Pattinson è il nuovo James Bond",
+   "summary": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
+   "pub_ts": 1794857880,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/nel-duomo-di-udine-folla-per-i-funerali-di-toni-capuozzo_ebec0854-60bb-497f-b55e-e1ff717fc778.html",
-     "title": "Nel Duomo di Udine folla per i funerali di Toni Capuozzo"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/16/nel-duomo-di-udine-folla-per-i-funerali-di-toni-capuozzo_bf4b5e54-bf67-4926-ad37-fb833118d195.html",
-     "title": "Nel Duomo di Udine folla per i funerali di Toni Capuozzo"
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
+     "title": "Robert Pattinson è il nuovo James Bond"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/funerali-di-toni-capuozzo-arrivo-del-feretro-al-duomo-di-udine-video-c2520e78-1c22-4946-b29c-89f4108f5fd4.html",
-     "title": "Funerali di Toni Capuozzo, l'arrivo del feretro al Duomo di Udine"
+     "link": "https://www.rainews.it/video/2026/11/cinema-da-batman-a-james-bond-il-nuovo-007-robert-pattinson-b8483052-3543-488c-b093-dc332ff26219.html",
+     "title": "Da Batman a James Bond, il nuovo 007 è Robert Pattinson"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/robert-pattinson-007/",
+     "title": "Robert Pattinson è il nuovo 007"
     }
    ],
    "subtype": "cultura"
@@ -485,6 +452,29 @@
   {
    "category": "varia",
    "area": null,
+   "title": "Red Doc>, il 24 novembre esce il libro della Nobel Letteratura 2026 Anne Carson",
+   "summary": "Atteso seguito di 'Autobiografia del rosso'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/16/red-doc-il-24-novembre-esce-il-libro-della-nobel-letteratura-2026-anne_9fc8824e-b5f2-4945-a10c-65e614a7b135.html",
+   "pub_ts": 1794848760,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/16/red-doc-il-24-novembre-esce-il-libro-della-nobel-letteratura-2026-anne_9fc8824e-b5f2-4945-a10c-65e614a7b135.html",
+     "title": "Red Doc>, il 24 novembre esce il libro della Nobel Letteratura 2026 Anne Carson"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/16/peanuts-2026-novembre-16/",
+     "title": "Peanuts 2026 novembre 16"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
    "title": "Ancora pochi casi di influenza, ma c'è carenza di vaccini in alcune Regioni",
    "summary": "Medici di Famiglia 'Circa 85mila casi in 3 settimane. In linea con gli anni passati",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_vaccini/2026/11/16/ancora-pochi-casi-di-influenza-ma-ce-carenza-di-vaccini-in-alcune-regioni_d6bbefe8-ebc4-4b3d-8ee4-5223f7401cd2.html",
@@ -503,6 +493,15 @@
  ],
  "articles": [
   {
+   "title": "In tilt app e siti delle principali banche Usa. Guasto ai sistemi di United Airlines, poi risolto",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/app-e-siti-delle-banche-usa-in-tilt-dopo-il-caos-di-microsoft-e-dei_83dcdcf2-04de-4161-8b52-cd5eddce321d.html",
+   "description": "Dopo il caso di Microsoft e gli aerei a terra. Chase Bank: 'Nessuna prova di cyberattacco, è un bug nel software' La Federal Reserve funziona regolarmente. La compagnia aerea cala a Wall Street: 'E' un problema tecnico'",
+   "pub_ts": 1794871587,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Migranti, cinque Paesi europei presentano un piano per un hub di rimpatri in Ruanda",
    "link": "https://www.repubblica.it/esteri/2026/11/16/news/ruanda_migranti_hub_rimpatri_austria_germania_danimarca_grecia_olanda-425727933/?rss",
    "description": "Austria, Germania, Danimarca, Grecia e Paesi Bassi hanno raggiunto un accordo con lo stato africano, implicato per i massacri nel Congo, per aprire nel 2027 un centro destinato a richiedenti asilo la cui domanda sia stata respinta definitivamente",
@@ -512,56 +511,38 @@
    "section": "politica"
   },
   {
-   "title": "Problemi d'accesso e disservizi per le principali banche Usa",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/problemi-daccesso-e-disservizi-per-le-principali-banche-usa_19d6def5-9b31-42db-9204-cbf5380c5a51.html",
-   "description": "Migliaia di segnalazioni. Coinvolti Chase Bank, Wells Fargo e altri",
-   "pub_ts": 1794855459,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Media: 'Il board di Nvidia non sta valutando il ritorno di Huang'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/media-il-board-di-nvidia-non-sta-valutando-il-ritorno-di-huang_df084f26-8996-46a2-927f-645ecc3fe8fe.html",
-   "description": "Trump: 'Jensen Huang di nuovo alla guida di Nvidia? Non è una cattiva idea. Ma io ho proposto Tim Cook'",
-   "pub_ts": 1794851689,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump: “Forse durante il viaggio in Asia potrei incontrare anche Kim”",
+   "title": "Trump parte per l’Asia: “Putin sta cedendo, forse incontro con Kim”",
    "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_forse_in_asia_potrei_incontrare_anche_kim_jong_hun-425727403/?rss",
    "description": "Il presidente degli Stati Uniti, parlando con i giornalisti prima di partire per il vertice dell’Apec, si è riferito alla possibilità di vedere il dittatore nordcoreano. E, in attesa dell’appuntamento con Putin, ha detto: “Si sta ammorbidendo, potrebbe essere più duro”",
-   "pub_ts": 1794849691,
+   "pub_ts": 1794870329,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "William e Kate in visita di tre giorni in India",
-   "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/11/16/william-e-kate-in-visita-di-tre-giorni-in-india_b1a79362-fb2a-4425-bc0b-089f618eae12.html",
-   "description": "Tra gli eventi a cui partecipano la cerimonia dell'Earthshot Prize",
-   "pub_ts": 1794849533,
+   "title": "Atp Finals: Cobolli stecca la prima, con Medvedev una sconfitta che brucia: il russo vince in due set",
+   "link": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/16/atp-finals-cobolli-stecca-la-prima-con-medvedev-una-sconfitta-che_76b3d219-b65a-44b1-8bfa-44aa29029416.html",
+   "description": "Ora ci vuole un'impresa per le semifinali",
+   "pub_ts": 1794869314,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti",
-   "link": "https://www.open.online/2026/11/16/usa-down-app-banche-conti-correnti/",
-   "description": "Blocchi negli accessi e nei trasferimenti di denaro nei grandi istituti come Chase, Bank of America e Wells Fargo. L'interruzione arriva a poche ore dai gravi guasti ai sistemi Microsoft e al traffico aereo americano, ma al momento non risultano collegamenti né piste legate ad attacchi informatici L'articolo Le banche Usa vanno in tilt: in migliaia non riescono ad accedere ai conti correnti…",
-   "pub_ts": 1794858893,
-   "source": "Open",
+   "title": "UK, il premier Burnham: \"La Brexit non ha funzionato, serve un nuovo accordo con l'Ue\"",
+   "link": "https://www.rainews.it/articoli/2026/11/uk-il-premier-burnham-la-brexit-non-ha-funzionato-serve-un-nuovo-accordo-con-lue-844706f6-df54-4b14-b271-5b02f8c0daf6.html",
+   "description": "Il premier laburista boccia il divorzio e punta al vertice di Bruxelles per riallineare i rapporti, scatenando l'ira dei conservatori e l'altolà di Boris Johnson",
+   "pub_ts": 1794880560,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "«La Brexit non ha funzionato»: Andy Burnham europeista tattico",
-   "link": "https://www.editorialedomani.it/idee/commenti/andy-burnham-discorso-contro-brexit-londra-ue-x23odkxc",
-   "description": "",
-   "pub_ts": 1794857166,
-   "source": "Domani",
+   "title": "'Gli 007 americani avvertono: 'L'Iran sta sviluppando piani per una bomba sporca a Washington'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_187bd30b-f38c-4795-85cd-e36ed45edec5.html",
+   "description": "La Casa Bianca: 'Monitoriamo ma al momento non ci sono minacce credibili'",
+   "pub_ts": 1794884387,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -575,20 +556,29 @@
    "section": "politica"
   },
   {
-   "title": "Più risorse per la sanità, quota 64 non sarà in manovra",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borghi-lega-quota-64-ci-sara-ma-con-un-provvedimento-a-parte_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
-   "description": "Borghi: 'Ci sarà un provvedimento ad hoc'. Nuovo vertice",
-   "pub_ts": 1794853954,
-   "source": "ANSA",
+   "title": "“Chiediamo a Palazzo Chigi di inviare la Marina a Gaza per salvare la gente dal fango”",
+   "link": "https://www.repubblica.it/esteri/2026/11/17/news/appello_a_governo_italiano_invii_marina_a_gaza_per_salvare_gente_dal_fango-425727671/?rss",
+   "description": "La Valle, Riccardi e Zagrebelsky chiedono un intervento umanitario sul modello della missione in Albania del 1997",
+   "pub_ts": 1794873600,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "La «tassa per i ricchi» o la patrimoniale: campo caotico sul fisco",
-   "link": "https://www.editorialedomani.it/politica/italia/centrosinistra-tassa-ricchi-patrimoniale-conte-schlein-lk07fwwg",
-   "description": "Per il Pd è meglio la proposta Zucman sopra i 100 milioni netti. Scintille fra Avs e M5s, inedite convergenze tra contiani e renziani",
-   "pub_ts": 1794859435,
-   "source": "Domani",
+   "title": "Suppletive per la Camera, Luciano D'Amico vince a Chieti e strappa un seggio alla maggioranza",
+   "link": "https://www.rainews.it/articoli/2026/11/suppletive-per-la-camera-luciano-damico-vince-a-chieti-e-strappa-un-seggio-alla-maggioranza-ea5e2d7c-03d9-4106-94f7-9ae4c546ed28.html",
+   "description": "D'Amico ha ottenuto il 57,61% contro il 36,76% del candidato di centrodestra Mario Colantonio. Si votava per sostituire il leghista Alberto Bagnai nominato all'Antitrust. Molto scarsa l'affluenza, al 17,02%",
+   "pub_ts": 1794850920,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Passo indietro della Lega su quota 64. Nuovo vertice sulla manovra",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/passo-indietro-della-lega-su-quota-64.-nuovo-vertice-sulla-manovra_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
+   "description": "'Ci sarà misura ad hoc'. Schillaci assicura fondi sulla sanità, la carica degli emendamenti",
+   "pub_ts": 1794859739,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -622,35 +612,26 @@
   {
    "title": "Ci sono problemi ai servizi online di diverse banche statunitensi",
    "link": "https://www.ilpost.it/2026/11/16/banche-stati-uniti-problemi/",
-   "description": "",
+   "description": "Migliaia di persone non riescono ad accedere ai conti online e a usare i servizi di pagamento: non ci sono indicazioni di un attacco informatico",
    "pub_ts": 1794857450,
    "source": "Il Post",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Robert Pattinson è il nuovo James Bond",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
-   "description": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
+   "title": "Milly Carlucci, in famiglia Ballando abbiamo amore per tutti da Mariotto a Barbara d'Urso",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/milly-carlucci-in-famiglia-ballando-abbiamo-amore-per-tutti-da-mariotto-a-barbara_638f4206-8a5e-41de-b632-d7b0f083d3f4.html",
+   "description": "Conduttrice sui social annuncia, Belli ballerino della Notte",
    "pub_ts": 1794858600,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Milly Carlucci, in famiglia Ballando abbiamo amore per tutti da Mariotto a Barbara d'Urso",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/milly-carlucci-in-famiglia-ballando-abbiamo-amore-per-tutti-da-mariotto-a-barbara_638f4206-8a5e-41de-b632-d7b0f083d3f4.html",
-   "description": "Conduttrice sui social annuncia, Belli ballerino della Notte",
-   "pub_ts": 1794850902,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Nel Duomo di Udine folla per i funerali di Toni Capuozzo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/16/nel-duomo-di-udine-folla-per-i-funerali-di-toni-capuozzo_ebec0854-60bb-497f-b55e-e1ff717fc778.html",
-   "description": "A dare l'ultimo saluto colleghi e dirigenti di Mediaset, nelle prime file Fedriga e Zaia",
-   "pub_ts": 1794842460,
+   "title": "Robert Pattinson è il nuovo James Bond",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
+   "description": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
+   "pub_ts": 1794857880,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -661,6 +642,15 @@
    "description": "Si allarga il fronte anti-voucher, stop anche da infermieri. 'Su manovra, governo ascolti'",
    "pub_ts": 1794852023,
    "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Red Doc>, il 24 novembre esce il libro della Nobel Letteratura 2026 Anne Carson",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/16/red-doc-il-24-novembre-esce-il-libro-della-nobel-letteratura-2026-anne_9fc8824e-b5f2-4945-a10c-65e614a7b135.html",
+   "description": "Atteso seguito di 'Autobiografia del rosso'",
+   "pub_ts": 1794848760,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
