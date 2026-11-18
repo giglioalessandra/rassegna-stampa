@@ -1,6 +1,6 @@
 {
- "generated_at": 1794972728,
- "updated_at": 1794972728,
+ "generated_at": 1795006372,
+ "updated_at": 1795006372,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,177 +10,205 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Dal campo largo 18 emendamenti comuni, ma è alta tensione sulla patrimoniale",
-   "summary": "Avs: 'Se non è nel programma non c'è coalizione'. M5s blocca i lavori sulla manovra poi l'intesa",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/dal-campo-largo-18-emendamenti-comuni-ma-e-alta-tensione-sulla-patrimoniale_683d5574-d857-447f-9100-12057733f292.html",
-   "pub_ts": 1794960000,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/dal-campo-largo-18-emendamenti-comuni-ma-e-alta-tensione-sulla-patrimoniale_683d5574-d857-447f-9100-12057733f292.html",
-     "title": "Dal campo largo 18 emendamenti comuni, ma è alta tensione sulla patrimoniale"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/18/news/campo_largo_18_proposte_unitarie_manovra_m5s_italia_viva-425730984/",
-     "title": "Campo largo, 18 proposte unitarie tensione 5S-renziani poi l’intesa"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/17/tassa-extra-eni-enel-salario-minimo-10-euro-campo-largo-accordo-emendamenti-non-patrimoniale/",
-     "title": "Tassa extra fino al 50% su Eni, Enel & co. Salario minimo di 10 euro lordi, il campo largo trova l’accordo su 18 emendamenti. Non sulla patrimoniale"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/centrosinistra-tassa-ricchi-patrimoniale-conte-schlein-lk07fwwg",
-     "title": "La «tassa per i ricchi» o la patrimoniale: campo caotico sul fisco"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/17/diluvio-6-600-emendamenti-manovra-fi-condono-18-proposte-comuni-campo-largo-salario-minimo-stop-drenaggio-fiscale/8575281/",
-     "title": "Diluvio di 6.600 emendamenti sulla manovra. Anche FI chiede il condono. 18 proposte comuni dal campo largo: dal salario minimo allo stop al drenaggio fiscale"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/politicoquotidiano/fratoianni-minaccia-senza-patrimoniale-non-ce-campo-largo/",
-     "title": "Fratoianni: “Senza patrimoniale non c’è campo largo”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Emendamento al dl sicurezza, divieto di social agli under 13",
-   "summary": "Dai 13 ai 16 anni possibilità di gestirne uno legato a quello dei genitori",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13-_f50ee740-ac1a-426d-bb89-b77139abfd54.html",
-   "pub_ts": 1794945454,
-   "n_sources": 4,
+   "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo",
+   "summary": "Schlein lo chiama per fermarlo, ma il passo è irrevocabile",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ddl-antisemitismo-le-lacrime-di-fiano-lascio-il-pd-_ad0d5ec9-32e1-477a-8239-fc0659fef573.html",
+   "pub_ts": 1795005360,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13-_f50ee740-ac1a-426d-bb89-b77139abfd54.html",
-     "title": "Emendamento al dl sicurezza, divieto di social agli under 13"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ddl-antisemitismo-le-lacrime-di-fiano-lascio-il-pd-_ad0d5ec9-32e1-477a-8239-fc0659fef573.html",
+     "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13_f08b2b2d-d504-4322-a92f-c644e8573532.html",
-     "title": "Emendamento al dl sicurezza, divieto di social agli under 13"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/fiano-lascia-il-pd-per-il-no-alla-legge-sullantisemitismo_b854c8dc-2532-421f-9fe8-18b364801c1f.html",
+     "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/nuovo-emendamento-stop-ai-social-per-i-piu-piccoli--63ef4239-2f5e-41f6-9878-6837aed76826.html",
-     "title": "Nuovo emendamento al decreto sicurezza: stop ai social per i più piccoli"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/17/divieto-social-minori-decreto-sicurezza-notizie/8575361/",
-     "title": "Dopo un anno di stallo il governo si muove sul divieto dei social per gli under 13. Con un emendamento al decreto sicurezza"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Ddl antisemitismo è legge.No di M5s, Avs,nel Pd strappo dei riformisti",
-   "summary": "Alla Camera 147 sì. La spaccatura nei dem. Da Iv ok insieme alla maggioranza",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_fef81d69-9cd3-4bef-8409-79e71f8c4e8a.html",
-   "pub_ts": 1794958063,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_fef81d69-9cd3-4bef-8409-79e71f8c4e8a.html",
-     "title": "Ddl antisemitismo è legge.No di M5s, Avs,nel Pd strappo dei riformisti"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_2b284094-dad4-4a82-8a0a-f607814f5b71.html",
-     "title": "La Camera approva il ddl antisemitismo, 147 i si. E' legge"
+     "link": "https://www.rainews.it/articoli/2026/11/ddl-antisemitismo-il-pd-non-vota-la-legge-ed-emanuele-fiano-lascia-il-partito-cc7ee126-faed-4ffa-90a1-9cad85701161.html",
+     "title": "Ddl Antisemitismo, il Pd non vota la legge ed Emanuele Fiano lascia il partito"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/17/news/ddl_antisemitismo_approvazione_camera_pd_riformisti_tensioni-425730690/",
-     "title": "Sì alla legge antisemitismo. Schlein chiama Meloni, ma la destra non arretra"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo",
-   "summary": "La figlia Isabella: 'Occasione per una rilettura della sua eredità culturale'. Ira del Pd e dell'Anpi",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
-   "pub_ts": 1794955738,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
-     "title": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/17/mostra-pino-rauti-simboli-fascisti-polemica-camera-rimozione/",
-     "title": "Bufera sulla mostra per Pino Rauti alla Camera: Montecitorio ordina di rimuovere i simboli fascisti"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/17/news/mostra_rauti_camera_organizzata_fdi_polemica-425730267/",
-     "title": "La celebrazione di Rauti con i simboli del fascismo, la Camera: “Rimuoveteli”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Romeo sostituito al Senato, Dreosto eletto capogruppo della Lega",
-   "summary": "L'assemblea dei senatori è durata due ore",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_f6811121-fa51-43eb-959a-34b8f9315020.html",
-   "pub_ts": 1794953892,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_f6811121-fa51-43eb-959a-34b8f9315020.html",
-     "title": "Romeo sostituito al Senato, Dreosto eletto capogruppo della Lega"
+     "link": "https://milano.repubblica.it/cronaca/2026/11/18/news/emanuele_fiano_lascio_pd_dolore_ddl_antisemitismo_limite_invalicabile-425731658/",
+     "title": "Emanuele Fiano: “Lascio il Pd con dolore, ma il ddl antisemitismo era un limite invalicabile”"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/lega-massimiliano-romeo-capogruppo-senato-deosto-fyst887g",
-     "title": "Ribaltone Lega, Romeo dimissionato da capogruppo al Senato. Al suo posto Marco Deosto"
+     "link": "https://www.editorialedomani.it/politica/italia/fiano-lascia-partito-democratico-motivazioni-dopo-ddl-antisemitismo-wa0s4mba",
+     "title": "Fiano lascia il Pd dopo il mancato appoggio al Ddl antisemitismo"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/17/lega-romeo-sfiduciato-dreosto-notizie/8575499/",
-     "title": "Resa dei conti nella Lega, sfiduciato il capogruppo al Senato Romeo. Al suo posto il friulano Dreosto"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/emanuele-fiano-lascia-pd-mancato-sostegno-legge-antisemitismo/",
+     "title": "Emanuele Fiano ha lasciato il PD a causa del mancato sostegno del partito alla legge sull’antisemitismo"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/milanoquotidiano/emanuele-fiano-lascia-il-pd-dopo-il-no-alla-legge-sullantisemitismo-lannuncio-in-lacrime/",
+     "title": "Emanuele Fiano lascia il Pd dopo il no alla legge sull’antisemitismo. L’annuncio in lacrime"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "La Knesset elegge presidente il fedelissimo di Eisenkot Kahana",
-   "summary": "Dopo oltre 6 ore di ostruzionismo del Likud",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/la-knesset-elegge-presidente-il-fedelissimo-di-eisenkot-kahana_5afbf410-3aa2-4032-8516-500cea82e22a.html",
-   "pub_ts": 1794971460,
-   "n_sources": 2,
+   "title": "Identificato il nickname Mikhail Andropov: 'Non ha mandato lui le mail nelle scuole'",
+   "summary": "Polizia: 'Si trova in Usa. Ha segnalato l'utilizzo improprio della sua identità digilale'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/18/identificato-nickname-mikhail-andropov-non-ha-mandato-lui-le-mail-nelle-scuole_d4f1795b-c0ab-4f23-b2fc-2a3050b7fd28.html",
+   "pub_ts": 1795004317,
+   "n_sources": 7,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/18/identificato-nickname-mikhail-andropov-non-ha-mandato-lui-le-mail-nelle-scuole_d4f1795b-c0ab-4f23-b2fc-2a3050b7fd28.html",
+     "title": "Identificato il nickname Mikhail Andropov: 'Non ha mandato lui le mail nelle scuole'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/18/allarmi-bomba-scuole-individuato-mikhail-andropov-mail-usa/",
+     "title": "Allarmi bomba nelle scuole, rintracciato negli Usa “Mikhail Andropov”: ma è estraneo ai fatti. «Rubato il mio pseudonimo on line»"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-mikhail-andropov-e-stato-identificato-in-america-dxxsawfh",
+     "title": "Allarmi bomba, Mikhail Andropov identificato negli Usa. L’Fbi: «Ma non c’entra con le mail»"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/allarmi-bomba-nelle-scuole-identificato-nickname-mikhail-andropov-negli-stati-uniti-f82ef12d-efc5-480c-93da-b873ca6497dd.html",
+     "title": "Allarmi bomba nelle scuole, identificato nickname \"Mikhail Andropov\" negli Stati Uniti"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/18/news/allarmi_bomba_la_polizia_identifica_mikhail_andropov_in_usa-425732026/",
+     "title": "Allarmi bomba, individuato l’utente Mikhail Andropov: \"Non c’entra niente con gli attacchi\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/18/allarme-bomba-scuole-italiane-mikhail-andropov-notizie/8575933/",
+     "title": "Allarmi bomba nelle scuole, identificato in Usa il vero “Mikhail Andropov”: ha denunciato l’utilizzo improprio della sua identità digitale"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/allarmi-bomba-a-scuola-identificato-il-misterioso-mikhail-andropov-poi-il-colpo-di-scena/",
+     "title": "Allarmi bomba a scuola, identificato il misterioso “Mikhail Andropov”. Poi il colpo di scena"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Putin e Trump si stringono la mano a Shenzhen",
+   "summary": "Xi: \"Un mondo più stabile grazie al rapporto Pechino-Mosca\"",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+   "pub_ts": 1795005657,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+     "title": "Putin e Trump si stringono la mano a Shenzhen"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/putin_xi_trump_perche_trilaterale_shenzhen_non_e_nuova_yalta-425732121/?rss",
+     "title": "Putin, Xi e Trump, perché il trilaterale a Shenzhen non è una nuova Yalta"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9f045012-9a7e-444b-85b3-960fc4c6e857.html",
+     "title": "Putin e Trump si stringono la mano a Shenzhen"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/putin_xi_trump_perche_trilaterale_shenzhen_non_e_nuova_yalta-425732121/",
+     "title": "Putin, Xi e Trump, perché il trilaterale a Shenzhen non è una nuova Yalta"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/trump-shenzhen-xi-jinping-putin-tappeto-rosso-ultime-notizie-oggi-rdu6ogvn",
+     "title": "Trump a Shenzhen, Xi lo accoglie con il tappeto rosso. Il leader cinese a Putin: «Relazioni incrollabili»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/vertice-shenzhen-cosa-vogliono-trump-putin-xi_3kmcFCzR1mmNQHlaPwHylO",
+     "title": "Vertice Shenzhen, analisti Csis: \"Trump cerca svolta storica, Putin punta a decidere il futuro dell'Ucraina\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Midterm Usa, i democratici vincono anche in Alaska: Peltola strappa il seggio ai repubblicani",
+   "summary": "Sconfitto il senatore uscente Dan Sullivan, in carica da due mandati. Si chiude l'ultima sfida per il Senato: i dem conquistano 56 seggi contro i 44 del Gop",
+   "link": "https://www.repubblica.it/esteri/2026/11/18/news/midterm_usa_democratici_vincono_alaska_mary_peltola_senato-425731128/?rss",
+   "pub_ts": 1795004827,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/midterm_usa_democratici_vincono_alaska_mary_peltola_senato-425731128/?rss",
+     "title": "Midterm Usa, i democratici vincono anche in Alaska: Peltola strappa il seggio ai repubblicani"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_dda72782-aa77-4765-ae43-56acdbee572d.html",
+     "title": "Media, con Mary Peltola i dem vincono anche in Alaska"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_58944bde-6c8e-473f-aa22-5e1e0815f550.html",
+     "title": "Media, con Mary Peltola i dem vincono anche in Alaska"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/senato-usa-democratici-conquistano-anche-l-alaska-mary-peltola-AJasFOKC",
+     "title": "Senato Usa, i democratici conquistano anche l’Alaska con Mary Peltola"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/democratici-alaska-senato-mary-peltola/",
+     "title": "I Democratici hanno vinto persino in Alaska"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/midterm_usa_democratici_vincono_alaska_mary_peltola_senato-425731128/",
+     "title": "Midterm Usa, i democratici vincono anche in Alaska: Peltola strappa il seggio ai repubblicani"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari",
+   "summary": "Il supporto varrà per il 2027, 'rafforzerà l'Ucraina al tavolo negoziale'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
+   "pub_ts": 1795000680,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/la-knesset-elegge-presidente-il-fedelissimo-di-eisenkot-kahana_5afbf410-3aa2-4032-8516-500cea82e22a.html",
-     "title": "La Knesset elegge presidente il fedelissimo di Eisenkot Kahana"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
+     "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/allarme-cnn-sulliran-piani-dettagliati-contro-funzionari-usa-ma-la-casa-bianca-frena-ncontro-tra-il-likud-di-netanyahu-e-yashar-di-eisenkot-per-governo-di-unita-nazionale-gli-houthi-a-circa-60-chilometri-dalla-citta-di-aden-sede-del-governo-yemenita-00c3ce13-cc68-418d-8f4e-92de300ce05a.html",
-     "title": "Raid Usa su base iraniana a Qeshm, mine a Hormuz. Knesset, Kahana presidente: battuto il Likud"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/la-commissione-ue-propone-nuovo-prestito-45-miliardi-sostenere-l-ucraina-25-aiuti-militari-AJACPaKC",
+     "title": "La Commissione Ue propone un nuovo prestito da 45 miliardi per sostenere l’Ucraina, 25 in aiuti militari"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/finanziamenti-ue-per-lucraina-altri-45-miliardi-tra-aiuti-civili-e-difesa_4iFvAL0MdIKVK7Pv1O3G6A",
+     "title": "Finanziamenti Ue per l'Ucraina: altri 45 miliardi tra aiuti civili e difesa"
     }
    ]
   },
@@ -190,14 +218,19 @@
    "title": "Lo schiaffo dell’Ucraina: spezzato il ponte di Kerch, l’opera simbolo dello zar",
    "summary": "Non è la prima volta che ma il colpo ieri ha causato il crollo di una arcata. Zelensky: “Usate solo armi prodotte da noi”",
    "link": "https://www.repubblica.it/esteri/2026/11/18/news/smacco_ucraina_spezzato_ponte_di_kerch_opera_simbolo_di_putin-425730774/?rss",
-   "pub_ts": 1794960000,
-   "n_sources": 2,
+   "pub_ts": 1794997114,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/18/news/smacco_ucraina_spezzato_ponte_di_kerch_opera_simbolo_di_putin-425730774/?rss",
      "title": "Lo schiaffo dell’Ucraina: spezzato il ponte di Kerch, l’opera simbolo dello zar"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/ponte-kerch-russia-crimea-ucraina/",
+     "title": "Il ponte di Kerch era un simbolo del regime di Putin"
     },
     {
      "name": "la Repubblica",
@@ -209,84 +242,111 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "“L’attacco al ponte di Kerch è il messaggio di Kiev a Mosca: siamo in partita anche senza Usa”",
-   "summary": "Ruslan Bortnik, direttore dell’Istituto di Politica della capitale ucraina: “Azione preparata da molto tempo, è anche un segnale all’opinione pubblica”",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/intervista_analista_politico_ucraino_attacco_ponte_kerch_e_messaggio_di_kiev_a_mosca-425730518/?rss",
-   "pub_ts": 1794960000,
-   "n_sources": 2,
+   "title": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo",
+   "summary": "La figlia Isabella: 'Occasione per una rilettura della sua eredità culturale'. Ira del Pd e dell'Anpi",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
+   "pub_ts": 1794990803,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/intervista_analista_politico_ucraino_attacco_ponte_kerch_e_messaggio_di_kiev_a_mosca-425730518/?rss",
-     "title": "“L’attacco al ponte di Kerch è il messaggio di Kiev a Mosca: siamo in partita anche senza Usa”"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
+     "title": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/mostra-camera-pino-rauti-palazzo-valdina/",
+     "title": "La Camera ha chiesto di togliere i simboli fascisti dalla mostra su Pino Rauti"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/intervista_analista_politico_ucraino_attacco_ponte_kerch_e_messaggio_di_kiev_a_mosca-425730518/",
-     "title": "“L’attacco al ponte di Kerch è il messaggio di Kiev a Mosca: siamo in partita anche senza Usa”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "“L’Iran ha pronta la bomba sporca su Washington”: il caso irrompe sulla missione di Trump",
-   "summary": "La notizia diffusa dalla Cnn. La Casa Bianca minimizza, ma il presidente promette “una risposta mai vista”. Teheran: è tutto falso",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/iran_pronta_bomba_sporca_washington_caso_irrompe_missione_trump-425730657/?rss",
-   "pub_ts": 1794960000,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/iran_pronta_bomba_sporca_washington_caso_irrompe_missione_trump-425730657/?rss",
-     "title": "“L’Iran ha pronta la bomba sporca su Washington”: il caso irrompe sulla missione di Trump"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/teheran-smentisce-cnn-su-piano-per-bomba-sporca-a-washington_1ff534ff-0097-4f93-b6e6-c62014e420b1.html",
-     "title": "Teheran smentisce Cnn su piano per bomba sporca a Washington"
+     "link": "https://www.repubblica.it/politica/2026/11/17/news/mostra_rauti_camera_organizzata_fdi_polemica-425730267/",
+     "title": "La celebrazione di Rauti con i simboli del fascismo, la Camera: “Rimuoveteli”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
-   "summary": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
-   "pub_ts": 1794958111,
+   "title": "Redde rationem nella Lega, sfiduciato Romeo, arriva Dreosto",
+   "summary": "Solo in 5 con il capogruppo deposto. Il neoeletto: 'Chiuse le polemiche ora al lavoro'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_e03edd1a-4b58-4ade-aee0-ce8fdcc464c0.html",
+   "pub_ts": 1794984096,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_e03edd1a-4b58-4ade-aee0-ce8fdcc464c0.html",
+     "title": "Redde rationem nella Lega, sfiduciato Romeo, arriva Dreosto"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/capogruppo-lega-senato-massimiliano-romeo-sfiduciato-dreosto/",
+     "title": "Il capogruppo della Lega al Senato Massimiliano Romeo è stato sfiduciato: al suo posto è stato nominato Marco Dreosto"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/lega-massimiliano-romeo-capogruppo-senato-deosto-fyst887g",
+     "title": "Ribaltone Lega, Romeo dimissionato da capogruppo al Senato. Al suo posto Marco Deosto"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Crosetto, la guerra è una sola, bisogna attrezzarci a combatterla tutta",
+   "summary": "'La distinzione tra difesa da quella ibrida e quella convenzionale non regge'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-la-guerra-e-una-sola-bisogna-attrezzarci-a-combatterla-tutta_2d825d25-a214-4827-a89e-f7f4dd874612.html",
+   "pub_ts": 1795002617,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
-     "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-la-guerra-e-una-sola-bisogna-attrezzarci-a-combatterla-tutta_2d825d25-a214-4827-a89e-f7f4dd874612.html",
+     "title": "Crosetto, la guerra è una sola, bisogna attrezzarci a combatterla tutta"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/manovra-pioggia-di-6600-emendamenti-dal-condono-alle-pensioni-64fb64d4-e28f-435a-93d0-cc4f6c0567d5.html",
-     "title": "Manovra, pioggia di 6.600 emendamenti: dal condono alle pensioni"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/18/crosetto-guerra-ibrida-convenzionale-notizie/8575869/",
+     "title": "Crosetto in Aula: “Distinzione tra droni, cyber e trincee? Non ha senso, la guerra è una sola” – Video"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Presidente comunità ebraica di Milano, tutti votino Ddl antisemitismo",
+   "summary": "Meghnagi, 'Non è di destra, né di sinistra, date un segnale potente\"",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/presidente-comunita-ebraica-di-milano-tutti-votino-ddl-antisemitismo_993da34e-91ac-4d41-8f8e-62f08e0aba12.html",
+   "pub_ts": 1794936009,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/presidente-comunita-ebraica-di-milano-tutti-votino-ddl-antisemitismo_993da34e-91ac-4d41-8f8e-62f08e0aba12.html",
+     "title": "Presidente comunità ebraica di Milano, tutti votino Ddl antisemitismo"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/milanoquotidiano/rabbino-aggredito-a-milano-la-comunita-ebraica-si-spacca-espellere-quei-ragazzi-fara-piu-danni-che-altro/",
+     "title": "Rabbino aggredito a Milano, la comunità ebraica si spacca: “Espellere quei ragazzi farà più danni che altro”"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang",
-   "summary": "L'ex ceo rompe il silenzio nel giorno dei conti. Dalla Trimestrale utili e ricavi oltre attese. Polemiche sulla figlia e sul marito di Alice. Kress: 'La nostra ambizione non è mai stata così grande'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/mr-invidia-pronto-a-tornare.-ma-il-board-non-prevede-di-reintegrare-jensen-huang_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html",
-   "pub_ts": 1794957928,
-   "n_sources": 7,
+   "title": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
+   "summary": "Lo afferma il presidente Jones",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
+   "pub_ts": 1794990340,
+   "n_sources": 6,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/mr-invidia-pronto-a-tornare.-ma-il-board-non-prevede-di-reintegrare-jensen-huang_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html",
-     "title": "Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang"
-    },
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
@@ -299,13 +359,13 @@
     },
     {
      "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/jensen-huang-pronto-ricoprire-carica-ceo-nvidia/",
-     "title": "Jensen Huang è pronto per ricoprire la carica di CEO di Nvidia"
+     "link": "https://www.punto-informatico.it/nvidia-nessun-ritorno-jensen-huang-addio-cina/",
+     "title": "NVIDIA: nessun ritorno di Jensen Huang e addio alla Cina"
     },
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/17/jensen-huang-nvidia-ritorno-amministratore-delegator/",
-     "title": "Jensen Huang ha detto che tornerebbe a fare il CEO di Nvidia, se glielo chiedessero"
+     "title": "Nvidia ha escluso il ritorno di Jensen Huang"
     },
     {
      "name": "Adnkronos Esteri",
@@ -322,11 +382,48 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Crosetto: 'Contro la guerra ibrida risorse per 6 miliardi nei prossimi anni'",
+   "summary": "Per il triennio 26-28 programmati quasi 2 mld, circa il 40% in più del triennio precedente. La diretta al Senato",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-contro-la-guerra-ibrida-risorse-per-6-miliardi-nei-prossimi-anni_c8b81495-423d-42a6-aab7-030b0af8f27d.html",
+   "pub_ts": 1795003605,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-contro-la-guerra-ibrida-risorse-per-6-miliardi-nei-prossimi-anni_c8b81495-423d-42a6-aab7-030b0af8f27d.html",
+     "title": "Crosetto: 'Contro la guerra ibrida risorse per 6 miliardi nei prossimi anni'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/informativa-di-crosetto-alla-camera-sulla-guerra-ibrida-e-cognitiva_0674c83b-3394-4c5c-b1ec-c049e364d8b6.html",
+     "title": "Informativa di Crosetto al Senato sulla guerra ibrida e cognitiva"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/non-vinceremo-guerra-ibrida-solo-6-miliardi/",
+     "title": "Non vinceremo la guerra ibrida solo con 6 miliardi"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/18/news/minacce_ibride_crosetto_arma_cybersicurezza_5_mila_uomini_6_miliardi-425731657/",
+     "title": "Minacce ibride, Crosetto alla Camera: “È guerra cognitiva, serve un’arma cyber da 5 mila uomini”"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/cybersicurezza-guido-crosetto-contro-le-minacce-ibride-oltre-6-mld-nei-prossimi-anni-allarmi-bombe-guerra-cognitiva-informativa-camera-ministro-difesa-cac3fe55-4244-4772-9ea1-cb1cda30faf9.html",
+     "title": "Cybersicurezza, Guido Crosetto: \"Contro le minacce ibride destinati oltre 6 mld nei prossimi anni\""
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "Apple down, problemi per iCloud, App Store, Apple Music e altri servizi online. Cos’è accaduto",
-   "summary": "Diversi servizi online di Apple sono ancora interessati da un'interruzione che sta provocando difficoltà di accesso agli account, problemi con il download delle applicazioni e malfunzionamenti di alcune piattaforme. L'azienda ha confermato le anomalie addebitandole ad un...",
+   "summary": "Diversi servizi online di Apple sono stati interessati da un'interruzione che ha provocato difficoltà di accesso agli account, problemi con il download delle applicazioni e malfunzionamenti di alcune piattaforme. L'azienda ha confermato le anomalie addebitandole ad un...",
    "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/apple_down_mondiale_diversi_servizi-425730450/?rss",
-   "pub_ts": 1794951409,
-   "n_sources": 4,
+   "pub_ts": 1794992436,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -343,82 +440,73 @@
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/apple-segnala-problemi-alcuni-suoi-servizi-AJrQ5yJC",
      "title": "Apple down, problemi per iCloud, App Store e Music: «Nessun attacco hacker»"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/17/apple-down-icloud-app-store-notizie/8575336/",
-     "title": "Apple down, problemi ai servizi della multinazionale tech: segnalazioni per iCloud e App Store"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "“Io ti vedo”: le parole di ChatGPT al ragazzo morto suicida in Cosa resterà di questi anni umani",
-   "summary": "Un ragazzo di 16 anni si toglie la vita dopo mesi di conversazioni con ChatGPT, diventato il suo confidente più intimo. È la storia raccontata nel primo capitolo, che pubblichiamo in anteprima, di Cosa resterà di questi anni umani , un nuovo saggio edito da Apogeo sulle...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/chatgpt-suicidio-libro-cosa-restera-di-questi-anni-umani-425728638/?rss",
-   "pub_ts": 1794952632,
+   "title": "Un modello IA di OpenAI ha trova una falla critica in Java",
+   "summary": "L’azienda di cybersecurity Calif ha scoperto in tre ore Java4Shell con l’aiuto del modello GPT-6 Cyber. La falla, critica e potenzialmente molto pericolosa, è stata corretta con l’aiuto del modello GPT-6 Cyber. Alcuni sistemi Java consentono attacchi da remoto prima...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/ia_openai_falla_java-425731999/?rss",
+   "pub_ts": 1795003834,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/chatgpt-suicidio-libro-cosa-restera-di-questi-anni-umani-425728638/?rss",
-     "title": "“Io ti vedo”: le parole di ChatGPT al ragazzo morto suicida in Cosa resterà di questi anni umani"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/ia_openai_falla_java-425731999/?rss",
+     "title": "Un modello IA di OpenAI ha trova una falla critica in Java"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/17/leihani-zoric-vinto-mondiali-surf-2026/",
-     "title": "E voi cosa facevate a 14 anni?"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft",
-   "summary": "Opera in tre volumi, integrazione nel gemello digitale della Basilica",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/17/pittori-e-mosaicisti-a-san-pietro-progetto-della-fabbrica-di-san-pietro-e-microsoft_a48644b2-5113-4a30-9e28-7e22ea288e51.html",
-   "pub_ts": 1794940267,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/17/pittori-e-mosaicisti-a-san-pietro-progetto-della-fabbrica-di-san-pietro-e-microsoft_a48644b2-5113-4a30-9e28-7e22ea288e51.html",
-     "title": "'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft"
-    },
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/pittori-e-mosaicisti-a-san-pietro-progetto-della-fabbrica-di-san-pietro-e-microsoft_167995a2-65fc-4d94-bb14-e3c69bafb0a9.html",
-     "title": "'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft"
+     "link": "https://www.ilpost.it/2026/11/18/scoperta-falla-java-intelligenza-artificiale/",
+     "title": "Un’azienda ha scoperto con l’AI una falla nel linguaggio di programmazione Java"
     }
    ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Barbara D'Urso, 'sabato sarò a Ballando, ma mi sono sentita profondamente umiliata'",
-   "summary": "Al Tg1: \"La famiglia del programma aveva protetto un concorrente, mi aspettavo lo stesso\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/17/barbara-durso-sabato-saro-a-ballando-ma-mi-sono-sentita-profondamente-umiliata_7d15e7ee-13b9-4d9b-acba-4944877f6dc1.html",
-   "pub_ts": 1794947793,
-   "n_sources": 3,
+   "title": "Aifa, 'già al lavoro per la valutazione del nuovo farmaco contro tumore al pancreas'",
+   "summary": "'Obiettivo favorire un accesso quanto più rapido possibile al trattamento'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/aifa-gia-al-lavoro-per-valutazione-nuovo-farmaco-contro-tumore-pancreas_e2137b6b-2fba-4e03-9320-47ea3f17cea6.html",
+   "pub_ts": 1795005074,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/aifa-gia-al-lavoro-per-valutazione-nuovo-farmaco-contro-tumore-pancreas_e2137b6b-2fba-4e03-9320-47ea3f17cea6.html",
+     "title": "Aifa, 'già al lavoro per la valutazione del nuovo farmaco contro tumore al pancreas'"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/commissione-europea-approvato-commercializzazione-nuovo-farmaco-tumore-pancreas/",
+     "title": "La Commissione europea ha approvato la commercializzazione di un nuovo farmaco per trattare il tumore al pancreas"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Bianco di Daniele Vicari in sala a gennaio, Alessandro Borghi è Bonatti",
+   "summary": "Diffuso il teaser della pellicola che racconta l'impresa del Frêney",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/11/17/bianco-di-daniele-vicari-in-sala-a-gennaio-alessandro-borghi-e-bonatti_d7b6e976-5434-412e-9ed9-6c4fde42e902.html",
+   "pub_ts": 1795003465,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/17/barbara-durso-sabato-saro-a-ballando-ma-mi-sono-sentita-profondamente-umiliata_7d15e7ee-13b9-4d9b-acba-4944877f6dc1.html",
-     "title": "Barbara D'Urso, 'sabato sarò a Ballando, ma mi sono sentita profondamente umiliata'"
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/11/17/bianco-di-daniele-vicari-in-sala-a-gennaio-alessandro-borghi-e-bonatti_d7b6e976-5434-412e-9ed9-6c4fde42e902.html",
+     "title": "Bianco di Daniele Vicari in sala a gennaio, Alessandro Borghi è Bonatti"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/17/barbara-durso-tg1-abbandonata-ballando-non-mollo-video/",
-     "title": "Lo sfogo di Barbara D’Urso al Tg1: «Mi sono sentita abbandonata da Ballando, ma sabato ci sarò. Non mollo» – Il video"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/barbara-durso-a-ballando-mi-sono-sentita-profondamente-umiliata-ed34810d-3f21-4891-b947-6f63f95a11b2.html",
-     "title": "Barbara D'Urso: \"A Ballando mi sono sentita profondamente umiliata\""
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/18/bianco-film-bonatti-borghi-notizie/8575949/",
+     "title": "“Bianco”, le prime spettacolari immagini del film su Walter Bonatti (Alessandro Borghi) e la tragedia del Frêney"
     }
    ],
    "subtype": "cultura"
@@ -426,25 +514,48 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Robert Pattinson è il nuovo James Bond",
-   "summary": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
-   "pub_ts": 1794941280,
+   "title": "Intelligenza artificiale: come farà l’Europa a vincere la corsa?",
+   "summary": "In un mondo che fatica a reperire energia pulita, la corsa dell’IA non sarà vinta dai modelli più grandi, ma da quelli più efficienti. E l’Europa cerca di mettersi in proprio L'articolo Intelligenza artificiale: come farà l’Europa a vincere la corsa? sembra essere il primo su Galileo .",
+   "link": "https://www.galileonet.it/intelligenza-artificiale-consumo-efficienza-giotto-sovranita-unione-europea/",
+   "pub_ts": 1795003861,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
-     "title": "Robert Pattinson è il nuovo James Bond"
+     "name": "Galileo",
+     "link": "https://www.galileonet.it/intelligenza-artificiale-consumo-efficienza-giotto-sovranita-unione-europea/",
+     "title": "Intelligenza artificiale: come farà l’Europa a vincere la corsa?"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/robert-pattinson-e-il-nuovo-007-lagente-segreto-cambia-volto-e-diventa-millennial-851068cb-6de3-45fc-a109-75c5a9ccdfe1.html",
-     "title": "Robert Pattinson è il nuovo 007: l'agente segreto cambia volto e diventa millennial"
+     "link": "https://www.rainews.it/articoli/2026/11/dario-amodei-lo-scienziato-che-vuole-frenare-la-corsa-che-guida-be8d9ec7-76cd-4eaf-859c-2b33d05966ae.html",
+     "title": "Dario Amodei, il profeta della prudenza che guida la corsa all'intelligenza artificiale"
     }
    ],
-   "subtype": "cultura"
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "TG2 Italia Europa del 18/11/2026",
+   "summary": "Direttore Antonio Preziosi",
+   "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-18112026-ca33a1c6-3ee7-44ab-9468-2d685d4b599e.html",
+   "pub_ts": 1794996147,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-18112026-ca33a1c6-3ee7-44ab-9468-2d685d4b599e.html",
+     "title": "TG2 Italia Europa del 18/11/2026"
+    },
+    {
+     "name": "Galileo",
+     "link": "https://www.galileonet.it/influenza-dati-monitoraggio-respirvirnet/",
+     "title": "Influenza 2026, ecco i virus che circolano in italia"
+    }
+   ],
+   "subtype": "scienza"
   },
   {
    "category": "varia",
@@ -468,95 +579,50 @@
     }
    ],
    "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Ogni anno 5.000 casi di tumore per Hpv, 'vaccinare tutti almeno fino a 30 anni'",
-   "summary": "Appello di Lilt, Fondazione IncontraDonna, Acto Italia, Loto e Cittadinanzattiva",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/17/ogni-anno-5.000-casi-di-tumore-per-hpv-vaccinare-tutti-almeno_02fc4d73-5818-49f4-b240-672af8933864.html",
-   "pub_ts": 1794936203,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/17/ogni-anno-5.000-casi-di-tumore-per-hpv-vaccinare-tutti-almeno_02fc4d73-5818-49f4-b240-672af8933864.html",
-     "title": "Ogni anno 5.000 casi di tumore per Hpv, 'vaccinare tutti almeno fino a 30 anni'"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Tumore pancreas, da Commissione europea ok a farmaco che aumenta sopravvivenza",
-   "summary": "Daraxonrasib per forma metastatica. Ora agenzie nazionali dovranno decidere rimborsabilità",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/17/tumore-pancreas-da-commissione-europea-ok-a-farmaco-che-aumenta-sopravvivenza_0ebc1341-fc71-4ea1-af47-50defb2ffbad.html",
-   "pub_ts": 1794935802,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/17/tumore-pancreas-da-commissione-europea-ok-a-farmaco-che-aumenta-sopravvivenza_0ebc1341-fc71-4ea1-af47-50defb2ffbad.html",
-     "title": "Tumore pancreas, da Commissione europea ok a farmaco che aumenta sopravvivenza"
-    }
-   ],
-   "subtype": "scienza"
   }
  ],
  "articles": [
   {
-   "title": "Dal campo largo 18 emendamenti comuni, ma è alta tensione sulla patrimoniale",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/dal-campo-largo-18-emendamenti-comuni-ma-e-alta-tensione-sulla-patrimoniale_683d5574-d857-447f-9100-12057733f292.html",
-   "description": "Avs: 'Se non è nel programma non c'è coalizione'. M5s blocca i lavori sulla manovra poi l'intesa",
-   "pub_ts": 1794960000,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Emendamento al dl sicurezza, divieto di social agli under 13",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13-_f50ee740-ac1a-426d-bb89-b77139abfd54.html",
-   "description": "Dai 13 ai 16 anni possibilità di gestirne uno legato a quello dei genitori",
-   "pub_ts": 1794945454,
+   "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ddl-antisemitismo-le-lacrime-di-fiano-lascio-il-pd-_ad0d5ec9-32e1-477a-8239-fc0659fef573.html",
+   "description": "Schlein lo chiama per fermarlo, ma il passo è irrevocabile",
+   "pub_ts": 1795005360,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ddl antisemitismo è legge.No di M5s, Avs,nel Pd strappo dei riformisti",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/la-camera-approva-il-ddl-antisemitismo-147-i-si.-e-legge_fef81d69-9cd3-4bef-8409-79e71f8c4e8a.html",
-   "description": "Alla Camera 147 sì. La spaccatura nei dem. Da Iv ok insieme alla maggioranza",
-   "pub_ts": 1794958063,
+   "title": "Identificato il nickname Mikhail Andropov: 'Non ha mandato lui le mail nelle scuole'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/18/identificato-nickname-mikhail-andropov-non-ha-mandato-lui-le-mail-nelle-scuole_d4f1795b-c0ab-4f23-b2fc-2a3050b7fd28.html",
+   "description": "Polizia: 'Si trova in Usa. Ha segnalato l'utilizzo improprio della sua identità digilale'",
+   "pub_ts": 1795004317,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
-   "description": "La figlia Isabella: 'Occasione per una rilettura della sua eredità culturale'. Ira del Pd e dell'Anpi",
-   "pub_ts": 1794955738,
+   "title": "Putin e Trump si stringono la mano a Shenzhen",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+   "description": "Xi: \"Un mondo più stabile grazie al rapporto Pechino-Mosca\"",
+   "pub_ts": 1795005657,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Romeo sostituito al Senato, Dreosto eletto capogruppo della Lega",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_f6811121-fa51-43eb-959a-34b8f9315020.html",
-   "description": "L'assemblea dei senatori è durata due ore",
-   "pub_ts": 1794953892,
-   "source": "ANSA Politica",
+   "title": "Midterm Usa, i democratici vincono anche in Alaska: Peltola strappa il seggio ai repubblicani",
+   "link": "https://www.repubblica.it/esteri/2026/11/18/news/midterm_usa_democratici_vincono_alaska_mary_peltola_senato-425731128/?rss",
+   "description": "Sconfitto il senatore uscente Dan Sullivan, in carica da due mandati. Si chiude l'ultima sfida per il Senato: i dem conquistano 56 seggi contro i 44 del Gop",
+   "pub_ts": 1795004827,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "La Knesset elegge presidente il fedelissimo di Eisenkot Kahana",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/la-knesset-elegge-presidente-il-fedelissimo-di-eisenkot-kahana_5afbf410-3aa2-4032-8516-500cea82e22a.html",
-   "description": "Dopo oltre 6 ore di ostruzionismo del Likud",
-   "pub_ts": 1794971460,
+   "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
+   "description": "Il supporto varrà per il 2027, 'rafforzerà l'Ucraina al tavolo negoziale'",
+   "pub_ts": 1795000680,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
@@ -565,43 +631,61 @@
    "title": "Lo schiaffo dell’Ucraina: spezzato il ponte di Kerch, l’opera simbolo dello zar",
    "link": "https://www.repubblica.it/esteri/2026/11/18/news/smacco_ucraina_spezzato_ponte_di_kerch_opera_simbolo_di_putin-425730774/?rss",
    "description": "Non è la prima volta che ma il colpo ieri ha causato il crollo di una arcata. Zelensky: “Usate solo armi prodotte da noi”",
-   "pub_ts": 1794960000,
+   "pub_ts": 1794997114,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "“L’attacco al ponte di Kerch è il messaggio di Kiev a Mosca: siamo in partita anche senza Usa”",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/intervista_analista_politico_ucraino_attacco_ponte_kerch_e_messaggio_di_kiev_a_mosca-425730518/?rss",
-   "description": "Ruslan Bortnik, direttore dell’Istituto di Politica della capitale ucraina: “Azione preparata da molto tempo, è anche un segnale all’opinione pubblica”",
-   "pub_ts": 1794960000,
-   "source": "Repubblica Esteri",
+   "title": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
+   "description": "La figlia Isabella: 'Occasione per una rilettura della sua eredità culturale'. Ira del Pd e dell'Anpi",
+   "pub_ts": 1794990803,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "“L’Iran ha pronta la bomba sporca su Washington”: il caso irrompe sulla missione di Trump",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/iran_pronta_bomba_sporca_washington_caso_irrompe_missione_trump-425730657/?rss",
-   "description": "La notizia diffusa dalla Cnn. La Casa Bianca minimizza, ma il presidente promette “una risposta mai vista”. Teheran: è tutto falso",
-   "pub_ts": 1794960000,
-   "source": "Repubblica Esteri",
+   "title": "Redde rationem nella Lega, sfiduciato Romeo, arriva Dreosto",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_e03edd1a-4b58-4ade-aee0-ce8fdcc464c0.html",
+   "description": "Solo in 5 con il capogruppo deposto. Il neoeletto: 'Chiuse le polemiche ora al lavoro'",
+   "pub_ts": 1794984096,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
-   "description": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
-   "pub_ts": 1794958111,
-   "source": "ANSA",
+   "title": "Crosetto, la guerra è una sola, bisogna attrezzarci a combatterla tutta",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-la-guerra-e-una-sola-bisogna-attrezzarci-a-combatterla-tutta_2d825d25-a214-4827-a89e-f7f4dd874612.html",
+   "description": "'La distinzione tra difesa da quella ibrida e quella convenzionale non regge'",
+   "pub_ts": 1795002617,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/mr-invidia-pronto-a-tornare.-ma-il-board-non-prevede-di-reintegrare-jensen-huang_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html",
-   "description": "L'ex ceo rompe il silenzio nel giorno dei conti. Dalla Trimestrale utili e ricavi oltre attese. Polemiche sulla figlia e sul marito di Alice. Kress: 'La nostra ambizione non è mai stata così grande'",
-   "pub_ts": 1794957928,
+   "title": "Presidente comunità ebraica di Milano, tutti votino Ddl antisemitismo",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/presidente-comunita-ebraica-di-milano-tutti-votino-ddl-antisemitismo_993da34e-91ac-4d41-8f8e-62f08e0aba12.html",
+   "description": "Meghnagi, 'Non è di destra, né di sinistra, date un segnale potente\"",
+   "pub_ts": 1794936009,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
+   "description": "Lo afferma il presidente Jones",
+   "pub_ts": 1794990340,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Crosetto: 'Contro la guerra ibrida risorse per 6 miliardi nei prossimi anni'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-contro-la-guerra-ibrida-risorse-per-6-miliardi-nei-prossimi-anni_c8b81495-423d-42a6-aab7-030b0af8f27d.html",
+   "description": "Per il triennio 26-28 programmati quasi 2 mld, circa il 40% in più del triennio precedente. La diretta al Senato",
+   "pub_ts": 1795003605,
    "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
@@ -609,45 +693,54 @@
   {
    "title": "Apple down, problemi per iCloud, App Store, Apple Music e altri servizi online. Cos’è accaduto",
    "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/apple_down_mondiale_diversi_servizi-425730450/?rss",
-   "description": "Diversi servizi online di Apple sono ancora interessati da un'interruzione che sta provocando difficoltà di accesso agli account, problemi con il download delle applicazioni e malfunzionamenti di alcune piattaforme. L'azienda ha confermato le anomalie addebitandole ad un...",
-   "pub_ts": 1794951409,
+   "description": "Diversi servizi online di Apple sono stati interessati da un'interruzione che ha provocato difficoltà di accesso agli account, problemi con il download delle applicazioni e malfunzionamenti di alcune piattaforme. L'azienda ha confermato le anomalie addebitandole ad un...",
+   "pub_ts": 1794992436,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "“Io ti vedo”: le parole di ChatGPT al ragazzo morto suicida in Cosa resterà di questi anni umani",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/chatgpt-suicidio-libro-cosa-restera-di-questi-anni-umani-425728638/?rss",
-   "description": "Un ragazzo di 16 anni si toglie la vita dopo mesi di conversazioni con ChatGPT, diventato il suo confidente più intimo. È la storia raccontata nel primo capitolo, che pubblichiamo in anteprima, di Cosa resterà di questi anni umani , un nuovo saggio edito da Apogeo sulle...",
-   "pub_ts": 1794952632,
+   "title": "Un modello IA di OpenAI ha trova una falla critica in Java",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/ia_openai_falla_java-425731999/?rss",
+   "description": "L’azienda di cybersecurity Calif ha scoperto in tre ore Java4Shell con l’aiuto del modello GPT-6 Cyber. La falla, critica e potenzialmente molto pericolosa, è stata corretta con l’aiuto del modello GPT-6 Cyber. Alcuni sistemi Java consentono attacchi da remoto prima...",
+   "pub_ts": 1795003834,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/17/pittori-e-mosaicisti-a-san-pietro-progetto-della-fabbrica-di-san-pietro-e-microsoft_a48644b2-5113-4a30-9e28-7e22ea288e51.html",
-   "description": "Opera in tre volumi, integrazione nel gemello digitale della Basilica",
-   "pub_ts": 1794940267,
-   "source": "ANSA Cultura",
+   "title": "Aifa, 'già al lavoro per la valutazione del nuovo farmaco contro tumore al pancreas'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/aifa-gia-al-lavoro-per-valutazione-nuovo-farmaco-contro-tumore-pancreas_e2137b6b-2fba-4e03-9320-47ea3f17cea6.html",
+   "description": "'Obiettivo favorire un accesso quanto più rapido possibile al trattamento'",
+   "pub_ts": 1795005074,
+   "source": "ANSA Salute",
    "source_priority": 1,
-   "section": "tech"
+   "section": "varia"
   },
   {
-   "title": "Barbara D'Urso, 'sabato sarò a Ballando, ma mi sono sentita profondamente umiliata'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/17/barbara-durso-sabato-saro-a-ballando-ma-mi-sono-sentita-profondamente-umiliata_7d15e7ee-13b9-4d9b-acba-4944877f6dc1.html",
-   "description": "Al Tg1: \"La famiglia del programma aveva protetto un concorrente, mi aspettavo lo stesso\"",
-   "pub_ts": 1794947793,
+   "title": "Bianco di Daniele Vicari in sala a gennaio, Alessandro Borghi è Bonatti",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/11/17/bianco-di-daniele-vicari-in-sala-a-gennaio-alessandro-borghi-e-bonatti_d7b6e976-5434-412e-9ed9-6c4fde42e902.html",
+   "description": "Diffuso il teaser della pellicola che racconta l'impresa del Frêney",
+   "pub_ts": 1795003465,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Robert Pattinson è il nuovo James Bond",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/16/robert-pattinson-e-il-nuovo-james-bond_6ca3dc5b-6ce7-40b0-8db6-09b55155759a.html",
-   "description": "L'annuncio di Amazon sull'erede di Connery e Craig scioglie settimane di indiscrezioni",
-   "pub_ts": 1794941280,
-   "source": "ANSA Cultura",
+   "title": "Intelligenza artificiale: come farà l’Europa a vincere la corsa?",
+   "link": "https://www.galileonet.it/intelligenza-artificiale-consumo-efficienza-giotto-sovranita-unione-europea/",
+   "description": "In un mondo che fatica a reperire energia pulita, la corsa dell’IA non sarà vinta dai modelli più grandi, ma da quelli più efficienti. E l’Europa cerca di mettersi in proprio L'articolo Intelligenza artificiale: come farà l’Europa a vincere la corsa? sembra essere il primo su Galileo .",
+   "pub_ts": 1795003861,
+   "source": "Galileo",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "TG2 Italia Europa del 18/11/2026",
+   "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-18112026-ca33a1c6-3ee7-44ab-9468-2d685d4b599e.html",
+   "description": "Direttore Antonio Preziosi",
+   "pub_ts": 1794996147,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "varia"
   },
@@ -657,24 +750,6 @@
    "description": "Il 27 novembre focus sui dati dell'Osservatorio Step, nel 2025 uccise 97 donne",
    "pub_ts": 1794932259,
    "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Ogni anno 5.000 casi di tumore per Hpv, 'vaccinare tutti almeno fino a 30 anni'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/17/ogni-anno-5.000-casi-di-tumore-per-hpv-vaccinare-tutti-almeno_02fc4d73-5818-49f4-b240-672af8933864.html",
-   "description": "Appello di Lilt, Fondazione IncontraDonna, Acto Italia, Loto e Cittadinanzattiva",
-   "pub_ts": 1794936203,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Tumore pancreas, da Commissione europea ok a farmaco che aumenta sopravvivenza",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/17/tumore-pancreas-da-commissione-europea-ok-a-farmaco-che-aumenta-sopravvivenza_0ebc1341-fc71-4ea1-af47-50defb2ffbad.html",
-   "description": "Daraxonrasib per forma metastatica. Ora agenzie nazionali dovranno decidere rimborsabilità",
-   "pub_ts": 1794935802,
-   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   }
