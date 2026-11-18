@@ -1,6 +1,6 @@
 {
- "generated_at": 1795006372,
- "updated_at": 1795006372,
+ "generated_at": 1795036581,
+ "updated_at": 1795036581,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,12 +9,153 @@
  "items": [
   {
    "category": "politica",
+   "area": "mondo",
+   "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump",
+   "summary": "Russia e Cina: 'Ordine mondiale multipolare, noi la stabilità'. Il tycoon parla con lo zar",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+   "pub_ts": 1795034145,
+   "n_sources": 8,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+     "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/putin_xi_trump_perche_trilaterale_shenzhen_non_e_nuova_yalta-425732121/?rss",
+     "title": "Putin, Xi e Trump, perché il trilaterale a Shenzhen non è una nuova Yalta"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9f045012-9a7e-444b-85b3-960fc4c6e857.html",
+     "title": "Putin e Trump si stringono la mano a Shenzhen"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/18/putin-incontro-xi-sanzioni-ue/",
+     "title": "Xi rafforza l’intesa con Putin, poi l’abbraccio con Trump che rompe con la tradizione: cosa è successo a Shenzhen. Domani il trilaterale"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/accoglienza-per-trump-a-shenzhen-con-i-massimi-onori-oltre-il-protocollo--4bcc755d-aa03-4490-bcbe-190f0f31bbb5.html",
+     "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/putin_xi_trump_perche_trilaterale_shenzhen_non_e_nuova_yalta-425732121/",
+     "title": "Putin, Xi e Trump, perché il trilaterale a Shenzhen non è una nuova Yalta"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/trump-shenzhen-xi-jinping-putin-tappeto-rosso-ultime-notizie-oggi-rdu6ogvn",
+     "title": "Trump, Putin e Xi a Shenzhen. Attesa per il trilaterale di giovedì"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/vertice-shenzhen-abbraccio-trump-xi_39uFhIwSJSGcVGLkx2LSWI",
+     "title": "Vertice Shenzhen, Xi come Mao: 'storico' abbraccio a Trump in aeroporto"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "I dem della Camera rieleggono Jeffries leader, sarà il primo speaker afroamericano",
+   "summary": "Alla guida della Camera da gennaio. Un anno fa il suo storico discorso fiume contro Trump",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_cfc90312-4555-4996-ba6c-3406dd68f9ba.html",
+   "pub_ts": 1795031744,
+   "n_sources": 7,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_cfc90312-4555-4996-ba6c-3406dd68f9ba.html",
+     "title": "I dem della Camera rieleggono Jeffries leader, sarà il primo speaker afroamericano"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/hakeem_jeffries_eletto_speaker_camera_usa-425733019/?rss",
+     "title": "Jeffries eletto speaker alla Camera: primo nero della storia americana"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_77fee938-f702-44bf-bc2b-f0f121f6462f.html",
+     "title": "I dem della Camera rieleggono Jeffries leader, sarà primo speaker afroamericano"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/hakeem-jeffries-scelto-dai-democratici-per-la-camera-sara-il-primo-speaker-afroamericano-speaker-88a5071d-b0a5-41d0-be48-713f594283f6.html",
+     "title": "Hakeem Jeffries scelto dai democratici per la Camera, sarà il primo speaker afroamericano"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/democratici-candidato-presidenza-camera-hakeem-jeffries/",
+     "title": "I Democratici hanno scelto Hakeem Jeffries come candidato alla presidenza della Camera statunitense"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/democratici-usa-nominano-hakeem-jeffries-nuovo-speaker-camera-sara-primo-afroamericano-AJlIduKC",
+     "title": "Democratici Usa nominano Hakeem Jeffries nuovo speaker della Camera, sarà il primo afroamericano"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/18/hakeem-jeffries-leader-democratici-camera-notizie/8576326/",
+     "title": "Usa, i democratici scelgono Hakeem Jeffries come candidato alla presidenza della Camera: sarà il primo speaker afroamericano"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Alta tensione nella Lega dopo la sfiducia in Senato di Romeo",
+   "summary": "Insorge la Lombardia. Garavaglia: 'Errore politico', Fontana: 'Trovare sfogo ai malumori'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
+   "pub_ts": 1795029372,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
+     "title": "Alta tensione nella Lega dopo la sfiducia in Senato di Romeo"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://milano.repubblica.it/cronaca/2026/11/18/news/sfiducia_romeo_capogruppo_lega_fontana_errore_offesa_portato_contributo_partito_lombardia-425731968/",
+     "title": "Lega, assemblea infuocata per la cacciata di Romeo. Fontana: “Errore, crea disagio”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/capogruppo-lega-senato-massimiliano-romeo-sfiduciato-dreosto/",
+     "title": "Il capogruppo della Lega al Senato Massimiliano Romeo è stato sfiduciato: al suo posto è stato nominato Marco Dreosto"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/lega-massimiliano-romeo-capogruppo-senato-deosto-fyst887g",
+     "title": "Ribaltone Lega, Romeo dimissionato da capogruppo al Senato. Al suo posto Marco Deosto"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/18/lega-sfiducia-romeo-fontana-garavaglia-notizie/8576362/",
+     "title": "La rivolta della Lega in Lombardia, Fontana: “Errore sfiduciare Romeo, disagio rimane”. Garavaglia: “Finita peggio di quanto pensassi”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/milanoquotidiano/lega-fontana-difende-romeo-dopo-la-sfiducia-un-errore-ha-dato-voce-al-disagio-dei-militanti/",
+     "title": "Lega, Fontana difende Romeo dopo la sfiducia: “Un errore, ha dato voce al disagio dei militanti”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "italia",
    "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo",
-   "summary": "Schlein lo chiama per fermarlo, ma il passo è irrevocabile",
+   "summary": "Ministro israeliano Sa'ar: 'Ok tolleranza zero'. Fratoianni: testo randello politico destra",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ddl-antisemitismo-le-lacrime-di-fiano-lascio-il-pd-_ad0d5ec9-32e1-477a-8239-fc0659fef573.html",
-   "pub_ts": 1795005360,
-   "n_sources": 7,
+   "pub_ts": 1795029479,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
@@ -26,16 +167,6 @@
      "name": "ANSA Politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/fiano-lascia-il-pd-per-il-no-alla-legge-sullantisemitismo_b854c8dc-2532-421f-9fe8-18b364801c1f.html",
      "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/ddl-antisemitismo-il-pd-non-vota-la-legge-ed-emanuele-fiano-lascia-il-partito-cc7ee126-faed-4ffa-90a1-9cad85701161.html",
-     "title": "Ddl Antisemitismo, il Pd non vota la legge ed Emanuele Fiano lascia il partito"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://milano.repubblica.it/cronaca/2026/11/18/news/emanuele_fiano_lascio_pd_dolore_ddl_antisemitismo_limite_invalicabile-425731658/",
-     "title": "Emanuele Fiano: “Lascio il Pd con dolore, ma il ddl antisemitismo era un limite invalicabile”"
     },
     {
      "name": "Domani",
@@ -57,116 +188,22 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Identificato il nickname Mikhail Andropov: 'Non ha mandato lui le mail nelle scuole'",
-   "summary": "Polizia: 'Si trova in Usa. Ha segnalato l'utilizzo improprio della sua identità digilale'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/18/identificato-nickname-mikhail-andropov-non-ha-mandato-lui-le-mail-nelle-scuole_d4f1795b-c0ab-4f23-b2fc-2a3050b7fd28.html",
-   "pub_ts": 1795004317,
-   "n_sources": 7,
+   "title": "Media, con Mary Peltola i dem vincono anche in Alaska",
+   "summary": "Sconfitto il senatore repubblicano Dan S. Sullivan in carica da due mandati",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_58944bde-6c8e-473f-aa22-5e1e0815f550.html",
+   "pub_ts": 1795031267,
+   "n_sources": 4,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/18/identificato-nickname-mikhail-andropov-non-ha-mandato-lui-le-mail-nelle-scuole_d4f1795b-c0ab-4f23-b2fc-2a3050b7fd28.html",
-     "title": "Identificato il nickname Mikhail Andropov: 'Non ha mandato lui le mail nelle scuole'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/18/allarmi-bomba-scuole-individuato-mikhail-andropov-mail-usa/",
-     "title": "Allarmi bomba nelle scuole, rintracciato negli Usa “Mikhail Andropov”: ma è estraneo ai fatti. «Rubato il mio pseudonimo on line»"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/allarmi-bomba-mikhail-andropov-e-stato-identificato-in-america-dxxsawfh",
-     "title": "Allarmi bomba, Mikhail Andropov identificato negli Usa. L’Fbi: «Ma non c’entra con le mail»"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/allarmi-bomba-nelle-scuole-identificato-nickname-mikhail-andropov-negli-stati-uniti-f82ef12d-efc5-480c-93da-b873ca6497dd.html",
-     "title": "Allarmi bomba nelle scuole, identificato nickname \"Mikhail Andropov\" negli Stati Uniti"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/18/news/allarmi_bomba_la_polizia_identifica_mikhail_andropov_in_usa-425732026/",
-     "title": "Allarmi bomba, individuato l’utente Mikhail Andropov: \"Non c’entra niente con gli attacchi\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/18/allarme-bomba-scuole-italiane-mikhail-andropov-notizie/8575933/",
-     "title": "Allarmi bomba nelle scuole, identificato in Usa il vero “Mikhail Andropov”: ha denunciato l’utilizzo improprio della sua identità digitale"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/allarmi-bomba-a-scuola-identificato-il-misterioso-mikhail-andropov-poi-il-colpo-di-scena/",
-     "title": "Allarmi bomba a scuola, identificato il misterioso “Mikhail Andropov”. Poi il colpo di scena"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Putin e Trump si stringono la mano a Shenzhen",
-   "summary": "Xi: \"Un mondo più stabile grazie al rapporto Pechino-Mosca\"",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-   "pub_ts": 1795005657,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-     "title": "Putin e Trump si stringono la mano a Shenzhen"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/putin_xi_trump_perche_trilaterale_shenzhen_non_e_nuova_yalta-425732121/?rss",
-     "title": "Putin, Xi e Trump, perché il trilaterale a Shenzhen non è una nuova Yalta"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9f045012-9a7e-444b-85b3-960fc4c6e857.html",
-     "title": "Putin e Trump si stringono la mano a Shenzhen"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/putin_xi_trump_perche_trilaterale_shenzhen_non_e_nuova_yalta-425732121/",
-     "title": "Putin, Xi e Trump, perché il trilaterale a Shenzhen non è una nuova Yalta"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/trump-shenzhen-xi-jinping-putin-tappeto-rosso-ultime-notizie-oggi-rdu6ogvn",
-     "title": "Trump a Shenzhen, Xi lo accoglie con il tappeto rosso. Il leader cinese a Putin: «Relazioni incrollabili»"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/vertice-shenzhen-cosa-vogliono-trump-putin-xi_3kmcFCzR1mmNQHlaPwHylO",
-     "title": "Vertice Shenzhen, analisti Csis: \"Trump cerca svolta storica, Putin punta a decidere il futuro dell'Ucraina\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Midterm Usa, i democratici vincono anche in Alaska: Peltola strappa il seggio ai repubblicani",
-   "summary": "Sconfitto il senatore uscente Dan Sullivan, in carica da due mandati. Si chiude l'ultima sfida per il Senato: i dem conquistano 56 seggi contro i 44 del Gop",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/midterm_usa_democratici_vincono_alaska_mary_peltola_senato-425731128/?rss",
-   "pub_ts": 1795004827,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/midterm_usa_democratici_vincono_alaska_mary_peltola_senato-425731128/?rss",
-     "title": "Midterm Usa, i democratici vincono anche in Alaska: Peltola strappa il seggio ai repubblicani"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_dda72782-aa77-4765-ae43-56acdbee572d.html",
-     "title": "Media, con Mary Peltola i dem vincono anche in Alaska"
-    },
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_58944bde-6c8e-473f-aa22-5e1e0815f550.html",
      "title": "Media, con Mary Peltola i dem vincono anche in Alaska"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/anche-lalaska-ora-e-blu-la-straordinaria-vittoria-di-mary-peltola-nativa-yupik-x29tcfqf",
+     "title": "Anche l’Alaska ora è blu: la straordinaria vittoria di Mary Peltola, nativa yup’ik"
     },
     {
      "name": "Sole 24 Ore Mondo",
@@ -177,11 +214,38 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/18/democratici-alaska-senato-mary-peltola/",
      "title": "I Democratici hanno vinto persino in Alaska"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Il Cdm avvia iter nomina di Remo Morzenti Pellegrini presidente Anac",
+   "summary": "La proposta passerà al Parlamento per il parere obbligatorio",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/il-cdm-avvia-iter-nomina-di-remo-morzenti-pellegrini-presidente-anac_7cf4fb41-8bf1-440e-ba08-2d8d9a089c2e.html",
+   "pub_ts": 1795028100,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/il-cdm-avvia-iter-nomina-di-remo-morzenti-pellegrini-presidente-anac_7cf4fb41-8bf1-440e-ba08-2d8d9a089c2e.html",
+     "title": "Il Cdm avvia iter nomina di Remo Morzenti Pellegrini presidente Anac"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/consiglio-dei-ministri-convocato-alle-1630-morzenti-verso-nomina-a-presidenza-anac-73f61add-0e6b-4e60-a176-625649079770.html",
+     "title": "Consiglio dei Ministri, avviato iter nomina Morzenti a presidenza Anac"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/remo-morzenti-pellegrini-nominato-presidente-anac/",
+     "title": "Il governo ha scelto Remo Morzenti Pellegrini come presidente dell’ANAC, dopo il pasticcio sulla nomina di Trifone Altieri"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/midterm_usa_democratici_vincono_alaska_mary_peltola_senato-425731128/",
-     "title": "Midterm Usa, i democratici vincono anche in Alaska: Peltola strappa il seggio ai repubblicani"
+     "link": "https://www.repubblica.it/politica/2026/11/18/news/anac_nomina_presidente_remo_morzenti_pellegrini-425732500/",
+     "title": "Anac, dopo il pasticcio verso la nomina: il presidente sarà Remo Morzenti"
     }
    ]
   },
@@ -191,7 +255,7 @@
    "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari",
    "summary": "Il supporto varrà per il 2027, 'rafforzerà l'Ucraina al tavolo negoziale'",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
-   "pub_ts": 1795000680,
+   "pub_ts": 1795029507,
    "n_sources": 3,
    "documented": true,
    "sources": [
@@ -201,139 +265,90 @@
      "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari"
     },
     {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/commissione-europea-prestito-ucraina/",
+     "title": "La Commissione Europea ha proposto un nuovo prestito da un massimo di 45 miliardi di euro per l’Ucraina"
+    },
+    {
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/la-commissione-ue-propone-nuovo-prestito-45-miliardi-sostenere-l-ucraina-25-aiuti-militari-AJACPaKC",
      "title": "La Commissione Ue propone un nuovo prestito da 45 miliardi per sostenere l’Ucraina, 25 in aiuti militari"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/finanziamenti-ue-per-lucraina-altri-45-miliardi-tra-aiuti-civili-e-difesa_4iFvAL0MdIKVK7Pv1O3G6A",
-     "title": "Finanziamenti Ue per l'Ucraina: altri 45 miliardi tra aiuti civili e difesa"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Lo schiaffo dell’Ucraina: spezzato il ponte di Kerch, l’opera simbolo dello zar",
-   "summary": "Non è la prima volta che ma il colpo ieri ha causato il crollo di una arcata. Zelensky: “Usate solo armi prodotte da noi”",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/smacco_ucraina_spezzato_ponte_di_kerch_opera_simbolo_di_putin-425730774/?rss",
-   "pub_ts": 1794997114,
+   "title": "Xi a Putin: “Relazioni incrollabili come montagna”. Trump a Shenzhen, accolto dal leader cinese",
+   "summary": "Il presidente americano è arrivato in Cina per partecipare al vertice Apec. Intanto bilaterale tra Mosca e Pechino: toccato il tema della guerra in Ucraina",
+   "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_shenzhen_trump_accolto_xi_vertice_cina_russia_putin_guerra_ucraina-425731624/?rss",
+   "pub_ts": 1795021128,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/smacco_ucraina_spezzato_ponte_di_kerch_opera_simbolo_di_putin-425730774/?rss",
-     "title": "Lo schiaffo dell’Ucraina: spezzato il ponte di Kerch, l’opera simbolo dello zar"
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_shenzhen_trump_accolto_xi_vertice_cina_russia_putin_guerra_ucraina-425731624/?rss",
+     "title": "Xi a Putin: “Relazioni incrollabili come montagna”. Trump a Shenzhen, accolto dal leader cinese"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/ponte-kerch-russia-crimea-ucraina/",
-     "title": "Il ponte di Kerch era un simbolo del regime di Putin"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/xi-trump-e-putin-in-prima-fila-nella-foto-di-famiglia-dei-leader_54d0db72-3ad5-4ad0-aa1f-b451c4fa8a20.html",
+     "title": "Xi, Trump e Putin in prima fila nella foto di famiglia dei leader"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/smacco_ucraina_spezzato_ponte_di_kerch_opera_simbolo_di_putin-425730774/",
-     "title": "Lo schiaffo dell’Ucraina: spezzato il ponte di Kerch, l’opera simbolo dello zar"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo",
-   "summary": "La figlia Isabella: 'Occasione per una rilettura della sua eredità culturale'. Ira del Pd e dell'Anpi",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
-   "pub_ts": 1794990803,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
-     "title": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/mostra-camera-pino-rauti-palazzo-valdina/",
-     "title": "La Camera ha chiesto di togliere i simboli fascisti dalla mostra su Pino Rauti"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/17/news/mostra_rauti_camera_organizzata_fdi_polemica-425730267/",
-     "title": "La celebrazione di Rauti con i simboli del fascismo, la Camera: “Rimuoveteli”"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-xi-putin-vertice-foto-shenzhen_E1ZMwBytWd6n5SnbUFKUU",
+     "title": "Trump ospite d'onore di Xi, Putin in seconda fila: gli indizi e la foto"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Redde rationem nella Lega, sfiduciato Romeo, arriva Dreosto",
-   "summary": "Solo in 5 con il capogruppo deposto. Il neoeletto: 'Chiuse le polemiche ora al lavoro'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_e03edd1a-4b58-4ade-aee0-ce8fdcc464c0.html",
-   "pub_ts": 1794984096,
+   "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
+   "summary": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
+   "pub_ts": 1795020952,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_e03edd1a-4b58-4ade-aee0-ce8fdcc464c0.html",
-     "title": "Redde rationem nella Lega, sfiduciato Romeo, arriva Dreosto"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/capogruppo-lega-senato-massimiliano-romeo-sfiduciato-dreosto/",
-     "title": "Il capogruppo della Lega al Senato Massimiliano Romeo è stato sfiduciato: al suo posto è stato nominato Marco Dreosto"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/lega-massimiliano-romeo-capogruppo-senato-deosto-fyst887g",
-     "title": "Ribaltone Lega, Romeo dimissionato da capogruppo al Senato. Al suo posto Marco Deosto"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Crosetto, la guerra è una sola, bisogna attrezzarci a combatterla tutta",
-   "summary": "'La distinzione tra difesa da quella ibrida e quella convenzionale non regge'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-la-guerra-e-una-sola-bisogna-attrezzarci-a-combatterla-tutta_2d825d25-a214-4827-a89e-f7f4dd874612.html",
-   "pub_ts": 1795002617,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-la-guerra-e-una-sola-bisogna-attrezzarci-a-combatterla-tutta_2d825d25-a214-4827-a89e-f7f4dd874612.html",
-     "title": "Crosetto, la guerra è una sola, bisogna attrezzarci a combatterla tutta"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
+     "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/18/crosetto-guerra-ibrida-convenzionale-notizie/8575869/",
-     "title": "Crosetto in Aula: “Distinzione tra droni, cyber e trincee? Non ha senso, la guerra è una sola” – Video"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/18/condono-edilizio-abusi-sismici-fdi-notizie/8576351/",
+     "title": "Manovra, FdI propone anche il condono per lavori senza autorizzazione sismica: niente sanzioni penali. E vuole lo stop alle demolizioni in Campania"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/manovra-6600-emendamenti-assalto-diligenza/",
+     "title": "Manovra: record di emendamenti, sono 6.600"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Presidente comunità ebraica di Milano, tutti votino Ddl antisemitismo",
-   "summary": "Meghnagi, 'Non è di destra, né di sinistra, date un segnale potente\"",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/presidente-comunita-ebraica-di-milano-tutti-votino-ddl-antisemitismo_993da34e-91ac-4d41-8f8e-62f08e0aba12.html",
-   "pub_ts": 1794936009,
+   "title": "Assessore Marche, 'Acquaroli è estraneo ai fatti oggetto dell'inchiesta'",
+   "summary": "Bugaro risponde a domanda sui possibili timori per la tenuta della giunta",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/assessore-marche-acquaroli-e-estraneo-ai-fatti-oggetto-dellinchiesta_f375d886-0abd-4823-9610-6b9100c44b6e.html",
+   "pub_ts": 1795026600,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/presidente-comunita-ebraica-di-milano-tutti-votino-ddl-antisemitismo_993da34e-91ac-4d41-8f8e-62f08e0aba12.html",
-     "title": "Presidente comunità ebraica di Milano, tutti votino Ddl antisemitismo"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/assessore-marche-acquaroli-e-estraneo-ai-fatti-oggetto-dellinchiesta_f375d886-0abd-4823-9610-6b9100c44b6e.html",
+     "title": "Assessore Marche, 'Acquaroli è estraneo ai fatti oggetto dell'inchiesta'"
     },
     {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/milanoquotidiano/rabbino-aggredito-a-milano-la-comunita-ebraica-si-spacca-espellere-quei-ragazzi-fara-piu-danni-che-altro/",
-     "title": "Rabbino aggredito a Milano, la comunità ebraica si spacca: “Espellere quei ragazzi farà più danni che altro”"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/inchiesta-marche-il-governatore-acquaroli-nella-bufera-politica-cc008af7-85de-4dfb-8d6d-62e3bb236390.html",
+     "title": "Inchiesta Marche: il governatore Acquaroli nella bufera politica"
     }
    ]
   },
@@ -343,8 +358,8 @@
    "title": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
    "summary": "Lo afferma il presidente Jones",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
-   "pub_ts": 1794990340,
-   "n_sources": 6,
+   "pub_ts": 1794955224,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -358,61 +373,14 @@
      "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene"
     },
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/nvidia-nessun-ritorno-jensen-huang-addio-cina/",
-     "title": "NVIDIA: nessun ritorno di Jensen Huang e addio alla Cina"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/17/jensen-huang-nvidia-ritorno-amministratore-delegator/",
      "title": "Nvidia ha escluso il ritorno di Jensen Huang"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/jensen-huang-nvidia-ultime-news-oggi_7btFqSGL8ZlzuxVADAGGda",
-     "title": "Caso Nvidia, Huang: \"Se board me lo chiede sarei onorato di tornare come Ceo\". Il no del Cda"
-    },
-    {
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/huang-rompe-silenzio-disposto-tornare-nvidia-se-cda-ritiene-AJeEThJC",
      "title": "Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Crosetto: 'Contro la guerra ibrida risorse per 6 miliardi nei prossimi anni'",
-   "summary": "Per il triennio 26-28 programmati quasi 2 mld, circa il 40% in più del triennio precedente. La diretta al Senato",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-contro-la-guerra-ibrida-risorse-per-6-miliardi-nei-prossimi-anni_c8b81495-423d-42a6-aab7-030b0af8f27d.html",
-   "pub_ts": 1795003605,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-contro-la-guerra-ibrida-risorse-per-6-miliardi-nei-prossimi-anni_c8b81495-423d-42a6-aab7-030b0af8f27d.html",
-     "title": "Crosetto: 'Contro la guerra ibrida risorse per 6 miliardi nei prossimi anni'"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/informativa-di-crosetto-alla-camera-sulla-guerra-ibrida-e-cognitiva_0674c83b-3394-4c5c-b1ec-c049e364d8b6.html",
-     "title": "Informativa di Crosetto al Senato sulla guerra ibrida e cognitiva"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/non-vinceremo-guerra-ibrida-solo-6-miliardi/",
-     "title": "Non vinceremo la guerra ibrida solo con 6 miliardi"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/18/news/minacce_ibride_crosetto_arma_cybersicurezza_5_mila_uomini_6_miliardi-425731657/",
-     "title": "Minacce ibride, Crosetto alla Camera: “È guerra cognitiva, serve un’arma cyber da 5 mila uomini”"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/cybersicurezza-guido-crosetto-contro-le-minacce-ibride-oltre-6-mld-nei-prossimi-anni-allarmi-bombe-guerra-cognitiva-informativa-camera-ministro-difesa-cac3fe55-4244-4772-9ea1-cb1cda30faf9.html",
-     "title": "Cybersicurezza, Guido Crosetto: \"Contro le minacce ibride destinati oltre 6 mld nei prossimi anni\""
     }
    ]
   },
@@ -446,6 +414,28 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Microsoft, dagli esordi nell’IA ai modelli MAI per ridurre la dipendenza da OpenAI",
+   "summary": "Microsoft ha presentato sette nuovi modelli IA, battezzati MAI, per la scrittura di codice, la cybersicurezza, ma anche per immagini e voce. Modelli proprietari che raccontano un percorso iniziato nel 1991 e cresciuto con OpenAI. La strategia è sviluppare tecnologie IA sempre...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/microsoft_ia_modelli_mai-425732868/?rss",
+   "pub_ts": 1795020625,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/microsoft_ia_modelli_mai-425732868/?rss",
+     "title": "Microsoft, dagli esordi nell’IA ai modelli MAI per ridurre la dipendenza da OpenAI"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/microsoft-annuncia-sette-modelli-ai-cyber-coding-immagini/",
+     "title": "Microsoft annuncia sette modelli AI: cyber, coding e immagini"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "Un modello IA di OpenAI ha trova una falla critica in Java",
    "summary": "L’azienda di cybersecurity Calif ha scoperto in tre ore Java4Shell con l’aiuto del modello GPT-6 Cyber. La falla, critica e potenzialmente molto pericolosa, è stata corretta con l’aiuto del modello GPT-6 Cyber. Alcuni sistemi Java consentono attacchi da remoto prima...",
    "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/ia_openai_falla_java-425731999/?rss",
@@ -464,6 +454,90 @@
      "title": "Un’azienda ha scoperto con l’AI una falla nel linguaggio di programmazione Java"
     }
    ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Ranucci: 'Dal 23 novembre scatta la mia sospensione, sostenete Spotlight'",
+   "summary": "Il conduttore fermo per 10 giorni a seguito del provvedimento disciplinare del 5 ottobre",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ranucci-dal-23-novembre-scatta-la-mia-sospensione-sostenete-spotlight_4ecf29c2-115a-4139-93ff-d95a06c71ef2.html",
+   "pub_ts": 1795031572,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ranucci-dal-23-novembre-scatta-la-mia-sospensione-sostenete-spotlight_4ecf29c2-115a-4139-93ff-d95a06c71ef2.html",
+     "title": "Ranucci: 'Dal 23 novembre scatta la mia sospensione, sostenete Spotlight'"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/18/sigfrido-ranucci-la-mia-sospensione-dalla-rai-partira-dal-23-novembre_877fb788-6e0d-4a6c-9da1-1482ef8b8ade.html",
+     "title": "Sigfrido Ranucci, 'la mia sospensione dalla Rai partirà dal 23 novembre'"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/sigfrido-ranucci-sospeso-rai-10-giorni-da-23-novembre/",
+     "title": "La sospensione di 10 giorni di Sigfrido Ranucci dalla Rai comincerà il 23 novembre: salterà due puntate del suo nuovo programma"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/18/news/ranucci_sospeso_dalla_rai_saltero_due_puntate_di_spotlight-425732675/",
+     "title": "Ranucci sospeso dalla Rai per dieci giorni dal 23 novembre: “Salterò due puntate di Spotlight”"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Pattinson è il nuovo James Bond, Bezos: “Sono stato fortemente coinvolto nella scelta”",
+   "summary": "Il fondatore di Amazon: “Era già evidente ai provini, è lui”",
+   "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/18/pattinson-e-il-nuovo-james-bond-bezos-sono-stato-fortemente-coinvolto-nella_5cd9e28f-9075-4eb1-8738-43571aacf76d.html",
+   "pub_ts": 1795026050,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/18/pattinson-e-il-nuovo-james-bond-bezos-sono-stato-fortemente-coinvolto-nella_5cd9e28f-9075-4eb1-8738-43571aacf76d.html",
+     "title": "Pattinson è il nuovo James Bond, Bezos: “Sono stato fortemente coinvolto nella scelta”"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/18/jeff-bezos-sono-stato-fortemente-coinvolto-nello-scegliere-pattinson-per_8f089ec4-2683-43b5-954f-3159dfff45b5.html",
+     "title": "Jeff Bezos, 'sono stato fortemente coinvolto nello scegliere Pattinson per James Bond"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/attori-james-bond/",
+     "title": "Sei attori, sei James Bond diversi"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Miguel Gotor vince il Premio Strega Saggistica e lo dedica ai giovani di oggi",
+   "summary": "Con 'L'omicidio di Piersanti Mattarella'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/18/miguel-gotor-e-il-vincitore-della-seconda-edizione-del-premio-strega-saggistica_d93d5b92-33ea-4ead-8385-49f016878a0c.html",
+   "pub_ts": 1795032942,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/18/miguel-gotor-e-il-vincitore-della-seconda-edizione-del-premio-strega-saggistica_d93d5b92-33ea-4ead-8385-49f016878a0c.html",
+     "title": "Miguel Gotor vince il Premio Strega Saggistica e lo dedica ai giovani di oggi"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/premio-strega-saggistica-miguel-gotor-vince-la-seconda-edizione_1PcW18JuBXcZSmnN9S7DrG",
+     "title": "Premio Strega Saggistica, Miguel Gotor vince la seconda edizione"
+    }
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -491,130 +565,79 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Bianco di Daniele Vicari in sala a gennaio, Alessandro Borghi è Bonatti",
-   "summary": "Diffuso il teaser della pellicola che racconta l'impresa del Frêney",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/11/17/bianco-di-daniele-vicari-in-sala-a-gennaio-alessandro-borghi-e-bonatti_d7b6e976-5434-412e-9ed9-6c4fde42e902.html",
-   "pub_ts": 1795003465,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/11/17/bianco-di-daniele-vicari-in-sala-a-gennaio-alessandro-borghi-e-bonatti_d7b6e976-5434-412e-9ed9-6c4fde42e902.html",
-     "title": "Bianco di Daniele Vicari in sala a gennaio, Alessandro Borghi è Bonatti"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/18/bianco-film-bonatti-borghi-notizie/8575949/",
-     "title": "“Bianco”, le prime spettacolari immagini del film su Walter Bonatti (Alessandro Borghi) e la tragedia del Frêney"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Intelligenza artificiale: come farà l’Europa a vincere la corsa?",
-   "summary": "In un mondo che fatica a reperire energia pulita, la corsa dell’IA non sarà vinta dai modelli più grandi, ma da quelli più efficienti. E l’Europa cerca di mettersi in proprio L'articolo Intelligenza artificiale: come farà l’Europa a vincere la corsa? sembra essere il primo su Galileo .",
-   "link": "https://www.galileonet.it/intelligenza-artificiale-consumo-efficienza-giotto-sovranita-unione-europea/",
-   "pub_ts": 1795003861,
+   "title": "La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica",
+   "summary": "Diciannove scienziati, da Bassetti a Remuzzi, scrivono alle massime cariche dello Stato per denunciare il clima inquisitorio della Commissione Covid. E mettono in guardia: reintegrare i medici radiati mina la fiducia e la salute pubblica L'articolo La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica sembra essere il primo su Galileo .",
+   "link": "https://www.galileonet.it/scienza-processo-politica-covid-appello-remuzzi-bassetti/",
+   "pub_ts": 1795017093,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Galileo",
-     "link": "https://www.galileonet.it/intelligenza-artificiale-consumo-efficienza-giotto-sovranita-unione-europea/",
-     "title": "Intelligenza artificiale: come farà l’Europa a vincere la corsa?"
+     "link": "https://www.galileonet.it/scienza-processo-politica-covid-appello-remuzzi-bassetti/",
+     "title": "La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/dario-amodei-lo-scienziato-che-vuole-frenare-la-corsa-che-guida-be8d9ec7-76cd-4eaf-859c-2b33d05966ae.html",
-     "title": "Dario Amodei, il profeta della prudenza che guida la corsa all'intelligenza artificiale"
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/18/news/19_scienziati_scrivono_a_mattarella_sulla_commissione_covid_non_asservire_la_scienza_alla_politica-425732486/?rss",
+     "title": "19 scienziati scrivono a Mattarella sulla commissione Covid: non asservire la scienza alla politica"
     }
    ],
    "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "TG2 Italia Europa del 18/11/2026",
-   "summary": "Direttore Antonio Preziosi",
-   "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-18112026-ca33a1c6-3ee7-44ab-9468-2d685d4b599e.html",
-   "pub_ts": 1794996147,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-18112026-ca33a1c6-3ee7-44ab-9468-2d685d4b599e.html",
-     "title": "TG2 Italia Europa del 18/11/2026"
-    },
-    {
-     "name": "Galileo",
-     "link": "https://www.galileonet.it/influenza-dati-monitoraggio-respirvirnet/",
-     "title": "Influenza 2026, ecco i virus che circolano in italia"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Il Manifesto di Venezia verso il decennale, \"non solo festa ma confronto\"",
-   "summary": "Il 27 novembre focus sui dati dell'Osservatorio Step, nel 2025 uccise 97 donne",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/17/manifesto-di-venezia-verso-il-decennale-non-solo-festa-ma-confronto_9cf912d1-ff1f-4e6d-8424-ed1c89e2be4c.html",
-   "pub_ts": 1794932259,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/17/manifesto-di-venezia-verso-il-decennale-non-solo-festa-ma-confronto_9cf912d1-ff1f-4e6d-8424-ed1c89e2be4c.html",
-     "title": "Il Manifesto di Venezia verso il decennale, \"non solo festa ma confronto\""
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/manifesto-di-venezia-verso-il-decennale-non-solo-festa-ma-confronto_747488be-8516-4b5f-9a09-991bd372475c.html",
-     "title": "Manifesto di Venezia verso il decennale, \"non solo festa ma confronto\""
-    }
-   ],
-   "subtype": "cultura"
   }
  ],
  "articles": [
   {
+   "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+   "description": "Russia e Cina: 'Ordine mondiale multipolare, noi la stabilità'. Il tycoon parla con lo zar",
+   "pub_ts": 1795034145,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "I dem della Camera rieleggono Jeffries leader, sarà il primo speaker afroamericano",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_cfc90312-4555-4996-ba6c-3406dd68f9ba.html",
+   "description": "Alla guida della Camera da gennaio. Un anno fa il suo storico discorso fiume contro Trump",
+   "pub_ts": 1795031744,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Alta tensione nella Lega dopo la sfiducia in Senato di Romeo",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
+   "description": "Insorge la Lombardia. Garavaglia: 'Errore politico', Fontana: 'Trovare sfogo ai malumori'",
+   "pub_ts": 1795029372,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ddl-antisemitismo-le-lacrime-di-fiano-lascio-il-pd-_ad0d5ec9-32e1-477a-8239-fc0659fef573.html",
-   "description": "Schlein lo chiama per fermarlo, ma il passo è irrevocabile",
-   "pub_ts": 1795005360,
+   "description": "Ministro israeliano Sa'ar: 'Ok tolleranza zero'. Fratoianni: testo randello politico destra",
+   "pub_ts": 1795029479,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Identificato il nickname Mikhail Andropov: 'Non ha mandato lui le mail nelle scuole'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/18/identificato-nickname-mikhail-andropov-non-ha-mandato-lui-le-mail-nelle-scuole_d4f1795b-c0ab-4f23-b2fc-2a3050b7fd28.html",
-   "description": "Polizia: 'Si trova in Usa. Ha segnalato l'utilizzo improprio della sua identità digilale'",
-   "pub_ts": 1795004317,
-   "source": "ANSA",
+   "title": "Media, con Mary Peltola i dem vincono anche in Alaska",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_58944bde-6c8e-473f-aa22-5e1e0815f550.html",
+   "description": "Sconfitto il senatore repubblicano Dan S. Sullivan in carica da due mandati",
+   "pub_ts": 1795031267,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Putin e Trump si stringono la mano a Shenzhen",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-   "description": "Xi: \"Un mondo più stabile grazie al rapporto Pechino-Mosca\"",
-   "pub_ts": 1795005657,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Midterm Usa, i democratici vincono anche in Alaska: Peltola strappa il seggio ai repubblicani",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/midterm_usa_democratici_vincono_alaska_mary_peltola_senato-425731128/?rss",
-   "description": "Sconfitto il senatore uscente Dan Sullivan, in carica da due mandati. Si chiude l'ultima sfida per il Senato: i dem conquistano 56 seggi contro i 44 del Gop",
-   "pub_ts": 1795004827,
-   "source": "Repubblica Esteri",
+   "title": "Il Cdm avvia iter nomina di Remo Morzenti Pellegrini presidente Anac",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/il-cdm-avvia-iter-nomina-di-remo-morzenti-pellegrini-presidente-anac_7cf4fb41-8bf1-440e-ba08-2d8d9a089c2e.html",
+   "description": "La proposta passerà al Parlamento per il parere obbligatorio",
+   "pub_ts": 1795028100,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -622,53 +645,35 @@
    "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
    "description": "Il supporto varrà per il 2027, 'rafforzerà l'Ucraina al tavolo negoziale'",
-   "pub_ts": 1795000680,
+   "pub_ts": 1795029507,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Lo schiaffo dell’Ucraina: spezzato il ponte di Kerch, l’opera simbolo dello zar",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/smacco_ucraina_spezzato_ponte_di_kerch_opera_simbolo_di_putin-425730774/?rss",
-   "description": "Non è la prima volta che ma il colpo ieri ha causato il crollo di una arcata. Zelensky: “Usate solo armi prodotte da noi”",
-   "pub_ts": 1794997114,
+   "title": "Xi a Putin: “Relazioni incrollabili come montagna”. Trump a Shenzhen, accolto dal leader cinese",
+   "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_shenzhen_trump_accolto_xi_vertice_cina_russia_putin_guerra_ucraina-425731624/?rss",
+   "description": "Il presidente americano è arrivato in Cina per partecipare al vertice Apec. Intanto bilaterale tra Mosca e Pechino: toccato il tema della guerra in Ucraina",
+   "pub_ts": 1795021128,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Mostra su Rauti, la Camera chiede di rimuovere simboli che richiamano al fascismo",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/mostra-su-rauti-la-camera-chiede-di-rimuovere-simboli-che-richiamano-al-fascismo_82e5b50e-3150-4462-b408-a8673a917231.html",
-   "description": "La figlia Isabella: 'Occasione per una rilettura della sua eredità culturale'. Ira del Pd e dell'Anpi",
-   "pub_ts": 1794990803,
+   "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
+   "description": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
+   "pub_ts": 1795020952,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Redde rationem nella Lega, sfiduciato Romeo, arriva Dreosto",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/romeo-sostituito-al-senato-dreosto-eletto-capogruppo-della-lega_e03edd1a-4b58-4ade-aee0-ce8fdcc464c0.html",
-   "description": "Solo in 5 con il capogruppo deposto. Il neoeletto: 'Chiuse le polemiche ora al lavoro'",
-   "pub_ts": 1794984096,
+   "title": "Assessore Marche, 'Acquaroli è estraneo ai fatti oggetto dell'inchiesta'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/assessore-marche-acquaroli-e-estraneo-ai-fatti-oggetto-dellinchiesta_f375d886-0abd-4823-9610-6b9100c44b6e.html",
+   "description": "Bugaro risponde a domanda sui possibili timori per la tenuta della giunta",
+   "pub_ts": 1795026600,
    "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Crosetto, la guerra è una sola, bisogna attrezzarci a combatterla tutta",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-la-guerra-e-una-sola-bisogna-attrezzarci-a-combatterla-tutta_2d825d25-a214-4827-a89e-f7f4dd874612.html",
-   "description": "'La distinzione tra difesa da quella ibrida e quella convenzionale non regge'",
-   "pub_ts": 1795002617,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Presidente comunità ebraica di Milano, tutti votino Ddl antisemitismo",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/17/presidente-comunita-ebraica-di-milano-tutti-votino-ddl-antisemitismo_993da34e-91ac-4d41-8f8e-62f08e0aba12.html",
-   "description": "Meghnagi, 'Non è di destra, né di sinistra, date un segnale potente\"",
-   "pub_ts": 1794936009,
-   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
@@ -676,17 +681,8 @@
    "title": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
    "description": "Lo afferma il presidente Jones",
-   "pub_ts": 1794990340,
+   "pub_ts": 1794955224,
    "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Crosetto: 'Contro la guerra ibrida risorse per 6 miliardi nei prossimi anni'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/crosetto-contro-la-guerra-ibrida-risorse-per-6-miliardi-nei-prossimi-anni_c8b81495-423d-42a6-aab7-030b0af8f27d.html",
-   "description": "Per il triennio 26-28 programmati quasi 2 mld, circa il 40% in più del triennio precedente. La diretta al Senato",
-   "pub_ts": 1795003605,
-   "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
   },
@@ -695,6 +691,15 @@
    "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/apple_down_mondiale_diversi_servizi-425730450/?rss",
    "description": "Diversi servizi online di Apple sono stati interessati da un'interruzione che ha provocato difficoltà di accesso agli account, problemi con il download delle applicazioni e malfunzionamenti di alcune piattaforme. L'azienda ha confermato le anomalie addebitandole ad un...",
    "pub_ts": 1794992436,
+   "source": "Repubblica Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Microsoft, dagli esordi nell’IA ai modelli MAI per ridurre la dipendenza da OpenAI",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/microsoft_ia_modelli_mai-425732868/?rss",
+   "description": "Microsoft ha presentato sette nuovi modelli IA, battezzati MAI, per la scrittura di codice, la cybersicurezza, ma anche per immagini e voce. Modelli proprietari che raccontano un percorso iniziato nel 1991 e cresciuto con OpenAI. La strategia è sviluppare tecnologie IA sempre...",
+   "pub_ts": 1795020625,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
@@ -709,6 +714,33 @@
    "section": "tech"
   },
   {
+   "title": "Ranucci: 'Dal 23 novembre scatta la mia sospensione, sostenete Spotlight'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ranucci-dal-23-novembre-scatta-la-mia-sospensione-sostenete-spotlight_4ecf29c2-115a-4139-93ff-d95a06c71ef2.html",
+   "description": "Il conduttore fermo per 10 giorni a seguito del provvedimento disciplinare del 5 ottobre",
+   "pub_ts": 1795031572,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Pattinson è il nuovo James Bond, Bezos: “Sono stato fortemente coinvolto nella scelta”",
+   "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/18/pattinson-e-il-nuovo-james-bond-bezos-sono-stato-fortemente-coinvolto-nella_5cd9e28f-9075-4eb1-8738-43571aacf76d.html",
+   "description": "Il fondatore di Amazon: “Era già evidente ai provini, è lui”",
+   "pub_ts": 1795026050,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Miguel Gotor vince il Premio Strega Saggistica e lo dedica ai giovani di oggi",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/18/miguel-gotor-e-il-vincitore-della-seconda-edizione-del-premio-strega-saggistica_d93d5b92-33ea-4ead-8385-49f016878a0c.html",
+   "description": "Con 'L'omicidio di Piersanti Mattarella'",
+   "pub_ts": 1795032942,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
    "title": "Aifa, 'già al lavoro per la valutazione del nuovo farmaco contro tumore al pancreas'",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/aifa-gia-al-lavoro-per-valutazione-nuovo-farmaco-contro-tumore-pancreas_e2137b6b-2fba-4e03-9320-47ea3f17cea6.html",
    "description": "'Obiettivo favorire un accesso quanto più rapido possibile al trattamento'",
@@ -718,38 +750,11 @@
    "section": "varia"
   },
   {
-   "title": "Bianco di Daniele Vicari in sala a gennaio, Alessandro Borghi è Bonatti",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/11/17/bianco-di-daniele-vicari-in-sala-a-gennaio-alessandro-borghi-e-bonatti_d7b6e976-5434-412e-9ed9-6c4fde42e902.html",
-   "description": "Diffuso il teaser della pellicola che racconta l'impresa del Frêney",
-   "pub_ts": 1795003465,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Intelligenza artificiale: come farà l’Europa a vincere la corsa?",
-   "link": "https://www.galileonet.it/intelligenza-artificiale-consumo-efficienza-giotto-sovranita-unione-europea/",
-   "description": "In un mondo che fatica a reperire energia pulita, la corsa dell’IA non sarà vinta dai modelli più grandi, ma da quelli più efficienti. E l’Europa cerca di mettersi in proprio L'articolo Intelligenza artificiale: come farà l’Europa a vincere la corsa? sembra essere il primo su Galileo .",
-   "pub_ts": 1795003861,
+   "title": "La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica",
+   "link": "https://www.galileonet.it/scienza-processo-politica-covid-appello-remuzzi-bassetti/",
+   "description": "Diciannove scienziati, da Bassetti a Remuzzi, scrivono alle massime cariche dello Stato per denunciare il clima inquisitorio della Commissione Covid. E mettono in guardia: reintegrare i medici radiati mina la fiducia e la salute pubblica L'articolo La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica sembra essere il primo su Galileo .",
+   "pub_ts": 1795017093,
    "source": "Galileo",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "TG2 Italia Europa del 18/11/2026",
-   "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-18112026-ca33a1c6-3ee7-44ab-9468-2d685d4b599e.html",
-   "description": "Direttore Antonio Preziosi",
-   "pub_ts": 1794996147,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Il Manifesto di Venezia verso il decennale, \"non solo festa ma confronto\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/17/manifesto-di-venezia-verso-il-decennale-non-solo-festa-ma-confronto_9cf912d1-ff1f-4e6d-8424-ed1c89e2be4c.html",
-   "description": "Il 27 novembre focus sui dati dell'Osservatorio Step, nel 2025 uccise 97 donne",
-   "pub_ts": 1794932259,
-   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   }
