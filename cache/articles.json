@@ -1,6 +1,6 @@
 {
- "generated_at": 1795057473,
- "updated_at": 1795057473,
+ "generated_at": 1795092242,
+ "updated_at": 1795092242,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,18 +9,117 @@
  "items": [
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump",
-   "summary": "Russia e Cina: 'Ordine mondiale multipolare, noi la stabilità'. Il tycoon parla con lo zar",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-   "pub_ts": 1795044543,
-   "n_sources": 8,
+   "area": "italia",
+   "title": "Ok all'emendamento sugli e-book: 84 sì e 76 no, con Fi contro e Az a favore",
+   "summary": "'Prendiamo atto del nuovo metodo introdotto'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/maggioranza-sotto-in-senato-su-emendamento-e-book-fi-vota-con-opposizioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
+   "pub_ts": 1795091760,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-     "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/maggioranza-sotto-in-senato-su-emendamento-e-book-fi-vota-con-opposizioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
+     "title": "Ok all'emendamento sugli e-book: 84 sì e 76 no, con Fi contro e Az a favore"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/emendamento-su-libri-digitali-accantonato-in-commissione-lavori-sospesi_cfe35170-9cdb-4395-b7f0-811bf69949f8.html",
+     "title": "Emendamento su libri digitali accantonato in commissione, lavori sospesi"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/manovra-libri-di-testo-digitali-il-senato-approva-lemendamento-di-fdi-forza-italia-vota-contro-1357a5eb-fc13-43e3-a056-8e40401e6825.html",
+     "title": "Libri di testo digitali, il Senato approva l’emendamento di FdI. Forza Italia vota contro"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/dl-scuola-libri-scolastici-ebook-forza-italia-no-mondadori-fratelli-italia-phpvg0kp",
+     "title": "La maggioranza si spacca sui libri scolastici. L’emendamento di FdI passa con il no di Forza Italia"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/19/dl-scuola-ebook-emendamento-ok-senato-cosa-cambia/",
+     "title": "Ok agli ebook a scuola meno cari. Forza Italia vota con il centrosinistra, Calenda col centrodestra e Renzi esulta: cosa cambia sui libri digitali"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/19/news/dl_scuola_forza_italia_fdi_maggioranza_libri_scolastici-425734266/",
+     "title": "Dl scuola, maggioranza si spacca al Senato: ok all’emendamento FdI su e-book ma FI vota contro"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/politicoquotidiano/tensioni-nel-centrodestra-la-maggioranza-va-sotto-sui-libri-scolastici/",
+     "title": "Tensioni nel centrodestra: la maggioranza va sotto sui libri scolastici"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "La dichiarazione di pace di Trump, Xi e Putin dopo il trilaterale: “Ridurre il rischio nucleare”",
+   "summary": "Dopo le midterm il presidente Usa cerca la rivincita: “Stiamo facendo la storia”. Durante il vertice a Shenzhen, durato un’ora e mezza, il tycoon rilancia il dialogo sul nucleare, difende l'intervento contro l'Iran e promette di lavorare alla fine della guerra in Ucraina",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/trump_vertice_xi_putin_cerca_rivincita_sconfitta_midterm_nucleare_ucraina_iran-425734783/?rss",
+   "pub_ts": 1795090462,
+   "n_sources": 7,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/trump_vertice_xi_putin_cerca_rivincita_sconfitta_midterm_nucleare_ucraina_iran-425734783/?rss",
+     "title": "La dichiarazione di pace di Trump, Xi e Putin dopo il trilaterale: “Ridurre il rischio nucleare”"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/concluso-il-trilaterale-tra-xi-putin-e-trump_40aae214-5c93-490a-b43a-8f182fb9a639.html",
+     "title": "Concluso il trilaterale tra Xi, Putin e Trump"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/trump_vertice_xi_putin_cerca_rivincita_sconfitta_midterm_nucleare_ucraina_iran-425734783",
+     "title": "La dichiarazione di pace di Trump, Xi e Putin dopo il trilaterale: “Ridurre il rischio nucleare”"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/trilaterale-shenzhen-trump-stiamo-facendo-la-storia-in-molti-sensi-video-0caebb6c-89df-4062-9875-5b325b7fe19f.html",
+     "title": "Trilaterale Shenzhen, Trump: \"Stiamo facendo la storia in molti sensi\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/trump-incontra-putin-e-xi-ucraina-e-nucleare-al-centro-del-vertice-tra-tre-potenze-shenzhen-o95uvbz7",
+     "title": "Trump, Putin e Xi, il vertice si chiude senza svolte. Nessun accordo su Ucraina e nucleare"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-incontro-oggi-shenzhen_1op1uFWTI3sK8NUaVy6E4M",
+     "title": "\"C'è il mio amico\", Trump e l'incontro con Putin a Shenzhen"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/19/trump-putin-xi-jinping-incontro-cina/",
+     "title": "È finito l’incontro tra Trump, Putin e Xi Jinping"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Cina, Usa e Russia adottano una dichiarazione di pace",
+   "summary": "Concluso l'incontro trilaterale. Putin: 'Una pagina di storia della diplomazia, ne auspico altri'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+   "pub_ts": 1795090594,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+     "title": "Cina, Usa e Russia adottano una dichiarazione di pace"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_72d1e305-1c8e-4e9f-829a-4d6acdba976f.html",
+     "title": "Cina, Usa e Russia adottano una dichiarazione di pace"
     },
     {
      "name": "Repubblica Esteri",
@@ -28,81 +127,19 @@
      "title": "Putin, Xi e Trump, perché il trilaterale a Shenzhen non è una nuova Yalta"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/putin-e-trump-si-stringono-la-mano-a-shenzhen_9f045012-9a7e-444b-85b3-960fc4c6e857.html",
-     "title": "Putin e Trump si stringono la mano a Shenzhen"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/18/putin-incontro-xi-sanzioni-ue/",
-     "title": "Xi rafforza l’intesa con Putin, poi l’abbraccio con Trump che rompe con la tradizione: cosa è successo a Shenzhen. Giovedì il trilaterale"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-incontro-xi-vertice-shenzhen_7x06pZ05Fc3JQFQgIwaLtC",
+     "title": "Trump lascia la Cina dopo il super vertice a Shenzhen con Xi e Putin: dichiarazione congiunta 'per la pace' in 4 punti"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/accoglienza-per-trump-a-shenzhen-con-i-massimi-onori-oltre-il-protocollo--4bcc755d-aa03-4490-bcbe-190f0f31bbb5.html",
-     "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump"
+     "link": "https://www.rainews.it/video/2026/11/shenzen-putin-e-trump-si-incontrano-al-vertice-apec-a4bb7cfa-bd86-4a55-9915-fc8cee2c514a.html",
+     "title": "Shenzen, l'incontro tra Putin e Trump a margine del vertice APEC"
     },
     {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/trump-shenzhen-xi-jinping-putin-tappeto-rosso-ultime-notizie-oggi-rdu6ogvn",
      "title": "Trump, Putin e Xi a Shenzhen. Attesa per il trilaterale di giovedì"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/vertice-shenzhen-abbraccio-trump-xi_39uFhIwSJSGcVGLkx2LSWI",
-     "title": "Vertice Shenzhen, Xi come Mao: 'storico' abbraccio a Trump in aeroporto"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_shenzhen_trump_accolto_xi_vertice_cina_russia_putin_guerra_ucraina-425731624/",
-     "title": "Xi a Putin: “Relazioni incrollabili come montagna”. Trump a Shenzhen, accolto dal leader cinese"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "I dem della Camera rieleggono Jeffries leader, sarà il primo speaker afroamericano",
-   "summary": "Alla guida della Camera da gennaio. Un anno fa il suo storico discorso fiume contro Trump",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_cfc90312-4555-4996-ba6c-3406dd68f9ba.html",
-   "pub_ts": 1795031744,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_cfc90312-4555-4996-ba6c-3406dd68f9ba.html",
-     "title": "I dem della Camera rieleggono Jeffries leader, sarà il primo speaker afroamericano"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/hakeem_jeffries_eletto_speaker_camera_usa-425733019/?rss",
-     "title": "Jeffries eletto speaker alla Camera: primo nero della storia americana"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_77fee938-f702-44bf-bc2b-f0f121f6462f.html",
-     "title": "I dem della Camera rieleggono Jeffries leader, sarà primo speaker afroamericano"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/hakeem-jeffries-scelto-dai-democratici-per-la-camera-sara-il-primo-speaker-afroamericano-speaker-88a5071d-b0a5-41d0-be48-713f594283f6.html",
-     "title": "Hakeem Jeffries scelto dai democratici per la Camera, sarà il primo speaker afroamericano"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/democratici-candidato-presidenza-camera-hakeem-jeffries/",
-     "title": "I Democratici hanno scelto Hakeem Jeffries come candidato alla presidenza della Camera statunitense"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/democratici-usa-nominano-hakeem-jeffries-nuovo-speaker-camera-sara-primo-afroamericano-AJlIduKC",
-     "title": "Democratici Usa nominano Hakeem Jeffries nuovo speaker della Camera, sarà il primo afroamericano"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/18/hakeem-jeffries-leader-democratici-camera-notizie/8576326/",
-     "title": "Usa, i democratici scelgono Hakeem Jeffries come candidato alla presidenza della Camera: sarà il primo speaker afroamericano"
     }
    ]
   },
@@ -113,18 +150,13 @@
    "summary": "Von der Leyen: “L’obiettivo è dare una mano forte nei negoziati”. Ma quattro Paesi dell’est cercano di sfilarsi dal prestito per il 2027",
    "link": "https://www.repubblica.it/esteri/2026/11/19/news/ucraina_aiuti_unione_europea_prestito_45_miliardi-425733275/?rss",
    "pub_ts": 1795046400,
-   "n_sources": 5,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/19/news/ucraina_aiuti_unione_europea_prestito_45_miliardi-425733275/?rss",
      "title": "L’Ucraina chiede aiuto, la Ue offre un prestito da 45 miliardi di euro"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
-     "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari"
     },
     {
      "name": "Il Post",
@@ -145,38 +177,82 @@
   },
   {
    "category": "politica",
+   "area": "mondo",
+   "title": "Causa contro Meta e TikTok, Tribunale rinvia in attesa di una legge",
+   "summary": "I legali delle famiglie, 'noi chiedevamo inibitoria subito, ogni giorno un ragazzo muore'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
+   "pub_ts": 1795091948,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
+     "title": "Causa contro Meta e TikTok, Tribunale rinvia in attesa di una legge"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/19/meta-tiktok-class-action-moige-udienza-finale-milano/",
+     "title": "I genitori fanno causa a Meta e TikTok, la class action deve aspettare. Dipendenza dai social e divieto sotto i 13 anni: il rinvio in attesa della legge"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/proposta-maggioranza-divieto-social-network-minori-emendamento/",
+     "title": "Cosa c’è nella proposta della maggioranza per vietare i social ai minori di 13 anni"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "italia",
-   "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo",
-   "summary": "Ministro israeliano Sa'ar: 'Ok tolleranza zero'. Fratoianni: testo randello politico destra",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ddl-antisemitismo-le-lacrime-di-fiano-lascio-il-pd-_ad0d5ec9-32e1-477a-8239-fc0659fef573.html",
-   "pub_ts": 1795029479,
-   "n_sources": 5,
+   "title": "Allarmi bomba, Piantedosi: 'Nessuna minaccia per la sicurezza nazionale'",
+   "summary": "'Evitare allarmismi ma sarebbe un grave errore sottovalutare il fenomeno'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/allarmi-bomba-piantedosi-nessuna-minaccia-per-la-sicurezza-nazionale_52a785a7-a0c8-4ef0-a1ff-0802d885e57f.html",
+   "pub_ts": 1795091280,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ddl-antisemitismo-le-lacrime-di-fiano-lascio-il-pd-_ad0d5ec9-32e1-477a-8239-fc0659fef573.html",
-     "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/allarmi-bomba-piantedosi-nessuna-minaccia-per-la-sicurezza-nazionale_52a785a7-a0c8-4ef0-a1ff-0802d885e57f.html",
+     "title": "Allarmi bomba, Piantedosi: 'Nessuna minaccia per la sicurezza nazionale'"
     },
     {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/allarmi-bomba-piantedosi-nessuna-minaccia-per-la-sicurezza-nazionale_72d77d2b-241c-4e2b-9d5c-d2dffb6ed387.html",
+     "title": "Allarmi bomba, Piantedosi 'nessuna minaccia per la sicurezza nazionale"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/allarmi-bomba-il-ministro-piantedosi-alla-camera-nessuna-minaccia-per-la-sicurezza-nazionale-1c52639e-b5ba-444c-8121-bf45f613f7fb.html",
+     "title": "Allarmi bomba, il ministro Piantedosi alla Camera: “Nessuna minaccia per la sicurezza nazionale”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Remo Morzenti Pellegrini scelto come nuovo presidente Anac",
+   "summary": "La proposta passerà al Parlamento per il parere obbligatorio delle competenti commissioni",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/remo-morzenti-pellegrini-verso-la-presidenza-di-anac-lindicazione-attesa-in-cdm_44b8a7fa-254f-49be-857c-f7ba88dd81c5.html",
+   "pub_ts": 1795078205,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/fiano-lascia-il-pd-per-il-no-alla-legge-sullantisemitismo_b854c8dc-2532-421f-9fe8-18b364801c1f.html",
-     "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/remo-morzenti-pellegrini-verso-la-presidenza-di-anac-lindicazione-attesa-in-cdm_44b8a7fa-254f-49be-857c-f7ba88dd81c5.html",
+     "title": "Remo Morzenti Pellegrini scelto come nuovo presidente Anac"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/fiano-lascia-partito-democratico-motivazioni-dopo-ddl-antisemitismo-wa0s4mba",
-     "title": "Fiano lascia il Pd dopo il mancato appoggio al Ddl antisemitismo"
+     "link": "https://www.editorialedomani.it/politica/italia/dopo-il-pasticcio-su-altieri-la-lega-sceglie-un-tecnico-per-lanac-nominato-remo-morzenti-kmtx3uag",
+     "title": "Dopo il pasticcio su Altieri, la Lega sceglie un tecnico per l’Anac: nominato Remo Morzenti"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/emanuele-fiano-lascia-pd-mancato-sostegno-legge-antisemitismo/",
-     "title": "Emanuele Fiano ha lasciato il PD a causa del mancato sostegno del partito alla legge sull’antisemitismo"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/milanoquotidiano/emanuele-fiano-lascia-il-pd-dopo-il-no-alla-legge-sullantisemitismo-lannuncio-in-lacrime/",
-     "title": "Emanuele Fiano lascia il Pd dopo il no alla legge sull’antisemitismo. L’annuncio in lacrime"
+     "link": "https://www.ilpost.it/2026/11/18/remo-morzenti-pellegrini-nominato-presidente-anac/",
+     "title": "Il governo ha scelto Remo Morzenti Pellegrini come presidente dell’ANAC, dopo il pasticcio sulla nomina di Trifone Altieri"
     }
    ]
   },
@@ -187,7 +263,7 @@
    "summary": "Insorge la Lombardia. Garavaglia: 'Errore politico', Fontana: 'Trovare sfogo ai malumori'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
    "pub_ts": 1795029372,
-   "n_sources": 5,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -201,16 +277,6 @@
      "title": "Il capogruppo della Lega al Senato Massimiliano Romeo è stato sfiduciato: al suo posto è stato nominato Marco Dreosto"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/lega-massimiliano-romeo-capogruppo-senato-deosto-fyst887g",
-     "title": "Ribaltone Lega, Romeo dimissionato da capogruppo al Senato. Al suo posto Marco Deosto"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/18/lega-sfiducia-romeo-fontana-garavaglia-notizie/8576362/",
-     "title": "La rivolta della Lega in Lombardia, Fontana: “Errore sfiduciare Romeo, disagio rimane”. Garavaglia: “Finita peggio di quanto pensassi”"
-    },
-    {
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/milanoquotidiano/lega-fontana-difende-romeo-dopo-la-sfiducia-un-errore-ha-dato-voce-al-disagio-dei-militanti/",
      "title": "Lega, Fontana difende Romeo dopo la sfiducia: “Un errore, ha dato voce al disagio dei militanti”"
@@ -220,50 +286,40 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Il trilaterale tra Trump, Xi e Putin secondo Ellekappa",
-   "summary": "",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/il_trilaterale_tra_trump_xi_e_putin_secondo_ellekappa-425733460/?rss",
-   "pub_ts": 1795044288,
-   "n_sources": 4,
+   "title": "Jeffries eletto speaker alla Camera: primo nero della storia americana",
+   "summary": "Il deputato di New York ha ottenuto un plebiscito dal gruppo democratico. Il 3 gennaio subentrerà al trumpiano Mike Johnson",
+   "link": "https://www.repubblica.it/esteri/2026/11/18/news/hakeem_jeffries_eletto_speaker_camera_usa-425733019/?rss",
+   "pub_ts": 1795025496,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/il_trilaterale_tra_trump_xi_e_putin_secondo_ellekappa-425733460/?rss",
-     "title": "Il trilaterale tra Trump, Xi e Putin secondo Ellekappa"
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/hakeem_jeffries_eletto_speaker_camera_usa-425733019/?rss",
+     "title": "Jeffries eletto speaker alla Camera: primo nero della storia americana"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/xi-trump-e-putin-in-prima-fila-nella-foto-di-famiglia-dei-leader_54d0db72-3ad5-4ad0-aa1f-b451c4fa8a20.html",
-     "title": "Xi, Trump e Putin in prima fila nella foto di famiglia dei leader"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_77fee938-f702-44bf-bc2b-f0f121f6462f.html",
+     "title": "I dem della Camera rieleggono Jeffries leader, sarà primo speaker afroamericano"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/diretta/vertice_apec_2026_shenzhen_news_oggi-425733619/",
-     "title": "Trilaterale Trump-Xi-Putin, la diretta. Oggi a Shenzhen il vertice dei tre leader. In programma anche un faccia a faccia tra Usa e Russia"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/putin-trump-xi-video-shenzhen-vertice_7m9NeiHnnyulWO0LMmDl7G",
-     "title": "Putin al vertice di Shenzhen, spunta la valigetta con i codici nucleari"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/democratici-usa-nominano-hakeem-jeffries-nuovo-speaker-camera-sara-primo-afroamericano-AJlIduKC",
+     "title": "Democratici Usa nominano Hakeem Jeffries nuovo speaker della Camera, sarà il primo afroamericano"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Media, con Mary Peltola i dem vincono anche in Alaska",
-   "summary": "Sconfitto il senatore repubblicano Dan S. Sullivan in carica da due mandati",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_58944bde-6c8e-473f-aa22-5e1e0815f550.html",
+   "title": "Anche l’Alaska ora è blu: la straordinaria vittoria di Mary Peltola, nativa yup’ik",
+   "summary": "Un’altra vittoria dei democratici: dopo un conteggio lunghissimo, anche lo Stato dell’estremo nord viene strappato ai repubblicani. Altamente emblematica anche la vittoria di Scott Colom: per ritrovare un senatore nero eletto nel Mississippi bisogna tornare all’ottocento, tra le macerie della schiavitù",
+   "link": "https://www.editorialedomani.it/politica/mondo/anche-lalaska-ora-e-blu-la-straordinaria-vittoria-di-mary-peltola-nativa-yupik-x29tcfqf",
    "pub_ts": 1795031267,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_58944bde-6c8e-473f-aa22-5e1e0815f550.html",
-     "title": "Media, con Mary Peltola i dem vincono anche in Alaska"
-    },
     {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/mondo/anche-lalaska-ora-e-blu-la-straordinaria-vittoria-di-mary-peltola-nativa-yupik-x29tcfqf",
@@ -282,137 +338,51 @@
    ]
   },
   {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Tutti i sospetti di Deutsche Bank: indagine sulle entrate di Trump",
-   "summary": "Tra il 2017 e il 2021 il Progetto Broadway ha scavato nelle transazioni del presidente. Segnalate 59 transazioni a rischio riciclaggio, tra queste una serie di bonifici da società in Azerbaigian",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/deutsche_bank_indagine_riciclaggi_trump_progetto_broadway-425733490/?rss",
-   "pub_ts": 1795046400,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/deutsche_bank_indagine_riciclaggi_trump_progetto_broadway-425733490/?rss",
-     "title": "Tutti i sospetti di Deutsche Bank: indagine sulle entrate di Trump"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/deutsche_bank_indagine_riciclaggi_trump_progetto_broadway-425733490/",
-     "title": "Tutti i sospetti di Deutsche Bank: indagine sui riciclaggi di Trump"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/economia/inchiesta-leak-documenti-deutsche-bank-trump-ombre-russe-operazioni-sospette-ryzxqse5",
-     "title": "Ombre russe su Trump: ecco le operazioni sporche della Deutsche Bank"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Il Cdm avvia iter nomina di Remo Morzenti Pellegrini presidente Anac",
-   "summary": "La proposta passerà al Parlamento per il parere obbligatorio",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/il-cdm-avvia-iter-nomina-di-remo-morzenti-pellegrini-presidente-anac_7cf4fb41-8bf1-440e-ba08-2d8d9a089c2e.html",
-   "pub_ts": 1795028100,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/il-cdm-avvia-iter-nomina-di-remo-morzenti-pellegrini-presidente-anac_7cf4fb41-8bf1-440e-ba08-2d8d9a089c2e.html",
-     "title": "Il Cdm avvia iter nomina di Remo Morzenti Pellegrini presidente Anac"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/consiglio-dei-ministri-convocato-alle-1630-morzenti-verso-nomina-a-presidenza-anac-73f61add-0e6b-4e60-a176-625649079770.html",
-     "title": "Consiglio dei Ministri, avviato iter nomina Morzenti a presidenza Anac"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/remo-morzenti-pellegrini-nominato-presidente-anac/",
-     "title": "Il governo ha scelto Remo Morzenti Pellegrini come presidente dell’ANAC, dopo il pasticcio sulla nomina di Trifone Altieri"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
-   "summary": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
-   "pub_ts": 1795020952,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
-     "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/18/condono-edilizio-abusi-sismici-fdi-notizie/8576351/",
-     "title": "Manovra, FdI propone anche il condono per lavori senza autorizzazione sismica: niente sanzioni penali. E vuole lo stop alle demolizioni in Campania"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/manovra-6600-emendamenti-assalto-diligenza/",
-     "title": "Manovra: record di emendamenti, sono 6.600"
-    }
-   ]
-  },
-  {
    "category": "tech",
    "area": null,
-   "title": "Apple down, problemi per iCloud, App Store, Apple Music e altri servizi online. Cos’è accaduto",
-   "summary": "Diversi servizi online di Apple sono stati interessati da un'interruzione che ha provocato difficoltà di accesso agli account, problemi con il download delle applicazioni e malfunzionamenti di alcune piattaforme. L'azienda ha confermato le anomalie addebitandole ad un...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/apple_down_mondiale_diversi_servizi-425730450/?rss",
-   "pub_ts": 1794992436,
+   "title": "Terremoti, arriva in Italia l’allerta di Google: i telefoni Android avviseranno prima delle scosse",
+   "summary": "Il sistema trasforma gli smartphone in una rete di sensori capace di rilevare i terremoti e inviare notifiche con alcuni secondi di anticipo. Ecco come funziona e perché può salvare vite",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/google-allerta-terremoti-android-italia-come-funziona-425733555/?rss",
+   "pub_ts": 1795088089,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/apple_down_mondiale_diversi_servizi-425730450/?rss",
-     "title": "Apple down, problemi per iCloud, App Store, Apple Music e altri servizi online. Cos’è accaduto"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/google-allerta-terremoti-android-italia-come-funziona-425733555/?rss",
+     "title": "Terremoti, arriva in Italia l’allerta di Google: i telefoni Android avviseranno prima delle scosse"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/17/problemi-tecnici-servizi-apple/",
-     "title": "Anche i servizi di Apple stanno avendo alcuni problemi tecnici"
+     "link": "https://www.ilpost.it/2026/11/19/android-allerta-terremoti/",
+     "title": "In Italia è ora disponibile il sistema di allerta di Android in caso di terremoti"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/apple-segnala-problemi-alcuni-suoi-servizi-AJrQ5yJC",
-     "title": "Apple down, problemi per iCloud, App Store e Music: «Nessun attacco hacker»"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/google-attiva-allerte-terremoti-android-italia/",
+     "title": "Google attiva le allerte terremoti di Android in Italia"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene",
-   "summary": "Intervista al Wsj, chiede nuovamente scusa alla sua famiglia per i \"gravi errori\" commessi",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
-   "pub_ts": 1794936326,
-   "n_sources": 3,
+   "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere",
+   "summary": "In video su YouTube moglie proclama innocenza dell'attore condannato per stupro",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_f918a226-0824-41a8-8474-8728fe265d33.html",
+   "pub_ts": 1795084229,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_f918a226-0824-41a8-8474-8728fe265d33.html",
+     "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere"
+    },
+    {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
-     "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/17/jensen-huang-nvidia-ritorno-amministratore-delegator/",
-     "title": "Nvidia ha escluso il ritorno di Jensen Huang"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/huang-rompe-silenzio-disposto-tornare-nvidia-se-cda-ritiene-AJeEThJC",
-     "title": "Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_c0ee297a-a206-4c08-a80e-64100e751ed6.html",
+     "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere"
     }
    ]
   },
@@ -434,31 +404,110 @@
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/18/scoperta-falla-java-intelligenza-artificiale/",
-     "title": "Un’azienda ha scoperto con l’AI una falla nel linguaggio di programmazione Java"
+     "title": "Un’azienda ha scoperto con l’AI una falla nel software che fa funzionare Java"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Stretta sui social: \"stop ai minori di 13 anni in Italia\"",
-   "summary": "Arriva un emendamento nel decreto sicurezza per limitare l'accesso alle piattaforme digitali dei giovanissimi",
-   "link": "https://www.rainews.it/video/2026/11/emendamento-stretta-sui-social-stop-ai-minori-di-13-anni-in-italia-b3168a8b-91a3-4f23-9d26-e38068f9837d.html",
-   "pub_ts": 1795031220,
-   "n_sources": 2,
+   "title": "Trust and AI Summit, negli acquisti la fiducia è il vero vantaggio competitivo",
+   "summary": "All'evento di Trustpilot il confronto di clienti e partner sui nuovi modelli di acquisto",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/19/trust-and-ai-summit-negli-acquisti-la-fiducia-e-il-vero-vantaggio-competitivo_aab554cc-9001-402c-95a9-f88ce6697eb4.html",
+   "pub_ts": 1795086735,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/19/trust-and-ai-summit-negli-acquisti-la-fiducia-e-il-vero-vantaggio-competitivo_aab554cc-9001-402c-95a9-f88ce6697eb4.html",
+     "title": "Trust and AI Summit, negli acquisti la fiducia è il vero vantaggio competitivo"
+    }
+   ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
+   "summary": "Soli italiani in lista, in testa Marilyn Monroe",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_6eb37ec5-68f2-4465-b54b-6ed9f758bcda.html",
+   "pub_ts": 1795087643,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_6eb37ec5-68f2-4465-b54b-6ed9f758bcda.html",
+     "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_22152a4f-7f64-412b-9110-2f7d548d5a0d.html",
+     "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/19/gta-vi-recensioni/",
+     "title": "GTA VI è uno dei migliori videogiochi di tutti i tempi"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari",
+   "summary": "Per 'Castagni in fiore' polemica con gli eredi dell'ex proprietario vittima dei nazisti",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
+   "pub_ts": 1795085381,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
+     "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/van-gogh-record-da-190-4-milioni-di-dollari-sothebys-chiude-unasta-da-777-8-milioni_1npsIapH3sLiVaz2rOR0Fi",
+     "title": "Van Gogh, record da 190,4 milioni di dollari, Sotheby's chiude un'asta da 777,8 milioni"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/sothebys-chtaigniers-en-fleurs-di-van-gogh-venduto-a-1904-milioni-di-dollari-922b91d0-8441-4edf-ad90-84a5ee705d85.html",
+     "title": "Sotheby’s: \"Châtaigniers en fleurs\" di Van Gogh venduto a 190,4 milioni di dollari"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Commissione Covid, medici e scienziati scrivono a Mattarella: “Difendere scienza”",
+   "summary": "Anelli (Fnomceo): “La memoria della pandemia non diventi motivo di divisione”",
+   "link": "https://www.rainews.it/articoli/2026/11/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza-24e6fb85-c27d-4fd2-8183-5c2e5147ee9d.html",
+   "pub_ts": 1795090332,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/emendamento-stretta-sui-social-stop-ai-minori-di-13-anni-in-italia-b3168a8b-91a3-4f23-9d26-e38068f9837d.html",
-     "title": "Stretta sui social: \"stop ai minori di 13 anni in Italia\""
+     "link": "https://www.rainews.it/articoli/2026/11/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza-24e6fb85-c27d-4fd2-8183-5c2e5147ee9d.html",
+     "title": "Commissione Covid, medici e scienziati scrivono a Mattarella: “Difendere scienza”"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/proposta-maggioranza-divieto-social-network-minori-emendamento/",
-     "title": "Cosa c’è nella proposta della maggioranza per vietare i social ai minori di 13 anni"
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/18/news/19_scienziati_scrivono_a_mattarella_sulla_commissione_covid_non_asservire_la_scienza_alla_politica-425732486/?rss",
+     "title": "19 scienziati scrivono a Mattarella sulla commissione Covid: non asservire la scienza alla politica"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/19/commissione-covid-scienziati-medici-audizioni-notizie/8577105/",
+     "title": "Commissione Covid, medici e scienziati contro le audizioni della maggioranza: “Processi sommari e inquisitori”. Altri 19 esperti scrivono a Mattarella"
     }
-   ]
+   ],
+   "subtype": "scienza"
   },
   {
    "category": "varia",
@@ -491,96 +540,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Pattinson è il nuovo James Bond, Bezos: “Sono stato fortemente coinvolto nella scelta”",
-   "summary": "Il fondatore di Amazon: “Era già evidente ai provini, è lui”",
-   "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/18/pattinson-e-il-nuovo-james-bond-bezos-sono-stato-fortemente-coinvolto-nella_5cd9e28f-9075-4eb1-8738-43571aacf76d.html",
-   "pub_ts": 1795026050,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/18/pattinson-e-il-nuovo-james-bond-bezos-sono-stato-fortemente-coinvolto-nella_5cd9e28f-9075-4eb1-8738-43571aacf76d.html",
-     "title": "Pattinson è il nuovo James Bond, Bezos: “Sono stato fortemente coinvolto nella scelta”"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/18/jeff-bezos-sono-stato-fortemente-coinvolto-nello-scegliere-pattinson-per_8f089ec4-2683-43b5-954f-3159dfff45b5.html",
-     "title": "Jeff Bezos, 'sono stato fortemente coinvolto nello scegliere Pattinson per James Bond"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/attori-james-bond/",
-     "title": "Sei attori, sei James Bond diversi"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari",
-   "summary": "Per 'Castagni in fiore' polemica con gli eredi dell'ex proprietario vittima dei nazisti",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
-   "pub_ts": 1795054860,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
-     "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/sothebys-chtaigniers-en-fleurs-di-van-gogh-venduto-a-1904-milioni-di-dollari-922b91d0-8441-4edf-ad90-84a5ee705d85.html",
-     "title": "Sotheby’s: \"Châtaigniers en fleurs\" di Van Gogh venduto a 190,4 milioni di dollari"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Aifa, 'già al lavoro per la valutazione del nuovo farmaco contro tumore al pancreas'",
-   "summary": "'Obiettivo favorire un accesso quanto più rapido possibile al trattamento'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/aifa-gia-al-lavoro-per-valutazione-nuovo-farmaco-contro-tumore-pancreas_e2137b6b-2fba-4e03-9320-47ea3f17cea6.html",
-   "pub_ts": 1795005074,
+   "title": "In Italia solo il 9% degli adolescenti fa almeno un'ora di movimento al giorno",
+   "summary": "Oms, media mondiale del 14%. I pediatri italiani, 'parte fondamentale dello sviluppo'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/18/in-italia-solo-il-9-degli-adolescenti-fa-almeno-unora-di-movimento-al-giorno_1ae10b00-755f-45e0-9551-0971d2fa8f59.html",
+   "pub_ts": 1795086795,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/aifa-gia-al-lavoro-per-valutazione-nuovo-farmaco-contro-tumore-pancreas_e2137b6b-2fba-4e03-9320-47ea3f17cea6.html",
-     "title": "Aifa, 'già al lavoro per la valutazione del nuovo farmaco contro tumore al pancreas'"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/commissione-europea-approvato-commercializzazione-nuovo-farmaco-tumore-pancreas/",
-     "title": "La Commissione europea ha approvato la commercializzazione di un nuovo farmaco per trattare il tumore al pancreas"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica",
-   "summary": "Diciannove scienziati, da Bassetti a Remuzzi, scrivono alle massime cariche dello Stato per denunciare il clima inquisitorio della Commissione Covid. E mettono in guardia: reintegrare i medici radiati mina la fiducia e la salute pubblica L'articolo La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica sembra essere il primo su Galileo .",
-   "link": "https://www.galileonet.it/scienza-processo-politica-covid-appello-remuzzi-bassetti/",
-   "pub_ts": 1795017093,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Galileo",
-     "link": "https://www.galileonet.it/scienza-processo-politica-covid-appello-remuzzi-bassetti/",
-     "title": "La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/18/in-italia-solo-il-9-degli-adolescenti-fa-almeno-unora-di-movimento-al-giorno_1ae10b00-755f-45e0-9551-0971d2fa8f59.html",
+     "title": "In Italia solo il 9% degli adolescenti fa almeno un'ora di movimento al giorno"
     },
     {
      "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/2026/11/18/news/19_scienziati_scrivono_a_mattarella_sulla_commissione_covid_non_asservire_la_scienza_alla_politica-425732486/?rss",
-     "title": "19 scienziati scrivono a Mattarella sulla commissione Covid: non asservire la scienza alla politica"
+     "link": "https://www.repubblica.it/salute/dossier/stop-obesity/2026/11/19/news/sedentarieta_italia_9_adolescenti_ora_attivita_fisica_giorno-425734805/?rss",
+     "title": "Sedentarietà: in Italia solo il 9% degli adolescenti fa un’ora di attività fisica al giorno"
     }
    ],
    "subtype": "scienza"
@@ -588,19 +563,28 @@
  ],
  "articles": [
   {
-   "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-   "description": "Russia e Cina: 'Ordine mondiale multipolare, noi la stabilità'. Il tycoon parla con lo zar",
-   "pub_ts": 1795044543,
+   "title": "Ok all'emendamento sugli e-book: 84 sì e 76 no, con Fi contro e Az a favore",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/maggioranza-sotto-in-senato-su-emendamento-e-book-fi-vota-con-opposizioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
+   "description": "'Prendiamo atto del nuovo metodo introdotto'",
+   "pub_ts": 1795091760,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "I dem della Camera rieleggono Jeffries leader, sarà il primo speaker afroamericano",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_cfc90312-4555-4996-ba6c-3406dd68f9ba.html",
-   "description": "Alla guida della Camera da gennaio. Un anno fa il suo storico discorso fiume contro Trump",
-   "pub_ts": 1795031744,
+   "title": "La dichiarazione di pace di Trump, Xi e Putin dopo il trilaterale: “Ridurre il rischio nucleare”",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/trump_vertice_xi_putin_cerca_rivincita_sconfitta_midterm_nucleare_ucraina_iran-425734783/?rss",
+   "description": "Dopo le midterm il presidente Usa cerca la rivincita: “Stiamo facendo la storia”. Durante il vertice a Shenzhen, durato un’ora e mezza, il tycoon rilancia il dialogo sul nucleare, difende l'intervento contro l'Iran e promette di lavorare alla fine della guerra in Ucraina",
+   "pub_ts": 1795090462,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Cina, Usa e Russia adottano una dichiarazione di pace",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+   "description": "Concluso l'incontro trilaterale. Putin: 'Una pagina di storia della diplomazia, ne auspico altri'",
+   "pub_ts": 1795090594,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -615,11 +599,29 @@
    "section": "politica"
   },
   {
-   "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ddl-antisemitismo-le-lacrime-di-fiano-lascio-il-pd-_ad0d5ec9-32e1-477a-8239-fc0659fef573.html",
-   "description": "Ministro israeliano Sa'ar: 'Ok tolleranza zero'. Fratoianni: testo randello politico destra",
-   "pub_ts": 1795029479,
+   "title": "Causa contro Meta e TikTok, Tribunale rinvia in attesa di una legge",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
+   "description": "I legali delle famiglie, 'noi chiedevamo inibitoria subito, ogni giorno un ragazzo muore'",
+   "pub_ts": 1795091948,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Allarmi bomba, Piantedosi: 'Nessuna minaccia per la sicurezza nazionale'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/allarmi-bomba-piantedosi-nessuna-minaccia-per-la-sicurezza-nazionale_52a785a7-a0c8-4ef0-a1ff-0802d885e57f.html",
+   "description": "'Evitare allarmismi ma sarebbe un grave errore sottovalutare il fenomeno'",
+   "pub_ts": 1795091280,
    "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Remo Morzenti Pellegrini scelto come nuovo presidente Anac",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/remo-morzenti-pellegrini-verso-la-presidenza-di-anac-lindicazione-attesa-in-cdm_44b8a7fa-254f-49be-857c-f7ba88dd81c5.html",
+   "description": "La proposta passerà al Parlamento per il parere obbligatorio delle competenti commissioni",
+   "pub_ts": 1795078205,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -633,65 +635,38 @@
    "section": "politica"
   },
   {
-   "title": "Il trilaterale tra Trump, Xi e Putin secondo Ellekappa",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/il_trilaterale_tra_trump_xi_e_putin_secondo_ellekappa-425733460/?rss",
-   "description": "",
-   "pub_ts": 1795044288,
+   "title": "Jeffries eletto speaker alla Camera: primo nero della storia americana",
+   "link": "https://www.repubblica.it/esteri/2026/11/18/news/hakeem_jeffries_eletto_speaker_camera_usa-425733019/?rss",
+   "description": "Il deputato di New York ha ottenuto un plebiscito dal gruppo democratico. Il 3 gennaio subentrerà al trumpiano Mike Johnson",
+   "pub_ts": 1795025496,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Media, con Mary Peltola i dem vincono anche in Alaska",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_58944bde-6c8e-473f-aa22-5e1e0815f550.html",
-   "description": "Sconfitto il senatore repubblicano Dan S. Sullivan in carica da due mandati",
+   "title": "Anche l’Alaska ora è blu: la straordinaria vittoria di Mary Peltola, nativa yup’ik",
+   "link": "https://www.editorialedomani.it/politica/mondo/anche-lalaska-ora-e-blu-la-straordinaria-vittoria-di-mary-peltola-nativa-yupik-x29tcfqf",
+   "description": "Un’altra vittoria dei democratici: dopo un conteggio lunghissimo, anche lo Stato dell’estremo nord viene strappato ai repubblicani. Altamente emblematica anche la vittoria di Scott Colom: per ritrovare un senatore nero eletto nel Mississippi bisogna tornare all’ottocento, tra le macerie della schiavitù",
    "pub_ts": 1795031267,
-   "source": "ANSA Mondo",
+   "source": "Domani",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Tutti i sospetti di Deutsche Bank: indagine sulle entrate di Trump",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/deutsche_bank_indagine_riciclaggi_trump_progetto_broadway-425733490/?rss",
-   "description": "Tra il 2017 e il 2021 il Progetto Broadway ha scavato nelle transazioni del presidente. Segnalate 59 transazioni a rischio riciclaggio, tra queste una serie di bonifici da società in Azerbaigian",
-   "pub_ts": 1795046400,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il Cdm avvia iter nomina di Remo Morzenti Pellegrini presidente Anac",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/il-cdm-avvia-iter-nomina-di-remo-morzenti-pellegrini-presidente-anac_7cf4fb41-8bf1-440e-ba08-2d8d9a089c2e.html",
-   "description": "La proposta passerà al Parlamento per il parere obbligatorio",
-   "pub_ts": 1795028100,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
-   "description": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
-   "pub_ts": 1795020952,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Apple down, problemi per iCloud, App Store, Apple Music e altri servizi online. Cos’è accaduto",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/17/news/apple_down_mondiale_diversi_servizi-425730450/?rss",
-   "description": "Diversi servizi online di Apple sono stati interessati da un'interruzione che ha provocato difficoltà di accesso agli account, problemi con il download delle applicazioni e malfunzionamenti di alcune piattaforme. L'azienda ha confermato le anomalie addebitandole ad un...",
-   "pub_ts": 1794992436,
+   "title": "Terremoti, arriva in Italia l’allerta di Google: i telefoni Android avviseranno prima delle scosse",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/google-allerta-terremoti-android-italia-come-funziona-425733555/?rss",
+   "description": "Il sistema trasforma gli smartphone in una rete di sensori capace di rilevare i terremoti e inviare notifiche con alcuni secondi di anticipo. Ecco come funziona e perché può salvare vite",
+   "pub_ts": 1795088089,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
-   "description": "Intervista al Wsj, chiede nuovamente scusa alla sua famiglia per i \"gravi errori\" commessi",
-   "pub_ts": 1794936326,
-   "source": "ANSA Tecnologia",
+   "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_f918a226-0824-41a8-8474-8728fe265d33.html",
+   "description": "In video su YouTube moglie proclama innocenza dell'attore condannato per stupro",
+   "pub_ts": 1795084229,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "tech"
   },
@@ -705,13 +680,40 @@
    "section": "tech"
   },
   {
-   "title": "Stretta sui social: \"stop ai minori di 13 anni in Italia\"",
-   "link": "https://www.rainews.it/video/2026/11/emendamento-stretta-sui-social-stop-ai-minori-di-13-anni-in-italia-b3168a8b-91a3-4f23-9d26-e38068f9837d.html",
-   "description": "Arriva un emendamento nel decreto sicurezza per limitare l'accesso alle piattaforme digitali dei giovanissimi",
-   "pub_ts": 1795031220,
-   "source": "Rai News",
+   "title": "Trust and AI Summit, negli acquisti la fiducia è il vero vantaggio competitivo",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/19/trust-and-ai-summit-negli-acquisti-la-fiducia-e-il-vero-vantaggio-competitivo_aab554cc-9001-402c-95a9-f88ce6697eb4.html",
+   "description": "All'evento di Trustpilot il confronto di clienti e partner sui nuovi modelli di acquisto",
+   "pub_ts": 1795086735,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
+  },
+  {
+   "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_6eb37ec5-68f2-4465-b54b-6ed9f758bcda.html",
+   "description": "Soli italiani in lista, in testa Marilyn Monroe",
+   "pub_ts": 1795087643,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
+   "description": "Per 'Castagni in fiore' polemica con gli eredi dell'ex proprietario vittima dei nazisti",
+   "pub_ts": 1795085381,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Commissione Covid, medici e scienziati scrivono a Mattarella: “Difendere scienza”",
+   "link": "https://www.rainews.it/articoli/2026/11/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza-24e6fb85-c27d-4fd2-8183-5c2e5147ee9d.html",
+   "description": "Anelli (Fnomceo): “La memoria della pandemia non diventi motivo di divisione”",
+   "pub_ts": 1795090332,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "varia"
   },
   {
    "title": "Ranucci: 'Dal 23 novembre scatta la mia sospensione, sostenete Spotlight'",
@@ -723,38 +725,11 @@
    "section": "varia"
   },
   {
-   "title": "Pattinson è il nuovo James Bond, Bezos: “Sono stato fortemente coinvolto nella scelta”",
-   "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/18/pattinson-e-il-nuovo-james-bond-bezos-sono-stato-fortemente-coinvolto-nella_5cd9e28f-9075-4eb1-8738-43571aacf76d.html",
-   "description": "Il fondatore di Amazon: “Era già evidente ai provini, è lui”",
-   "pub_ts": 1795026050,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
-   "description": "Per 'Castagni in fiore' polemica con gli eredi dell'ex proprietario vittima dei nazisti",
-   "pub_ts": 1795054860,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Aifa, 'già al lavoro per la valutazione del nuovo farmaco contro tumore al pancreas'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/aifa-gia-al-lavoro-per-valutazione-nuovo-farmaco-contro-tumore-pancreas_e2137b6b-2fba-4e03-9320-47ea3f17cea6.html",
-   "description": "'Obiettivo favorire un accesso quanto più rapido possibile al trattamento'",
-   "pub_ts": 1795005074,
+   "title": "In Italia solo il 9% degli adolescenti fa almeno un'ora di movimento al giorno",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/18/in-italia-solo-il-9-degli-adolescenti-fa-almeno-unora-di-movimento-al-giorno_1ae10b00-755f-45e0-9551-0971d2fa8f59.html",
+   "description": "Oms, media mondiale del 14%. I pediatri italiani, 'parte fondamentale dello sviluppo'",
+   "pub_ts": 1795086795,
    "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica",
-   "link": "https://www.galileonet.it/scienza-processo-politica-covid-appello-remuzzi-bassetti/",
-   "description": "Diciannove scienziati, da Bassetti a Remuzzi, scrivono alle massime cariche dello Stato per denunciare il clima inquisitorio della Commissione Covid. E mettono in guardia: reintegrare i medici radiati mina la fiducia e la salute pubblica L'articolo La scienza non si processa: l’appello dei ricercatori contro l’ingerenza della politica sembra essere il primo su Galileo .",
-   "pub_ts": 1795017093,
-   "source": "Galileo",
    "source_priority": 1,
    "section": "varia"
   }
