@@ -1,6 +1,6 @@
 {
- "generated_at": 1795036581,
- "updated_at": 1795036581,
+ "generated_at": 1795057473,
+ "updated_at": 1795057473,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -13,7 +13,7 @@
    "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump",
    "summary": "Russia e Cina: 'Ordine mondiale multipolare, noi la stabilità'. Il tycoon parla con lo zar",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-   "pub_ts": 1795034145,
+   "pub_ts": 1795044543,
    "n_sources": 8,
    "documented": true,
    "sources": [
@@ -35,17 +35,12 @@
     {
      "name": "Open",
      "link": "https://www.open.online/2026/11/18/putin-incontro-xi-sanzioni-ue/",
-     "title": "Xi rafforza l’intesa con Putin, poi l’abbraccio con Trump che rompe con la tradizione: cosa è successo a Shenzhen. Domani il trilaterale"
+     "title": "Xi rafforza l’intesa con Putin, poi l’abbraccio con Trump che rompe con la tradizione: cosa è successo a Shenzhen. Giovedì il trilaterale"
     },
     {
      "name": "Rai News",
      "link": "https://www.rainews.it/video/2026/11/accoglienza-per-trump-a-shenzhen-con-i-massimi-onori-oltre-il-protocollo--4bcc755d-aa03-4490-bcbe-190f0f31bbb5.html",
      "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/putin_xi_trump_perche_trilaterale_shenzhen_non_e_nuova_yalta-425732121/",
-     "title": "Putin, Xi e Trump, perché il trilaterale a Shenzhen non è una nuova Yalta"
     },
     {
      "name": "Domani",
@@ -56,6 +51,11 @@
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/vertice-shenzhen-abbraccio-trump-xi_39uFhIwSJSGcVGLkx2LSWI",
      "title": "Vertice Shenzhen, Xi come Mao: 'storico' abbraccio a Trump in aeroporto"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_shenzhen_trump_accolto_xi_vertice_cina_russia_putin_guerra_ucraina-425731624/",
+     "title": "Xi a Putin: “Relazioni incrollabili come montagna”. Trump a Shenzhen, accolto dal leader cinese"
     }
    ]
   },
@@ -108,43 +108,38 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Alta tensione nella Lega dopo la sfiducia in Senato di Romeo",
-   "summary": "Insorge la Lombardia. Garavaglia: 'Errore politico', Fontana: 'Trovare sfogo ai malumori'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
-   "pub_ts": 1795029372,
-   "n_sources": 6,
+   "area": "mondo",
+   "title": "L’Ucraina chiede aiuto, la Ue offre un prestito da 45 miliardi di euro",
+   "summary": "Von der Leyen: “L’obiettivo è dare una mano forte nei negoziati”. Ma quattro Paesi dell’est cercano di sfilarsi dal prestito per il 2027",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/ucraina_aiuti_unione_europea_prestito_45_miliardi-425733275/?rss",
+   "pub_ts": 1795046400,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
-     "title": "Alta tensione nella Lega dopo la sfiducia in Senato di Romeo"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/ucraina_aiuti_unione_europea_prestito_45_miliardi-425733275/?rss",
+     "title": "L’Ucraina chiede aiuto, la Ue offre un prestito da 45 miliardi di euro"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://milano.repubblica.it/cronaca/2026/11/18/news/sfiducia_romeo_capogruppo_lega_fontana_errore_offesa_portato_contributo_partito_lombardia-425731968/",
-     "title": "Lega, assemblea infuocata per la cacciata di Romeo. Fontana: “Errore, crea disagio”"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
+     "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/capogruppo-lega-senato-massimiliano-romeo-sfiduciato-dreosto/",
-     "title": "Il capogruppo della Lega al Senato Massimiliano Romeo è stato sfiduciato: al suo posto è stato nominato Marco Dreosto"
+     "link": "https://www.ilpost.it/2026/11/18/commissione-europea-prestito-ucraina/",
+     "title": "La Commissione Europea ha proposto un nuovo prestito da un massimo di 45 miliardi di euro per l’Ucraina"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/lega-massimiliano-romeo-capogruppo-senato-deosto-fyst887g",
-     "title": "Ribaltone Lega, Romeo dimissionato da capogruppo al Senato. Al suo posto Marco Deosto"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/la-commissione-ue-propone-nuovo-prestito-45-miliardi-sostenere-l-ucraina-25-aiuti-militari-AJACPaKC",
+     "title": "La Commissione Ue propone un nuovo prestito da 45 miliardi per sostenere l’Ucraina, 25 in aiuti militari"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/18/lega-sfiducia-romeo-fontana-garavaglia-notizie/8576362/",
-     "title": "La rivolta della Lega in Lombardia, Fontana: “Errore sfiduciare Romeo, disagio rimane”. Garavaglia: “Finita peggio di quanto pensassi”"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/milanoquotidiano/lega-fontana-difende-romeo-dopo-la-sfiducia-un-errore-ha-dato-voce-al-disagio-dei-militanti/",
-     "title": "Lega, Fontana difende Romeo dopo la sfiducia: “Un errore, ha dato voce al disagio dei militanti”"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/finanziamenti-ue-per-lucraina-altri-45-miliardi-tra-aiuti-civili-e-difesa_4iFvAL0MdIKVK7Pv1O3G6A",
+     "title": "Finanziamenti Ue per l'Ucraina: altri 45 miliardi tra aiuti civili e difesa"
     }
    ]
   },
@@ -187,6 +182,75 @@
   },
   {
    "category": "politica",
+   "area": "italia",
+   "title": "Alta tensione nella Lega dopo la sfiducia in Senato di Romeo",
+   "summary": "Insorge la Lombardia. Garavaglia: 'Errore politico', Fontana: 'Trovare sfogo ai malumori'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
+   "pub_ts": 1795029372,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
+     "title": "Alta tensione nella Lega dopo la sfiducia in Senato di Romeo"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/capogruppo-lega-senato-massimiliano-romeo-sfiduciato-dreosto/",
+     "title": "Il capogruppo della Lega al Senato Massimiliano Romeo è stato sfiduciato: al suo posto è stato nominato Marco Dreosto"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/lega-massimiliano-romeo-capogruppo-senato-deosto-fyst887g",
+     "title": "Ribaltone Lega, Romeo dimissionato da capogruppo al Senato. Al suo posto Marco Deosto"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/18/lega-sfiducia-romeo-fontana-garavaglia-notizie/8576362/",
+     "title": "La rivolta della Lega in Lombardia, Fontana: “Errore sfiduciare Romeo, disagio rimane”. Garavaglia: “Finita peggio di quanto pensassi”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/milanoquotidiano/lega-fontana-difende-romeo-dopo-la-sfiducia-un-errore-ha-dato-voce-al-disagio-dei-militanti/",
+     "title": "Lega, Fontana difende Romeo dopo la sfiducia: “Un errore, ha dato voce al disagio dei militanti”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il trilaterale tra Trump, Xi e Putin secondo Ellekappa",
+   "summary": "",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/il_trilaterale_tra_trump_xi_e_putin_secondo_ellekappa-425733460/?rss",
+   "pub_ts": 1795044288,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/il_trilaterale_tra_trump_xi_e_putin_secondo_ellekappa-425733460/?rss",
+     "title": "Il trilaterale tra Trump, Xi e Putin secondo Ellekappa"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/xi-trump-e-putin-in-prima-fila-nella-foto-di-famiglia-dei-leader_54d0db72-3ad5-4ad0-aa1f-b451c4fa8a20.html",
+     "title": "Xi, Trump e Putin in prima fila nella foto di famiglia dei leader"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/diretta/vertice_apec_2026_shenzhen_news_oggi-425733619/",
+     "title": "Trilaterale Trump-Xi-Putin, la diretta. Oggi a Shenzhen il vertice dei tre leader. In programma anche un faccia a faccia tra Usa e Russia"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/putin-trump-xi-video-shenzhen-vertice_7m9NeiHnnyulWO0LMmDl7G",
+     "title": "Putin al vertice di Shenzhen, spunta la valigetta con i codici nucleari"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "mondo",
    "title": "Media, con Mary Peltola i dem vincono anche in Alaska",
    "summary": "Sconfitto il senatore repubblicano Dan S. Sullivan in carica da due mandati",
@@ -219,12 +283,39 @@
   },
   {
    "category": "politica",
+   "area": "mondo",
+   "title": "Tutti i sospetti di Deutsche Bank: indagine sulle entrate di Trump",
+   "summary": "Tra il 2017 e il 2021 il Progetto Broadway ha scavato nelle transazioni del presidente. Segnalate 59 transazioni a rischio riciclaggio, tra queste una serie di bonifici da società in Azerbaigian",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/deutsche_bank_indagine_riciclaggi_trump_progetto_broadway-425733490/?rss",
+   "pub_ts": 1795046400,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/deutsche_bank_indagine_riciclaggi_trump_progetto_broadway-425733490/?rss",
+     "title": "Tutti i sospetti di Deutsche Bank: indagine sulle entrate di Trump"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/deutsche_bank_indagine_riciclaggi_trump_progetto_broadway-425733490/",
+     "title": "Tutti i sospetti di Deutsche Bank: indagine sui riciclaggi di Trump"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/economia/inchiesta-leak-documenti-deutsche-bank-trump-ombre-russe-operazioni-sospette-ryzxqse5",
+     "title": "Ombre russe su Trump: ecco le operazioni sporche della Deutsche Bank"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "italia",
    "title": "Il Cdm avvia iter nomina di Remo Morzenti Pellegrini presidente Anac",
    "summary": "La proposta passerà al Parlamento per il parere obbligatorio",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/il-cdm-avvia-iter-nomina-di-remo-morzenti-pellegrini-presidente-anac_7cf4fb41-8bf1-440e-ba08-2d8d9a089c2e.html",
    "pub_ts": 1795028100,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -241,65 +332,6 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/18/remo-morzenti-pellegrini-nominato-presidente-anac/",
      "title": "Il governo ha scelto Remo Morzenti Pellegrini come presidente dell’ANAC, dopo il pasticcio sulla nomina di Trifone Altieri"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/18/news/anac_nomina_presidente_remo_morzenti_pellegrini-425732500/",
-     "title": "Anac, dopo il pasticcio verso la nomina: il presidente sarà Remo Morzenti"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari",
-   "summary": "Il supporto varrà per il 2027, 'rafforzerà l'Ucraina al tavolo negoziale'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
-   "pub_ts": 1795029507,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
-     "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/commissione-europea-prestito-ucraina/",
-     "title": "La Commissione Europea ha proposto un nuovo prestito da un massimo di 45 miliardi di euro per l’Ucraina"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/la-commissione-ue-propone-nuovo-prestito-45-miliardi-sostenere-l-ucraina-25-aiuti-militari-AJACPaKC",
-     "title": "La Commissione Ue propone un nuovo prestito da 45 miliardi per sostenere l’Ucraina, 25 in aiuti militari"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Xi a Putin: “Relazioni incrollabili come montagna”. Trump a Shenzhen, accolto dal leader cinese",
-   "summary": "Il presidente americano è arrivato in Cina per partecipare al vertice Apec. Intanto bilaterale tra Mosca e Pechino: toccato il tema della guerra in Ucraina",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_shenzhen_trump_accolto_xi_vertice_cina_russia_putin_guerra_ucraina-425731624/?rss",
-   "pub_ts": 1795021128,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_shenzhen_trump_accolto_xi_vertice_cina_russia_putin_guerra_ucraina-425731624/?rss",
-     "title": "Xi a Putin: “Relazioni incrollabili come montagna”. Trump a Shenzhen, accolto dal leader cinese"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/xi-trump-e-putin-in-prima-fila-nella-foto-di-famiglia-dei-leader_54d0db72-3ad5-4ad0-aa1f-b451c4fa8a20.html",
-     "title": "Xi, Trump e Putin in prima fila nella foto di famiglia dei leader"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-xi-putin-vertice-foto-shenzhen_E1ZMwBytWd6n5SnbUFKUU",
-     "title": "Trump ospite d'onore di Xi, Putin in seconda fila: gli indizi e la foto"
     }
    ]
   },
@@ -327,60 +359,6 @@
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/manovra-6600-emendamenti-assalto-diligenza/",
      "title": "Manovra: record di emendamenti, sono 6.600"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Assessore Marche, 'Acquaroli è estraneo ai fatti oggetto dell'inchiesta'",
-   "summary": "Bugaro risponde a domanda sui possibili timori per la tenuta della giunta",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/assessore-marche-acquaroli-e-estraneo-ai-fatti-oggetto-dellinchiesta_f375d886-0abd-4823-9610-6b9100c44b6e.html",
-   "pub_ts": 1795026600,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/assessore-marche-acquaroli-e-estraneo-ai-fatti-oggetto-dellinchiesta_f375d886-0abd-4823-9610-6b9100c44b6e.html",
-     "title": "Assessore Marche, 'Acquaroli è estraneo ai fatti oggetto dell'inchiesta'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/inchiesta-marche-il-governatore-acquaroli-nella-bufera-politica-cc008af7-85de-4dfb-8d6d-62e3bb236390.html",
-     "title": "Inchiesta Marche: il governatore Acquaroli nella bufera politica"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
-   "summary": "Lo afferma il presidente Jones",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
-   "pub_ts": 1794955224,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
-     "title": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'"
-    },
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
-     "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/17/jensen-huang-nvidia-ritorno-amministratore-delegator/",
-     "title": "Nvidia ha escluso il ritorno di Jensen Huang"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/huang-rompe-silenzio-disposto-tornare-nvidia-se-cda-ritiene-AJeEThJC",
-     "title": "Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene"
     }
    ]
   },
@@ -414,22 +392,27 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Microsoft, dagli esordi nell’IA ai modelli MAI per ridurre la dipendenza da OpenAI",
-   "summary": "Microsoft ha presentato sette nuovi modelli IA, battezzati MAI, per la scrittura di codice, la cybersicurezza, ma anche per immagini e voce. Modelli proprietari che raccontano un percorso iniziato nel 1991 e cresciuto con OpenAI. La strategia è sviluppare tecnologie IA sempre...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/microsoft_ia_modelli_mai-425732868/?rss",
-   "pub_ts": 1795020625,
-   "n_sources": 2,
+   "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene",
+   "summary": "Intervista al Wsj, chiede nuovamente scusa alla sua famiglia per i \"gravi errori\" commessi",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
+   "pub_ts": 1794936326,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/microsoft_ia_modelli_mai-425732868/?rss",
-     "title": "Microsoft, dagli esordi nell’IA ai modelli MAI per ridurre la dipendenza da OpenAI"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
+     "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene"
     },
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/microsoft-annuncia-sette-modelli-ai-cyber-coding-immagini/",
-     "title": "Microsoft annuncia sette modelli AI: cyber, coding e immagini"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/17/jensen-huang-nvidia-ritorno-amministratore-delegator/",
+     "title": "Nvidia ha escluso il ritorno di Jensen Huang"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/huang-rompe-silenzio-disposto-tornare-nvidia-se-cda-ritiene-AJeEThJC",
+     "title": "Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene"
     }
    ]
   },
@@ -456,13 +439,35 @@
    ]
   },
   {
+   "category": "tech",
+   "area": null,
+   "title": "Stretta sui social: \"stop ai minori di 13 anni in Italia\"",
+   "summary": "Arriva un emendamento nel decreto sicurezza per limitare l'accesso alle piattaforme digitali dei giovanissimi",
+   "link": "https://www.rainews.it/video/2026/11/emendamento-stretta-sui-social-stop-ai-minori-di-13-anni-in-italia-b3168a8b-91a3-4f23-9d26-e38068f9837d.html",
+   "pub_ts": 1795031220,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/emendamento-stretta-sui-social-stop-ai-minori-di-13-anni-in-italia-b3168a8b-91a3-4f23-9d26-e38068f9837d.html",
+     "title": "Stretta sui social: \"stop ai minori di 13 anni in Italia\""
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/proposta-maggioranza-divieto-social-network-minori-emendamento/",
+     "title": "Cosa c’è nella proposta della maggioranza per vietare i social ai minori di 13 anni"
+    }
+   ]
+  },
+  {
    "category": "varia",
    "area": null,
    "title": "Ranucci: 'Dal 23 novembre scatta la mia sospensione, sostenete Spotlight'",
    "summary": "Il conduttore fermo per 10 giorni a seguito del provvedimento disciplinare del 5 ottobre",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ranucci-dal-23-novembre-scatta-la-mia-sospensione-sostenete-spotlight_4ecf29c2-115a-4139-93ff-d95a06c71ef2.html",
    "pub_ts": 1795031572,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -479,11 +484,6 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/18/sigfrido-ranucci-sospeso-rai-10-giorni-da-23-novembre/",
      "title": "La sospensione di 10 giorni di Sigfrido Ranucci dalla Rai comincerà il 23 novembre: salterà due puntate del suo nuovo programma"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/18/news/ranucci_sospeso_dalla_rai_saltero_due_puntate_di_spotlight-425732675/",
-     "title": "Ranucci sospeso dalla Rai per dieci giorni dal 23 novembre: “Salterò due puntate di Spotlight”"
     }
    ],
    "subtype": "cultura"
@@ -519,22 +519,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Miguel Gotor vince il Premio Strega Saggistica e lo dedica ai giovani di oggi",
-   "summary": "Con 'L'omicidio di Piersanti Mattarella'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/18/miguel-gotor-e-il-vincitore-della-seconda-edizione-del-premio-strega-saggistica_d93d5b92-33ea-4ead-8385-49f016878a0c.html",
-   "pub_ts": 1795032942,
+   "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari",
+   "summary": "Per 'Castagni in fiore' polemica con gli eredi dell'ex proprietario vittima dei nazisti",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
+   "pub_ts": 1795054860,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/18/miguel-gotor-e-il-vincitore-della-seconda-edizione-del-premio-strega-saggistica_d93d5b92-33ea-4ead-8385-49f016878a0c.html",
-     "title": "Miguel Gotor vince il Premio Strega Saggistica e lo dedica ai giovani di oggi"
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
+     "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari"
     },
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/premio-strega-saggistica-miguel-gotor-vince-la-seconda-edizione_1PcW18JuBXcZSmnN9S7DrG",
-     "title": "Premio Strega Saggistica, Miguel Gotor vince la seconda edizione"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/sothebys-chtaigniers-en-fleurs-di-van-gogh-venduto-a-1904-milioni-di-dollari-922b91d0-8441-4edf-ad90-84a5ee705d85.html",
+     "title": "Sotheby’s: \"Châtaigniers en fleurs\" di Van Gogh venduto a 190,4 milioni di dollari"
     }
    ],
    "subtype": "cultura"
@@ -591,7 +591,7 @@
    "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
    "description": "Russia e Cina: 'Ordine mondiale multipolare, noi la stabilità'. Il tycoon parla con lo zar",
-   "pub_ts": 1795034145,
+   "pub_ts": 1795044543,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -606,11 +606,11 @@
    "section": "politica"
   },
   {
-   "title": "Alta tensione nella Lega dopo la sfiducia in Senato di Romeo",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
-   "description": "Insorge la Lombardia. Garavaglia: 'Errore politico', Fontana: 'Trovare sfogo ai malumori'",
-   "pub_ts": 1795029372,
-   "source": "ANSA Politica",
+   "title": "L’Ucraina chiede aiuto, la Ue offre un prestito da 45 miliardi di euro",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/ucraina_aiuti_unione_europea_prestito_45_miliardi-425733275/?rss",
+   "description": "Von der Leyen: “L’obiettivo è dare una mano forte nei negoziati”. Ma quattro Paesi dell’est cercano di sfilarsi dal prestito per il 2027",
+   "pub_ts": 1795046400,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -624,11 +624,38 @@
    "section": "politica"
   },
   {
+   "title": "Alta tensione nella Lega dopo la sfiducia in Senato di Romeo",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/garavaglia-la-sfiducia-a-romeo-ignobile-e-politicamente-stupida_20fdf933-d46a-45c5-aaa6-d07f540b3948.html",
+   "description": "Insorge la Lombardia. Garavaglia: 'Errore politico', Fontana: 'Trovare sfogo ai malumori'",
+   "pub_ts": 1795029372,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il trilaterale tra Trump, Xi e Putin secondo Ellekappa",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/il_trilaterale_tra_trump_xi_e_putin_secondo_ellekappa-425733460/?rss",
+   "description": "",
+   "pub_ts": 1795044288,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Media, con Mary Peltola i dem vincono anche in Alaska",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_58944bde-6c8e-473f-aa22-5e1e0815f550.html",
    "description": "Sconfitto il senatore repubblicano Dan S. Sullivan in carica da due mandati",
    "pub_ts": 1795031267,
    "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Tutti i sospetti di Deutsche Bank: indagine sulle entrate di Trump",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/deutsche_bank_indagine_riciclaggi_trump_progetto_broadway-425733490/?rss",
+   "description": "Tra il 2017 e il 2021 il Progetto Broadway ha scavato nelle transazioni del presidente. Segnalate 59 transazioni a rischio riciclaggio, tra queste una serie di bonifici da società in Azerbaigian",
+   "pub_ts": 1795046400,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -642,24 +669,6 @@
    "section": "politica"
   },
   {
-   "title": "L'Ue vara strumento per prestito da 45 miliardi per Kiev, 25 in aiuti militari",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/lue-vara-strumento-per-prestito-da-45-miliardi-per-kiev-25-in-aiuti-militari_97901143-fa93-4065-a8da-54d5464f001e.html",
-   "description": "Il supporto varrà per il 2027, 'rafforzerà l'Ucraina al tavolo negoziale'",
-   "pub_ts": 1795029507,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Xi a Putin: “Relazioni incrollabili come montagna”. Trump a Shenzhen, accolto dal leader cinese",
-   "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_shenzhen_trump_accolto_xi_vertice_cina_russia_putin_guerra_ucraina-425731624/?rss",
-   "description": "Il presidente americano è arrivato in Cina per partecipare al vertice Apec. Intanto bilaterale tra Mosca e Pechino: toccato il tema della guerra in Ucraina",
-   "pub_ts": 1795021128,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Record di emendamenti alla manovra, la maggioranza vuole il condono",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/17/record-di-emendamenti-alla-manovra-la-maggioranza-vuole-il-condono_0852cc79-1b4d-45f3-a0ff-9faa1bbaab52.html",
    "description": "Vertice con Meloni: 'uniti, mantenere i conti in ordine'. Ma pensioni e banche dividono",
@@ -667,24 +676,6 @@
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
-  },
-  {
-   "title": "Assessore Marche, 'Acquaroli è estraneo ai fatti oggetto dell'inchiesta'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/assessore-marche-acquaroli-e-estraneo-ai-fatti-oggetto-dellinchiesta_f375d886-0abd-4823-9610-6b9100c44b6e.html",
-   "description": "Bugaro risponde a domanda sui possibili timori per la tenuta della giunta",
-   "pub_ts": 1795026600,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
-   "description": "Lo afferma il presidente Jones",
-   "pub_ts": 1794955224,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "tech"
   },
   {
    "title": "Apple down, problemi per iCloud, App Store, Apple Music e altri servizi online. Cos’è accaduto",
@@ -696,11 +687,11 @@
    "section": "tech"
   },
   {
-   "title": "Microsoft, dagli esordi nell’IA ai modelli MAI per ridurre la dipendenza da OpenAI",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/microsoft_ia_modelli_mai-425732868/?rss",
-   "description": "Microsoft ha presentato sette nuovi modelli IA, battezzati MAI, per la scrittura di codice, la cybersicurezza, ma anche per immagini e voce. Modelli proprietari che raccontano un percorso iniziato nel 1991 e cresciuto con OpenAI. La strategia è sviluppare tecnologie IA sempre...",
-   "pub_ts": 1795020625,
-   "source": "Repubblica Tecnologia",
+   "title": "Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/huang-rompe-il-silenzio-disposto-a-tornare-a-nvidia-se-cda-lo-ritiene_db5d147d-1def-495a-9191-9f64c3c31701.html",
+   "description": "Intervista al Wsj, chiede nuovamente scusa alla sua famiglia per i \"gravi errori\" commessi",
+   "pub_ts": 1794936326,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -710,6 +701,15 @@
    "description": "L’azienda di cybersecurity Calif ha scoperto in tre ore Java4Shell con l’aiuto del modello GPT-6 Cyber. La falla, critica e potenzialmente molto pericolosa, è stata corretta con l’aiuto del modello GPT-6 Cyber. Alcuni sistemi Java consentono attacchi da remoto prima...",
    "pub_ts": 1795003834,
    "source": "Repubblica Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Stretta sui social: \"stop ai minori di 13 anni in Italia\"",
+   "link": "https://www.rainews.it/video/2026/11/emendamento-stretta-sui-social-stop-ai-minori-di-13-anni-in-italia-b3168a8b-91a3-4f23-9d26-e38068f9837d.html",
+   "description": "Arriva un emendamento nel decreto sicurezza per limitare l'accesso alle piattaforme digitali dei giovanissimi",
+   "pub_ts": 1795031220,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "tech"
   },
@@ -732,10 +732,10 @@
    "section": "varia"
   },
   {
-   "title": "Miguel Gotor vince il Premio Strega Saggistica e lo dedica ai giovani di oggi",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/18/miguel-gotor-e-il-vincitore-della-seconda-edizione-del-premio-strega-saggistica_d93d5b92-33ea-4ead-8385-49f016878a0c.html",
-   "description": "Con 'L'omicidio di Piersanti Mattarella'",
-   "pub_ts": 1795032942,
+   "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
+   "description": "Per 'Castagni in fiore' polemica con gli eredi dell'ex proprietario vittima dei nazisti",
+   "pub_ts": 1795054860,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
