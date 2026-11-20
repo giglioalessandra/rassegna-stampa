@@ -1,6 +1,6 @@
 {
- "generated_at": 1795173378,
- "updated_at": 1795173378,
+ "generated_at": 1795204395,
+ "updated_at": 1795204395,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,22 +10,197 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "“Rohingya, fu genocidio”: Myanmar condannato dal tribunale dell’Onu",
-   "summary": "Storica sentenza ieri all’Aia per la persecuzione della minoranza musulmana. Attesa per il verdetto sulle azioni di Israele a Gaza",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/rohingya_genocidio_myanmar_condanna_tribunale_onu-425735662/?rss",
-   "pub_ts": 1795161354,
+   "title": "Trump: “L’Iran vuole un accordo non accettabile. Con Xi concordati paletti per IA”",
+   "summary": "La conferenza stampa del presidente americano dopo il trilaterale a Shenzhen: “Una delle visite presidenziali di maggior successo nella storia Usa”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+   "pub_ts": 1795201682,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+     "title": "Trump: “L’Iran vuole un accordo non accettabile. Con Xi concordati paletti per IA”"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html",
+     "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/20/trump-iran-accordo-putin-data-center-cina/",
+     "title": "Trump avverte Teheran e sfida Pechino sull’AI: «Vogliamo un vero accordo con l’Iran. Tasse pesanti sui data center all’estero»"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/",
+     "title": "Trump: “L’Iran vuole un accordo non accettabile. Con Xi concordati paletti per IA”"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-cina-shenzhen-vertice-trilaterale_2WVlhO8ESjEbGoZDLq8aBW",
+     "title": "Trump: \"Putin vuole la fine della guerra in Ucraina, ci sono ottime possibilità\""
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/presidente-usa-donald-trump-iran-non-fara-un-accordo-per-me-accettabile-c65d5034-272f-4059-8c59-94ac166522f7.html",
+     "title": "Trump: \"L'Iran non farà un accordo per me accettabile\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'",
+   "summary": "Cortei di lavoratori e studenti. Il sindacato: 'Adesione al 60%'. Il segretario: 'Messaggio a tutta la politica, le persone chiedono risposte'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
+   "pub_ts": 1795202594,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
+     "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/la-rabbia-riempie-le-piazze-italiane-siamo-un-milione-sciopero-generale-cgil-cento-piazze-manovra-jn18am0v",
+     "title": "La rabbia riempie le piazze italiane: «Siamo un milione»"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/20/news/landini_sciopero_cgil_presidio_contro_manovra_parlamento-425737683/",
+     "title": "Sciopero, Landini dalla piazza: “Siamo 1 milione. Presidio in Parlamento se la manovra non cambia”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/sciopero-generale-manifestazioni-20-novembre-cgil/",
+     "title": "Una giornata di sciopero generale"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/sciopero-cgil-emendamenti-manovra-costi-coperture-landini-avs/",
+     "title": "Sciopero Cgil: il libro dei sogni di Landini costa 50 miliardi"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Londra e Ue più vicine: siglata la prima intesa post Brexit. Burnham: “Nel 2027 ci confronteremo sul futuro dei rapporti”",
+   "summary": "Von Der Leyen: “Siamo a una svolta”. Il premier britannico: “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
+   "pub_ts": 1795198732,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/rohingya_genocidio_myanmar_condanna_tribunale_onu-425735662/?rss",
-     "title": "“Rohingya, fu genocidio”: Myanmar condannato dal tribunale dell’Onu"
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
+     "title": "Londra e Ue più vicine: siglata la prima intesa post Brexit. Burnham: “Nel 2027 ci confronteremo sul futuro dei rapporti”"
     },
     {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/brexit-regno-unito-e-ue-trovano-l-intesa-commercio-e-mobilita-giovani-AJ6wYHNC",
+     "title": "Brexit, Regno Unito e Ue trovano un’intesa (a metà) su commercio e mobilità dei giovani"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/incontro-regno-unito-ue-accordi-brexit/",
+     "title": "I primi accordi concreti tra Regno Unito e Unione Europea su Brexit"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/20/summit-ue-regno-unito-accordi-bruxelles-notizie/8578993/",
+     "title": "Ue-Regno Unito, “svolta” nei rapporti dopo la Brexit: accordi su commercio, emissioni e mobilità dei giovani. Burnham: “Ricostruiamo i ponti”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "FI presenta emendamento soppressivo degli ebook alla Camera",
+   "summary": "Al Serato gli azzurri avevano fatto muro sull'emendamento di Fdi",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/fi-presenta-emendamento-soppressivo-degli-ebook-alla-camera_0f606623-9fbd-4bc4-8f92-67762dd46612.html",
+   "pub_ts": 1795196217,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/fi-presenta-emendamento-soppressivo-degli-ebook-alla-camera_0f606623-9fbd-4bc4-8f92-67762dd46612.html",
+     "title": "FI presenta emendamento soppressivo degli ebook alla Camera"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/20/emendamento-e-book-forza-italia-fdi-lega/",
+     "title": "A destra si continua a discutere sugli e-book. Forza Italia lancia l’emendamento soppressivo, la mossa di Rampelli con la «valutazione cognitiva»"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/forza-italia-emendamento-soppressivo-e-book-dl-scuola-fqud44le",
+     "title": "Forza Italia presenta un emendamento soppressivo per la norma sugli e-book"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/19/governo-maggioranza-decreto-scuola-libri-digitali-senato/",
+     "title": "La maggioranza si è divisa in un voto sui libri scolastici"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Burnham saluta accordo 'storico' su reset, 'bel giorno per Gb ed Ue'",
+   "summary": "Lo ha detto il premier alla sessione plenaria del vertice di Bruxelles",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/burnham-saluta-accordo-storico-su-reset-bel-giorno-per-gb-ed-ue_f0d2d0f6-9205-4f7b-8b27-8676a6f00fda.html",
+   "pub_ts": 1795193358,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/gb-espelle-addetto-militare-del-myanmar-dopo-sentenza-sul-genocidio_4665ed1c-62ab-4c57-9a0d-4ece6f8e52f3.html",
-     "title": "Gb espelle addetto militare del Myanmar dopo sentenza sul genocidio"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/burnham-saluta-accordo-storico-su-reset-bel-giorno-per-gb-ed-ue_f0d2d0f6-9205-4f7b-8b27-8676a6f00fda.html",
+     "title": "Burnham saluta accordo 'storico' su reset, 'bel giorno per Gb ed Ue'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/20/ue-uk-accordo-post-brexit-burnham-von-der-leyen-cosa-prevede/",
+     "title": "Andy Burnham a Bruxelles firma il “reset” dei rapporti Uk-Ue dopo la Brexit: «Accordo storico». Ecco cosa prevede"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ue-gb-relazioni-post-brexit-accordo-cosa-prevede_74kqZIEm9ly9yD2P9Sak9W",
+     "title": "Ue-Gb e relazioni post Brexit, intesa su reset. Burnham: \"Accordo storico\". Cosa cambia per i giovani"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/cosa-cambia-in-dieci-anni/",
+     "title": "Cosa cambia in dieci anni?"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Postiglione Bellamy, 'storica sentenza contro Myanmar per il genocidio dei Rohingya'",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/20/postiglione-bellamy-storica-sentenza-contro-myanmar-per-il-genocidio-dei-rohingya_7ae0c395-9482-4c44-86e8-de4383cf902b.html",
+   "pub_ts": 1795175955,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/20/postiglione-bellamy-storica-sentenza-contro-myanmar-per-il-genocidio-dei-rohingya_7ae0c395-9482-4c44-86e8-de4383cf902b.html",
+     "title": "Postiglione Bellamy, 'storica sentenza contro Myanmar per il genocidio dei Rohingya'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/rohingya_genocidio_myanmar_condanna_tribunale_onu-425735662/?rss",
+     "title": "“Rohingya, fu genocidio”: Myanmar condannato dal tribunale dell’Onu"
     },
     {
      "name": "Il Post",
@@ -34,263 +209,143 @@
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/myanmar-responsabile-genocidio-rohingya-storica-sentenza-corte-internazionale-giustizia-cosa-succede-adesso-gaza-whmxy7a5",
-     "title": "Il Myanmar è responsabile del genocidio dei rohingya: la storica sentenza della Corte internazionale di giustizia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Tajani, 'Shenzhen non è nuova Yalta, speriamo dia contributo alla pace'",
-   "summary": "'Non si può raggiungere la pace senza la presenza europea'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/tajani-shenzhen-non-e-nuova-yalta-speriamo-dia-contributo-alla-pace_6260b6ef-067c-400f-bc8a-56e81d2d0870.html",
-   "pub_ts": 1795150680,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/tajani-shenzhen-non-e-nuova-yalta-speriamo-dia-contributo-alla-pace_6260b6ef-067c-400f-bc8a-56e81d2d0870.html",
-     "title": "Tajani, 'Shenzhen non è nuova Yalta, speriamo dia contributo alla pace'"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/conferenza-yalta-shenzhen-incontro-trump-putin-xi/",
-     "title": "Perché Shenzhen non è una “nuova Yalta”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/",
-     "title": "Il grande cerimoniere riporta l’Impero al centro: “Shenzhen supera Yalta”"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/altro-che-nuova-yalta-come-e-andata-tra-xi-trump-e-putin/",
-     "title": "Altro che nuova Yalta: come è andata tra Xi, Trump e Putin"
+     "link": "https://www.editorialedomani.it/idee/commenti/definisci-genocidio-myanmar-sentenza-storica-rohingya-corte-internazionale-go0ecsgs",
+     "title": "Definisci genocidio, contro il Myanmar un verdetto storico"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi",
-   "summary": "(Adnkronos) - Il timore è che l'enfasi data all'incontro possa ulteriormente spingere Trump \"a sostenere le ambizioni di Putin sui territori ucraini e le rivendicazioni di Xi su Taiwan\", scrive Politico. La Cnn si chiede: \"Perché li considera amici, Russia e Cina non sono amici degli Usa\"",
-   "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
-   "pub_ts": 1795162334,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
-     "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/trump-incontra-putin-e-xi-ucraina-e-nucleare-al-centro-del-vertice-tra-tre-potenze-shenzhen-o95uvbz7",
-     "title": "Trump, Putin e Xi, il vertice si chiude senza svolte. Nessun accordo su Ucraina e nucleare"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/trump-putin-xi-jinping-incontro-cina/",
-     "title": "Come è andato l’incontro tra Trump, Putin e Xi Jinping"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/zuppa-di-porro/zuppa-di-porro-del-20-novembre-2026/",
-     "title": "Xi-Trump-Putin, cosa comporta il vertice a tre"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Focus su pensioni e sanità al vertice di maggioranza, Meloni chiede 'basta divisioni'",
-   "summary": "Premier: Zes estesa. Si media sul condono. Alleati: 'Ci sono anche nostre battaglie di bandiera'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
-   "pub_ts": 1795127736,
+   "title": "Media, un missile russo a circa 100 km da esercitazione Volenterosi in Polonia",
+   "summary": "Le manovre militari sono in corso dal 9 al 22 novembre",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/media-un-missile-russo-a-circa-100-km-da-esercitazione-volenterosi-in-polonia_b274db9f-55fd-45f3-984d-697724a5d5b1.html",
+   "pub_ts": 1795189825,
    "n_sources": 3,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
-     "title": "Focus su pensioni e sanità al vertice di maggioranza, Meloni chiede 'basta divisioni'"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/in-serata-vertice-sulla-manovra-con-meloni_47fd5405-3207-46a3-ac9d-5dc7d9fc5061.html",
-     "title": "In serata vertice sulla manovra con Meloni"
-    },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/merz-apre-il-vertice-dei-volenterosi-meloni-al-tavolo-tra-macron-e-de-wever_3125e3d6-6228-45d7-83b1-022a84d5716e.html",
-     "title": "Merz apre il vertice dei Volenterosi, Meloni al tavolo tra Macron e de Wever"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il principe Harry: 'Mi riarruolerei per combattere contro la Russia'",
-   "summary": "Al Telegraph: 'Gb in conflitto con Mosca ormai da un decennio'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/il-principe-harry-mi-riarruolerei-per-combattere-contro-la-russia_ed4b6357-3f8b-4697-99c8-48a6690a5719.html",
-   "pub_ts": 1795116256,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/il-principe-harry-mi-riarruolerei-per-combattere-contro-la-russia_ed4b6357-3f8b-4697-99c8-48a6690a5719.html",
-     "title": "Il principe Harry: 'Mi riarruolerei per combattere contro la Russia'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/principe_harry_pronto_ad_arruolarmi_esercito_se_necessario_minaccia_russia-425735499/?rss",
-     "title": "Il principe Harry e la minaccia russa: “Tornerei a combattere nell’esercito”"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/media-un-missile-russo-a-circa-100-km-da-esercitazione-volenterosi-in-polonia_b274db9f-55fd-45f3-984d-697724a5d5b1.html",
+     "title": "Media, un missile russo a circa 100 km da esercitazione Volenterosi in Polonia"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/principe-harry-pronto-a-combattere-contro-russia-ucraina_3jxLBMShMD4f07iyqA1ZDW",
-     "title": "Ucraina, principe Harry: \"Pronto a combattere la Russia se fosse necessario\""
+     "link": "https://www.adnkronos.com/internazionale/esteri/missile-russo-polonia-esercitazioni-volenterosi_4lZ7rB5t5JrDE3Ikjip75u",
+     "title": "Ucraina, missile russo cade in Polonia a 100 km da esercitazione delle truppe dei Volenterosi. Decollano jet della Nato"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/polonia-missili-droni-russia-ucraina/",
+     "title": "Almeno un missile russo è caduto anche in Polonia"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "I libri scolastici spaccano la maggioranza. Caos in aula, Meloni piega i Berlusconi",
-   "summary": "Lo sconto agli ebook è un nuovo affronto ai figli del Cavaliere, gli azzurri votano no: la norma passa al Senato con lo strappo. La maggioranza è in frantumi. La premier rivendica la Zes estesa al Centro-Nord, ma il Pd ricorda: «Proposta delle opposizioni»",
-   "link": "https://www.editorialedomani.it/politica/italia/libri-scuola-maggioranza-spaccata-caos-aula-meloni-piega-berlusconi-hiekxklf",
-   "pub_ts": 1795118395,
+   "title": "Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video",
+   "summary": "Schlein alle prese con il salario minimo, Conte con il reddito 2.0 e Bonelli e Fratoianni con la patrimoniale. Ma la «missione multiplayer» fallisce L'articolo Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video proviene da Open.",
+   "link": "https://www.open.online/2026/11/20/forza-italia-gta-6-campo-largo-renzi-berlusconi-video/",
+   "pub_ts": 1795201005,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/libri-scuola-maggioranza-spaccata-caos-aula-meloni-piega-berlusconi-hiekxklf",
-     "title": "I libri scolastici spaccano la maggioranza. Caos in aula, Meloni piega i Berlusconi"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/governo-maggioranza-decreto-scuola-libri-digitali-senato/",
-     "title": "La maggioranza si è divisa in un voto sui libri scolastici"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/politicoquotidiano/tensioni-nel-centrodestra-la-maggioranza-va-sotto-sui-libri-scolastici/",
-     "title": "Tensioni nel centrodestra: la maggioranza va sotto sui libri scolastici"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Fonti interne: siglata l’intesa tra Ue e Gran Bretagna al summit del reset delle relazioni",
-   "summary": "I contenuti dell'intesa verranno illustrati dai leader in conferenza stampa. Le anticipazioni di alcuni funzionari europei: “Accordo su quote per la mobilità giovanile, 100mila ragazzi all’anno potranno risiedere in Gran Bretagna”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
-   "pub_ts": 1795173209,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
-     "title": "Fonti interne: siglata l’intesa tra Ue e Gran Bretagna al summit del reset delle relazioni"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/fonti-ue-siglata-lintesa-ue-uk-al-summit-del-reset_4835b2dc-e0fa-4a3c-bb62-cf1e55bf8c1c.html",
-     "title": "Fonti Ue, siglata l'intesa Ue-Uk al summit del reset"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Mattarella, l'Italia non può privarsi del suo essere molteplice",
-   "summary": "Immigrati in attività artigiane aiutano a tenere in vita mestieri e servizi necessari",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/mattarella-litalia-non-puo-privarsi-del-suo-essere-molteplice_9b2c94a7-48f0-4e36-b5ce-e3ea39fe0cd6.html",
-   "pub_ts": 1795172098,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/mattarella-litalia-non-puo-privarsi-del-suo-essere-molteplice_9b2c94a7-48f0-4e36-b5ce-e3ea39fe0cd6.html",
-     "title": "Mattarella, l'Italia non può privarsi del suo essere molteplice"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/eventi/2026/11/19/valore-futuro-assemblea-nazionale-della-cna_123c1b6f-f280-4b54-a897-b4f3d17a3830.html",
-     "title": "Mattarella: 'L'Italia non può privarsi del suo essere molteplice'"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Fonti Ue: \"Se Londra vuole rientrare, pronti a parlarne\"",
-   "summary": "\"Ma è una decisione dei britannici. Lavoriamo già su ambiti del mercato unico\"",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/fonti-ue-se-londra-vuole-rientrare-pronti-a-parlarne_5b953d39-9a7b-42ee-ac7c-68f1e0f99a6a.html",
-   "pub_ts": 1795166114,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/fonti-ue-se-londra-vuole-rientrare-pronti-a-parlarne_5b953d39-9a7b-42ee-ac7c-68f1e0f99a6a.html",
-     "title": "Fonti Ue: \"Se Londra vuole rientrare, pronti a parlarne\""
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/fonti-ue-se-londra-vuole-rientrare-pronti-a-parlarne_a4094572-de8e-48bd-9c95-dc4482e48ad6.html",
-     "title": "Fonti Ue, 'se Londra vuole rientrare pronti a parlarne'"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Brexit, la marea di sondaggi che spinge Burnham verso il (possibile) rientro del Regno Unito in Ue",
-   "summary": "Alla vigilia del vertice di Bruxelles di domani, sempre più rilevazioni sembrano giustificare il forte riavvicinamento all’Unione voluto dal primo ministro britannico. E l’ex vice di Starmer: “Bisogna tornare in Ue al più presto”",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/brexit_sondaggi_burnham_rientro_regno_unito_ue-425734324/?rss",
-   "pub_ts": 1795162320,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/brexit_sondaggi_burnham_rientro_regno_unito_ue-425734324/?rss",
-     "title": "Brexit, la marea di sondaggi che spinge Burnham verso il (possibile) rientro del Regno Unito in Ue"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/20/forza-italia-gta-6-campo-largo-renzi-berlusconi-video/",
+     "title": "Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/andy-burnham-a-bruxelles-per-rilanciare-i-rapporti-ue-regno-unito-dopo-la-brexit-d69f60b1-6499-45ad-8b80-da3cc13ad532.html",
-     "title": "Andy Burnham a Bruxelles per rilanciare i rapporti UE-Regno Unito dopo la Brexit"
+     "link": "https://www.rainews.it/video/2026/11/volenterosi-il-campo-daddestramento-della-forza-multinazionale-per-lucraina-48ad285e-296b-4c41-bd05-05d0a4c40f57.html",
+     "title": "Volenterosi, il campo d'addestramento della forza multinazionale per l'Ucraina - Video"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/vertice-volenterosi-berlino-francia-italia-germania-regno-unito-polonia-ucraina-aiuti-wipb42p9",
+     "title": "I volenterosi si riuniscono a Berlino per l’Ucraina: «Dopo il cessate il fuoco, una forza internazionale»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Israele: Eisenkot pronto a un governo di emergenza da premier, nessuna rotazione con Bibi",
+   "summary": "Ultima chance se saltano i negoziati con ortodossi e Likud. Hamas riafferma potere su Gaza",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/israele-eisenkot-pronto-a-un-governo-di-emergenza-da-premier-nessuna-rotazione-con-bibi_1ef68397-dd2b-49c1-953f-30bf696a465b.html",
+   "pub_ts": 1795203651,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/israele-eisenkot-pronto-a-un-governo-di-emergenza-da-premier-nessuna-rotazione-con-bibi_1ef68397-dd2b-49c1-953f-30bf696a465b.html",
+     "title": "Israele: Eisenkot pronto a un governo di emergenza da premier, nessuna rotazione con Bibi"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/20/eisenkot-se-negoziati-falliscono-formero-governo-di-emergenza_abecde7b-cc93-42fa-8039-5b2127f43925.html",
+     "title": "Eisenkot, 'se negoziati falliscono, formerò governo di emergenza'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Scontro sugli ebook, FI presenta un emendamento soppressivo alla Camera",
+   "summary": "La norma sui libri digitali era stata approvata al Senato. La Russa: 'Possibili effetti sul clima politico'. Emendamento di Rampelli: 'Utilizzo dopo una valutazione sull'impatto cognitivo'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/scontro-sugli-ebook-fi-presenta-un-emendamento-soppressivo-alla-camera-_a676fb83-bb34-4ed1-bb51-a0428ece696b.html",
+   "pub_ts": 1795192318,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/scontro-sugli-ebook-fi-presenta-un-emendamento-soppressivo-alla-camera-_a676fb83-bb34-4ed1-bb51-a0428ece696b.html",
+     "title": "Scontro sugli ebook, FI presenta un emendamento soppressivo alla Camera"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/tajani-emendamento-soppressivo-su-ebook-vediamo-se-troviamo-mediazioni_5f0a76ae-f01e-46db-a8fd-e8c45ad841cb.html",
+     "title": "Tajani, emendamento soppressivo su ebook? Vediamo se troviamo mediazioni"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Anthropic debutta in Borsa, ora vale 1.500 miliardi",
-   "summary": "Amodei suona la campanella del Nasdaq, 'ossessionati dalla sicurezza dell'IA'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/19/anthropic-debutta-in-borsa-ora-vale-1.500-miliardi_940ae56a-3aff-4ea5-bc3a-e304b533c321.html",
-   "pub_ts": 1795115705,
-   "n_sources": 4,
+   "title": "La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Street giù",
+   "summary": "Alla seconda seduta perde oltre il 10%. Profondo rosso in Asia",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/la-bolla-ia-gela-i-mercati-leuropa-brucia-370-miliardi.-anthropic-e-wall-street_0ba615f0-de7d-440c-a699-c689e255c19e.html",
+   "pub_ts": 1795204173,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/la-bolla-ia-gela-i-mercati-leuropa-brucia-370-miliardi.-anthropic-e-wall-street_0ba615f0-de7d-440c-a699-c689e255c19e.html",
+     "title": "La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Street giù"
+    },
+    {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/19/anthropic-debutta-in-borsa-ora-vale-1.500-miliardi_940ae56a-3aff-4ea5-bc3a-e304b533c321.html",
-     "title": "Anthropic debutta in Borsa, ora vale 1.500 miliardi"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/20/anthropic-apre-in-calo-a-wall-street-nella-seconda-giornata-di-scambi_e524be34-039f-4d4f-89ef-60b335edd286.html",
+     "title": "Anthropic apre in calo a Wall Street nella seconda giornata di scambi"
     },
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/dario-amodei-chi-e-anthropic-sam-altman-wall-street-425733805/?rss",
-     "title": "Chi è Dario Amodei, il fondatore di Anthropic che ha battuto Sam Altman a Wall Street"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
+     "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/anthropic-ipo-record-da-935-miliardi-di-dollari/",
+     "title": "Anthropic: IPO record da 93,5 miliardi di dollari"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/bending-spoons-mailchimp/",
+     "title": "Bending Spoons comprerà per 3,68 miliardi di dollari Mailchimp, uno dei più popolari servizi per mandare newsletter"
     },
     {
      "name": "Domani",
@@ -298,36 +353,63 @@
      "title": "Anthropic, esordio boom a Wall Street, Amodei: «Investiremo sulla sicurezza»"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/anthropic-conquista-il-nasdaq-raccolta-da-1073-miliardi-battuta-spacex-proteste-in-strada-76ce8b25-4fcc-4020-8640-c75811065728.html",
-     "title": "Anthropic vola all'esordio a Wall Street, vale 2.000 miliardi"
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/anthropic-lipo-dei-record-quanto-vale-e-quanto-sono-ricchi-da-oggi-i-suoi-fondatori/",
+     "title": "Anthropic, l’Ipo dei record: quanto vale e quanto sono ricchi (da oggi) i suoi fondatori"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Cyber attacco alla Commissione europea, possibili dati personali compromessi. Usate le IA",
-   "summary": "Colpiti i sistemi informatici dell’esecutivo dell’Unione europea, con applicazioni interne sospese per precauzione. Si temono possibili rischi per le informazioni dei dipendenti",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/cyber_attacco_commissione_europea_ia-425735466/?rss",
-   "pub_ts": 1795101298,
+   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
+   "summary": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
+   "pub_ts": 1795188199,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/cyber_attacco_commissione_europea_ia-425735466/?rss",
-     "title": "Cyber attacco alla Commissione europea, possibili dati personali compromessi. Usate le IA"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
+     "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/attacco-hacker-alla-commissione-europea-con-ia-il-22-ottobre-nessuna-violazione_307b38fd-2f52-4071-a196-b5ed19291ee4.html",
-     "title": "Attacco hacker alla Commissione europea con Ia il 22 ottobre, 'nessuna violazione'"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/sensori-smartphone-come-sismografi-google-attiva-in-italia-le-allerte-terremoti-5e999abb-f1e3-47ae-a2c1-cc3c787cffe4.html",
+     "title": "Smartphone come sismografi: Google attiva anche in Italia le allerte terremoti"
     },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/20/il-tuo-smartphone-android-puo-sapere-che-sta-arrivando-un-terremoto-prima-di-te-ecco-come-funziona-lallerta-di-google-che-trasforma-i-cellulari-in-mini-sismografi/8578824/",
+     "title": "Il tuo smartphone Android può sapere che sta arrivando un terremoto prima di te: ecco come funziona l’allerta di Google che trasforma i cellulari in mini-sismografi"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "In Italia è stata approvata la guida semiautonoma delle Tesla",
+   "summary": "È un sistema con cui le auto si manovrano da sole sotto una supervisione umana, ma per vederle per strada ci vorrà ancora un po'",
+   "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
+   "pub_ts": 1795203563,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/attacco-informatico-commissione-europea/",
-     "title": "La Commissione Europea ha subìto un attacco informatico"
+     "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
+     "title": "In Italia è stata approvata la guida semiautonoma delle Tesla"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/salvini-tesla-assisted-driving-italia/",
+     "title": "Salvini annuncia l’arrivo di Tesla Assisted Driving in Italia"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/salvini-accelera-via-libera-alle-tesla-a-guida-autonoma-in-italia-e-musk-ringrazia/",
+     "title": "Salvini accelera: via libera alle Tesla a guida autonoma in Italia. E Musk ringrazia"
     }
    ]
   },
@@ -354,26 +436,52 @@
    ]
   },
   {
-   "category": "tech",
+   "category": "varia",
    "area": null,
-   "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere",
-   "summary": "In video su YouTube moglie proclama innocenza dell'attore condannato per stupro",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_c0ee297a-a206-4c08-a80e-64100e751ed6.html",
-   "pub_ts": 1795092085,
-   "n_sources": 2,
+   "title": "Stupro di gruppo, inchiesta su un caso che riguarderebbe anche Depardieu e Houellebecq",
+   "summary": "'I fatti risalirebbero al 2018 durante le riprese del film Thalasso'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/20/stupro-di-gruppo-inchiesta-su-un-caso-che-riguarderebbe-anche-depardieu-e-houellebecq_eb56b288-5863-49f6-8c4d-d2113446714a.html",
+   "pub_ts": 1795194048,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_c0ee297a-a206-4c08-a80e-64100e751ed6.html",
-     "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/20/stupro-di-gruppo-inchiesta-su-un-caso-che-riguarderebbe-anche-depardieu-e-houellebecq_eb56b288-5863-49f6-8c4d-d2113446714a.html",
+     "title": "Stupro di gruppo, inchiesta su un caso che riguarderebbe anche Depardieu e Houellebecq"
     },
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_f918a226-0824-41a8-8474-8728fe265d33.html",
-     "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_nuove_accuse_depardieu_denunciato_stupro_abusi_gruppo_insieme_scrittore_houellebecq-425736894/?rss",
+     "title": "Nuove accuse per Depardieu: denunciato per stupro e abusi di gruppo insieme allo scrittore Houellebecq"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/francia-depardieu-e-houellebecq-sotto-accusa-per-violenza-sessuale-di-gruppo-ube8kntj",
+     "title": "Francia, Depardieu e Houellebecq sotto accusa per «violenza sessuale di gruppo»"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/depardieu-e-houellebecq-indagati-stupro-gruppo-AJqr6NNC",
+     "title": "Depardieu e Houellebecq indagati per stupro di gruppo"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/depardieu-houellebecq-stupro-gruppo-istruttoria-giudiziaria-francia_7tE10HveskPxM5NWafDIpO",
+     "title": "Francia, media: Depardieu e Houellebecq al centro di indagine per stupro di gruppo"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_nuove_accuse_depardieu_denunciato_stupro_abusi_gruppo_insieme_scrittore_houellebecq-425736894/",
+     "title": "Nuove accuse per Depardieu: denunciato per stupro e abusi di gruppo insieme allo scrittore Houellebecq"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/depardieu-e-houellebecq-laccusa-stupro-di-gruppo-sul-set-aperta-uninchiesta/",
+     "title": "Depardieu e Houellebecq, l’accusa: “Stupro di gruppo sul set”. Aperta un’inchiesta"
     }
-   ]
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -381,7 +489,7 @@
    "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi",
    "summary": "Le 18 pagine iniziali diventano 9. Mancano impegni vincolanti. Si menziona l’elettrificazione al 35%, voluta dalla Turchia",
    "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
-   "pub_ts": 1795170607,
+   "pub_ts": 1795200120,
    "n_sources": 4,
    "documented": true,
    "sources": [
@@ -389,6 +497,11 @@
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
      "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/clima-stallo-cop31-nella-bozza-scompare-taglio-combustibili-fossili-tg3-romana-fabrizi-inviata-ad-antalya-0ea32ca3-4e8c-4d12-b68b-293b1ac75e7c.html",
+     "title": "Clima, stallo alla COP31. Nella bozza scompare il taglio ai combustibili fossili"
     },
     {
      "name": "Il Post",
@@ -399,11 +512,6 @@
      "name": "Repubblica Ambiente",
      "link": "https://www.repubblica.it/green-and-blue/dossier/cop31/2026/11/19/news/seconda_bozza-425735133/?rss",
      "title": "Dalla seconda bozza di Cop31 scompare l’espressione “combustibili fossili”"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/20/undefined-79/8578389/",
-     "title": "Cop 31 sul clima, la Cina fa e disfa e l’addio ai combustibili fossili è fuori dall’ultima bozza. Ma ci credono sempre più Paesi"
     }
    ],
    "subtype": "scienza"
@@ -411,22 +519,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Torna Belve di Francesca Fagnani, su Rai 2 in prima serata dal 24 novembre",
-   "summary": "Ritroveremo i faccia a faccia con personaggi dello spettacolo, del costume e della cronaca",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/20/torna-belve-di-francesca-fagnani-su-rai-2-in-prima-serata-dal-24-novembre_08b7d0b0-5097-4f19-8258-9ac25fd89e3c.html",
-   "pub_ts": 1795170310,
+   "title": "Polizia, in arrivo il nono volume del commissario Mascherpa",
+   "summary": "'Inganno ad arte' presentato alla biblioteca della Biennale di Venezia",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/polizia-in-arrivo-il-nono-volume-del-commissario-mascherpa_dbc21344-c3c8-468a-af56-88aa88c4d765.html",
+   "pub_ts": 1795195302,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/20/torna-belve-di-francesca-fagnani-su-rai-2-in-prima-serata-dal-24-novembre_08b7d0b0-5097-4f19-8258-9ac25fd89e3c.html",
-     "title": "Torna Belve di Francesca Fagnani, su Rai 2 in prima serata dal 24 novembre"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/polizia-in-arrivo-il-nono-volume-del-commissario-mascherpa_dbc21344-c3c8-468a-af56-88aa88c4d765.html",
+     "title": "Polizia, in arrivo il nono volume del commissario Mascherpa"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/20/francesca-fagnani-quando-mi-e-stato-proposto-chi-lha-visto-ho-detto-subito-si-con-entusiasmo-non-lavrei-reinventato-belve-si-era-proposto-vannacci-grillo-doveva-esserci-ma-poi/8578431/",
-     "title": "Francesca Fagnani: “Quando mi è stato proposto Chi l’ha Visto? ho detto subito sì con entusiasmo. Non l’avrei reinventato. Belve? Si era proposto Vannacci. Grillo doveva esserci ma poi…”"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/fumetti-la-polizia-alla-biennale-di-venezia-con-il-graphic-novel-commissario-mascherpa_1gHE7vKQC1fhBdAHg8Tuo",
+     "title": "Fumetti, la Polizia alla Biennale di Venezia con il graphic novel \"commissario Mascherpa\""
     }
    ],
    "subtype": "cultura"
@@ -434,22 +542,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Meloni al summit dei Volenterosi, il formato E5 deve avere un mandato chiaro",
-   "summary": "'L'Italia non arriva a mani vuote, le garanzie modello articolo 5 Nato proposte da noi'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/meloni-al-summit-dei-volenterosi-il-formato-e5-deve-avere-un-mandato-chiaro_a8075afc-454f-47c5-b426-bcfbfed46dbe.html",
-   "pub_ts": 1795110207,
+   "title": "Si esplorano a Pordenone lingue e linguaggi nell'opera di Pasolini",
+   "summary": "Il 25 novembre evento della Dante Alighieri con l'Accademia della Crusca",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/20/si-esplorano-a-pordenone-lingue-e-linguaggi-nellopera-di-pasolini_e901fc61-7b76-4c75-adfb-429e6b118f0d.html",
+   "pub_ts": 1795191795,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/meloni-al-summit-dei-volenterosi-il-formato-e5-deve-avere-un-mandato-chiaro_a8075afc-454f-47c5-b426-bcfbfed46dbe.html",
-     "title": "Meloni al summit dei Volenterosi, il formato E5 deve avere un mandato chiaro"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/20/si-esplorano-a-pordenone-lingue-e-linguaggi-nellopera-di-pasolini_e901fc61-7b76-4c75-adfb-429e6b118f0d.html",
+     "title": "Si esplorano a Pordenone lingue e linguaggi nell'opera di Pasolini"
     },
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/19/meloni-al-summit-dei-volenterosi-il-formato-e5-deve-avere-un-mandato-chiaro_51241a2a-8b2b-4917-9891-8ba31d98de54.html",
-     "title": "++ Meloni al summit dei Volenterosi, il formato E5 deve avere un mandato chiaro ++"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/pasolini-la-lingua-e-il-potere-a-pordenone-un-convegno-per-rileggere-il-suo-pensiero_5HwBJDgXdNF0cv3ELid5DW",
+     "title": "Pasolini, la lingua e il potere: a Pordenone un convegno per rileggere il suo pensiero"
     }
    ],
    "subtype": "cultura"
@@ -457,68 +565,50 @@
   {
    "category": "varia",
    "area": null,
-   "title": "In Italia solo il 9% degli adolescenti fa almeno un'ora di movimento al giorno",
-   "summary": "Oms, media mondiale del 14%. I pediatri italiani, 'parte fondamentale dello sviluppo'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/18/in-italia-solo-il-9-degli-adolescenti-fa-almeno-unora-di-movimento-al-giorno_1ae10b00-755f-45e0-9551-0971d2fa8f59.html",
-   "pub_ts": 1795086795,
+   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
+   "summary": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
+   "pub_ts": 1795182563,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/18/in-italia-solo-il-9-degli-adolescenti-fa-almeno-unora-di-movimento-al-giorno_1ae10b00-755f-45e0-9551-0971d2fa8f59.html",
-     "title": "In Italia solo il 9% degli adolescenti fa almeno un'ora di movimento al giorno"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
+     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
     },
     {
-     "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/dossier/stop-obesity/2026/11/19/news/sedentarieta_italia_9_adolescenti_ora_attivita_fisica_giorno-425734805/?rss",
-     "title": "Sedentarietà: in Italia solo il 9% degli adolescenti fa un’ora di attività fisica al giorno"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_c5c88c73-5622-4a34-831d-b7f23f6987e0.html",
+     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
     }
    ],
    "subtype": "scienza"
   },
   {
-   "category": "varia",
-   "area": null,
-   "title": "Roberto Gatto e il Perfectrio all'Istituto italiano di cultura del Cairo",
-   "summary": "Sonorità complesse, fusion e virtuosismi in un concerto unico in un teatro storico",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/roberto-gatto-e-il-perfectrio-allistituto-italiano-di-cultura-del-cairo_af56a27c-0137-4312-97c0-00d19a4ff6d3.html",
-   "pub_ts": 1795170112,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/roberto-gatto-e-il-perfectrio-allistituto-italiano-di-cultura-del-cairo_af56a27c-0137-4312-97c0-00d19a4ff6d3.html",
-     "title": "Roberto Gatto e il Perfectrio all'Istituto italiano di cultura del Cairo"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
    "category": "cronaca",
    "area": null,
-   "title": "A Kiev si dorme nella metro per timore degli attacchi russi",
-   "summary": "Il bilancio delle vittime dei raid russi della notte è salito a 6 morti",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/a-kiev-si-dorme-nella-metro-per-timore-degli-attacchi-russi_4a156298-546d-44be-8603-ac38e45990fc.html",
-   "pub_ts": 1795170828,
+   "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
+   "summary": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
+   "pub_ts": 1795202721,
    "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/a-kiev-si-dorme-nella-metro-per-timore-degli-attacchi-russi_4a156298-546d-44be-8603-ac38e45990fc.html",
-     "title": "A Kiev si dorme nella metro per timore degli attacchi russi"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
+     "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/kiev-6-morti-in-raid-russi-sulla-capitale-8-in-tutto-il-paese_e72682ae-23a7-46f2-8e4b-7b9a0591592d.html",
-     "title": "Kiev, '6 morti in raid russi sulla capitale, 8 in tutto il paese'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/la-furia-di-putin-su-kiev-e-leopoli-due-missili-cadono-in-polonia_6104402c-305d-441e-a983-2c8dfb41bd5e.html",
+     "title": "La furia di Putin su Kiev e Leopoli, due missili cadono in Polonia"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/kiev-attacchi-missilistici-russi-nella-notte-tre-morti-15-feriti-video-1707a8c9-714e-45d4-b7c8-985f00ea2b2d.html",
-     "title": "Le sirene, il rumore delle esplosioni e il fumo: attacchi missilistici russi nella notte su Kiev"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/",
+     "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi"
     },
     {
      "name": "Adnkronos Esteri",
@@ -531,151 +621,123 @@
      "title": "Trump attacca l’Europa per i nuovi aiuti all’Ucraina, Putin: «Nessuna tregua»"
     }
    ]
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
-   "summary": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-   "pub_ts": 1795161148,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-     "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/meloni-a-berlino-per-la-riunione-della-coalizione-dei-volenterosi_7d294bbc-ba46-41be-827b-2a324f52e520.html",
-     "title": "Meloni a Berlino per la riunione della Coalizione dei Volenterosi"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-attacchi-russia-trump-putin-volenterosi-pace-ultimi-aggiornamenti-20-novembre-ucmgiyr0",
-     "title": "Ucraina, attacchi su Kiev: tre morti. Trump agli europei: «Putin vuole la pace, spendete i vostri soldi altrove»"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/politica/ucraina-volenterosi-meloni_3elpVqdupzh0hY2w3eszgc",
-     "title": "Ucraina, Volenterosi a Berlino. Meloni: \"Cina spinga Putin alla pace\". Trump: \"Perché altri soldi a Kiev?\""
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/xi-trump-e-putin-a-shenzhen-il-patto-per-la-pace-a76bd084-1b6a-47da-a878-22d693fa4c20.html",
-     "title": "Xi, Trump e Putin: a Shenzhen il patto per la pace (senza Ucraina e Iran)"
-    }
-   ]
   }
  ],
  "articles": [
   {
-   "title": "“Rohingya, fu genocidio”: Myanmar condannato dal tribunale dell’Onu",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/rohingya_genocidio_myanmar_condanna_tribunale_onu-425735662/?rss",
-   "description": "Storica sentenza ieri all’Aia per la persecuzione della minoranza musulmana. Attesa per il verdetto sulle azioni di Israele a Gaza",
-   "pub_ts": 1795161354,
+   "title": "Trump: “L’Iran vuole un accordo non accettabile. Con Xi concordati paletti per IA”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+   "description": "La conferenza stampa del presidente americano dopo il trilaterale a Shenzhen: “Una delle visite presidenziali di maggior successo nella storia Usa”",
+   "pub_ts": 1795201682,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Tajani, 'Shenzhen non è nuova Yalta, speriamo dia contributo alla pace'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/tajani-shenzhen-non-e-nuova-yalta-speriamo-dia-contributo-alla-pace_6260b6ef-067c-400f-bc8a-56e81d2d0870.html",
-   "description": "'Non si può raggiungere la pace senza la presenza europea'",
-   "pub_ts": 1795150680,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi",
-   "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
-   "description": "(Adnkronos) - Il timore è che l'enfasi data all'incontro possa ulteriormente spingere Trump \"a sostenere le ambizioni di Putin sui territori ucraini e le rivendicazioni di Xi su Taiwan\", scrive Politico. La Cnn si chiede: \"Perché li considera amici, Russia e Cina non sono amici degli Usa\"",
-   "pub_ts": 1795162334,
-   "source": "Adnkronos Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Focus su pensioni e sanità al vertice di maggioranza, Meloni chiede 'basta divisioni'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
-   "description": "Premier: Zes estesa. Si media sul condono. Alleati: 'Ci sono anche nostre battaglie di bandiera'",
-   "pub_ts": 1795127736,
+   "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
+   "description": "Cortei di lavoratori e studenti. Il sindacato: 'Adesione al 60%'. Il segretario: 'Messaggio a tutta la politica, le persone chiedono risposte'",
+   "pub_ts": 1795202594,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Il principe Harry: 'Mi riarruolerei per combattere contro la Russia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/il-principe-harry-mi-riarruolerei-per-combattere-contro-la-russia_ed4b6357-3f8b-4697-99c8-48a6690a5719.html",
-   "description": "Al Telegraph: 'Gb in conflitto con Mosca ormai da un decennio'",
-   "pub_ts": 1795116256,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "I libri scolastici spaccano la maggioranza. Caos in aula, Meloni piega i Berlusconi",
-   "link": "https://www.editorialedomani.it/politica/italia/libri-scuola-maggioranza-spaccata-caos-aula-meloni-piega-berlusconi-hiekxklf",
-   "description": "Lo sconto agli ebook è un nuovo affronto ai figli del Cavaliere, gli azzurri votano no: la norma passa al Senato con lo strappo. La maggioranza è in frantumi. La premier rivendica la Zes estesa al Centro-Nord, ma il Pd ricorda: «Proposta delle opposizioni»",
-   "pub_ts": 1795118395,
-   "source": "Domani",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Fonti interne: siglata l’intesa tra Ue e Gran Bretagna al summit del reset delle relazioni",
+   "title": "Londra e Ue più vicine: siglata la prima intesa post Brexit. Burnham: “Nel 2027 ci confronteremo sul futuro dei rapporti”",
    "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
-   "description": "I contenuti dell'intesa verranno illustrati dai leader in conferenza stampa. Le anticipazioni di alcuni funzionari europei: “Accordo su quote per la mobilità giovanile, 100mila ragazzi all’anno potranno risiedere in Gran Bretagna”",
-   "pub_ts": 1795173209,
+   "description": "Von Der Leyen: “Siamo a una svolta”. Il premier britannico: “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”",
+   "pub_ts": 1795198732,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Mattarella, l'Italia non può privarsi del suo essere molteplice",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/mattarella-litalia-non-puo-privarsi-del-suo-essere-molteplice_9b2c94a7-48f0-4e36-b5ce-e3ea39fe0cd6.html",
-   "description": "Immigrati in attività artigiane aiutano a tenere in vita mestieri e servizi necessari",
-   "pub_ts": 1795172098,
+   "title": "FI presenta emendamento soppressivo degli ebook alla Camera",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/fi-presenta-emendamento-soppressivo-degli-ebook-alla-camera_0f606623-9fbd-4bc4-8f92-67762dd46612.html",
+   "description": "Al Serato gli azzurri avevano fatto muro sull'emendamento di Fdi",
+   "pub_ts": 1795196217,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Fonti Ue: \"Se Londra vuole rientrare, pronti a parlarne\"",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/fonti-ue-se-londra-vuole-rientrare-pronti-a-parlarne_5b953d39-9a7b-42ee-ac7c-68f1e0f99a6a.html",
-   "description": "\"Ma è una decisione dei britannici. Lavoriamo già su ambiti del mercato unico\"",
-   "pub_ts": 1795166114,
+   "title": "Burnham saluta accordo 'storico' su reset, 'bel giorno per Gb ed Ue'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/burnham-saluta-accordo-storico-su-reset-bel-giorno-per-gb-ed-ue_f0d2d0f6-9205-4f7b-8b27-8676a6f00fda.html",
+   "description": "Lo ha detto il premier alla sessione plenaria del vertice di Bruxelles",
+   "pub_ts": 1795193358,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Postiglione Bellamy, 'storica sentenza contro Myanmar per il genocidio dei Rohingya'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/20/postiglione-bellamy-storica-sentenza-contro-myanmar-per-il-genocidio-dei-rohingya_7ae0c395-9482-4c44-86e8-de4383cf902b.html",
+   "description": "",
+   "pub_ts": 1795175955,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Media, un missile russo a circa 100 km da esercitazione Volenterosi in Polonia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/media-un-missile-russo-a-circa-100-km-da-esercitazione-volenterosi-in-polonia_b274db9f-55fd-45f3-984d-697724a5d5b1.html",
+   "description": "Le manovre militari sono in corso dal 9 al 22 novembre",
+   "pub_ts": 1795189825,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video",
+   "link": "https://www.open.online/2026/11/20/forza-italia-gta-6-campo-largo-renzi-berlusconi-video/",
+   "description": "Schlein alle prese con il salario minimo, Conte con il reddito 2.0 e Bonelli e Fratoianni con la patrimoniale. Ma la «missione multiplayer» fallisce L'articolo Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video proviene da Open.",
+   "pub_ts": 1795201005,
+   "source": "Open",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Israele: Eisenkot pronto a un governo di emergenza da premier, nessuna rotazione con Bibi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/israele-eisenkot-pronto-a-un-governo-di-emergenza-da-premier-nessuna-rotazione-con-bibi_1ef68397-dd2b-49c1-953f-30bf696a465b.html",
+   "description": "Ultima chance se saltano i negoziati con ortodossi e Likud. Hamas riafferma potere su Gaza",
+   "pub_ts": 1795203651,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Brexit, la marea di sondaggi che spinge Burnham verso il (possibile) rientro del Regno Unito in Ue",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/brexit_sondaggi_burnham_rientro_regno_unito_ue-425734324/?rss",
-   "description": "Alla vigilia del vertice di Bruxelles di domani, sempre più rilevazioni sembrano giustificare il forte riavvicinamento all’Unione voluto dal primo ministro britannico. E l’ex vice di Starmer: “Bisogna tornare in Ue al più presto”",
-   "pub_ts": 1795162320,
-   "source": "Repubblica Esteri",
+   "title": "Scontro sugli ebook, FI presenta un emendamento soppressivo alla Camera",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/scontro-sugli-ebook-fi-presenta-un-emendamento-soppressivo-alla-camera-_a676fb83-bb34-4ed1-bb51-a0428ece696b.html",
+   "description": "La norma sui libri digitali era stata approvata al Senato. La Russa: 'Possibili effetti sul clima politico'. Emendamento di Rampelli: 'Utilizzo dopo una valutazione sull'impatto cognitivo'",
+   "pub_ts": 1795192318,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Anthropic debutta in Borsa, ora vale 1.500 miliardi",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/19/anthropic-debutta-in-borsa-ora-vale-1.500-miliardi_940ae56a-3aff-4ea5-bc3a-e304b533c321.html",
-   "description": "Amodei suona la campanella del Nasdaq, 'ossessionati dalla sicurezza dell'IA'",
-   "pub_ts": 1795115705,
+   "title": "La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Street giù",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/la-bolla-ia-gela-i-mercati-leuropa-brucia-370-miliardi.-anthropic-e-wall-street_0ba615f0-de7d-440c-a699-c689e255c19e.html",
+   "description": "Alla seconda seduta perde oltre il 10%. Profondo rosso in Asia",
+   "pub_ts": 1795204173,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
+   "description": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
+   "pub_ts": 1795188199,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Cyber attacco alla Commissione europea, possibili dati personali compromessi. Usate le IA",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/cyber_attacco_commissione_europea_ia-425735466/?rss",
-   "description": "Colpiti i sistemi informatici dell’esecutivo dell’Unione europea, con applicazioni interne sospese per precauzione. Si temono possibili rischi per le informazioni dei dipendenti",
-   "pub_ts": 1795101298,
-   "source": "Repubblica Tecnologia",
+   "title": "In Italia è stata approvata la guida semiautonoma delle Tesla",
+   "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
+   "description": "È un sistema con cui le auto si manovrano da sole sotto una supervisione umana, ma per vederle per strada ci vorrà ancora un po'",
+   "pub_ts": 1795203563,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "tech"
   },
@@ -689,74 +751,56 @@
    "section": "tech"
   },
   {
-   "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_c0ee297a-a206-4c08-a80e-64100e751ed6.html",
-   "description": "In video su YouTube moglie proclama innocenza dell'attore condannato per stupro",
-   "pub_ts": 1795092085,
-   "source": "ANSA Tecnologia",
+   "title": "Stupro di gruppo, inchiesta su un caso che riguarderebbe anche Depardieu e Houellebecq",
+   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/20/stupro-di-gruppo-inchiesta-su-un-caso-che-riguarderebbe-anche-depardieu-e-houellebecq_eb56b288-5863-49f6-8c4d-d2113446714a.html",
+   "description": "'I fatti risalirebbero al 2018 durante le riprese del film Thalasso'",
+   "pub_ts": 1795194048,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "tech"
+   "section": "varia"
   },
   {
    "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi",
    "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
    "description": "Le 18 pagine iniziali diventano 9. Mancano impegni vincolanti. Si menziona l’elettrificazione al 35%, voluta dalla Turchia",
-   "pub_ts": 1795170607,
+   "pub_ts": 1795200120,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Torna Belve di Francesca Fagnani, su Rai 2 in prima serata dal 24 novembre",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/20/torna-belve-di-francesca-fagnani-su-rai-2-in-prima-serata-dal-24-novembre_08b7d0b0-5097-4f19-8258-9ac25fd89e3c.html",
-   "description": "Ritroveremo i faccia a faccia con personaggi dello spettacolo, del costume e della cronaca",
-   "pub_ts": 1795170310,
+   "title": "Polizia, in arrivo il nono volume del commissario Mascherpa",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/polizia-in-arrivo-il-nono-volume-del-commissario-mascherpa_dbc21344-c3c8-468a-af56-88aa88c4d765.html",
+   "description": "'Inganno ad arte' presentato alla biblioteca della Biennale di Venezia",
+   "pub_ts": 1795195302,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Si esplorano a Pordenone lingue e linguaggi nell'opera di Pasolini",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/20/si-esplorano-a-pordenone-lingue-e-linguaggi-nellopera-di-pasolini_e901fc61-7b76-4c75-adfb-429e6b118f0d.html",
+   "description": "Il 25 novembre evento della Dante Alighieri con l'Accademia della Crusca",
+   "pub_ts": 1795191795,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Meloni al summit dei Volenterosi, il formato E5 deve avere un mandato chiaro",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/meloni-al-summit-dei-volenterosi-il-formato-e5-deve-avere-un-mandato-chiaro_a8075afc-454f-47c5-b426-bcfbfed46dbe.html",
-   "description": "'L'Italia non arriva a mani vuote, le garanzie modello articolo 5 Nato proposte da noi'",
-   "pub_ts": 1795110207,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "In Italia solo il 9% degli adolescenti fa almeno un'ora di movimento al giorno",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/18/in-italia-solo-il-9-degli-adolescenti-fa-almeno-unora-di-movimento-al-giorno_1ae10b00-755f-45e0-9551-0971d2fa8f59.html",
-   "description": "Oms, media mondiale del 14%. I pediatri italiani, 'parte fondamentale dello sviluppo'",
-   "pub_ts": 1795086795,
+   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
+   "description": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
+   "pub_ts": 1795182563,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Roberto Gatto e il Perfectrio all'Istituto italiano di cultura del Cairo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/roberto-gatto-e-il-perfectrio-allistituto-italiano-di-cultura-del-cairo_af56a27c-0137-4312-97c0-00d19a4ff6d3.html",
-   "description": "Sonorità complesse, fusion e virtuosismi in un concerto unico in un teatro storico",
-   "pub_ts": 1795170112,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "A Kiev si dorme nella metro per timore degli attacchi russi",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/a-kiev-si-dorme-nella-metro-per-timore-degli-attacchi-russi_4a156298-546d-44be-8603-ac38e45990fc.html",
-   "description": "Il bilancio delle vittime dei raid russi della notte è salito a 6 morti",
-   "pub_ts": 1795170828,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "cronaca"
-  },
-  {
-   "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-   "description": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
-   "pub_ts": 1795161148,
-   "source": "ANSA Mondo",
+   "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
+   "description": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
+   "pub_ts": 1795202721,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   }
