@@ -1,6 +1,6 @@
 {
- "generated_at": 1795143347,
- "updated_at": 1795143347,
+ "generated_at": 1795173378,
+ "updated_at": 1795173378,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -13,8 +13,8 @@
    "title": "“Rohingya, fu genocidio”: Myanmar condannato dal tribunale dell’Onu",
    "summary": "Storica sentenza ieri all’Aia per la persecuzione della minoranza musulmana. Attesa per il verdetto sulle azioni di Israele a Gaza",
    "link": "https://www.repubblica.it/esteri/2026/11/19/news/rohingya_genocidio_myanmar_condanna_tribunale_onu-425735662/?rss",
-   "pub_ts": 1795116555,
-   "n_sources": 6,
+   "pub_ts": 1795161354,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -28,42 +28,27 @@
      "title": "Gb espelle addetto militare del Myanmar dopo sentenza sul genocidio"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/idee/commenti/definisci-genocidio-myanmar-sentenza-storica-rohingya-corte-internazionale-go0ecsgs",
-     "title": "Definisci genocidio, contro il Myanmar un verdetto storico"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/storico-verdetto-della-corte-internazionale-di-giustizia-sul-genocidio-contro-i-rohingya-in-myanmar-b226a7f7-9ae5-497b-948d-1a50f543c5ab.html",
-     "title": "Storico verdetto della Corte internazionale di giustizia: \"In Myanmar contro Rohingya fu genocidio\""
-    },
-    {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/sentenza-myanmar-rohingya-genocidio/",
-     "title": "Il Myanmar è stato condannato per il genocidio dei rohingya"
+     "link": "https://www.ilpost.it/2026/11/20/reazioni-condanna-genocidio-rohingya/",
+     "title": "Le reazioni alla storica condanna del Myanmar per il genocidio dei rohingya"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/19/genocidio-rohingya-myanmar-sentenza-notizie/8577681/",
-     "title": "Myanmar, la Corte internazionale di giustizia: “Ha commesso un genocidio contro i Rohingya”. Sentenza storica sul massacro del 2017"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/myanmar-responsabile-genocidio-rohingya-storica-sentenza-corte-internazionale-giustizia-cosa-succede-adesso-gaza-whmxy7a5",
+     "title": "Il Myanmar è responsabile del genocidio dei rohingya: la storica sentenza della Corte internazionale di giustizia"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Il grande cerimoniere riporta l’Impero al centro: “Shenzhen supera Yalta”",
-   "summary": "Sancito il nuovo status del Dragone come magnete delle potenze di tutto il pianeta: bisogna però accettare le sue regole",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/?rss",
-   "pub_ts": 1795112786,
-   "n_sources": 5,
+   "title": "Tajani, 'Shenzhen non è nuova Yalta, speriamo dia contributo alla pace'",
+   "summary": "'Non si può raggiungere la pace senza la presenza europea'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/tajani-shenzhen-non-e-nuova-yalta-speriamo-dia-contributo-alla-pace_6260b6ef-067c-400f-bc8a-56e81d2d0870.html",
+   "pub_ts": 1795150680,
+   "n_sources": 4,
    "documented": true,
    "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/?rss",
-     "title": "Il grande cerimoniere riporta l’Impero al centro: “Shenzhen supera Yalta”"
-    },
     {
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/tajani-shenzhen-non-e-nuova-yalta-speriamo-dia-contributo-alla-pace_6260b6ef-067c-400f-bc8a-56e81d2d0870.html",
@@ -77,29 +62,29 @@
     {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/",
-     "title": "Il trionfo di Xi Jinping, il grande cerimoniere di Shenzhen"
+     "title": "Il grande cerimoniere riporta l’Impero al centro: “Shenzhen supera Yalta”"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/19/vertice-shenzhen-trump-xi-putin-ordine-mondiale-notizie/8577282/",
-     "title": "Da Yalta a Shenzhen: l’Occidente non è più il centro dell’ordine mondiale, Trump “accerchiato” da Xi e Putin. E l’Europa resta fuori"
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/altro-che-nuova-yalta-come-e-andata-tra-xi-trump-e-putin/",
+     "title": "Altro che nuova Yalta: come è andata tra Xi, Trump e Putin"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
-   "summary": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-   "pub_ts": 1795141673,
+   "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi",
+   "summary": "(Adnkronos) - Il timore è che l'enfasi data all'incontro possa ulteriormente spingere Trump \"a sostenere le ambizioni di Putin sui territori ucraini e le rivendicazioni di Xi su Taiwan\", scrive Politico. La Cnn si chiede: \"Perché li considera amici, Russia e Cina non sono amici degli Usa\"",
+   "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
+   "pub_ts": 1795162334,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-     "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
+     "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi"
     },
     {
      "name": "Domani",
@@ -107,41 +92,14 @@
      "title": "Trump, Putin e Xi, il vertice si chiude senza svolte. Nessun accordo su Ucraina e nucleare"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-incontro-oggi-shenzhen_1op1uFWTI3sK8NUaVy6E4M",
-     "title": "\"C'è il mio amico\", Trump e l'incontro con Putin a Shenzhen"
-    },
-    {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/19/trump-putin-xi-jinping-incontro-cina/",
      "title": "Come è andato l’incontro tra Trump, Putin e Xi Jinping"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Tusk, 'Putin amico per Trump? Dio, proteggici da amici del genere'",
-   "summary": "Il premier polacco prende le distanze dal tycoon",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/tusk-putin-amico-per-trump-dio-proteggici-da-amici-del-genere_4fc063fb-f81a-4313-8214-d32d561aa910.html",
-   "pub_ts": 1795129692,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/tusk-putin-amico-per-trump-dio-proteggici-da-amici-del-genere_4fc063fb-f81a-4313-8214-d32d561aa910.html",
-     "title": "Tusk, 'Putin amico per Trump? Dio, proteggici da amici del genere'"
     },
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/trump_apec_shenzhen_iran_cina_russia_xi_putin_obama_dazi-425733711/?rss",
-     "title": "Trump: “Non ci serve l’aiuto di Cina e Russia sull’Iran”. E accusa Obama di aver favorito la loro alleanza"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
-     "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi"
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/zuppa-di-porro/zuppa-di-porro-del-20-novembre-2026/",
+     "title": "Xi-Trump-Putin, cosa comporta il vertice a tre"
     }
    ]
   },
@@ -169,33 +127,6 @@
      "name": "ANSA Mondo",
      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/merz-apre-il-vertice-dei-volenterosi-meloni-al-tavolo-tra-macron-e-de-wever_3125e3d6-6228-45d7-83b1-022a84d5716e.html",
      "title": "Merz apre il vertice dei Volenterosi, Meloni al tavolo tra Macron e de Wever"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Xi, Trump e Putin siglano un patto per la pace, 'abbiamo fatto la storia'",
-   "summary": "L'obiettivo di un nuovo ordine mondiale e l'impegno sul nucleare. Ma tanti gli omissis",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-   "pub_ts": 1795123463,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-     "title": "Xi, Trump e Putin siglano un patto per la pace, 'abbiamo fatto la storia'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/19/kushner-trump-non-vuole-un-accordo-unilaterale-per-la-pace-in-ucraina_d894d6ca-8045-4140-84ce-a84f43b392ea.html",
-     "title": "Kushner, 'Trump non vuole un accordo unilaterale' per la pace in Ucraina"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/xi-trump-e-putin-a-shenzhen-il-patto-per-la-pace-a76bd084-1b6a-47da-a878-22d693fa4c20.html",
-     "title": "Xi, Trump e Putin: a Shenzhen il patto per la pace (senza Ucraina e Iran)"
     }
    ]
   },
@@ -256,67 +187,101 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Gli incontri tra Trump, Putin e Xi Jinping in cinque video",
-   "summary": "Trump che chiama «amico» Putin, l'accoglienza di Xi e gli altri modi in cui i tre leader hanno esibito grande sintonia",
-   "link": "https://www.ilpost.it/2026/11/19/momenti-primo-trilaterale-russia-cina-stati-uniti/",
-   "pub_ts": 1795112039,
-   "n_sources": 3,
+   "title": "Fonti interne: siglata l’intesa tra Ue e Gran Bretagna al summit del reset delle relazioni",
+   "summary": "I contenuti dell'intesa verranno illustrati dai leader in conferenza stampa. Le anticipazioni di alcuni funzionari europei: “Accordo su quote per la mobilità giovanile, 100mila ragazzi all’anno potranno risiedere in Gran Bretagna”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
+   "pub_ts": 1795173209,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/momenti-primo-trilaterale-russia-cina-stati-uniti/",
-     "title": "Gli incontri tra Trump, Putin e Xi Jinping in cinque video"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
+     "title": "Fonti interne: siglata l’intesa tra Ue e Gran Bretagna al summit del reset delle relazioni"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/vertice-shenzhen-xi-putin-trump_6ETuLLXQUu8OQpzLJnKWIU",
-     "title": "Vertice Shenzhen, dagli incontri con Xi e Putin alla dichiarazione congiunta: la giornata cinese di Trump"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/19/vertice-trump-xi-jinping-putin-shenzhen-notizie/8577924/",
-     "title": "Putin, Xi Jinping e Trump insieme: il video dei tre presidenti allo storico incontro a Shenzhen"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/fonti-ue-siglata-lintesa-ue-uk-al-summit-del-reset_4835b2dc-e0fa-4a3c-bb62-cf1e55bf8c1c.html",
+     "title": "Fonti Ue, siglata l'intesa Ue-Uk al summit del reset"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Divano e cagnolina, Schlein posta su Instagram download di Grand Theft Auto VI: \"Pronte\"",
-   "summary": "Il messaggio con cui la segretaria del Pd, Elly Schlein commenta il post con cui su Instagram mostra il download di Grand Theft Auto VI",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/divano-e-cagnolina-schlein-posta-su-instagram-download-di-grand-theft-auto-vi-pronte_ac169f1e-3118-428d-922f-e3aa06a6077a.html",
-   "pub_ts": 1795092369,
+   "title": "Mattarella, l'Italia non può privarsi del suo essere molteplice",
+   "summary": "Immigrati in attività artigiane aiutano a tenere in vita mestieri e servizi necessari",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/mattarella-litalia-non-puo-privarsi-del-suo-essere-molteplice_9b2c94a7-48f0-4e36-b5ce-e3ea39fe0cd6.html",
+   "pub_ts": 1795172098,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/divano-e-cagnolina-schlein-posta-su-instagram-download-di-grand-theft-auto-vi-pronte_ac169f1e-3118-428d-922f-e3aa06a6077a.html",
-     "title": "Divano e cagnolina, Schlein posta su Instagram download di Grand Theft Auto VI: \"Pronte\""
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/mattarella-litalia-non-puo-privarsi-del-suo-essere-molteplice_9b2c94a7-48f0-4e36-b5ce-e3ea39fe0cd6.html",
+     "title": "Mattarella, l'Italia non può privarsi del suo essere molteplice"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/gta-vi-guida/",
-     "title": "Capire di cosa parla chi parla di Grand Theft Auto VI"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/eventi/2026/11/19/valore-futuro-assemblea-nazionale-della-cna_123c1b6f-f280-4b54-a897-b4f3d17a3830.html",
+     "title": "Mattarella: 'L'Italia non può privarsi del suo essere molteplice'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Fonti Ue: \"Se Londra vuole rientrare, pronti a parlarne\"",
+   "summary": "\"Ma è una decisione dei britannici. Lavoriamo già su ambiti del mercato unico\"",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/fonti-ue-se-londra-vuole-rientrare-pronti-a-parlarne_5b953d39-9a7b-42ee-ac7c-68f1e0f99a6a.html",
+   "pub_ts": 1795166114,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/fonti-ue-se-londra-vuole-rientrare-pronti-a-parlarne_5b953d39-9a7b-42ee-ac7c-68f1e0f99a6a.html",
+     "title": "Fonti Ue: \"Se Londra vuole rientrare, pronti a parlarne\""
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/fonti-ue-se-londra-vuole-rientrare-pronti-a-parlarne_a4094572-de8e-48bd-9c95-dc4482e48ad6.html",
+     "title": "Fonti Ue, 'se Londra vuole rientrare pronti a parlarne'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Brexit, la marea di sondaggi che spinge Burnham verso il (possibile) rientro del Regno Unito in Ue",
+   "summary": "Alla vigilia del vertice di Bruxelles di domani, sempre più rilevazioni sembrano giustificare il forte riavvicinamento all’Unione voluto dal primo ministro britannico. E l’ex vice di Starmer: “Bisogna tornare in Ue al più presto”",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/brexit_sondaggi_burnham_rientro_regno_unito_ue-425734324/?rss",
+   "pub_ts": 1795162320,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/brexit_sondaggi_burnham_rientro_regno_unito_ue-425734324/?rss",
+     "title": "Brexit, la marea di sondaggi che spinge Burnham verso il (possibile) rientro del Regno Unito in Ue"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/andy-burnham-a-bruxelles-per-rilanciare-i-rapporti-ue-regno-unito-dopo-la-brexit-d69f60b1-6499-45ad-8b80-da3cc13ad532.html",
+     "title": "Andy Burnham a Bruxelles per rilanciare i rapporti UE-Regno Unito dopo la Brexit"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Anthropic vola all'esordio a Wall Street, sale del 17%",
-   "summary": "Arriva a valere 2.000 miliardi. Listini in calo, per S 500 la serie più lunga dal 2024",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
-   "pub_ts": 1795125362,
-   "n_sources": 6,
+   "title": "Anthropic debutta in Borsa, ora vale 1.500 miliardi",
+   "summary": "Amodei suona la campanella del Nasdaq, 'ossessionati dalla sicurezza dell'IA'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/19/anthropic-debutta-in-borsa-ora-vale-1.500-miliardi_940ae56a-3aff-4ea5-bc3a-e304b533c321.html",
+   "pub_ts": 1795115705,
+   "n_sources": 4,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
-     "title": "Anthropic vola all'esordio a Wall Street, sale del 17%"
-    },
     {
      "name": "ANSA Tecnologia",
      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/19/anthropic-debutta-in-borsa-ora-vale-1.500-miliardi_940ae56a-3aff-4ea5-bc3a-e304b533c321.html",
@@ -336,48 +301,6 @@
      "name": "Rai News",
      "link": "https://www.rainews.it/video/2026/11/anthropic-conquista-il-nasdaq-raccolta-da-1073-miliardi-battuta-spacex-proteste-in-strada-76ce8b25-4fcc-4020-8640-c75811065728.html",
      "title": "Anthropic vola all'esordio a Wall Street, vale 2.000 miliardi"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/anthropic-quotazione-nasdaq-intelligenza-artificiale/",
-     "title": "Anthropic si è quotata in borsa"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "'Attendere la legge', Tribunale Milano rinvia la causa a Meta e TikTok",
-   "summary": "Class action avviata da genitori. Legali: 'Serviva blocco subito, minori intanto muoiono'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
-   "pub_ts": 1795113320,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
-     "title": "'Attendere la legge', Tribunale Milano rinvia la causa a Meta e TikTok"
-    },
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-al-21-gennaio-in-attesa-di-una-legge_06ae8ae0-73c0-4859-9b65-d1d4d043fb7f.html",
-     "title": "Causa contro Meta e TikTok, Tribunale Milano rinvia al 21 gennaio in attesa di una legge"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/genitori-in-causa-contro-meta-e-tiktok-vietare-subito-i-social-sotto-13-anni_9836696f-0be2-4179-b7be-ada8c45eacc0.html",
-     "title": "Genitori in causa contro Meta e TikTok: 'Bisogna vietare subito i social sotto 13 anni'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/tribunale-di-milano-rinvia-class-action-contro-meta-e-tiktok-in-cantiere-legge-su-divieto-under-13-06ea6a4e-c4ab-4aea-8487-42414b14a066.html",
-     "title": "Tribunale di Milano rinvia class action contro Meta e TikTok. In cantiere legge su divieto under 13"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/18/proposta-maggioranza-divieto-social-network-minori-emendamento/",
-     "title": "Cosa c’è nella proposta della maggioranza per vietare i social ai minori di 13 anni"
     }
    ]
   },
@@ -411,22 +334,44 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
-   "summary": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
-   "pub_ts": 1795092309,
+   "title": "'Attendere la legge', Tribunale Milano rinvia la causa a Meta e TikTok",
+   "summary": "Class action avviata da genitori. Legali: 'Serviva blocco subito, minori intanto muoiono'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
+   "pub_ts": 1795113320,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
+     "title": "'Attendere la legge', Tribunale Milano rinvia la causa a Meta e TikTok"
+    },
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-al-21-gennaio-in-attesa-di-una-legge_06ae8ae0-73c0-4859-9b65-d1d4d043fb7f.html",
+     "title": "Causa contro Meta e TikTok, Tribunale Milano rinvia al 21 gennaio in attesa di una legge"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere",
+   "summary": "In video su YouTube moglie proclama innocenza dell'attore condannato per stupro",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_c0ee297a-a206-4c08-a80e-64100e751ed6.html",
+   "pub_ts": 1795092085,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
-     "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_c0ee297a-a206-4c08-a80e-64100e751ed6.html",
+     "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere"
     },
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/google-allerta-terremoti-android-italia-come-funziona-425733555/?rss",
-     "title": "Terremoti, arriva in Italia l’allerta di Google: i telefoni Android avviseranno prima delle scosse"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_f918a226-0824-41a8-8474-8728fe265d33.html",
+     "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere"
     }
    ]
   },
@@ -436,8 +381,8 @@
    "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi",
    "summary": "Le 18 pagine iniziali diventano 9. Mancano impegni vincolanti. Si menziona l’elettrificazione al 35%, voluta dalla Turchia",
    "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
-   "pub_ts": 1795132800,
-   "n_sources": 3,
+   "pub_ts": 1795170607,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -446,14 +391,19 @@
      "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cop31-nella-bozza-si-allelettrificazione-ma-niente-sulle-fonti-fossili_932cb245-527d-48a1-9535-d18aaf4af70b.html",
-     "title": "Cop31: nella bozza sì all'elettrificazione, ma niente sulle fonti fossili"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/cop31-combustibili-fossi-bozza/",
+     "title": "Alla COP31 sono spariti i combustibili fossili"
     },
     {
      "name": "Repubblica Ambiente",
      "link": "https://www.repubblica.it/green-and-blue/dossier/cop31/2026/11/19/news/seconda_bozza-425735133/?rss",
      "title": "Dalla seconda bozza di Cop31 scompare l’espressione “combustibili fossili”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/20/undefined-79/8578389/",
+     "title": "Cop 31 sul clima, la Cina fa e disfa e l’addio ai combustibili fossili è fuori dall’ultima bozza. Ma ci credono sempre più Paesi"
     }
    ],
    "subtype": "scienza"
@@ -461,73 +411,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
-   "summary": "Soli italiani in lista, in testa Marilyn Monroe",
-   "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_6eb37ec5-68f2-4465-b54b-6ed9f758bcda.html",
-   "pub_ts": 1795087643,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_6eb37ec5-68f2-4465-b54b-6ed9f758bcda.html",
-     "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_22152a4f-7f64-412b-9110-2f7d548d5a0d.html",
-     "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/gta-vi-recensioni/",
-     "title": "GTA VI è uno dei migliori videogiochi di tutti i tempi"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Cardiologi, 'per i pazienti cardiovascolari fondamentale il vaccino antinfluenzale'",
-   "summary": "Esperti Anmco, 'dopo influenza aumento fino a sei volte del rischio di infarto'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/cardiologi-per-pazienti-cardiovascolari-fondamentale-vaccino-antinfluenzale_282bc960-49f9-4ba3-b958-7a788f1d72cf.html",
-   "pub_ts": 1795119815,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/cardiologi-per-pazienti-cardiovascolari-fondamentale-vaccino-antinfluenzale_282bc960-49f9-4ba3-b958-7a788f1d72cf.html",
-     "title": "Cardiologi, 'per i pazienti cardiovascolari fondamentale il vaccino antinfluenzale'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/19/influenza-vaccino-infarto-cardiologi-medici/",
-     "title": "Influenza, dopo il virus il rischio di infarto cresce fino a sei volte. L’allarme dei cardiologi: «Il vaccino è un salvavita»"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Miguel Gotor vince il Premio Strega Saggistica e lo dedica ai giovani di oggi",
-   "summary": "Con 'L'omicidio di Piersanti Mattarella'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/18/miguel-gotor-vince-il-premio-strega-saggistica-e-lo-dedica-ai-giovani-di-oggi_4e6b5993-2969-47e5-8a7e-78a296f9a037.html",
-   "pub_ts": 1795112552,
+   "title": "Torna Belve di Francesca Fagnani, su Rai 2 in prima serata dal 24 novembre",
+   "summary": "Ritroveremo i faccia a faccia con personaggi dello spettacolo, del costume e della cronaca",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/20/torna-belve-di-francesca-fagnani-su-rai-2-in-prima-serata-dal-24-novembre_08b7d0b0-5097-4f19-8258-9ac25fd89e3c.html",
+   "pub_ts": 1795170310,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/18/miguel-gotor-vince-il-premio-strega-saggistica-e-lo-dedica-ai-giovani-di-oggi_4e6b5993-2969-47e5-8a7e-78a296f9a037.html",
-     "title": "Miguel Gotor vince il Premio Strega Saggistica e lo dedica ai giovani di oggi"
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/20/torna-belve-di-francesca-fagnani-su-rai-2-in-prima-serata-dal-24-novembre_08b7d0b0-5097-4f19-8258-9ac25fd89e3c.html",
+     "title": "Torna Belve di Francesca Fagnani, su Rai 2 in prima serata dal 24 novembre"
     },
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/premio-strega-saggistica-miguel-gotor-vince-la-seconda-edizione_1PcW18JuBXcZSmnN9S7DrG",
-     "title": "Premio Strega Saggistica, Miguel Gotor vince la seconda edizione"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/20/francesca-fagnani-quando-mi-e-stato-proposto-chi-lha-visto-ho-detto-subito-si-con-entusiasmo-non-lavrei-reinventato-belve-si-era-proposto-vannacci-grillo-doveva-esserci-ma-poi/8578431/",
+     "title": "Francesca Fagnani: “Quando mi è stato proposto Chi l’ha Visto? ho detto subito sì con entusiasmo. Non l’avrei reinventato. Belve? Si era proposto Vannacci. Grillo doveva esserci ma poi…”"
     }
    ],
    "subtype": "cultura"
@@ -554,6 +453,121 @@
     }
    ],
    "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "In Italia solo il 9% degli adolescenti fa almeno un'ora di movimento al giorno",
+   "summary": "Oms, media mondiale del 14%. I pediatri italiani, 'parte fondamentale dello sviluppo'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/18/in-italia-solo-il-9-degli-adolescenti-fa-almeno-unora-di-movimento-al-giorno_1ae10b00-755f-45e0-9551-0971d2fa8f59.html",
+   "pub_ts": 1795086795,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/18/in-italia-solo-il-9-degli-adolescenti-fa-almeno-unora-di-movimento-al-giorno_1ae10b00-755f-45e0-9551-0971d2fa8f59.html",
+     "title": "In Italia solo il 9% degli adolescenti fa almeno un'ora di movimento al giorno"
+    },
+    {
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/dossier/stop-obesity/2026/11/19/news/sedentarieta_italia_9_adolescenti_ora_attivita_fisica_giorno-425734805/?rss",
+     "title": "Sedentarietà: in Italia solo il 9% degli adolescenti fa un’ora di attività fisica al giorno"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Roberto Gatto e il Perfectrio all'Istituto italiano di cultura del Cairo",
+   "summary": "Sonorità complesse, fusion e virtuosismi in un concerto unico in un teatro storico",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/roberto-gatto-e-il-perfectrio-allistituto-italiano-di-cultura-del-cairo_af56a27c-0137-4312-97c0-00d19a4ff6d3.html",
+   "pub_ts": 1795170112,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/roberto-gatto-e-il-perfectrio-allistituto-italiano-di-cultura-del-cairo_af56a27c-0137-4312-97c0-00d19a4ff6d3.html",
+     "title": "Roberto Gatto e il Perfectrio all'Istituto italiano di cultura del Cairo"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "A Kiev si dorme nella metro per timore degli attacchi russi",
+   "summary": "Il bilancio delle vittime dei raid russi della notte è salito a 6 morti",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/a-kiev-si-dorme-nella-metro-per-timore-degli-attacchi-russi_4a156298-546d-44be-8603-ac38e45990fc.html",
+   "pub_ts": 1795170828,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/a-kiev-si-dorme-nella-metro-per-timore-degli-attacchi-russi_4a156298-546d-44be-8603-ac38e45990fc.html",
+     "title": "A Kiev si dorme nella metro per timore degli attacchi russi"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/kiev-6-morti-in-raid-russi-sulla-capitale-8-in-tutto-il-paese_e72682ae-23a7-46f2-8e4b-7b9a0591592d.html",
+     "title": "Kiev, '6 morti in raid russi sulla capitale, 8 in tutto il paese'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/kiev-attacchi-missilistici-russi-nella-notte-tre-morti-15-feriti-video-1707a8c9-714e-45d4-b7c8-985f00ea2b2d.html",
+     "title": "Le sirene, il rumore delle esplosioni e il fumo: attacchi missilistici russi nella notte su Kiev"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-20-novembre-2026_2CuwrKnJrgjVSA8chjDTXq",
+     "title": "Ucraina, Trump: \"Putin vuole porre fine alla guerra\". Nuovi raid su Kiev e Leopoli: morti e feriti"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/trump-attacca-europa-nuovi-aiuti-ucraina-putin-nessuna-tregua-shenzhen-qp4gro2g",
+     "title": "Trump attacca l’Europa per i nuovi aiuti all’Ucraina, Putin: «Nessuna tregua»"
+    }
+   ]
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
+   "summary": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
+   "pub_ts": 1795161148,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
+     "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/meloni-a-berlino-per-la-riunione-della-coalizione-dei-volenterosi_7d294bbc-ba46-41be-827b-2a324f52e520.html",
+     "title": "Meloni a Berlino per la riunione della Coalizione dei Volenterosi"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-attacchi-russia-trump-putin-volenterosi-pace-ultimi-aggiornamenti-20-novembre-ucmgiyr0",
+     "title": "Ucraina, attacchi su Kiev: tre morti. Trump agli europei: «Putin vuole la pace, spendete i vostri soldi altrove»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/politica/ucraina-volenterosi-meloni_3elpVqdupzh0hY2w3eszgc",
+     "title": "Ucraina, Volenterosi a Berlino. Meloni: \"Cina spinga Putin alla pace\". Trump: \"Perché altri soldi a Kiev?\""
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/xi-trump-e-putin-a-shenzhen-il-patto-per-la-pace-a76bd084-1b6a-47da-a878-22d693fa4c20.html",
+     "title": "Xi, Trump e Putin: a Shenzhen il patto per la pace (senza Ucraina e Iran)"
+    }
+   ]
   }
  ],
  "articles": [
@@ -561,35 +575,26 @@
    "title": "“Rohingya, fu genocidio”: Myanmar condannato dal tribunale dell’Onu",
    "link": "https://www.repubblica.it/esteri/2026/11/19/news/rohingya_genocidio_myanmar_condanna_tribunale_onu-425735662/?rss",
    "description": "Storica sentenza ieri all’Aia per la persecuzione della minoranza musulmana. Attesa per il verdetto sulle azioni di Israele a Gaza",
-   "pub_ts": 1795116555,
+   "pub_ts": 1795161354,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Il grande cerimoniere riporta l’Impero al centro: “Shenzhen supera Yalta”",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/?rss",
-   "description": "Sancito il nuovo status del Dragone come magnete delle potenze di tutto il pianeta: bisogna però accettare le sue regole",
-   "pub_ts": 1795112786,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-   "description": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
-   "pub_ts": 1795141673,
+   "title": "Tajani, 'Shenzhen non è nuova Yalta, speriamo dia contributo alla pace'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/tajani-shenzhen-non-e-nuova-yalta-speriamo-dia-contributo-alla-pace_6260b6ef-067c-400f-bc8a-56e81d2d0870.html",
+   "description": "'Non si può raggiungere la pace senza la presenza europea'",
+   "pub_ts": 1795150680,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Tusk, 'Putin amico per Trump? Dio, proteggici da amici del genere'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/tusk-putin-amico-per-trump-dio-proteggici-da-amici-del-genere_4fc063fb-f81a-4313-8214-d32d561aa910.html",
-   "description": "Il premier polacco prende le distanze dal tycoon",
-   "pub_ts": 1795129692,
-   "source": "ANSA Mondo",
+   "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi",
+   "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
+   "description": "(Adnkronos) - Il timore è che l'enfasi data all'incontro possa ulteriormente spingere Trump \"a sostenere le ambizioni di Putin sui territori ucraini e le rivendicazioni di Xi su Taiwan\", scrive Politico. La Cnn si chiede: \"Perché li considera amici, Russia e Cina non sono amici degli Usa\"",
+   "pub_ts": 1795162334,
+   "source": "Adnkronos Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -598,15 +603,6 @@
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
    "description": "Premier: Zes estesa. Si media sul condono. Alleati: 'Ci sono anche nostre battaglie di bandiera'",
    "pub_ts": 1795127736,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Xi, Trump e Putin siglano un patto per la pace, 'abbiamo fatto la storia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-   "description": "L'obiettivo di un nuovo ordine mondiale e l'impegno sul nucleare. Ma tanti gli omissis",
-   "pub_ts": 1795123463,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -630,38 +626,47 @@
    "section": "politica"
   },
   {
-   "title": "Gli incontri tra Trump, Putin e Xi Jinping in cinque video",
-   "link": "https://www.ilpost.it/2026/11/19/momenti-primo-trilaterale-russia-cina-stati-uniti/",
-   "description": "Trump che chiama «amico» Putin, l'accoglienza di Xi e gli altri modi in cui i tre leader hanno esibito grande sintonia",
-   "pub_ts": 1795112039,
-   "source": "Il Post",
+   "title": "Fonti interne: siglata l’intesa tra Ue e Gran Bretagna al summit del reset delle relazioni",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
+   "description": "I contenuti dell'intesa verranno illustrati dai leader in conferenza stampa. Le anticipazioni di alcuni funzionari europei: “Accordo su quote per la mobilità giovanile, 100mila ragazzi all’anno potranno risiedere in Gran Bretagna”",
+   "pub_ts": 1795173209,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Divano e cagnolina, Schlein posta su Instagram download di Grand Theft Auto VI: \"Pronte\"",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/divano-e-cagnolina-schlein-posta-su-instagram-download-di-grand-theft-auto-vi-pronte_ac169f1e-3118-428d-922f-e3aa06a6077a.html",
-   "description": "Il messaggio con cui la segretaria del Pd, Elly Schlein commenta il post con cui su Instagram mostra il download di Grand Theft Auto VI",
-   "pub_ts": 1795092369,
+   "title": "Mattarella, l'Italia non può privarsi del suo essere molteplice",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/mattarella-litalia-non-puo-privarsi-del-suo-essere-molteplice_9b2c94a7-48f0-4e36-b5ce-e3ea39fe0cd6.html",
+   "description": "Immigrati in attività artigiane aiutano a tenere in vita mestieri e servizi necessari",
+   "pub_ts": 1795172098,
    "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Anthropic vola all'esordio a Wall Street, sale del 17%",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
-   "description": "Arriva a valere 2.000 miliardi. Listini in calo, per S 500 la serie più lunga dal 2024",
-   "pub_ts": 1795125362,
+   "title": "Fonti Ue: \"Se Londra vuole rientrare, pronti a parlarne\"",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/fonti-ue-se-londra-vuole-rientrare-pronti-a-parlarne_5b953d39-9a7b-42ee-ac7c-68f1e0f99a6a.html",
+   "description": "\"Ma è una decisione dei britannici. Lavoriamo già su ambiti del mercato unico\"",
+   "pub_ts": 1795166114,
    "source": "ANSA",
    "source_priority": 1,
-   "section": "tech"
+   "section": "politica"
   },
   {
-   "title": "'Attendere la legge', Tribunale Milano rinvia la causa a Meta e TikTok",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
-   "description": "Class action avviata da genitori. Legali: 'Serviva blocco subito, minori intanto muoiono'",
-   "pub_ts": 1795113320,
-   "source": "ANSA",
+   "title": "Brexit, la marea di sondaggi che spinge Burnham verso il (possibile) rientro del Regno Unito in Ue",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/brexit_sondaggi_burnham_rientro_regno_unito_ue-425734324/?rss",
+   "description": "Alla vigilia del vertice di Bruxelles di domani, sempre più rilevazioni sembrano giustificare il forte riavvicinamento all’Unione voluto dal primo ministro britannico. E l’ex vice di Starmer: “Bisogna tornare in Ue al più presto”",
+   "pub_ts": 1795162320,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Anthropic debutta in Borsa, ora vale 1.500 miliardi",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/19/anthropic-debutta-in-borsa-ora-vale-1.500-miliardi_940ae56a-3aff-4ea5-bc3a-e304b533c321.html",
+   "description": "Amodei suona la campanella del Nasdaq, 'ossessionati dalla sicurezza dell'IA'",
+   "pub_ts": 1795115705,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -675,10 +680,19 @@
    "section": "tech"
   },
   {
-   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
-   "description": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
-   "pub_ts": 1795092309,
+   "title": "'Attendere la legge', Tribunale Milano rinvia la causa a Meta e TikTok",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
+   "description": "Class action avviata da genitori. Legali: 'Serviva blocco subito, minori intanto muoiono'",
+   "pub_ts": 1795113320,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Google dice no a governo Gb, resta online messaggio di Russell Brand dal carcere",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/google-dice-no-a-governo-gb-resta-online-messaggio-di-russell-brand-dal-carcere_c0ee297a-a206-4c08-a80e-64100e751ed6.html",
+   "description": "In video su YouTube moglie proclama innocenza dell'attore condannato per stupro",
+   "pub_ts": 1795092085,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
@@ -687,34 +701,16 @@
    "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi",
    "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
    "description": "Le 18 pagine iniziali diventano 9. Mancano impegni vincolanti. Si menziona l’elettrificazione al 35%, voluta dalla Turchia",
-   "pub_ts": 1795132800,
+   "pub_ts": 1795170607,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
-   "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_6eb37ec5-68f2-4465-b54b-6ed9f758bcda.html",
-   "description": "Soli italiani in lista, in testa Marilyn Monroe",
-   "pub_ts": 1795087643,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Cardiologi, 'per i pazienti cardiovascolari fondamentale il vaccino antinfluenzale'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/18/cardiologi-per-pazienti-cardiovascolari-fondamentale-vaccino-antinfluenzale_282bc960-49f9-4ba3-b958-7a788f1d72cf.html",
-   "description": "Esperti Anmco, 'dopo influenza aumento fino a sei volte del rischio di infarto'",
-   "pub_ts": 1795119815,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Miguel Gotor vince il Premio Strega Saggistica e lo dedica ai giovani di oggi",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/18/miguel-gotor-vince-il-premio-strega-saggistica-e-lo-dedica-ai-giovani-di-oggi_4e6b5993-2969-47e5-8a7e-78a296f9a037.html",
-   "description": "Con 'L'omicidio di Piersanti Mattarella'",
-   "pub_ts": 1795112552,
+   "title": "Torna Belve di Francesca Fagnani, su Rai 2 in prima serata dal 24 novembre",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/20/torna-belve-di-francesca-fagnani-su-rai-2-in-prima-serata-dal-24-novembre_08b7d0b0-5097-4f19-8258-9ac25fd89e3c.html",
+   "description": "Ritroveremo i faccia a faccia con personaggi dello spettacolo, del costume e della cronaca",
+   "pub_ts": 1795170310,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -727,6 +723,42 @@
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "varia"
+  },
+  {
+   "title": "In Italia solo il 9% degli adolescenti fa almeno un'ora di movimento al giorno",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/18/in-italia-solo-il-9-degli-adolescenti-fa-almeno-unora-di-movimento-al-giorno_1ae10b00-755f-45e0-9551-0971d2fa8f59.html",
+   "description": "Oms, media mondiale del 14%. I pediatri italiani, 'parte fondamentale dello sviluppo'",
+   "pub_ts": 1795086795,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Roberto Gatto e il Perfectrio all'Istituto italiano di cultura del Cairo",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/roberto-gatto-e-il-perfectrio-allistituto-italiano-di-cultura-del-cairo_af56a27c-0137-4312-97c0-00d19a4ff6d3.html",
+   "description": "Sonorità complesse, fusion e virtuosismi in un concerto unico in un teatro storico",
+   "pub_ts": 1795170112,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "A Kiev si dorme nella metro per timore degli attacchi russi",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/a-kiev-si-dorme-nella-metro-per-timore-degli-attacchi-russi_4a156298-546d-44be-8603-ac38e45990fc.html",
+   "description": "Il bilancio delle vittime dei raid russi della notte è salito a 6 morti",
+   "pub_ts": 1795170828,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "cronaca"
+  },
+  {
+   "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
+   "description": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
+   "pub_ts": 1795161148,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "cronaca"
   }
  ]
 }
