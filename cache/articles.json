@@ -1,6 +1,6 @@
 {
- "generated_at": 1795123077,
- "updated_at": 1795123077,
+ "generated_at": 1795143347,
+ "updated_at": 1795143347,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -51,117 +51,6 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
-   "summary": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-   "pub_ts": 1795120464,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-     "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_shenzhen_trump_accolto_xi_vertice_cina_russia_putin_guerra_ucraina-425731624/?rss",
-     "title": "Xi a Putin: “Relazioni incrollabili come montagna”. Trump a Shenzhen, accolto dal leader cinese"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/trump-incontra-putin-e-xi-ucraina-e-nucleare-al-centro-del-vertice-tra-tre-potenze-shenzhen-o95uvbz7",
-     "title": "Trump, Putin e Xi, il vertice si chiude senza svolte. Nessun accordo su Ucraina e nucleare"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-incontro-oggi-shenzhen_1op1uFWTI3sK8NUaVy6E4M",
-     "title": "\"C'è il mio amico\", Trump e l'incontro con Putin a Shenzhen"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/trump-putin-xi-jinping-incontro-cina/",
-     "title": "Come è andato l’incontro tra Trump, Putin e Xi Jinping"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Xi, Trump e Putin siglano un patto per la pace, 'abbiamo fatto la storia'",
-   "summary": "L'obiettivo di un nuovo ordine mondiale e l'impegno sul nucleare. Ma tanti gli omissis",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-   "pub_ts": 1795119216,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
-     "title": "Xi, Trump e Putin siglano un patto per la pace, 'abbiamo fatto la storia'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/19/kushner-trump-non-vuole-un-accordo-unilaterale-per-la-pace-in-ucraina_d894d6ca-8045-4140-84ce-a84f43b392ea.html",
-     "title": "Kushner, 'Trump non vuole un accordo unilaterale' per la pace in Ucraina"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/xi-trump-e-putin-a-shenzhen-il-patto-per-la-pace-a76bd084-1b6a-47da-a878-22d693fa4c20.html",
-     "title": "Xi, Trump e Putin: a Shenzhen il patto per la pace (senza Ucraina e Iran)"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/vertice-shenzhen-xi-putin-trump_6ETuLLXQUu8OQpzLJnKWIU",
-     "title": "Vertice Shenzhen, dagli incontri con Xi e Putin alla dichiarazione congiunta: la giornata cinese di Trump"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/trump_vertice_xi_putin_cerca_rivincita_sconfitta_midterm_nucleare_ucraina_iran-425734783/",
-     "title": "La dichiarazione di pace di Trump, Xi e Putin dopo il trilaterale: “Ridurre il rischio nucleare”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il principe Harry: 'Mi riarruolerei per combattere contro la Russia'",
-   "summary": "Al Telegraph: 'Gb in conflitto con Mosca ormai da un decennio'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/il-principe-harry-mi-riarruolerei-per-combattere-contro-la-russia_ed4b6357-3f8b-4697-99c8-48a6690a5719.html",
-   "pub_ts": 1795116256,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/il-principe-harry-mi-riarruolerei-per-combattere-contro-la-russia_ed4b6357-3f8b-4697-99c8-48a6690a5719.html",
-     "title": "Il principe Harry: 'Mi riarruolerei per combattere contro la Russia'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/principe_harry_pronto_ad_arruolarmi_esercito_se_necessario_minaccia_russia-425735499/?rss",
-     "title": "Il principe Harry e la minaccia russa: “Tornerei a combattere nell’esercito”"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/principe-harry-russia-minaccia-preoccupante-pronto-a-tornare-nelle-forze-armate_c677f3ad-1515-4e53-ade3-7b4db62df64b.html",
-     "title": "Principe Harry, 'Russia minaccia preoccupante, pronto a tornare nelle Forze Armate'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/principe_harry_pronto_ad_arruolarmi_esercito_se_necessario_minaccia_russia-425735499/",
-     "title": "Il principe Harry e la minaccia russa: “Tornerei a combattere nell’esercito”"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/principe-harry-pronto-a-combattere-contro-russia-ucraina_3jxLBMShMD4f07iyqA1ZDW",
-     "title": "Ucraina, principe Harry: \"Pronto a combattere la Russia se fosse necessario\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
    "title": "Il grande cerimoniere riporta l’Impero al centro: “Shenzhen supera Yalta”",
    "summary": "Sancito il nuovo status del Dragone come magnete delle potenze di tutto il pianeta: bisogna però accettare le sue regole",
@@ -199,18 +88,77 @@
   },
   {
    "category": "politica",
+   "area": "mondo",
+   "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
+   "summary": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
+   "pub_ts": 1795141673,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
+     "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/trump-incontra-putin-e-xi-ucraina-e-nucleare-al-centro-del-vertice-tra-tre-potenze-shenzhen-o95uvbz7",
+     "title": "Trump, Putin e Xi, il vertice si chiude senza svolte. Nessun accordo su Ucraina e nucleare"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-incontro-oggi-shenzhen_1op1uFWTI3sK8NUaVy6E4M",
+     "title": "\"C'è il mio amico\", Trump e l'incontro con Putin a Shenzhen"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/19/trump-putin-xi-jinping-incontro-cina/",
+     "title": "Come è andato l’incontro tra Trump, Putin e Xi Jinping"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Tusk, 'Putin amico per Trump? Dio, proteggici da amici del genere'",
+   "summary": "Il premier polacco prende le distanze dal tycoon",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/tusk-putin-amico-per-trump-dio-proteggici-da-amici-del-genere_4fc063fb-f81a-4313-8214-d32d561aa910.html",
+   "pub_ts": 1795129692,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/tusk-putin-amico-per-trump-dio-proteggici-da-amici-del-genere_4fc063fb-f81a-4313-8214-d32d561aa910.html",
+     "title": "Tusk, 'Putin amico per Trump? Dio, proteggici da amici del genere'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/trump_apec_shenzhen_iran_cina_russia_xi_putin_obama_dazi-425733711/?rss",
+     "title": "Trump: “Non ci serve l’aiuto di Cina e Russia sull’Iran”. E accusa Obama di aver favorito la loro alleanza"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
+     "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "italia",
-   "title": "Nuovo vertice di maggioranza, si cerca l'intesa sulle modifiche alla manovra",
-   "summary": "Meloni rilancia aiuti alle imprese, FI spinge per smart working P.a. Si tratta sul condono",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/nuovo-vertice-di-maggioranza-si-cerca-lintesa-sulle-modifiche-alla-manovra_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
-   "pub_ts": 1795121331,
+   "title": "Focus su pensioni e sanità al vertice di maggioranza, Meloni chiede 'basta divisioni'",
+   "summary": "Premier: Zes estesa. Si media sul condono. Alleati: 'Ci sono anche nostre battaglie di bandiera'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
+   "pub_ts": 1795127736,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/nuovo-vertice-di-maggioranza-si-cerca-lintesa-sulle-modifiche-alla-manovra_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
-     "title": "Nuovo vertice di maggioranza, si cerca l'intesa sulle modifiche alla manovra"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
+     "title": "Focus su pensioni e sanità al vertice di maggioranza, Meloni chiede 'basta divisioni'"
     },
     {
      "name": "ANSA Politica",
@@ -226,28 +174,55 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Allarmi bomba, Piantedosi: 'Niente pericoli ma non sottovalutiamo'",
-   "summary": "L'informativa in Aula: 'Evacuazioni azzerate dopo la direttiva'. L'opposizione all'attacco",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/allarmi-bomba-piantedosi-nessuna-minaccia-per-la-sicurezza-nazionale_52a785a7-a0c8-4ef0-a1ff-0802d885e57f.html",
-   "pub_ts": 1795119734,
+   "area": "mondo",
+   "title": "Xi, Trump e Putin siglano un patto per la pace, 'abbiamo fatto la storia'",
+   "summary": "L'obiettivo di un nuovo ordine mondiale e l'impegno sul nucleare. Ma tanti gli omissis",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+   "pub_ts": 1795123463,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/allarmi-bomba-piantedosi-nessuna-minaccia-per-la-sicurezza-nazionale_52a785a7-a0c8-4ef0-a1ff-0802d885e57f.html",
-     "title": "Allarmi bomba, Piantedosi: 'Niente pericoli ma non sottovalutiamo'"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+     "title": "Xi, Trump e Putin siglano un patto per la pace, 'abbiamo fatto la storia'"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/allarmi-bomba-piantedosi-nessuna-minaccia-per-la-sicurezza-nazionale_72d77d2b-241c-4e2b-9d5c-d2dffb6ed387.html",
-     "title": "Allarmi bomba, Piantedosi 'nessuna minaccia per la sicurezza nazionale"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/19/kushner-trump-non-vuole-un-accordo-unilaterale-per-la-pace-in-ucraina_d894d6ca-8045-4140-84ce-a84f43b392ea.html",
+     "title": "Kushner, 'Trump non vuole un accordo unilaterale' per la pace in Ucraina"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/allarmi-bomba-il-ministro-piantedosi-alla-camera-nessuna-minaccia-per-la-sicurezza-nazionale-1c52639e-b5ba-444c-8121-bf45f613f7fb.html",
-     "title": "Allarmi bomba, il ministro Piantedosi alla Camera: “Nessuna minaccia per la sicurezza nazionale”"
+     "link": "https://www.rainews.it/video/2026/11/xi-trump-e-putin-a-shenzhen-il-patto-per-la-pace-a76bd084-1b6a-47da-a878-22d693fa4c20.html",
+     "title": "Xi, Trump e Putin: a Shenzhen il patto per la pace (senza Ucraina e Iran)"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il principe Harry: 'Mi riarruolerei per combattere contro la Russia'",
+   "summary": "Al Telegraph: 'Gb in conflitto con Mosca ormai da un decennio'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/il-principe-harry-mi-riarruolerei-per-combattere-contro-la-russia_ed4b6357-3f8b-4697-99c8-48a6690a5719.html",
+   "pub_ts": 1795116256,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/il-principe-harry-mi-riarruolerei-per-combattere-contro-la-russia_ed4b6357-3f8b-4697-99c8-48a6690a5719.html",
+     "title": "Il principe Harry: 'Mi riarruolerei per combattere contro la Russia'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/19/news/principe_harry_pronto_ad_arruolarmi_esercito_se_necessario_minaccia_russia-425735499/?rss",
+     "title": "Il principe Harry e la minaccia russa: “Tornerei a combattere nell’esercito”"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/principe-harry-pronto-a-combattere-contro-russia-ucraina_3jxLBMShMD4f07iyqA1ZDW",
+     "title": "Ucraina, principe Harry: \"Pronto a combattere la Russia se fosse necessario\""
     }
    ]
   },
@@ -280,67 +255,67 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "L'emendamento della discordia: libri digitali ad un prezzo ridotto dal cartaceo",
-   "summary": "Sul voto finale del decreto scuola che prevede tra l'altro nuove assunzioni di docenti e un tetto del 30% di studenti stranieri nelle classi iniziali la maggioranza si ricompatta",
-   "link": "https://www.rainews.it/video/2026/11/lemendamento-della-discordia-libri-digitali-ad-un-prezzo-ridotto-dal-cartaceo-fef9b636-78ba-4538-8d9c-83001051c818.html",
-   "pub_ts": 1795118340,
+   "area": "mondo",
+   "title": "Gli incontri tra Trump, Putin e Xi Jinping in cinque video",
+   "summary": "Trump che chiama «amico» Putin, l'accoglienza di Xi e gli altri modi in cui i tre leader hanno esibito grande sintonia",
+   "link": "https://www.ilpost.it/2026/11/19/momenti-primo-trilaterale-russia-cina-stati-uniti/",
+   "pub_ts": 1795112039,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/lemendamento-della-discordia-libri-digitali-ad-un-prezzo-ridotto-dal-cartaceo-fef9b636-78ba-4538-8d9c-83001051c818.html",
-     "title": "L'emendamento della discordia: libri digitali ad un prezzo ridotto dal cartaceo"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/19/momenti-primo-trilaterale-russia-cina-stati-uniti/",
+     "title": "Gli incontri tra Trump, Putin e Xi Jinping in cinque video"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/dl-scuola-libri-scolastici-ebook-forza-italia-no-mondadori-fratelli-italia-phpvg0kp",
-     "title": "La maggioranza si spacca sui libri scolastici. L’emendamento di FdI passa con il no di Forza Italia"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/vertice-shenzhen-xi-putin-trump_6ETuLLXQUu8OQpzLJnKWIU",
+     "title": "Vertice Shenzhen, dagli incontri con Xi e Putin alla dichiarazione congiunta: la giornata cinese di Trump"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/19/news/dl_scuola_forza_italia_fdi_maggioranza_libri_scolastici-425734266/",
-     "title": "Dl scuola, maggioranza si spacca al Senato: ok all’emendamento FdI su e-book ma FI vota contro"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/19/vertice-trump-xi-jinping-putin-shenzhen-notizie/8577924/",
+     "title": "Putin, Xi Jinping e Trump insieme: il video dei tre presidenti allo storico incontro a Shenzhen"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Merz, 'siamo pronti a parlare con Putin ma in un luogo neutrale'",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/merz-siamo-pronti-a-parlare-con-putin-ma-in-un-luogo-neutrale_e0182ca2-dd05-4ac1-aa2f-a15472359542.html",
-   "pub_ts": 1795109412,
+   "area": "italia",
+   "title": "Divano e cagnolina, Schlein posta su Instagram download di Grand Theft Auto VI: \"Pronte\"",
+   "summary": "Il messaggio con cui la segretaria del Pd, Elly Schlein commenta il post con cui su Instagram mostra il download di Grand Theft Auto VI",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/divano-e-cagnolina-schlein-posta-su-instagram-download-di-grand-theft-auto-vi-pronte_ac169f1e-3118-428d-922f-e3aa06a6077a.html",
+   "pub_ts": 1795092369,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/merz-siamo-pronti-a-parlare-con-putin-ma-in-un-luogo-neutrale_e0182ca2-dd05-4ac1-aa2f-a15472359542.html",
-     "title": "Merz, 'siamo pronti a parlare con Putin ma in un luogo neutrale'"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/divano-e-cagnolina-schlein-posta-su-instagram-download-di-grand-theft-auto-vi-pronte_ac169f1e-3118-428d-922f-e3aa06a6077a.html",
+     "title": "Divano e cagnolina, Schlein posta su Instagram download di Grand Theft Auto VI: \"Pronte\""
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/diretta/vertice_apec_2026_shenzhen_news_oggi-425733619/",
-     "title": "Guerra Russia-Ucraina, news. Volenterosi, Merz: “Pronti a parlare con Putin ma in luogo neutrale”"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/18/gta-vi-guida/",
+     "title": "Capire di cosa parla chi parla di Grand Theft Auto VI"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Anthropic vola all'esordio a Wall Street, vale 2.000 miliardi",
-   "summary": "L'esordio col botto crea nuovi miliardari. Brindano le banche",
+   "title": "Anthropic vola all'esordio a Wall Street, sale del 17%",
+   "summary": "Arriva a valere 2.000 miliardi. Listini in calo, per S 500 la serie più lunga dal 2024",
    "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
-   "pub_ts": 1795116057,
-   "n_sources": 5,
+   "pub_ts": 1795125362,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
-     "title": "Anthropic vola all'esordio a Wall Street, vale 2.000 miliardi"
+     "title": "Anthropic vola all'esordio a Wall Street, sale del 17%"
     },
     {
      "name": "ANSA Tecnologia",
@@ -361,6 +336,11 @@
      "name": "Rai News",
      "link": "https://www.rainews.it/video/2026/11/anthropic-conquista-il-nasdaq-raccolta-da-1073-miliardi-battuta-spacex-proteste-in-strada-76ce8b25-4fcc-4020-8640-c75811065728.html",
      "title": "Anthropic vola all'esordio a Wall Street, vale 2.000 miliardi"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/19/anthropic-quotazione-nasdaq-intelligenza-artificiale/",
+     "title": "Anthropic si è quotata in borsa"
     }
    ]
   },
@@ -404,38 +384,6 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
-   "summary": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
-   "pub_ts": 1795107495,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
-     "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti"
-    },
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/google-allerta-terremoti-android-italia-come-funziona-425733555/?rss",
-     "title": "Terremoti, arriva in Italia l’allerta di Google: i telefoni Android avviseranno prima delle scosse"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/19/italia-terremoti-google-avviso-allerta-smartphon-android/",
-     "title": "In Italia arriva l’allerta terremoti di Google: come lo smartphone Android riesce ad avvisare pochi secondi prima della scossa"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/android-allerta-terremoti/",
-     "title": "In Italia è ora disponibile il sistema di allerta di Android in caso di terremoti"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
    "title": "Cyber attacco alla Commissione europea, possibili dati personali compromessi. Usate le IA",
    "summary": "Colpiti i sistemi informatici dell’esecutivo dell’Unione europea, con applicazioni interne sospese per precauzione. Si temono possibili rischi per le informazioni dei dipendenti",
    "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/cyber_attacco_commissione_europea_ia-425735466/?rss",
@@ -459,6 +407,56 @@
      "title": "La Commissione Europea ha subìto un attacco informatico"
     }
    ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
+   "summary": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
+   "pub_ts": 1795092309,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
+     "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti"
+    },
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/google-allerta-terremoti-android-italia-come-funziona-425733555/?rss",
+     "title": "Terremoti, arriva in Italia l’allerta di Google: i telefoni Android avviseranno prima delle scosse"
+    }
+   ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi",
+   "summary": "Le 18 pagine iniziali diventano 9. Mancano impegni vincolanti. Si menziona l’elettrificazione al 35%, voluta dalla Turchia",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
+   "pub_ts": 1795132800,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
+     "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cop31-nella-bozza-si-allelettrificazione-ma-niente-sulle-fonti-fossili_932cb245-527d-48a1-9535-d18aaf4af70b.html",
+     "title": "Cop31: nella bozza sì all'elettrificazione, ma niente sulle fonti fossili"
+    },
+    {
+     "name": "Repubblica Ambiente",
+     "link": "https://www.repubblica.it/green-and-blue/dossier/cop31/2026/11/19/news/seconda_bozza-425735133/?rss",
+     "title": "Dalla seconda bozza di Cop31 scompare l’espressione “combustibili fossili”"
+    }
+   ],
+   "subtype": "scienza"
   },
   {
    "category": "varia",
@@ -507,29 +505,6 @@
      "name": "Open",
      "link": "https://www.open.online/2026/11/19/influenza-vaccino-infarto-cardiologi-medici/",
      "title": "Influenza, dopo il virus il rischio di infarto cresce fino a sei volte. L’allarme dei cardiologi: «Il vaccino è un salvavita»"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Cop31: nella bozza sì all'elettrificazione, ma niente sulle fonti fossili",
-   "summary": "Va avanti la proposta simbolo della conferenza, scompare l'abbandono degli idrocarburi",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cop31-nella-bozza-si-allelettrificazione-ma-niente-sulle-fonti-fossili_932cb245-527d-48a1-9535-d18aaf4af70b.html",
-   "pub_ts": 1795116172,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cop31-nella-bozza-si-allelettrificazione-ma-niente-sulle-fonti-fossili_932cb245-527d-48a1-9535-d18aaf4af70b.html",
-     "title": "Cop31: nella bozza sì all'elettrificazione, ma niente sulle fonti fossili"
-    },
-    {
-     "name": "Repubblica Ambiente",
-     "link": "https://www.repubblica.it/green-and-blue/dossier/cop31/2026/11/19/news/seconda_bozza-425735133/?rss",
-     "title": "Dalla seconda bozza di Cop31 scompare l’espressione “combustibili fossili”"
     }
    ],
    "subtype": "scienza"
@@ -592,11 +567,38 @@
    "section": "politica"
   },
   {
+   "title": "Il grande cerimoniere riporta l’Impero al centro: “Shenzhen supera Yalta”",
+   "link": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/?rss",
+   "description": "Sancito il nuovo status del Dragone come magnete delle potenze di tutto il pianeta: bisogna però accettare le sue regole",
+   "pub_ts": 1795112786,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
    "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
    "description": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
-   "pub_ts": 1795120464,
+   "pub_ts": 1795141673,
    "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Tusk, 'Putin amico per Trump? Dio, proteggici da amici del genere'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/tusk-putin-amico-per-trump-dio-proteggici-da-amici-del-genere_4fc063fb-f81a-4313-8214-d32d561aa910.html",
+   "description": "Il premier polacco prende le distanze dal tycoon",
+   "pub_ts": 1795129692,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Focus su pensioni e sanità al vertice di maggioranza, Meloni chiede 'basta divisioni'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
+   "description": "Premier: Zes estesa. Si media sul condono. Alleati: 'Ci sono anche nostre battaglie di bandiera'",
+   "pub_ts": 1795127736,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -604,7 +606,7 @@
    "title": "Xi, Trump e Putin siglano un patto per la pace, 'abbiamo fatto la storia'",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
    "description": "L'obiettivo di un nuovo ordine mondiale e l'impegno sul nucleare. Ma tanti gli omissis",
-   "pub_ts": 1795119216,
+   "pub_ts": 1795123463,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -619,33 +621,6 @@
    "section": "politica"
   },
   {
-   "title": "Il grande cerimoniere riporta l’Impero al centro: “Shenzhen supera Yalta”",
-   "link": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/?rss",
-   "description": "Sancito il nuovo status del Dragone come magnete delle potenze di tutto il pianeta: bisogna però accettare le sue regole",
-   "pub_ts": 1795112786,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nuovo vertice di maggioranza, si cerca l'intesa sulle modifiche alla manovra",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/nuovo-vertice-di-maggioranza-si-cerca-lintesa-sulle-modifiche-alla-manovra_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
-   "description": "Meloni rilancia aiuti alle imprese, FI spinge per smart working P.a. Si tratta sul condono",
-   "pub_ts": 1795121331,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Allarmi bomba, Piantedosi: 'Niente pericoli ma non sottovalutiamo'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/allarmi-bomba-piantedosi-nessuna-minaccia-per-la-sicurezza-nazionale_52a785a7-a0c8-4ef0-a1ff-0802d885e57f.html",
-   "description": "L'informativa in Aula: 'Evacuazioni azzerate dopo la direttiva'. L'opposizione all'attacco",
-   "pub_ts": 1795119734,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "I libri scolastici spaccano la maggioranza. Caos in aula, Meloni piega i Berlusconi",
    "link": "https://www.editorialedomani.it/politica/italia/libri-scuola-maggioranza-spaccata-caos-aula-meloni-piega-berlusconi-hiekxklf",
    "description": "Lo sconto agli ebook è un nuovo affronto ai figli del Cavaliere, gli azzurri votano no: la norma passa al Senato con lo strappo. La maggioranza è in frantumi. La premier rivendica la Zes estesa al Centro-Nord, ma il Pd ricorda: «Proposta delle opposizioni»",
@@ -655,28 +630,28 @@
    "section": "politica"
   },
   {
-   "title": "L'emendamento della discordia: libri digitali ad un prezzo ridotto dal cartaceo",
-   "link": "https://www.rainews.it/video/2026/11/lemendamento-della-discordia-libri-digitali-ad-un-prezzo-ridotto-dal-cartaceo-fef9b636-78ba-4538-8d9c-83001051c818.html",
-   "description": "Sul voto finale del decreto scuola che prevede tra l'altro nuove assunzioni di docenti e un tetto del 30% di studenti stranieri nelle classi iniziali la maggioranza si ricompatta",
-   "pub_ts": 1795118340,
-   "source": "Rai News",
+   "title": "Gli incontri tra Trump, Putin e Xi Jinping in cinque video",
+   "link": "https://www.ilpost.it/2026/11/19/momenti-primo-trilaterale-russia-cina-stati-uniti/",
+   "description": "Trump che chiama «amico» Putin, l'accoglienza di Xi e gli altri modi in cui i tre leader hanno esibito grande sintonia",
+   "pub_ts": 1795112039,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Merz, 'siamo pronti a parlare con Putin ma in un luogo neutrale'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/merz-siamo-pronti-a-parlare-con-putin-ma-in-un-luogo-neutrale_e0182ca2-dd05-4ac1-aa2f-a15472359542.html",
-   "description": "",
-   "pub_ts": 1795109412,
-   "source": "ANSA Mondo",
+   "title": "Divano e cagnolina, Schlein posta su Instagram download di Grand Theft Auto VI: \"Pronte\"",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/divano-e-cagnolina-schlein-posta-su-instagram-download-di-grand-theft-auto-vi-pronte_ac169f1e-3118-428d-922f-e3aa06a6077a.html",
+   "description": "Il messaggio con cui la segretaria del Pd, Elly Schlein commenta il post con cui su Instagram mostra il download di Grand Theft Auto VI",
+   "pub_ts": 1795092369,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Anthropic vola all'esordio a Wall Street, vale 2.000 miliardi",
+   "title": "Anthropic vola all'esordio a Wall Street, sale del 17%",
    "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
-   "description": "L'esordio col botto crea nuovi miliardari. Brindano le banche",
-   "pub_ts": 1795116057,
+   "description": "Arriva a valere 2.000 miliardi. Listini in calo, per S 500 la serie più lunga dal 2024",
+   "pub_ts": 1795125362,
    "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
@@ -691,15 +666,6 @@
    "section": "tech"
   },
   {
-   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
-   "description": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
-   "pub_ts": 1795107495,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
    "title": "Cyber attacco alla Commissione europea, possibili dati personali compromessi. Usate le IA",
    "link": "https://www.repubblica.it/tecnologia/2026/11/19/news/cyber_attacco_commissione_europea_ia-425735466/?rss",
    "description": "Colpiti i sistemi informatici dell’esecutivo dell’Unione europea, con applicazioni interne sospese per precauzione. Si temono possibili rischi per le informazioni dei dipendenti",
@@ -707,6 +673,24 @@
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
+  },
+  {
+   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
+   "description": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
+   "pub_ts": 1795092309,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
+   "description": "Le 18 pagine iniziali diventano 9. Mancano impegni vincolanti. Si menziona l’elettrificazione al 35%, voluta dalla Turchia",
+   "pub_ts": 1795132800,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "varia"
   },
   {
    "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
@@ -723,15 +707,6 @@
    "description": "Esperti Anmco, 'dopo influenza aumento fino a sei volte del rischio di infarto'",
    "pub_ts": 1795119815,
    "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Cop31: nella bozza sì all'elettrificazione, ma niente sulle fonti fossili",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cop31-nella-bozza-si-allelettrificazione-ma-niente-sulle-fonti-fossili_932cb245-527d-48a1-9535-d18aaf4af70b.html",
-   "description": "Va avanti la proposta simbolo della conferenza, scompare l'abbandono degli idrocarburi",
-   "pub_ts": 1795116172,
-   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
