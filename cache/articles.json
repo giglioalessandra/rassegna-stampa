@@ -1,6 +1,6 @@
 {
- "generated_at": 1795204395,
- "updated_at": 1795204395,
+ "generated_at": 1795223830,
+ "updated_at": 1795223830,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,79 +10,74 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Trump: “L’Iran vuole un accordo non accettabile. Con Xi concordati paletti per IA”",
-   "summary": "La conferenza stampa del presidente americano dopo il trilaterale a Shenzhen: “Una delle visite presidenziali di maggior successo nella storia Usa”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-   "pub_ts": 1795201682,
+   "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali",
+   "summary": "L’ex premier e ministro degli Esteri, che aveva già corso per l’Eliseo nel 2012, ci riprova a 73 anni: “Decisione importante e difficile”. Lo slogan per superare le divisioni nel Paese: “E se ci volessimo ancora bene?”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
+   "pub_ts": 1795211536,
    "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-     "title": "Trump: “L’Iran vuole un accordo non accettabile. Con Xi concordati paletti per IA”"
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
+     "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html",
-     "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/dominique-de-villepin-annuncia-la-sua-candidatura-per-leliseo_54331604-ad00-4263-87fd-575586b1d67b.html",
+     "title": "Dominique de Villepin annuncia la sua candidatura per l'Eliseo"
     },
     {
      "name": "Open",
-     "link": "https://www.open.online/2026/11/20/trump-iran-accordo-putin-data-center-cina/",
-     "title": "Trump avverte Teheran e sfida Pechino sull’AI: «Vogliamo un vero accordo con l’Iran. Tasse pesanti sui data center all’estero»"
+     "link": "https://www.open.online/2026/11/20/dominique-de-villepin-candidato-presidenziali-francia-2027/",
+     "title": "Dominique de Villepin annuncia la sua candidatura alle presidenziali francesi: è il 38esimo candidato"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/",
-     "title": "Trump: “L’Iran vuole un accordo non accettabile. Con Xi concordati paletti per IA”"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/europa/dominique-de-villepin-presidenziali-candidato-piace-sinistra-vmfezhmu",
+     "title": "Dominique de Villepin «candidato» all’Eliseo: il gollista che punta sulla sinistra"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-cina-shenzhen-vertice-trilaterale_2WVlhO8ESjEbGoZDLq8aBW",
-     "title": "Trump: \"Putin vuole la fine della guerra in Ucraina, ci sono ottime possibilità\""
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/dominique-de-villepin-candidatura-elezioni-presidenziali-francesi/",
+     "title": "In Francia l’ex primo ministro Dominique de Villepin si è candidato alle elezioni presidenziali"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/presidente-usa-donald-trump-iran-non-fara-un-accordo-per-me-accettabile-c65d5034-272f-4059-8c59-94ac166522f7.html",
-     "title": "Trump: \"L'Iran non farà un accordo per me accettabile\""
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/francia-dominique-de-villepin-annuncia-sua-candidatura-l-eliseo-AJA0CDNC",
+     "title": "Francia, Dominique de Villepin annuncia la sua candidatura per l’Eliseo"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'",
-   "summary": "Cortei di lavoratori e studenti. Il sindacato: 'Adesione al 60%'. Il segretario: 'Messaggio a tutta la politica, le persone chiedono risposte'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
-   "pub_ts": 1795202594,
-   "n_sources": 5,
+   "area": "mondo",
+   "title": "Rete studenti, 50 cortei in tutta Italia, in piazza per il nostro futuro",
+   "summary": "\"Siamo una generazione che chiede ascolto e investimenti concreti\"",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/rete-studenti-50-cortei-in-tutta-italia-in-piazza-per-il-nostro-futuro_a2cfbc17-c63c-4be8-b7c0-726e966bf68b.html",
+   "pub_ts": 1795206212,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
-     "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/rete-studenti-50-cortei-in-tutta-italia-in-piazza-per-il-nostro-futuro_a2cfbc17-c63c-4be8-b7c0-726e966bf68b.html",
+     "title": "Rete studenti, 50 cortei in tutta Italia, in piazza per il nostro futuro"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/la-rabbia-riempie-le-piazze-italiane-siamo-un-milione-sciopero-generale-cgil-cento-piazze-manovra-jn18am0v",
-     "title": "La rabbia riempie le piazze italiane: «Siamo un milione»"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/giovani-in-piazza-in-europa-proteste-per-futuro-scuola-e-pace-b4cc3585-c71c-49b5-b47c-f5101d29a823.html",
+     "title": "Giovani in piazza in Europa: proteste per futuro, scuola e pace"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/20/news/landini_sciopero_cgil_presidio_contro_manovra_parlamento-425737683/",
-     "title": "Sciopero, Landini dalla piazza: “Siamo 1 milione. Presidio in Parlamento se la manovra non cambia”"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/proteste-oggi-gen-z-aggiornamenti-oggi_6CNsyzK4gKaD05MvJRAGCY",
+     "title": "I giovani tornano in piazza, la protesta in tutta Europa che sconvolge gli equilibri politici"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/sciopero-generale-manifestazioni-20-novembre-cgil/",
-     "title": "Una giornata di sciopero generale"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/sciopero-cgil-emendamenti-manovra-costi-coperture-landini-avs/",
-     "title": "Sciopero Cgil: il libro dei sogni di Landini costa 50 miliardi"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-giovanile-bruxelles-austerita-riarmo-notizie/8579093/",
+     "title": "Sciopero giovanile, anche Bruxelles in piazza contro austerità e riarmo: “Vogliamo un futuro di pace, non andare in guerra”"
     }
    ]
   },
@@ -121,96 +116,81 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "FI presenta emendamento soppressivo degli ebook alla Camera",
-   "summary": "Al Serato gli azzurri avevano fatto muro sull'emendamento di Fdi",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/fi-presenta-emendamento-soppressivo-degli-ebook-alla-camera_0f606623-9fbd-4bc4-8f92-67762dd46612.html",
-   "pub_ts": 1795196217,
-   "n_sources": 4,
+   "title": "L'attrice Anna Foglietta in piazza con gli studenti: 'Abbiamo tolto i loro sogni'",
+   "summary": "\"Palestina e welfare devastati, normale siano arrabbiati\"",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/lattrice-foglietta-in-piazza-con-gli-studenti-abbiamo-tolto-i-loro-sogni_5c6410bd-2a3a-4cc8-9b52-a11e914f449b.html",
+   "pub_ts": 1795208845,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/fi-presenta-emendamento-soppressivo-degli-ebook-alla-camera_0f606623-9fbd-4bc4-8f92-67762dd46612.html",
-     "title": "FI presenta emendamento soppressivo degli ebook alla Camera"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/20/emendamento-e-book-forza-italia-fdi-lega/",
-     "title": "A destra si continua a discutere sugli e-book. Forza Italia lancia l’emendamento soppressivo, la mossa di Rampelli con la «valutazione cognitiva»"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/lattrice-foglietta-in-piazza-con-gli-studenti-abbiamo-tolto-i-loro-sogni_5c6410bd-2a3a-4cc8-9b52-a11e914f449b.html",
+     "title": "L'attrice Anna Foglietta in piazza con gli studenti: 'Abbiamo tolto i loro sogni'"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/forza-italia-emendamento-soppressivo-e-book-dl-scuola-fqud44le",
-     "title": "Forza Italia presenta un emendamento soppressivo per la norma sugli e-book"
+     "link": "https://www.editorialedomani.it/politica/italia/sciopero-generale-italia-in-piazza-contro-il-governo-riarmo-carovita-cgil-studenti-c3bqoebh",
+     "title": "Sciopero generale: l’Italia in piazza contro il governo"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/19/governo-maggioranza-decreto-scuola-libri-digitali-senato/",
-     "title": "La maggioranza si è divisa in un voto sui libri scolastici"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-generale-insegnanti-studenti-piazza-notizie/8579108/",
+     "title": "Sciopero generale, anche gli insegnanti in piazza con gli studenti: “Vediamo i loro sogni spezzarsi. Non sappiamo come dirgli che andrà meglio”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Burnham saluta accordo 'storico' su reset, 'bel giorno per Gb ed Ue'",
-   "summary": "Lo ha detto il premier alla sessione plenaria del vertice di Bruxelles",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/burnham-saluta-accordo-storico-su-reset-bel-giorno-per-gb-ed-ue_f0d2d0f6-9205-4f7b-8b27-8676a6f00fda.html",
-   "pub_ts": 1795193358,
-   "n_sources": 4,
+   "title": "L'omaggio del Senato Usa all'ippopotamo Fiona, morta dopo aver ingerito un cappello: 'Era un raggio di sole'",
+   "summary": "Lutto allo zoo di Cincinnati. 'Approvata una risoluzione che ne celebra la vita e la resilienza'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/lomaggio-del-senato-usa-allippopotamo-fiona-morta-dopo-aver-ingerito_f93e615f-39f2-48da-ad0f-a2fae8076765.html",
+   "pub_ts": 1795207310,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/burnham-saluta-accordo-storico-su-reset-bel-giorno-per-gb-ed-ue_f0d2d0f6-9205-4f7b-8b27-8676a6f00fda.html",
-     "title": "Burnham saluta accordo 'storico' su reset, 'bel giorno per Gb ed Ue'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/20/ue-uk-accordo-post-brexit-burnham-von-der-leyen-cosa-prevede/",
-     "title": "Andy Burnham a Bruxelles firma il “reset” dei rapporti Uk-Ue dopo la Brexit: «Accordo storico». Ecco cosa prevede"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/lomaggio-del-senato-usa-allippopotamo-fiona-morta-dopo-aver-ingerito_f93e615f-39f2-48da-ad0f-a2fae8076765.html",
+     "title": "L'omaggio del Senato Usa all'ippopotamo Fiona, morta dopo aver ingerito un cappello: 'Era un raggio di sole'"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ue-gb-relazioni-post-brexit-accordo-cosa-prevede_74kqZIEm9ly9yD2P9Sak9W",
-     "title": "Ue-Gb e relazioni post Brexit, intesa su reset. Burnham: \"Accordo storico\". Cosa cambia per i giovani"
+     "link": "https://www.adnkronos.com/internazionale/esteri/fiona-ippopotamo-star-morta_3zLWSlikrNV2NLlAyp5R7W",
+     "title": "Fiona è morta, l'ippopotamo star dei social aveva ingoiato un cappello di lana"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/cosa-cambia-in-dieci-anni/",
-     "title": "Cosa cambia in dieci anni?"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/l-ippopotama-celebrity-fiona-e-morta-aveva-ingoiato-cappello-AJttyiMC",
+     "title": "L’ippopotama celebrity Fiona è morta, aveva ingoiato un cappello"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Postiglione Bellamy, 'storica sentenza contro Myanmar per il genocidio dei Rohingya'",
-   "summary": "",
-   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/20/postiglione-bellamy-storica-sentenza-contro-myanmar-per-il-genocidio-dei-rohingya_7ae0c395-9482-4c44-86e8-de4383cf902b.html",
-   "pub_ts": 1795175955,
-   "n_sources": 4,
+   "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
+   "summary": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
+   "pub_ts": 1795202721,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/20/postiglione-bellamy-storica-sentenza-contro-myanmar-per-il-genocidio-dei-rohingya_7ae0c395-9482-4c44-86e8-de4383cf902b.html",
-     "title": "Postiglione Bellamy, 'storica sentenza contro Myanmar per il genocidio dei Rohingya'"
-    },
-    {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/19/news/rohingya_genocidio_myanmar_condanna_tribunale_onu-425735662/?rss",
-     "title": "“Rohingya, fu genocidio”: Myanmar condannato dal tribunale dell’Onu"
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
+     "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/reazioni-condanna-genocidio-rohingya/",
-     "title": "Le reazioni alla storica condanna del Myanmar per il genocidio dei rohingya"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/la-furia-di-putin-su-kiev-e-leopoli-due-missili-cadono-in-polonia_6104402c-305d-441e-a983-2c8dfb41bd5e.html",
+     "title": "La furia di Putin su Kiev e Leopoli, due missili cadono in Polonia"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/idee/commenti/definisci-genocidio-myanmar-sentenza-storica-rohingya-corte-internazionale-go0ecsgs",
-     "title": "Definisci genocidio, contro il Myanmar un verdetto storico"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/",
+     "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi"
     }
    ]
   },
@@ -244,33 +224,6 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video",
-   "summary": "Schlein alle prese con il salario minimo, Conte con il reddito 2.0 e Bonelli e Fratoianni con la patrimoniale. Ma la «missione multiplayer» fallisce L'articolo Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video proviene da Open.",
-   "link": "https://www.open.online/2026/11/20/forza-italia-gta-6-campo-largo-renzi-berlusconi-video/",
-   "pub_ts": 1795201005,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/20/forza-italia-gta-6-campo-largo-renzi-berlusconi-video/",
-     "title": "Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/volenterosi-il-campo-daddestramento-della-forza-multinazionale-per-lucraina-48ad285e-296b-4c41-bd05-05d0a4c40f57.html",
-     "title": "Volenterosi, il campo d'addestramento della forza multinazionale per l'Ucraina - Video"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/vertice-volenterosi-berlino-francia-italia-germania-regno-unito-polonia-ucraina-aiuti-wipb42p9",
-     "title": "I volenterosi si riuniscono a Berlino per l’Ucraina: «Dopo il cessate il fuoco, una forza internazionale»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
    "title": "Israele: Eisenkot pronto a un governo di emergenza da premier, nessuna rotazione con Bibi",
    "summary": "Ultima chance se saltano i negoziati con ortodossi e Likud. Hamas riafferma potere su Gaza",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/israele-eisenkot-pronto-a-un-governo-di-emergenza-da-premier-nessuna-rotazione-con-bibi_1ef68397-dd2b-49c1-953f-30bf696a465b.html",
@@ -293,22 +246,44 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Scontro sugli ebook, FI presenta un emendamento soppressivo alla Camera",
-   "summary": "La norma sui libri digitali era stata approvata al Senato. La Russa: 'Possibili effetti sul clima politico'. Emendamento di Rampelli: 'Utilizzo dopo una valutazione sull'impatto cognitivo'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/scontro-sugli-ebook-fi-presenta-un-emendamento-soppressivo-alla-camera-_a676fb83-bb34-4ed1-bb51-a0428ece696b.html",
-   "pub_ts": 1795192318,
+   "title": "Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude",
+   "summary": "Uno tra i più celebri e ambiti dei sette “Problemi del millennio” sarebbe stato risolto dal ricercatore Levent Alpöge. L'annuncio su X e il lavoro svolto L'articolo Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude proviene da Open.",
+   "link": "https://www.open.online/2026/11/20/matematico-anthropic-ipotesi-riemann-claude/",
+   "pub_ts": 1795208068,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/scontro-sugli-ebook-fi-presenta-un-emendamento-soppressivo-alla-camera-_a676fb83-bb34-4ed1-bb51-a0428ece696b.html",
-     "title": "Scontro sugli ebook, FI presenta un emendamento soppressivo alla Camera"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/20/matematico-anthropic-ipotesi-riemann-claude/",
+     "title": "Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/tajani-emendamento-soppressivo-su-ebook-vediamo-se-troviamo-mediazioni_5f0a76ae-f01e-46db-a8fd-e8c45ad841cb.html",
-     "title": "Tajani, emendamento soppressivo su ebook? Vediamo se troviamo mediazioni"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/matematico-anthropic-dice-di-risolto-ipotesi-riemann/",
+     "title": "Un matematico di Anthropic dice di aver risolto l’ipotesi di Riemann"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Autistici/Inventati vince il ricorso contro Banca Etica: «Il conto corrente va riaperto»",
+   "summary": "L’avvocato Gianelli commenta la sentenza del Tribunale di Pisa, che segna un precedente storico: «Ribadisce i principi della sovranità territoriale e finanziaria. In Italia e nell’Ue non possono avere esecuzione diretta provvedimenti del tutto straordinari, che per il nostro ordinamento giudiziario non hanno valore legale». L’istituto finanziario: «Non faremo ricorso»",
+   "link": "https://www.editorialedomani.it/fatti/autistici-inventati-vince-ricorso-contro-banca-etica-conto-corrente-va-riaperto-i75j102c",
+   "pub_ts": 1795199684,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/autistici-inventati-vince-ricorso-contro-banca-etica-conto-corrente-va-riaperto-i75j102c",
+     "title": "Autistici/Inventati vince il ricorso contro Banca Etica: «Il conto corrente va riaperto»"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/20/autistici-inventati-banca-etica-conto-notizie/8579042/",
+     "title": "Banca Etica deve riaprire il conto del collettivo Autistici/Inventati, finito sotto sanzioni degli Usa"
     }
    ]
   },
@@ -318,7 +293,7 @@
    "title": "La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Street giù",
    "summary": "Alla seconda seduta perde oltre il 10%. Profondo rosso in Asia",
    "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/la-bolla-ia-gela-i-mercati-leuropa-brucia-370-miliardi.-anthropic-e-wall-street_0ba615f0-de7d-440c-a699-c689e255c19e.html",
-   "pub_ts": 1795204173,
+   "pub_ts": 1795209680,
    "n_sources": 7,
    "documented": true,
    "sources": [
@@ -362,33 +337,6 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
-   "summary": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
-   "pub_ts": 1795188199,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
-     "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/sensori-smartphone-come-sismografi-google-attiva-in-italia-le-allerte-terremoti-5e999abb-f1e3-47ae-a2c1-cc3c787cffe4.html",
-     "title": "Smartphone come sismografi: Google attiva anche in Italia le allerte terremoti"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/20/il-tuo-smartphone-android-puo-sapere-che-sta-arrivando-un-terremoto-prima-di-te-ecco-come-funziona-lallerta-di-google-che-trasforma-i-cellulari-in-mini-sismografi/8578824/",
-     "title": "Il tuo smartphone Android può sapere che sta arrivando un terremoto prima di te: ecco come funziona l’allerta di Google che trasforma i cellulari in mini-sismografi"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
    "title": "In Italia è stata approvata la guida semiautonoma delle Tesla",
    "summary": "È un sistema con cui le auto si manovrano da sole sotto una supervisione umana, ma per vederle per strada ci vorrà ancora un po'",
    "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
@@ -416,22 +364,34 @@
   {
    "category": "tech",
    "area": null,
-   "title": "'Attendere la legge', Tribunale Milano rinvia la causa a Meta e TikTok",
-   "summary": "Class action avviata da genitori. Legali: 'Serviva blocco subito, minori intanto muoiono'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
-   "pub_ts": 1795113320,
-   "n_sources": 2,
-   "documented": true,
+   "title": "AI4I punta sui robot intelligenti. Nasce a Torino il centro per l’intelligenza artificiale fisica",
+   "summary": "L’Istituto italiano di intelligenza artificiale avvia un programma di ricerca di due anni per sviluppare macchine autonome capaci di adattarsi all’ambiente e ridurre i costi dell’automazione industriale. Cinque laboratori, un supercomputer e una prima sperimentazione sui...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/ai4i_torino_centro_ia_fisica_robot-425738382/?rss",
+   "pub_ts": 1795193663,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
-     "title": "'Attendere la legge', Tribunale Milano rinvia la causa a Meta e TikTok"
-    },
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/ai4i_torino_centro_ia_fisica_robot-425738382/?rss",
+     "title": "AI4I punta sui robot intelligenti. Nasce a Torino il centro per l’intelligenza artificiale fisica"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA",
+   "summary": "Petizione indirizzata a Sundar Pichai, 'rischio abbandono completo dei prodotti Google'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/20/dipendenti-google-contro-il-blocco-della-ricerca-alle-scuole-usa-che_62eb4869-1362-4cd4-9db9-e520166d4256.html",
+   "pub_ts": 1795178170,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
     {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-al-21-gennaio-in-attesa-di-una-legge_06ae8ae0-73c0-4859-9b65-d1d4d043fb7f.html",
-     "title": "Causa contro Meta e TikTok, Tribunale Milano rinvia al 21 gennaio in attesa di una legge"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/20/dipendenti-google-contro-il-blocco-della-ricerca-alle-scuole-usa-che_62eb4869-1362-4cd4-9db9-e520166d4256.html",
+     "title": "Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA"
     }
    ]
   },
@@ -519,29 +479,6 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Polizia, in arrivo il nono volume del commissario Mascherpa",
-   "summary": "'Inganno ad arte' presentato alla biblioteca della Biennale di Venezia",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/polizia-in-arrivo-il-nono-volume-del-commissario-mascherpa_dbc21344-c3c8-468a-af56-88aa88c4d765.html",
-   "pub_ts": 1795195302,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/polizia-in-arrivo-il-nono-volume-del-commissario-mascherpa_dbc21344-c3c8-468a-af56-88aa88c4d765.html",
-     "title": "Polizia, in arrivo il nono volume del commissario Mascherpa"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/fumetti-la-polizia-alla-biennale-di-venezia-con-il-graphic-novel-commissario-mascherpa_1gHE7vKQC1fhBdAHg8Tuo",
-     "title": "Fumetti, la Polizia alla Biennale di Venezia con il graphic novel \"commissario Mascherpa\""
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
    "title": "Si esplorano a Pordenone lingue e linguaggi nell'opera di Pasolini",
    "summary": "Il 25 novembre evento della Dante Alighieri con l'Accademia della Crusca",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/20/si-esplorano-a-pordenone-lingue-e-linguaggi-nellopera-di-pasolini_e901fc61-7b76-4c75-adfb-429e6b118f0d.html",
@@ -586,34 +523,57 @@
    "subtype": "scienza"
   },
   {
+   "category": "varia",
+   "area": null,
+   "title": "Appello scienziati a Mattarella su commissione Covid, 'Difendere scienza'",
+   "summary": "'Medici, ricercatori e scienziati vengono esposti a forme di delegittimazione pubblica'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/20/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza_a615097d-e2e3-47a4-8765-dc45c84bef6a.html",
+   "pub_ts": 1795177300,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/20/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza_a615097d-e2e3-47a4-8765-dc45c84bef6a.html",
+     "title": "Appello scienziati a Mattarella su commissione Covid, 'Difendere scienza'"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/episodes/il-pasticciaccio-brutto-della-commissione-covid/",
+     "title": "Il pasticciaccio brutto della commissione Covid"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
    "category": "cronaca",
    "area": null,
-   "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
-   "summary": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
-   "pub_ts": 1795202721,
+   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
+   "summary": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+   "pub_ts": 1795205265,
    "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
-     "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi"
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+     "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/la-furia-di-putin-su-kiev-e-leopoli-due-missili-cadono-in-polonia_6104402c-305d-441e-a983-2c8dfb41bd5e.html",
-     "title": "La furia di Putin su Kiev e Leopoli, due missili cadono in Polonia"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-ha-detto-a-europei-e-ucraini-che-vuole-accordo-di-pace-entro-inizio_19e0bb75-30d2-4cac-bc3a-d01063e3bb8d.html",
+     "title": "'Trump ha detto a europei e ucraini che vuole accordo di pace entro inizio gennaio'"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/",
-     "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi"
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/",
+     "title": "Trump ha fretta: “Presto la pace in Ucraina, con Putin rapporti fantastici”"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-20-novembre-2026_2CuwrKnJrgjVSA8chjDTXq",
-     "title": "Ucraina, Trump: \"Putin vuole porre fine alla guerra\". Nuovi raid su Kiev e Leopoli: morti e feriti"
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-cina-shenzhen-vertice-trilaterale_2WVlhO8ESjEbGoZDLq8aBW",
+     "title": "Trump: \"Putin vuole la fine della guerra in Ucraina, ci sono ottime possibilità\""
     },
     {
      "name": "Domani",
@@ -625,20 +585,20 @@
  ],
  "articles": [
   {
-   "title": "Trump: “L’Iran vuole un accordo non accettabile. Con Xi concordati paletti per IA”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-   "description": "La conferenza stampa del presidente americano dopo il trilaterale a Shenzhen: “Una delle visite presidenziali di maggior successo nella storia Usa”",
-   "pub_ts": 1795201682,
+   "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
+   "description": "L’ex premier e ministro degli Esteri, che aveva già corso per l’Eliseo nel 2012, ci riprova a 73 anni: “Decisione importante e difficile”. Lo slogan per superare le divisioni nel Paese: “E se ci volessimo ancora bene?”",
+   "pub_ts": 1795211536,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
-   "description": "Cortei di lavoratori e studenti. Il sindacato: 'Adesione al 60%'. Il segretario: 'Messaggio a tutta la politica, le persone chiedono risposte'",
-   "pub_ts": 1795202594,
-   "source": "ANSA",
+   "title": "Rete studenti, 50 cortei in tutta Italia, in piazza per il nostro futuro",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/rete-studenti-50-cortei-in-tutta-italia-in-piazza-per-il-nostro-futuro_a2cfbc17-c63c-4be8-b7c0-726e966bf68b.html",
+   "description": "\"Siamo una generazione che chiede ascolto e investimenti concreti\"",
+   "pub_ts": 1795206212,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
@@ -652,29 +612,29 @@
    "section": "politica"
   },
   {
-   "title": "FI presenta emendamento soppressivo degli ebook alla Camera",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/fi-presenta-emendamento-soppressivo-degli-ebook-alla-camera_0f606623-9fbd-4bc4-8f92-67762dd46612.html",
-   "description": "Al Serato gli azzurri avevano fatto muro sull'emendamento di Fdi",
-   "pub_ts": 1795196217,
-   "source": "ANSA Politica",
+   "title": "L'attrice Anna Foglietta in piazza con gli studenti: 'Abbiamo tolto i loro sogni'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/lattrice-foglietta-in-piazza-con-gli-studenti-abbiamo-tolto-i-loro-sogni_5c6410bd-2a3a-4cc8-9b52-a11e914f449b.html",
+   "description": "\"Palestina e welfare devastati, normale siano arrabbiati\"",
+   "pub_ts": 1795208845,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Burnham saluta accordo 'storico' su reset, 'bel giorno per Gb ed Ue'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/burnham-saluta-accordo-storico-su-reset-bel-giorno-per-gb-ed-ue_f0d2d0f6-9205-4f7b-8b27-8676a6f00fda.html",
-   "description": "Lo ha detto il premier alla sessione plenaria del vertice di Bruxelles",
-   "pub_ts": 1795193358,
-   "source": "ANSA Mondo",
+   "title": "L'omaggio del Senato Usa all'ippopotamo Fiona, morta dopo aver ingerito un cappello: 'Era un raggio di sole'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/lomaggio-del-senato-usa-allippopotamo-fiona-morta-dopo-aver-ingerito_f93e615f-39f2-48da-ad0f-a2fae8076765.html",
+   "description": "Lutto allo zoo di Cincinnati. 'Approvata una risoluzione che ne celebra la vita e la resilienza'",
+   "pub_ts": 1795207310,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Postiglione Bellamy, 'storica sentenza contro Myanmar per il genocidio dei Rohingya'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/20/postiglione-bellamy-storica-sentenza-contro-myanmar-per-il-genocidio-dei-rohingya_7ae0c395-9482-4c44-86e8-de4383cf902b.html",
-   "description": "",
-   "pub_ts": 1795175955,
-   "source": "ANSA Mondo",
+   "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
+   "description": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
+   "pub_ts": 1795202721,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -688,15 +648,6 @@
    "section": "politica"
   },
   {
-   "title": "Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video",
-   "link": "https://www.open.online/2026/11/20/forza-italia-gta-6-campo-largo-renzi-berlusconi-video/",
-   "description": "Schlein alle prese con il salario minimo, Conte con il reddito 2.0 e Bonelli e Fratoianni con la patrimoniale. Ma la «missione multiplayer» fallisce L'articolo Forza Italia trasforma il campo largo in GTA 6: Renzi fa saltare il tavolo, Berlusconi arriva in elicottero. «Siete ancora dei poveri comunisti» – Il video proviene da Open.",
-   "pub_ts": 1795201005,
-   "source": "Open",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Israele: Eisenkot pronto a un governo di emergenza da premier, nessuna rotazione con Bibi",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/israele-eisenkot-pronto-a-un-governo-di-emergenza-da-premier-nessuna-rotazione-con-bibi_1ef68397-dd2b-49c1-953f-30bf696a465b.html",
    "description": "Ultima chance se saltano i negoziati con ortodossi e Likud. Hamas riafferma potere su Gaza",
@@ -706,11 +657,20 @@
    "section": "politica"
   },
   {
-   "title": "Scontro sugli ebook, FI presenta un emendamento soppressivo alla Camera",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/20/scontro-sugli-ebook-fi-presenta-un-emendamento-soppressivo-alla-camera-_a676fb83-bb34-4ed1-bb51-a0428ece696b.html",
-   "description": "La norma sui libri digitali era stata approvata al Senato. La Russa: 'Possibili effetti sul clima politico'. Emendamento di Rampelli: 'Utilizzo dopo una valutazione sull'impatto cognitivo'",
-   "pub_ts": 1795192318,
-   "source": "ANSA",
+   "title": "Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude",
+   "link": "https://www.open.online/2026/11/20/matematico-anthropic-ipotesi-riemann-claude/",
+   "description": "Uno tra i più celebri e ambiti dei sette “Problemi del millennio” sarebbe stato risolto dal ricercatore Levent Alpöge. L'annuncio su X e il lavoro svolto L'articolo Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude proviene da Open.",
+   "pub_ts": 1795208068,
+   "source": "Open",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Autistici/Inventati vince il ricorso contro Banca Etica: «Il conto corrente va riaperto»",
+   "link": "https://www.editorialedomani.it/fatti/autistici-inventati-vince-ricorso-contro-banca-etica-conto-corrente-va-riaperto-i75j102c",
+   "description": "L’avvocato Gianelli commenta la sentenza del Tribunale di Pisa, che segna un precedente storico: «Ribadisce i principi della sovranità territoriale e finanziaria. In Italia e nell’Ue non possono avere esecuzione diretta provvedimenti del tutto straordinari, che per il nostro ordinamento giudiziario non hanno valore legale». L’istituto finanziario: «Non faremo ricorso»",
+   "pub_ts": 1795199684,
+   "source": "Domani",
    "source_priority": 1,
    "section": "politica"
   },
@@ -718,17 +678,8 @@
    "title": "La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Street giù",
    "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/la-bolla-ia-gela-i-mercati-leuropa-brucia-370-miliardi.-anthropic-e-wall-street_0ba615f0-de7d-440c-a699-c689e255c19e.html",
    "description": "Alla seconda seduta perde oltre il 10%. Profondo rosso in Asia",
-   "pub_ts": 1795204173,
+   "pub_ts": 1795209680,
    "source": "ANSA",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Google trasforma gli smartphone in sismografi e attiva in Italia le allerte terremoti",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/19/google-trasforma-gli-smartphone-in-sismografi-e-attiva-in-italia-le-allerte-terremoti_982662e0-a847-4901-9b1e-074910103cfd.html",
-   "description": "La funzione su Android sfrutta gli accelerometri per rilevare le onde sismiche",
-   "pub_ts": 1795188199,
-   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -742,11 +693,20 @@
    "section": "tech"
   },
   {
-   "title": "'Attendere la legge', Tribunale Milano rinvia la causa a Meta e TikTok",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/causa-contro-meta-e-tiktok-tribunale-rinvia-in-attesa-di-una-legge_908afd06-517e-429f-b0af-d314d850359e.html",
-   "description": "Class action avviata da genitori. Legali: 'Serviva blocco subito, minori intanto muoiono'",
-   "pub_ts": 1795113320,
-   "source": "ANSA Cronaca",
+   "title": "AI4I punta sui robot intelligenti. Nasce a Torino il centro per l’intelligenza artificiale fisica",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/ai4i_torino_centro_ia_fisica_robot-425738382/?rss",
+   "description": "L’Istituto italiano di intelligenza artificiale avvia un programma di ricerca di due anni per sviluppare macchine autonome capaci di adattarsi all’ambiente e ridurre i costi dell’automazione industriale. Cinque laboratori, un supercomputer e una prima sperimentazione sui...",
+   "pub_ts": 1795193663,
+   "source": "Repubblica Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/20/dipendenti-google-contro-il-blocco-della-ricerca-alle-scuole-usa-che_62eb4869-1362-4cd4-9db9-e520166d4256.html",
+   "description": "Petizione indirizzata a Sundar Pichai, 'rischio abbandono completo dei prodotti Google'",
+   "pub_ts": 1795178170,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -769,15 +729,6 @@
    "section": "varia"
   },
   {
-   "title": "Polizia, in arrivo il nono volume del commissario Mascherpa",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/polizia-in-arrivo-il-nono-volume-del-commissario-mascherpa_dbc21344-c3c8-468a-af56-88aa88c4d765.html",
-   "description": "'Inganno ad arte' presentato alla biblioteca della Biennale di Venezia",
-   "pub_ts": 1795195302,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
    "title": "Si esplorano a Pordenone lingue e linguaggi nell'opera di Pasolini",
    "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/20/si-esplorano-a-pordenone-lingue-e-linguaggi-nellopera-di-pasolini_e901fc61-7b76-4c75-adfb-429e6b118f0d.html",
    "description": "Il 25 novembre evento della Dante Alighieri con l'Accademia della Crusca",
@@ -796,10 +747,19 @@
    "section": "varia"
   },
   {
-   "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
-   "description": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
-   "pub_ts": 1795202721,
+   "title": "Appello scienziati a Mattarella su commissione Covid, 'Difendere scienza'",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/20/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza_a615097d-e2e3-47a4-8765-dc45c84bef6a.html",
+   "description": "'Medici, ricercatori e scienziati vengono esposti a forme di delegittimazione pubblica'",
+   "pub_ts": 1795177300,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+   "description": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
+   "pub_ts": 1795205265,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
