@@ -1,6 +1,6 @@
 {
- "generated_at": 1795223830,
- "updated_at": 1795223830,
+ "generated_at": 1795253382,
+ "updated_at": 1795253382,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,171 +10,137 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali",
-   "summary": "L’ex premier e ministro degli Esteri, che aveva già corso per l’Eliseo nel 2012, ci riprova a 73 anni: “Decisione importante e difficile”. Lo slogan per superare le divisioni nel Paese: “E se ci volessimo ancora bene?”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
-   "pub_ts": 1795211536,
+   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
+   "summary": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+   "pub_ts": 1795249440,
+   "n_sources": 7,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+     "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
+     "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/007-usa-hanno-allertato-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_0acef317-33c2-4204-bd0c-25c039667b14.html",
+     "title": "007 Usa hanno allertato le compagnie aeree, 'Al Qaeda pronta a compiere attacchi'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/usa-allerta-007-a-compagnie-aeree-su-possibili-attacchi-al-qaeda-54713fec-e25a-433f-a45c-9168d23088f3.html",
+     "title": "Usa: allerta 007 a compagnie aeree su possibili attacchi Al Qaeda"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/usa-allerta-dell-intelligence-al-qaeda-pronta-compiere-attacchi-AJdWoDOC",
+     "title": "Usa, allerta dell’intelligence: «Al Qaeda pronta a compiere attacchi»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/al-qaeda-attacchi-007-usa-compagnie-aeree_6YFD6ZBdGxuiiHdgeYnGzK",
+     "title": "Terrorismo, 007 Usa allertano compagnie aeree: \"Al Qaeda pronta a compiere attacchi\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/",
+     "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
+   "summary": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+   "pub_ts": 1795230000,
    "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
-     "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali"
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+     "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/dominique-de-villepin-annuncia-la-sua-candidatura-per-leliseo_54331604-ad00-4263-87fd-575586b1d67b.html",
-     "title": "Dominique de Villepin annuncia la sua candidatura per l'Eliseo"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/20/dominique-de-villepin-candidato-presidenziali-francia-2027/",
-     "title": "Dominique de Villepin annuncia la sua candidatura alle presidenziali francesi: è il 38esimo candidato"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/dominique-de-villepin-presidenziali-candidato-piace-sinistra-vmfezhmu",
-     "title": "Dominique de Villepin «candidato» all’Eliseo: il gollista che punta sulla sinistra"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/dominique-de-villepin-candidatura-elezioni-presidenziali-francesi/",
-     "title": "In Francia l’ex primo ministro Dominique de Villepin si è candidato alle elezioni presidenziali"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/francia-dominique-de-villepin-annuncia-sua-candidatura-l-eliseo-AJA0CDNC",
-     "title": "Francia, Dominique de Villepin annuncia la sua candidatura per l’Eliseo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Rete studenti, 50 cortei in tutta Italia, in piazza per il nostro futuro",
-   "summary": "\"Siamo una generazione che chiede ascolto e investimenti concreti\"",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/rete-studenti-50-cortei-in-tutta-italia-in-piazza-per-il-nostro-futuro_a2cfbc17-c63c-4be8-b7c0-726e966bf68b.html",
-   "pub_ts": 1795206212,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/rete-studenti-50-cortei-in-tutta-italia-in-piazza-per-il-nostro-futuro_a2cfbc17-c63c-4be8-b7c0-726e966bf68b.html",
-     "title": "Rete studenti, 50 cortei in tutta Italia, in piazza per il nostro futuro"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-ha-detto-a-europei-e-ucraini-che-vuole-accordo-di-pace-entro-inizio_19e0bb75-30d2-4cac-bc3a-d01063e3bb8d.html",
+     "title": "'Trump ha detto a europei e ucraini che vuole accordo di pace entro inizio gennaio'"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/giovani-in-piazza-in-europa-proteste-per-futuro-scuola-e-pace-b4cc3585-c71c-49b5-b47c-f5101d29a823.html",
-     "title": "Giovani in piazza in Europa: proteste per futuro, scuola e pace"
+     "link": "https://www.rainews.it/video/2026/11/vertice-con-xi-e-putin-trump-incontro-storico-e-riuscito-b015008f-d3d3-4792-bce0-957886505932.html",
+     "title": "Vertice con Xi e Putin, Trump: \"Incontro storico e riuscito\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/",
+     "title": "Trump ha fretta: “Presto la pace in Ucraina, con Putin rapporti fantastici”"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/proteste-oggi-gen-z-aggiornamenti-oggi_6CNsyzK4gKaD05MvJRAGCY",
-     "title": "I giovani tornano in piazza, la protesta in tutta Europa che sconvolge gli equilibri politici"
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
+     "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-giovanile-bruxelles-austerita-riarmo-notizie/8579093/",
-     "title": "Sciopero giovanile, anche Bruxelles in piazza contro austerità e riarmo: “Vogliamo un futuro di pace, non andare in guerra”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Londra e Ue più vicine: siglata la prima intesa post Brexit. Burnham: “Nel 2027 ci confronteremo sul futuro dei rapporti”",
-   "summary": "Von Der Leyen: “Siamo a una svolta”. Il premier britannico: “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
-   "pub_ts": 1795198732,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
-     "title": "Londra e Ue più vicine: siglata la prima intesa post Brexit. Burnham: “Nel 2027 ci confronteremo sul futuro dei rapporti”"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/brexit-regno-unito-e-ue-trovano-l-intesa-commercio-e-mobilita-giovani-AJ6wYHNC",
-     "title": "Brexit, Regno Unito e Ue trovano un’intesa (a metà) su commercio e mobilità dei giovani"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/incontro-regno-unito-ue-accordi-brexit/",
-     "title": "I primi accordi concreti tra Regno Unito e Unione Europea su Brexit"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/20/summit-ue-regno-unito-accordi-bruxelles-notizie/8578993/",
-     "title": "Ue-Regno Unito, “svolta” nei rapporti dopo la Brexit: accordi su commercio, emissioni e mobilità dei giovani. Burnham: “Ricostruiamo i ponti”"
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/zuppa-di-porro/zuppa-di-porro-del-20-novembre-2026/",
+     "title": "Xi-Trump-Putin, cosa comporta il vertice a tre"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "L'attrice Anna Foglietta in piazza con gli studenti: 'Abbiamo tolto i loro sogni'",
-   "summary": "\"Palestina e welfare devastati, normale siano arrabbiati\"",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/lattrice-foglietta-in-piazza-con-gli-studenti-abbiamo-tolto-i-loro-sogni_5c6410bd-2a3a-4cc8-9b52-a11e914f449b.html",
-   "pub_ts": 1795208845,
-   "n_sources": 3,
+   "title": "Sciopero generale a Bologna la polizia blocca i manifestanti a manganellate. I video dalle piazze",
+   "summary": "Le immagini dei cortei della Cgil e della mobilitazione studentesca",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sciopero-generale-le-piazze-da-milano-a-napoli_6e8664c2-d3b8-454f-b25f-4d6839031630.html",
+   "pub_ts": 1795232940,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/lattrice-foglietta-in-piazza-con-gli-studenti-abbiamo-tolto-i-loro-sogni_5c6410bd-2a3a-4cc8-9b52-a11e914f449b.html",
-     "title": "L'attrice Anna Foglietta in piazza con gli studenti: 'Abbiamo tolto i loro sogni'"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sciopero-generale-le-piazze-da-milano-a-napoli_6e8664c2-d3b8-454f-b25f-4d6839031630.html",
+     "title": "Sciopero generale a Bologna la polizia blocca i manifestanti a manganellate. I video dalle piazze"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/scontri-a-torino-riesame-conferma-due-misure-cautelari-su-15_4fe76c6f-5046-47e8-9059-9a0d1960d9a6.html",
+     "title": "Scontri a Torino, riesame conferma due misure cautelari su 15"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/torino-scontri-manifestanti-polizia-3c6731ee-e1f7-405a-b080-3499123e92e8.html",
+     "title": "Torino, scontri manifestanti-polizia"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/sciopero-generale-manifestazioni-20-novembre-cgil/",
+     "title": "Una giornata di sciopero generale"
     },
     {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/italia/sciopero-generale-italia-in-piazza-contro-il-governo-riarmo-carovita-cgil-studenti-c3bqoebh",
      "title": "Sciopero generale: l’Italia in piazza contro il governo"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/20/sciopero-generale-insegnanti-studenti-piazza-notizie/8579108/",
-     "title": "Sciopero generale, anche gli insegnanti in piazza con gli studenti: “Vediamo i loro sogni spezzarsi. Non sappiamo come dirgli che andrà meglio”"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "L'omaggio del Senato Usa all'ippopotamo Fiona, morta dopo aver ingerito un cappello: 'Era un raggio di sole'",
-   "summary": "Lutto allo zoo di Cincinnati. 'Approvata una risoluzione che ne celebra la vita e la resilienza'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/lomaggio-del-senato-usa-allippopotamo-fiona-morta-dopo-aver-ingerito_f93e615f-39f2-48da-ad0f-a2fae8076765.html",
-   "pub_ts": 1795207310,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/lomaggio-del-senato-usa-allippopotamo-fiona-morta-dopo-aver-ingerito_f93e615f-39f2-48da-ad0f-a2fae8076765.html",
-     "title": "L'omaggio del Senato Usa all'ippopotamo Fiona, morta dopo aver ingerito un cappello: 'Era un raggio di sole'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/fiona-ippopotamo-star-morta_3zLWSlikrNV2NLlAyp5R7W",
-     "title": "Fiona è morta, l'ippopotamo star dei social aveva ingoiato un cappello di lana"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/l-ippopotama-celebrity-fiona-e-morta-aveva-ingoiato-cappello-AJttyiMC",
-     "title": "L’ippopotama celebrity Fiona è morta, aveva ingoiato un cappello"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
+   "area": "italia",
    "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
    "summary": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
    "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
-   "pub_ts": 1795202721,
-   "n_sources": 3,
+   "pub_ts": 1795239420,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -188,9 +154,100 @@
      "title": "La furia di Putin su Kiev e Leopoli, due missili cadono in Polonia"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/",
-     "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/guerra-in-ucraina-furia-di-putin-su-kiev-e-leopoli-due-missili-cadono-in-polonia-alta-tensione-1c88478b-8e29-44ab-92a1-87774668af2b.html",
+     "title": "Guerra in Ucraina, furia di Putin su Kiev e Leopoli, due missili cadono in Polonia"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/politica/ucraina-volenterosi-meloni_3elpVqdupzh0hY2w3eszgc",
+     "title": "Ucraina, Volenterosi a Berlino. Meloni: \"Cina spinga Putin alla pace\". Trump: \"Perché altri soldi a Kiev?\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'",
+   "summary": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
+   "pub_ts": 1795208831,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
+     "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
+     "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/la-rabbia-riempie-le-piazze-italiane-siamo-un-milione-sciopero-generale-cgil-cento-piazze-manovra-jn18am0v",
+     "title": "La rabbia riempie le piazze italiane: «Siamo un milione»"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/sciopero-cgil-emendamenti-manovra-costi-coperture-landini-avs/",
+     "title": "Sciopero Cgil: il libro dei sogni di Landini costa 50 miliardi"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Sigonella, allarme droni sulla base Usa: deviati voli militari dopo l'avvistamento di un velivolo teleguidato",
+   "summary": "Un velivolo sospetto sarebbe stato avvistato sopra la pista. A un KC-135 Stratotanker è stato ordinato di interrompere l’atterraggio e dirigersi ad Aviano. Nessuna conferma ufficiale sull’accaduto",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/sigonella_allarme_drone_base_usa_voli_militari_aviano-425739349/?rss",
+   "pub_ts": 1795251468,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/sigonella_allarme_drone_base_usa_voli_militari_aviano-425739349/?rss",
+     "title": "Sigonella, allarme droni sulla base Usa: deviati voli militari dopo l'avvistamento di un velivolo teleguidato"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/allarme-droni-sulla-base-usa-di-sigonella-voli-militari-usa-deviati-14a2b7dd-5cc5-4dfe-985e-5511e175e96e.html",
+     "title": "Allarme droni a Sigonella, voli deviati per precauzione ma l'emergenza è rientrata"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/droni-sigonella-base-militare-notizie/8579292/",
+     "title": "Sigonella, allarme droni sulla base americana. Media: “Ai voli militari indicato il cambio di rotta”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Sabato 21 novembre",
+   "summary": "Le foto dal mondo, man mano che arrivano",
+   "link": "https://www.ilpost.it/2026/11/21/foto-del-giorno-sabato-21-novembre/",
+   "pub_ts": 1795244447,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/foto-del-giorno-sabato-21-novembre/",
+     "title": "Sabato 21 novembre"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/photogallery/2026/11/fotorassegna-stampa-le-prime-pagine-dei-quotidiani-di-sabato-21-novembre-81f35acd-b06b-4be9-a59d-752dbae74836.html",
+     "title": "Fotorassegna stampa, le prime pagine dei quotidiani di sabato 21 novembre"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/atp-finals-2026-oggi-orari-tv-21-novembre/8578981/",
+     "title": "Atp Finals oggi, il programma di sabato 21 novembre: orari, partite e dove vederle in tv"
     }
    ]
   },
@@ -223,127 +280,68 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Israele: Eisenkot pronto a un governo di emergenza da premier, nessuna rotazione con Bibi",
-   "summary": "Ultima chance se saltano i negoziati con ortodossi e Likud. Hamas riafferma potere su Gaza",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/israele-eisenkot-pronto-a-un-governo-di-emergenza-da-premier-nessuna-rotazione-con-bibi_1ef68397-dd2b-49c1-953f-30bf696a465b.html",
-   "pub_ts": 1795203651,
-   "n_sources": 2,
+   "area": "mondo",
+   "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali",
+   "summary": "L’ex premier e ministro degli Esteri, che aveva già corso per l’Eliseo nel 2012, ci riprova a 73 anni: “Decisione importante e difficile”. Lo slogan per superare le divisioni nel Paese: “E se ci volessimo ancora bene?”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
+   "pub_ts": 1795186360,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/israele-eisenkot-pronto-a-un-governo-di-emergenza-da-premier-nessuna-rotazione-con-bibi_1ef68397-dd2b-49c1-953f-30bf696a465b.html",
-     "title": "Israele: Eisenkot pronto a un governo di emergenza da premier, nessuna rotazione con Bibi"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
+     "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/20/eisenkot-se-negoziati-falliscono-formero-governo-di-emergenza_abecde7b-cc93-42fa-8039-5b2127f43925.html",
-     "title": "Eisenkot, 'se negoziati falliscono, formerò governo di emergenza'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/dominique-de-villepin-annuncia-la-sua-candidatura-per-leliseo_54331604-ad00-4263-87fd-575586b1d67b.html",
+     "title": "Dominique de Villepin annuncia la sua candidatura per l'Eliseo"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/dominique-de-villepin-candidatura-elezioni-presidenziali-francesi/",
+     "title": "In Francia l’ex primo ministro Dominique de Villepin si è candidato alle elezioni presidenziali"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude",
-   "summary": "Uno tra i più celebri e ambiti dei sette “Problemi del millennio” sarebbe stato risolto dal ricercatore Levent Alpöge. L'annuncio su X e il lavoro svolto L'articolo Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude proviene da Open.",
-   "link": "https://www.open.online/2026/11/20/matematico-anthropic-ipotesi-riemann-claude/",
-   "pub_ts": 1795208068,
+   "area": "mondo",
+   "title": "A Sigonella accertamenti in corso dopo il possibile sorvolo di droni",
+   "summary": "L'alert ieri sera, i velivoli avrebbero sorvolato sia la base che gli alloggi",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/a-sigonella-accertamenti-in-corso-dopo-il-possibile-sorvolo-di-droni_f2d335b7-be89-4930-bb82-a4ab490d0a88.html",
+   "pub_ts": 1795252742,
    "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/a-sigonella-accertamenti-in-corso-dopo-il-possibile-sorvolo-di-droni_f2d335b7-be89-4930-bb82-a4ab490d0a88.html",
+     "title": "A Sigonella accertamenti in corso dopo il possibile sorvolo di droni"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/sigonella_allarme_drone_base_usa_voli_militari_aviano-425739349/",
+     "title": "Sigonella, allarme droni sulla base Usa: deviati voli militari dopo l'avvistamento di un velivolo teleguidato"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk: cosa cambia con il primo Ok alla guida assistita",
+   "summary": "Via libera provvisorio del ministero dei Trasporti al Tesla Assisted Driving. Esultano il miliardario fondatore di Tesla e il suo braccio destro in Italia Andrea Stroppa che parla di via libera alla guida autonoma. Cosa dice il Codice della strada e come funziona il sistema delle auto elettriche di Musk L'articolo La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk:…",
+   "link": "https://www.open.online/2026/11/21/tesla-assisted-driving-ok-salvini-come-funziona/",
+   "pub_ts": 1795246429,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "Open",
-     "link": "https://www.open.online/2026/11/20/matematico-anthropic-ipotesi-riemann-claude/",
-     "title": "Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude"
+     "link": "https://www.open.online/2026/11/21/tesla-assisted-driving-ok-salvini-come-funziona/",
+     "title": "La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk: cosa cambia con il primo Ok alla guida assistita"
     },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/matematico-anthropic-dice-di-risolto-ipotesi-riemann/",
-     "title": "Un matematico di Anthropic dice di aver risolto l’ipotesi di Riemann"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Autistici/Inventati vince il ricorso contro Banca Etica: «Il conto corrente va riaperto»",
-   "summary": "L’avvocato Gianelli commenta la sentenza del Tribunale di Pisa, che segna un precedente storico: «Ribadisce i principi della sovranità territoriale e finanziaria. In Italia e nell’Ue non possono avere esecuzione diretta provvedimenti del tutto straordinari, che per il nostro ordinamento giudiziario non hanno valore legale». L’istituto finanziario: «Non faremo ricorso»",
-   "link": "https://www.editorialedomani.it/fatti/autistici-inventati-vince-ricorso-contro-banca-etica-conto-corrente-va-riaperto-i75j102c",
-   "pub_ts": 1795199684,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/autistici-inventati-vince-ricorso-contro-banca-etica-conto-corrente-va-riaperto-i75j102c",
-     "title": "Autistici/Inventati vince il ricorso contro Banca Etica: «Il conto corrente va riaperto»"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/20/autistici-inventati-banca-etica-conto-notizie/8579042/",
-     "title": "Banca Etica deve riaprire il conto del collettivo Autistici/Inventati, finito sotto sanzioni degli Usa"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Street giù",
-   "summary": "Alla seconda seduta perde oltre il 10%. Profondo rosso in Asia",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/la-bolla-ia-gela-i-mercati-leuropa-brucia-370-miliardi.-anthropic-e-wall-street_0ba615f0-de7d-440c-a699-c689e255c19e.html",
-   "pub_ts": 1795209680,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/la-bolla-ia-gela-i-mercati-leuropa-brucia-370-miliardi.-anthropic-e-wall-street_0ba615f0-de7d-440c-a699-c689e255c19e.html",
-     "title": "La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Street giù"
-    },
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/20/anthropic-apre-in-calo-a-wall-street-nella-seconda-giornata-di-scambi_e524be34-039f-4d4f-89ef-60b335edd286.html",
-     "title": "Anthropic apre in calo a Wall Street nella seconda giornata di scambi"
-    },
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
-     "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/anthropic-ipo-record-da-935-miliardi-di-dollari/",
-     "title": "Anthropic: IPO record da 93,5 miliardi di dollari"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/bending-spoons-mailchimp/",
-     "title": "Bending Spoons comprerà per 3,68 miliardi di dollari Mailchimp, uno dei più popolari servizi per mandare newsletter"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/economia/anthropic-quotazione-boom-wall-street-amodei-sicurezza-fj5u17hg",
-     "title": "Anthropic, esordio boom a Wall Street, Amodei: «Investiremo sulla sicurezza»"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/anthropic-lipo-dei-record-quanto-vale-e-quanto-sono-ricchi-da-oggi-i-suoi-fondatori/",
-     "title": "Anthropic, l’Ipo dei record: quanto vale e quanto sono ricchi (da oggi) i suoi fondatori"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "In Italia è stata approvata la guida semiautonoma delle Tesla",
-   "summary": "È un sistema con cui le auto si manovrano da sole sotto una supervisione umana, ma per vederle per strada ci vorrà ancora un po'",
-   "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
-   "pub_ts": 1795203563,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
@@ -364,34 +362,66 @@
   {
    "category": "tech",
    "area": null,
-   "title": "AI4I punta sui robot intelligenti. Nasce a Torino il centro per l’intelligenza artificiale fisica",
-   "summary": "L’Istituto italiano di intelligenza artificiale avvia un programma di ricerca di due anni per sviluppare macchine autonome capaci di adattarsi all’ambiente e ridurre i costi dell’automazione industriale. Cinque laboratori, un supercomputer e una prima sperimentazione sui...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/ai4i_torino_centro_ia_fisica_robot-425738382/?rss",
-   "pub_ts": 1795193663,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi",
+   "summary": "ll debutto di Anthropic a Wall Street mette in evidenza i rischi di un settore gravato da impegni finanziari per centinaia di miliardi di dollari. L'esposizione va oltre le aziende IA, coinvolge il settore del tech ma anche altri comparti",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
+   "pub_ts": 1795247837,
+   "n_sources": 3,
+   "documented": true,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/ai4i_torino_centro_ia_fisica_robot-425738382/?rss",
-     "title": "AI4I punta sui robot intelligenti. Nasce a Torino il centro per l’intelligenza artificiale fisica"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
+     "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/gta-vi-vendite-record-primo-giorno/",
+     "title": "Nel primo giorno di vendite GTA VI ha incassato 3,8 miliardi di dollari, la cifra più alta di sempre per un videogioco al debutto"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/anthropic-ipo-record-da-935-miliardi-di-dollari/",
+     "title": "Anthropic: IPO record da 93,5 miliardi di dollari"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA",
-   "summary": "Petizione indirizzata a Sundar Pichai, 'rischio abbandono completo dei prodotti Google'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/20/dipendenti-google-contro-il-blocco-della-ricerca-alle-scuole-usa-che_62eb4869-1362-4cd4-9db9-e520166d4256.html",
-   "pub_ts": 1795178170,
+   "title": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%",
+   "summary": "S500 -3,81%",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2c113fa1-01eb-4131-adfa-0de0775416b0.html",
+   "pub_ts": 1795209393,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2c113fa1-01eb-4131-adfa-0de0775416b0.html",
+     "title": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%"
+    },
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/20/anthropic-apre-in-calo-a-wall-street-nella-seconda-giornata-di-scambi_e524be34-039f-4d4f-89ef-60b335edd286.html",
+     "title": "Anthropic apre in calo a Wall Street nella seconda giornata di scambi"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie",
+   "summary": "Quanti soldi serviranno nel 2027 all’Ucraina per sopravvivere, tre storie dal Ruanda, una industria europea sorprendentemente dinamica e il rimpianto di una persona che non ha mai praticato sport di squadra",
+   "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
+   "pub_ts": 1795244455,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/20/dipendenti-google-contro-il-blocco-della-ricerca-alle-scuole-usa-che_62eb4869-1362-4cd4-9db9-e520166d4256.html",
-     "title": "Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
+     "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie"
     }
    ]
   },
@@ -402,7 +432,7 @@
    "summary": "'I fatti risalirebbero al 2018 durante le riprese del film Thalasso'",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/20/stupro-di-gruppo-inchiesta-su-un-caso-che-riguarderebbe-anche-depardieu-e-houellebecq_eb56b288-5863-49f6-8c4d-d2113446714a.html",
    "pub_ts": 1795194048,
-   "n_sources": 7,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
@@ -431,11 +461,6 @@
      "title": "Francia, media: Depardieu e Houellebecq al centro di indagine per stupro di gruppo"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_nuove_accuse_depardieu_denunciato_stupro_abusi_gruppo_insieme_scrittore_houellebecq-425736894/",
-     "title": "Nuove accuse per Depardieu: denunciato per stupro e abusi di gruppo insieme allo scrittore Houellebecq"
-    },
-    {
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/depardieu-e-houellebecq-laccusa-stupro-di-gruppo-sul-set-aperta-uninchiesta/",
      "title": "Depardieu e Houellebecq, l’accusa: “Stupro di gruppo sul set”. Aperta un’inchiesta"
@@ -446,32 +471,50 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi",
-   "summary": "Le 18 pagine iniziali diventano 9. Mancano impegni vincolanti. Si menziona l’elettrificazione al 35%, voluta dalla Turchia",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
-   "pub_ts": 1795200120,
-   "n_sources": 4,
+   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
+   "summary": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
+   "pub_ts": 1795241460,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
-     "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi"
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
+     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_c5c88c73-5622-4a34-831d-b7f23f6987e0.html",
+     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/clima-stallo-cop31-nella-bozza-scompare-taglio-combustibili-fossili-tg3-romana-fabrizi-inviata-ad-antalya-0ea32ca3-4e8c-4d12-b68b-293b1ac75e7c.html",
-     "title": "Clima, stallo alla COP31. Nella bozza scompare il taglio ai combustibili fossili"
+     "link": "https://www.rainews.it/articoli/2026/11/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana-c91f7f81-a34c-4d4e-8e22-7328fad51755.html",
+     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Nativi digitali, smart ma emotivamente fragili",
+   "summary": "Progetto 'A new mind\" del Gemelli: ansia e depressione per il 44%",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/20/nativi-digitali-smart-ma-emotivamente-fragili_85d8d7f8-9d54-46f5-b052-80073b6f9b5c.html",
+   "pub_ts": 1795239660,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/20/nativi-digitali-smart-ma-emotivamente-fragili_85d8d7f8-9d54-46f5-b052-80073b6f9b5c.html",
+     "title": "Nativi digitali, smart ma emotivamente fragili"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/cop31-combustibili-fossi-bozza/",
-     "title": "Alla COP31 sono spariti i combustibili fossili"
-    },
-    {
-     "name": "Repubblica Ambiente",
-     "link": "https://www.repubblica.it/green-and-blue/dossier/cop31/2026/11/19/news/seconda_bozza-425735133/?rss",
-     "title": "Dalla seconda bozza di Cop31 scompare l’espressione “combustibili fossili”"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/nativi-digitali-smart-ma-emotivamente-fragili-76788f23-436d-4909-b5f4-4344411af536.html",
+     "title": "Nativi digitali, smart ma emotivamente fragili"
     }
    ],
    "subtype": "scienza"
@@ -502,29 +545,6 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
-   "summary": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
-   "pub_ts": 1795182563,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
-     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_c5c88c73-5622-4a34-831d-b7f23f6987e0.html",
-     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
    "title": "Appello scienziati a Mattarella su commissione Covid, 'Difendere scienza'",
    "summary": "'Medici, ricercatori e scienziati vengono esposti a forme di delegittimazione pubblica'",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/20/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza_a615097d-e2e3-47a4-8765-dc45c84bef6a.html",
@@ -548,83 +568,112 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
-   "summary": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-   "pub_ts": 1795205265,
-   "n_sources": 5,
+   "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali",
+   "summary": "L'ex comandante della Concordia condannato a 16 anni per il naufragio in cui morirono 32 persone",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
+   "pub_ts": 1795252870,
+   "n_sources": 8,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-     "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
+     "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-ha-detto-a-europei-e-ucraini-che-vuole-accordo-di-pace-entro-inizio_19e0bb75-30d2-4cac-bc3a-d01063e3bb8d.html",
-     "title": "'Trump ha detto a europei e ucraini che vuole accordo di pace entro inizio gennaio'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/",
-     "title": "Trump ha fretta: “Presto la pace in Ucraina, con Putin rapporti fantastici”"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-cina-shenzhen-vertice-trilaterale_2WVlhO8ESjEbGoZDLq8aBW",
-     "title": "Trump: \"Putin vuole la fine della guerra in Ucraina, ci sono ottime possibilità\""
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_a0c83b8e-8377-44c0-8669-ef06b979b266.html",
+     "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/trump-attacca-europa-nuovi-aiuti-ucraina-putin-nessuna-tregua-shenzhen-qp4gro2g",
-     "title": "Trump attacca l’Europa per i nuovi aiuti all’Ucraina, Putin: «Nessuna tregua»"
+     "link": "https://www.editorialedomani.it/fatti/costa-concordia-fancesco-schettino-comandante-lascia-il-carcere-rebibbia-roma-nove-anni-servizi-sociali-t9q3iq80",
+     "title": "Costa Concordia, Schettino lascia il carcere dopo nove anni. Affidato ai servizi sociali"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/21/schettino-fuori-carcere-strage-costa-concordia/",
+     "title": "Schettino torna a casa, l’ex comandante della Concordia fuori dal carcere dopo 9 anni: la condanna dopo la strage e i servizi sociali"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/21/news/concordia_schettino_lascia_carcere_giglio_servizi_sociali-425739614/",
+     "title": "Tragedia della Concordia. L’ex comandante Schettino ha lasciato il carcere dopo nove anni e mezzo"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/naufragio-della-costa-concordia-schettino-lascia-il-carcere-dopo-nove-anni-266ff0d9-ed96-4266-bce9-32f4adac23fc.html",
+     "title": "Naufragio della Costa Concordia, Schettino lascia il carcere dopo nove anni"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/schettino-carcere-affidamento-servizi-sociali-notizie/8579308/",
+     "title": "Tragedia della Costa Concordia, Schettino esce dal carcere dopo 9 anni. La legale: “Tanta soddisfazione, c’erano i requisiti”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/schettino-e-uscito-dal-carcere/",
+     "title": "Schettino è uscito dal carcere"
+    }
+   ]
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev",
+   "summary": "Nella capitale udita una potente esplosione, in fiamme edifici residenziali",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+   "pub_ts": 1795251493,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+     "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/notte-di-attacchi-in-ucraina-azienda-in-fiamme-a-kryvyi-rih-villaggi-senza-luce-a-sarny-078422c2-3885-4e32-a64c-caee938711b5.html",
+     "title": "Notte di attacchi in Ucraina: due morti a Kryvyi Rih, villaggi senza luce a Sarny, droni su Kiev"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/diretta/guerra_ucraina_russia_news_oggi-425739343/",
+     "title": "Guerra Ucraina - Russia, le news di oggi. Raid russo su Kryvyi Rih: due morti e 42 feriti. Colpito un asilo a Zaporizhzhia"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-20-novembre-2026_2CuwrKnJrgjVSA8chjDTXq",
+     "title": "Ucraina, Trump: \"Putin vuole porre fine alla guerra\". Nuovi raid su Kiev e Leopoli: morti e feriti"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
-   "description": "L’ex premier e ministro degli Esteri, che aveva già corso per l’Eliseo nel 2012, ci riprova a 73 anni: “Decisione importante e difficile”. Lo slogan per superare le divisioni nel Paese: “E se ci volessimo ancora bene?”",
-   "pub_ts": 1795211536,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Rete studenti, 50 cortei in tutta Italia, in piazza per il nostro futuro",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/rete-studenti-50-cortei-in-tutta-italia-in-piazza-per-il-nostro-futuro_a2cfbc17-c63c-4be8-b7c0-726e966bf68b.html",
-   "description": "\"Siamo una generazione che chiede ascolto e investimenti concreti\"",
-   "pub_ts": 1795206212,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Londra e Ue più vicine: siglata la prima intesa post Brexit. Burnham: “Nel 2027 ci confronteremo sul futuro dei rapporti”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/intesa_ue_gran_bretagna_summit_reset_relazioni_bruxelles-425737506/?rss",
-   "description": "Von Der Leyen: “Siamo a una svolta”. Il premier britannico: “Un bel giorno per l’Unione Europea e la Gran Bretagna, per decidere su altri temi servirà coinvolgere gli elettori”",
-   "pub_ts": 1795198732,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "L'attrice Anna Foglietta in piazza con gli studenti: 'Abbiamo tolto i loro sogni'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/lattrice-foglietta-in-piazza-con-gli-studenti-abbiamo-tolto-i-loro-sogni_5c6410bd-2a3a-4cc8-9b52-a11e914f449b.html",
-   "description": "\"Palestina e welfare devastati, normale siano arrabbiati\"",
-   "pub_ts": 1795208845,
+   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+   "description": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
+   "pub_ts": 1795249440,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "L'omaggio del Senato Usa all'ippopotamo Fiona, morta dopo aver ingerito un cappello: 'Era un raggio di sole'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/lomaggio-del-senato-usa-allippopotamo-fiona-morta-dopo-aver-ingerito_f93e615f-39f2-48da-ad0f-a2fae8076765.html",
-   "description": "Lutto allo zoo di Cincinnati. 'Approvata una risoluzione che ne celebra la vita e la resilienza'",
-   "pub_ts": 1795207310,
+   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+   "description": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
+   "pub_ts": 1795230000,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Sciopero generale a Bologna la polizia blocca i manifestanti a manganellate. I video dalle piazze",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sciopero-generale-le-piazze-da-milano-a-napoli_6e8664c2-d3b8-454f-b25f-4d6839031630.html",
+   "description": "Le immagini dei cortei della Cgil e della mobilitazione studentesca",
+   "pub_ts": 1795232940,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -633,8 +682,35 @@
    "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
    "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
    "description": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
-   "pub_ts": 1795202721,
+   "pub_ts": 1795239420,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
+   "description": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
+   "pub_ts": 1795208831,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Sigonella, allarme droni sulla base Usa: deviati voli militari dopo l'avvistamento di un velivolo teleguidato",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/sigonella_allarme_drone_base_usa_voli_militari_aviano-425739349/?rss",
+   "description": "Un velivolo sospetto sarebbe stato avvistato sopra la pista. A un KC-135 Stratotanker è stato ordinato di interrompere l’atterraggio e dirigersi ad Aviano. Nessuna conferma ufficiale sull’accaduto",
+   "pub_ts": 1795251468,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Sabato 21 novembre",
+   "link": "https://www.ilpost.it/2026/11/21/foto-del-giorno-sabato-21-novembre/",
+   "description": "Le foto dal mondo, man mano che arrivano",
+   "pub_ts": 1795244447,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "politica"
   },
@@ -648,65 +724,56 @@
    "section": "politica"
   },
   {
-   "title": "Israele: Eisenkot pronto a un governo di emergenza da premier, nessuna rotazione con Bibi",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/israele-eisenkot-pronto-a-un-governo-di-emergenza-da-premier-nessuna-rotazione-con-bibi_1ef68397-dd2b-49c1-953f-30bf696a465b.html",
-   "description": "Ultima chance se saltano i negoziati con ortodossi e Likud. Hamas riafferma potere su Gaza",
-   "pub_ts": 1795203651,
-   "source": "ANSA",
+   "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
+   "description": "L’ex premier e ministro degli Esteri, che aveva già corso per l’Eliseo nel 2012, ci riprova a 73 anni: “Decisione importante e difficile”. Lo slogan per superare le divisioni nel Paese: “E se ci volessimo ancora bene?”",
+   "pub_ts": 1795186360,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude",
-   "link": "https://www.open.online/2026/11/20/matematico-anthropic-ipotesi-riemann-claude/",
-   "description": "Uno tra i più celebri e ambiti dei sette “Problemi del millennio” sarebbe stato risolto dal ricercatore Levent Alpöge. L'annuncio su X e il lavoro svolto L'articolo Un matematico che usa Anthropic sostiene di aver risolto l’ipotesi di Riemann grazie a Claude proviene da Open.",
-   "pub_ts": 1795208068,
+   "title": "A Sigonella accertamenti in corso dopo il possibile sorvolo di droni",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/a-sigonella-accertamenti-in-corso-dopo-il-possibile-sorvolo-di-droni_f2d335b7-be89-4930-bb82-a4ab490d0a88.html",
+   "description": "L'alert ieri sera, i velivoli avrebbero sorvolato sia la base che gli alloggi",
+   "pub_ts": 1795252742,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk: cosa cambia con il primo Ok alla guida assistita",
+   "link": "https://www.open.online/2026/11/21/tesla-assisted-driving-ok-salvini-come-funziona/",
+   "description": "Via libera provvisorio del ministero dei Trasporti al Tesla Assisted Driving. Esultano il miliardario fondatore di Tesla e il suo braccio destro in Italia Andrea Stroppa che parla di via libera alla guida autonoma. Cosa dice il Codice della strada e come funziona il sistema delle auto elettriche di Musk L'articolo La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk:…",
+   "pub_ts": 1795246429,
    "source": "Open",
    "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Autistici/Inventati vince il ricorso contro Banca Etica: «Il conto corrente va riaperto»",
-   "link": "https://www.editorialedomani.it/fatti/autistici-inventati-vince-ricorso-contro-banca-etica-conto-corrente-va-riaperto-i75j102c",
-   "description": "L’avvocato Gianelli commenta la sentenza del Tribunale di Pisa, che segna un precedente storico: «Ribadisce i principi della sovranità territoriale e finanziaria. In Italia e nell’Ue non possono avere esecuzione diretta provvedimenti del tutto straordinari, che per il nostro ordinamento giudiziario non hanno valore legale». L’istituto finanziario: «Non faremo ricorso»",
-   "pub_ts": 1795199684,
-   "source": "Domani",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Street giù",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/la-bolla-ia-gela-i-mercati-leuropa-brucia-370-miliardi.-anthropic-e-wall-street_0ba615f0-de7d-440c-a699-c689e255c19e.html",
-   "description": "Alla seconda seduta perde oltre il 10%. Profondo rosso in Asia",
-   "pub_ts": 1795209680,
-   "source": "ANSA",
-   "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "In Italia è stata approvata la guida semiautonoma delle Tesla",
-   "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
-   "description": "È un sistema con cui le auto si manovrano da sole sotto una supervisione umana, ma per vederle per strada ci vorrà ancora un po'",
-   "pub_ts": 1795203563,
-   "source": "Il Post",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "AI4I punta sui robot intelligenti. Nasce a Torino il centro per l’intelligenza artificiale fisica",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/ai4i_torino_centro_ia_fisica_robot-425738382/?rss",
-   "description": "L’Istituto italiano di intelligenza artificiale avvia un programma di ricerca di due anni per sviluppare macchine autonome capaci di adattarsi all’ambiente e ridurre i costi dell’automazione industriale. Cinque laboratori, un supercomputer e una prima sperimentazione sui...",
-   "pub_ts": 1795193663,
+   "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
+   "description": "ll debutto di Anthropic a Wall Street mette in evidenza i rischi di un settore gravato da impegni finanziari per centinaia di miliardi di dollari. L'esposizione va oltre le aziende IA, coinvolge il settore del tech ma anche altri comparti",
+   "pub_ts": 1795247837,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/20/dipendenti-google-contro-il-blocco-della-ricerca-alle-scuole-usa-che_62eb4869-1362-4cd4-9db9-e520166d4256.html",
-   "description": "Petizione indirizzata a Sundar Pichai, 'rischio abbandono completo dei prodotti Google'",
-   "pub_ts": 1795178170,
-   "source": "ANSA Tecnologia",
+   "title": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2c113fa1-01eb-4131-adfa-0de0775416b0.html",
+   "description": "S500 -3,81%",
+   "pub_ts": 1795209393,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie",
+   "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
+   "description": "Quanti soldi serviranno nel 2027 all’Ucraina per sopravvivere, tre storie dal Ruanda, una industria europea sorprendentemente dinamica e il rimpianto di una persona che non ha mai praticato sport di squadra",
+   "pub_ts": 1795244455,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "tech"
   },
@@ -720,11 +787,20 @@
    "section": "varia"
   },
   {
-   "title": "Cop31, cancellati i combustibili fossili dalla bozza al vaglio dei 198 Paesi",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/cop31_cancellati_combustibili_fossili_bozza-425736034/?rss",
-   "description": "Le 18 pagine iniziali diventano 9. Mancano impegni vincolanti. Si menziona l’elettrificazione al 35%, voluta dalla Turchia",
-   "pub_ts": 1795200120,
-   "source": "Repubblica Esteri",
+   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
+   "description": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
+   "pub_ts": 1795241460,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Nativi digitali, smart ma emotivamente fragili",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/20/nativi-digitali-smart-ma-emotivamente-fragili_85d8d7f8-9d54-46f5-b052-80073b6f9b5c.html",
+   "description": "Progetto 'A new mind\" del Gemelli: ansia e depressione per il 44%",
+   "pub_ts": 1795239660,
+   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
@@ -738,15 +814,6 @@
    "section": "varia"
   },
   {
-   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
-   "description": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
-   "pub_ts": 1795182563,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
    "title": "Appello scienziati a Mattarella su commissione Covid, 'Difendere scienza'",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/20/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza_a615097d-e2e3-47a4-8765-dc45c84bef6a.html",
    "description": "'Medici, ricercatori e scienziati vengono esposti a forme di delegittimazione pubblica'",
@@ -756,11 +823,20 @@
    "section": "varia"
   },
   {
-   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-   "description": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
-   "pub_ts": 1795205265,
-   "source": "Repubblica Esteri",
+   "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
+   "description": "L'ex comandante della Concordia condannato a 16 anni per il naufragio in cui morirono 32 persone",
+   "pub_ts": 1795252870,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "cronaca"
+  },
+  {
+   "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+   "description": "Nella capitale udita una potente esplosione, in fiamme edifici residenziali",
+   "pub_ts": 1795251493,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   }
