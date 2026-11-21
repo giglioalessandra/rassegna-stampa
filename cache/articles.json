@@ -1,6 +1,6 @@
 {
- "generated_at": 1795281374,
- "updated_at": 1795281374,
+ "generated_at": 1795301887,
+ "updated_at": 1795301887,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,22 +10,128 @@
   {
    "category": "politica",
    "area": "mondo",
+   "title": "Alta tensione nel mar Baltico, colpita una nave cargo russa",
+   "summary": "Il premier finlandese: 'La guerra si estende'. Mosca attacca un mercantile a sud di Odessa",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/alta-tensione-nel-mar-baltico-colpita-una-nave-cargo-russa-_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+   "pub_ts": 1795300200,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/alta-tensione-nel-mar-baltico-colpita-una-nave-cargo-russa-_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+     "title": "Alta tensione nel mar Baltico, colpita una nave cargo russa"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_bee9fd8f-3084-4348-9c0f-67b54725f3b9.html",
+     "title": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/notte-di-attacchi-in-ucraina-azienda-in-fiamme-a-kryvyi-rih-villaggi-senza-luce-a-sarny-078422c2-3885-4e32-a64c-caee938711b5.html",
+     "title": "Finlandia: presunta violazione spazio aereo. Mosca: nave cargo russa colpita nel Baltico"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/21/tensione-mar-baltico-attacco-nave-kaliningrad-video/",
+     "title": "Tensione nel Mar Baltico, nave russa colpita da droni: sospetti su Kiev. Elicottero di Mosca viola lo spazio aereo finlandese – Il video"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/la-nave-cargo-russa-attaccata-da-droni-nel-golfo-di-finlandia/",
+     "title": "La nave cargo russa attaccata da droni nel golfo di Finlandia"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/nave-russa-colpita-finlandia-il-conflitto-si-espande-h7mfcimg",
+     "title": "Una nave russa colpita al largo della Finlandia. «Il conflitto si espande»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Usa, nuovo attacco hacker all’Fbi: violata la banca dati dei criminali",
+   "summary": "È la seconda volta in due mesi che il sistema informatico dell’agenzia federale di investigazione americana viene violata. Il direttore Kash Patel, nelle stesse ore in cui era emerso l’hackeraggio, era andato a Fox News per esaltare il lavoro fatto nel campo della sicurezza...",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_nuovo_attacco_hacker_fbi_violata_banca_dati_criminali-425740582/?rss",
+   "pub_ts": 1795290611,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_nuovo_attacco_hacker_fbi_violata_banca_dati_criminali-425740582/?rss",
+     "title": "Usa, nuovo attacco hacker all’Fbi: violata la banca dati dei criminali"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
+     "title": "La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/lfbi-sta-indagando-su-un-presunto-attacco-hacker-a-una-sua-banca-dati-investigativa/",
+     "title": "L’FBI sta indagando su un presunto attacco hacker a una sua banca dati investigativa"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/l-fbi-indaga-attacco-hacker-suo-database-AJbg4kOC",
+     "title": "L’Fbi indaga su attacco hacker al suo database"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/attacco-hacker-database-fbi_3XNc2XEgK6lOrBsvDozias",
+     "title": "Usa, Cnn: \"Nuovo attacco hacker all'Fbi, violato l'archivio criminale\". Trump preoccupato: \"Non mi piace\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'",
+   "summary": "Le opposizioni contro gli emendamenti di Delmastro: 'Garantista solo con se stesso'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
+   "pub_ts": 1795293217,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
+     "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/21/stop-borse-studio-studenti-proteste-emendamento-delmastro/",
+     "title": "Via le borse di studio agli studenti violenti delle proteste, anche senza condanna: ecco cosa c’è negli emendamenti di FdI"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/21/news/fdi_stretta_studenti_manifestanti_borse_di_studio_e_paghino_i_danni_delle_occupazioni-425739795/",
+     "title": "Stretta FdI su studenti e manifestanti: “Via le borse di studio e paghino i danni delle occupazioni”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/decreto-sicurezza-borse-studio-studenti-indagati-notizie/8579795/",
+     "title": "FdI vuole sospendere le borse di studio agli studenti indagati. Schlein: “Delirante”. Conte: “Repressione per chi protesta e scudo per chi è in Parlamento”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”",
    "summary": "L'allarme alla vigilia del Thanksgiving, quando sono attesi circa 6 milioni di passeggeri sui voli interni. Fbi e servizi di sicurezza: “Al momento nessuna minaccia specifica e credibile”",
    "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
    "pub_ts": 1795260920,
-   "n_sources": 5,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
      "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/007-usa-hanno-allertato-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_0acef317-33c2-4204-bd0c-25c039667b14.html",
-     "title": "007 Usa hanno allertato le compagnie aeree, 'Al Qaeda pronta a compiere attacchi'"
     },
     {
      "name": "Domani",
@@ -47,119 +153,11 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'",
-   "summary": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
-   "pub_ts": 1795208831,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
-     "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/la-rabbia-riempie-le-piazze-italiane-siamo-un-milione-sciopero-generale-cgil-cento-piazze-manovra-jn18am0v",
-     "title": "La rabbia riempie le piazze italiane: «Siamo un milione»"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/sciopero-generale-manifestazioni-20-novembre-cgil/",
-     "title": "Una giornata di sciopero generale"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/sciopero-cgil-emendamenti-manovra-costi-coperture-landini-avs/",
-     "title": "Sciopero Cgil: il libro dei sogni di Landini costa 50 miliardi"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
-   "summary": "Il Bureau sta indagando. A settembre sottratti dati personali dei dipendenti",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
-   "pub_ts": 1795279128,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
-     "title": "La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/attacco-hacker-database-fbi_3XNc2XEgK6lOrBsvDozias",
-     "title": "Usa, Cnn: \"Nuovo attacco hacker all'Fbi, violato l'archivio criminale\". Trump preoccupato: \"Non mi piace\""
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/cybersicurezza-nuovo-attacco-hacker-all-fbi-violato-l-archivio-criminale-AJRtdDOC",
-     "title": "Cybersicurezza, «nuovo attacco hacker all’Fbi, violato l’archivio criminale»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale",
-   "summary": "'Era servitore dello Stato, un grande poliziotto'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/tajani-sconvolto-da-morte-de-gennaro-vittima-di-un-processo-fuori-dal-tribunale_fa3a45d6-c61c-4577-aef3-7360a1aed3d6.html",
-   "pub_ts": 1795263120,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/tajani-sconvolto-da-morte-de-gennaro-vittima-di-un-processo-fuori-dal-tribunale_fa3a45d6-c61c-4577-aef3-7360a1aed3d6.html",
-     "title": "Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/speciale-rainews24-gianni-de-gennaro-la-fine-dello-squalo-da-falcone-al-g8-fino-a-via-damelio-cad9c5a4-372d-423c-9779-a3040db45734.html",
-     "title": "Speciale Rainews24 - La morte di Gianni De Gennaro: da Falcone al G8 fino a via D’Amelio"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/21/news/gianni_de_gennaro_morto_sparato_casa-425739732/",
-     "title": "Gianni De Gennaro è morto. Si è sparato mentre era solo nella sua casa di campagna in Toscana"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'",
-   "summary": "Ministero della Difesa, 'prese di mira anche infrastrutture energetiche'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_bee9fd8f-3084-4348-9c0f-67b54725f3b9.html",
-   "pub_ts": 1795279573,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_bee9fd8f-3084-4348-9c0f-67b54725f3b9.html",
-     "title": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/notte-di-attacchi-in-ucraina-azienda-in-fiamme-a-kryvyi-rih-villaggi-senza-luce-a-sarny-078422c2-3885-4e32-a64c-caee938711b5.html",
-     "title": "Finlandia: presunta violazione spazio aereo. Mosca: nave cargo russa colpita nel Baltico"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
    "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'",
    "summary": "'Un modo per reagire a ciò che avvertiva come una grande ingiustizia'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_39eedb13-3399-4f30-bacf-70d46bed39b7.html",
-   "pub_ts": 1795278376,
-   "n_sources": 2,
+   "pub_ts": 1795284814,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -168,9 +166,41 @@
      "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/meloni-profondamente-scioccata-per-de-gennaro.-il-figlio-di-borsellino-potrebbe-essersene-andato_42ef82fc-43b8-4902-a35d-dd280c6de41c.html",
-     "title": "Mattarella chiama il fratello di De Gennaro. Meloni: 'Scioccata'. La Russa: 'Il suicidio è anche coraggio'"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/21/diretta/de_gennaro_morto_suicidio_capo_polizia_indagato_borsellino_falcone_news_oggi-425739807/",
+     "title": "De Gennaro, Mattarella chiama il fratello Andrea. Salvatore Borsellino: istigazione al suicidio"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/de-gennaro-suicidio-la-russa-coraggio-notizie/8579844/",
+     "title": "“De Gennaro? A volte il suicidio è anche coraggio”: così il presidente del Senato La Russa"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Dominique de Villepin scende in campo per l'Eliseo: \"Salviamo una democrazia bloccata\"",
+   "summary": "A 73 anni l'ex premier neogollista annuncia la candidatura contro la polarizzazione tra Jean-Luc Mélenchon e Marine Le Pen. Intanto perquisita la sede del Rassemblement National per il sospetto di una \"gola profonda\" al ministero dell'Interno",
+   "link": "https://www.rainews.it/articoli/2026/11/dominique-de-villepin-scende-in-campo-per-leliseo-salviamo-una-democrazia-bloccata-70600fc5-2ec3-49bc-b260-3cd6500c62ff.html",
+   "pub_ts": 1795285500,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/dominique-de-villepin-scende-in-campo-per-leliseo-salviamo-una-democrazia-bloccata-70600fc5-2ec3-49bc-b260-3cd6500c62ff.html",
+     "title": "Dominique de Villepin scende in campo per l'Eliseo: \"Salviamo una democrazia bloccata\""
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/europa/dominique-de-villepin-presidenziali-candidato-piace-sinistra-vmfezhmu",
+     "title": "Dominique de Villepin «candidato» all’Eliseo: il gollista che punta sulla sinistra"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/dominique-de-villepin-candidatura-elezioni-presidenziali-francesi/",
+     "title": "In Francia l’ex primo ministro Dominique de Villepin si è candidato alle elezioni presidenziali"
     }
    ]
   },
@@ -199,66 +229,66 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev",
-   "summary": "Nella capitale udita una potente esplosione, in fiamme edifici residenziali",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
-   "pub_ts": 1795251493,
+   "title": "Kuleba: “Notte da incubo, ma non scapperemo dalle bombe di Putin”",
+   "summary": "L’ex ministro degli Esteri di Zelensky: “Siamo a pezzi ma finché c’è l’acqua restiamo nella capitale con i figli”",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/kuleba_intervista_guerra_ucraina_russia_putin_attacco_kiev_negoziati-425738858/?rss",
+   "pub_ts": 1795219200,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
-     "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/kuleba_intervista_guerra_ucraina_russia_putin_attacco_kiev_negoziati-425738858/?rss",
+     "title": "Kuleba: “Notte da incubo, ma non scapperemo dalle bombe di Putin”"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-20-novembre-2026_2CuwrKnJrgjVSA8chjDTXq",
-     "title": "Ucraina, Trump: \"Putin vuole porre fine alla guerra\". Nuovi raid su Kiev e Leopoli: morti e feriti"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/kuleba_intervista_guerra_ucraina_russia_putin_attacco_kiev_negoziati-425738858/",
+     "title": "Kuleba: “Notte da incubo, ma non scapperemo dalle bombe di Putin”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
-   "summary": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
-   "pub_ts": 1795249440,
+   "title": "El Salvador, Bukele sfida quattro partiti alle presidenziali del 2027",
+   "summary": "Voto il 28 febbraio per il mandato esteso da cinque a sei anni",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/el-salvador-bukele-sfida-quattro-partiti-alle-presidenziali-del-2027_b7d940f4-d985-4744-b6bd-d87bf1fc8354.html",
+   "pub_ts": 1795217305,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
-     "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/el-salvador-bukele-sfida-quattro-partiti-alle-presidenziali-del-2027_b7d940f4-d985-4744-b6bd-d87bf1fc8354.html",
+     "title": "El Salvador, Bukele sfida quattro partiti alle presidenziali del 2027"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/usa-allerta-007-a-compagnie-aeree-su-possibili-attacchi-al-qaeda-54713fec-e25a-433f-a45c-9168d23088f3.html",
-     "title": "Usa: allerta 007 a compagnie aeree su possibili attacchi Al Qaeda"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/bukele-candidatura-presidenziali-2027/",
+     "title": "Nayib Bukele si è ricandidato a El Salvador"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
-   "summary": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-   "pub_ts": 1795205265,
+   "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'",
+   "summary": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
+   "pub_ts": 1795208831,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-     "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
+     "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/politica/ucraina-volenterosi-meloni_3elpVqdupzh0hY2w3eszgc",
-     "title": "Ucraina, Volenterosi a Berlino. Meloni: \"Cina spinga Putin alla pace\". Trump: \"Perché altri soldi a Kiev?\""
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/la-rabbia-riempie-le-piazze-italiane-siamo-un-milione-sciopero-generale-cgil-cento-piazze-manovra-jn18am0v",
+     "title": "La rabbia riempie le piazze italiane: «Siamo un milione»"
     }
    ]
   },
@@ -291,33 +321,6 @@
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/economia-finanza/aaa-affittasi-superpetroliera-a-un-milione-di-dollari-al-giorno/",
      "title": "AAA Affittasi superpetroliera a un milione di dollari al giorno"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'",
-   "summary": "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html",
-   "pub_ts": 1795274100,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html",
-     "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/tassa-aziende-usa-costruiscono-data-center-estero/",
-     "title": "Tassa alle aziende USA che costruiscono data center all’estero"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/trump-tasseremo-molto-aziende-se-costruiscono-data-center-fuori-usa-AJxXbkNC",
-     "title": "Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa"
     }
    ]
   },
@@ -371,67 +374,41 @@
    ]
   },
   {
-   "category": "varia",
+   "category": "tech",
    "area": null,
-   "title": "Stupro di gruppo, inchiesta su un caso che riguarderebbe anche Depardieu e Houellebecq",
-   "summary": "'I fatti risalirebbero al 2018 durante le riprese del film Thalasso'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/20/stupro-di-gruppo-inchiesta-su-un-caso-che-riguarderebbe-anche-depardieu-e-houellebecq_eb56b288-5863-49f6-8c4d-d2113446714a.html",
-   "pub_ts": 1795194048,
-   "n_sources": 6,
-   "documented": true,
+   "title": "Dalle prime sciate ai bagni in mare: l'Italia divisa tra inverno e primavera",
+   "summary": "Piste aperte in anticipo a Madonna di Campiglio, mercatini di Natale ad Aosta e pellegrini sul ponte votivo a Venezia. In Sicilia, invece, le temperature miti invitano a tornare in spiaggia",
+   "link": "https://www.rainews.it/video/2026/11/dalle-prime-sciate-ai-bagni-in-mare-litalia-divisa-tra-inverno-e-primavera-92ce85fb-8fc6-4dce-9787-af00886a0b76.html",
+   "pub_ts": 1795266360,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/20/stupro-di-gruppo-inchiesta-su-un-caso-che-riguarderebbe-anche-depardieu-e-houellebecq_eb56b288-5863-49f6-8c4d-d2113446714a.html",
-     "title": "Stupro di gruppo, inchiesta su un caso che riguarderebbe anche Depardieu e Houellebecq"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_nuove_accuse_depardieu_denunciato_stupro_abusi_gruppo_insieme_scrittore_houellebecq-425736894/?rss",
-     "title": "Nuove accuse per Depardieu: denunciato per stupro e abusi di gruppo insieme allo scrittore Houellebecq"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/francia-depardieu-e-houellebecq-sotto-accusa-per-violenza-sessuale-di-gruppo-ube8kntj",
-     "title": "Francia, Depardieu e Houellebecq sotto accusa per «violenza sessuale di gruppo»"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/depardieu-e-houellebecq-indagati-stupro-gruppo-AJqr6NNC",
-     "title": "Depardieu e Houellebecq indagati per stupro di gruppo"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/depardieu-houellebecq-stupro-gruppo-istruttoria-giudiziaria-francia_7tE10HveskPxM5NWafDIpO",
-     "title": "Francia, media: Depardieu e Houellebecq al centro di indagine per stupro di gruppo"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/depardieu-e-houellebecq-laccusa-stupro-di-gruppo-sul-set-aperta-uninchiesta/",
-     "title": "Depardieu e Houellebecq, l’accusa: “Stupro di gruppo sul set”. Aperta un’inchiesta"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/dalle-prime-sciate-ai-bagni-in-mare-litalia-divisa-tra-inverno-e-primavera-92ce85fb-8fc6-4dce-9787-af00886a0b76.html",
+     "title": "Dalle prime sciate ai bagni in mare: l'Italia divisa tra inverno e primavera"
     }
-   ],
-   "subtype": "cultura"
+   ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Corrado Augias, omaggio della gente alla camera ardente in Campidoglio. Gualtieri: \"Un uomo libero fino alla fine\"",
-   "summary": "Tante persone in fila. Ranucci: \"Nei momenti difficili mi ha dato conforto\"",
+   "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
+   "summary": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-   "pub_ts": 1795279680,
+   "pub_ts": 1795287430,
    "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
      "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-     "title": "Corrado Augias, omaggio della gente alla camera ardente in Campidoglio. Gualtieri: \"Un uomo libero fino alla fine\""
+     "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/lultimo-addio-a-corrado-augias-giornalista-libero-e-uomo-colto-in-centinaia-in-campidoglio-funerali-funerale-augias-camera-ardente-21a94815-70f7-40c4-aaf6-c20052d84fc2.html",
-     "title": "L'ultimo addio a Corrado Augias, giornalista libero e uomo colto. In centinaia in Campidoglio"
+     "link": "https://www.rainews.it/video/2026/11/corrado-augias-commozione-alla-protomoteca-per-lultimo-saluto-al-giornalista-e-scrittore-camera-ardente-campidoglio-funerale-033154bc-7218-497b-9816-5618eaf780cb.html",
+     "title": "Corrado Augias, commozione alla Protomoteca per l'ultimo saluto al giornalista e scrittore"
     },
     {
      "name": "Domani",
@@ -439,14 +416,14 @@
      "title": "L’ultimo saluto a Corrado Augias: migliaia di persone alla camera ardente"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://roma.repubblica.it/cronaca/2026/11/21/diretta/corrado_augias_morto_camera_ardente_roma_campidoglio_oggi-425739692/",
-     "title": "Augias, camera ardente in Campidoglio. Gualtieri: “La sua voce ci mancherà tantissimo” | La diretta"
-    },
-    {
      "name": "Adnkronos Cultura",
      "link": "https://www.adnkronos.com/cultura/aperta-la-camera-ardente-di-corrado-augias-larrivo-del-feretro-al-campidoglio-video_6ZXw5AN2pzId7N1ZgGpOO2",
      "title": "Aperta la camera ardente di Corrado Augias, l'arrivo del feretro al Campidoglio"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/corrado-augias-camera-ardente-campidoglio-notizie/8579845/",
+     "title": "Corrado Augias, in diecimila al Campidoglio per l’ultimo saluto. La figlia Natalia: “Colpita da chi ha parlato di mio padre come di una persona importante nella loro vita”"
     }
    ],
    "subtype": "cultura"
@@ -458,7 +435,7 @@
    "summary": "L'omaggio di Arnault: 'Artefice chiave del successo del marchio'",
    "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/21/morto-paolo-bulgari-grande-gioielliere-aveva-89-anni_638fc3ea-0eef-45d0-abf3-6c92929a1619.html",
    "pub_ts": 1795279406,
-   "n_sources": 5,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -480,11 +457,6 @@
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/21/paolo-bulgari-gioielli-morte/",
      "title": "È morto Paolo Bulgari, che guidò per molti anni l’azienda di gioielli Bulgari, fondata da suo nonno"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/e-morto-paolo-bulgari-designer-e-figura-emblematica-nel-panorama-dellalta-gioielleria-mondiale-la-famiglia-aveva-una-profonda-umanita-e-talento/8579586/",
-     "title": "È morto Paolo Bulgari, designer e figura emblematica nel panorama dell’alta gioielleria mondiale. La famiglia: “Aveva una profonda umanità e talento”"
     }
    ],
    "subtype": "cultura"
@@ -492,25 +464,30 @@
   {
    "category": "varia",
    "area": null,
-   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
-   "summary": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-   "pub_ts": 1795272792,
-   "n_sources": 2,
+   "title": "Morta Raffaella Curiel, l'intellettuale che vestiva le signore bene",
+   "summary": "Regina della Prima della Scala, con le sue creazioni anche Thatcher e Clinton",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/21/morta-raffaella-curiel-lintellettuale-che-vestiva-le-signore-bene_f9c6a36c-fde8-42ad-8236-9c8009f2b064.html",
+   "pub_ts": 1795290898,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-     "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/21/morta-raffaella-curiel-lintellettuale-che-vestiva-le-signore-bene_f9c6a36c-fde8-42ad-8236-9c8009f2b064.html",
+     "title": "Morta Raffaella Curiel, l'intellettuale che vestiva le signore bene"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/episodes/il-pasticciaccio-brutto-della-commissione-covid/",
-     "title": "Il pasticciaccio brutto della commissione Covid"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/21/morta-la-stilista-raffaella-curiel_76ac9faa-2d23-45e1-b6ff-32576704a24f.html",
+     "title": "Morta la stilista Raffaella Curiel, 'l'intellettuale della moda'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/morta-raffaella-curiel-addio-alla-signora-della-moda-che-vestiva-per-la-prima-alla-scala-couture-fashion-milano-ed1fcc09-fbe2-4dfb-8fab-a1ca9316fdd7.html",
+     "title": "È morta Raffaella Curiel. Addio alla signora della moda che vestiva per la Prima alla Scala"
     }
    ],
-   "subtype": "scienza"
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -536,106 +513,136 @@
    "subtype": "scienza"
   },
   {
+   "category": "varia",
+   "area": null,
+   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
+   "summary": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
+   "pub_ts": 1795182563,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
+     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_c5c88c73-5622-4a34-831d-b7f23f6987e0.html",
+     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
    "category": "cronaca",
    "area": null,
-   "title": "L'ex capo della Polizia De Gennaro si è ucciso sparandosi. La procura indaga per istigazione al suicidio",
-   "summary": "Si è tolto la vita nella sua casa di campagna in Maremma. Anche il Ris al lavoro sul posto",
+   "title": "L'ex capo della Polizia De Gennaro si è ucciso, sconvolto dalle indagini su Via d'Amelio",
+   "summary": "L'ex capo della Polizia si spara nella sua casa in campagna. Era atteso dal Riesame",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
-   "pub_ts": 1795281120,
-   "n_sources": 8,
+   "pub_ts": 1795300084,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
-     "title": "L'ex capo della Polizia De Gennaro si è ucciso sparandosi. La procura indaga per istigazione al suicidio"
+     "title": "L'ex capo della Polizia De Gennaro si è ucciso, sconvolto dalle indagini su Via d'Amelio"
     },
     {
      "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/de-gennaro-procura-di-grosseto-indaga-per-istigazione-al-suicidio_75c72f5e-a467-4649-a009-9abc2fa78604.html",
-     "title": "De Gennaro: Procura di Grosseto indaga per istigazione al suicidio"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/ex-capo-della-polizia-de-gennaro-si-e-ucciso-si-e-sparato-inchiesta-depistaggio-agenda-rossa-borsellino-mafia-d1d97a77-56f0-4bd1-b04c-d1405f5c7ca7.html",
-     "title": "La morte di De Gennaro, la Procura di Grosseto indaga per istigazione al suicidio"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/21/de-gennaro-suicidio-indagine-istigazione-suicidio/",
-     "title": "La procura di Grosseto ha aperto un’indagine per istigazione al suicidio sulla morte di Gianni De Gennaro"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/21/de-gennaro-suicidio-reazioni-diretta/",
-     "title": "De Gennaro trovato morto, la procura indaga per istigazione al suicidio. Mattarella chiama il fratello – La diretta"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-con-un-colpo-di-pistola_9f9f021b-0b40-417a-9f95-959f0ae16e92.html",
+     "title": "L'ex capo della Polizia De Gennaro si è ucciso con un colpo di pistola"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/gianni-de-gennaro-le-ultime-ore-nella-villa-in-toscana-indagine-antimafia-ipotesi-istigazione-suicidio-c57ap2gr",
-     "title": "De Gennaro: le ultime ore nella villa in Toscana e l’indagine dell’antimafia. L'ipotesi è istigazione al suicidio"
+     "link": "https://www.editorialedomani.it/fatti/i-pm-nisseni-de-gennaro-depisto-su-via-damelio-tutte-le-accuse-contro-lex-capo-della-polizia-gbtytmwv",
+     "title": "I pm nisseni: «De Gennaro depistò su via d’Amelio». Tutte le accuse contro l’ex capo della Polizia"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/",
+     "title": "Gianni De Gennaro si è ucciso"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/21/diretta/de_gennaro_morto_suicidio_capo_polizia_indagato_borsellino_falcone_news_oggi-425739807/",
-     "title": "De Gennaro, Mattarella chiama il fratello Andrea. Salvatore Borsellino: istigazione al suicidio"
+     "link": "https://www.repubblica.it/cronaca/2026/11/21/news/gianni_de_gennaro_morto_sparato_casa-425739732/",
+     "title": "Gianni De Gennaro è morto. Si è sparato mentre era solo nella sua casa di campagna in Toscana"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/de-gennaro-il-fratello-di-borsellino-pm-colpevoli-di-istigazione-al-suicidio/",
-     "title": "De Gennaro, il fratello di Borsellino: “Pm colpevoli di istigazione al suicidio”"
+     "link": "https://www.nicolaporro.it/gianni-de-gennaro-si-e-ucciso-trovato-morto-lex-capo-della-polizia/",
+     "title": "Gianni De Gennaro si è ucciso: trovato morto l’ex capo della polizia"
     }
    ]
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali. Fine pena anticipato al 2030 per buona condotta",
-   "summary": "L'ex comandante della Concordia era stato condannato a 16 anni per il naufragio in cui morirono 32 persone",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
-   "pub_ts": 1795276613,
-   "n_sources": 7,
+   "title": "Scossa di terremoto nel Vibonese, 4.3 di magnitudo",
+   "summary": "Il sisma registrato dall'Ingv alle 22.58",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/scossa-di-terremoto-nel-vibonese-4.3-di-magnitudo_a71649cd-31c0-41fc-aa50-9c1a8f6773db.html",
+   "pub_ts": 1795299840,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
-     "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali. Fine pena anticipato al 2030 per buona condotta"
-    },
-    {
      "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-fine-pena-anticipato-a-luglio-2030-per-buona-condotta_b1706e65-61d7-4a22-ae7d-e46c246eaaa5.html",
-     "title": "Schettino, fine pena anticipato a luglio 2030 per buona condotta"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/scossa-di-terremoto-nel-vibonese-4.3-di-magnitudo_a71649cd-31c0-41fc-aa50-9c1a8f6773db.html",
+     "title": "Scossa di terremoto nel Vibonese, 4.3 di magnitudo"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/21/schettino-fuori-carcere-strage-costa-concordia/",
-     "title": "Schettino torna a casa, l’ex comandante della Concordia fuori dal carcere dopo 9 anni. Il fine pena anticipato al 2030 per buona condotta"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/peru_terremoto_di_magnitudo_67-425739436/?rss",
+     "title": "Perù, terremoto di magnitudo 6,7"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/terremoto-di-magnitudo-6.7-colpisce-il-centro-del-peru-gente-in-strada-a-lima_03690872-8c21-4e8f-91a5-86322096cdee.html",
+     "title": "Terremoto di magnitudo 6.7 colpisce il centro del Perù, gente in strada a Lima"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/naufragio-della-costa-concordia-schettino-lascia-il-carcere-dopo-nove-anni-266ff0d9-ed96-4266-bce9-32f4adac23fc.html",
-     "title": "Naufragio della Costa Concordia, Schettino lascia il carcere dopo nove anni: libero da luglio 2030"
+     "link": "https://www.rainews.it/articoli/2026/11/scossa-di-terremoto-nel-vibonese-2e6cdae2-35a9-4dcc-92de-47d2c1ec8f24.html",
+     "title": "Scossa di terremoto di magnitudo 4.3 nel Vibonese"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/costa-concordia-fancesco-schettino-comandante-lascia-il-carcere-rebibbia-roma-nove-anni-servizi-sociali-t9q3iq80",
-     "title": "Costa Concordia, Schettino lascia il carcere dopo nove anni. Affidato ai servizi sociali"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/21/news/concordia_schettino_lascia_carcere_giglio_servizi_sociali-425739614/",
-     "title": "Tragedia della Concordia. L’ex comandante Schettino ha lasciato il carcere dopo nove anni e mezzo"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/schettino-e-uscito-dal-carcere/",
-     "title": "Schettino è uscito dal carcere"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/terremoto-oggi-peru-lima_2RqvuHMS354hZGs4LHBjtu",
+     "title": "Forte terremoto in Perù, la scossa di magnitudo 6.7 avvertita a Lima: paura e gente in strada"
     }
    ]
   }
  ],
  "articles": [
+  {
+   "title": "Alta tensione nel mar Baltico, colpita una nave cargo russa",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/alta-tensione-nel-mar-baltico-colpita-una-nave-cargo-russa-_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+   "description": "Il premier finlandese: 'La guerra si estende'. Mosca attacca un mercantile a sud di Odessa",
+   "pub_ts": 1795300200,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Usa, nuovo attacco hacker all’Fbi: violata la banca dati dei criminali",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_nuovo_attacco_hacker_fbi_violata_banca_dati_criminali-425740582/?rss",
+   "description": "È la seconda volta in due mesi che il sistema informatico dell’agenzia federale di investigazione americana viene violata. Il direttore Kash Patel, nelle stesse ore in cui era emerso l’hackeraggio, era andato a Fox News per esaltare il lavoro fatto nel campo della sicurezza...",
+   "pub_ts": 1795290611,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
+   "description": "Le opposizioni contro gli emendamenti di Delmastro: 'Garantista solo con se stesso'",
+   "pub_ts": 1795293217,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
   {
    "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”",
    "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
@@ -646,47 +653,20 @@
    "section": "politica"
   },
   {
-   "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
-   "description": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
-   "pub_ts": 1795208831,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
-   "description": "Il Bureau sta indagando. A settembre sottratti dati personali dei dipendenti",
-   "pub_ts": 1795279128,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/tajani-sconvolto-da-morte-de-gennaro-vittima-di-un-processo-fuori-dal-tribunale_fa3a45d6-c61c-4577-aef3-7360a1aed3d6.html",
-   "description": "'Era servitore dello Stato, un grande poliziotto'",
-   "pub_ts": 1795263120,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_bee9fd8f-3084-4348-9c0f-67b54725f3b9.html",
-   "description": "Ministero della Difesa, 'prese di mira anche infrastrutture energetiche'",
-   "pub_ts": 1795279573,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_39eedb13-3399-4f30-bacf-70d46bed39b7.html",
    "description": "'Un modo per reagire a ciò che avvertiva come una grande ingiustizia'",
-   "pub_ts": 1795278376,
+   "pub_ts": 1795284814,
    "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Dominique de Villepin scende in campo per l'Eliseo: \"Salviamo una democrazia bloccata\"",
+   "link": "https://www.rainews.it/articoli/2026/11/dominique-de-villepin-scende-in-campo-per-leliseo-salviamo-una-democrazia-bloccata-70600fc5-2ec3-49bc-b260-3cd6500c62ff.html",
+   "description": "A 73 anni l'ex premier neogollista annuncia la candidatura contro la polarizzazione tra Jean-Luc Mélenchon e Marine Le Pen. Intanto perquisita la sede del Rassemblement National per il sospetto di una \"gola profonda\" al ministero dell'Interno",
+   "pub_ts": 1795285500,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
@@ -700,29 +680,29 @@
    "section": "politica"
   },
   {
-   "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
-   "description": "Nella capitale udita una potente esplosione, in fiamme edifici residenziali",
-   "pub_ts": 1795251493,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
-   "description": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
-   "pub_ts": 1795249440,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-   "description": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
-   "pub_ts": 1795205265,
+   "title": "Kuleba: “Notte da incubo, ma non scapperemo dalle bombe di Putin”",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/kuleba_intervista_guerra_ucraina_russia_putin_attacco_kiev_negoziati-425738858/?rss",
+   "description": "L’ex ministro degli Esteri di Zelensky: “Siamo a pezzi ma finché c’è l’acqua restiamo nella capitale con i figli”",
+   "pub_ts": 1795219200,
    "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "El Salvador, Bukele sfida quattro partiti alle presidenziali del 2027",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/el-salvador-bukele-sfida-quattro-partiti-alle-presidenziali-del-2027_b7d940f4-d985-4744-b6bd-d87bf1fc8354.html",
+   "description": "Voto il 28 febbraio per il mandato esteso da cinque a sei anni",
+   "pub_ts": 1795217305,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
+   "description": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
+   "pub_ts": 1795208831,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
@@ -732,15 +712,6 @@
    "description": "ll debutto di Anthropic a Wall Street mette in evidenza i rischi di un settore gravato da impegni finanziari per centinaia di miliardi di dollari. L'esposizione va oltre le aziende IA, coinvolge il settore del tech ma anche altri comparti",
    "pub_ts": 1795281322,
    "source": "Repubblica Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html",
-   "description": "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
-   "pub_ts": 1795274100,
-   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "tech"
   },
@@ -763,19 +734,19 @@
    "section": "tech"
   },
   {
-   "title": "Stupro di gruppo, inchiesta su un caso che riguarderebbe anche Depardieu e Houellebecq",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/20/stupro-di-gruppo-inchiesta-su-un-caso-che-riguarderebbe-anche-depardieu-e-houellebecq_eb56b288-5863-49f6-8c4d-d2113446714a.html",
-   "description": "'I fatti risalirebbero al 2018 durante le riprese del film Thalasso'",
-   "pub_ts": 1795194048,
-   "source": "ANSA Cultura",
+   "title": "Dalle prime sciate ai bagni in mare: l'Italia divisa tra inverno e primavera",
+   "link": "https://www.rainews.it/video/2026/11/dalle-prime-sciate-ai-bagni-in-mare-litalia-divisa-tra-inverno-e-primavera-92ce85fb-8fc6-4dce-9787-af00886a0b76.html",
+   "description": "Piste aperte in anticipo a Madonna di Campiglio, mercatini di Natale ad Aosta e pellegrini sul ponte votivo a Venezia. In Sicilia, invece, le temperature miti invitano a tornare in spiaggia",
+   "pub_ts": 1795266360,
+   "source": "Rai News",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "Corrado Augias, omaggio della gente alla camera ardente in Campidoglio. Gualtieri: \"Un uomo libero fino alla fine\"",
+   "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-   "description": "Tante persone in fila. Ranucci: \"Nei momenti difficili mi ha dato conforto\"",
-   "pub_ts": 1795279680,
+   "description": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
+   "pub_ts": 1795287430,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -790,11 +761,11 @@
    "section": "varia"
   },
   {
-   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-   "description": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
-   "pub_ts": 1795272792,
-   "source": "ANSA Salute",
+   "title": "Morta Raffaella Curiel, l'intellettuale che vestiva le signore bene",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/21/morta-raffaella-curiel-lintellettuale-che-vestiva-le-signore-bene_f9c6a36c-fde8-42ad-8236-9c8009f2b064.html",
+   "description": "Regina della Prima della Scala, con le sue creazioni anche Thatcher e Clinton",
+   "pub_ts": 1795290898,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
@@ -808,20 +779,29 @@
    "section": "varia"
   },
   {
-   "title": "L'ex capo della Polizia De Gennaro si è ucciso sparandosi. La procura indaga per istigazione al suicidio",
+   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
+   "description": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
+   "pub_ts": 1795182563,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "L'ex capo della Polizia De Gennaro si è ucciso, sconvolto dalle indagini su Via d'Amelio",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
-   "description": "Si è tolto la vita nella sua casa di campagna in Maremma. Anche il Ris al lavoro sul posto",
-   "pub_ts": 1795281120,
+   "description": "L'ex capo della Polizia si spara nella sua casa in campagna. Era atteso dal Riesame",
+   "pub_ts": 1795300084,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali. Fine pena anticipato al 2030 per buona condotta",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
-   "description": "L'ex comandante della Concordia era stato condannato a 16 anni per il naufragio in cui morirono 32 persone",
-   "pub_ts": 1795276613,
-   "source": "ANSA",
+   "title": "Scossa di terremoto nel Vibonese, 4.3 di magnitudo",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/scossa-di-terremoto-nel-vibonese-4.3-di-magnitudo_a71649cd-31c0-41fc-aa50-9c1a8f6773db.html",
+   "description": "Il sisma registrato dall'Ingv alle 22.58",
+   "pub_ts": 1795299840,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "cronaca"
   }
