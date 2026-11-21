@@ -1,6 +1,6 @@
 {
- "generated_at": 1795253382,
- "updated_at": 1795253382,
+ "generated_at": 1795281374,
+ "updated_at": 1795281374,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,18 +10,13 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
-   "summary": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
-   "pub_ts": 1795249440,
-   "n_sources": 7,
+   "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”",
+   "summary": "L'allarme alla vigilia del Thanksgiving, quando sono attesi circa 6 milioni di passeggeri sui voli interni. Fbi e servizi di sicurezza: “Al momento nessuna minaccia specifica e credibile”",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
+   "pub_ts": 1795260920,
+   "n_sources": 5,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
-     "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'"
-    },
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
@@ -33,9 +28,9 @@
      "title": "007 Usa hanno allertato le compagnie aeree, 'Al Qaeda pronta a compiere attacchi'"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/usa-allerta-007-a-compagnie-aeree-su-possibili-attacchi-al-qaeda-54713fec-e25a-433f-a45c-9168d23088f3.html",
-     "title": "Usa: allerta 007 a compagnie aeree su possibili attacchi Al Qaeda"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/allerta-dellintelligence-usa-al-settore-aereo-al-qaeda-fomenta-i-suoi-in-stile-flydubai-y6ty281t",
+     "title": "Allerta dell’intelligence Usa al settore aereo: «Al Qaeda fomenta i suoi» in stile Flydubai"
     },
     {
      "name": "Sole 24 Ore Mondo",
@@ -46,122 +41,6 @@
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/al-qaeda-attacchi-007-usa-compagnie-aeree_6YFD6ZBdGxuiiHdgeYnGzK",
      "title": "Terrorismo, 007 Usa allertano compagnie aeree: \"Al Qaeda pronta a compiere attacchi\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/",
-     "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
-   "summary": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-   "pub_ts": 1795230000,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-     "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-ha-detto-a-europei-e-ucraini-che-vuole-accordo-di-pace-entro-inizio_19e0bb75-30d2-4cac-bc3a-d01063e3bb8d.html",
-     "title": "'Trump ha detto a europei e ucraini che vuole accordo di pace entro inizio gennaio'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/vertice-con-xi-e-putin-trump-incontro-storico-e-riuscito-b015008f-d3d3-4792-bce0-957886505932.html",
-     "title": "Vertice con Xi e Putin, Trump: \"Incontro storico e riuscito\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/",
-     "title": "Trump ha fretta: “Presto la pace in Ucraina, con Putin rapporti fantastici”"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-putin-xi-amici-analisi_6SQ3WJw8zpDrGZd5mc3mic",
-     "title": "Trump: \"Vertice storico con gli amici Putin e Xi\". Russia e Cina hanno altri piani: l'analisi"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/zuppa-di-porro/zuppa-di-porro-del-20-novembre-2026/",
-     "title": "Xi-Trump-Putin, cosa comporta il vertice a tre"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Sciopero generale a Bologna la polizia blocca i manifestanti a manganellate. I video dalle piazze",
-   "summary": "Le immagini dei cortei della Cgil e della mobilitazione studentesca",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sciopero-generale-le-piazze-da-milano-a-napoli_6e8664c2-d3b8-454f-b25f-4d6839031630.html",
-   "pub_ts": 1795232940,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sciopero-generale-le-piazze-da-milano-a-napoli_6e8664c2-d3b8-454f-b25f-4d6839031630.html",
-     "title": "Sciopero generale a Bologna la polizia blocca i manifestanti a manganellate. I video dalle piazze"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/scontri-a-torino-riesame-conferma-due-misure-cautelari-su-15_4fe76c6f-5046-47e8-9059-9a0d1960d9a6.html",
-     "title": "Scontri a Torino, riesame conferma due misure cautelari su 15"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/torino-scontri-manifestanti-polizia-3c6731ee-e1f7-405a-b080-3499123e92e8.html",
-     "title": "Torino, scontri manifestanti-polizia"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/sciopero-generale-manifestazioni-20-novembre-cgil/",
-     "title": "Una giornata di sciopero generale"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/sciopero-generale-italia-in-piazza-contro-il-governo-riarmo-carovita-cgil-studenti-c3bqoebh",
-     "title": "Sciopero generale: l’Italia in piazza contro il governo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
-   "summary": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
-   "pub_ts": 1795239420,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
-     "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/la-furia-di-putin-su-kiev-e-leopoli-due-missili-cadono-in-polonia_6104402c-305d-441e-a983-2c8dfb41bd5e.html",
-     "title": "La furia di Putin su Kiev e Leopoli, due missili cadono in Polonia"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/guerra-in-ucraina-furia-di-putin-su-kiev-e-leopoli-due-missili-cadono-in-polonia-alta-tensione-1c88478b-8e29-44ab-92a1-87774668af2b.html",
-     "title": "Guerra in Ucraina, furia di Putin su Kiev e Leopoli, due missili cadono in Polonia"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/politica/ucraina-volenterosi-meloni_3elpVqdupzh0hY2w3eszgc",
-     "title": "Ucraina, Volenterosi a Berlino. Meloni: \"Cina spinga Putin alla pace\". Trump: \"Perché altri soldi a Kiev?\""
     }
    ]
   },
@@ -176,19 +55,19 @@
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
+     "name": "ANSA Cronaca",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
      "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html",
-     "title": "Sciopero generale, la Cgil: 'Un milione e mezzo in oltre 100 piazze'. Landini: Non ci fermeremo, siamo la maggioranza nel Paese'"
     },
     {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/politica/italia/la-rabbia-riempie-le-piazze-italiane-siamo-un-milione-sciopero-generale-cgil-cento-piazze-manovra-jn18am0v",
      "title": "La rabbia riempie le piazze italiane: «Siamo un milione»"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/20/sciopero-generale-manifestazioni-20-novembre-cgil/",
+     "title": "Una giornata di sciopero generale"
     },
     {
      "name": "Nicola Porro",
@@ -200,148 +79,258 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Sigonella, allarme droni sulla base Usa: deviati voli militari dopo l'avvistamento di un velivolo teleguidato",
-   "summary": "Un velivolo sospetto sarebbe stato avvistato sopra la pista. A un KC-135 Stratotanker è stato ordinato di interrompere l’atterraggio e dirigersi ad Aviano. Nessuna conferma ufficiale sull’accaduto",
-   "link": "https://www.repubblica.it/esteri/2026/11/21/news/sigonella_allarme_drone_base_usa_voli_militari_aviano-425739349/?rss",
-   "pub_ts": 1795251468,
+   "title": "La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
+   "summary": "Il Bureau sta indagando. A settembre sottratti dati personali dei dipendenti",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
+   "pub_ts": 1795279128,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/21/news/sigonella_allarme_drone_base_usa_voli_militari_aviano-425739349/?rss",
-     "title": "Sigonella, allarme droni sulla base Usa: deviati voli militari dopo l'avvistamento di un velivolo teleguidato"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
+     "title": "La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/allarme-droni-sulla-base-usa-di-sigonella-voli-militari-usa-deviati-14a2b7dd-5cc5-4dfe-985e-5511e175e96e.html",
-     "title": "Allarme droni a Sigonella, voli deviati per precauzione ma l'emergenza è rientrata"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/attacco-hacker-database-fbi_3XNc2XEgK6lOrBsvDozias",
+     "title": "Usa, Cnn: \"Nuovo attacco hacker all'Fbi, violato l'archivio criminale\". Trump preoccupato: \"Non mi piace\""
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/droni-sigonella-base-militare-notizie/8579292/",
-     "title": "Sigonella, allarme droni sulla base americana. Media: “Ai voli militari indicato il cambio di rotta”"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/cybersicurezza-nuovo-attacco-hacker-all-fbi-violato-l-archivio-criminale-AJRtdDOC",
+     "title": "Cybersicurezza, «nuovo attacco hacker all’Fbi, violato l’archivio criminale»"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Sabato 21 novembre",
-   "summary": "Le foto dal mondo, man mano che arrivano",
-   "link": "https://www.ilpost.it/2026/11/21/foto-del-giorno-sabato-21-novembre/",
-   "pub_ts": 1795244447,
+   "title": "Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale",
+   "summary": "'Era servitore dello Stato, un grande poliziotto'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/tajani-sconvolto-da-morte-de-gennaro-vittima-di-un-processo-fuori-dal-tribunale_fa3a45d6-c61c-4577-aef3-7360a1aed3d6.html",
+   "pub_ts": 1795263120,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/21/foto-del-giorno-sabato-21-novembre/",
-     "title": "Sabato 21 novembre"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/tajani-sconvolto-da-morte-de-gennaro-vittima-di-un-processo-fuori-dal-tribunale_fa3a45d6-c61c-4577-aef3-7360a1aed3d6.html",
+     "title": "Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/photogallery/2026/11/fotorassegna-stampa-le-prime-pagine-dei-quotidiani-di-sabato-21-novembre-81f35acd-b06b-4be9-a59d-752dbae74836.html",
-     "title": "Fotorassegna stampa, le prime pagine dei quotidiani di sabato 21 novembre"
+     "link": "https://www.rainews.it/video/2026/11/speciale-rainews24-gianni-de-gennaro-la-fine-dello-squalo-da-falcone-al-g8-fino-a-via-damelio-cad9c5a4-372d-423c-9779-a3040db45734.html",
+     "title": "Speciale Rainews24 - La morte di Gianni De Gennaro: da Falcone al G8 fino a via D’Amelio"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/atp-finals-2026-oggi-orari-tv-21-novembre/8578981/",
-     "title": "Atp Finals oggi, il programma di sabato 21 novembre: orari, partite e dove vederle in tv"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/cronaca/2026/11/21/news/gianni_de_gennaro_morto_sparato_casa-425739732/",
+     "title": "Gianni De Gennaro è morto. Si è sparato mentre era solo nella sua casa di campagna in Toscana"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Media, un missile russo a circa 100 km da esercitazione Volenterosi in Polonia",
-   "summary": "Le manovre militari sono in corso dal 9 al 22 novembre",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/media-un-missile-russo-a-circa-100-km-da-esercitazione-volenterosi-in-polonia_b274db9f-55fd-45f3-984d-697724a5d5b1.html",
-   "pub_ts": 1795189825,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/media-un-missile-russo-a-circa-100-km-da-esercitazione-volenterosi-in-polonia_b274db9f-55fd-45f3-984d-697724a5d5b1.html",
-     "title": "Media, un missile russo a circa 100 km da esercitazione Volenterosi in Polonia"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/missile-russo-polonia-esercitazioni-volenterosi_4lZ7rB5t5JrDE3Ikjip75u",
-     "title": "Ucraina, missile russo cade in Polonia a 100 km da esercitazione delle truppe dei Volenterosi. Decollano jet della Nato"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/polonia-missili-droni-russia-ucraina/",
-     "title": "Almeno un missile russo è caduto anche in Polonia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali",
-   "summary": "L’ex premier e ministro degli Esteri, che aveva già corso per l’Eliseo nel 2012, ci riprova a 73 anni: “Decisione importante e difficile”. Lo slogan per superare le divisioni nel Paese: “E se ci volessimo ancora bene?”",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
-   "pub_ts": 1795186360,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
-     "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/dominique-de-villepin-annuncia-la-sua-candidatura-per-leliseo_54331604-ad00-4263-87fd-575586b1d67b.html",
-     "title": "Dominique de Villepin annuncia la sua candidatura per l'Eliseo"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/dominique-de-villepin-candidatura-elezioni-presidenziali-francesi/",
-     "title": "In Francia l’ex primo ministro Dominique de Villepin si è candidato alle elezioni presidenziali"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "A Sigonella accertamenti in corso dopo il possibile sorvolo di droni",
-   "summary": "L'alert ieri sera, i velivoli avrebbero sorvolato sia la base che gli alloggi",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/a-sigonella-accertamenti-in-corso-dopo-il-possibile-sorvolo-di-droni_f2d335b7-be89-4930-bb82-a4ab490d0a88.html",
-   "pub_ts": 1795252742,
+   "title": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'",
+   "summary": "Ministero della Difesa, 'prese di mira anche infrastrutture energetiche'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_bee9fd8f-3084-4348-9c0f-67b54725f3b9.html",
+   "pub_ts": 1795279573,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/a-sigonella-accertamenti-in-corso-dopo-il-possibile-sorvolo-di-droni_f2d335b7-be89-4930-bb82-a4ab490d0a88.html",
-     "title": "A Sigonella accertamenti in corso dopo il possibile sorvolo di droni"
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_bee9fd8f-3084-4348-9c0f-67b54725f3b9.html",
+     "title": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/21/news/sigonella_allarme_drone_base_usa_voli_militari_aviano-425739349/",
-     "title": "Sigonella, allarme droni sulla base Usa: deviati voli militari dopo l'avvistamento di un velivolo teleguidato"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/notte-di-attacchi-in-ucraina-azienda-in-fiamme-a-kryvyi-rih-villaggi-senza-luce-a-sarny-078422c2-3885-4e32-a64c-caee938711b5.html",
+     "title": "Finlandia: presunta violazione spazio aereo. Mosca: nave cargo russa colpita nel Baltico"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'",
+   "summary": "'Un modo per reagire a ciò che avvertiva come una grande ingiustizia'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_39eedb13-3399-4f30-bacf-70d46bed39b7.html",
+   "pub_ts": 1795278376,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_39eedb13-3399-4f30-bacf-70d46bed39b7.html",
+     "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/meloni-profondamente-scioccata-per-de-gennaro.-il-figlio-di-borsellino-potrebbe-essersene-andato_42ef82fc-43b8-4902-a35d-dd280c6de41c.html",
+     "title": "Mattarella chiama il fratello di De Gennaro. Meloni: 'Scioccata'. La Russa: 'Il suicidio è anche coraggio'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'",
+   "summary": "E' uno dei più grandi risarcimenti collettivi della storia americana",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_b5e32c77-675d-454f-aefc-caaff9ebacfe.html",
+   "pub_ts": 1795252260,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_b5e32c77-675d-454f-aefc-caaff9ebacfe.html",
+     "title": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/giudice-usa-la-bayer-paghera-725-miliardi-vittime-diserbante-roundup-AJuQgIOC",
+     "title": "Giudice Usa: «La Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev",
+   "summary": "Nella capitale udita una potente esplosione, in fiamme edifici residenziali",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+   "pub_ts": 1795251493,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+     "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-20-novembre-2026_2CuwrKnJrgjVSA8chjDTXq",
+     "title": "Ucraina, Trump: \"Putin vuole porre fine alla guerra\". Nuovi raid su Kiev e Leopoli: morti e feriti"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
+   "summary": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+   "pub_ts": 1795249440,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+     "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/usa-allerta-007-a-compagnie-aeree-su-possibili-attacchi-al-qaeda-54713fec-e25a-433f-a45c-9168d23088f3.html",
+     "title": "Usa: allerta 007 a compagnie aeree su possibili attacchi Al Qaeda"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
+   "summary": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+   "pub_ts": 1795205265,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+     "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/politica/ucraina-volenterosi-meloni_3elpVqdupzh0hY2w3eszgc",
+     "title": "Ucraina, Volenterosi a Berlino. Meloni: \"Cina spinga Putin alla pace\". Trump: \"Perché altri soldi a Kiev?\""
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk: cosa cambia con il primo Ok alla guida assistita",
-   "summary": "Via libera provvisorio del ministero dei Trasporti al Tesla Assisted Driving. Esultano il miliardario fondatore di Tesla e il suo braccio destro in Italia Andrea Stroppa che parla di via libera alla guida autonoma. Cosa dice il Codice della strada e come funziona il sistema delle auto elettriche di Musk L'articolo La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk:…",
-   "link": "https://www.open.online/2026/11/21/tesla-assisted-driving-ok-salvini-come-funziona/",
-   "pub_ts": 1795246429,
+   "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi",
+   "summary": "ll debutto di Anthropic a Wall Street mette in evidenza i rischi di un settore gravato da impegni finanziari per centinaia di miliardi di dollari. L'esposizione va oltre le aziende IA, coinvolge il settore del tech ma anche altri comparti",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
+   "pub_ts": 1795281322,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/21/tesla-assisted-driving-ok-salvini-come-funziona/",
-     "title": "La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk: cosa cambia con il primo Ok alla guida assistita"
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
+     "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi"
     },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/record-gta-6-379-miliardi-dollari/",
+     "title": "Record per GTA 6: 3,79 miliardi di dollari in un giorno"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/gta-vi-vendite-record-primo-giorno/",
+     "title": "Nel primo giorno di vendite GTA VI ha incassato 3,8 miliardi di dollari, la cifra più alta di sempre per un videogioco al debutto"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/aaa-affittasi-superpetroliera-a-un-milione-di-dollari-al-giorno/",
+     "title": "AAA Affittasi superpetroliera a un milione di dollari al giorno"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'",
+   "summary": "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html",
+   "pub_ts": 1795274100,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html",
+     "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/tassa-aziende-usa-costruiscono-data-center-estero/",
+     "title": "Tassa alle aziende USA che costruiscono data center all’estero"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/trump-tasseremo-molto-aziende-se-costruiscono-data-center-fuori-usa-AJxXbkNC",
+     "title": "Trump: «Tasseremo molto» le aziende se costruiscono data center fuori dagli Usa"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "In Italia è stata approvata la guida semiautonoma delle Tesla",
+   "summary": "È un sistema con cui le auto si manovrano da sole sotto una supervisione umana, ma per vederle per strada ci vorrà ancora un po'",
+   "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
+   "pub_ts": 1795203563,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
     {
      "name": "Il Post",
      "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
@@ -356,33 +345,6 @@
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/salvini-accelera-via-libera-alle-tesla-a-guida-autonoma-in-italia-e-musk-ringrazia/",
      "title": "Salvini accelera: via libera alle Tesla a guida autonoma in Italia. E Musk ringrazia"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi",
-   "summary": "ll debutto di Anthropic a Wall Street mette in evidenza i rischi di un settore gravato da impegni finanziari per centinaia di miliardi di dollari. L'esposizione va oltre le aziende IA, coinvolge il settore del tech ma anche altri comparti",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
-   "pub_ts": 1795247837,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
-     "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/21/gta-vi-vendite-record-primo-giorno/",
-     "title": "Nel primo giorno di vendite GTA VI ha incassato 3,8 miliardi di dollari, la cifra più alta di sempre per un videogioco al debutto"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/anthropic-ipo-record-da-935-miliardi-di-dollari/",
-     "title": "Anthropic: IPO record da 93,5 miliardi di dollari"
     }
    ]
   },
@@ -405,23 +367,6 @@
      "name": "ANSA Tecnologia",
      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/20/anthropic-apre-in-calo-a-wall-street-nella-seconda-giornata-di-scambi_e524be34-039f-4d4f-89ef-60b335edd286.html",
      "title": "Anthropic apre in calo a Wall Street nella seconda giornata di scambi"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie",
-   "summary": "Quanti soldi serviranno nel 2027 all’Ucraina per sopravvivere, tre storie dal Ruanda, una industria europea sorprendentemente dinamica e il rimpianto di una persona che non ha mai praticato sport di squadra",
-   "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
-   "pub_ts": 1795244455,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
-     "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie"
     }
    ]
   },
@@ -471,73 +416,37 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
-   "summary": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
-   "pub_ts": 1795241460,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
-     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_c5c88c73-5622-4a34-831d-b7f23f6987e0.html",
-     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana-c91f7f81-a34c-4d4e-8e22-7328fad51755.html",
-     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Nativi digitali, smart ma emotivamente fragili",
-   "summary": "Progetto 'A new mind\" del Gemelli: ansia e depressione per il 44%",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/20/nativi-digitali-smart-ma-emotivamente-fragili_85d8d7f8-9d54-46f5-b052-80073b6f9b5c.html",
-   "pub_ts": 1795239660,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/20/nativi-digitali-smart-ma-emotivamente-fragili_85d8d7f8-9d54-46f5-b052-80073b6f9b5c.html",
-     "title": "Nativi digitali, smart ma emotivamente fragili"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/nativi-digitali-smart-ma-emotivamente-fragili-76788f23-436d-4909-b5f4-4344411af536.html",
-     "title": "Nativi digitali, smart ma emotivamente fragili"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Si esplorano a Pordenone lingue e linguaggi nell'opera di Pasolini",
-   "summary": "Il 25 novembre evento della Dante Alighieri con l'Accademia della Crusca",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/20/si-esplorano-a-pordenone-lingue-e-linguaggi-nellopera-di-pasolini_e901fc61-7b76-4c75-adfb-429e6b118f0d.html",
-   "pub_ts": 1795191795,
-   "n_sources": 2,
+   "title": "Corrado Augias, omaggio della gente alla camera ardente in Campidoglio. Gualtieri: \"Un uomo libero fino alla fine\"",
+   "summary": "Tante persone in fila. Ranucci: \"Nei momenti difficili mi ha dato conforto\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
+   "pub_ts": 1795279680,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/20/si-esplorano-a-pordenone-lingue-e-linguaggi-nellopera-di-pasolini_e901fc61-7b76-4c75-adfb-429e6b118f0d.html",
-     "title": "Si esplorano a Pordenone lingue e linguaggi nell'opera di Pasolini"
+     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
+     "title": "Corrado Augias, omaggio della gente alla camera ardente in Campidoglio. Gualtieri: \"Un uomo libero fino alla fine\""
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/lultimo-addio-a-corrado-augias-giornalista-libero-e-uomo-colto-in-centinaia-in-campidoglio-funerali-funerale-augias-camera-ardente-21a94815-70f7-40c4-aaf6-c20052d84fc2.html",
+     "title": "L'ultimo addio a Corrado Augias, giornalista libero e uomo colto. In centinaia in Campidoglio"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/ultimo-saluto-a-corrado-augias-migliaia-di-persone-alla-camera-ardente-campidoglio-outc1vhr",
+     "title": "L’ultimo saluto a Corrado Augias: migliaia di persone alla camera ardente"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://roma.repubblica.it/cronaca/2026/11/21/diretta/corrado_augias_morto_camera_ardente_roma_campidoglio_oggi-425739692/",
+     "title": "Augias, camera ardente in Campidoglio. Gualtieri: “La sua voce ci mancherà tantissimo” | La diretta"
     },
     {
      "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/pasolini-la-lingua-e-il-potere-a-pordenone-un-convegno-per-rileggere-il-suo-pensiero_5HwBJDgXdNF0cv3ELid5DW",
-     "title": "Pasolini, la lingua e il potere: a Pordenone un convegno per rileggere il suo pensiero"
+     "link": "https://www.adnkronos.com/cultura/aperta-la-camera-ardente-di-corrado-augias-larrivo-del-feretro-al-campidoglio-video_6ZXw5AN2pzId7N1ZgGpOO2",
+     "title": "Aperta la camera ardente di Corrado Augias, l'arrivo del feretro al Campidoglio"
     }
    ],
    "subtype": "cultura"
@@ -545,17 +454,55 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Appello scienziati a Mattarella su commissione Covid, 'Difendere scienza'",
-   "summary": "'Medici, ricercatori e scienziati vengono esposti a forme di delegittimazione pubblica'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/20/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza_a615097d-e2e3-47a4-8765-dc45c84bef6a.html",
-   "pub_ts": 1795177300,
+   "title": "Morto Paolo Bulgari, il \"Re\" dell'alta gioielleria",
+   "summary": "L'omaggio di Arnault: 'Artefice chiave del successo del marchio'",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/21/morto-paolo-bulgari-grande-gioielliere-aveva-89-anni_638fc3ea-0eef-45d0-abf3-6c92929a1619.html",
+   "pub_ts": 1795279406,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/21/morto-paolo-bulgari-grande-gioielliere-aveva-89-anni_638fc3ea-0eef-45d0-abf3-6c92929a1619.html",
+     "title": "Morto Paolo Bulgari, il \"Re\" dell'alta gioielleria"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/21/addio-a-paolo-bulgari-il-re-dellalta-gioielleria_93a94201-3355-4917-ba26-e518e1ba8abf.html",
+     "title": "Addio a Paolo Bulgari, il \"Re\" dell'alta gioielleria"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/addio-a-paolo-bulgari-lerede-della-maison-che-ha-trasformato-i-gioielli-in-un-linguaggio-di-stile-c7536c4d-3afa-41f0-91fc-c1e1622b7103.html",
+     "title": "Addio a Paolo Bulgari, l'erede della maison che ha trasformato i gioielli in un linguaggio di stile"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/paolo-bulgari-gioielli-morte/",
+     "title": "È morto Paolo Bulgari, che guidò per molti anni l’azienda di gioielli Bulgari, fondata da suo nonno"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/e-morto-paolo-bulgari-designer-e-figura-emblematica-nel-panorama-dellalta-gioielleria-mondiale-la-famiglia-aveva-una-profonda-umanita-e-talento/8579586/",
+     "title": "È morto Paolo Bulgari, designer e figura emblematica nel panorama dell’alta gioielleria mondiale. La famiglia: “Aveva una profonda umanità e talento”"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
+   "summary": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
+   "pub_ts": 1795272792,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/20/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza_a615097d-e2e3-47a4-8765-dc45c84bef6a.html",
-     "title": "Appello scienziati a Mattarella su commissione Covid, 'Difendere scienza'"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
+     "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato"
     },
     {
      "name": "Il Post",
@@ -566,24 +513,109 @@
    "subtype": "scienza"
   },
   {
+   "category": "varia",
+   "area": null,
+   "title": "Tumore alla gola e Hpv, cosa ci insegna la storia di Paola Barale",
+   "summary": "Il caso della conduttrice riporta l'attenzione sui tumori correlati a questo virus, che possono colpire diversi organi, non solo il collo dell’utero. Ecco cosa è importante sapere per orientarsi correttamente",
+   "link": "https://www.repubblica.it/salute/rubriche/saluteseno/2026/11/20/news/tumore_alla_gola_e_hpv_cosa_ci_insegna_la_storia_di_paola_barale-425737996/?rss",
+   "pub_ts": 1795272586,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/rubriche/saluteseno/2026/11/20/news/tumore_alla_gola_e_hpv_cosa_ci_insegna_la_storia_di_paola_barale-425737996/?rss",
+     "title": "Tumore alla gola e Hpv, cosa ci insegna la storia di Paola Barale"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/quando-mi-hanno-diagnosticato-il-tumore-ho-pensato-a-una-cosa-sola-i-miei-figli-avranno-tanti-ricordi-bellissimi-di-noi-insieme-ho-lasciato-la-carriera-di-avvocato-per-stare-con-loro-la-storia/8579679/",
+     "title": "“Quando mi hanno diagnosticato il tumore ho pensato a una cosa sola: i miei figli avranno tanti ricordi bellissimi di noi insieme. Ho lasciato la carriera di avvocato per stare con loro”: la storia di Kate Loweth"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
    "category": "cronaca",
    "area": null,
-   "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali",
-   "summary": "L'ex comandante della Concordia condannato a 16 anni per il naufragio in cui morirono 32 persone",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
-   "pub_ts": 1795252870,
+   "title": "L'ex capo della Polizia De Gennaro si è ucciso sparandosi. La procura indaga per istigazione al suicidio",
+   "summary": "Si è tolto la vita nella sua casa di campagna in Maremma. Anche il Ris al lavoro sul posto",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
+   "pub_ts": 1795281120,
    "n_sources": 8,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
-     "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
+     "title": "L'ex capo della Polizia De Gennaro si è ucciso sparandosi. La procura indaga per istigazione al suicidio"
     },
     {
      "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_a0c83b8e-8377-44c0-8669-ef06b979b266.html",
-     "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/de-gennaro-procura-di-grosseto-indaga-per-istigazione-al-suicidio_75c72f5e-a467-4649-a009-9abc2fa78604.html",
+     "title": "De Gennaro: Procura di Grosseto indaga per istigazione al suicidio"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/ex-capo-della-polizia-de-gennaro-si-e-ucciso-si-e-sparato-inchiesta-depistaggio-agenda-rossa-borsellino-mafia-d1d97a77-56f0-4bd1-b04c-d1405f5c7ca7.html",
+     "title": "La morte di De Gennaro, la Procura di Grosseto indaga per istigazione al suicidio"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/de-gennaro-suicidio-indagine-istigazione-suicidio/",
+     "title": "La procura di Grosseto ha aperto un’indagine per istigazione al suicidio sulla morte di Gianni De Gennaro"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/21/de-gennaro-suicidio-reazioni-diretta/",
+     "title": "De Gennaro trovato morto, la procura indaga per istigazione al suicidio. Mattarella chiama il fratello – La diretta"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/gianni-de-gennaro-le-ultime-ore-nella-villa-in-toscana-indagine-antimafia-ipotesi-istigazione-suicidio-c57ap2gr",
+     "title": "De Gennaro: le ultime ore nella villa in Toscana e l’indagine dell’antimafia. L'ipotesi è istigazione al suicidio"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/21/diretta/de_gennaro_morto_suicidio_capo_polizia_indagato_borsellino_falcone_news_oggi-425739807/",
+     "title": "De Gennaro, Mattarella chiama il fratello Andrea. Salvatore Borsellino: istigazione al suicidio"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/de-gennaro-il-fratello-di-borsellino-pm-colpevoli-di-istigazione-al-suicidio/",
+     "title": "De Gennaro, il fratello di Borsellino: “Pm colpevoli di istigazione al suicidio”"
+    }
+   ]
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali. Fine pena anticipato al 2030 per buona condotta",
+   "summary": "L'ex comandante della Concordia era stato condannato a 16 anni per il naufragio in cui morirono 32 persone",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
+   "pub_ts": 1795276613,
+   "n_sources": 7,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
+     "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali. Fine pena anticipato al 2030 per buona condotta"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-fine-pena-anticipato-a-luglio-2030-per-buona-condotta_b1706e65-61d7-4a22-ae7d-e46c246eaaa5.html",
+     "title": "Schettino, fine pena anticipato a luglio 2030 per buona condotta"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/21/schettino-fuori-carcere-strage-costa-concordia/",
+     "title": "Schettino torna a casa, l’ex comandante della Concordia fuori dal carcere dopo 9 anni. Il fine pena anticipato al 2030 per buona condotta"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/naufragio-della-costa-concordia-schettino-lascia-il-carcere-dopo-nove-anni-266ff0d9-ed96-4266-bce9-32f4adac23fc.html",
+     "title": "Naufragio della Costa Concordia, Schettino lascia il carcere dopo nove anni: libero da luglio 2030"
     },
     {
      "name": "Domani",
@@ -591,24 +623,9 @@
      "title": "Costa Concordia, Schettino lascia il carcere dopo nove anni. Affidato ai servizi sociali"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/21/schettino-fuori-carcere-strage-costa-concordia/",
-     "title": "Schettino torna a casa, l’ex comandante della Concordia fuori dal carcere dopo 9 anni: la condanna dopo la strage e i servizi sociali"
-    },
-    {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/cronaca/2026/11/21/news/concordia_schettino_lascia_carcere_giglio_servizi_sociali-425739614/",
      "title": "Tragedia della Concordia. L’ex comandante Schettino ha lasciato il carcere dopo nove anni e mezzo"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/naufragio-della-costa-concordia-schettino-lascia-il-carcere-dopo-nove-anni-266ff0d9-ed96-4266-bce9-32f4adac23fc.html",
-     "title": "Naufragio della Costa Concordia, Schettino lascia il carcere dopo nove anni"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/schettino-carcere-affidamento-servizi-sociali-notizie/8579308/",
-     "title": "Tragedia della Costa Concordia, Schettino esce dal carcere dopo 9 anni. La legale: “Tanta soddisfazione, c’erano i requisiti”"
     },
     {
      "name": "Nicola Porro",
@@ -616,73 +633,14 @@
      "title": "Schettino è uscito dal carcere"
     }
    ]
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev",
-   "summary": "Nella capitale udita una potente esplosione, in fiamme edifici residenziali",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
-   "pub_ts": 1795251493,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
-     "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/notte-di-attacchi-in-ucraina-azienda-in-fiamme-a-kryvyi-rih-villaggi-senza-luce-a-sarny-078422c2-3885-4e32-a64c-caee938711b5.html",
-     "title": "Notte di attacchi in Ucraina: due morti a Kryvyi Rih, villaggi senza luce a Sarny, droni su Kiev"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/21/diretta/guerra_ucraina_russia_news_oggi-425739343/",
-     "title": "Guerra Ucraina - Russia, le news di oggi. Raid russo su Kryvyi Rih: due morti e 42 feriti. Colpito un asilo a Zaporizhzhia"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-20-novembre-2026_2CuwrKnJrgjVSA8chjDTXq",
-     "title": "Ucraina, Trump: \"Putin vuole porre fine alla guerra\". Nuovi raid su Kiev e Leopoli: morti e feriti"
-    }
-   ]
   }
  ],
  "articles": [
   {
-   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
-   "description": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
-   "pub_ts": 1795249440,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
-   "description": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
-   "pub_ts": 1795230000,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Sciopero generale a Bologna la polizia blocca i manifestanti a manganellate. I video dalle piazze",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sciopero-generale-le-piazze-da-milano-a-napoli_6e8664c2-d3b8-454f-b25f-4d6839031630.html",
-   "description": "Le immagini dei cortei della Cgil e della mobilitazione studentesca",
-   "pub_ts": 1795232940,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Raid su Ucraina e Polonia, Putin vuole svuotare Kiev e avvertire i Volenterosi",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/vendetta_putin_pioggia_di_missili_ucraina_leopoli_kiev-425737594/?rss",
-   "description": "La vendetta per il ponte di Kerch si abbatte sulla rete elettrica. Tre cruise esplodono oltre il confine. Tusk: “È una provocazione”",
-   "pub_ts": 1795239420,
+   "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
+   "description": "L'allarme alla vigilia del Thanksgiving, quando sono attesi circa 6 milioni di passeggeri sui voli interni. Fbi e servizi di sicurezza: “Al momento nessuna minaccia specifica e credibile”",
+   "pub_ts": 1795260920,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
@@ -692,70 +650,106 @@
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
    "description": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
    "pub_ts": 1795208831,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html",
+   "description": "Il Bureau sta indagando. A settembre sottratti dati personali dei dipendenti",
+   "pub_ts": 1795279128,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/tajani-sconvolto-da-morte-de-gennaro-vittima-di-un-processo-fuori-dal-tribunale_fa3a45d6-c61c-4577-aef3-7360a1aed3d6.html",
+   "description": "'Era servitore dello Stato, un grande poliziotto'",
+   "pub_ts": 1795263120,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_bee9fd8f-3084-4348-9c0f-67b54725f3b9.html",
+   "description": "Ministero della Difesa, 'prese di mira anche infrastrutture energetiche'",
+   "pub_ts": 1795279573,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_39eedb13-3399-4f30-bacf-70d46bed39b7.html",
+   "description": "'Un modo per reagire a ciò che avvertiva come una grande ingiustizia'",
+   "pub_ts": 1795278376,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_b5e32c77-675d-454f-aefc-caaff9ebacfe.html",
+   "description": "E' uno dei più grandi risarcimenti collettivi della storia americana",
+   "pub_ts": 1795252260,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
+   "description": "Nella capitale udita una potente esplosione, in fiamme edifici residenziali",
+   "pub_ts": 1795251493,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Sigonella, allarme droni sulla base Usa: deviati voli militari dopo l'avvistamento di un velivolo teleguidato",
-   "link": "https://www.repubblica.it/esteri/2026/11/21/news/sigonella_allarme_drone_base_usa_voli_militari_aviano-425739349/?rss",
-   "description": "Un velivolo sospetto sarebbe stato avvistato sopra la pista. A un KC-135 Stratotanker è stato ordinato di interrompere l’atterraggio e dirigersi ad Aviano. Nessuna conferma ufficiale sull’accaduto",
-   "pub_ts": 1795251468,
+   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+   "description": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
+   "pub_ts": 1795249440,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "“Per Putin un brutto periodo”, Trump punta alla pace a gennaio",
+   "link": "https://www.repubblica.it/esteri/2026/11/20/news/trump_trilaterale_shenzhen_conferenza_stampa_cina_russia_nucleare_iran_guerra-425738647/?rss",
+   "description": "Conferenza stampa dopo il rientro dalla Cina: “Anche l’Iran vuole un accordo, ma non è ancora pronto a farne uno che vada bene a me”",
+   "pub_ts": 1795205265,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
-  },
-  {
-   "title": "Sabato 21 novembre",
-   "link": "https://www.ilpost.it/2026/11/21/foto-del-giorno-sabato-21-novembre/",
-   "description": "Le foto dal mondo, man mano che arrivano",
-   "pub_ts": 1795244447,
-   "source": "Il Post",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Media, un missile russo a circa 100 km da esercitazione Volenterosi in Polonia",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/media-un-missile-russo-a-circa-100-km-da-esercitazione-volenterosi-in-polonia_b274db9f-55fd-45f3-984d-697724a5d5b1.html",
-   "description": "Le manovre militari sono in corso dal 9 al 22 novembre",
-   "pub_ts": 1795189825,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Francia, Villepin annuncia la candidatura ufficiale alle elezioni presidenziali",
-   "link": "https://www.repubblica.it/esteri/2026/11/20/news/francia_villepin_annuncia_candidatura_ufficiale_elezioni_presidenziali-425738000/?rss",
-   "description": "L’ex premier e ministro degli Esteri, che aveva già corso per l’Eliseo nel 2012, ci riprova a 73 anni: “Decisione importante e difficile”. Lo slogan per superare le divisioni nel Paese: “E se ci volessimo ancora bene?”",
-   "pub_ts": 1795186360,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "A Sigonella accertamenti in corso dopo il possibile sorvolo di droni",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/a-sigonella-accertamenti-in-corso-dopo-il-possibile-sorvolo-di-droni_f2d335b7-be89-4930-bb82-a4ab490d0a88.html",
-   "description": "L'alert ieri sera, i velivoli avrebbero sorvolato sia la base che gli alloggi",
-   "pub_ts": 1795252742,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk: cosa cambia con il primo Ok alla guida assistita",
-   "link": "https://www.open.online/2026/11/21/tesla-assisted-driving-ok-salvini-come-funziona/",
-   "description": "Via libera provvisorio del ministero dei Trasporti al Tesla Assisted Driving. Esultano il miliardario fondatore di Tesla e il suo braccio destro in Italia Andrea Stroppa che parla di via libera alla guida autonoma. Cosa dice il Codice della strada e come funziona il sistema delle auto elettriche di Musk L'articolo La Tesla che evita gli incidenti da sola anche in Italia, Salvini fa felice Musk:…",
-   "pub_ts": 1795246429,
-   "source": "Open",
-   "source_priority": 1,
-   "section": "tech"
   },
   {
    "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi",
    "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
    "description": "ll debutto di Anthropic a Wall Street mette in evidenza i rischi di un settore gravato da impegni finanziari per centinaia di miliardi di dollari. L'esposizione va oltre le aziende IA, coinvolge il settore del tech ma anche altri comparti",
-   "pub_ts": 1795247837,
+   "pub_ts": 1795281322,
    "source": "Repubblica Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/trump-se-i-big-tech-costruiranno-i-data-center-allestero-li-tasseremo-pesantemente_9d2bf859-92ca-4c70-a3fe-7b7d2c981e28.html",
+   "description": "'Non permetterò che vengano collocati in altri Paesi, la Cina se li prenderebbe tutti'",
+   "pub_ts": 1795274100,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "In Italia è stata approvata la guida semiautonoma delle Tesla",
+   "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
+   "description": "È un sistema con cui le auto si manovrano da sole sotto una supervisione umana, ma per vederle per strada ci vorrà ancora un po'",
+   "pub_ts": 1795203563,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "tech"
   },
@@ -769,15 +763,6 @@
    "section": "tech"
   },
   {
-   "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie",
-   "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
-   "description": "Quanti soldi serviranno nel 2027 all’Ucraina per sopravvivere, tre storie dal Ruanda, una industria europea sorprendentemente dinamica e il rimpianto di una persona che non ha mai praticato sport di squadra",
-   "pub_ts": 1795244455,
-   "source": "Il Post",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
    "title": "Stupro di gruppo, inchiesta su un caso che riguarderebbe anche Depardieu e Houellebecq",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/20/stupro-di-gruppo-inchiesta-su-un-caso-che-riguarderebbe-anche-depardieu-e-houellebecq_eb56b288-5863-49f6-8c4d-d2113446714a.html",
    "description": "'I fatti risalirebbero al 2018 durante le riprese del film Thalasso'",
@@ -787,55 +772,55 @@
    "section": "varia"
   },
   {
-   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
-   "description": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
-   "pub_ts": 1795241460,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Nativi digitali, smart ma emotivamente fragili",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/11/20/nativi-digitali-smart-ma-emotivamente-fragili_85d8d7f8-9d54-46f5-b052-80073b6f9b5c.html",
-   "description": "Progetto 'A new mind\" del Gemelli: ansia e depressione per il 44%",
-   "pub_ts": 1795239660,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Si esplorano a Pordenone lingue e linguaggi nell'opera di Pasolini",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/20/si-esplorano-a-pordenone-lingue-e-linguaggi-nellopera-di-pasolini_e901fc61-7b76-4c75-adfb-429e6b118f0d.html",
-   "description": "Il 25 novembre evento della Dante Alighieri con l'Accademia della Crusca",
-   "pub_ts": 1795191795,
+   "title": "Corrado Augias, omaggio della gente alla camera ardente in Campidoglio. Gualtieri: \"Un uomo libero fino alla fine\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
+   "description": "Tante persone in fila. Ranucci: \"Nei momenti difficili mi ha dato conforto\"",
+   "pub_ts": 1795279680,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Appello scienziati a Mattarella su commissione Covid, 'Difendere scienza'",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/20/appello-scienziati-a-mattarella-su-commissione-covid-difendere-scienza_a615097d-e2e3-47a4-8765-dc45c84bef6a.html",
-   "description": "'Medici, ricercatori e scienziati vengono esposti a forme di delegittimazione pubblica'",
-   "pub_ts": 1795177300,
+   "title": "Morto Paolo Bulgari, il \"Re\" dell'alta gioielleria",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/21/morto-paolo-bulgari-grande-gioielliere-aveva-89-anni_638fc3ea-0eef-45d0-abf3-6c92929a1619.html",
+   "description": "L'omaggio di Arnault: 'Artefice chiave del successo del marchio'",
+   "pub_ts": 1795279406,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
+   "description": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
+   "pub_ts": 1795272792,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
-   "description": "L'ex comandante della Concordia condannato a 16 anni per il naufragio in cui morirono 32 persone",
-   "pub_ts": 1795252870,
+   "title": "Tumore alla gola e Hpv, cosa ci insegna la storia di Paola Barale",
+   "link": "https://www.repubblica.it/salute/rubriche/saluteseno/2026/11/20/news/tumore_alla_gola_e_hpv_cosa_ci_insegna_la_storia_di_paola_barale-425737996/?rss",
+   "description": "Il caso della conduttrice riporta l'attenzione sui tumori correlati a questo virus, che possono colpire diversi organi, non solo il collo dell’utero. Ecco cosa è importante sapere per orientarsi correttamente",
+   "pub_ts": 1795272586,
+   "source": "Repubblica Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "L'ex capo della Polizia De Gennaro si è ucciso sparandosi. La procura indaga per istigazione al suicidio",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
+   "description": "Si è tolto la vita nella sua casa di campagna in Maremma. Anche il Ris al lavoro sul posto",
+   "pub_ts": 1795281120,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "Nuova notte di attacchi in Ucraina, morti e feriti. Missile russo anche su Kiev",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/nuova-notte-di-attacchi-in-ucraina-morti-e-feriti.-missile-russo-anche-su-kiev_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
-   "description": "Nella capitale udita una potente esplosione, in fiamme edifici residenziali",
-   "pub_ts": 1795251493,
+   "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali. Fine pena anticipato al 2030 per buona condotta",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_3dc58141-2a75-43e8-8aab-fc1b0adc999f.html",
+   "description": "L'ex comandante della Concordia era stato condannato a 16 anni per il naufragio in cui morirono 32 persone",
+   "pub_ts": 1795276613,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
