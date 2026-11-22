@@ -1,6 +1,6 @@
 {
- "generated_at": 1795301887,
- "updated_at": 1795301887,
+ "generated_at": 1795316337,
+ "updated_at": 1795316337,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,13 +10,18 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Alta tensione nel mar Baltico, colpita una nave cargo russa",
-   "summary": "Il premier finlandese: 'La guerra si estende'. Mosca attacca un mercantile a sud di Odessa",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/alta-tensione-nel-mar-baltico-colpita-una-nave-cargo-russa-_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
-   "pub_ts": 1795300200,
-   "n_sources": 6,
+   "title": "Il fronte del Mar Baltico, la nave delle armi russa colpita da un raid di Kiev",
+   "summary": "La “Sparta II” attaccata nel Golfo della Finlandia: da anni si ritiene trasporti armamenti. L’Ucraina prova a isolare San Pietroburgo",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/fronte_mar_baltico_finlandia_nave_armi_russa_colpita_raid_kiev-425740634/?rss",
+   "pub_ts": 1795314660,
+   "n_sources": 8,
    "documented": true,
    "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/fronte_mar_baltico_finlandia_nave_armi_russa_colpita_raid_kiev-425740634/?rss",
+     "title": "Il fronte del Mar Baltico, la nave delle armi russa colpita da un raid di Kiev"
+    },
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/alta-tensione-nel-mar-baltico-colpita-una-nave-cargo-russa-_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
@@ -29,8 +34,13 @@
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/notte-di-attacchi-in-ucraina-azienda-in-fiamme-a-kryvyi-rih-villaggi-senza-luce-a-sarny-078422c2-3885-4e32-a64c-caee938711b5.html",
-     "title": "Finlandia: presunta violazione spazio aereo. Mosca: nave cargo russa colpita nel Baltico"
+     "link": "https://www.rainews.it/maratona/2026/11/guerra-russia-ucraina-il-fronte-dei-mari-mosca-e-kiev-attaccano-le-navi-cargo-maratona-bbb11997-543b-4be3-9692-448b9e84a742.html",
+     "title": "Il fronte dei mari, bombe di Mosca e Kiev sulle navi cargo"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/fronte_mar_baltico_finlandia_nave_armi_russa_colpita_raid_kiev-425740634/",
+     "title": "Il fronte del Mar Baltico, la nave delle armi russa colpita da un raid di Kiev"
     },
     {
      "name": "Open",
@@ -56,7 +66,7 @@
    "summary": "È la seconda volta in due mesi che il sistema informatico dell’agenzia federale di investigazione americana viene violata. Il direttore Kash Patel, nelle stesse ore in cui era emerso l’hackeraggio, era andato a Fox News per esaltare il lavoro fatto nel campo della sicurezza...",
    "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_nuovo_attacco_hacker_fbi_violata_banca_dati_criminali-425740582/?rss",
    "pub_ts": 1795290611,
-   "n_sources": 5,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -78,43 +88,6 @@
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/l-fbi-indaga-attacco-hacker-suo-database-AJbg4kOC",
      "title": "L’Fbi indaga su attacco hacker al suo database"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/attacco-hacker-database-fbi_3XNc2XEgK6lOrBsvDozias",
-     "title": "Usa, Cnn: \"Nuovo attacco hacker all'Fbi, violato l'archivio criminale\". Trump preoccupato: \"Non mi piace\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'",
-   "summary": "Le opposizioni contro gli emendamenti di Delmastro: 'Garantista solo con se stesso'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
-   "pub_ts": 1795293217,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
-     "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/21/stop-borse-studio-studenti-proteste-emendamento-delmastro/",
-     "title": "Via le borse di studio agli studenti violenti delle proteste, anche senza condanna: ecco cosa c’è negli emendamenti di FdI"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/21/news/fdi_stretta_studenti_manifestanti_borse_di_studio_e_paghino_i_danni_delle_occupazioni-425739795/",
-     "title": "Stretta FdI su studenti e manifestanti: “Via le borse di studio e paghino i danni delle occupazioni”"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/decreto-sicurezza-borse-studio-studenti-indagati-notizie/8579795/",
-     "title": "FdI vuole sospendere le borse di studio agli studenti indagati. Schlein: “Delirante”. Conte: “Repressione per chi protesta e scudo per chi è in Parlamento”"
     }
    ]
   },
@@ -153,11 +126,131 @@
   {
    "category": "politica",
    "area": "italia",
+   "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'",
+   "summary": "Le opposizioni contro gli emendamenti di Delmastro: 'Garantista solo con se stesso'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
+   "pub_ts": 1795293217,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
+     "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/21/stop-borse-studio-studenti-proteste-emendamento-delmastro/",
+     "title": "Via le borse di studio agli studenti violenti delle proteste, anche senza condanna: ecco cosa c’è negli emendamenti di FdI"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/decreto-sicurezza-borse-studio-studenti-indagati-notizie/8579795/",
+     "title": "FdI vuole sospendere le borse di studio agli studenti indagati. Schlein: “Delirante”. Conte: “Repressione per chi protesta e scudo per chi è in Parlamento”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Hackerato l'archivio FBI, Trump: \"Non mi piace, ma forse scopriremo delle cose\"",
+   "summary": "Il presidente americano alla Fox parla di Iran e Ucraina, poi si lascia andare sull'attacco alla banca dati dell'FBI: \"Non è cosa buona ma forse scopriremo cose che altrimenti non avremmo mai scoperto”",
+   "link": "https://www.rainews.it/video/2026/11/hackerato-archivio-fbi-trump-non-mi-piace-ma-forse-scopriremo-delle-cose-lo-savio-ny-a8c54ef8-3621-48be-8b71-4b1194017652.html",
+   "pub_ts": 1795306740,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/hackerato-archivio-fbi-trump-non-mi-piace-ma-forse-scopriremo-delle-cose-lo-savio-ny-a8c54ef8-3621-48be-8b71-4b1194017652.html",
+     "title": "Hackerato l'archivio FBI, Trump: \"Non mi piace, ma forse scopriremo delle cose\""
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/attacco-hacker-database-fbi_3XNc2XEgK6lOrBsvDozias",
+     "title": "Usa, Cnn: \"Nuovo attacco hacker all'Fbi, violato l'archivio criminale\". Trump preoccupato: \"Non mi piace\""
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/cybersicurezza-nuovo-attacco-hacker-all-fbi-violato-l-archivio-criminale-AJRtdDOC",
+     "title": "Cybersicurezza, «nuovo attacco hacker all’Fbi, violato l’archivio criminale»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "La telefonata di cordoglio di Mattarella al fratello di De Gennaro",
+   "summary": "Il presidente della Repubblica sente il comandante generale della Gdf",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-telefonata-di-cordoglio-di-mattarella-al-fratello-di-de-gennaro_dd7d8d59-74d2-4f59-b721-58e030265842.html",
+   "pub_ts": 1795308874,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-telefonata-di-cordoglio-di-mattarella-al-fratello-di-de-gennaro_dd7d8d59-74d2-4f59-b721-58e030265842.html",
+     "title": "La telefonata di cordoglio di Mattarella al fratello di De Gennaro"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://firenze.repubblica.it/cronaca/2026/11/22/news/de_gennaro_fratello_famiglia_mattarella-425741274/",
+     "title": "De Gennaro: la famiglia, l’allarme, poi lo shock. Mattarella sente il fratello generale"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Clima, la Cop a rischio fallimento. La Ue frena la lobby dei fossili",
+   "summary": "Ultima notte di negoziati, manca la bozza finale per le scissioni tra i due blocchi. Europa e Sud globale contro sauditi e alleati: “Vogliono una licenza per inquinare”",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/clima_cop31_rischio_fallimento_ue_frena_lobby_fossili-425740804/?rss",
+   "pub_ts": 1795306680,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/clima_cop31_rischio_fallimento_ue_frena_lobby_fossili-425740804/?rss",
+     "title": "Clima, la Cop a rischio fallimento. La Ue frena la lobby dei fossili"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/clima-scontro-sulle-fonti-fossili-la-cop31-su-orlo-del-fallimento-bellomo-grifoni-5a036bed-0dc0-4047-9285-4c19352d4d4e.html",
+     "title": "Clima, scontro sulle fonti fossili. La COP31 sull'orlo del fallimento"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Israele, Eisenkot ora ha fretta: prende corpo l’ipotesi di un governo di minoranza",
+   "summary": "Per liberarsi di Netanyahu e superare i veti degli alleati, il premier incaricato medita di andare alla conta nell’aula della Knesset",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/israele_eisenkot_ora_ha_fretta_ipotesi_governo_di_minoranza-425740888/?rss",
+   "pub_ts": 1795305600,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/israele_eisenkot_ora_ha_fretta_ipotesi_governo_di_minoranza-425740888/?rss",
+     "title": "Israele, Eisenkot ora ha fretta: prende corpo l’ipotesi di un governo di minoranza"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/israele_eisenkot_ora_ha_fretta_ipotesi_governo_di_minoranza-425740888/",
+     "title": "Israele, Eisenkot ora ha fretta: prende corpo l’ipotesi di un governo di minoranza"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'",
    "summary": "'Un modo per reagire a ciò che avvertiva come una grande ingiustizia'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_39eedb13-3399-4f30-bacf-70d46bed39b7.html",
    "pub_ts": 1795284814,
-   "n_sources": 3,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
@@ -166,107 +259,9 @@
      "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/21/diretta/de_gennaro_morto_suicidio_capo_polizia_indagato_borsellino_falcone_news_oggi-425739807/",
-     "title": "De Gennaro, Mattarella chiama il fratello Andrea. Salvatore Borsellino: istigazione al suicidio"
-    },
-    {
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/21/de-gennaro-suicidio-la-russa-coraggio-notizie/8579844/",
      "title": "“De Gennaro? A volte il suicidio è anche coraggio”: così il presidente del Senato La Russa"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Dominique de Villepin scende in campo per l'Eliseo: \"Salviamo una democrazia bloccata\"",
-   "summary": "A 73 anni l'ex premier neogollista annuncia la candidatura contro la polarizzazione tra Jean-Luc Mélenchon e Marine Le Pen. Intanto perquisita la sede del Rassemblement National per il sospetto di una \"gola profonda\" al ministero dell'Interno",
-   "link": "https://www.rainews.it/articoli/2026/11/dominique-de-villepin-scende-in-campo-per-leliseo-salviamo-una-democrazia-bloccata-70600fc5-2ec3-49bc-b260-3cd6500c62ff.html",
-   "pub_ts": 1795285500,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/dominique-de-villepin-scende-in-campo-per-leliseo-salviamo-una-democrazia-bloccata-70600fc5-2ec3-49bc-b260-3cd6500c62ff.html",
-     "title": "Dominique de Villepin scende in campo per l'Eliseo: \"Salviamo una democrazia bloccata\""
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/dominique-de-villepin-presidenziali-candidato-piace-sinistra-vmfezhmu",
-     "title": "Dominique de Villepin «candidato» all’Eliseo: il gollista che punta sulla sinistra"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/dominique-de-villepin-candidatura-elezioni-presidenziali-francesi/",
-     "title": "In Francia l’ex primo ministro Dominique de Villepin si è candidato alle elezioni presidenziali"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'",
-   "summary": "E' uno dei più grandi risarcimenti collettivi della storia americana",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_b5e32c77-675d-454f-aefc-caaff9ebacfe.html",
-   "pub_ts": 1795252260,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_b5e32c77-675d-454f-aefc-caaff9ebacfe.html",
-     "title": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/giudice-usa-la-bayer-paghera-725-miliardi-vittime-diserbante-roundup-AJuQgIOC",
-     "title": "Giudice Usa: «La Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Kuleba: “Notte da incubo, ma non scapperemo dalle bombe di Putin”",
-   "summary": "L’ex ministro degli Esteri di Zelensky: “Siamo a pezzi ma finché c’è l’acqua restiamo nella capitale con i figli”",
-   "link": "https://www.repubblica.it/esteri/2026/11/21/news/kuleba_intervista_guerra_ucraina_russia_putin_attacco_kiev_negoziati-425738858/?rss",
-   "pub_ts": 1795219200,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/21/news/kuleba_intervista_guerra_ucraina_russia_putin_attacco_kiev_negoziati-425738858/?rss",
-     "title": "Kuleba: “Notte da incubo, ma non scapperemo dalle bombe di Putin”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/21/news/kuleba_intervista_guerra_ucraina_russia_putin_attacco_kiev_negoziati-425738858/",
-     "title": "Kuleba: “Notte da incubo, ma non scapperemo dalle bombe di Putin”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "El Salvador, Bukele sfida quattro partiti alle presidenziali del 2027",
-   "summary": "Voto il 28 febbraio per il mandato esteso da cinque a sei anni",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/el-salvador-bukele-sfida-quattro-partiti-alle-presidenziali-del-2027_b7d940f4-d985-4744-b6bd-d87bf1fc8354.html",
-   "pub_ts": 1795217305,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/el-salvador-bukele-sfida-quattro-partiti-alle-presidenziali-del-2027_b7d940f4-d985-4744-b6bd-d87bf1fc8354.html",
-     "title": "El Salvador, Bukele sfida quattro partiti alle presidenziali del 2027"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/bukele-candidatura-presidenziali-2027/",
-     "title": "Nayib Bukele si è ricandidato a El Salvador"
     }
    ]
   },
@@ -295,18 +290,13 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi",
-   "summary": "ll debutto di Anthropic a Wall Street mette in evidenza i rischi di un settore gravato da impegni finanziari per centinaia di miliardi di dollari. L'esposizione va oltre le aziende IA, coinvolge il settore del tech ma anche altri comparti",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
+   "title": "Record per GTA 6: 3,79 miliardi di dollari in un giorno",
+   "summary": "Take-Two Interactive ha incassato 3,79 miliardi di dollari in un giorno con GTA 6, quasi un miliardo in più del guadagno totale di Avenger: Endgame. The post Record per GTA 6: 3,79 miliardi di dollari in un giorno appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/record-gta-6-379-miliardi-dollari/",
    "pub_ts": 1795281322,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
-     "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi"
-    },
     {
      "name": "Punto Informatico",
      "link": "https://www.punto-informatico.it/record-gta-6-379-miliardi-dollari/",
@@ -327,66 +317,51 @@
   {
    "category": "tech",
    "area": null,
-   "title": "In Italia è stata approvata la guida semiautonoma delle Tesla",
-   "summary": "È un sistema con cui le auto si manovrano da sole sotto una supervisione umana, ma per vederle per strada ci vorrà ancora un po'",
-   "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
-   "pub_ts": 1795203563,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
-     "title": "In Italia è stata approvata la guida semiautonoma delle Tesla"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/salvini-tesla-assisted-driving-italia/",
-     "title": "Salvini annuncia l’arrivo di Tesla Assisted Driving in Italia"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/salvini-accelera-via-libera-alle-tesla-a-guida-autonoma-in-italia-e-musk-ringrazia/",
-     "title": "Salvini accelera: via libera alle Tesla a guida autonoma in Italia. E Musk ringrazia"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%",
-   "summary": "S500 -3,81%",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2c113fa1-01eb-4131-adfa-0de0775416b0.html",
-   "pub_ts": 1795209393,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2c113fa1-01eb-4131-adfa-0de0775416b0.html",
-     "title": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%"
-    },
-    {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/20/anthropic-apre-in-calo-a-wall-street-nella-seconda-giornata-di-scambi_e524be34-039f-4d4f-89ef-60b335edd286.html",
-     "title": "Anthropic apre in calo a Wall Street nella seconda giornata di scambi"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Dalle prime sciate ai bagni in mare: l'Italia divisa tra inverno e primavera",
-   "summary": "Piste aperte in anticipo a Madonna di Campiglio, mercatini di Natale ad Aosta e pellegrini sul ponte votivo a Venezia. In Sicilia, invece, le temperature miti invitano a tornare in spiaggia",
-   "link": "https://www.rainews.it/video/2026/11/dalle-prime-sciate-ai-bagni-in-mare-litalia-divisa-tra-inverno-e-primavera-92ce85fb-8fc6-4dce-9787-af00886a0b76.html",
-   "pub_ts": 1795266360,
+   "title": "C’è un altro matematico che potrebbe aver dimostrato l’ipotesi di Riemann",
+   "summary": "È l'italiano Alessandro Masullo che, a differenza del ricercatore di Anthropic che l'ha annunciato poco prima, dice di non aver usato l'AI",
+   "link": "https://www.ilpost.it/2026/11/21/alessandro-masullo-ipotesi-riemann/",
+   "pub_ts": 1795263831,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/dalle-prime-sciate-ai-bagni-in-mare-litalia-divisa-tra-inverno-e-primavera-92ce85fb-8fc6-4dce-9787-af00886a0b76.html",
-     "title": "Dalle prime sciate ai bagni in mare: l'Italia divisa tra inverno e primavera"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/alessandro-masullo-ipotesi-riemann/",
+     "title": "C’è un altro matematico che potrebbe aver dimostrato l’ipotesi di Riemann"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "NVIDIA: nuove indagini della California e della SEC",
+   "summary": "Il Procuratore Generale della California e la SEC hanno avviato indagini per valutare se NVIDIA abbia ingannato gli investitori con pratiche illegali. The post NVIDIA: nuove indagini della California e della SEC appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/nvidia-nuove-indagini-california-sec/",
+   "pub_ts": 1795263644,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/nvidia-nuove-indagini-california-sec/",
+     "title": "NVIDIA: nuove indagini della California e della SEC"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie",
+   "summary": "Quanti soldi serviranno nel 2027 all’Ucraina per sopravvivere, tre storie dal Ruanda, una industria europea sorprendentemente dinamica e il rimpianto di una persona che non ha mai praticato sport di squadra",
+   "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
+   "pub_ts": 1795244455,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
+     "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie"
     }
    ]
   },
@@ -396,8 +371,8 @@
    "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
    "summary": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-   "pub_ts": 1795287430,
-   "n_sources": 5,
+   "pub_ts": 1795302201,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -406,19 +381,14 @@
      "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/corrado-augias-commozione-alla-protomoteca-per-lultimo-saluto-al-giornalista-e-scrittore-camera-ardente-campidoglio-funerale-033154bc-7218-497b-9816-5618eaf780cb.html",
-     "title": "Corrado Augias, commozione alla Protomoteca per l'ultimo saluto al giornalista e scrittore"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/corrado-augias-camera-ardente_4idIU1NgZm56qteBgFt65O",
+     "title": "Corrado Augias, in migliaia in Campidoglio per l'ultimo saluto al giornalista gentile"
     },
     {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/fatti/ultimo-saluto-a-corrado-augias-migliaia-di-persone-alla-camera-ardente-campidoglio-outc1vhr",
      "title": "L’ultimo saluto a Corrado Augias: migliaia di persone alla camera ardente"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/aperta-la-camera-ardente-di-corrado-augias-larrivo-del-feretro-al-campidoglio-video_6ZXw5AN2pzId7N1ZgGpOO2",
-     "title": "Aperta la camera ardente di Corrado Augias, l'arrivo del feretro al Campidoglio"
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -435,7 +405,7 @@
    "summary": "L'omaggio di Arnault: 'Artefice chiave del successo del marchio'",
    "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/21/morto-paolo-bulgari-grande-gioielliere-aveva-89-anni_638fc3ea-0eef-45d0-abf3-6c92929a1619.html",
    "pub_ts": 1795279406,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -447,11 +417,6 @@
      "name": "ANSA Cultura",
      "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/21/addio-a-paolo-bulgari-il-re-dellalta-gioielleria_93a94201-3355-4917-ba26-e518e1ba8abf.html",
      "title": "Addio a Paolo Bulgari, il \"Re\" dell'alta gioielleria"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/addio-a-paolo-bulgari-lerede-della-maison-che-ha-trasformato-i-gioielli-in-un-linguaggio-di-stile-c7536c4d-3afa-41f0-91fc-c1e1622b7103.html",
-     "title": "Addio a Paolo Bulgari, l'erede della maison che ha trasformato i gioielli in un linguaggio di stile"
     },
     {
      "name": "Il Post",
@@ -468,7 +433,7 @@
    "summary": "Regina della Prima della Scala, con le sue creazioni anche Thatcher e Clinton",
    "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/21/morta-raffaella-curiel-lintellettuale-che-vestiva-le-signore-bene_f9c6a36c-fde8-42ad-8236-9c8009f2b064.html",
    "pub_ts": 1795290898,
-   "n_sources": 3,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
@@ -480,11 +445,6 @@
      "name": "ANSA Cultura",
      "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/21/morta-la-stilista-raffaella-curiel_76ac9faa-2d23-45e1-b6ff-32576704a24f.html",
      "title": "Morta la stilista Raffaella Curiel, 'l'intellettuale della moda'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/morta-raffaella-curiel-addio-alla-signora-della-moda-che-vestiva-per-la-prima-alla-scala-couture-fashion-milano-ed1fcc09-fbe2-4dfb-8fab-a1ca9316fdd7.html",
-     "title": "È morta Raffaella Curiel. Addio alla signora della moda che vestiva per la Prima alla Scala"
     }
    ],
    "subtype": "cultura"
@@ -515,22 +475,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
-   "summary": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
-   "pub_ts": 1795182563,
-   "n_sources": 2,
-   "documented": true,
+   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
+   "summary": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
+   "pub_ts": 1795272792,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
-     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
-    },
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_c5c88c73-5622-4a34-831d-b7f23f6987e0.html",
-     "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
+     "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato"
     }
    ],
    "subtype": "scienza"
@@ -538,42 +493,52 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "L'ex capo della Polizia De Gennaro si è ucciso, sconvolto dalle indagini su Via d'Amelio",
-   "summary": "L'ex capo della Polizia si spara nella sua casa in campagna. Era atteso dal Riesame",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
-   "pub_ts": 1795300084,
-   "n_sources": 6,
+   "title": "Depistaggi e hard disk spariti, le accuse al superpoliziotto Gianni De Gennaro",
+   "summary": "L'inchiesta dei pm di Caltanissetta su via D'Amelio e sulla scomparsa dell'agenda rossa",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/depistaggi-e-hard-disk-spariti-le-accuse-al-superpoliziotto-gianni-de-gennaro_d560e4cd-8266-4e0e-9313-54757e4b8309.html",
+   "pub_ts": 1795311839,
+   "n_sources": 8,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
-     "title": "L'ex capo della Polizia De Gennaro si è ucciso, sconvolto dalle indagini su Via d'Amelio"
-    },
-    {
      "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-con-un-colpo-di-pistola_9f9f021b-0b40-417a-9f95-959f0ae16e92.html",
-     "title": "L'ex capo della Polizia De Gennaro si è ucciso con un colpo di pistola"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/depistaggi-e-hard-disk-spariti-le-accuse-al-superpoliziotto-gianni-de-gennaro_d560e4cd-8266-4e0e-9313-54757e4b8309.html",
+     "title": "Depistaggi e hard disk spariti, le accuse al superpoliziotto Gianni De Gennaro"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/i-pm-nisseni-de-gennaro-depisto-su-via-damelio-tutte-le-accuse-contro-lex-capo-della-polizia-gbtytmwv",
-     "title": "I pm nisseni: «De Gennaro depistò su via d’Amelio». Tutte le accuse contro l’ex capo della Polizia"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/21/gianni-de-gennaro-morto-ucciso-via-damelio/",
-     "title": "Gianni De Gennaro si è ucciso"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/11/21/capo-della-polizia-poi-007-la-vita-di-gianni-de-gennaro-nelle-foto_3948a551-2975-420c-aa7c-ac4b28509bfb.html",
+     "title": "Capo della Polizia, poi 007: la vita di Gianni De Gennaro nelle foto d'archivio"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/21/news/gianni_de_gennaro_morto_sparato_casa-425739732/",
-     "title": "Gianni De Gennaro è morto. Si è sparato mentre era solo nella sua casa di campagna in Toscana"
+     "link": "https://palermo.repubblica.it/cronaca/2026/11/22/news/de_gennaro_accuse_procura_caltanissetta-425741294/",
+     "title": "Le accuse a De Gennaro, Via D’Amelio e l’agenda rossa sparita. “Fu un depistaggio”"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/de-gennaro-borsellino-e-un-agenda-rossa-inchiesta-sui-misteri-italiani-caponnetto-403f5d87-366a-49da-aeac-d9010d4a2235.html",
+     "title": "De Gennaro, Borsellino e un'agenda rossa. L'inchiesta sui misteri italiani"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/una-morte-italiana-de-gennaro-non-ha-retto-alle-accuse-su-borsellino-pizmtn7i",
+     "title": "Una morte italiana: «De Gennaro non ha retto alle accuse su Borsellino»"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/",
+     "title": "Di cosa era accusato Gianni De Gennaro"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/21/gianni-de-gennaro-morto-suicida-dal-caso-dello-scoop-che-ha-bruciato-lindagine-su-berlusconi-e-cosa-nostra-alla-richiesta-darresto-per-depistaggio/8579378/",
+     "title": "Gianni De Gennaro morto suicida: dal caso dello scoop che ha bruciato l’indagine su Berlusconi e Cosa Nostra, alla richiesta d’arresto per depistaggio"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/gianni-de-gennaro-si-e-ucciso-trovato-morto-lex-capo-della-polizia/",
-     "title": "Gianni De Gennaro si è ucciso: trovato morto l’ex capo della polizia"
+     "link": "https://www.nicolaporro.it/il-presunto-depistaggio-laccusa-infamante-per-cosa-era-indagato-de-gennaro/",
+     "title": "Il presunto depistaggio, l’accusa infamante: per cosa era indagato De Gennaro"
     }
    ]
   },
@@ -584,7 +549,7 @@
    "summary": "Il sisma registrato dall'Ingv alle 22.58",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/scossa-di-terremoto-nel-vibonese-4.3-di-magnitudo_a71649cd-31c0-41fc-aa50-9c1a8f6773db.html",
    "pub_ts": 1795299840,
-   "n_sources": 5,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
@@ -596,11 +561,6 @@
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/21/news/peru_terremoto_di_magnitudo_67-425739436/?rss",
      "title": "Perù, terremoto di magnitudo 6,7"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/terremoto-di-magnitudo-6.7-colpisce-il-centro-del-peru-gente-in-strada-a-lima_03690872-8c21-4e8f-91a5-86322096cdee.html",
-     "title": "Terremoto di magnitudo 6.7 colpisce il centro del Perù, gente in strada a Lima"
     },
     {
      "name": "Rai News",
@@ -617,11 +577,11 @@
  ],
  "articles": [
   {
-   "title": "Alta tensione nel mar Baltico, colpita una nave cargo russa",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/21/alta-tensione-nel-mar-baltico-colpita-una-nave-cargo-russa-_6c554c1c-64b6-45fd-915b-a300479d2bbc.html",
-   "description": "Il premier finlandese: 'La guerra si estende'. Mosca attacca un mercantile a sud di Odessa",
-   "pub_ts": 1795300200,
-   "source": "ANSA",
+   "title": "Il fronte del Mar Baltico, la nave delle armi russa colpita da un raid di Kiev",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/fronte_mar_baltico_finlandia_nave_armi_russa_colpita_raid_kiev-425740634/?rss",
+   "description": "La “Sparta II” attaccata nel Golfo della Finlandia: da anni si ritiene trasporti armamenti. L’Ucraina prova a isolare San Pietroburgo",
+   "pub_ts": 1795314660,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -630,6 +590,15 @@
    "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_nuovo_attacco_hacker_fbi_violata_banca_dati_criminali-425740582/?rss",
    "description": "È la seconda volta in due mesi che il sistema informatico dell’agenzia federale di investigazione americana viene violata. Il direttore Kash Patel, nelle stesse ore in cui era emerso l’hackeraggio, era andato a Fox News per esaltare il lavoro fatto nel campo della sicurezza...",
    "pub_ts": 1795290611,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
+   "description": "L'allarme alla vigilia del Thanksgiving, quando sono attesi circa 6 milioni di passeggeri sui voli interni. Fbi e servizi di sicurezza: “Al momento nessuna minaccia specifica e credibile”",
+   "pub_ts": 1795260920,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
@@ -644,10 +613,37 @@
    "section": "politica"
   },
   {
-   "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”",
-   "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
-   "description": "L'allarme alla vigilia del Thanksgiving, quando sono attesi circa 6 milioni di passeggeri sui voli interni. Fbi e servizi di sicurezza: “Al momento nessuna minaccia specifica e credibile”",
-   "pub_ts": 1795260920,
+   "title": "Hackerato l'archivio FBI, Trump: \"Non mi piace, ma forse scopriremo delle cose\"",
+   "link": "https://www.rainews.it/video/2026/11/hackerato-archivio-fbi-trump-non-mi-piace-ma-forse-scopriremo-delle-cose-lo-savio-ny-a8c54ef8-3621-48be-8b71-4b1194017652.html",
+   "description": "Il presidente americano alla Fox parla di Iran e Ucraina, poi si lascia andare sull'attacco alla banca dati dell'FBI: \"Non è cosa buona ma forse scopriremo cose che altrimenti non avremmo mai scoperto”",
+   "pub_ts": 1795306740,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "La telefonata di cordoglio di Mattarella al fratello di De Gennaro",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-telefonata-di-cordoglio-di-mattarella-al-fratello-di-de-gennaro_dd7d8d59-74d2-4f59-b721-58e030265842.html",
+   "description": "Il presidente della Repubblica sente il comandante generale della Gdf",
+   "pub_ts": 1795308874,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Clima, la Cop a rischio fallimento. La Ue frena la lobby dei fossili",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/clima_cop31_rischio_fallimento_ue_frena_lobby_fossili-425740804/?rss",
+   "description": "Ultima notte di negoziati, manca la bozza finale per le scissioni tra i due blocchi. Europa e Sud globale contro sauditi e alleati: “Vogliono una licenza per inquinare”",
+   "pub_ts": 1795306680,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Israele, Eisenkot ora ha fretta: prende corpo l’ipotesi di un governo di minoranza",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/israele_eisenkot_ora_ha_fretta_ipotesi_governo_di_minoranza-425740888/?rss",
+   "description": "Per liberarsi di Netanyahu e superare i veti degli alleati, il premier incaricato medita di andare alla conta nell’aula della Knesset",
+   "pub_ts": 1795305600,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
@@ -662,42 +658,6 @@
    "section": "politica"
   },
   {
-   "title": "Dominique de Villepin scende in campo per l'Eliseo: \"Salviamo una democrazia bloccata\"",
-   "link": "https://www.rainews.it/articoli/2026/11/dominique-de-villepin-scende-in-campo-per-leliseo-salviamo-una-democrazia-bloccata-70600fc5-2ec3-49bc-b260-3cd6500c62ff.html",
-   "description": "A 73 anni l'ex premier neogollista annuncia la candidatura contro la polarizzazione tra Jean-Luc Mélenchon e Marine Le Pen. Intanto perquisita la sede del Rassemblement National per il sospetto di una \"gola profonda\" al ministero dell'Interno",
-   "pub_ts": 1795285500,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_b5e32c77-675d-454f-aefc-caaff9ebacfe.html",
-   "description": "E' uno dei più grandi risarcimenti collettivi della storia americana",
-   "pub_ts": 1795252260,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Kuleba: “Notte da incubo, ma non scapperemo dalle bombe di Putin”",
-   "link": "https://www.repubblica.it/esteri/2026/11/21/news/kuleba_intervista_guerra_ucraina_russia_putin_attacco_kiev_negoziati-425738858/?rss",
-   "description": "L’ex ministro degli Esteri di Zelensky: “Siamo a pezzi ma finché c’è l’acqua restiamo nella capitale con i figli”",
-   "pub_ts": 1795219200,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "El Salvador, Bukele sfida quattro partiti alle presidenziali del 2027",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/el-salvador-bukele-sfida-quattro-partiti-alle-presidenziali-del-2027_b7d940f4-d985-4744-b6bd-d87bf1fc8354.html",
-   "description": "Voto il 28 febbraio per il mandato esteso da cinque a sei anni",
-   "pub_ts": 1795217305,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
    "description": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
@@ -707,38 +667,38 @@
    "section": "politica"
   },
   {
-   "title": "Anthropic da record in Borsa, l’impatto per le aziende tech tra boom e i rischi",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/20/news/anthropic_ipo_impatto_boom_rischi_tech-425737710/?rss",
-   "description": "ll debutto di Anthropic a Wall Street mette in evidenza i rischi di un settore gravato da impegni finanziari per centinaia di miliardi di dollari. L'esposizione va oltre le aziende IA, coinvolge il settore del tech ma anche altri comparti",
+   "title": "Record per GTA 6: 3,79 miliardi di dollari in un giorno",
+   "link": "https://www.punto-informatico.it/record-gta-6-379-miliardi-dollari/",
+   "description": "Take-Two Interactive ha incassato 3,79 miliardi di dollari in un giorno con GTA 6, quasi un miliardo in più del guadagno totale di Avenger: Endgame. The post Record per GTA 6: 3,79 miliardi di dollari in un giorno appeared first on Punto Informatico .",
    "pub_ts": 1795281322,
-   "source": "Repubblica Tecnologia",
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "In Italia è stata approvata la guida semiautonoma delle Tesla",
-   "link": "https://www.ilpost.it/2026/11/20/tesla-guida-semiautonoma-italia/",
-   "description": "È un sistema con cui le auto si manovrano da sole sotto una supervisione umana, ma per vederle per strada ci vorrà ancora un po'",
-   "pub_ts": 1795203563,
+   "title": "C’è un altro matematico che potrebbe aver dimostrato l’ipotesi di Riemann",
+   "link": "https://www.ilpost.it/2026/11/21/alessandro-masullo-ipotesi-riemann/",
+   "description": "È l'italiano Alessandro Masullo che, a differenza del ricercatore di Anthropic che l'ha annunciato poco prima, dice di non aver usato l'AI",
+   "pub_ts": 1795263831,
    "source": "Il Post",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2c113fa1-01eb-4131-adfa-0de0775416b0.html",
-   "description": "S500 -3,81%",
-   "pub_ts": 1795209393,
-   "source": "ANSA Mondo",
+   "title": "NVIDIA: nuove indagini della California e della SEC",
+   "link": "https://www.punto-informatico.it/nvidia-nuove-indagini-california-sec/",
+   "description": "Il Procuratore Generale della California e la SEC hanno avviato indagini per valutare se NVIDIA abbia ingannato gli investitori con pratiche illegali. The post NVIDIA: nuove indagini della California e della SEC appeared first on Punto Informatico .",
+   "pub_ts": 1795263644,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Dalle prime sciate ai bagni in mare: l'Italia divisa tra inverno e primavera",
-   "link": "https://www.rainews.it/video/2026/11/dalle-prime-sciate-ai-bagni-in-mare-litalia-divisa-tra-inverno-e-primavera-92ce85fb-8fc6-4dce-9787-af00886a0b76.html",
-   "description": "Piste aperte in anticipo a Madonna di Campiglio, mercatini di Natale ad Aosta e pellegrini sul ponte votivo a Venezia. In Sicilia, invece, le temperature miti invitano a tornare in spiaggia",
-   "pub_ts": 1795266360,
-   "source": "Rai News",
+   "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie",
+   "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
+   "description": "Quanti soldi serviranno nel 2027 all’Ucraina per sopravvivere, tre storie dal Ruanda, una industria europea sorprendentemente dinamica e il rimpianto di una persona che non ha mai praticato sport di squadra",
+   "pub_ts": 1795244455,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "tech"
   },
@@ -746,7 +706,7 @@
    "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
    "description": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
-   "pub_ts": 1795287430,
+   "pub_ts": 1795302201,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -779,20 +739,20 @@
    "section": "varia"
   },
   {
-   "title": "Influenza: salgono infezioni respiratorie, 487 mila casi nell'ultima settimana",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/20/influenza-salgono-infezioni-respiratorie-487-mila-casi-nellultima-settimana_1d1cb6e6-55cc-48e4-b5cf-597386dcda2a.html",
-   "description": "Ancora pochi virus influenzali, 1 caso su 5 dovuto a Rhinovirus",
-   "pub_ts": 1795182563,
+   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
+   "description": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
+   "pub_ts": 1795272792,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "L'ex capo della Polizia De Gennaro si è ucciso, sconvolto dalle indagini su Via d'Amelio",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html",
-   "description": "L'ex capo della Polizia si spara nella sua casa in campagna. Era atteso dal Riesame",
-   "pub_ts": 1795300084,
-   "source": "ANSA",
+   "title": "Depistaggi e hard disk spariti, le accuse al superpoliziotto Gianni De Gennaro",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/depistaggi-e-hard-disk-spariti-le-accuse-al-superpoliziotto-gianni-de-gennaro_d560e4cd-8266-4e0e-9313-54757e4b8309.html",
+   "description": "L'inchiesta dei pm di Caltanissetta su via D'Amelio e sulla scomparsa dell'agenda rossa",
+   "pub_ts": 1795311839,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "cronaca"
   },
