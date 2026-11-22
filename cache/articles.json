@@ -1,6 +1,6 @@
 {
- "generated_at": 1795316337,
- "updated_at": 1795316337,
+ "generated_at": 1795345594,
+ "updated_at": 1795345594,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -13,8 +13,8 @@
    "title": "Il fronte del Mar Baltico, la nave delle armi russa colpita da un raid di Kiev",
    "summary": "La “Sparta II” attaccata nel Golfo della Finlandia: da anni si ritiene trasporti armamenti. L’Ucraina prova a isolare San Pietroburgo",
    "link": "https://www.repubblica.it/esteri/2026/11/22/news/fronte_mar_baltico_finlandia_nave_armi_russa_colpita_raid_kiev-425740634/?rss",
-   "pub_ts": 1795314660,
-   "n_sources": 8,
+   "pub_ts": 1795345380,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
@@ -35,22 +35,7 @@
     {
      "name": "Rai News",
      "link": "https://www.rainews.it/maratona/2026/11/guerra-russia-ucraina-il-fronte-dei-mari-mosca-e-kiev-attaccano-le-navi-cargo-maratona-bbb11997-543b-4be3-9692-448b9e84a742.html",
-     "title": "Il fronte dei mari, bombe di Mosca e Kiev sulle navi cargo"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/fronte_mar_baltico_finlandia_nave_armi_russa_colpita_raid_kiev-425740634/",
-     "title": "Il fronte del Mar Baltico, la nave delle armi russa colpita da un raid di Kiev"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/21/tensione-mar-baltico-attacco-nave-kaliningrad-video/",
-     "title": "Tensione nel Mar Baltico, nave russa colpita da droni: sospetti su Kiev. Elicottero di Mosca viola lo spazio aereo finlandese – Il video"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/21/la-nave-cargo-russa-attaccata-da-droni-nel-golfo-di-finlandia/",
-     "title": "La nave cargo russa attaccata da droni nel golfo di Finlandia"
+     "title": "Ucraina: droni su condominio a Dimer, Zelensky: \"14 dispersi\". Baltico, bombe di Kiev sulle navi"
     },
     {
      "name": "Domani",
@@ -94,27 +79,22 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”",
-   "summary": "L'allarme alla vigilia del Thanksgiving, quando sono attesi circa 6 milioni di passeggeri sui voli interni. Fbi e servizi di sicurezza: “Al momento nessuna minaccia specifica e credibile”",
-   "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
-   "pub_ts": 1795260920,
-   "n_sources": 4,
+   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
+   "summary": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+   "pub_ts": 1795247341,
+   "n_sources": 3,
    "documented": true,
    "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+     "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'"
+    },
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
      "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/allerta-dellintelligence-usa-al-settore-aereo-al-qaeda-fomenta-i-suoi-in-stile-flydubai-y6ty281t",
-     "title": "Allerta dell’intelligence Usa al settore aereo: «Al Qaeda fomenta i suoi» in stile Flydubai"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/usa-allerta-dell-intelligence-al-qaeda-pronta-compiere-attacchi-AJdWoDOC",
-     "title": "Usa, allerta dell’intelligence: «Al Qaeda pronta a compiere attacchi»"
     },
     {
      "name": "Adnkronos Esteri",
@@ -125,55 +105,67 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'",
-   "summary": "Le opposizioni contro gli emendamenti di Delmastro: 'Garantista solo con se stesso'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
-   "pub_ts": 1795293217,
-   "n_sources": 3,
+   "area": "mondo",
+   "title": "Trump rilascia i file su Bigfoot: online tre fascicoli sull’uomo-scimmia",
+   "summary": "Tra i documenti custoditi per decenni figura il resoconto di una spedizione organizzata dal governo nel 1982 per esaminare decine di impronte rinvenute nei boschi dello Stato di Washington e in Oregon",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/bigfoot_file_uomo_scimmia_stati_uniti_avvistamenti_trump-425741790/?rss",
+   "pub_ts": 1795344630,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
-     "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/bigfoot_file_uomo_scimmia_stati_uniti_avvistamenti_trump-425741790/?rss",
+     "title": "Trump rilascia i file su Bigfoot: online tre fascicoli sull’uomo-scimmia"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/21/stop-borse-studio-studenti-proteste-emendamento-delmastro/",
-     "title": "Via le borse di studio agli studenti violenti delle proteste, anche senza condanna: ecco cosa c’è negli emendamenti di FdI"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/decreto-sicurezza-borse-studio-studenti-indagati-notizie/8579795/",
-     "title": "FdI vuole sospendere le borse di studio agli studenti indagati. Schlein: “Delirante”. Conte: “Repressione per chi protesta e scudo per chi è in Parlamento”"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/bigfoot_file_uomo_scimmia_stati_uniti_avvistamenti_trump-425741790/",
+     "title": "Trump rilascia i file su Bigfoot: online tre fascicoli sull’uomo-scimmia"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Hackerato l'archivio FBI, Trump: \"Non mi piace, ma forse scopriremo delle cose\"",
-   "summary": "Il presidente americano alla Fox parla di Iran e Ucraina, poi si lascia andare sull'attacco alla banca dati dell'FBI: \"Non è cosa buona ma forse scopriremo cose che altrimenti non avremmo mai scoperto”",
-   "link": "https://www.rainews.it/video/2026/11/hackerato-archivio-fbi-trump-non-mi-piace-ma-forse-scopriremo-delle-cose-lo-savio-ny-a8c54ef8-3621-48be-8b71-4b1194017652.html",
-   "pub_ts": 1795306740,
-   "n_sources": 3,
+   "title": "Cop31, nuova bozza con riferimento indiretto a uscita da fossili",
+   "summary": "Non viene citata direttamente, ma si cita Cop28 che l'aveva prevista",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop31-nuova-bozza-con-riferimento-indiretto-a-uscita-da-fossili_d5d76c15-7f98-4144-a933-3e46ce78150b.html",
+   "pub_ts": 1795341780,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/hackerato-archivio-fbi-trump-non-mi-piace-ma-forse-scopriremo-delle-cose-lo-savio-ny-a8c54ef8-3621-48be-8b71-4b1194017652.html",
-     "title": "Hackerato l'archivio FBI, Trump: \"Non mi piace, ma forse scopriremo delle cose\""
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop31-nuova-bozza-con-riferimento-indiretto-a-uscita-da-fossili_d5d76c15-7f98-4144-a933-3e46ce78150b.html",
+     "title": "Cop31, nuova bozza con riferimento indiretto a uscita da fossili"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/attacco-hacker-database-fbi_3XNc2XEgK6lOrBsvDozias",
-     "title": "Usa, Cnn: \"Nuovo attacco hacker all'Fbi, violato l'archivio criminale\". Trump preoccupato: \"Non mi piace\""
+     "link": "https://www.adnkronos.com/internazionale/esteri/cop-31-stallo-bozza-accordo-clima_3ZaB0FAzKSLoM4xG6I3aqc",
+     "title": "Cop31, niente combustibili fossili anche nella terza bozza: negoziati oltre la scadenza"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Bahrein, incendio in un sito industriale civile per un attacco iraniano",
+   "summary": "Ministero dell'Interno: 'Riportati danni materiali, non ci sono segnalazioni di feriti'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/bahrein-incendio-in-un-sito-industriale-civile-per-un-attacco-iraniano_4e3fd91c-b52e-4cd3-8904-11dd3b7f70dd.html",
+   "pub_ts": 1795331640,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/bahrein-incendio-in-un-sito-industriale-civile-per-un-attacco-iraniano_4e3fd91c-b52e-4cd3-8904-11dd3b7f70dd.html",
+     "title": "Bahrein, incendio in un sito industriale civile per un attacco iraniano"
     },
     {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/cybersicurezza-nuovo-attacco-hacker-all-fbi-violato-l-archivio-criminale-AJRtdDOC",
-     "title": "Cybersicurezza, «nuovo attacco hacker all’Fbi, violato l’archivio criminale»"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/bahrein-edificio-in-fiamme-a-sitra-dopo-un-presunto-attacco-iraniano-2c754446-c990-430d-a2f4-8376027c1c03.html",
+     "title": "Bahrein, edificio in fiamme a Sitra dopo un presunto attacco iraniano"
     }
    ]
   },
@@ -201,28 +193,6 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Clima, la Cop a rischio fallimento. La Ue frena la lobby dei fossili",
-   "summary": "Ultima notte di negoziati, manca la bozza finale per le scissioni tra i due blocchi. Europa e Sud globale contro sauditi e alleati: “Vogliono una licenza per inquinare”",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/clima_cop31_rischio_fallimento_ue_frena_lobby_fossili-425740804/?rss",
-   "pub_ts": 1795306680,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/clima_cop31_rischio_fallimento_ue_frena_lobby_fossili-425740804/?rss",
-     "title": "Clima, la Cop a rischio fallimento. La Ue frena la lobby dei fossili"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/clima-scontro-sulle-fonti-fossili-la-cop31-su-orlo-del-fallimento-bellomo-grifoni-5a036bed-0dc0-4047-9285-4c19352d4d4e.html",
-     "title": "Clima, scontro sulle fonti fossili. La COP31 sull'orlo del fallimento"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
    "title": "Israele, Eisenkot ora ha fretta: prende corpo l’ipotesi di un governo di minoranza",
    "summary": "Per liberarsi di Netanyahu e superare i veti degli alleati, il premier incaricato medita di andare alla conta nell’aula della Knesset",
@@ -245,89 +215,91 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'",
-   "summary": "'Un modo per reagire a ciò che avvertiva come una grande ingiustizia'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_39eedb13-3399-4f30-bacf-70d46bed39b7.html",
-   "pub_ts": 1795284814,
+   "area": "italia",
+   "title": "Droni ucraini sulla Russia, attacco a una caserma a Krasnodar – La diretta",
+   "summary": "Il raid ha colpito il quartier generale della Guardia nazionale russa della Rosgvardia L'articolo Droni ucraini sulla Russia, attacco a una caserma a Krasnodar – La diretta proviene da Open.",
+   "link": "https://www.open.online/2026/11/22/guerra-russia-ucraina-22-nov-ultime-notizie-diretta/",
+   "pub_ts": 1795323223,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_39eedb13-3399-4f30-bacf-70d46bed39b7.html",
-     "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/22/guerra-russia-ucraina-22-nov-ultime-notizie-diretta/",
+     "title": "Droni ucraini sulla Russia, attacco a una caserma a Krasnodar – La diretta"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/de-gennaro-suicidio-la-russa-coraggio-notizie/8579844/",
-     "title": "“De Gennaro? A volte il suicidio è anche coraggio”: così il presidente del Senato La Russa"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/russia-attacco-ucraina-kryvyi-rih/",
+     "title": "La Russia ha attaccato con missili e droni la città ucraina di Kryvyi Rih in un probabile attacco double tap"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'",
-   "summary": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
-   "pub_ts": 1795208831,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
-     "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/la-rabbia-riempie-le-piazze-italiane-siamo-un-milione-sciopero-generale-cgil-cento-piazze-manovra-jn18am0v",
-     "title": "La rabbia riempie le piazze italiane: «Siamo un milione»"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Record per GTA 6: 3,79 miliardi di dollari in un giorno",
-   "summary": "Take-Two Interactive ha incassato 3,79 miliardi di dollari in un giorno con GTA 6, quasi un miliardo in più del guadagno totale di Avenger: Endgame. The post Record per GTA 6: 3,79 miliardi di dollari in un giorno appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/record-gta-6-379-miliardi-dollari/",
-   "pub_ts": 1795281322,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/record-gta-6-379-miliardi-dollari/",
-     "title": "Record per GTA 6: 3,79 miliardi di dollari in un giorno"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/21/gta-vi-vendite-record-primo-giorno/",
-     "title": "Nel primo giorno di vendite GTA VI ha incassato 3,8 miliardi di dollari, la cifra più alta di sempre per un videogioco al debutto"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/aaa-affittasi-superpetroliera-a-un-milione-di-dollari-al-giorno/",
-     "title": "AAA Affittasi superpetroliera a un milione di dollari al giorno"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "C’è un altro matematico che potrebbe aver dimostrato l’ipotesi di Riemann",
-   "summary": "È l'italiano Alessandro Masullo che, a differenza del ricercatore di Anthropic che l'ha annunciato poco prima, dice di non aver usato l'AI",
-   "link": "https://www.ilpost.it/2026/11/21/alessandro-masullo-ipotesi-riemann/",
-   "pub_ts": 1795263831,
+   "title": "Prima lo sparo, poi il cacciatore si accascia a terra: giallo sull’uomo morto nel Reggino. Sospetti sul colpo partito da un amico",
+   "summary": "L'incidente è avvenuto nelle campagna di Pimidoro, frazione di Oppido Mamertina, dove era in corso una battuta di caccia. Le indagini sul colpo partito dall'arma di un altro partecipante L'articolo Prima lo sparo, poi il cacciatore si accascia a terra: giallo sull’uomo morto nel Reggino. Sospetti sul colpo partito da un amico proviene da Open.",
+   "link": "https://www.open.online/2026/11/22/reggio-calabria-cacciatore-pasquale-racesi-morto-indagini/",
+   "pub_ts": 1795343108,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/21/alessandro-masullo-ipotesi-riemann/",
-     "title": "C’è un altro matematico che potrebbe aver dimostrato l’ipotesi di Riemann"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/22/reggio-calabria-cacciatore-pasquale-racesi-morto-indagini/",
+     "title": "Prima lo sparo, poi il cacciatore si accascia a terra: giallo sull’uomo morto nel Reggino. Sospetti sul colpo partito da un amico"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Coinbase blocca una truffa crypto con deepfake di Elon Musk",
+   "summary": "Coinbase ha bloccato il trasferimento di 4,7 milioni di dollari in criptovalute, grazie al suo agente AI che ha rilevato la truffa su YouTube. The post Coinbase blocca una truffa crypto con deepfake di Elon Musk appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/fintech/criptovalute/coinbase-blocca-truffa-crypto-deepfake-elon-musk/",
+   "pub_ts": 1795345409,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/fintech/criptovalute/coinbase-blocca-truffa-crypto-deepfake-elon-musk/",
+     "title": "Coinbase blocca una truffa crypto con deepfake di Elon Musk"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "5 differenze tra Claude e ChatGPT per capire quale conviene usare",
+   "summary": "Claude e ChatGPT sono i due chatbot più usati al mondo e fanno cose simili, ma non identiche. 5 differenze concrete per capire quale conviene usare. The post 5 differenze tra Claude e ChatGPT per capire quale conviene usare appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/5-differenze-claude-chatgpt-capire-quale-conviene-usare/",
+   "pub_ts": 1795336207,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/5-differenze-claude-chatgpt-capire-quale-conviene-usare/",
+     "title": "5 differenze tra Claude e ChatGPT per capire quale conviene usare"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Cresce l'allarme sulle truffe cyber in vista del Black Friday",
+   "summary": "Ricerca, un messaggio spam su due a tema promozionale nasconde un tentativo di frode",
+   "link": "https://www.rainews.it/articoli/2026/11/cresce-lallarme-sulle-truffe-cyber-in-vista-del-black-friday-db348638-806c-4ffa-a228-411f0039b617.html",
+   "pub_ts": 1795334160,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/cresce-lallarme-sulle-truffe-cyber-in-vista-del-black-friday-db348638-806c-4ffa-a228-411f0039b617.html",
+     "title": "Cresce l'allarme sulle truffe cyber in vista del Black Friday"
     }
    ]
   },
@@ -349,29 +321,12 @@
    ]
   },
   {
-   "category": "tech",
-   "area": null,
-   "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie",
-   "summary": "Quanti soldi serviranno nel 2027 all’Ucraina per sopravvivere, tre storie dal Ruanda, una industria europea sorprendentemente dinamica e il rimpianto di una persona che non ha mai praticato sport di squadra",
-   "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
-   "pub_ts": 1795244455,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
-     "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie"
-    }
-   ]
-  },
-  {
    "category": "varia",
    "area": null,
    "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
    "summary": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-   "pub_ts": 1795302201,
+   "pub_ts": 1795335028,
    "n_sources": 4,
    "documented": true,
    "sources": [
@@ -381,22 +336,50 @@
      "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo"
     },
     {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/22/coda-salutare-corrado-augias-10mila-persone-camera-ardente-video/",
+     "title": "In coda per ore per salutare Corrado Augias: oltre 10mila persone alla camera ardente – Il video"
+    },
+    {
      "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/corrado-augias-camera-ardente_4idIU1NgZm56qteBgFt65O",
-     "title": "Corrado Augias, in migliaia in Campidoglio per l'ultimo saluto al giornalista gentile"
+     "link": "https://www.adnkronos.com/cultura/corrado-augias-giuli-camera-ardente-video_40xKSLxywtjoCshMF5tDBA",
+     "title": "Giuli alla camera ardente di Augias: \"È un giorno triste per la cultura\""
     },
     {
      "name": "Domani",
      "link": "https://www.editorialedomani.it/fatti/ultimo-saluto-a-corrado-augias-migliaia-di-persone-alla-camera-ardente-campidoglio-outc1vhr",
      "title": "L’ultimo saluto a Corrado Augias: migliaia di persone alla camera ardente"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/corrado-augias-camera-ardente-campidoglio-notizie/8579845/",
-     "title": "Corrado Augias, in diecimila al Campidoglio per l’ultimo saluto. La figlia Natalia: “Colpita da chi ha parlato di mio padre come di una persona importante nella loro vita”"
     }
    ],
    "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Cop31: la presidenza turca vuole far votare la bozza senza modifiche, l'Ue voterà no",
+   "summary": "Il testo della Cover decision diffuso nella note e bocciato dall'Europa",
+   "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/cop31-la-presidenza-turca-vuole-far-votare-la-bozza-senza-modifiche-lue_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
+   "pub_ts": 1795345566,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/cop31-la-presidenza-turca-vuole-far-votare-la-bozza-senza-modifiche-lue_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
+     "title": "Cop31: la presidenza turca vuole far votare la bozza senza modifiche, l'Ue voterà no"
+    },
+    {
+     "name": "Repubblica Ambiente",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cop31_negoziati_fallimento_scontro_combustibili_fossili_plenaria-425741337/?rss",
+     "title": "Cop31, la Ue respinge la bozza di Cover Decision della presidenza turca"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cop31_negoziati_fallimento_scontro_combustibili_fossili_plenaria-425741337/",
+     "title": "Cop31, negoziati vicini al fallimento: la Turchia vuole la bozza senza modifiche, la Ue voterà no"
+    }
+   ],
+   "subtype": "scienza"
   },
   {
    "category": "varia",
@@ -452,40 +435,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Tumore alla gola e Hpv, cosa ci insegna la storia di Paola Barale",
-   "summary": "Il caso della conduttrice riporta l'attenzione sui tumori correlati a questo virus, che possono colpire diversi organi, non solo il collo dell’utero. Ecco cosa è importante sapere per orientarsi correttamente",
-   "link": "https://www.repubblica.it/salute/rubriche/saluteseno/2026/11/20/news/tumore_alla_gola_e_hpv_cosa_ci_insegna_la_storia_di_paola_barale-425737996/?rss",
-   "pub_ts": 1795272586,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/rubriche/saluteseno/2026/11/20/news/tumore_alla_gola_e_hpv_cosa_ci_insegna_la_storia_di_paola_barale-425737996/?rss",
-     "title": "Tumore alla gola e Hpv, cosa ci insegna la storia di Paola Barale"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/quando-mi-hanno-diagnosticato-il-tumore-ho-pensato-a-una-cosa-sola-i-miei-figli-avranno-tanti-ricordi-bellissimi-di-noi-insieme-ho-lasciato-la-carriera-di-avvocato-per-stare-con-loro-la-storia/8579679/",
-     "title": "“Quando mi hanno diagnosticato il tumore ho pensato a una cosa sola: i miei figli avranno tanti ricordi bellissimi di noi insieme. Ho lasciato la carriera di avvocato per stare con loro”: la storia di Kate Loweth"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
-   "summary": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-   "pub_ts": 1795272792,
+   "title": "La sonda BepiColombo entra nell’orbita di Mercurio dopo 8 anni di viaggio nello spazio",
+   "summary": "Organizzata da Europa e Giappone, la missione studierà il pianeta più vicino al Sole",
+   "link": "https://www.rainews.it/articoli/2026/11/la-sonda-bepicolombo-entra-nellorbita-di-mercurio-dopo-8-anni-di-viaggio-nello-spazio-8f0c979d-0d45-483d-8b91-58643927b8cb.html",
+   "pub_ts": 1795342380,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-     "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/la-sonda-bepicolombo-entra-nellorbita-di-mercurio-dopo-8-anni-di-viaggio-nello-spazio-8f0c979d-0d45-483d-8b91-58643927b8cb.html",
+     "title": "La sonda BepiColombo entra nell’orbita di Mercurio dopo 8 anni di viaggio nello spazio"
     }
    ],
    "subtype": "scienza"
@@ -493,84 +453,69 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Depistaggi e hard disk spariti, le accuse al superpoliziotto Gianni De Gennaro",
-   "summary": "L'inchiesta dei pm di Caltanissetta su via D'Amelio e sulla scomparsa dell'agenda rossa",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/depistaggi-e-hard-disk-spariti-le-accuse-al-superpoliziotto-gianni-de-gennaro_d560e4cd-8266-4e0e-9313-54757e4b8309.html",
-   "pub_ts": 1795311839,
-   "n_sources": 8,
+   "title": "Messico, catturato El Chapo Isidro, boss dei narcos nemico di Guzmán nella black list dell’Fbi",
+   "summary": "Considerato il leader internazionale di cocaina, eroina e fentanyil, era sopravvissuto alle guerre tra gli altri grandi narcotrafficanti. Violenze a Guasave, la sua roccaforte, con almeno 11 morti",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/messico_narcos_arrestato_el_chapo_isidro_scontri_armati-425740170/?rss",
+   "pub_ts": 1795342841,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/depistaggi-e-hard-disk-spariti-le-accuse-al-superpoliziotto-gianni-de-gennaro_d560e4cd-8266-4e0e-9313-54757e4b8309.html",
-     "title": "Depistaggi e hard disk spariti, le accuse al superpoliziotto Gianni De Gennaro"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/messico_narcos_arrestato_el_chapo_isidro_scontri_armati-425740170/?rss",
+     "title": "Messico, catturato El Chapo Isidro, boss dei narcos nemico di Guzmán nella black list dell’Fbi"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/11/21/capo-della-polizia-poi-007-la-vita-di-gianni-de-gennaro-nelle-foto_3948a551-2975-420c-aa7c-ac4b28509bfb.html",
-     "title": "Capo della Polizia, poi 007: la vita di Gianni De Gennaro nelle foto d'archivio"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://palermo.repubblica.it/cronaca/2026/11/22/news/de_gennaro_accuse_procura_caltanissetta-425741294/",
-     "title": "Le accuse a De Gennaro, Via D’Amelio e l’agenda rossa sparita. “Fu un depistaggio”"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/messico-cattura-narcos-el-chapo-isidro_QsGrsfc3x5162w4zQBtpK",
+     "title": "Messico, catturato El Chapo Isidro: 11 morti nell'operazione anti narcos"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/de-gennaro-borsellino-e-un-agenda-rossa-inchiesta-sui-misteri-italiani-caponnetto-403f5d87-366a-49da-aeac-d9010d4a2235.html",
-     "title": "De Gennaro, Borsellino e un'agenda rossa. L'inchiesta sui misteri italiani"
+     "link": "https://www.rainews.it/articoli/2026/11/scene-di-guerriglia-in-messico-preso-il-superboss-dei-narcos-meza-flores-el-chapo-isidro-582fcf28-c781-4653-a761-df54b1964c9e.html",
+     "title": "Scene di guerriglia in Messico, preso il superboss dei narcos Meza-Flores El Chapo Isidro"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/una-morte-italiana-de-gennaro-non-ha-retto-alle-accuse-su-borsellino-pizmtn7i",
-     "title": "Una morte italiana: «De Gennaro non ha retto alle accuse su Borsellino»"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/21/accuse-indagine-gianni-de-gennaro-via-damelio/",
-     "title": "Di cosa era accusato Gianni De Gennaro"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/messico_narcos_arrestato_el_chapo_isidro_scontri_armati-425740170/",
+     "title": "Messico, catturato El Chapo Isidro, boss dei narcos nemico di Guzmán nella black list dell’Fbi"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/21/gianni-de-gennaro-morto-suicida-dal-caso-dello-scoop-che-ha-bruciato-lindagine-su-berlusconi-e-cosa-nostra-alla-richiesta-darresto-per-depistaggio/8579378/",
-     "title": "Gianni De Gennaro morto suicida: dal caso dello scoop che ha bruciato l’indagine su Berlusconi e Cosa Nostra, alla richiesta d’arresto per depistaggio"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/il-presunto-depistaggio-laccusa-infamante-per-cosa-era-indagato-de-gennaro/",
-     "title": "Il presunto depistaggio, l’accusa infamante: per cosa era indagato De Gennaro"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/22/el-chapo-isidro-arrestato-guasave-notizie/8580171/",
+     "title": "Guerriglia in Messico, 11 morti e spari dagli elicotteri per catturare il boss El Chapo Isidro"
     }
    ]
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "Scossa di terremoto nel Vibonese, 4.3 di magnitudo",
-   "summary": "Il sisma registrato dall'Ingv alle 22.58",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/scossa-di-terremoto-nel-vibonese-4.3-di-magnitudo_a71649cd-31c0-41fc-aa50-9c1a8f6773db.html",
-   "pub_ts": 1795299840,
+   "title": "Incendio in una fabbrica in Indonesia, 39 persone disperse",
+   "summary": "Il rogo nello stabilimento di un'azienda dolciaria",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/incendio-in-una-fabbrica-in-indonesia-39-persone-disperse_40c71c86-44bd-42a9-a717-c75459ca45ce.html",
+   "pub_ts": 1795345219,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/scossa-di-terremoto-nel-vibonese-4.3-di-magnitudo_a71649cd-31c0-41fc-aa50-9c1a8f6773db.html",
-     "title": "Scossa di terremoto nel Vibonese, 4.3 di magnitudo"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/incendio-in-una-fabbrica-in-indonesia-39-persone-disperse_40c71c86-44bd-42a9-a717-c75459ca45ce.html",
+     "title": "Incendio in una fabbrica in Indonesia, 39 persone disperse"
     },
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/21/news/peru_terremoto_di_magnitudo_67-425739436/?rss",
-     "title": "Perù, terremoto di magnitudo 6,7"
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/indonesia_incendio_fabbrica_caramelle_jakarta_morti_dispersi-425741332/?rss",
+     "title": "Indonesia, incendio in una fabbrica di caramelle vicino a Jakarta: 3 morti e 36 dispersi"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/scossa-di-terremoto-nel-vibonese-2e6cdae2-35a9-4dcc-92de-47d2c1ec8f24.html",
-     "title": "Scossa di terremoto di magnitudo 4.3 nel Vibonese"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/22/indonesia-incendio-fabbrica-di-dolci/",
+     "title": "Tre persone sono morte e decine sono disperse a causa di un incendio in una fabbrica di dolci in Indonesia"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/terremoto-oggi-peru-lima_2RqvuHMS354hZGs4LHBjtu",
-     "title": "Forte terremoto in Perù, la scossa di magnitudo 6.7 avvertita a Lima: paura e gente in strada"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/22/incendio-in-una-fabbrica-di-caramelle-in-indonesia-almeno-tre-morti-e-36-dispersi-si-cercano-i-lavoratori-intrappolati/8580227/",
+     "title": "Incendio in una fabbrica di caramelle in Indonesia: almeno tre morti e 36 dispersi, si cercano i lavoratori intrappolati"
     }
    ]
   }
@@ -580,7 +525,7 @@
    "title": "Il fronte del Mar Baltico, la nave delle armi russa colpita da un raid di Kiev",
    "link": "https://www.repubblica.it/esteri/2026/11/22/news/fronte_mar_baltico_finlandia_nave_armi_russa_colpita_raid_kiev-425740634/?rss",
    "description": "La “Sparta II” attaccata nel Golfo della Finlandia: da anni si ritiene trasporti armamenti. L’Ucraina prova a isolare San Pietroburgo",
-   "pub_ts": 1795314660,
+   "pub_ts": 1795345380,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
@@ -595,29 +540,38 @@
    "section": "politica"
   },
   {
-   "title": "Usa, l’intelligence avverte le compagnie aeree: “Al Qaeda pronta a compiere attacchi”",
-   "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_allerta_intelligence_al_qaeda_attacchi_aerei-425739361/?rss",
-   "description": "L'allarme alla vigilia del Thanksgiving, quando sono attesi circa 6 milioni di passeggeri sui voli interni. Fbi e servizi di sicurezza: “Al momento nessuna minaccia specifica e credibile”",
-   "pub_ts": 1795260920,
+   "title": "Gli 007 Usa allertano le compagnie aeree: 'Al Qaeda pronta a compiere attacchi'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/gli-007-usa-allertano-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+   "description": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
+   "pub_ts": 1795247341,
+   "source": "ANSA Cronaca",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump rilascia i file su Bigfoot: online tre fascicoli sull’uomo-scimmia",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/bigfoot_file_uomo_scimmia_stati_uniti_avvistamenti_trump-425741790/?rss",
+   "description": "Tra i documenti custoditi per decenni figura il resoconto di una spedizione organizzata dal governo nel 1982 per esaminare decine di impronte rinvenute nei boschi dello Stato di Washington e in Oregon",
+   "pub_ts": 1795344630,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Stretta di Fdi su studenti e cortei, 'agli indagati via le borse di studio'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/stretta-di-fdi-su-studenti-e-cortei-agli-indagati-via-le-borse-di-studio_f2ff1955-8465-47a7-a924-b8ab597b2323.html",
-   "description": "Le opposizioni contro gli emendamenti di Delmastro: 'Garantista solo con se stesso'",
-   "pub_ts": 1795293217,
-   "source": "ANSA",
+   "title": "Cop31, nuova bozza con riferimento indiretto a uscita da fossili",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop31-nuova-bozza-con-riferimento-indiretto-a-uscita-da-fossili_d5d76c15-7f98-4144-a933-3e46ce78150b.html",
+   "description": "Non viene citata direttamente, ma si cita Cop28 che l'aveva prevista",
+   "pub_ts": 1795341780,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Hackerato l'archivio FBI, Trump: \"Non mi piace, ma forse scopriremo delle cose\"",
-   "link": "https://www.rainews.it/video/2026/11/hackerato-archivio-fbi-trump-non-mi-piace-ma-forse-scopriremo-delle-cose-lo-savio-ny-a8c54ef8-3621-48be-8b71-4b1194017652.html",
-   "description": "Il presidente americano alla Fox parla di Iran e Ucraina, poi si lascia andare sull'attacco alla banca dati dell'FBI: \"Non è cosa buona ma forse scopriremo cose che altrimenti non avremmo mai scoperto”",
-   "pub_ts": 1795306740,
-   "source": "Rai News",
+   "title": "Bahrein, incendio in un sito industriale civile per un attacco iraniano",
+   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/bahrein-incendio-in-un-sito-industriale-civile-per-un-attacco-iraniano_4e3fd91c-b52e-4cd3-8904-11dd3b7f70dd.html",
+   "description": "Ministero dell'Interno: 'Riportati danni materiali, non ci sono segnalazioni di feriti'",
+   "pub_ts": 1795331640,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -631,15 +585,6 @@
    "section": "politica"
   },
   {
-   "title": "Clima, la Cop a rischio fallimento. La Ue frena la lobby dei fossili",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/clima_cop31_rischio_fallimento_ue_frena_lobby_fossili-425740804/?rss",
-   "description": "Ultima notte di negoziati, manca la bozza finale per le scissioni tra i due blocchi. Europa e Sud globale contro sauditi e alleati: “Vogliono una licenza per inquinare”",
-   "pub_ts": 1795306680,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Israele, Eisenkot ora ha fretta: prende corpo l’ipotesi di un governo di minoranza",
    "link": "https://www.repubblica.it/esteri/2026/11/22/news/israele_eisenkot_ora_ha_fretta_ipotesi_governo_di_minoranza-425740888/?rss",
    "description": "Per liberarsi di Netanyahu e superare i veti degli alleati, il premier incaricato medita di andare alla conta nell’aula della Knesset",
@@ -649,38 +594,47 @@
    "section": "politica"
   },
   {
-   "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_39eedb13-3399-4f30-bacf-70d46bed39b7.html",
-   "description": "'Un modo per reagire a ciò che avvertiva come una grande ingiustizia'",
-   "pub_ts": 1795284814,
-   "source": "ANSA Politica",
+   "title": "Droni ucraini sulla Russia, attacco a una caserma a Krasnodar – La diretta",
+   "link": "https://www.open.online/2026/11/22/guerra-russia-ucraina-22-nov-ultime-notizie-diretta/",
+   "description": "Il raid ha colpito il quartier generale della Guardia nazionale russa della Rosgvardia L'articolo Droni ucraini sulla Russia, attacco a una caserma a Krasnodar – La diretta proviene da Open.",
+   "pub_ts": 1795323223,
+   "source": "Open",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Cgil in 100 piazze: 'Siamo un milione e mezzo, il Governo confuso'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/cgil-in-100-piazze-siamo-un-milione-e-mezzo-il-governo-confuso_86e7ce84-b2a8-45ce-9c08-87380ca1759d.html",
-   "description": "'Presidio al parlamento se manovra non cambia'. Pa, meno del 12% in sciopero",
-   "pub_ts": 1795208831,
-   "source": "ANSA Cronaca",
+   "title": "Prima lo sparo, poi il cacciatore si accascia a terra: giallo sull’uomo morto nel Reggino. Sospetti sul colpo partito da un amico",
+   "link": "https://www.open.online/2026/11/22/reggio-calabria-cacciatore-pasquale-racesi-morto-indagini/",
+   "description": "L'incidente è avvenuto nelle campagna di Pimidoro, frazione di Oppido Mamertina, dove era in corso una battuta di caccia. Le indagini sul colpo partito dall'arma di un altro partecipante L'articolo Prima lo sparo, poi il cacciatore si accascia a terra: giallo sull’uomo morto nel Reggino. Sospetti sul colpo partito da un amico proviene da Open.",
+   "pub_ts": 1795343108,
+   "source": "Open",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Record per GTA 6: 3,79 miliardi di dollari in un giorno",
-   "link": "https://www.punto-informatico.it/record-gta-6-379-miliardi-dollari/",
-   "description": "Take-Two Interactive ha incassato 3,79 miliardi di dollari in un giorno con GTA 6, quasi un miliardo in più del guadagno totale di Avenger: Endgame. The post Record per GTA 6: 3,79 miliardi di dollari in un giorno appeared first on Punto Informatico .",
-   "pub_ts": 1795281322,
+   "title": "Coinbase blocca una truffa crypto con deepfake di Elon Musk",
+   "link": "https://www.punto-informatico.it/fintech/criptovalute/coinbase-blocca-truffa-crypto-deepfake-elon-musk/",
+   "description": "Coinbase ha bloccato il trasferimento di 4,7 milioni di dollari in criptovalute, grazie al suo agente AI che ha rilevato la truffa su YouTube. The post Coinbase blocca una truffa crypto con deepfake di Elon Musk appeared first on Punto Informatico .",
+   "pub_ts": 1795345409,
    "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "C’è un altro matematico che potrebbe aver dimostrato l’ipotesi di Riemann",
-   "link": "https://www.ilpost.it/2026/11/21/alessandro-masullo-ipotesi-riemann/",
-   "description": "È l'italiano Alessandro Masullo che, a differenza del ricercatore di Anthropic che l'ha annunciato poco prima, dice di non aver usato l'AI",
-   "pub_ts": 1795263831,
-   "source": "Il Post",
+   "title": "5 differenze tra Claude e ChatGPT per capire quale conviene usare",
+   "link": "https://www.punto-informatico.it/5-differenze-claude-chatgpt-capire-quale-conviene-usare/",
+   "description": "Claude e ChatGPT sono i due chatbot più usati al mondo e fanno cose simili, ma non identiche. 5 differenze concrete per capire quale conviene usare. The post 5 differenze tra Claude e ChatGPT per capire quale conviene usare appeared first on Punto Informatico .",
+   "pub_ts": 1795336207,
+   "source": "Punto Informatico",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Cresce l'allarme sulle truffe cyber in vista del Black Friday",
+   "link": "https://www.rainews.it/articoli/2026/11/cresce-lallarme-sulle-truffe-cyber-in-vista-del-black-friday-db348638-806c-4ffa-a228-411f0039b617.html",
+   "description": "Ricerca, un messaggio spam su due a tema promozionale nasconde un tentativo di frode",
+   "pub_ts": 1795334160,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "tech"
   },
@@ -694,20 +648,20 @@
    "section": "tech"
   },
   {
-   "title": "Morning Weekend – Quanti europei hanno comprato un pezzo di Anthropic, e altre storie",
-   "link": "https://www.ilpost.it/episodes/morning-weekend-quanti-europei-hanno-comprato-un-pezzo-di-anthropic-e-altre-storie/",
-   "description": "Quanti soldi serviranno nel 2027 all’Ucraina per sopravvivere, tre storie dal Ruanda, una industria europea sorprendentemente dinamica e il rimpianto di una persona che non ha mai praticato sport di squadra",
-   "pub_ts": 1795244455,
-   "source": "Il Post",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
    "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
    "description": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
-   "pub_ts": 1795302201,
+   "pub_ts": 1795335028,
    "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Cop31: la presidenza turca vuole far votare la bozza senza modifiche, l'Ue voterà no",
+   "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/cop31-la-presidenza-turca-vuole-far-votare-la-bozza-senza-modifiche-lue_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
+   "description": "Il testo della Cover decision diffuso nella note e bocciato dall'Europa",
+   "pub_ts": 1795345566,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
@@ -730,38 +684,29 @@
    "section": "varia"
   },
   {
-   "title": "Tumore alla gola e Hpv, cosa ci insegna la storia di Paola Barale",
-   "link": "https://www.repubblica.it/salute/rubriche/saluteseno/2026/11/20/news/tumore_alla_gola_e_hpv_cosa_ci_insegna_la_storia_di_paola_barale-425737996/?rss",
-   "description": "Il caso della conduttrice riporta l'attenzione sui tumori correlati a questo virus, che possono colpire diversi organi, non solo il collo dell’utero. Ecco cosa è importante sapere per orientarsi correttamente",
-   "pub_ts": 1795272586,
-   "source": "Repubblica Salute",
+   "title": "La sonda BepiColombo entra nell’orbita di Mercurio dopo 8 anni di viaggio nello spazio",
+   "link": "https://www.rainews.it/articoli/2026/11/la-sonda-bepicolombo-entra-nellorbita-di-mercurio-dopo-8-anni-di-viaggio-nello-spazio-8f0c979d-0d45-483d-8b91-58643927b8cb.html",
+   "description": "Organizzata da Europa e Giappone, la missione studierà il pianeta più vicino al Sole",
+   "pub_ts": 1795342380,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-   "description": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
-   "pub_ts": 1795272792,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Depistaggi e hard disk spariti, le accuse al superpoliziotto Gianni De Gennaro",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/depistaggi-e-hard-disk-spariti-le-accuse-al-superpoliziotto-gianni-de-gennaro_d560e4cd-8266-4e0e-9313-54757e4b8309.html",
-   "description": "L'inchiesta dei pm di Caltanissetta su via D'Amelio e sulla scomparsa dell'agenda rossa",
-   "pub_ts": 1795311839,
-   "source": "ANSA Cronaca",
+   "title": "Messico, catturato El Chapo Isidro, boss dei narcos nemico di Guzmán nella black list dell’Fbi",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/messico_narcos_arrestato_el_chapo_isidro_scontri_armati-425740170/?rss",
+   "description": "Considerato il leader internazionale di cocaina, eroina e fentanyil, era sopravvissuto alle guerre tra gli altri grandi narcotrafficanti. Violenze a Guasave, la sua roccaforte, con almeno 11 morti",
+   "pub_ts": 1795342841,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   },
   {
-   "title": "Scossa di terremoto nel Vibonese, 4.3 di magnitudo",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/scossa-di-terremoto-nel-vibonese-4.3-di-magnitudo_a71649cd-31c0-41fc-aa50-9c1a8f6773db.html",
-   "description": "Il sisma registrato dall'Ingv alle 22.58",
-   "pub_ts": 1795299840,
-   "source": "ANSA Cronaca",
+   "title": "Incendio in una fabbrica in Indonesia, 39 persone disperse",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/incendio-in-una-fabbrica-in-indonesia-39-persone-disperse_40c71c86-44bd-42a9-a717-c75459ca45ce.html",
+   "description": "Il rogo nello stabilimento di un'azienda dolciaria",
+   "pub_ts": 1795345219,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
   }
