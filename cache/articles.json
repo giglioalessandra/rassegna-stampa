@@ -1,6 +1,6 @@
 {
- "generated_at": 1795423722,
- "updated_at": 1795423722,
+ "generated_at": 1795467936,
+ "updated_at": 1795467936,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,169 +10,11 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Zelensky rivendica gli attacchi alle navi russe in Libia: 'Operazione esemplare'",
-   "summary": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'. Tajani 'preoccupato'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
-   "pub_ts": 1795422420,
-   "n_sources": 7,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
-     "title": "Zelensky rivendica gli attacchi alle navi russe in Libia: 'Operazione esemplare'"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/zelensky-rivendica-gli-attacchi-a-navi-russe-in-libia-operazione-esemplare_36514ab3-39c4-41a2-ae12-46b412476993.html",
-     "title": "Zelensky rivendica gli attacchi a navi russe in Libia, 'operazione esemplare'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/guerra-russia-ucraina-kiev-attacca-due-navi-in-libia-la-guerra-dei-mari-arriva-nel-mediterraneo-32194e3e-ad5f-476a-bd5c-b72037956222.html",
-     "title": "Kiev attacca due navi in Libia, Zelensky rivendica: \"Operazione esemplare\""
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/23/libia-navi-russe-ucraina-attacco/",
-     "title": "L’attacco dell’Ucraina a due navi russe in Libia"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-23-novembre-2026_2bbFB620h5TWkZZR3U7UGD",
-     "title": "Ucraina, Zelensky conferma raid in Libia contro navi russe. Tajani: \"Preoccupa esplosione a pochi chilometri da Italia\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/23/diretta/guerra_ucraina_russia_news_oggi-425742911/",
-     "title": "Guerra Ucraina-Russia, le news. Zelensky rivendica gli attacchi alle navi russe in Libia: “Operazione esemplare”"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/11/23/navi-russe-libia-zelensky-notizie/8580675/",
-     "title": "Sono due le navi russe colpite in Libia. Zelensky rivendica: “Operazione esemplare”. Onu: “Seria preoccupazione”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "L'ira di Eisenkot e Sa'ar per i coloni violenti, 'terrorismo ebraico'",
-   "summary": "Ancora auto e proprietà incendiate in Cisgiordania. Avanti i negoziati tra Likud e Yashar",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/22/lira-di-eisenkot-e-saar-per-i-coloni-violenti-terrorismo-ebraico_eb3844ea-33e9-4eb6-b93c-7f70f616f8e2.html",
-   "pub_ts": 1795419180,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/22/lira-di-eisenkot-e-saar-per-i-coloni-violenti-terrorismo-ebraico_eb3844ea-33e9-4eb6-b93c-7f70f616f8e2.html",
-     "title": "L'ira di Eisenkot e Sa'ar per i coloni violenti, 'terrorismo ebraico'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cisgiordania_coloni_eisenkot_terrorismo_ebraico-425742079/?rss",
-     "title": "I coloni mettono a ferro e fuoco la Cisgiordania. Eisenkot: “Fermare il terrorismo ebraico”"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/medio-oriente-guerre-coloni-ebraici-devastano-cisgiordania-eisenkot-terrorismo-ebraico-gaza-esplosivi-come-13-atomiche-avvelenato-il-99-per-cento-territorio-b68ff0b0-b134-42ac-b311-3fa67ce32a5c.html",
-     "title": "I coloni israeliani devastano la Cisgiordania, Eisenkot: \"Terrorismo ebraico\""
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/23/gadi-eisenkot-condanna-coloni-isreaeliani-cisgiordania-terrorismo-ebraico/",
-     "title": "Eisenkot contro le violenze dei coloni israeliani in Cisgiordania"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/cisgiordania-i-coloni-ferro-fuoco-villaggi-palestinesi-ramallah-eisenkot-bengivr-nw1264fo",
-     "title": "Cisgiordania, i coloni danno fuoco a case e auto vicino Ramallah. Eisenkot: «È terrorismo ebraico»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cisgiordania_coloni_eisenkot_terrorismo_ebraico-425742079/",
-     "title": "I coloni mettono a ferro e fuoco la Cisgiordania. Eisenkot: “Fermare il terrorismo ebraico”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il Nyt: 'Alice Huang contattava gli 007 cinesi durante la relazione il ceo di Nvidia'",
-   "summary": "'L'intelligence Usa la teneva d'occhio da un anno. Trump sapeva ma minimizzò'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/23/nyt-alice-huang-contattava-gli-007-cinesi-durante-la-relazione-con_3b65cbb9-4e5d-4d2f-a3f3-a500f378a2e0.html",
-   "pub_ts": 1795422560,
-   "n_sources": 5,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/23/nyt-alice-huang-contattava-gli-007-cinesi-durante-la-relazione-con_3b65cbb9-4e5d-4d2f-a3f3-a500f378a2e0.html",
-     "title": "Il Nyt: 'Alice Huang contattava gli 007 cinesi durante la relazione il ceo di Nvidia'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/?rss",
-     "title": "Nvidia, nuove relazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/nvidia-alice-huang-servizi-segreti-cinesi_6RO0EQ44wPAXWInbSSZJh",
-     "title": "Scandalo Nvidia, il New York Times: \"Alice Huang in contatto con servizi segreti cinesi da primavera 2025\""
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/nyt-alice-huang-contattava-007-cinesi-la-relazione-jensen-AJxlkmPC",
-     "title": "Nyt: «Alice Huang contattava gli 007 cinesi durante la relazione con Jensen»"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/new-york-times-la-caduta-del-ceo-di-nvidia-alice-huang-era-in-contatto-con-agenzia-spionaggio-cina-13ae2779-2dac-49cf-906d-e18db9a46b4e.html",
-     "title": "Il New York Times: \"Alice Huang era in contatto con gli 007 cinesi\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Media, nave russa colpita in Libia da attacco a lungo raggio ucraino",
-   "summary": "Lo afferma Barak Ravid di Axios citando una 'fonte a conoscenza' dell'accaduto",
-   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/22/media-nave-russa-colpita-in-libia-da-attacco-a-lungo-raggio-ucraino_0c7df80f-d236-48ee-82b2-672a1d937471.html",
-   "pub_ts": 1795422180,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/22/media-nave-russa-colpita-in-libia-da-attacco-a-lungo-raggio-ucraino_0c7df80f-d236-48ee-82b2-672a1d937471.html",
-     "title": "Media, nave russa colpita in Libia da attacco a lungo raggio ucraino"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/fronte_mar_baltico_finlandia_nave_armi_russa_colpita_raid_kiev-425740634/?rss",
-     "title": "Il fronte del Mar Baltico, la nave delle armi russa colpita da un raid di Kiev"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/soggettiva-del-drone-marino-ucraino-mentre-esplode-sulla-nave-russa-al-largo-della-libia-il-video-del-blitz-fd8bcc05-086c-4faa-919c-85d9419ce6f2.html",
-     "title": "Soggettiva del drone marino ucraino mentre esplode sulla nave russa al largo della Libia"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/",
-     "title": "L’Ucraina ha attaccato una nave militare russa in Libia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
    "title": "Tajani, 'preoccupa esplosione nave russa in Libia, evitare guerra in Mediterraneo'",
    "summary": "'Presenza russa deve essere seguita con grande attenzione'",
    "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/tajani-preoccupa-esplosione-nave-russa-in-libia-evitare-guerra-in-mediterraneo_8c4b161e-2f37-4301-a33d-a355cb9a2362.html",
-   "pub_ts": 1795417464,
-   "n_sources": 4,
+   "pub_ts": 1795460280,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
@@ -186,268 +28,422 @@
      "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/bengasi-esplosione-nave-russa-corvetta-merkury-attacco_42Qpcvj6I4XtMJkoCUCbyw",
-     "title": "Libia, nave da guerra russa distrutta nel porto di Bengasi: è la corvetta lanciamissili 'Merkury'"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/dal-satellite-le-immagini-di-navi-nel-porto-di-bengasi-dopo-il-presunto-attacco-con-droni-ucraino-60a17005-db48-434f-a26a-9ce8ffe386e5.html",
+     "title": "Dal satellite le immagini di navi nel porto di Bengasi dopo attacco con droni"
     },
     {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/",
      "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/",
+     "title": "L’Ucraina ha attaccato una nave militare russa in Libia"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/bengasi-libia-orientale--nave-russa-colpita-con-droni-attacco-ucraino-d06bjj9d",
+     "title": "Bengasi, nave russa colpita con droni. Axios: «Un attacco condotto dal Servizio di sicurezza ucraino»"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Tornano i blitz dell'Ice, agenti mascherati seminano il terrore",
-   "summary": "Due fermi all'aeroporto di Seattle, arrestata una ricercatrice di Princeton a Washington",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/tornano-i-blitz-dellice-agenti-mascherati-seminano-il-terrore-_4aac05d0-a3a8-408a-93bb-81adedbdda99.html",
-   "pub_ts": 1795392960,
+   "title": "Zelensky rivendica gli attacchi a navi russe in Libia, 'operazione esemplare'",
+   "summary": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/zelensky-rivendica-gli-attacchi-a-navi-russe-in-libia-operazione-esemplare_36514ab3-39c4-41a2-ae12-46b412476993.html",
+   "pub_ts": 1795459777,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/zelensky-rivendica-gli-attacchi-a-navi-russe-in-libia-operazione-esemplare_36514ab3-39c4-41a2-ae12-46b412476993.html",
+     "title": "Zelensky rivendica gli attacchi a navi russe in Libia, 'operazione esemplare'"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/navi-russe-libia-attacco-ucraina-kiev-nato-kushner-hagen9b2",
+     "title": "I droni ucraini in Libia allarmano l’Onu, Zelensky esulta: «Operazione esemplare»"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/23/diretta/guerra_ucraina_russia_news_oggi-425742911/",
+     "title": "Guerra Ucraina-Russia. Zelensky: “In Libia operazione esemplare”. Nuove sanzioni Ue contro Mosca"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "I coloni mettono a ferro e fuoco la Cisgiordania. Eisenkot: “Fermare il terrorismo ebraico”",
+   "summary": "Ennesimo assalto nella notte ad opera di giovani calati dagli insediamenti illegali, auto e case date alle fiamme in quattro villaggi. Sui muri la scritta: “Vendetta”. L’opposizione israeliana insorge",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/cisgiordania_coloni_eisenkot_terrorismo_ebraico-425742079/?rss",
+   "pub_ts": 1795413432,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cisgiordania_coloni_eisenkot_terrorismo_ebraico-425742079/?rss",
+     "title": "I coloni mettono a ferro e fuoco la Cisgiordania. Eisenkot: “Fermare il terrorismo ebraico”"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/23/gadi-eisenkot-condanna-coloni-isreaeliani-cisgiordania-terrorismo-ebraico/",
+     "title": "Eisenkot contro le violenze dei coloni israeliani in Cisgiordania"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/cisgiordania-i-coloni-ferro-fuoco-villaggi-palestinesi-ramallah-eisenkot-bengivr-nw1264fo",
+     "title": "Cisgiordania, i coloni danno fuoco a case e auto vicino Ramallah. Eisenkot: «È terrorismo ebraico»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Mattarella sul fisco: \"Per pagare di meno bisogna contribuire tutti\"",
+   "summary": "All'incontro con i primi magistrati tributari in tirocinio, il Capo dello Stato richiama la Costituzione: \"L'evasione ostacola la coesione sociale. Oggi la tecnologia permette di tracciare la ricchezza senza violare la privacy\"",
+   "link": "https://www.rainews.it/articoli/2026/11/mattarella-sul-fisco-per-pagare-di-meno-bisogna-contribuire-tutti-c88ffd90-aea8-4d02-b4e9-8081ff2b8ba0.html",
+   "pub_ts": 1795458360,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/mattarella-sul-fisco-per-pagare-di-meno-bisogna-contribuire-tutti-c88ffd90-aea8-4d02-b4e9-8081ff2b8ba0.html",
+     "title": "Mattarella sul fisco: \"Per pagare di meno bisogna contribuire tutti\""
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/23/news/mattarella_fisco_evasione_contribuire_tutti-425744623/",
+     "title": "Mattarella: “Tutti auspichiamo un fisco più leggero. Ma per contribuire di meno bisogna farlo tutti”"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/23/evasione-fiscale-mattarella-coesione-sociale-notizie/8581483/",
+     "title": "Mattarella: “Chi evade il fisco ostacola la coesione sociale e l’unità nazionale. Per pagare meno bisogna contribuire tutti”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Gisèle Pelicot denuncia: 'Una casa editrice ha diffuso mie foto intime'",
+   "summary": "La donna, vittima degli 'stupri di Mazan' accusa: 'Nel libro si lascia intendere che ero complice'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/gisele-pelicot-denuncia-una-casa-editrice-ha-diffuso-mie-foto-intime_81aaf534-1963-41b5-bbdf-1f1a1efac54d.html",
+   "pub_ts": 1795446310,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/tornano-i-blitz-dellice-agenti-mascherati-seminano-il-terrore-_4aac05d0-a3a8-408a-93bb-81adedbdda99.html",
-     "title": "Tornano i blitz dell'Ice, agenti mascherati seminano il terrore"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/gisele-pelicot-denuncia-una-casa-editrice-ha-diffuso-mie-foto-intime_81aaf534-1963-41b5-bbdf-1f1a1efac54d.html",
+     "title": "Gisèle Pelicot denuncia: 'Una casa editrice ha diffuso mie foto intime'"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/23/gisele-pelicot-vuole-denunciare-una-casa-editrice-per-aver-usato-alcune-sue-foto-intime-per-promuovere-un-libro/",
+     "title": "Gisèle Pelicot vuole denunciare una casa editrice per aver usato alcune sue foto intime per promuovere un libro"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Zelensky rivendica gli attacchi alle navi russe in Libia e lancia un appello alla Nato: 'Arriva l'inverno, aiutateci'",
+   "summary": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'. Tajani 'preoccupato'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
+   "pub_ts": 1795439640,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
+     "title": "Zelensky rivendica gli attacchi alle navi russe in Libia e lancia un appello alla Nato: 'Arriva l'inverno, aiutateci'"
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/stati-uniti-eva-e-sofia-video-shock-ordinario-terrore-dell-ice-lo-prete-new-york-c7c79807-13a2-462f-b418-15e348aaad33.html",
-     "title": "Eva e Sofia, nei video l'ordinario terrore dell'ICE"
+     "link": "https://www.rainews.it/video/2026/11/ucraina-il-fronte-mediterraneo-zelensky-rivendica-gli-attacchi-a-due-navi-russe-in-cirenaica-f7d9eddf-e894-49d7-ab8d-19ef96f5a2ea.html",
+     "title": "Ucraina, il fronte mediterraneo: Zelensky rivendica gli attacchi a due navi russe in Cirenaica"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Anche bambini e bambine nella delegazione dell'Unicef da Mattarella",
+   "summary": "Delle scuole elementari e medie della Toscana e della Campania",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/23/anche-bambini-e-bambine-nella-delegazione-dellunicef-da-mattarella_b1e841c3-d0f9-4820-a575-2fa27c906335.html",
+   "pub_ts": 1795435180,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/23/anche-bambini-e-bambine-nella-delegazione-dellunicef-da-mattarella_b1e841c3-d0f9-4820-a575-2fa27c906335.html",
+     "title": "Anche bambini e bambine nella delegazione dell'Unicef da Mattarella"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-i-bambini-nel-mondo-soffrono-situazione-sconfortante.-serve-piu-impegno_adf5489d-4564-4a25-86af-6310f95b7bd7.html",
+     "title": "Mattarella: 'I bambini nel mondo soffrono, situazione sconfortante. Serve più impegno'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Le minacce di Teheran: «I nostri missili ora possono colpire l’Europa»",
+   "summary": "L’Iran annuncia di possedere nuove testate dalla gittata superiore ai 5000 chilometri. Rubio riceve il ministro degli Esteri del Qatar che teme una nuova escalation nel Golfo. Nonostante il pressing di Netanyahu che chiede nuovi raid, i mercati credono in un allentamento delle tensioni",
+   "link": "https://www.editorialedomani.it/politica/mondo/iran-minacce-europa-israele-netanyahu-trattative-eisenkot-sjzpyl30",
+   "pub_ts": 1795465193,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/iran-minacce-europa-israele-netanyahu-trattative-eisenkot-sjzpyl30",
+     "title": "Le minacce di Teheran: «I nostri missili ora possono colpire l’Europa»"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/iran-teheran-missili-lunga-gittata_67Z5udT84sqgYYkFU9DZLd",
+     "title": "Iran, dissidente Karimi: \"Missili da 4.500 km minaccia reale, per Teheran anche l'Europa è ostile\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video",
+   "summary": "Durante l'annuale cena di gala con i giornalisti Mark Carney ha partecipato a un siparietto comico insieme a due comici che interpretavano lui e il presidente statunitense L'articolo Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video proviene da Open.",
+   "link": "https://www.open.online/2026/11/23/primo-ministro-canadese-mark-carney-invita-donald-trump-palco-ma-e-imitatore-video/",
+   "pub_ts": 1795453288,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/23/primo-ministro-canadese-mark-carney-invita-donald-trump-palco-ma-e-imitatore-video/",
+     "title": "Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/flashes/imitatore-donald-trump-imitatore-di-mark-carney-gala-stampa-canadese/",
+     "title": "Il siparietto tra un imitatore di Donald Trump e un imitatore di Mark Carney al gala della stampa canadese"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Ex ministro brasiliano, tassare i miliardari per frenare la nuova oligarchia globale",
+   "summary": "Fernando Haddad rilancia la proposta di un'imposta minima globale del 2%",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/ex-ministro-brasiliano-tassare-i-miliardari-per-frenare-la-nuova-oligarchia-globale_4ff6ca9a-a090-4705-a923-591710205f5c.html",
+   "pub_ts": 1795437990,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/ex-ministro-brasiliano-tassare-i-miliardari-per-frenare-la-nuova-oligarchia-globale_4ff6ca9a-a090-4705-a923-591710205f5c.html",
+     "title": "Ex ministro brasiliano, tassare i miliardari per frenare la nuova oligarchia globale"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
+   "summary": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
+   "pub_ts": 1795465387,
+   "n_sources": 9,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
+     "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/trump-nvia-huang-torna-amministratore-delegato-tny08092",
+     "title": "Non c’è spia che tenga. Trump salva Huang, che torna a capo di Nvidia"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/jensen-huang-torna-al-comando-di-nvidia-la-decisione-inattesa-del-cda-f004b075-ab5f-4a0b-9d26-8def95e712a4.html",
+     "title": "Jensen Huang torna al comando di Nvidia: la decisione inattesa del cda"
     },
     {
      "name": "Open",
-     "link": "https://www.open.online/2026/11/22/usa-blitz-ice-aeroporti-seattle-dottoranda-princeton-video/",
-     "title": "Blitz dell’Ice negli aeroporti Usa: agenti mascherati arrestano padre e figlia a Seattle. Fermata anche una dottoranda di Princeton – Il video"
+     "link": "https://www.open.online/2026/11/23/huang-torna-nvidia-meme-social-video/",
+     "title": "La vendetta di Huang che torna a Nvidia, valanga di meme (con AI) sul Ceo: spunta quello di Trump con un reggiseno – I video"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/huang-nvidia-trump-azioni-wall-street_2veUbpxB2q24vRVAhtF14n",
+     "title": "Nvidia, Huang torna Ceo. Trump 'regista' dell'operazione. Anche il presidente fa festa in Borsa?"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/donald-trump-borsa-festeggiano-ritorno-huang/",
+     "title": "Donald Trump e la Borsa festeggiano il ritorno di Huang"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/23/valore-azioni-nvidia-crescita/",
+     "title": "Il valore delle azioni di Nvidia è cresciuto molto dopo il ritorno di Jensen Huang come amministratore delegato"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/23/news/nvidia_jensen_huang_torna-425744140/",
+     "title": "Nvidia, torna Jensen Huang. Reintegrato come presidente e ceo. Trump: “Ho convinto il cda”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/jensen-huang-torna-ceo-nvidia-trump-musk-titolo-wall-street/",
+     "title": "Nvidia, colpo di scena: Huang torna al comando. E ora che succede?"
     }
    ]
   },
   {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il Mississippi non brucia più: il trionfo del senatore Colom vendica 150 anni di soprusi",
-   "summary": "Democratico e afroamericano, la sua sembrava una battaglia persa ma il giovane avvocato ha travolto le barriere, anche tra i bianchi",
-   "link": "https://www.repubblica.it/esteri/2026/11/23/news/midterm_usa_mississippi_non_brucia_piu_trionfo_senatore_colom_vendica_150_anni_soprusi_neri-425742254/?rss",
-   "pub_ts": 1795392000,
-   "n_sources": 2,
+   "category": "tech",
+   "area": null,
+   "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva",
+   "summary": "Lo rivela il New York Times citando fonti di intelligence",
+   "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/?rss",
+   "pub_ts": 1795446237,
+   "n_sources": 8,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/23/news/midterm_usa_mississippi_non_brucia_piu_trionfo_senatore_colom_vendica_150_anni_soprusi_neri-425742254/?rss",
-     "title": "Il Mississippi non brucia più: il trionfo del senatore Colom vendica 150 anni di soprusi"
+     "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/?rss",
+     "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/23/nyt-alice-huang-contattava-gli-007-cinesi-durante-la-relazione-con_3b65cbb9-4e5d-4d2f-a3f3-a500f378a2e0.html",
+     "title": "Il Nyt: 'Alice Huang contattava gli 007 cinesi durante la relazione il ceo di Nvidia'"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/intelligence-usa-conferma-alice-huang-spia/",
+     "title": "Intelligence USA conferma che Alice Huang era una spia"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/nvidia-il-nyt-alice-huang-in-contatto-con-lo-spionaggio-cinese-e-monitorata-dallintelligence-usa-2b7a1be5-c72a-49e9-9eb9-22720c10d7b1.html",
+     "title": "Nvidia, il NYT: Alice Huang in contatto con lo spionaggio cinese e monitorata dall'Intelligence Usa"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/nvidia-alice-huang-servizi-segreti-cinesi_6RO0EQ44wPAXWInbSSZJh",
+     "title": "Scandalo Nvidia, il New York Times: \"Alice Huang in contatto con servizi segreti cinesi da primavera 2025\""
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/23/new-york-times-alice-huang-contatto-spia-cinese-jensen-huang-nvidia/",
+     "title": "Secondo il New York Times Alice Huang sarebbe stata in contatto per almeno un anno con l’intelligence cinese"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/nyt-alice-huang-contattava-007-cinesi-la-relazione-jensen-AJxlkmPC",
+     "title": "Nyt: «Alice Huang contattava gli 007 cinesi durante la relazione con Jensen»"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/23/news/midterm_usa_mississippi_non_brucia_piu_trionfo_senatore_colom_vendica_150_anni_soprusi_neri-425742254/",
-     "title": "Il Mississippi non brucia più: il trionfo del senatore Colom vendica 150 anni di soprusi"
+     "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/",
+     "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva"
     }
    ]
   },
   {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Telefonate respinte e una lettera cestinata. Tutti i rifiuti di Kim-Jong a Trump",
-   "summary": "E’ imbarazzante la lista dei tentativi fatti dal presidente Usa per dialogare con il dittatore, rivelati da Wall Street Journal , ma ancora più preoccupante è il fatto che in questo modo la Corea del Nord sta potenziando il suo arsenale nucleare",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/trump_kim_i_tentativi_del_presidente_usa_di_incontrare_il_leader_nordcoreano-425742784/?rss",
-   "pub_ts": 1795380828,
+   "category": "tech",
+   "area": null,
+   "title": "Microsoft dopo i disservizi, 'dobbiamo prepararci per i prossimi mesi'",
+   "summary": "Per il presidente Smith il down dell'infrastruttura 'non si risolve in un paio di settimane'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/23/microsoft-dopo-i-disservizi-dobbiamo-prepararci-per-i-prossimi-mesi_7e383e84-4fb9-4ef9-84d1-763f6065af0f.html",
+   "pub_ts": 1795438368,
    "n_sources": 2,
    "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/trump_kim_i_tentativi_del_presidente_usa_di_incontrare_il_leader_nordcoreano-425742784/?rss",
-     "title": "Telefonate respinte e una lettera cestinata. Tutti i rifiuti di Kim-Jong a Trump"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/trump_kim_i_tentativi_del_presidente_usa_di_incontrare_il_leader_nordcoreano-425742784/",
-     "title": "Telefonate respinte e una lettera cestinata. Tutti i rifiuti di Kim-Jong a Trump"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Alleati tiepidi sulla 'patrimoniale' di Schlein, e Tajani la attacca",
-   "summary": "Tavolo progressista al lavoro su abuso di potere e norme sulla cannabis. Martedì nodo Kiev",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/alleati-tiepidi-sulla-patrimoniale-di-schlein-e-tajani-la-attacca_8832c861-009e-4826-9077-8b8df8ecc0e3.html",
-   "pub_ts": 1795379667,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/alleati-tiepidi-sulla-patrimoniale-di-schlein-e-tajani-la-attacca_8832c861-009e-4826-9077-8b8df8ecc0e3.html",
-     "title": "Alleati tiepidi sulla 'patrimoniale' di Schlein, e Tajani la attacca"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Salvini in pressing sul condono, la cautela degli alleati",
-   "summary": "L'ipotesi di un vertice martedì. Aperti i nodi sanità-pensioni. Tajani: 'Vicina l'intesa sul superbonus'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/proposta-della-lega-6-mesi-ai-comuni-per-evadere-le-vecchie-domande-o-scatta_81525291-a346-4208-98f7-5260a842ca06.html",
-   "pub_ts": 1795379160,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/proposta-della-lega-6-mesi-ai-comuni-per-evadere-le-vecchie-domande-o-scatta_81525291-a346-4208-98f7-5260a842ca06.html",
-     "title": "Salvini in pressing sul condono, la cautela degli alleati"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Arrivano i messaggi di WhatsApp visualizzabili una sola volta",
-   "summary": "Una nuova funzione di WhatsApp permette di inviare messaggi che si possono leggere una sola volta: è in fase di test su Android e iOS. The post Arrivano i messaggi di WhatsApp visualizzabili una sola volta appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/messaggi-whatsapp-visualizzabili-una-sola-volta/",
-   "pub_ts": 1795422931,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/messaggi-whatsapp-visualizzabili-una-sola-volta/",
-     "title": "Arrivano i messaggi di WhatsApp visualizzabili una sola volta"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "App IO e malware Mirax: come riconoscere il falso aggiornamento",
-   "summary": "Attenzione al falso sito di Agenzia delle Entrate, propone un APK che installa il malware Mirax su Android: come riconoscerlo ed evitarlo. The post App IO e malware Mirax: come riconoscere il falso aggiornamento appeared first on Punto Informatico .",
-   "link": "https://www.punto-informatico.it/app-io-malware-mirax-come-riconoscere-falso-aggiornamento/",
-   "pub_ts": 1795419131,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/app-io-malware-mirax-come-riconoscere-falso-aggiornamento/",
-     "title": "App IO e malware Mirax: come riconoscere il falso aggiornamento"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Sviluppatori licenziati per l'IA 'occupano' i software, li ricreano gratis",
-   "summary": "Il movimento si chiama 'OccupySaas': \"Ci hanno tagliato fuori, noi ci mettiamo in gioco\"",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/22/ansa-sviluppatori-licenziati-per-lia-occupano-i-software-li-ricreano-gratis_67675254-2c99-4ca0-b317-ec7b4f4dd769.html",
-   "pub_ts": 1795369939,
-   "n_sources": 1,
-   "documented": false,
    "sources": [
     {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/22/ansa-sviluppatori-licenziati-per-lia-occupano-i-software-li-ricreano-gratis_67675254-2c99-4ca0-b317-ec7b4f4dd769.html",
-     "title": "Sviluppatori licenziati per l'IA 'occupano' i software, li ricreano gratis"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/23/microsoft-dopo-i-disservizi-dobbiamo-prepararci-per-i-prossimi-mesi_7e383e84-4fb9-4ef9-84d1-763f6065af0f.html",
+     "title": "Microsoft dopo i disservizi, 'dobbiamo prepararci per i prossimi mesi'"
+    },
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/microsoft-blackout-digitali-ia-rischi-425743792/?rss",
+     "title": "Microsoft avverte: “Preparatevi a nuovi blackout digitali nei prossimi mesi”"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Un modello IA di OpenAI trova una falla critica in Java",
-   "summary": "L’azienda di cybersecurity Calif ha scoperto in tre ore Java4Shell con l’aiuto del modello GPT-6 Cyber. La falla, critica e potenzialmente molto pericolosa, è stata corretta con l’aiuto del modello GPT-6 Cyber. Alcuni sistemi Java consentono attacchi da remoto prima...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/ia_openai_falla_java-425731999/?rss",
-   "pub_ts": 1795363190,
+   "title": "Milano sperimenta gli agenti AI per collegare i servizi della città",
+   "summary": "Fastweb + Vodafone e BIP avviano una collaborazione nell’ambito di Project NANDA, iniziativa nata al MIT Media Lab. Venticinque squadre hanno sviluppato prototipi per mobilità, accessibilità e ambiente. I progetti saranno messi a disposizione del Comune, che potrà valutarne...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/milano_sperimenta_agenti_ai_servizi-425744730/?rss",
+   "pub_ts": 1795458842,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/ia_openai_falla_java-425731999/?rss",
-     "title": "Un modello IA di OpenAI trova una falla critica in Java"
+     "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/milano_sperimenta_agenti_ai_servizi-425744730/?rss",
+     "title": "Milano sperimenta gli agenti AI per collegare i servizi della città"
     }
    ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Miley Cyrus sposa Maxx Morando in una cerimonia intima a Palm Strings",
-   "summary": "Insieme da quattro anni, per la pop star è il secondo matrimonio",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/22/miley-cyrus-sposa-maxx-morando-in-una-cerimonia-intima-a-palm-strings_993145e6-53e0-471a-9ef4-1ec20d727c4f.html",
-   "pub_ts": 1795378095,
-   "n_sources": 2,
+   "title": "Sinner vola in Finlandia per l'operazione al ginocchio",
+   "summary": "Sky: dopo un consulto con lo specialista Lampainen scelta la via dell'intervento",
+   "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
+   "pub_ts": 1795449540,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/22/miley-cyrus-sposa-maxx-morando-in-una-cerimonia-intima-a-palm-strings_993145e6-53e0-471a-9ef4-1ec20d727c4f.html",
-     "title": "Miley Cyrus sposa Maxx Morando in una cerimonia intima a Palm Strings"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
+     "title": "Sinner vola in Finlandia per l'operazione al ginocchio"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/22/miley-cyrus-matrimonio-maxx-morando/",
-     "title": "Miley Cyrus si è sposata con Maxx Morando: nozze a sorpresa in California. Chi è il musicista che ha conquistato la popstar"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
-   "summary": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-   "pub_ts": 1795345767,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-     "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/tennis-jannik-sinner-ha-deciso-si-opera-al-ginocchio-in-finlandia-infortunio-sindrome-bandelletta-a140d734-8a55-4b6a-a845-d4434f097221.html",
+     "title": "Jannik Sinner è in Finlandia: domani l'operazione al ginocchio"
     },
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/corrado-augias-camera-ardente_4idIU1NgZm56qteBgFt65O",
-     "title": "Corrado Augias, in migliaia in Campidoglio per l'ultimo saluto al giornalista gentile"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Baricco, Tempesta Silenziosa tra le cose della vita che non ti fanno sentire solo",
-   "summary": "La \"lezione\" Roma, 2mila posti sold out in 9 minuti",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/22/baricco-tempesta-silenziosa-tra-cose-della-vita-che-non-ti-fanno_dabf7233-56bd-4466-9394-ebbc4a39aa1a.html",
-   "pub_ts": 1795422645,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/23/sinner-operazione-ginocchio/",
+     "title": "Jannik Sinner sarà operato al ginocchio destro martedì, dice Sky Sport"
+    },
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/22/baricco-tempesta-silenziosa-tra-cose-della-vita-che-non-ti-fanno_dabf7233-56bd-4466-9394-ebbc4a39aa1a.html",
-     "title": "Baricco, Tempesta Silenziosa tra le cose della vita che non ti fanno sentire solo"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Mal di gola? Così il cervello ci difende da virus e batteri",
-   "summary": "Mentre le infezioni respiratorie aumentano in Italia, nuove ricerche evidenziano il ruolo del cervello, capace di riconoscere i patogeni, anticipare le minacce e attivare le difese immunitarie L'articolo Mal di gola? Così il cervello ci difende da virus e batteri sembra essere il primo su Galileo .",
-   "link": "https://www.galileonet.it/mal-di-gola-cosi-il-cervello-ci-difende-da-virus-e-batteri/",
-   "pub_ts": 1795422997,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/23/news/operazione_di_sinner_al_ginocchio_tendine-425744077/?rss",
+     "title": "L’operazione di Sinner al ginocchio, ecco come si interverrà sul tendine del campione"
+    },
     {
-     "name": "Galileo",
-     "link": "https://www.galileonet.it/mal-di-gola-cosi-il-cervello-ci-difende-da-virus-e-batteri/",
-     "title": "Mal di gola? Così il cervello ci difende da virus e batteri"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/sport/tennis/2026/11/23/news/sinner_operazione_chirurgica_volo_finlandia-425743867/",
+     "title": "Sinner ha deciso, va in Finlandia per operarsi al ginocchio: stop di alcuni mesi"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/jannik-sinner-ha-deciso-si-opera-al-ginocchio/",
+     "title": "Jannik Sinner ha deciso: si opera al ginocchio"
     }
    ],
    "subtype": "scienza"
@@ -458,206 +454,236 @@
    "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
    "summary": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-   "pub_ts": 1795370107,
-   "n_sources": 1,
-   "documented": false,
+   "pub_ts": 1795455783,
+   "n_sources": 4,
+   "documented": true,
    "sources": [
     {
      "name": "ANSA Salute",
      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
      "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/commissione-covid-duello-conte-bignami-dimettiamoci-e-vediamoci-in-tribunale-d55fc05e-e907-4eb8-9d63-f24b58dada53.html",
+     "title": "Commissione Covid, duello Conte-Bignami: \"Dimettiamoci e vediamoci in tribunale\""
+    },
+    {
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/23/news/commissione_covid_donzelli_chiede_le_prove_e_bassetti_replica_confronto_sia_su_dati_scientifici-425743874/?rss",
+     "title": "Commissione Covid, Donzelli chiede le prove e Bassetti replica “Confronto sia su dati scientifici\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/23/conte-bignami-commissione-covid-fuori-regioni-lombardia-e-veneto-centrodestra-video/8581491/",
+     "title": "Conte a Bignami in commissione Covid: “Avete lasciato fuori le Regioni perché Lombardia e Veneto erano di centrodestra?”"
     }
    ],
    "subtype": "scienza"
   },
   {
-   "category": "cronaca",
+   "category": "varia",
    "area": null,
-   "title": "Indonesia, incendio in una fabbrica di caramelle vicino a Jakarta: 3 morti e 36 dispersi",
-   "summary": "Il rogo è divampato sabato sera nello stabilimento di Cikande, nella provincia di Banten. Quattro feriti, proseguono le ricerche tra le macerie. Ancora sconosciute le cause dell'incendio",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/indonesia_incendio_fabbrica_caramelle_jakarta_morti_dispersi-425741332/?rss",
-   "pub_ts": 1795422042,
-   "n_sources": 3,
+   "title": "Nuova sala immersiva al Museo Egizio, i reperti connessi al territorio",
+   "summary": "\"Eco. Paesaggi in trasformazione\" è il primo progetto curatoriale",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/23/nuova-sala-immersiva-al-museo-egizio-i-reperti-connessi-al-territorio_0a057a40-e91d-44f7-982c-cec62e992466.html",
+   "pub_ts": 1795446082,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/indonesia_incendio_fabbrica_caramelle_jakarta_morti_dispersi-425741332/?rss",
-     "title": "Indonesia, incendio in una fabbrica di caramelle vicino a Jakarta: 3 morti e 36 dispersi"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/23/nuova-sala-immersiva-al-museo-egizio-i-reperti-connessi-al-territorio_0a057a40-e91d-44f7-982c-cec62e992466.html",
+     "title": "Nuova sala immersiva al Museo Egizio, i reperti connessi al territorio"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/23/morti-fabbrica-dolci-indonesia-serang/",
-     "title": "Almeno 24 persone sono morte nell’incendio di una fabbrica di dolci in Indonesia"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/recupero-cadaveri-dallincendio-di-una-fabbrica-in-indonesia-le-ricerche-sono-sospese-fino-a-lunedi-58eceba0-3d08-4f6a-88ca-35cd07168419.html",
-     "title": "Indonesia, incendio in una fabbrica di caramelle: ci sono molti morti"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/museo-egizio-torino-ledwall-30-metri_7I9sOz5nGHwIIIpYbd4aRJ",
+     "title": "Al Museo Egizio di Torino la nuova frontiera del racconto: apre la sala immersiva"
     }
-   ]
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Cate Blanchett 'accende' gli Champs-Elysées per le feste di Natale",
+   "summary": "FIno al 3 gennaio spettacolo di luci e suoni sul viale simbolo di Parigi",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/cate-blanchett-accende-gli-champs-elysees-per-le-feste-di-natale_cbc1afc0-bcf4-4e18-89df-66ef134ed942.html",
+   "pub_ts": 1795430252,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/cate-blanchett-accende-gli-champs-elysees-per-le-feste-di-natale_cbc1afc0-bcf4-4e18-89df-66ef134ed942.html",
+     "title": "Cate Blanchett 'accende' gli Champs-Elysées per le feste di Natale"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/22/cate-blanchett-inaugura-le-luminarie-natalizie-sugli-champs-elysees_1f71993a-9f20-496b-b8e7-a5ea697394f4.html",
+     "title": "Cate Blanchett inaugura le luminarie natalizie sugli Champs-Elysées"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Biennale Arte, l'edizione 2026 si chiude con 714mila visitatori",
+   "summary": "Le 100 partecipazioni nazionali sono il numero più alto di sempre",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/22/biennale-arte-ledizione-2026-si-chiude-con-714mila-visitatori_8d0b7818-5baa-49c6-8131-ab47ee7c6410.html",
+   "pub_ts": 1795428480,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/22/biennale-arte-ledizione-2026-si-chiude-con-714mila-visitatori_8d0b7818-5baa-49c6-8131-ab47ee7c6410.html",
+     "title": "Biennale Arte, l'edizione 2026 si chiude con 714mila visitatori"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/biennale-arte-venezia-2026-bilancio-presenze-ultime-notizie_7HI5nWbPynHmj0v4naXDZ",
+     "title": "Biennale Arte, 714mila visitatori per l'edizione delle polemiche"
+    }
+   ],
+   "subtype": "cultura"
   }
  ],
  "articles": [
   {
-   "title": "Zelensky rivendica gli attacchi alle navi russe in Libia: 'Operazione esemplare'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
-   "description": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'. Tajani 'preoccupato'",
-   "pub_ts": 1795422420,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "L'ira di Eisenkot e Sa'ar per i coloni violenti, 'terrorismo ebraico'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/22/lira-di-eisenkot-e-saar-per-i-coloni-violenti-terrorismo-ebraico_eb3844ea-33e9-4eb6-b93c-7f70f616f8e2.html",
-   "description": "Ancora auto e proprietà incendiate in Cisgiordania. Avanti i negoziati tra Likud e Yashar",
-   "pub_ts": 1795419180,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il Nyt: 'Alice Huang contattava gli 007 cinesi durante la relazione il ceo di Nvidia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/23/nyt-alice-huang-contattava-gli-007-cinesi-durante-la-relazione-con_3b65cbb9-4e5d-4d2f-a3f3-a500f378a2e0.html",
-   "description": "'L'intelligence Usa la teneva d'occhio da un anno. Trump sapeva ma minimizzò'",
-   "pub_ts": 1795422560,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Media, nave russa colpita in Libia da attacco a lungo raggio ucraino",
-   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/22/media-nave-russa-colpita-in-libia-da-attacco-a-lungo-raggio-ucraino_0c7df80f-d236-48ee-82b2-672a1d937471.html",
-   "description": "Lo afferma Barak Ravid di Axios citando una 'fonte a conoscenza' dell'accaduto",
-   "pub_ts": 1795422180,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Tajani, 'preoccupa esplosione nave russa in Libia, evitare guerra in Mediterraneo'",
    "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/tajani-preoccupa-esplosione-nave-russa-in-libia-evitare-guerra-in-mediterraneo_8c4b161e-2f37-4301-a33d-a355cb9a2362.html",
    "description": "'Presenza russa deve essere seguita con grande attenzione'",
-   "pub_ts": 1795417464,
+   "pub_ts": 1795460280,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Tornano i blitz dell'Ice, agenti mascherati seminano il terrore",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/tornano-i-blitz-dellice-agenti-mascherati-seminano-il-terrore-_4aac05d0-a3a8-408a-93bb-81adedbdda99.html",
-   "description": "Due fermi all'aeroporto di Seattle, arrestata una ricercatrice di Princeton a Washington",
-   "pub_ts": 1795392960,
+   "title": "Zelensky rivendica gli attacchi a navi russe in Libia, 'operazione esemplare'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/zelensky-rivendica-gli-attacchi-a-navi-russe-in-libia-operazione-esemplare_36514ab3-39c4-41a2-ae12-46b412476993.html",
+   "description": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'",
+   "pub_ts": 1795459777,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "I coloni mettono a ferro e fuoco la Cisgiordania. Eisenkot: “Fermare il terrorismo ebraico”",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/cisgiordania_coloni_eisenkot_terrorismo_ebraico-425742079/?rss",
+   "description": "Ennesimo assalto nella notte ad opera di giovani calati dagli insediamenti illegali, auto e case date alle fiamme in quattro villaggi. Sui muri la scritta: “Vendetta”. L’opposizione israeliana insorge",
+   "pub_ts": 1795413432,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Mattarella sul fisco: \"Per pagare di meno bisogna contribuire tutti\"",
+   "link": "https://www.rainews.it/articoli/2026/11/mattarella-sul-fisco-per-pagare-di-meno-bisogna-contribuire-tutti-c88ffd90-aea8-4d02-b4e9-8081ff2b8ba0.html",
+   "description": "All'incontro con i primi magistrati tributari in tirocinio, il Capo dello Stato richiama la Costituzione: \"L'evasione ostacola la coesione sociale. Oggi la tecnologia permette di tracciare la ricchezza senza violare la privacy\"",
+   "pub_ts": 1795458360,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Gisèle Pelicot denuncia: 'Una casa editrice ha diffuso mie foto intime'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/gisele-pelicot-denuncia-una-casa-editrice-ha-diffuso-mie-foto-intime_81aaf534-1963-41b5-bbdf-1f1a1efac54d.html",
+   "description": "La donna, vittima degli 'stupri di Mazan' accusa: 'Nel libro si lascia intendere che ero complice'",
+   "pub_ts": 1795446310,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Il Mississippi non brucia più: il trionfo del senatore Colom vendica 150 anni di soprusi",
-   "link": "https://www.repubblica.it/esteri/2026/11/23/news/midterm_usa_mississippi_non_brucia_piu_trionfo_senatore_colom_vendica_150_anni_soprusi_neri-425742254/?rss",
-   "description": "Democratico e afroamericano, la sua sembrava una battaglia persa ma il giovane avvocato ha travolto le barriere, anche tra i bianchi",
-   "pub_ts": 1795392000,
-   "source": "Repubblica Esteri",
+   "title": "Zelensky rivendica gli attacchi alle navi russe in Libia e lancia un appello alla Nato: 'Arriva l'inverno, aiutateci'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
+   "description": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'. Tajani 'preoccupato'",
+   "pub_ts": 1795439640,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Telefonate respinte e una lettera cestinata. Tutti i rifiuti di Kim-Jong a Trump",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/trump_kim_i_tentativi_del_presidente_usa_di_incontrare_il_leader_nordcoreano-425742784/?rss",
-   "description": "E’ imbarazzante la lista dei tentativi fatti dal presidente Usa per dialogare con il dittatore, rivelati da Wall Street Journal , ma ancora più preoccupante è il fatto che in questo modo la Corea del Nord sta potenziando il suo arsenale nucleare",
-   "pub_ts": 1795380828,
-   "source": "Repubblica Esteri",
+   "title": "Anche bambini e bambine nella delegazione dell'Unicef da Mattarella",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/23/anche-bambini-e-bambine-nella-delegazione-dellunicef-da-mattarella_b1e841c3-d0f9-4820-a575-2fa27c906335.html",
+   "description": "Delle scuole elementari e medie della Toscana e della Campania",
+   "pub_ts": 1795435180,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Alleati tiepidi sulla 'patrimoniale' di Schlein, e Tajani la attacca",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/alleati-tiepidi-sulla-patrimoniale-di-schlein-e-tajani-la-attacca_8832c861-009e-4826-9077-8b8df8ecc0e3.html",
-   "description": "Tavolo progressista al lavoro su abuso di potere e norme sulla cannabis. Martedì nodo Kiev",
-   "pub_ts": 1795379667,
-   "source": "ANSA Politica",
+   "title": "Le minacce di Teheran: «I nostri missili ora possono colpire l’Europa»",
+   "link": "https://www.editorialedomani.it/politica/mondo/iran-minacce-europa-israele-netanyahu-trattative-eisenkot-sjzpyl30",
+   "description": "L’Iran annuncia di possedere nuove testate dalla gittata superiore ai 5000 chilometri. Rubio riceve il ministro degli Esteri del Qatar che teme una nuova escalation nel Golfo. Nonostante il pressing di Netanyahu che chiede nuovi raid, i mercati credono in un allentamento delle tensioni",
+   "pub_ts": 1795465193,
+   "source": "Domani",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Salvini in pressing sul condono, la cautela degli alleati",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/proposta-della-lega-6-mesi-ai-comuni-per-evadere-le-vecchie-domande-o-scatta_81525291-a346-4208-98f7-5260a842ca06.html",
-   "description": "L'ipotesi di un vertice martedì. Aperti i nodi sanità-pensioni. Tajani: 'Vicina l'intesa sul superbonus'",
-   "pub_ts": 1795379160,
-   "source": "ANSA Politica",
+   "title": "Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video",
+   "link": "https://www.open.online/2026/11/23/primo-ministro-canadese-mark-carney-invita-donald-trump-palco-ma-e-imitatore-video/",
+   "description": "Durante l'annuale cena di gala con i giornalisti Mark Carney ha partecipato a un siparietto comico insieme a due comici che interpretavano lui e il presidente statunitense L'articolo Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video proviene da Open.",
+   "pub_ts": 1795453288,
+   "source": "Open",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Arrivano i messaggi di WhatsApp visualizzabili una sola volta",
-   "link": "https://www.punto-informatico.it/messaggi-whatsapp-visualizzabili-una-sola-volta/",
-   "description": "Una nuova funzione di WhatsApp permette di inviare messaggi che si possono leggere una sola volta: è in fase di test su Android e iOS. The post Arrivano i messaggi di WhatsApp visualizzabili una sola volta appeared first on Punto Informatico .",
-   "pub_ts": 1795422931,
-   "source": "Punto Informatico",
+   "title": "Ex ministro brasiliano, tassare i miliardari per frenare la nuova oligarchia globale",
+   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/ex-ministro-brasiliano-tassare-i-miliardari-per-frenare-la-nuova-oligarchia-globale_4ff6ca9a-a090-4705-a923-591710205f5c.html",
+   "description": "Fernando Haddad rilancia la proposta di un'imposta minima globale del 2%",
+   "pub_ts": 1795437990,
+   "source": "ANSA Mondo",
    "source_priority": 1,
-   "section": "tech"
+   "section": "politica"
   },
   {
-   "title": "App IO e malware Mirax: come riconoscere il falso aggiornamento",
-   "link": "https://www.punto-informatico.it/app-io-malware-mirax-come-riconoscere-falso-aggiornamento/",
-   "description": "Attenzione al falso sito di Agenzia delle Entrate, propone un APK che installa il malware Mirax su Android: come riconoscerlo ed evitarlo. The post App IO e malware Mirax: come riconoscere il falso aggiornamento appeared first on Punto Informatico .",
-   "pub_ts": 1795419131,
-   "source": "Punto Informatico",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Sviluppatori licenziati per l'IA 'occupano' i software, li ricreano gratis",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/22/ansa-sviluppatori-licenziati-per-lia-occupano-i-software-li-ricreano-gratis_67675254-2c99-4ca0-b317-ec7b4f4dd769.html",
-   "description": "Il movimento si chiama 'OccupySaas': \"Ci hanno tagliato fuori, noi ci mettiamo in gioco\"",
-   "pub_ts": 1795369939,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Un modello IA di OpenAI trova una falla critica in Java",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/18/news/ia_openai_falla_java-425731999/?rss",
-   "description": "L’azienda di cybersecurity Calif ha scoperto in tre ore Java4Shell con l’aiuto del modello GPT-6 Cyber. La falla, critica e potenzialmente molto pericolosa, è stata corretta con l’aiuto del modello GPT-6 Cyber. Alcuni sistemi Java consentono attacchi da remoto prima...",
-   "pub_ts": 1795363190,
+   "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
+   "description": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
+   "pub_ts": 1795465387,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Miley Cyrus sposa Maxx Morando in una cerimonia intima a Palm Strings",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/22/miley-cyrus-sposa-maxx-morando-in-una-cerimonia-intima-a-palm-strings_993145e6-53e0-471a-9ef4-1ec20d727c4f.html",
-   "description": "Insieme da quattro anni, per la pop star è il secondo matrimonio",
-   "pub_ts": 1795378095,
-   "source": "ANSA Cultura",
+   "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva",
+   "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/?rss",
+   "description": "Lo rivela il New York Times citando fonti di intelligence",
+   "pub_ts": 1795446237,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-   "description": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
-   "pub_ts": 1795345767,
-   "source": "ANSA Cultura",
+   "title": "Microsoft dopo i disservizi, 'dobbiamo prepararci per i prossimi mesi'",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/23/microsoft-dopo-i-disservizi-dobbiamo-prepararci-per-i-prossimi-mesi_7e383e84-4fb9-4ef9-84d1-763f6065af0f.html",
+   "description": "Per il presidente Smith il down dell'infrastruttura 'non si risolve in un paio di settimane'",
+   "pub_ts": 1795438368,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "Baricco, Tempesta Silenziosa tra le cose della vita che non ti fanno sentire solo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/22/baricco-tempesta-silenziosa-tra-cose-della-vita-che-non-ti-fanno_dabf7233-56bd-4466-9394-ebbc4a39aa1a.html",
-   "description": "La \"lezione\" Roma, 2mila posti sold out in 9 minuti",
-   "pub_ts": 1795422645,
-   "source": "ANSA Cultura",
+   "title": "Milano sperimenta gli agenti AI per collegare i servizi della città",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/milano_sperimenta_agenti_ai_servizi-425744730/?rss",
+   "description": "Fastweb + Vodafone e BIP avviano una collaborazione nell’ambito di Project NANDA, iniziativa nata al MIT Media Lab. Venticinque squadre hanno sviluppato prototipi per mobilità, accessibilità e ambiente. I progetti saranno messi a disposizione del Comune, che potrà valutarne...",
+   "pub_ts": 1795458842,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
-   "section": "varia"
+   "section": "tech"
   },
   {
-   "title": "Mal di gola? Così il cervello ci difende da virus e batteri",
-   "link": "https://www.galileonet.it/mal-di-gola-cosi-il-cervello-ci-difende-da-virus-e-batteri/",
-   "description": "Mentre le infezioni respiratorie aumentano in Italia, nuove ricerche evidenziano il ruolo del cervello, capace di riconoscere i patogeni, anticipare le minacce e attivare le difese immunitarie L'articolo Mal di gola? Così il cervello ci difende da virus e batteri sembra essere il primo su Galileo .",
-   "pub_ts": 1795422997,
-   "source": "Galileo",
+   "title": "Sinner vola in Finlandia per l'operazione al ginocchio",
+   "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
+   "description": "Sky: dopo un consulto con lo specialista Lampainen scelta la via dell'intervento",
+   "pub_ts": 1795449540,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
@@ -665,19 +691,37 @@
    "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
    "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
    "description": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
-   "pub_ts": 1795370107,
+   "pub_ts": 1795455783,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Indonesia, incendio in una fabbrica di caramelle vicino a Jakarta: 3 morti e 36 dispersi",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/indonesia_incendio_fabbrica_caramelle_jakarta_morti_dispersi-425741332/?rss",
-   "description": "Il rogo è divampato sabato sera nello stabilimento di Cikande, nella provincia di Banten. Quattro feriti, proseguono le ricerche tra le macerie. Ancora sconosciute le cause dell'incendio",
-   "pub_ts": 1795422042,
-   "source": "Repubblica Esteri",
+   "title": "Nuova sala immersiva al Museo Egizio, i reperti connessi al territorio",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/23/nuova-sala-immersiva-al-museo-egizio-i-reperti-connessi-al-territorio_0a057a40-e91d-44f7-982c-cec62e992466.html",
+   "description": "\"Eco. Paesaggi in trasformazione\" è il primo progetto curatoriale",
+   "pub_ts": 1795446082,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "cronaca"
+   "section": "varia"
+  },
+  {
+   "title": "Cate Blanchett 'accende' gli Champs-Elysées per le feste di Natale",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/cate-blanchett-accende-gli-champs-elysees-per-le-feste-di-natale_cbc1afc0-bcf4-4e18-89df-66ef134ed942.html",
+   "description": "FIno al 3 gennaio spettacolo di luci e suoni sul viale simbolo di Parigi",
+   "pub_ts": 1795430252,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Biennale Arte, l'edizione 2026 si chiude con 714mila visitatori",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/22/biennale-arte-ledizione-2026-si-chiude-con-714mila-visitatori_8d0b7818-5baa-49c6-8131-ab47ee7c6410.html",
+   "description": "Le 100 partecipazioni nazionali sono il numero più alto di sempre",
+   "pub_ts": 1795428480,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
   }
  ]
 }
