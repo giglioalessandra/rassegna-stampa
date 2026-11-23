@@ -1,6 +1,6 @@
 {
- "generated_at": 1795375298,
- "updated_at": 1795375298,
+ "generated_at": 1795394555,
+ "updated_at": 1795394555,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,38 +9,28 @@
  "items": [
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Nave militare russa colpita a Bengasi, 'sono stati gli ucraini'",
-   "summary": "La corvetta della marina militare russa era ormeggiata nel porto di Bengasi. La guerra arriva nel Mediterraneo. Centrato su un condominio a nord di Kiev, é strage",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/nave-militare-russa-colpita-a-bengasi-sono-stati-gli-ucraini-_957fd3f3-aa7b-4ed5-b2d5-03500486cfde.html",
-   "pub_ts": 1795373612,
-   "n_sources": 8,
+   "area": "mondo",
+   "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra",
+   "summary": "Nel porto di Bengasi è saltata in aria la “Merkury”, una corvetta della flotta di Mosca. Dietro l’attacco in Cirenaica il tentativo di mettere in discussione l’immagine di forza di Putin. Allarme a Kaliningrad, attivata una barriera della difesa antiaerea",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/?rss",
+   "pub_ts": 1795380134,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/nave-militare-russa-colpita-a-bengasi-sono-stati-gli-ucraini-_957fd3f3-aa7b-4ed5-b2d5-03500486cfde.html",
-     "title": "Nave militare russa colpita a Bengasi, 'sono stati gli ucraini'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/?rss",
+     "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/22/media-nave-russa-colpita-in-libia-da-attacco-a-lungo-raggio-ucraino_0c7df80f-d236-48ee-82b2-672a1d937471.html",
-     "title": "Media, nave russa colpita in Libia da attacco a lungo raggio ucraino"
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/22/nave-russa-colpita-a-bengasi-sospetto-attacco-di-droni_c749363b-b2ee-4e05-b27c-cef4c5cae1f6.html",
+     "title": "'Nave russa colpita a Bengasi, sospetto attacco di droni'"
     },
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/fronte_mar_baltico_finlandia_nave_armi_russa_colpita_raid_kiev-425740634/?rss",
-     "title": "Il fronte del Mar Baltico, la nave delle armi russa colpita da un raid di Kiev"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/",
-     "title": "Il governo della Libia orientale ha detto che una nave russa è stata attaccata nel porto di Bengasi"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/bengasi-libia-orientale--nave-russa-colpita-con-droni-attacco-ucraino-d06bjj9d",
-     "title": "Bengasi, nave russa colpita con droni. Axios: «Un attacco condotto dal Servizio di sicurezza ucraino»"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/",
+     "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra"
     },
     {
      "name": "Rai News",
@@ -53,9 +43,137 @@
      "title": "Nave russa colpita a Bengasi, sospetto attacco con droni. L’ira della Libia: «Violata la sovranità nazionale» – La diretta"
     },
     {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/21/la-nave-cargo-russa-attaccata-da-droni-nel-golfo-di-finlandia/",
+     "title": "La nave cargo russa attaccata da droni nel golfo di Finlandia"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/nave-russa-colpita-finlandia-il-conflitto-si-espande-h7mfcimg",
+     "title": "Una nave russa colpita al largo della Finlandia. «Il conflitto si espande»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Media, nave russa colpita in Libia da attacco a lungo raggio ucraino",
+   "summary": "Lo afferma Barak Ravid di Axios citando una 'fonte a conoscenza' dell'accaduto",
+   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/22/media-nave-russa-colpita-in-libia-da-attacco-a-lungo-raggio-ucraino_0c7df80f-d236-48ee-82b2-672a1d937471.html",
+   "pub_ts": 1795375440,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/22/media-nave-russa-colpita-in-libia-da-attacco-a-lungo-raggio-ucraino_0c7df80f-d236-48ee-82b2-672a1d937471.html",
+     "title": "Media, nave russa colpita in Libia da attacco a lungo raggio ucraino"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/bengasi-esplosione-nave-russa-corvetta-merkury-attacco_42Qpcvj6I4XtMJkoCUCbyw",
+     "title": "Libia, nave da guerra russa distrutta nel porto di Bengasi: è la corvetta lanciamissili 'Merkury'"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/",
+     "title": "Una nave da guerra russa è stata attaccata da droni nel porto di Bengasi"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/bengasi-libia-orientale--nave-russa-colpita-con-droni-attacco-ucraino-d06bjj9d",
+     "title": "Bengasi, nave russa colpita con droni. Axios: «Un attacco condotto dal Servizio di sicurezza ucraino»"
+    },
+    {
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/22/attacco-droni-nave-russa-bengasi-notizie/8580421/",
      "title": "Attacco con droni a una nave militare russa nella base di Bengasi in Libia: esplosione e incendio"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Niente accordo sui combustibili fossili, fallisce la Cop31",
+   "summary": "Scontro tra Ue e Paesi petroliferi. La Turchia rinuncia a presentare il documento politico",
+   "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/niente-accordo-sui-combustibili-fossili-fallisce-la-cop31_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
+   "pub_ts": 1795372516,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/niente-accordo-sui-combustibili-fossili-fallisce-la-cop31_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
+     "title": "Niente accordo sui combustibili fossili, fallisce la Cop31"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop31-nuova-bozza-con-riferimento-indiretto-a-uscita-da-fossili_d5d76c15-7f98-4144-a933-3e46ce78150b.html",
+     "title": "Cop31, nuova bozza con riferimento indiretto a uscita da fossili"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/la-cop31-di-antalya-si-chiude-senza-intesa-monito-dellonu-contro-la-lobby-dei-combustibili-fossili-guterres-b8ac2adb-4996-4440-ac02-1601a2a49fe7.html",
+     "title": "La COP31 di Antalya si chiude senza intesa: monito dell’Onu contro la lobby dei combustibili fossili"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/cop31-ue-si-oppone-decisione-quadro-AJqJC4OC",
+     "title": "La Cop31 deraglia sui combustibili fossili. La Ue alla guida del fronte per l’«uscita», contro Arabia, Russia e India"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Trump su Truth chiama Putin 'My Friend', scattano le polemiche",
+   "summary": "Foto dell'abbraccio fra i due. Zelensky, 'non ricordo che l'abbia detto a me'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/22/trump-su-truth-chiama-putin-my-friend-scattano-le-polemiche_6124bc49-8058-4d88-9c73-4adbed396ae6.html",
+   "pub_ts": 1795376692,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/22/trump-su-truth-chiama-putin-my-friend-scattano-le-polemiche_6124bc49-8058-4d88-9c73-4adbed396ae6.html",
+     "title": "Trump su Truth chiama Putin 'My Friend', scattano le polemiche"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-foto-putin-xi-amici-vertice-shenzhen_19e7QTED8DK5XnupOYDZNe",
+     "title": "Trump, su Truth le foto con Putin e Xi Jinping a Shenzhen: \"Miei amici\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/22/trump-pubblica-lalbum-di-shenzhen-su-truth-e-sotto-la-foto-con-putin-mette-la-didascalia-il-mio-amico/8580269/",
+     "title": "Trump pubblica l’album di Shenzhen su Truth e sotto la foto con Putin mette la didascalia “Il mio amico”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Niente borse di studio agli indagati. Forza Italia contro la stretta sui cortei",
+   "summary": "L’emendamento di Delmastro (FdI) per i forzisti è incostituzionale. La sinistra protesta anche per la vernice sui manifestanti",
+   "link": "https://www.repubblica.it/politica/2026/11/23/news/niente_borse_studio_indagati_forza_italia_contro_stretta_cortei-425742726/",
+   "pub_ts": 1795392000,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/23/news/niente_borse_studio_indagati_forza_italia_contro_stretta_cortei-425742726/",
+     "title": "Niente borse di studio agli indagati. Forza Italia contro la stretta sui cortei"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/22/borse-studio-studenti-manifestazioni-notizie/8580369/",
+     "title": "Rete studenti medi contro FdI per lo stop alle borse di studio agli studenti indagati: “Diritto allo studio usato per ricatti politici”"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/stretta-cortei-occupazioni-emendamenti-fdi-vernice-borse-studio/",
+     "title": "Cortei e occupazioni, stretta Fdi: vernice tracciante sui violenti e stop alle borse di studio"
     }
    ]
   },
@@ -66,7 +184,7 @@
    "summary": "È la seconda volta in due mesi che il sistema informatico dell’agenzia federale di investigazione americana viene violata. Il direttore Kash Patel, nelle stesse ore in cui era emerso l’hackeraggio, era andato a Fox News per esaltare il lavoro fatto nel campo della sicurezza...",
    "link": "https://www.repubblica.it/esteri/2026/11/21/news/usa_nuovo_attacco_hacker_fbi_violata_banca_dati_criminali-425740582/?rss",
    "pub_ts": 1795290611,
-   "n_sources": 4,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -83,11 +201,28 @@
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/l-fbi-indaga-attacco-hacker-suo-database-AJbg4kOC",
      "title": "L’Fbi indaga su attacco hacker al suo database"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Telefonate respinte e una lettera cestinata. Tutti i rifiuti di Kim-Jong a Trump",
+   "summary": "E’ imbarazzante la lista dei tentativi fatti dal presidente Usa per dialogare con il dittatore, rivelati da Wall Street Journal , ma ancora più preoccupante è il fatto che in questo modo la Corea del Nord sta potenziando il suo arsenale nucleare",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/trump_kim_i_tentativi_del_presidente_usa_di_incontrare_il_leader_nordcoreano-425742784/?rss",
+   "pub_ts": 1795380828,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/trump_kim_i_tentativi_del_presidente_usa_di_incontrare_il_leader_nordcoreano-425742784/?rss",
+     "title": "Telefonate respinte e una lettera cestinata. Tutti i rifiuti di Kim-Jong a Trump"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/attacco-hacker-database-fbi_3XNc2XEgK6lOrBsvDozias",
-     "title": "Usa, Cnn: \"Nuovo attacco hacker all'Fbi, violato l'archivio criminale\". Trump preoccupato: \"Non mi piace\""
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/trump_kim_i_tentativi_del_presidente_usa_di_incontrare_il_leader_nordcoreano-425742784/",
+     "title": "Telefonate respinte e una lettera cestinata. Tutti i rifiuti di Kim-Jong a Trump"
     }
    ]
   },
@@ -98,18 +233,13 @@
    "summary": "Emendamento di Urzì alla manovra. Avs: 'Come il Cile di Pinochet'. M5s: 'Deriva pericolosa'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/marcatori-colorati-per-i-violenti-polemica-per-la-proposta-di-fdi_d72b7d13-fc79-4bda-a12e-df7c3c8f1053.html",
    "pub_ts": 1795373051,
-   "n_sources": 3,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
+     "name": "ANSA Politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/marcatori-colorati-per-i-violenti-polemica-per-la-proposta-di-fdi_d72b7d13-fc79-4bda-a12e-df7c3c8f1053.html",
      "title": "'Marcatori colorati per i violenti', polemica per la proposta di Fdi"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/emendamento-fdi-alla-polizia-marcatori-colorati-per-identificare-violenti-nei_054c7c84-2c8f-4bf8-af84-c770d414a40e.html",
-     "title": "Emendamento FdI, alla Polizia marcatori colorati per identificare violenti nei cortei"
     },
     {
      "name": "Open",
@@ -120,150 +250,35 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra",
-   "summary": "Nel porto di Bengasi è saltata in aria la “Merkury”, una corvetta della flotta di Mosca. Dietro l’attacco in Cirenaica il tentativo di mettere in discussione l’immagine di forza di Putin. Allarme a Kaliningrad, attivata una barriera della difesa antiaerea",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/?rss",
-   "pub_ts": 1795373432,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/?rss",
-     "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/",
-     "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Blitz dell'Ice all'aeroporto di Seattle, 'una scena angosciante'",
-   "summary": "Agenti mascherati fermano due persone, caos e urla. Il governatore: 'Azione antiamericana'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/blitz-dellice-allaeroporto-di-seattle-una-scena-angosciante_4aac05d0-a3a8-408a-93bb-81adedbdda99.html",
-   "pub_ts": 1795373265,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/blitz-dellice-allaeroporto-di-seattle-una-scena-angosciante_4aac05d0-a3a8-408a-93bb-81adedbdda99.html",
-     "title": "Blitz dell'Ice all'aeroporto di Seattle, 'una scena angosciante'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/22/usa-blitz-ice-aeroporti-seattle-dottoranda-princeton-video/",
-     "title": "Blitz dell’Ice negli aeroporti Usa: agenti mascherati arrestano padre e figlia a Seattle. Fermata anche una dottoranda di Princeton – Il video"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump rilascia i file su Bigfoot: online tre fascicoli sull’uomo-scimmia",
-   "summary": "Tra i documenti custoditi per decenni figura il resoconto di una spedizione organizzata dal governo nel 1982 per esaminare decine di impronte rinvenute nei boschi dello Stato di Washington e in Oregon",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/bigfoot_file_uomo_scimmia_stati_uniti_avvistamenti_trump-425741790/?rss",
-   "pub_ts": 1795353898,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/bigfoot_file_uomo_scimmia_stati_uniti_avvistamenti_trump-425741790/?rss",
-     "title": "Trump rilascia i file su Bigfoot: online tre fascicoli sull’uomo-scimmia"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/bigfoot_file_uomo_scimmia_stati_uniti_avvistamenti_trump-425741790/",
-     "title": "Trump rilascia i file su Bigfoot: online tre fascicoli sull’uomo-scimmia"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
-   "title": "Ucraina, bombardato condominio a Dymer: due morti",
-   "summary": "Edificio di 5 piani bombardato da un attacco russo. Almeno due persone sono rimaste uccise in un attacco russo notturno contro un edificio residenziale, parzialmente crollato a nord di Kiev; il bilancio è stato aggiornato dalle autorità.",
-   "link": "https://www.rainews.it/video/2026/11/ucraina-bombardato-condominio-a-dymer-due-morti-17a14185-8cfa-485b-bf97-7a0b11254655.html",
-   "pub_ts": 1795361700,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/ucraina-bombardato-condominio-a-dymer-due-morti-17a14185-8cfa-485b-bf97-7a0b11254655.html",
-     "title": "Ucraina, bombardato condominio a Dymer: due morti"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-russia-attacco-kiev-condominio-nave-mar-baltico-zelensky-putin-patriot-kj05p4uf",
-     "title": "Ucraina, colpito dai russi un condominio vicino Kiev: almeno due morti e 14 dispersi"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Vernice sui violenti ai cortei e via borse di studio, i collettivi: “Meloni ci teme, andiamo avanti”",
-   "summary": "La reazione delle organizzazioni studentesche alla stretta del governo: “Vogliono farci pagare il dissenso e usare la povertà come ricatto. Ci imbratteremo tutti per non consentire di colpire pochi tra tanti”. Avs: “Voglio marchiarli come pecore”. Fdi: “Siete allergici alla legalità”",
-   "link": "https://www.repubblica.it/cronaca/2026/11/22/news/vernice_violenti_cortei_borse_di_studio_reazione_studenti-425741956/",
-   "pub_ts": 1795354215,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/22/news/vernice_violenti_cortei_borse_di_studio_reazione_studenti-425741956/",
-     "title": "Vernice sui violenti ai cortei e via borse di studio, i collettivi: “Meloni ci teme, andiamo avanti”"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/stretta-cortei-occupazioni-emendamenti-fdi-vernice-borse-studio/",
-     "title": "Cortei e occupazioni, stretta Fdi: vernice tracciante sui violenti e stop alle borse di studio"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump, su Truth le foto con Putin e Xi Jinping a Shenzhen: \"Miei amici\"",
-   "summary": "(Adnkronos) - A pochi giorni dal vertice, il presidente americano pubblica sul social le immagini degli incontri con i due leader: \"Chi critica i nostri rapporti è stupido\"",
-   "link": "https://www.adnkronos.com/internazionale/esteri/trump-foto-putin-xi-amici-vertice-shenzhen_19e7QTED8DK5XnupOYDZNe",
-   "pub_ts": 1795352836,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-foto-putin-xi-amici-vertice-shenzhen_19e7QTED8DK5XnupOYDZNe",
-     "title": "Trump, su Truth le foto con Putin e Xi Jinping a Shenzhen: \"Miei amici\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/22/trump-pubblica-lalbum-di-shenzhen-su-truth-e-sotto-la-foto-con-putin-mette-la-didascalia-il-mio-amico/8580269/",
-     "title": "Trump pubblica l’album di Shenzhen su Truth e sotto la foto con Putin mette la didascalia “Il mio amico”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "I dem conquistano il 258esimo seggio alla Camera, battuto il record del 2008",
-   "summary": "Vittoria dell'ex giornalista Hubbard in North Carolina",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/22/i-dem-conquistano-il-258esimo-seggio-alla-camera-battuto-il-record-del-2008_dab551d5-874c-411e-8eb7-20abfb036970.html",
-   "pub_ts": 1795373723,
+   "title": "Alleati tiepidi sulla 'patrimoniale' di Schlein, e Tajani la attacca",
+   "summary": "Tavolo progressista al lavoro su abuso di potere e norme sulla cannabis. Martedì nodo Kiev",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/alleati-tiepidi-sulla-patrimoniale-di-schlein-e-tajani-la-attacca_8832c861-009e-4826-9077-8b8df8ecc0e3.html",
+   "pub_ts": 1795379667,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/22/i-dem-conquistano-il-258esimo-seggio-alla-camera-battuto-il-record-del-2008_dab551d5-874c-411e-8eb7-20abfb036970.html",
-     "title": "I dem conquistano il 258esimo seggio alla Camera, battuto il record del 2008"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/alleati-tiepidi-sulla-patrimoniale-di-schlein-e-tajani-la-attacca_8832c861-009e-4826-9077-8b8df8ecc0e3.html",
+     "title": "Alleati tiepidi sulla 'patrimoniale' di Schlein, e Tajani la attacca"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Salvini in pressing sul condono, la cautela degli alleati",
+   "summary": "L'ipotesi di un vertice martedì. Aperti i nodi sanità-pensioni. Tajani: 'Vicina l'intesa sul superbonus'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/proposta-della-lega-6-mesi-ai-comuni-per-evadere-le-vecchie-domande-o-scatta_81525291-a346-4208-98f7-5260a842ca06.html",
+   "pub_ts": 1795379160,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/proposta-della-lega-6-mesi-ai-comuni-per-evadere-le-vecchie-domande-o-scatta_81525291-a346-4208-98f7-5260a842ca06.html",
+     "title": "Salvini in pressing sul condono, la cautela degli alleati"
     }
    ]
   },
@@ -304,6 +319,23 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Il robot Flash non partecipa alla Half Marathon: troppa pioggia",
+   "summary": "In 20mila hanno corso la mezza di Milano. Ma l'umanoide cinese che avrebbe dovuto correre non è mai arrivato in pista per ragioni meteo",
+   "link": "https://www.rainews.it/video/2026/11/flash-robot-niente-mezza-maratona-milano-per-la-pioggia-26f78951-5f0a-4961-977b-5919a567346b.html",
+   "pub_ts": 1795378380,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/flash-robot-niente-mezza-maratona-milano-per-la-pioggia-26f78951-5f0a-4961-977b-5919a567346b.html",
+     "title": "Il robot Flash non partecipa alla Half Marathon: troppa pioggia"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "Google ostacola l’installazione di GrapheneOS?",
    "summary": "Secondo gli sviluppatori di GrapheneOS, Google vuole ostacolare l'installazione del sistema operativo sugli smartphone di altri produttori. The post Google ostacola l’installazione di GrapheneOS? appeared first on Punto Informatico .",
    "link": "https://www.punto-informatico.it/google-ostacola-installazione-grapheneos/",
@@ -319,36 +351,24 @@
    ]
   },
   {
-   "category": "tech",
-   "area": null,
-   "title": "Manuela Moreno a Ballando: \"Mi hanno rubato il corpo con l'IA. Una rabbia incredibile\"",
-   "summary": "La giornalista racconta a Ballando con le Stelle la rabbia e lo shock per la diffusione di immagini e video pornografici falsi realizzati con l'intelligenza artificiale: \"Ti riconosci, ma non riconosci il tuo corpo\"",
-   "link": "https://www.rainews.it/video/2026/11/manuela-moreno-a-ballando-mi-hanno-rubato-il-corpo-con-lia-una-rabbia-incredibile-93ac1a51-dc70-4c68-89d7-18a3783ce455.html",
-   "pub_ts": 1795348080,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/manuela-moreno-a-ballando-mi-hanno-rubato-il-corpo-con-lia-una-rabbia-incredibile-93ac1a51-dc70-4c68-89d7-18a3783ce455.html",
-     "title": "Manuela Moreno a Ballando: \"Mi hanno rubato il corpo con l'IA. Una rabbia incredibile\""
-    }
-   ]
-  },
-  {
    "category": "varia",
    "area": null,
    "title": "Miley Cyrus sposa Maxx Morando in una cerimonia intima a Palm Strings",
    "summary": "Insieme da quattro anni, per la pop star è il secondo matrimonio",
    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/22/miley-cyrus-sposa-maxx-morando-in-una-cerimonia-intima-a-palm-strings_993145e6-53e0-471a-9ef4-1ec20d727c4f.html",
-   "pub_ts": 1795360860,
-   "n_sources": 3,
+   "pub_ts": 1795378095,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/22/miley-cyrus-sposa-maxx-morando-in-una-cerimonia-intima-a-palm-strings_993145e6-53e0-471a-9ef4-1ec20d727c4f.html",
      "title": "Miley Cyrus sposa Maxx Morando in una cerimonia intima a Palm Strings"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/22/miley-cyrus-matrimonio-maxx-morando/",
+     "title": "Miley Cyrus si è sposata con Maxx Morando: nozze a sorpresa in California. Chi è il musicista che ha conquistato la popstar"
     },
     {
      "name": "Rai News",
@@ -366,53 +386,30 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
-   "summary": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-   "pub_ts": 1795345767,
+   "title": "Cop 31, nella bozza nessuna menzione dei combustibili fossili",
+   "summary": "Il testo include un appello all'elettrificazione",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop-31-nella-bozza-nessuna-menzione-dei-combustibili-fossili_e121f1b0-59b6-46f1-b370-4967cafbc2e1.html",
+   "pub_ts": 1795377746,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-     "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop-31-nella-bozza-nessuna-menzione-dei-combustibili-fossili_e121f1b0-59b6-46f1-b370-4967cafbc2e1.html",
+     "title": "Cop 31, nella bozza nessuna menzione dei combustibili fossili"
     },
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/corrado-augias-camera-ardente_4idIU1NgZm56qteBgFt65O",
-     "title": "Corrado Augias, in migliaia in Campidoglio per l'ultimo saluto al giornalista gentile"
+     "name": "Repubblica Ambiente",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cop31_negoziati_fallimento_scontro_combustibili_fossili_plenaria-425741337/?rss",
+     "title": "Fallimento della Cop 31 sui combustibili fossili, la Ue non vota la bozza"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/ultimo-saluto-a-corrado-augias-migliaia-di-persone-alla-camera-ardente-campidoglio-outc1vhr",
-     "title": "L’ultimo saluto a Corrado Augias: migliaia di persone alla camera ardente"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cop31_negoziati_fallimento_scontro_combustibili_fossili_plenaria-425741337/",
+     "title": "Fallimento della Cop 31 sui combustibili fossili, la Ue non vota la bozza"
     }
    ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Alcaraz-Zverev, una supersfida per il titolo. La voce di Andrea Bocelli accende il campo",
-   "summary": "Esibizione questa sera prima della partita finale del torneo",
-   "link": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/22/alcaraz-zverev-una-supersfida-per-il-titolo.-la-voce-di-andrea-bocelli-accende_edfb3ff5-f27f-4b0d-9e7e-6c8409ae4446.html",
-   "pub_ts": 1795365755,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/22/alcaraz-zverev-una-supersfida-per-il-titolo.-la-voce-di-andrea-bocelli-accende_edfb3ff5-f27f-4b0d-9e7e-6c8409ae4446.html",
-     "title": "Alcaraz-Zverev, una supersfida per il titolo. La voce di Andrea Bocelli accende il campo"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/22/la-voce-di-andrea-bocelli-accende-il-campo-delle-atp-finals_9e578d1b-dc90-4b3a-bb5f-536dd6930ddd.html",
-     "title": "La voce di Andrea Bocelli accende il campo delle Atp Finals"
-    }
-   ],
-   "subtype": "cultura"
+   "subtype": "scienza"
   },
   {
    "category": "varia",
@@ -440,118 +437,115 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Fallita la Cop31, l’accordo sul clima non è stato approvato: Ue e Sud globale respingono la bozza",
-   "summary": "Dopo due giorni di trattative supplementari, che hanno reso la conferenza Onu la più lunga della storia, nella plenaria conclusiva scontro sui combustibili fossili. Guterres: “Profondamente deluso”",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/cop31_negoziati_fallimento_scontro_combustibili_fossili_plenaria-425741337/?rss",
-   "pub_ts": 1795363344,
+   "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
+   "summary": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
+   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
+   "pub_ts": 1795345767,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Ambiente",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cop31_negoziati_fallimento_scontro_combustibili_fossili_plenaria-425741337/?rss",
-     "title": "Fallita la Cop31, l’accordo sul clima non è stato approvato: Ue e Sud globale respingono la bozza"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
+     "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/22/cop31-fallimento-accordo-clima-notizie/8580274/",
-     "title": "Clima, la Cop31 in Turchia è fallita: l’accordo finale non viene approvato. L’Ue rifiuta di firmare il documento, vincono Cina, Russia e petrostati"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/corrado-augias-camera-ardente_4idIU1NgZm56qteBgFt65O",
+     "title": "Corrado Augias, in migliaia in Campidoglio per l'ultimo saluto al giornalista gentile"
     }
    ],
-   "subtype": "scienza"
+   "subtype": "cultura"
   },
   {
-   "category": "cronaca",
+   "category": "varia",
    "area": null,
-   "title": "Niente accordo sui combustibili fossili, fallisce la Cop31",
-   "summary": "Scontro tra Ue e Paesi petroliferi. La Turchia rinuncia a presentare il documento politico",
-   "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/niente-accordo-sui-combustibili-fossili-fallisce-la-cop31_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
-   "pub_ts": 1795372516,
-   "n_sources": 8,
-   "documented": true,
+   "title": "Freddie Mercury, 35 anni fa l'annuncio choc: \"Ho l'Aids\". Due giorni dopo la morte della leggenda dei Queen",
+   "summary": "I lanci dall'archivio ANSA. In questi anni anche le cure per la malattia, all'epoca poco conosciuta e coperta da stigma, hanno fatto una rivoluzione",
+   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/22/freddie-mercury-35-anni-fa-lannuncio-dellaids-e-due-giorni-dopo-la-morte-della_3e295cca-c71b-430b-ab10-447cc6619701.html",
+   "pub_ts": 1795372574,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/niente-accordo-sui-combustibili-fossili-fallisce-la-cop31_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
-     "title": "Niente accordo sui combustibili fossili, fallisce la Cop31"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop31-nuova-bozza-con-riferimento-indiretto-a-uscita-da-fossili_d5d76c15-7f98-4144-a933-3e46ce78150b.html",
-     "title": "Cop31, nuova bozza con riferimento indiretto a uscita da fossili"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/la-cop31-di-antalya-si-chiude-senza-intesa-monito-dellonu-contro-la-lobby-dei-combustibili-fossili-guterres-b8ac2adb-4996-4440-ac02-1601a2a49fe7.html",
-     "title": "La COP31 di Antalya si chiude senza intesa: monito dell’Onu contro la lobby dei combustibili fossili"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/22/cop31-salta-accordo-clima-combustibili-fossili-perche/",
-     "title": "Cop31, salta l’accordo sul clima. L’Ue boccia il testo finale: «Non cita nemmeno i combustibili fossili»"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/22/cop31-scontro-su-accordo/",
-     "title": "La COP31 non è riuscita ad approvare un accordo"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/cop31-ue-si-oppone-decisione-quadro-AJqJC4OC",
-     "title": "La Cop31 deraglia sui combustibili fossili. La Ue alla guida del fronte per l’«uscita», contro Arabia, Russia e India"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/cop-31-stallo-bozza-accordo-clima_3ZaB0FAzKSLoM4xG6I3aqc",
-     "title": "Disastro Cop31, l'accordo sul clima non si trova. Guterres: “Profondamente deluso”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cop31_negoziati_fallimento_scontro_combustibili_fossili_plenaria-425741337/",
-     "title": "Fallita la Cop31, l’accordo sul clima non è stato approvato: Ue e Sud globale respingono la bozza"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/22/freddie-mercury-35-anni-fa-lannuncio-dellaids-e-due-giorni-dopo-la-morte-della_3e295cca-c71b-430b-ab10-447cc6619701.html",
+     "title": "Freddie Mercury, 35 anni fa l'annuncio choc: \"Ho l'Aids\". Due giorni dopo la morte della leggenda dei Queen"
     }
-   ]
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "cronaca",
    "area": null,
-   "title": "L'ex capo della Polizia De Gennaro si è ucciso con un colpo di pistola",
-   "summary": "Carabinieri avvisati dagli inservienti questa mattina alle 9",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-con-un-colpo-di-pistola_9f9f021b-0b40-417a-9f95-959f0ae16e92.html",
-   "pub_ts": 1795352400,
-   "n_sources": 4,
+   "title": "Messico, catturato El Chapo Isidro, boss dei narcos nemico di Guzmán nella black list dell’Fbi",
+   "summary": "Considerato il leader internazionale di cocaina, eroina e fentanyil, era sopravvissuto alle guerre tra gli altri grandi narcotrafficanti. Violenze a Guasave, la sua roccaforte, con almeno 11 morti",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/messico_narcos_arrestato_el_chapo_isidro_scontri_armati-425740170/?rss",
+   "pub_ts": 1795345873,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-con-un-colpo-di-pistola_9f9f021b-0b40-417a-9f95-959f0ae16e92.html",
-     "title": "L'ex capo della Polizia De Gennaro si è ucciso con un colpo di pistola"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/de-gennaro-i-messaggi-e-i-documenti-lasciati-nella-villa-dove-e-stato-trovato-il-corpo-92eb4e1d-b014-40d8-b18d-2a60aec60add.html",
-     "title": "De Gennaro, i messaggi e i documenti lasciati nella villa dove è stato trovato il corpo"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/21/news/messico_narcos_arrestato_el_chapo_isidro_scontri_armati-425740170/?rss",
+     "title": "Messico, catturato El Chapo Isidro, boss dei narcos nemico di Guzmán nella black list dell’Fbi"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/lex-capo-della-polizia-de-gennaro-si-e-tolto-la-vita-yd1l79f9",
-     "title": "L’ex capo della Polizia De Gennaro si è tolto la vita. Era indagato per depistaggio sulla strage di via D’Amelio"
+     "link": "https://www.editorialedomani.it/politica/mondo/scene-di-guerriglia-in-messico-catturato-il-boss-el-chapo-isidro-narcotraffico-y4z22gnr",
+     "title": "Scene di guerriglia in Messico, catturato il boss El Chapo Isidro"
     },
     {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/un-colpo-alla-testa-la-sua-pistola-i-biglietti-per-la-famiglia-cosi-hanno-trovato-il-corpo-di-de-gennaro/",
-     "title": "“Un colpo alla testa, la sua pistola, i biglietti per la famiglia”. Così hanno trovato il corpo di De Gennaro"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/messico-cattura-narcos-el-chapo-isidro_QsGrsfc3x5162w4zQBtpK",
+     "title": "Messico, catturato El Chapo Isidro: 11 morti nell'operazione anti narcos"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Nave militare russa colpita a Bengasi, 'sono stati gli ucraini'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/nave-militare-russa-colpita-a-bengasi-sono-stati-gli-ucraini-_957fd3f3-aa7b-4ed5-b2d5-03500486cfde.html",
-   "description": "La corvetta della marina militare russa era ormeggiata nel porto di Bengasi. La guerra arriva nel Mediterraneo. Centrato su un condominio a nord di Kiev, é strage",
-   "pub_ts": 1795373612,
+   "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/?rss",
+   "description": "Nel porto di Bengasi è saltata in aria la “Merkury”, una corvetta della flotta di Mosca. Dietro l’attacco in Cirenaica il tentativo di mettere in discussione l’immagine di forza di Putin. Allarme a Kaliningrad, attivata una barriera della difesa antiaerea",
+   "pub_ts": 1795380134,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Media, nave russa colpita in Libia da attacco a lungo raggio ucraino",
+   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/22/media-nave-russa-colpita-in-libia-da-attacco-a-lungo-raggio-ucraino_0c7df80f-d236-48ee-82b2-672a1d937471.html",
+   "description": "Lo afferma Barak Ravid di Axios citando una 'fonte a conoscenza' dell'accaduto",
+   "pub_ts": 1795375440,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Niente accordo sui combustibili fossili, fallisce la Cop31",
+   "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/niente-accordo-sui-combustibili-fossili-fallisce-la-cop31_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
+   "description": "Scontro tra Ue e Paesi petroliferi. La Turchia rinuncia a presentare il documento politico",
+   "pub_ts": 1795372516,
    "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Trump su Truth chiama Putin 'My Friend', scattano le polemiche",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/22/trump-su-truth-chiama-putin-my-friend-scattano-le-polemiche_6124bc49-8058-4d88-9c73-4adbed396ae6.html",
+   "description": "Foto dell'abbraccio fra i due. Zelensky, 'non ricordo che l'abbia detto a me'",
+   "pub_ts": 1795376692,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Niente borse di studio agli indagati. Forza Italia contro la stretta sui cortei",
+   "link": "https://www.repubblica.it/politica/2026/11/23/news/niente_borse_studio_indagati_forza_italia_contro_stretta_cortei-425742726/",
+   "description": "L’emendamento di Delmastro (FdI) per i forzisti è incostituzionale. La sinistra protesta anche per la vernice sui manifestanti",
+   "pub_ts": 1795392000,
+   "source": "la Repubblica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -565,74 +559,38 @@
    "section": "politica"
   },
   {
+   "title": "Telefonate respinte e una lettera cestinata. Tutti i rifiuti di Kim-Jong a Trump",
+   "link": "https://www.repubblica.it/esteri/2026/11/22/news/trump_kim_i_tentativi_del_presidente_usa_di_incontrare_il_leader_nordcoreano-425742784/?rss",
+   "description": "E’ imbarazzante la lista dei tentativi fatti dal presidente Usa per dialogare con il dittatore, rivelati da Wall Street Journal , ma ancora più preoccupante è il fatto che in questo modo la Corea del Nord sta potenziando il suo arsenale nucleare",
+   "pub_ts": 1795380828,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "'Marcatori colorati per i violenti', polemica per la proposta di Fdi",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/marcatori-colorati-per-i-violenti-polemica-per-la-proposta-di-fdi_d72b7d13-fc79-4bda-a12e-df7c3c8f1053.html",
    "description": "Emendamento di Urzì alla manovra. Avs: 'Come il Cile di Pinochet'. M5s: 'Deriva pericolosa'",
    "pub_ts": 1795373051,
-   "source": "ANSA",
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/?rss",
-   "description": "Nel porto di Bengasi è saltata in aria la “Merkury”, una corvetta della flotta di Mosca. Dietro l’attacco in Cirenaica il tentativo di mettere in discussione l’immagine di forza di Putin. Allarme a Kaliningrad, attivata una barriera della difesa antiaerea",
-   "pub_ts": 1795373432,
-   "source": "Repubblica Esteri",
+   "title": "Alleati tiepidi sulla 'patrimoniale' di Schlein, e Tajani la attacca",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/alleati-tiepidi-sulla-patrimoniale-di-schlein-e-tajani-la-attacca_8832c861-009e-4826-9077-8b8df8ecc0e3.html",
+   "description": "Tavolo progressista al lavoro su abuso di potere e norme sulla cannabis. Martedì nodo Kiev",
+   "pub_ts": 1795379667,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Blitz dell'Ice all'aeroporto di Seattle, 'una scena angosciante'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/blitz-dellice-allaeroporto-di-seattle-una-scena-angosciante_4aac05d0-a3a8-408a-93bb-81adedbdda99.html",
-   "description": "Agenti mascherati fermano due persone, caos e urla. Il governatore: 'Azione antiamericana'",
-   "pub_ts": 1795373265,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump rilascia i file su Bigfoot: online tre fascicoli sull’uomo-scimmia",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/bigfoot_file_uomo_scimmia_stati_uniti_avvistamenti_trump-425741790/?rss",
-   "description": "Tra i documenti custoditi per decenni figura il resoconto di una spedizione organizzata dal governo nel 1982 per esaminare decine di impronte rinvenute nei boschi dello Stato di Washington e in Oregon",
-   "pub_ts": 1795353898,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Ucraina, bombardato condominio a Dymer: due morti",
-   "link": "https://www.rainews.it/video/2026/11/ucraina-bombardato-condominio-a-dymer-due-morti-17a14185-8cfa-485b-bf97-7a0b11254655.html",
-   "description": "Edificio di 5 piani bombardato da un attacco russo. Almeno due persone sono rimaste uccise in un attacco russo notturno contro un edificio residenziale, parzialmente crollato a nord di Kiev; il bilancio è stato aggiornato dalle autorità.",
-   "pub_ts": 1795361700,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Vernice sui violenti ai cortei e via borse di studio, i collettivi: “Meloni ci teme, andiamo avanti”",
-   "link": "https://www.repubblica.it/cronaca/2026/11/22/news/vernice_violenti_cortei_borse_di_studio_reazione_studenti-425741956/",
-   "description": "La reazione delle organizzazioni studentesche alla stretta del governo: “Vogliono farci pagare il dissenso e usare la povertà come ricatto. Ci imbratteremo tutti per non consentire di colpire pochi tra tanti”. Avs: “Voglio marchiarli come pecore”. Fdi: “Siete allergici alla legalità”",
-   "pub_ts": 1795354215,
-   "source": "la Repubblica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Trump, su Truth le foto con Putin e Xi Jinping a Shenzhen: \"Miei amici\"",
-   "link": "https://www.adnkronos.com/internazionale/esteri/trump-foto-putin-xi-amici-vertice-shenzhen_19e7QTED8DK5XnupOYDZNe",
-   "description": "(Adnkronos) - A pochi giorni dal vertice, il presidente americano pubblica sul social le immagini degli incontri con i due leader: \"Chi critica i nostri rapporti è stupido\"",
-   "pub_ts": 1795352836,
-   "source": "Adnkronos Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "I dem conquistano il 258esimo seggio alla Camera, battuto il record del 2008",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/22/i-dem-conquistano-il-258esimo-seggio-alla-camera-battuto-il-record-del-2008_dab551d5-874c-411e-8eb7-20abfb036970.html",
-   "description": "Vittoria dell'ex giornalista Hubbard in North Carolina",
-   "pub_ts": 1795373723,
-   "source": "ANSA Mondo",
+   "title": "Salvini in pressing sul condono, la cautela degli alleati",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/22/proposta-della-lega-6-mesi-ai-comuni-per-evadere-le-vecchie-domande-o-scatta_81525291-a346-4208-98f7-5260a842ca06.html",
+   "description": "L'ipotesi di un vertice martedì. Aperti i nodi sanità-pensioni. Tajani: 'Vicina l'intesa sul superbonus'",
+   "pub_ts": 1795379160,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -655,6 +613,15 @@
    "section": "tech"
   },
   {
+   "title": "Il robot Flash non partecipa alla Half Marathon: troppa pioggia",
+   "link": "https://www.rainews.it/video/2026/11/flash-robot-niente-mezza-maratona-milano-per-la-pioggia-26f78951-5f0a-4961-977b-5919a567346b.html",
+   "description": "In 20mila hanno corso la mezza di Milano. Ma l'umanoide cinese che avrebbe dovuto correre non è mai arrivato in pista per ragioni meteo",
+   "pub_ts": 1795378380,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
    "title": "Google ostacola l’installazione di GrapheneOS?",
    "link": "https://www.punto-informatico.it/google-ostacola-installazione-grapheneos/",
    "description": "Secondo gli sviluppatori di GrapheneOS, Google vuole ostacolare l'installazione del sistema operativo sugli smartphone di altri produttori. The post Google ostacola l’installazione di GrapheneOS? appeared first on Punto Informatico .",
@@ -664,38 +631,20 @@
    "section": "tech"
   },
   {
-   "title": "Manuela Moreno a Ballando: \"Mi hanno rubato il corpo con l'IA. Una rabbia incredibile\"",
-   "link": "https://www.rainews.it/video/2026/11/manuela-moreno-a-ballando-mi-hanno-rubato-il-corpo-con-lia-una-rabbia-incredibile-93ac1a51-dc70-4c68-89d7-18a3783ce455.html",
-   "description": "La giornalista racconta a Ballando con le Stelle la rabbia e lo shock per la diffusione di immagini e video pornografici falsi realizzati con l'intelligenza artificiale: \"Ti riconosci, ma non riconosci il tuo corpo\"",
-   "pub_ts": 1795348080,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
    "title": "Miley Cyrus sposa Maxx Morando in una cerimonia intima a Palm Strings",
    "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/22/miley-cyrus-sposa-maxx-morando-in-una-cerimonia-intima-a-palm-strings_993145e6-53e0-471a-9ef4-1ec20d727c4f.html",
    "description": "Insieme da quattro anni, per la pop star è il secondo matrimonio",
-   "pub_ts": 1795360860,
+   "pub_ts": 1795378095,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
-   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
-   "description": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
-   "pub_ts": 1795345767,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Alcaraz-Zverev, una supersfida per il titolo. La voce di Andrea Bocelli accende il campo",
-   "link": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/22/alcaraz-zverev-una-supersfida-per-il-titolo.-la-voce-di-andrea-bocelli-accende_edfb3ff5-f27f-4b0d-9e7e-6c8409ae4446.html",
-   "description": "Esibizione questa sera prima della partita finale del torneo",
-   "pub_ts": 1795365755,
-   "source": "ANSA",
+   "title": "Cop 31, nella bozza nessuna menzione dei combustibili fossili",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop-31-nella-bozza-nessuna-menzione-dei-combustibili-fossili_e121f1b0-59b6-46f1-b370-4967cafbc2e1.html",
+   "description": "Il testo include un appello all'elettrificazione",
+   "pub_ts": 1795377746,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "varia"
   },
@@ -709,29 +658,29 @@
    "section": "varia"
   },
   {
-   "title": "Fallita la Cop31, l’accordo sul clima non è stato approvato: Ue e Sud globale respingono la bozza",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/cop31_negoziati_fallimento_scontro_combustibili_fossili_plenaria-425741337/?rss",
-   "description": "Dopo due giorni di trattative supplementari, che hanno reso la conferenza Onu la più lunga della storia, nella plenaria conclusiva scontro sui combustibili fossili. Guterres: “Profondamente deluso”",
-   "pub_ts": 1795363344,
-   "source": "Repubblica Ambiente",
+   "title": "Corrado Augias, oltre 10.000 persone in fila in Campidoglio per salutarlo",
+   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/21/aperta-la-camera-ardente-di-corrado-augias-al-campidoglio_c6d8a54b-d173-407a-b918-35a3c64d118b.html",
+   "description": "Sabato 28 novembre memoriale all'Auditorium, funerali laici in forma privata",
+   "pub_ts": 1795345767,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Niente accordo sui combustibili fossili, fallisce la Cop31",
-   "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/niente-accordo-sui-combustibili-fossili-fallisce-la-cop31_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
-   "description": "Scontro tra Ue e Paesi petroliferi. La Turchia rinuncia a presentare il documento politico",
-   "pub_ts": 1795372516,
-   "source": "ANSA",
+   "title": "Freddie Mercury, 35 anni fa l'annuncio choc: \"Ho l'Aids\". Due giorni dopo la morte della leggenda dei Queen",
+   "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/22/freddie-mercury-35-anni-fa-lannuncio-dellaids-e-due-giorni-dopo-la-morte-della_3e295cca-c71b-430b-ab10-447cc6619701.html",
+   "description": "I lanci dall'archivio ANSA. In questi anni anche le cure per la malattia, all'epoca poco conosciuta e coperta da stigma, hanno fatto una rivoluzione",
+   "pub_ts": 1795372574,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "cronaca"
+   "section": "varia"
   },
   {
-   "title": "L'ex capo della Polizia De Gennaro si è ucciso con un colpo di pistola",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-con-un-colpo-di-pistola_9f9f021b-0b40-417a-9f95-959f0ae16e92.html",
-   "description": "Carabinieri avvisati dagli inservienti questa mattina alle 9",
-   "pub_ts": 1795352400,
-   "source": "ANSA Cronaca",
+   "title": "Messico, catturato El Chapo Isidro, boss dei narcos nemico di Guzmán nella black list dell’Fbi",
+   "link": "https://www.repubblica.it/esteri/2026/11/21/news/messico_narcos_arrestato_el_chapo_isidro_scontri_armati-425740170/?rss",
+   "description": "Considerato il leader internazionale di cocaina, eroina e fentanyil, era sopravvissuto alle guerre tra gli altri grandi narcotrafficanti. Violenze a Guasave, la sua roccaforte, con almeno 11 morti",
+   "pub_ts": 1795345873,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "cronaca"
   }
