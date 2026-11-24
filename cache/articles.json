@@ -1,6 +1,6 @@
 {
- "generated_at": 1795467936,
- "updated_at": 1795467936,
+ "generated_at": 1795499398,
+ "updated_at": 1795499398,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -13,8 +13,8 @@
    "title": "Tajani, 'preoccupa esplosione nave russa in Libia, evitare guerra in Mediterraneo'",
    "summary": "'Presenza russa deve essere seguita con grande attenzione'",
    "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/tajani-preoccupa-esplosione-nave-russa-in-libia-evitare-guerra-in-mediterraneo_8c4b161e-2f37-4301-a33d-a355cb9a2362.html",
-   "pub_ts": 1795460280,
-   "n_sources": 6,
+   "pub_ts": 1795476225,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
@@ -28,100 +28,41 @@
      "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra"
     },
     {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/24/diretta/guerra_ucraina_russia_news_oggi-425745406/",
+     "title": "Guerra Ucraina-Russia, le news di oggi. Attacco su Kiev, ferito un cittadino statunitense"
+    },
+    {
      "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/dal-satellite-le-immagini-di-navi-nel-porto-di-bengasi-dopo-il-presunto-attacco-con-droni-ucraino-60a17005-db48-434f-a26a-9ce8ffe386e5.html",
-     "title": "Dal satellite le immagini di navi nel porto di Bengasi dopo attacco con droni"
+     "link": "https://www.rainews.it/video/2026/11/navi-ormeggiate-al-porto-di-bengasi-dopo-che-lucraina-ha-affondato-nave-da-guerra-russa-in-libia-22ddfb6d-340d-466b-9333-aadfbd6951c3.html",
+     "title": "Navi ormeggiate al porto di Bengasi dopo che l'Ucraina ha affondato nave da guerra russa in Libia"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/",
-     "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/22/libia-bengasi-sospetto-attacco-nave-russa/",
-     "title": "L’Ucraina ha attaccato una nave militare russa in Libia"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/bengasi-libia-orientale--nave-russa-colpita-con-droni-attacco-ucraino-d06bjj9d",
-     "title": "Bengasi, nave russa colpita con droni. Axios: «Un attacco condotto dal Servizio di sicurezza ucraino»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Zelensky rivendica gli attacchi a navi russe in Libia, 'operazione esemplare'",
-   "summary": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/zelensky-rivendica-gli-attacchi-a-navi-russe-in-libia-operazione-esemplare_36514ab3-39c4-41a2-ae12-46b412476993.html",
-   "pub_ts": 1795459777,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/zelensky-rivendica-gli-attacchi-a-navi-russe-in-libia-operazione-esemplare_36514ab3-39c4-41a2-ae12-46b412476993.html",
-     "title": "Zelensky rivendica gli attacchi a navi russe in Libia, 'operazione esemplare'"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/navi-russe-libia-attacco-ucraina-kiev-nato-kushner-hagen9b2",
-     "title": "I droni ucraini in Libia allarmano l’Onu, Zelensky esulta: «Operazione esemplare»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/23/diretta/guerra_ucraina_russia_news_oggi-425742911/",
-     "title": "Guerra Ucraina-Russia. Zelensky: “In Libia operazione esemplare”. Nuove sanzioni Ue contro Mosca"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "I coloni mettono a ferro e fuoco la Cisgiordania. Eisenkot: “Fermare il terrorismo ebraico”",
-   "summary": "Ennesimo assalto nella notte ad opera di giovani calati dagli insediamenti illegali, auto e case date alle fiamme in quattro villaggi. Sui muri la scritta: “Vendetta”. L’opposizione israeliana insorge",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/cisgiordania_coloni_eisenkot_terrorismo_ebraico-425742079/?rss",
-   "pub_ts": 1795413432,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/cisgiordania_coloni_eisenkot_terrorismo_ebraico-425742079/?rss",
-     "title": "I coloni mettono a ferro e fuoco la Cisgiordania. Eisenkot: “Fermare il terrorismo ebraico”"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/23/gadi-eisenkot-condanna-coloni-isreaeliani-cisgiordania-terrorismo-ebraico/",
-     "title": "Eisenkot contro le violenze dei coloni israeliani in Cisgiordania"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/cisgiordania-i-coloni-ferro-fuoco-villaggi-palestinesi-ramallah-eisenkot-bengivr-nw1264fo",
-     "title": "Cisgiordania, i coloni danno fuoco a case e auto vicino Ramallah. Eisenkot: «È terrorismo ebraico»"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-droni-navali-oggi-guerra-marittima_u1NLLT7aBgHaK07zCkVo7",
+     "title": "Ucraina, i droni navali di Kiev: come sta cambiando la guerra marittima"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Mattarella sul fisco: \"Per pagare di meno bisogna contribuire tutti\"",
-   "summary": "All'incontro con i primi magistrati tributari in tirocinio, il Capo dello Stato richiama la Costituzione: \"L'evasione ostacola la coesione sociale. Oggi la tecnologia permette di tracciare la ricchezza senza violare la privacy\"",
-   "link": "https://www.rainews.it/articoli/2026/11/mattarella-sul-fisco-per-pagare-di-meno-bisogna-contribuire-tutti-c88ffd90-aea8-4d02-b4e9-8081ff2b8ba0.html",
-   "pub_ts": 1795458360,
+   "title": "Mattarella: 'Per un fisco più leggero contribuiscano tutti, serve progressività'",
+   "summary": "Il richiamo del presidente, 'pagare le tasse è un dovere inderogabile'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-per-un-fisco-piu-leggero-contribuiscano-tutti-serve-progressivita_b77f620d-611d-4e8e-b64a-0b31f44c9803.html",
+   "pub_ts": 1795468772,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-per-un-fisco-piu-leggero-contribuiscano-tutti-serve-progressivita_b77f620d-611d-4e8e-b64a-0b31f44c9803.html",
+     "title": "Mattarella: 'Per un fisco più leggero contribuiscano tutti, serve progressività'"
+    },
+    {
      "name": "Rai News",
      "link": "https://www.rainews.it/articoli/2026/11/mattarella-sul-fisco-per-pagare-di-meno-bisogna-contribuire-tutti-c88ffd90-aea8-4d02-b4e9-8081ff2b8ba0.html",
      "title": "Mattarella sul fisco: \"Per pagare di meno bisogna contribuire tutti\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/23/news/mattarella_fisco_evasione_contribuire_tutti-425744623/",
-     "title": "Mattarella: “Tutti auspichiamo un fisco più leggero. Ma per contribuire di meno bisogna farlo tutti”"
     },
     {
      "name": "Il Fatto Quotidiano",
@@ -154,28 +95,6 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Zelensky rivendica gli attacchi alle navi russe in Libia e lancia un appello alla Nato: 'Arriva l'inverno, aiutateci'",
-   "summary": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'. Tajani 'preoccupato'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
-   "pub_ts": 1795439640,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
-     "title": "Zelensky rivendica gli attacchi alle navi russe in Libia e lancia un appello alla Nato: 'Arriva l'inverno, aiutateci'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/ucraina-il-fronte-mediterraneo-zelensky-rivendica-gli-attacchi-a-due-navi-russe-in-cirenaica-f7d9eddf-e894-49d7-ab8d-19ef96f5a2ea.html",
-     "title": "Ucraina, il fronte mediterraneo: Zelensky rivendica gli attacchi a due navi russe in Cirenaica"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
    "title": "Anche bambini e bambine nella delegazione dell'Unicef da Mattarella",
    "summary": "Delle scuole elementari e medie della Toscana e della Campania",
@@ -190,9 +109,31 @@
      "title": "Anche bambini e bambine nella delegazione dell'Unicef da Mattarella"
     },
     {
-     "name": "ANSA",
+     "name": "ANSA Politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-i-bambini-nel-mondo-soffrono-situazione-sconfortante.-serve-piu-impegno_adf5489d-4564-4a25-86af-6310f95b7bd7.html",
      "title": "Mattarella: 'I bambini nel mondo soffrono, situazione sconfortante. Serve più impegno'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Manovra, stop a un emendamento su quattro. No alle vernici sui manifestanti",
+   "summary": "1.700 proposte inammissibili, incluse norme su exit tax, superbonus e pensioni. La Lega insiste sul condono edilizio. Dure le opposizioni, la maggioranza ricorre a un nuovo vertice",
+   "link": "https://www.rainews.it/articoli/2026/11/manovra-bocciati-gli-spray-colorati-ai-cortei-salta-emendamento-di-fdi-ae015406-715b-4417-a304-46ab6f246c4f.html",
+   "pub_ts": 1795470437,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/manovra-bocciati-gli-spray-colorati-ai-cortei-salta-emendamento-di-fdi-ae015406-715b-4417-a304-46ab6f246c4f.html",
+     "title": "Manovra, stop a un emendamento su quattro. No alle vernici sui manifestanti"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/23/manovra-emendamenti-inammissibili-marcatori-manifestanti-notizie/8581690/",
+     "title": "Manovra, falciato un emendamento su 4: saltano la “marcatura colorata” per i manifestanti e lo stop alle demolizioni abusive"
     }
    ]
   },
@@ -221,56 +162,110 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video",
-   "summary": "Durante l'annuale cena di gala con i giornalisti Mark Carney ha partecipato a un siparietto comico insieme a due comici che interpretavano lui e il presidente statunitense L'articolo Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video proviene da Open.",
-   "link": "https://www.open.online/2026/11/23/primo-ministro-canadese-mark-carney-invita-donald-trump-palco-ma-e-imitatore-video/",
-   "pub_ts": 1795453288,
+   "title": "Eisenkot contro le violenze dei coloni israeliani in Cisgiordania",
+   "summary": "L'ex generale incaricato di formare un governo le ha definite «terrorismo ebraico», in netta discontinuità con Netanyahu",
+   "link": "https://www.ilpost.it/2026/11/23/gadi-eisenkot-condanna-coloni-isreaeliani-cisgiordania-terrorismo-ebraico/",
+   "pub_ts": 1795413432,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/23/primo-ministro-canadese-mark-carney-invita-donald-trump-palco-ma-e-imitatore-video/",
-     "title": "Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/23/gadi-eisenkot-condanna-coloni-isreaeliani-cisgiordania-terrorismo-ebraico/",
+     "title": "Eisenkot contro le violenze dei coloni israeliani in Cisgiordania"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/flashes/imitatore-donald-trump-imitatore-di-mark-carney-gala-stampa-canadese/",
-     "title": "Il siparietto tra un imitatore di Donald Trump e un imitatore di Mark Carney al gala della stampa canadese"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/cisgiordania-i-coloni-ferro-fuoco-villaggi-palestinesi-ramallah-eisenkot-bengivr-nw1264fo",
+     "title": "Cisgiordania, i coloni danno fuoco a case e auto vicino Ramallah. Eisenkot: «È terrorismo ebraico»"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Ex ministro brasiliano, tassare i miliardari per frenare la nuova oligarchia globale",
-   "summary": "Fernando Haddad rilancia la proposta di un'imposta minima globale del 2%",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/ex-ministro-brasiliano-tassare-i-miliardari-per-frenare-la-nuova-oligarchia-globale_4ff6ca9a-a090-4705-a923-591710205f5c.html",
-   "pub_ts": 1795437990,
+   "title": "Russia, Rutte rompe il tabù: “Non è più guerra ibrida”. L’Europa: “Kiev nella Nato”",
+   "summary": "Per il segretario dell’Alleanza le provocazioni di Putin sono ormai “troppo gravi”. Il cancelliere sposa la linea di Macron e propone garanzie simili all’articolo 5",
+   "link": "https://www.repubblica.it/esteri/2026/11/24/news/russia_rutte_guerra_ibrida_europa_kiev_nato-425745000/?rss",
+   "pub_ts": 1795478400,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/24/news/russia_rutte_guerra_ibrida_europa_kiev_nato-425745000/?rss",
+     "title": "Russia, Rutte rompe il tabù: “Non è più guerra ibrida”. L’Europa: “Kiev nella Nato”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "“Una violenza inaccettabile”, ora la leadership israeliana condanna i terroristi coloni",
+   "summary": "L’aumento degli attacchi ai civili in Cisgiordania denunciato da Eisenkot e dal presidente Herzog. “Perseguiremo gli autori”",
+   "link": "https://www.repubblica.it/esteri/2026/11/24/news/coloni_violenze_israele_condanna_eisenkot-425744746/?rss",
+   "pub_ts": 1795478400,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/24/news/coloni_violenze_israele_condanna_eisenkot-425744746/?rss",
+     "title": "“Una violenza inaccettabile”, ora la leadership israeliana condanna i terroristi coloni"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "'A Gaza usate bombe come 13 atomiche, il 99% della terra è avvelenato'",
+   "summary": "Oxfam: 'Conseguenze sanitarie per decenni. Serve subito una bonifica ambientale'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/a-gaza-usate-bombe-come-13-atomiche-il-99-della-terra-e-avvelenato_34a2aeb0-24bb-41f5-8e1d-d22583e088d9.html",
+   "pub_ts": 1795472101,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/ex-ministro-brasiliano-tassare-i-miliardari-per-frenare-la-nuova-oligarchia-globale_4ff6ca9a-a090-4705-a923-591710205f5c.html",
-     "title": "Ex ministro brasiliano, tassare i miliardari per frenare la nuova oligarchia globale"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/a-gaza-usate-bombe-come-13-atomiche-il-99-della-terra-e-avvelenato_34a2aeb0-24bb-41f5-8e1d-d22583e088d9.html",
+     "title": "'A Gaza usate bombe come 13 atomiche, il 99% della terra è avvelenato'"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
-   "summary": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
-   "pub_ts": 1795465387,
-   "n_sources": 9,
+   "title": "Jensen Huang torna alla guida di Nvidia, Trump esulta",
+   "summary": "Il presidente sotto attacco si prende il merito, 'l'ho fatto per gli Usa'. Titoli a +30%",
+   "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/11/23/il-cda-di-nvidia-richiama-jensen-huang-alla-guida-rally-di-wall-street_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
+   "pub_ts": 1795498964,
+   "n_sources": 10,
    "documented": true,
    "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/11/23/il-cda-di-nvidia-richiama-jensen-huang-alla-guida-rally-di-wall-street_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
+     "title": "Jensen Huang torna alla guida di Nvidia, Trump esulta"
+    },
     {
      "name": "Repubblica Tecnologia",
      "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
      "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/?rss",
+     "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/24/huang-ritorno-nvidia-reazioni-borsa/",
+     "title": "I mercati hanno accolto con entusiasmo il ritorno di Huang a Nvidia"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/24/news/nvidiahuang_ritorno_la_ragnatela_di_jensen_huang_tra_tech_e_politica_quando_i_fondatori_sono_insostituibili-425745380/",
+     "title": "Nvidia, la ragnatela di Jensen Huang tra tech e politica. Quando i fondatori sono insostituibili"
     },
     {
      "name": "Domani",
@@ -283,9 +278,9 @@
      "title": "Jensen Huang torna al comando di Nvidia: la decisione inattesa del cda"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/23/huang-torna-nvidia-meme-social-video/",
-     "title": "La vendetta di Huang che torna a Nvidia, valanga di meme (con AI) sul Ceo: spunta quello di Trump con un reggiseno – I video"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/leader-settore-tech-festeggiano-ritorno-jensen-huang/",
+     "title": "I leader del settore tech festeggiano il ritorno di Jensen Huang"
     },
     {
      "name": "Adnkronos Esteri",
@@ -293,76 +288,9 @@
      "title": "Nvidia, Huang torna Ceo. Trump 'regista' dell'operazione. Anche il presidente fa festa in Borsa?"
     },
     {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/donald-trump-borsa-festeggiano-ritorno-huang/",
-     "title": "Donald Trump e la Borsa festeggiano il ritorno di Huang"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/23/valore-azioni-nvidia-crescita/",
-     "title": "Il valore delle azioni di Nvidia è cresciuto molto dopo il ritorno di Jensen Huang come amministratore delegato"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/23/news/nvidia_jensen_huang_torna-425744140/",
-     "title": "Nvidia, torna Jensen Huang. Reintegrato come presidente e ceo. Trump: “Ho convinto il cda”"
-    },
-    {
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/jensen-huang-torna-ceo-nvidia-trump-musk-titolo-wall-street/",
      "title": "Nvidia, colpo di scena: Huang torna al comando. E ora che succede?"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva",
-   "summary": "Lo rivela il New York Times citando fonti di intelligence",
-   "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/?rss",
-   "pub_ts": 1795446237,
-   "n_sources": 8,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/?rss",
-     "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/23/nyt-alice-huang-contattava-gli-007-cinesi-durante-la-relazione-con_3b65cbb9-4e5d-4d2f-a3f3-a500f378a2e0.html",
-     "title": "Il Nyt: 'Alice Huang contattava gli 007 cinesi durante la relazione il ceo di Nvidia'"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/intelligence-usa-conferma-alice-huang-spia/",
-     "title": "Intelligence USA conferma che Alice Huang era una spia"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/nvidia-il-nyt-alice-huang-in-contatto-con-lo-spionaggio-cinese-e-monitorata-dallintelligence-usa-2b7a1be5-c72a-49e9-9eb9-22720c10d7b1.html",
-     "title": "Nvidia, il NYT: Alice Huang in contatto con lo spionaggio cinese e monitorata dall'Intelligence Usa"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/nvidia-alice-huang-servizi-segreti-cinesi_6RO0EQ44wPAXWInbSSZJh",
-     "title": "Scandalo Nvidia, il New York Times: \"Alice Huang in contatto con servizi segreti cinesi da primavera 2025\""
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/23/new-york-times-alice-huang-contatto-spia-cinese-jensen-huang-nvidia/",
-     "title": "Secondo il New York Times Alice Huang sarebbe stata in contatto per almeno un anno con l’intelligence cinese"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/nyt-alice-huang-contattava-007-cinesi-la-relazione-jensen-AJxlkmPC",
-     "title": "Nyt: «Alice Huang contattava gli 007 cinesi durante la relazione con Jensen»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/",
-     "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva"
     }
    ]
   },
@@ -391,6 +319,28 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Nvidia richiama Huang su pressione di Trump: “È un patriota”. E le Borse festeggiano",
+   "summary": "Il cda ammette: “Ascoltati i pareri di alti funzionari di governo”. Il titolo recupera mille miliardi: +6,5% per il Nasdaq, ma resta l’ombra dei legami con i servizi segreti cinesi. La società dell’amante-spia finisce nella lista nera degli Usa",
+   "link": "https://www.repubblica.it/economia/2026/11/24/news/nvidia_huang_pressioni_trump_intelligenza_artificiale_bolla_borse-425745302/",
+   "pub_ts": 1795478400,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/24/news/nvidia_huang_pressioni_trump_intelligenza_artificiale_bolla_borse-425745302/",
+     "title": "Nvidia richiama Huang su pressione di Trump: “È un patriota”. E le Borse festeggiano"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/donald-trump-borsa-festeggiano-ritorno-huang/",
+     "title": "Donald Trump e la Borsa festeggiano il ritorno di Huang"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "Milano sperimenta gli agenti AI per collegare i servizi della città",
    "summary": "Fastweb + Vodafone e BIP avviano una collaborazione nell’ambito di Project NANDA, iniziativa nata al MIT Media Lab. Venticinque squadre hanno sviluppato prototipi per mobilità, accessibilità e ambiente. I progetti saranno messi a disposizione del Comune, che potrà valutarne...",
    "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/milano_sperimenta_agenti_ai_servizi-425744730/?rss",
@@ -408,65 +358,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Sinner vola in Finlandia per l'operazione al ginocchio",
-   "summary": "Sky: dopo un consulto con lo specialista Lampainen scelta la via dell'intervento",
-   "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
-   "pub_ts": 1795449540,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
-     "title": "Sinner vola in Finlandia per l'operazione al ginocchio"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/tennis-jannik-sinner-ha-deciso-si-opera-al-ginocchio-in-finlandia-infortunio-sindrome-bandelletta-a140d734-8a55-4b6a-a845-d4434f097221.html",
-     "title": "Jannik Sinner è in Finlandia: domani l'operazione al ginocchio"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/23/sinner-operazione-ginocchio/",
-     "title": "Jannik Sinner sarà operato al ginocchio destro martedì, dice Sky Sport"
-    },
-    {
-     "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/2026/11/23/news/operazione_di_sinner_al_ginocchio_tendine-425744077/?rss",
-     "title": "L’operazione di Sinner al ginocchio, ecco come si interverrà sul tendine del campione"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/sport/tennis/2026/11/23/news/sinner_operazione_chirurgica_volo_finlandia-425743867/",
-     "title": "Sinner ha deciso, va in Finlandia per operarsi al ginocchio: stop di alcuni mesi"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/jannik-sinner-ha-deciso-si-opera-al-ginocchio/",
-     "title": "Jannik Sinner ha deciso: si opera al ginocchio"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
-   "summary": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-   "pub_ts": 1795455783,
+   "title": "Scontro Conte-Fdi in commissione Covid, 'stop and go' dei lavori",
+   "summary": "Il leader M5s: 'Preso sempre decisioni politiche'. Lite con Bignami su Di Donna",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/scontro-conte-fdi-in-commissione-covid-stop-and-go-dei-lavori_ced74e1b-8234-4514-86b9-7f526f0eb932.html",
+   "pub_ts": 1795470777,
    "n_sources": 4,
    "documented": true,
    "sources": [
     {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/scontro-conte-fdi-in-commissione-covid-stop-and-go-dei-lavori_ced74e1b-8234-4514-86b9-7f526f0eb932.html",
+     "title": "Scontro Conte-Fdi in commissione Covid, 'stop and go' dei lavori"
+    },
+    {
      "name": "ANSA Salute",
      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
      "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/commissione-covid-duello-conte-bignami-dimettiamoci-e-vediamoci-in-tribunale-d55fc05e-e907-4eb8-9d63-f24b58dada53.html",
-     "title": "Commissione Covid, duello Conte-Bignami: \"Dimettiamoci e vediamoci in tribunale\""
     },
     {
      "name": "Repubblica Salute",
@@ -477,6 +384,29 @@
      "name": "Il Fatto Quotidiano",
      "link": "https://www.ilfattoquotidiano.it/2026/11/23/conte-bignami-commissione-covid-fuori-regioni-lombardia-e-veneto-centrodestra-video/8581491/",
      "title": "Conte a Bignami in commissione Covid: “Avete lasciato fuori le Regioni perché Lombardia e Veneto erano di centrodestra?”"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Sinner vola dal 'guru' finlandese per operazione al ginocchio",
+   "summary": "Il tennista in Finlandia con i suoi consulenti: con intervento stop di 4 mesi",
+   "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
+   "pub_ts": 1795469578,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
+     "title": "Sinner vola dal 'guru' finlandese per operazione al ginocchio"
+    },
+    {
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/23/news/operazione_di_sinner_al_ginocchio_tendine-425744077/?rss",
+     "title": "L’operazione di Sinner al ginocchio, ecco come si interverrà sul tendine del campione"
     }
    ],
    "subtype": "scienza"
@@ -549,6 +479,38 @@
     }
    ],
    "subtype": "cultura"
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Zelensky, 'in Libia azione esemplare'. Mosca studia la risposta",
+   "summary": "Il leader ucraino rivendica. 'Russi pronti al lancio dell'arma nucleare nello spazio'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/-zelensky-in-libia-azione-esemplare.-mosca-studia-la-risposta_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
+   "pub_ts": 1795496760,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/-zelensky-in-libia-azione-esemplare.-mosca-studia-la-risposta_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
+     "title": "Zelensky, 'in Libia azione esemplare'. Mosca studia la risposta"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/zelensky-rivendica-gli-attacchi-a-navi-russe-in-libia-operazione-esemplare_36514ab3-39c4-41a2-ae12-46b412476993.html",
+     "title": "Zelensky rivendica gli attacchi a navi russe in Libia, 'operazione esemplare'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/il-palazzo-sventrato-dopo-lattacco-di-un-missile-russo-su-zaporizhzhia-video-c01f97f6-fda5-4503-83e5-4d75aecee618.html",
+     "title": "Il palazzo sventrato dopo l'attacco di un missile russo su Zaporizhzhia"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/navi-russe-libia-attacco-ucraina-kiev-nato-kushner-hagen9b2",
+     "title": "I droni ucraini in Libia allarmano l’Onu, Zelensky esulta: «Operazione esemplare»"
+    }
+   ]
   }
  ],
  "articles": [
@@ -556,35 +518,17 @@
    "title": "Tajani, 'preoccupa esplosione nave russa in Libia, evitare guerra in Mediterraneo'",
    "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/tajani-preoccupa-esplosione-nave-russa-in-libia-evitare-guerra-in-mediterraneo_8c4b161e-2f37-4301-a33d-a355cb9a2362.html",
    "description": "'Presenza russa deve essere seguita con grande attenzione'",
-   "pub_ts": 1795460280,
+   "pub_ts": 1795476225,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Zelensky rivendica gli attacchi a navi russe in Libia, 'operazione esemplare'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/zelensky-rivendica-gli-attacchi-a-navi-russe-in-libia-operazione-esemplare_36514ab3-39c4-41a2-ae12-46b412476993.html",
-   "description": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'",
-   "pub_ts": 1795459777,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "I coloni mettono a ferro e fuoco la Cisgiordania. Eisenkot: “Fermare il terrorismo ebraico”",
-   "link": "https://www.repubblica.it/esteri/2026/11/22/news/cisgiordania_coloni_eisenkot_terrorismo_ebraico-425742079/?rss",
-   "description": "Ennesimo assalto nella notte ad opera di giovani calati dagli insediamenti illegali, auto e case date alle fiamme in quattro villaggi. Sui muri la scritta: “Vendetta”. L’opposizione israeliana insorge",
-   "pub_ts": 1795413432,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Mattarella sul fisco: \"Per pagare di meno bisogna contribuire tutti\"",
-   "link": "https://www.rainews.it/articoli/2026/11/mattarella-sul-fisco-per-pagare-di-meno-bisogna-contribuire-tutti-c88ffd90-aea8-4d02-b4e9-8081ff2b8ba0.html",
-   "description": "All'incontro con i primi magistrati tributari in tirocinio, il Capo dello Stato richiama la Costituzione: \"L'evasione ostacola la coesione sociale. Oggi la tecnologia permette di tracciare la ricchezza senza violare la privacy\"",
-   "pub_ts": 1795458360,
-   "source": "Rai News",
+   "title": "Mattarella: 'Per un fisco più leggero contribuiscano tutti, serve progressività'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-per-un-fisco-piu-leggero-contribuiscano-tutti-serve-progressivita_b77f620d-611d-4e8e-b64a-0b31f44c9803.html",
+   "description": "Il richiamo del presidente, 'pagare le tasse è un dovere inderogabile'",
+   "pub_ts": 1795468772,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -593,15 +537,6 @@
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/gisele-pelicot-denuncia-una-casa-editrice-ha-diffuso-mie-foto-intime_81aaf534-1963-41b5-bbdf-1f1a1efac54d.html",
    "description": "La donna, vittima degli 'stupri di Mazan' accusa: 'Nel libro si lascia intendere che ero complice'",
    "pub_ts": 1795446310,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Zelensky rivendica gli attacchi alle navi russe in Libia e lancia un appello alla Nato: 'Arriva l'inverno, aiutateci'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
-   "description": "'Impiegati 7 droni, la affondata, colpiti un elicottero e un'altra imbarcazione'. Tajani 'preoccupato'",
-   "pub_ts": 1795439640,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
@@ -616,6 +551,15 @@
    "section": "politica"
   },
   {
+   "title": "Manovra, stop a un emendamento su quattro. No alle vernici sui manifestanti",
+   "link": "https://www.rainews.it/articoli/2026/11/manovra-bocciati-gli-spray-colorati-ai-cortei-salta-emendamento-di-fdi-ae015406-715b-4417-a304-46ab6f246c4f.html",
+   "description": "1.700 proposte inammissibili, incluse norme su exit tax, superbonus e pensioni. La Lega insiste sul condono edilizio. Dure le opposizioni, la maggioranza ricorre a un nuovo vertice",
+   "pub_ts": 1795470437,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Le minacce di Teheran: «I nostri missili ora possono colpire l’Europa»",
    "link": "https://www.editorialedomani.it/politica/mondo/iran-minacce-europa-israele-netanyahu-trattative-eisenkot-sjzpyl30",
    "description": "L’Iran annuncia di possedere nuove testate dalla gittata superiore ai 5000 chilometri. Rubio riceve il ministro degli Esteri del Qatar che teme una nuova escalation nel Golfo. Nonostante il pressing di Netanyahu che chiede nuovi raid, i mercati credono in un allentamento delle tensioni",
@@ -625,38 +569,47 @@
    "section": "politica"
   },
   {
-   "title": "Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video",
-   "link": "https://www.open.online/2026/11/23/primo-ministro-canadese-mark-carney-invita-donald-trump-palco-ma-e-imitatore-video/",
-   "description": "Durante l'annuale cena di gala con i giornalisti Mark Carney ha partecipato a un siparietto comico insieme a due comici che interpretavano lui e il presidente statunitense L'articolo Il primo ministro canadese Mark Carney invita Donald Trump sul palco ma è un imitatore – Il video proviene da Open.",
-   "pub_ts": 1795453288,
-   "source": "Open",
+   "title": "Eisenkot contro le violenze dei coloni israeliani in Cisgiordania",
+   "link": "https://www.ilpost.it/2026/11/23/gadi-eisenkot-condanna-coloni-isreaeliani-cisgiordania-terrorismo-ebraico/",
+   "description": "L'ex generale incaricato di formare un governo le ha definite «terrorismo ebraico», in netta discontinuità con Netanyahu",
+   "pub_ts": 1795413432,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ex ministro brasiliano, tassare i miliardari per frenare la nuova oligarchia globale",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/ex-ministro-brasiliano-tassare-i-miliardari-per-frenare-la-nuova-oligarchia-globale_4ff6ca9a-a090-4705-a923-591710205f5c.html",
-   "description": "Fernando Haddad rilancia la proposta di un'imposta minima globale del 2%",
-   "pub_ts": 1795437990,
+   "title": "Russia, Rutte rompe il tabù: “Non è più guerra ibrida”. L’Europa: “Kiev nella Nato”",
+   "link": "https://www.repubblica.it/esteri/2026/11/24/news/russia_rutte_guerra_ibrida_europa_kiev_nato-425745000/?rss",
+   "description": "Per il segretario dell’Alleanza le provocazioni di Putin sono ormai “troppo gravi”. Il cancelliere sposa la linea di Macron e propone garanzie simili all’articolo 5",
+   "pub_ts": 1795478400,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "“Una violenza inaccettabile”, ora la leadership israeliana condanna i terroristi coloni",
+   "link": "https://www.repubblica.it/esteri/2026/11/24/news/coloni_violenze_israele_condanna_eisenkot-425744746/?rss",
+   "description": "L’aumento degli attacchi ai civili in Cisgiordania denunciato da Eisenkot e dal presidente Herzog. “Perseguiremo gli autori”",
+   "pub_ts": 1795478400,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "'A Gaza usate bombe come 13 atomiche, il 99% della terra è avvelenato'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/a-gaza-usate-bombe-come-13-atomiche-il-99-della-terra-e-avvelenato_34a2aeb0-24bb-41f5-8e1d-d22583e088d9.html",
+   "description": "Oxfam: 'Conseguenze sanitarie per decenni. Serve subito una bonifica ambientale'",
+   "pub_ts": 1795472101,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
-   "description": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
-   "pub_ts": 1795465387,
-   "source": "Repubblica Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva",
-   "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/?rss",
-   "description": "Lo rivela il New York Times citando fonti di intelligence",
-   "pub_ts": 1795446237,
-   "source": "Repubblica Esteri",
+   "title": "Jensen Huang torna alla guida di Nvidia, Trump esulta",
+   "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/11/23/il-cda-di-nvidia-richiama-jensen-huang-alla-guida-rally-di-wall-street_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
+   "description": "Il presidente sotto attacco si prende il merito, 'l'ho fatto per gli Usa'. Titoli a +30%",
+   "pub_ts": 1795498964,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "tech"
   },
@@ -670,6 +623,15 @@
    "section": "tech"
   },
   {
+   "title": "Nvidia richiama Huang su pressione di Trump: “È un patriota”. E le Borse festeggiano",
+   "link": "https://www.repubblica.it/economia/2026/11/24/news/nvidia_huang_pressioni_trump_intelligenza_artificiale_bolla_borse-425745302/",
+   "description": "Il cda ammette: “Ascoltati i pareri di alti funzionari di governo”. Il titolo recupera mille miliardi: +6,5% per il Nasdaq, ma resta l’ombra dei legami con i servizi segreti cinesi. La società dell’amante-spia finisce nella lista nera degli Usa",
+   "pub_ts": 1795478400,
+   "source": "la Repubblica",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
    "title": "Milano sperimenta gli agenti AI per collegare i servizi della città",
    "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/milano_sperimenta_agenti_ai_servizi-425744730/?rss",
    "description": "Fastweb + Vodafone e BIP avviano una collaborazione nell’ambito di Project NANDA, iniziativa nata al MIT Media Lab. Venticinque squadre hanno sviluppato prototipi per mobilità, accessibilità e ambiente. I progetti saranno messi a disposizione del Comune, che potrà valutarne...",
@@ -679,20 +641,20 @@
    "section": "tech"
   },
   {
-   "title": "Sinner vola in Finlandia per l'operazione al ginocchio",
-   "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
-   "description": "Sky: dopo un consulto con lo specialista Lampainen scelta la via dell'intervento",
-   "pub_ts": 1795449540,
+   "title": "Scontro Conte-Fdi in commissione Covid, 'stop and go' dei lavori",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/scontro-conte-fdi-in-commissione-covid-stop-and-go-dei-lavori_ced74e1b-8234-4514-86b9-7f526f0eb932.html",
+   "description": "Il leader M5s: 'Preso sempre decisioni politiche'. Lite con Bignami su Di Donna",
+   "pub_ts": 1795470777,
    "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-   "description": "Appello associazione 'ContiamoCi!' sottoscritto da medici, ricercatori e docenti",
-   "pub_ts": 1795455783,
-   "source": "ANSA Salute",
+   "title": "Sinner vola dal 'guru' finlandese per operazione al ginocchio",
+   "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
+   "description": "Il tennista in Finlandia con i suoi consulenti: con intervento stop di 4 mesi",
+   "pub_ts": 1795469578,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
@@ -722,6 +684,15 @@
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
+  },
+  {
+   "title": "Zelensky, 'in Libia azione esemplare'. Mosca studia la risposta",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/-zelensky-in-libia-azione-esemplare.-mosca-studia-la-risposta_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
+   "description": "Il leader ucraino rivendica. 'Russi pronti al lancio dell'arma nucleare nello spazio'",
+   "pub_ts": 1795496760,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "cronaca"
   }
  ]
 }
