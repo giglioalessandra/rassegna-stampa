@@ -1,6 +1,6 @@
 {
- "generated_at": 1795499398,
- "updated_at": 1795499398,
+ "generated_at": 1795541021,
+ "updated_at": 1795541021,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,82 +9,192 @@
  "items": [
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Tajani, 'preoccupa esplosione nave russa in Libia, evitare guerra in Mediterraneo'",
-   "summary": "'Presenza russa deve essere seguita con grande attenzione'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/tajani-preoccupa-esplosione-nave-russa-in-libia-evitare-guerra-in-mediterraneo_8c4b161e-2f37-4301-a33d-a355cb9a2362.html",
-   "pub_ts": 1795476225,
-   "n_sources": 5,
+   "area": "mondo",
+   "title": "Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue",
+   "summary": "Per l'Unione Europea potrebbero essere del 15% o inferiori",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/wsj-trump-pronto-a-nuovi-dazi-contro-la-cina-e-lue_5fc3b30a-039a-45a0-bd14-ee0d61111585.html",
+   "pub_ts": 1795534708,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/tajani-preoccupa-esplosione-nave-russa-in-libia-evitare-guerra-in-mediterraneo_8c4b161e-2f37-4301-a33d-a355cb9a2362.html",
-     "title": "Tajani, 'preoccupa esplosione nave russa in Libia, evitare guerra in Mediterraneo'"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/?rss",
-     "title": "Dalla Finlandia alla Libia, Kiev colpisce un’altra nave russa. Così l’Ucraina cambia la geografia della guerra"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/24/diretta/guerra_ucraina_russia_news_oggi-425745406/",
-     "title": "Guerra Ucraina-Russia, le news di oggi. Attacco su Kiev, ferito un cittadino statunitense"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/navi-ormeggiate-al-porto-di-bengasi-dopo-che-lucraina-ha-affondato-nave-da-guerra-russa-in-libia-22ddfb6d-340d-466b-9333-aadfbd6951c3.html",
-     "title": "Navi ormeggiate al porto di Bengasi dopo che l'Ucraina ha affondato nave da guerra russa in Libia"
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/wsj-trump-pronto-a-nuovi-dazi-contro-la-cina-e-lue_5fc3b30a-039a-45a0-bd14-ee0d61111585.html",
+     "title": "Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue"
     },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-droni-navali-oggi-guerra-marittima_u1NLLT7aBgHaK07zCkVo7",
-     "title": "Ucraina, i droni navali di Kiev: come sta cambiando la guerra marittima"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Mattarella: 'Per un fisco più leggero contribuiscano tutti, serve progressività'",
-   "summary": "Il richiamo del presidente, 'pagare le tasse è un dovere inderogabile'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-per-un-fisco-piu-leggero-contribuiscano-tutti-serve-progressivita_b77f620d-611d-4e8e-b64a-0b31f44c9803.html",
-   "pub_ts": 1795468772,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-per-un-fisco-piu-leggero-contribuiscano-tutti-serve-progressivita_b77f620d-611d-4e8e-b64a-0b31f44c9803.html",
-     "title": "Mattarella: 'Per un fisco più leggero contribuiscano tutti, serve progressività'"
+     "link": "https://www.adnkronos.com/internazionale/esteri/dazi-usa-stretta-cina-ue_4uhHwr9mSrI4R8imWcDkYX",
+     "title": "Dazi, Wall Street Journal: \"Usa pronti a nuovi aumenti per Cina, Ue e altri Paesi\""
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/mattarella-sul-fisco-per-pagare-di-meno-bisogna-contribuire-tutti-c88ffd90-aea8-4d02-b4e9-8081ff2b8ba0.html",
-     "title": "Mattarella sul fisco: \"Per pagare di meno bisogna contribuire tutti\""
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/trump-pronto-nuovi-dazi-contro-cina-e-ue-AJa0CJRC",
+     "title": "Trump pronto a nuovi dazi contro Cina, Ue e altri Paesi"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/23/evasione-fiscale-mattarella-coesione-sociale-notizie/8581483/",
-     "title": "Mattarella: “Chi evade il fisco ostacola la coesione sociale e l’unità nazionale. Per pagare meno bisogna contribuire tutti”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/24/dazi-trump-cina-ue-notizie/8582417/",
+     "title": "Wall Street Journal: “Trump pronto ad aumentare i dazi alla Cina e all’Unione Europea”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Gisèle Pelicot denuncia: 'Una casa editrice ha diffuso mie foto intime'",
-   "summary": "La donna, vittima degli 'stupri di Mazan' accusa: 'Nel libro si lascia intendere che ero complice'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/gisele-pelicot-denuncia-una-casa-editrice-ha-diffuso-mie-foto-intime_81aaf534-1963-41b5-bbdf-1f1a1efac54d.html",
-   "pub_ts": 1795446310,
+   "title": "Il Ft: 'Hegseth blocca la consegna di 60 missili per Patriot all'Ucraina'",
+   "summary": "Gli Usa li hanno promessi ma serve il via libera per esportazione anche da depositi europei. MI5 avverte le aziende della Gran Bretagna che riforniscono Kiev, 'rischio di attacchi russi'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-ft-hegseth-blocca-la-consegna-di-60-missili-per-patriot-allucraina_2d8d9336-6bc5-4470-a273-9eaa8cf9c91c.html",
+   "pub_ts": 1795523580,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-ft-hegseth-blocca-la-consegna-di-60-missili-per-patriot-allucraina_2d8d9336-6bc5-4470-a273-9eaa8cf9c91c.html",
+     "title": "Il Ft: 'Hegseth blocca la consegna di 60 missili per Patriot all'Ucraina'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/ft-hegseth-blocca-la-consegna-di-60-missili-per-patriot-allucraina_e0106438-8dcc-498d-8960-a1ccc189ff5c.html",
+     "title": "Ft, Hegseth blocca la consegna di 60 missili per Patriot all'Ucraina"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-ultime-news-oggi-24-novembre_3rKA1bn4MDyU07bBXVV2zN",
+     "title": "Ucraina, Ft: da Hegseth stop a consegna 60 missili Patriot. Zelensky conferma attacco a nave russa in golfo Finlandia"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027",
+   "summary": "Il commissario europeo all’Economia, Valdis Dombrovskis: «Attualmente si prevede che l'Italia corregga il suo deficit eccessivo nel 2026. È una buona notizia» L'articolo Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027 proviene da Open.",
+   "link": "https://www.open.online/2026/11/24/manovra-commissione-europea-uscita-procedura-deficit-eccessivo-primavera-2027/",
+   "pub_ts": 1795538718,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/24/manovra-commissione-europea-uscita-procedura-deficit-eccessivo-primavera-2027/",
+     "title": "Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/economia/manovra-italia-via-libera-ue-ma-bruxelles-avverte-sui-margini-zero_6HUXHaVvGjRDYTxjFVayJJ",
+     "title": "Manovra Italia: via libera Ue, ma Bruxelles avverte sui margini zero"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/commissione-ue-pronta-chiudere-procedura-deficit-eccessivo-sull-italia-ma-attenti-manovra-AJfUfDRC",
+     "title": "Commissione Ue pronta a chiudere procedura per deficit eccessivo sull’Italia: «Ma attenti alla manovra»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Media: 'Eisenkot pronto a sottoporre al voto il nuovo governo la prossima settimana'",
+   "summary": "La Corte di Israele: 'Lo Stato intervenga contro i coloni estremisti'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/corte-israele-lo-stato-intervenga-contro-i-coloni-estremisti_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
+   "pub_ts": 1795534717,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/gisele-pelicot-denuncia-una-casa-editrice-ha-diffuso-mie-foto-intime_81aaf534-1963-41b5-bbdf-1f1a1efac54d.html",
-     "title": "Gisèle Pelicot denuncia: 'Una casa editrice ha diffuso mie foto intime'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/corte-israele-lo-stato-intervenga-contro-i-coloni-estremisti_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
+     "title": "Media: 'Eisenkot pronto a sottoporre al voto il nuovo governo la prossima settimana'"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/24/media-eisenkot-pronto-a-sottoporre-al-voto-il-nuovo-governo-prossima-settimana_4ac471fd-30ea-4b8f-81e6-cf2990e82471.html",
+     "title": "Media, 'Eisenkot pronto a sottoporre al voto il nuovo governo prossima settimana'"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Dombrovskis: 'Italia conforme alle raccomandazioni Ue, correzione nel 2026'",
+   "summary": "'Nel 2027 competitività, stabilità, innovazione pilastri azione Ue' 'Raccomandiamo un orientamento di bilancio leggermente restrittivo'. La Germania sopra il 3% ma Bruxelles non apre la procedura",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/dombrovskis-italia-conforme-alle-raccomandazioni-ue-bene-correzione-deficit_2e3d1b80-5c76-4474-af33-e274f621afa9.html",
+   "pub_ts": 1795533456,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/dombrovskis-italia-conforme-alle-raccomandazioni-ue-bene-correzione-deficit_2e3d1b80-5c76-4474-af33-e274f621afa9.html",
+     "title": "Dombrovskis: 'Italia conforme alle raccomandazioni Ue, correzione nel 2026'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/economia/conti-pubblici-italia-manovra-2027_1lvjqWHb43UFna9ZHRoI1t",
+     "title": "Conti pubblici, Dombrovskis: \"Italia in linea con le raccomandazioni Ue\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Dl scuola: Ciriani pone la fiducia al decreto scuola all'esame della Camera",
+   "summary": "Intesa nella maggioranza sugli ebook, ci sarà un odg",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/dl-scuola-ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_64f5b9f9-17ef-43ba-bae4-14b382401885.html",
+   "pub_ts": 1795526640,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/dl-scuola-ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_64f5b9f9-17ef-43ba-bae4-14b382401885.html",
+     "title": "Dl scuola: Ciriani pone la fiducia al decreto scuola all'esame della Camera"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/dl-scuola-il-governo-pone-la-fiducia-alla-camera-testo-blindato-e-book-scontati-salvi--b6e4040e-7ee5-4e89-a64e-450aa75175a2.html",
+     "title": "Dl Scuola, il governo pone la fiducia alla Camera: testo blindato, e-book scontati salvi"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Nuovo bilancio della guerra in Ucraina: “Settecentomila morti e mille suicidi tra i soldati russi”",
+   "summary": "I dati emergono dai file riservati dell'agenzia statale di statistica russa, Rosstat, ottenuti dal gruppo hacker bielorusso legato all'opposizione “Cyber Partisans” e dal collettivo hacker ucraino “Silent Crow”",
+   "link": "https://www.repubblica.it/esteri/2026/11/24/news/quanti_soldati_russi_morti_guerra_ucraina_suicidi-425745898/?rss",
+   "pub_ts": 1795518640,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/24/news/quanti_soldati_russi_morti_guerra_ucraina_suicidi-425745898/?rss",
+     "title": "Nuovo bilancio della guerra in Ucraina: “Settecentomila morti e mille suicidi tra i soldati russi”"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/24/news/quanti_soldati_russi_morti_guerra_ucraina_suicidi-425745898/",
+     "title": "Nuovo bilancio della guerra in Ucraina: “Settecentomila morti e mille suicidi tra i soldati russi”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Foto intime diffuse alla stampa, Gisèle Pelicot denuncia la casa editrice: “Scioccata”",
+   "summary": "La donna diventata simbolo mondiale della lotta contro le violenze sessuali, ha scoperto la diffusione di immagini che la ritraggono nuda al fine di promuovere un libro",
+   "link": "https://www.repubblica.it/esteri/2026/11/24/news/gisele_pelicot_foto_nuda_denuncia_casa_editrice_francia-425745581/?rss",
+   "pub_ts": 1795505626,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/24/news/gisele_pelicot_foto_nuda_denuncia_casa_editrice_francia-425745581/?rss",
+     "title": "Foto intime diffuse alla stampa, Gisèle Pelicot denuncia la casa editrice: “Scioccata”"
     },
     {
      "name": "Il Post",
@@ -96,157 +206,57 @@
   {
    "category": "politica",
    "area": "italia",
-   "title": "Anche bambini e bambine nella delegazione dell'Unicef da Mattarella",
-   "summary": "Delle scuole elementari e medie della Toscana e della Campania",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/23/anche-bambini-e-bambine-nella-delegazione-dellunicef-da-mattarella_b1e841c3-d0f9-4820-a575-2fa27c906335.html",
-   "pub_ts": 1795435180,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/23/anche-bambini-e-bambine-nella-delegazione-dellunicef-da-mattarella_b1e841c3-d0f9-4820-a575-2fa27c906335.html",
-     "title": "Anche bambini e bambine nella delegazione dell'Unicef da Mattarella"
-    },
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-i-bambini-nel-mondo-soffrono-situazione-sconfortante.-serve-piu-impegno_adf5489d-4564-4a25-86af-6310f95b7bd7.html",
-     "title": "Mattarella: 'I bambini nel mondo soffrono, situazione sconfortante. Serve più impegno'"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Manovra, stop a un emendamento su quattro. No alle vernici sui manifestanti",
-   "summary": "1.700 proposte inammissibili, incluse norme su exit tax, superbonus e pensioni. La Lega insiste sul condono edilizio. Dure le opposizioni, la maggioranza ricorre a un nuovo vertice",
-   "link": "https://www.rainews.it/articoli/2026/11/manovra-bocciati-gli-spray-colorati-ai-cortei-salta-emendamento-di-fdi-ae015406-715b-4417-a304-46ab6f246c4f.html",
-   "pub_ts": 1795470437,
+   "title": "Finita l'euforia tech, si temono nuovi dazi: l'Europa chiude in rosso",
+   "summary": "Milano la peggiore a -1,84%. Francoforte -1,26%, contengono le perdite Londra -0,13% e Parigi -0,05%",
+   "link": "https://www.rainews.it/articoli/2026/11/finita-leuforia-tech-si-temono-nuovi-dazi-leuropa-chiude-in-rosso-d11459bc-2c02-42ea-92ca-528dfecba02e.html",
+   "pub_ts": 1795539540,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/manovra-bocciati-gli-spray-colorati-ai-cortei-salta-emendamento-di-fdi-ae015406-715b-4417-a304-46ab6f246c4f.html",
-     "title": "Manovra, stop a un emendamento su quattro. No alle vernici sui manifestanti"
+     "link": "https://www.rainews.it/articoli/2026/11/finita-leuforia-tech-si-temono-nuovi-dazi-leuropa-chiude-in-rosso-d11459bc-2c02-42ea-92ca-528dfecba02e.html",
+     "title": "Finita l'euforia tech, si temono nuovi dazi: l'Europa chiude in rosso"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/23/manovra-emendamenti-inammissibili-marcatori-manifestanti-notizie/8581690/",
-     "title": "Manovra, falciato un emendamento su 4: saltano la “marcatura colorata” per i manifestanti e lo stop alle demolizioni abusive"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Le minacce di Teheran: «I nostri missili ora possono colpire l’Europa»",
-   "summary": "L’Iran annuncia di possedere nuove testate dalla gittata superiore ai 5000 chilometri. Rubio riceve il ministro degli Esteri del Qatar che teme una nuova escalation nel Golfo. Nonostante il pressing di Netanyahu che chiede nuovi raid, i mercati credono in un allentamento delle tensioni",
-   "link": "https://www.editorialedomani.it/politica/mondo/iran-minacce-europa-israele-netanyahu-trattative-eisenkot-sjzpyl30",
-   "pub_ts": 1795465193,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/iran-minacce-europa-israele-netanyahu-trattative-eisenkot-sjzpyl30",
-     "title": "Le minacce di Teheran: «I nostri missili ora possono colpire l’Europa»"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/iran-teheran-missili-lunga-gittata_67Z5udT84sqgYYkFU9DZLd",
-     "title": "Iran, dissidente Karimi: \"Missili da 4.500 km minaccia reale, per Teheran anche l'Europa è ostile\""
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/24/diretta/le_borse_di_oggi_24_novembre_mercati_in_rialzo_con_ritorno_huang-425745545/",
+     "title": "Le Borse di oggi, 24 novembre. Trump pronto a nuovi dazi, Milano e l’Europa in rosso"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Eisenkot contro le violenze dei coloni israeliani in Cisgiordania",
-   "summary": "L'ex generale incaricato di formare un governo le ha definite «terrorismo ebraico», in netta discontinuità con Netanyahu",
-   "link": "https://www.ilpost.it/2026/11/23/gadi-eisenkot-condanna-coloni-isreaeliani-cisgiordania-terrorismo-ebraico/",
-   "pub_ts": 1795413432,
+   "title": "Domenica il voto anticipato in Spagna: avanti Popolari con Vox, Sanchez sogna una difficile rimonta",
+   "summary": "Dopo le proteste per la crisi abitativa e la bocciatura dei decreti per la casa proposti dal premier socialista, il Paese torna alle urne. Secondo gli ultimi sondaggi, l'asse Feijóo-Abascal consentirebbe alle destre di andare al governo",
+   "link": "https://www.rainews.it/articoli/2026/11/domenica-il-voto-anticipato-in-spagna-avanti-popolari-con-vox-sanchez-sogna-una-difficile-rimonta-db411959-fd02-4782-b497-044d1ade7a4c.html",
+   "pub_ts": 1795537320,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/23/gadi-eisenkot-condanna-coloni-isreaeliani-cisgiordania-terrorismo-ebraico/",
-     "title": "Eisenkot contro le violenze dei coloni israeliani in Cisgiordania"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/domenica-il-voto-anticipato-in-spagna-avanti-popolari-con-vox-sanchez-sogna-una-difficile-rimonta-db411959-fd02-4782-b497-044d1ade7a4c.html",
+     "title": "Domenica il voto anticipato in Spagna: avanti Popolari con Vox, Sanchez sogna una difficile rimonta"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/cisgiordania-i-coloni-ferro-fuoco-villaggi-palestinesi-ramallah-eisenkot-bengivr-nw1264fo",
-     "title": "Cisgiordania, i coloni danno fuoco a case e auto vicino Ramallah. Eisenkot: «È terrorismo ebraico»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Russia, Rutte rompe il tabù: “Non è più guerra ibrida”. L’Europa: “Kiev nella Nato”",
-   "summary": "Per il segretario dell’Alleanza le provocazioni di Putin sono ormai “troppo gravi”. Il cancelliere sposa la linea di Macron e propone garanzie simili all’articolo 5",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/russia_rutte_guerra_ibrida_europa_kiev_nato-425745000/?rss",
-   "pub_ts": 1795478400,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/24/news/russia_rutte_guerra_ibrida_europa_kiev_nato-425745000/?rss",
-     "title": "Russia, Rutte rompe il tabù: “Non è più guerra ibrida”. L’Europa: “Kiev nella Nato”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "“Una violenza inaccettabile”, ora la leadership israeliana condanna i terroristi coloni",
-   "summary": "L’aumento degli attacchi ai civili in Cisgiordania denunciato da Eisenkot e dal presidente Herzog. “Perseguiremo gli autori”",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/coloni_violenze_israele_condanna_eisenkot-425744746/?rss",
-   "pub_ts": 1795478400,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/24/news/coloni_violenze_israele_condanna_eisenkot-425744746/?rss",
-     "title": "“Una violenza inaccettabile”, ora la leadership israeliana condanna i terroristi coloni"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "'A Gaza usate bombe come 13 atomiche, il 99% della terra è avvelenato'",
-   "summary": "Oxfam: 'Conseguenze sanitarie per decenni. Serve subito una bonifica ambientale'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/a-gaza-usate-bombe-come-13-atomiche-il-99-della-terra-e-avvelenato_34a2aeb0-24bb-41f5-8e1d-d22583e088d9.html",
-   "pub_ts": 1795472101,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/a-gaza-usate-bombe-come-13-atomiche-il-99-della-terra-e-avvelenato_34a2aeb0-24bb-41f5-8e1d-d22583e088d9.html",
-     "title": "'A Gaza usate bombe come 13 atomiche, il 99% della terra è avvelenato'"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/spagna-domenica-il-voto-anticipato-la-guida-dalle-urne-ai-possibili-governi_3Zhn5fngBlkiZd5r7t1v99",
+     "title": "Spagna, domenica il voto anticipato: la guida dalle urne ai possibili governi"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Jensen Huang torna alla guida di Nvidia, Trump esulta",
-   "summary": "Il presidente sotto attacco si prende il merito, 'l'ho fatto per gli Usa'. Titoli a +30%",
-   "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/11/23/il-cda-di-nvidia-richiama-jensen-huang-alla-guida-rally-di-wall-street_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
-   "pub_ts": 1795498964,
-   "n_sources": 10,
+   "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
+   "summary": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
+   "pub_ts": 1795519860,
+   "n_sources": 6,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/11/23/il-cda-di-nvidia-richiama-jensen-huang-alla-guida-rally-di-wall-street_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
-     "title": "Jensen Huang torna alla guida di Nvidia, Trump esulta"
-    },
     {
      "name": "Repubblica Tecnologia",
      "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
@@ -258,14 +268,14 @@
      "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/24/huang-ritorno-nvidia-reazioni-borsa/",
-     "title": "I mercati hanno accolto con entusiasmo il ritorno di Huang a Nvidia"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/jensen-huang-nvidia-ultime-news-oggi_dceJrpV3WESfeO7Xj7tgL",
+     "title": "Nvidia, sfida bipartisan di Capitol Hill a Trump: \"Continueremo inchieste su Huang\""
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/24/news/nvidiahuang_ritorno_la_ragnatela_di_jensen_huang_tra_tech_e_politica_quando_i_fondatori_sono_insostituibili-425745380/",
-     "title": "Nvidia, la ragnatela di Jensen Huang tra tech e politica. Quando i fondatori sono insostituibili"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/24/ruolo-trump-ritorno-huang-capo-ceo-nvidia/",
+     "title": "Donald Trump e il ritorno di Jensen Huang a capo di Nvidia"
     },
     {
      "name": "Domani",
@@ -273,24 +283,58 @@
      "title": "Non c’è spia che tenga. Trump salva Huang, che torna a capo di Nvidia"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/jensen-huang-torna-al-comando-di-nvidia-la-decisione-inattesa-del-cda-f004b075-ab5f-4a0b-9d26-8def95e712a4.html",
-     "title": "Jensen Huang torna al comando di Nvidia: la decisione inattesa del cda"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/leader-settore-tech-festeggiano-ritorno-jensen-huang/",
-     "title": "I leader del settore tech festeggiano il ritorno di Jensen Huang"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/huang-nvidia-trump-azioni-wall-street_2veUbpxB2q24vRVAhtF14n",
-     "title": "Nvidia, Huang torna Ceo. Trump 'regista' dell'operazione. Anche il presidente fa festa in Borsa?"
-    },
-    {
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/jensen-huang-torna-ceo-nvidia-trump-musk-titolo-wall-street/",
      "title": "Nvidia, colpo di scena: Huang torna al comando. E ora che succede?"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Il Museo Egizio inaugura un nuovo linguaggio: nella sala immersiva dati e IA danno voce ai reperti",
+   "summary": "Si chiama “ECO. Paesaggi in trasformazione” il primo progetto della sala inaugurata a Torino: trenta metri di ledwall e dati astronomici, paleoclimatici e satellitari tradotti in immagini con diverse IA, tra cui Claude. Ma le parole restano dei curatori",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/il_museo_egizio_inaugura_un_nuovo_linguaggio_nella_sala_immersiva_dati_e_ia_danno_voce_ai_reperti-425745929/?rss",
+   "pub_ts": 1795513327,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/il_museo_egizio_inaugura_un_nuovo_linguaggio_nella_sala_immersiva_dati_e_ia_danno_voce_ai_reperti-425745929/?rss",
+     "title": "Il Museo Egizio inaugura un nuovo linguaggio: nella sala immersiva dati e IA danno voce ai reperti"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/23/nuova-sala-immersiva-al-museo-egizio-i-reperti-connessi-al-territorio_0a057a40-e91d-44f7-982c-cec62e992466.html",
+     "title": "Nuova sala immersiva al Museo Egizio, i reperti connessi al territorio"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/museo-egizio-torino-ledwall-30-metri_7I9sOz5nGHwIIIpYbd4aRJ",
+     "title": "Al Museo Egizio di Torino la nuova frontiera del racconto: apre la sala immersiva"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "Jense Huang torna alla guida di Nvidia",
+   "summary": "Usa inseriscono Megaspeed nella lista nera commerciale",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
+   "pub_ts": 1795518780,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
+     "title": "Jense Huang torna alla guida di Nvidia"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/jensen-huang-torna-in-nvidia-accolto-da-applausi-e-promette-di-essere-un-ceo-migliore-5e084799-b400-4127-9df3-f78cc2d15225.html",
+     "title": "Jensen Huang torna in Nvidia accolto da applausi e promette di essere \"un CEO migliore\""
     }
    ]
   },
@@ -317,73 +361,24 @@
    ]
   },
   {
-   "category": "tech",
+   "category": "varia",
    "area": null,
-   "title": "Nvidia richiama Huang su pressione di Trump: “È un patriota”. E le Borse festeggiano",
-   "summary": "Il cda ammette: “Ascoltati i pareri di alti funzionari di governo”. Il titolo recupera mille miliardi: +6,5% per il Nasdaq, ma resta l’ombra dei legami con i servizi segreti cinesi. La società dell’amante-spia finisce nella lista nera degli Usa",
-   "link": "https://www.repubblica.it/economia/2026/11/24/news/nvidia_huang_pressioni_trump_intelligenza_artificiale_bolla_borse-425745302/",
-   "pub_ts": 1795478400,
+   "title": ">>>ANSA/Sanofi compra Insmed per 41 miliardi di dollari",
+   "summary": "Acquisizione per espandersi nel settore dell'immunologia. Titolo brilla in Borsa",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/ansasanofi-compra-insmed-per-41-miliardi-di-dollari_9895bf97-0657-453f-b4ca-6f61a5a3e64f.html",
+   "pub_ts": 1795540648,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/24/news/nvidia_huang_pressioni_trump_intelligenza_artificiale_bolla_borse-425745302/",
-     "title": "Nvidia richiama Huang su pressione di Trump: “È un patriota”. E le Borse festeggiano"
-    },
-    {
-     "name": "Punto Informatico",
-     "link": "https://www.punto-informatico.it/donald-trump-borsa-festeggiano-ritorno-huang/",
-     "title": "Donald Trump e la Borsa festeggiano il ritorno di Huang"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Milano sperimenta gli agenti AI per collegare i servizi della città",
-   "summary": "Fastweb + Vodafone e BIP avviano una collaborazione nell’ambito di Project NANDA, iniziativa nata al MIT Media Lab. Venticinque squadre hanno sviluppato prototipi per mobilità, accessibilità e ambiente. I progetti saranno messi a disposizione del Comune, che potrà valutarne...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/milano_sperimenta_agenti_ai_servizi-425744730/?rss",
-   "pub_ts": 1795458842,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/milano_sperimenta_agenti_ai_servizi-425744730/?rss",
-     "title": "Milano sperimenta gli agenti AI per collegare i servizi della città"
-    }
-   ]
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Scontro Conte-Fdi in commissione Covid, 'stop and go' dei lavori",
-   "summary": "Il leader M5s: 'Preso sempre decisioni politiche'. Lite con Bignami su Di Donna",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/scontro-conte-fdi-in-commissione-covid-stop-and-go-dei-lavori_ced74e1b-8234-4514-86b9-7f526f0eb932.html",
-   "pub_ts": 1795470777,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/scontro-conte-fdi-in-commissione-covid-stop-and-go-dei-lavori_ced74e1b-8234-4514-86b9-7f526f0eb932.html",
-     "title": "Scontro Conte-Fdi in commissione Covid, 'stop and go' dei lavori"
-    },
-    {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/21/si-tuteli-autonomia-commissione-covid-in-400-lo-chiedono-a-massime-cariche-stato_351c1e7a-ff93-4277-ba73-e55f08c053a4.html",
-     "title": "'Si tuteli autonomia Commissione Covid', in 400 lo chiedono a massime cariche Stato"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/ansasanofi-compra-insmed-per-41-miliardi-di-dollari_9895bf97-0657-453f-b4ca-6f61a5a3e64f.html",
+     "title": ">>>ANSA/Sanofi compra Insmed per 41 miliardi di dollari"
     },
     {
-     "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/2026/11/23/news/commissione_covid_donzelli_chiede_le_prove_e_bassetti_replica_confronto_sia_su_dati_scientifici-425743874/?rss",
-     "title": "Commissione Covid, Donzelli chiede le prove e Bassetti replica “Confronto sia su dati scientifici\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/23/conte-bignami-commissione-covid-fuori-regioni-lombardia-e-veneto-centrodestra-video/8581491/",
-     "title": "Conte a Bignami in commissione Covid: “Avete lasciato fuori le Regioni perché Lombardia e Veneto erano di centrodestra?”"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/24/gruppo-farmaceutico-sanofi-acquisizione-insmed/",
+     "title": "Il gruppo farmaceutico francese Sanofi acquisirà la società statunitense Insmed per oltre 37 miliardi di euro"
     }
    ],
    "subtype": "scienza"
@@ -391,225 +386,248 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Sinner vola dal 'guru' finlandese per operazione al ginocchio",
-   "summary": "Il tennista in Finlandia con i suoi consulenti: con intervento stop di 4 mesi",
-   "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
-   "pub_ts": 1795469578,
+   "title": "Fagnani, 'Grillo a Belve? Condizioni inaccettabili, troppi paletti per l'intervista'",
+   "summary": "A Un Giorno da Pecora a Rai Radio1: \"Mi avevano proposto Chi l'ha visto, avevo detto sì\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/fagnani-grillo-a-belve-condizioni-inaccettabili-troppi-paletti-per-lintervista_5f01fd45-34c1-4c98-929b-5e55c691e6a5.html",
+   "pub_ts": 1795540226,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
-     "title": "Sinner vola dal 'guru' finlandese per operazione al ginocchio"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/fagnani-grillo-a-belve-condizioni-inaccettabili-troppi-paletti-per-lintervista_5f01fd45-34c1-4c98-929b-5e55c691e6a5.html",
+     "title": "Fagnani, 'Grillo a Belve? Condizioni inaccettabili, troppi paletti per l'intervista'"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/24/fagnani-belve-beppe-grillo-rimbalzato/",
+     "title": "Beppe Grillo rimbalzato a Belve, Fagnani e la trattativa fallita: «Troppi paletti, condizioni inaccettabili». Il no a Vannacci"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Per Chi', doc italiano contro la violenza sulle donne ammesso agli Oscar",
+   "summary": "Il 25 novembre verrà proiettato a Salerno per la Giornata internazionale dell'Onu",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/per-chi-doc-italiano-contro-la-violenza-sulle-donne-ammesso-agli_ccffc1b1-dcd3-472f-87a9-e8f7cc57154b.html",
+   "pub_ts": 1795537920,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/per-chi-doc-italiano-contro-la-violenza-sulle-donne-ammesso-agli_ccffc1b1-dcd3-472f-87a9-e8f7cc57154b.html",
+     "title": "Per Chi', doc italiano contro la violenza sulle donne ammesso agli Oscar"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/giornata-internazionale-per-eliminazione-violenza-donne-rai--4f6e1015-8d07-49d7-a355-9192f4aef2f8.html",
+     "title": "Contro la violenza sulle donne, non solo un giorno: dati, iniziative, voci, cortei"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Atp Finals, 480 ace a segno per la ricerca sul cancro per l'Irccs di Candiolo",
+   "summary": "Prosegue raccolta fondi promossa da Intesa Sanpaolo per Fondazione Allegra Agnelli",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/24/atp-finals-480-ace-a-segno-per-la-ricerca-sul-cancro-per_9414185a-d6c8-4853-8b17-e69592cb5165.html",
+   "pub_ts": 1795536018,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/24/atp-finals-480-ace-a-segno-per-la-ricerca-sul-cancro-per_9414185a-d6c8-4853-8b17-e69592cb5165.html",
+     "title": "Atp Finals, 480 ace a segno per la ricerca sul cancro per l'Irccs di Candiolo"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/atp-finals-480-ace-a-segno-per-la-ricerca-sul-cancro-per_2133bc47-3ac8-4620-8004-53e1638dfb75.html",
+     "title": "Atp Finals, 480 ace a segno per la ricerca sul cancro per l'Irccs di Candiolo"
+    }
+   ],
+   "subtype": "scienza"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Che cosa è la sindrome della bandelletta ileotibiale che ha colpito Sinner",
+   "summary": "Detta anche 'ginocchio del corridore', è un sovraccarico della fascia lungo il lato esterno della coscia",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/che-cosa-e-la-sindrome-della-bandelletta-ileotibiale-che-ha-colpito-sinner_3b7bc93c-09ea-4ded-a5d7-ab22f8584d8a.html",
+   "pub_ts": 1795535947,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/che-cosa-e-la-sindrome-della-bandelletta-ileotibiale-che-ha-colpito-sinner_3b7bc93c-09ea-4ded-a5d7-ab22f8584d8a.html",
+     "title": "Che cosa è la sindrome della bandelletta ileotibiale che ha colpito Sinner"
     },
     {
      "name": "Repubblica Salute",
      "link": "https://www.repubblica.it/salute/2026/11/23/news/operazione_di_sinner_al_ginocchio_tendine-425744077/?rss",
-     "title": "L’operazione di Sinner al ginocchio, ecco come si interverrà sul tendine del campione"
+     "title": "Cos’è la sindrome della bandelletta ileotibiale. E perché è chiamata la malattia dei runner"
     }
    ],
    "subtype": "scienza"
   },
   {
-   "category": "varia",
-   "area": null,
-   "title": "Nuova sala immersiva al Museo Egizio, i reperti connessi al territorio",
-   "summary": "\"Eco. Paesaggi in trasformazione\" è il primo progetto curatoriale",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/23/nuova-sala-immersiva-al-museo-egizio-i-reperti-connessi-al-territorio_0a057a40-e91d-44f7-982c-cec62e992466.html",
-   "pub_ts": 1795446082,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/23/nuova-sala-immersiva-al-museo-egizio-i-reperti-connessi-al-territorio_0a057a40-e91d-44f7-982c-cec62e992466.html",
-     "title": "Nuova sala immersiva al Museo Egizio, i reperti connessi al territorio"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/museo-egizio-torino-ledwall-30-metri_7I9sOz5nGHwIIIpYbd4aRJ",
-     "title": "Al Museo Egizio di Torino la nuova frontiera del racconto: apre la sala immersiva"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Cate Blanchett 'accende' gli Champs-Elysées per le feste di Natale",
-   "summary": "FIno al 3 gennaio spettacolo di luci e suoni sul viale simbolo di Parigi",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/cate-blanchett-accende-gli-champs-elysees-per-le-feste-di-natale_cbc1afc0-bcf4-4e18-89df-66ef134ed942.html",
-   "pub_ts": 1795430252,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/cate-blanchett-accende-gli-champs-elysees-per-le-feste-di-natale_cbc1afc0-bcf4-4e18-89df-66ef134ed942.html",
-     "title": "Cate Blanchett 'accende' gli Champs-Elysées per le feste di Natale"
-    },
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/22/cate-blanchett-inaugura-le-luminarie-natalizie-sugli-champs-elysees_1f71993a-9f20-496b-b8e7-a5ea697394f4.html",
-     "title": "Cate Blanchett inaugura le luminarie natalizie sugli Champs-Elysées"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Biennale Arte, l'edizione 2026 si chiude con 714mila visitatori",
-   "summary": "Le 100 partecipazioni nazionali sono il numero più alto di sempre",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/22/biennale-arte-ledizione-2026-si-chiude-con-714mila-visitatori_8d0b7818-5baa-49c6-8131-ab47ee7c6410.html",
-   "pub_ts": 1795428480,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/22/biennale-arte-ledizione-2026-si-chiude-con-714mila-visitatori_8d0b7818-5baa-49c6-8131-ab47ee7c6410.html",
-     "title": "Biennale Arte, l'edizione 2026 si chiude con 714mila visitatori"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/biennale-arte-venezia-2026-bilancio-presenze-ultime-notizie_7HI5nWbPynHmj0v4naXDZ",
-     "title": "Biennale Arte, 714mila visitatori per l'edizione delle polemiche"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
    "category": "cronaca",
    "area": null,
-   "title": "Zelensky, 'in Libia azione esemplare'. Mosca studia la risposta",
-   "summary": "Il leader ucraino rivendica. 'Russi pronti al lancio dell'arma nucleare nello spazio'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/-zelensky-in-libia-azione-esemplare.-mosca-studia-la-risposta_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
-   "pub_ts": 1795496760,
-   "n_sources": 4,
+   "title": "Cosa significano gli attacchi ucraini alle navi russe in Libia",
+   "summary": "Dimostrano la capacità di colpire gli interessi russi anche a grande distanza dal fronte, e che la guerra si è estesa fino a lì",
+   "link": "https://www.ilpost.it/2026/11/24/conseguenze-attacchi-navi-russe-libia/",
+   "pub_ts": 1795539175,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/-zelensky-in-libia-azione-esemplare.-mosca-studia-la-risposta_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
-     "title": "Zelensky, 'in Libia azione esemplare'. Mosca studia la risposta"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/24/conseguenze-attacchi-navi-russe-libia/",
+     "title": "Cosa significano gli attacchi ucraini alle navi russe in Libia"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/zelensky-rivendica-gli-attacchi-a-navi-russe-in-libia-operazione-esemplare_36514ab3-39c4-41a2-ae12-46b412476993.html",
-     "title": "Zelensky rivendica gli attacchi a navi russe in Libia, 'operazione esemplare'"
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-africa-oggi_2dOOz3wC9f48AvKycLGMLp",
+     "title": "Ucraina colpisce le navi russe in Libia, la guerra tra Kiev e Putin si sposta in Africa"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/il-palazzo-sventrato-dopo-lattacco-di-un-missile-russo-su-zaporizhzhia-video-c01f97f6-fda5-4503-83e5-4d75aecee618.html",
-     "title": "Il palazzo sventrato dopo l'attacco di un missile russo su Zaporizhzhia"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/24/diretta/guerra_ucraina_russia_news_oggi-425745406/",
+     "title": "Guerra Ucraina-Russia, news. Putin: “Kiev non ascolta Trump e attacca raffinerie russe”"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/navi-russe-libia-attacco-ucraina-kiev-nato-kushner-hagen9b2",
-     "title": "I droni ucraini in Libia allarmano l’Onu, Zelensky esulta: «Operazione esemplare»"
+     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-15-morti-nei-raid-russi-sulla-regione-di-kiev-nave-russa-colpita-in-libia-qpm9xb0j",
+     "title": "Zelensky rivendica gli attacchi alle navi russe in Libia: «Un’operazione esemplare»"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/24/campo-largo-armi-ucraina-libia-notizie/8582474/",
+     "title": "Attacco alle navi russe in Libia, Conte e Avs: “Pericoloso, serve una svolta sulle armi a Kiev”. Provenzano: “Pd contro escalation. Ma lì c’è la flotta fantasma”"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Tajani, 'preoccupa esplosione nave russa in Libia, evitare guerra in Mediterraneo'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/tajani-preoccupa-esplosione-nave-russa-in-libia-evitare-guerra-in-mediterraneo_8c4b161e-2f37-4301-a33d-a355cb9a2362.html",
-   "description": "'Presenza russa deve essere seguita con grande attenzione'",
-   "pub_ts": 1795476225,
+   "title": "Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/wsj-trump-pronto-a-nuovi-dazi-contro-la-cina-e-lue_5fc3b30a-039a-45a0-bd14-ee0d61111585.html",
+   "description": "Per l'Unione Europea potrebbero essere del 15% o inferiori",
+   "pub_ts": 1795534708,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Mattarella: 'Per un fisco più leggero contribuiscano tutti, serve progressività'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/mattarella-per-un-fisco-piu-leggero-contribuiscano-tutti-serve-progressivita_b77f620d-611d-4e8e-b64a-0b31f44c9803.html",
-   "description": "Il richiamo del presidente, 'pagare le tasse è un dovere inderogabile'",
-   "pub_ts": 1795468772,
+   "title": "Il Ft: 'Hegseth blocca la consegna di 60 missili per Patriot all'Ucraina'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-ft-hegseth-blocca-la-consegna-di-60-missili-per-patriot-allucraina_2d8d9336-6bc5-4470-a273-9eaa8cf9c91c.html",
+   "description": "Gli Usa li hanno promessi ma serve il via libera per esportazione anche da depositi europei. MI5 avverte le aziende della Gran Bretagna che riforniscono Kiev, 'rischio di attacchi russi'",
+   "pub_ts": 1795523580,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Gisèle Pelicot denuncia: 'Una casa editrice ha diffuso mie foto intime'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/gisele-pelicot-denuncia-una-casa-editrice-ha-diffuso-mie-foto-intime_81aaf534-1963-41b5-bbdf-1f1a1efac54d.html",
-   "description": "La donna, vittima degli 'stupri di Mazan' accusa: 'Nel libro si lascia intendere che ero complice'",
-   "pub_ts": 1795446310,
+   "title": "Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027",
+   "link": "https://www.open.online/2026/11/24/manovra-commissione-europea-uscita-procedura-deficit-eccessivo-primavera-2027/",
+   "description": "Il commissario europeo all’Economia, Valdis Dombrovskis: «Attualmente si prevede che l'Italia corregga il suo deficit eccessivo nel 2026. È una buona notizia» L'articolo Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027 proviene da Open.",
+   "pub_ts": 1795538718,
+   "source": "Open",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Media: 'Eisenkot pronto a sottoporre al voto il nuovo governo la prossima settimana'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/corte-israele-lo-stato-intervenga-contro-i-coloni-estremisti_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
+   "description": "La Corte di Israele: 'Lo Stato intervenga contro i coloni estremisti'",
+   "pub_ts": 1795534717,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Anche bambini e bambine nella delegazione dell'Unicef da Mattarella",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/23/anche-bambini-e-bambine-nella-delegazione-dellunicef-da-mattarella_b1e841c3-d0f9-4820-a575-2fa27c906335.html",
-   "description": "Delle scuole elementari e medie della Toscana e della Campania",
-   "pub_ts": 1795435180,
-   "source": "ANSA Cronaca",
+   "title": "Dombrovskis: 'Italia conforme alle raccomandazioni Ue, correzione nel 2026'",
+   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/dombrovskis-italia-conforme-alle-raccomandazioni-ue-bene-correzione-deficit_2e3d1b80-5c76-4474-af33-e274f621afa9.html",
+   "description": "'Nel 2027 competitività, stabilità, innovazione pilastri azione Ue' 'Raccomandiamo un orientamento di bilancio leggermente restrittivo'. La Germania sopra il 3% ma Bruxelles non apre la procedura",
+   "pub_ts": 1795533456,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Manovra, stop a un emendamento su quattro. No alle vernici sui manifestanti",
-   "link": "https://www.rainews.it/articoli/2026/11/manovra-bocciati-gli-spray-colorati-ai-cortei-salta-emendamento-di-fdi-ae015406-715b-4417-a304-46ab6f246c4f.html",
-   "description": "1.700 proposte inammissibili, incluse norme su exit tax, superbonus e pensioni. La Lega insiste sul condono edilizio. Dure le opposizioni, la maggioranza ricorre a un nuovo vertice",
-   "pub_ts": 1795470437,
+   "title": "Dl scuola: Ciriani pone la fiducia al decreto scuola all'esame della Camera",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/dl-scuola-ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_64f5b9f9-17ef-43ba-bae4-14b382401885.html",
+   "description": "Intesa nella maggioranza sugli ebook, ci sarà un odg",
+   "pub_ts": 1795526640,
+   "source": "ANSA Politica",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Nuovo bilancio della guerra in Ucraina: “Settecentomila morti e mille suicidi tra i soldati russi”",
+   "link": "https://www.repubblica.it/esteri/2026/11/24/news/quanti_soldati_russi_morti_guerra_ucraina_suicidi-425745898/?rss",
+   "description": "I dati emergono dai file riservati dell'agenzia statale di statistica russa, Rosstat, ottenuti dal gruppo hacker bielorusso legato all'opposizione “Cyber Partisans” e dal collettivo hacker ucraino “Silent Crow”",
+   "pub_ts": 1795518640,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Foto intime diffuse alla stampa, Gisèle Pelicot denuncia la casa editrice: “Scioccata”",
+   "link": "https://www.repubblica.it/esteri/2026/11/24/news/gisele_pelicot_foto_nuda_denuncia_casa_editrice_francia-425745581/?rss",
+   "description": "La donna diventata simbolo mondiale della lotta contro le violenze sessuali, ha scoperto la diffusione di immagini che la ritraggono nuda al fine di promuovere un libro",
+   "pub_ts": 1795505626,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Finita l'euforia tech, si temono nuovi dazi: l'Europa chiude in rosso",
+   "link": "https://www.rainews.it/articoli/2026/11/finita-leuforia-tech-si-temono-nuovi-dazi-leuropa-chiude-in-rosso-d11459bc-2c02-42ea-92ca-528dfecba02e.html",
+   "description": "Milano la peggiore a -1,84%. Francoforte -1,26%, contengono le perdite Londra -0,13% e Parigi -0,05%",
+   "pub_ts": 1795539540,
    "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Le minacce di Teheran: «I nostri missili ora possono colpire l’Europa»",
-   "link": "https://www.editorialedomani.it/politica/mondo/iran-minacce-europa-israele-netanyahu-trattative-eisenkot-sjzpyl30",
-   "description": "L’Iran annuncia di possedere nuove testate dalla gittata superiore ai 5000 chilometri. Rubio riceve il ministro degli Esteri del Qatar che teme una nuova escalation nel Golfo. Nonostante il pressing di Netanyahu che chiede nuovi raid, i mercati credono in un allentamento delle tensioni",
-   "pub_ts": 1795465193,
-   "source": "Domani",
+   "title": "Domenica il voto anticipato in Spagna: avanti Popolari con Vox, Sanchez sogna una difficile rimonta",
+   "link": "https://www.rainews.it/articoli/2026/11/domenica-il-voto-anticipato-in-spagna-avanti-popolari-con-vox-sanchez-sogna-una-difficile-rimonta-db411959-fd02-4782-b497-044d1ade7a4c.html",
+   "description": "Dopo le proteste per la crisi abitativa e la bocciatura dei decreti per la casa proposti dal premier socialista, il Paese torna alle urne. Secondo gli ultimi sondaggi, l'asse Feijóo-Abascal consentirebbe alle destre di andare al governo",
+   "pub_ts": 1795537320,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Eisenkot contro le violenze dei coloni israeliani in Cisgiordania",
-   "link": "https://www.ilpost.it/2026/11/23/gadi-eisenkot-condanna-coloni-isreaeliani-cisgiordania-terrorismo-ebraico/",
-   "description": "L'ex generale incaricato di formare un governo le ha definite «terrorismo ebraico», in netta discontinuità con Netanyahu",
-   "pub_ts": 1795413432,
-   "source": "Il Post",
+   "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
+   "description": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
+   "pub_ts": 1795519860,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
-   "section": "politica"
+   "section": "tech"
   },
   {
-   "title": "Russia, Rutte rompe il tabù: “Non è più guerra ibrida”. L’Europa: “Kiev nella Nato”",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/russia_rutte_guerra_ibrida_europa_kiev_nato-425745000/?rss",
-   "description": "Per il segretario dell’Alleanza le provocazioni di Putin sono ormai “troppo gravi”. Il cancelliere sposa la linea di Macron e propone garanzie simili all’articolo 5",
-   "pub_ts": 1795478400,
-   "source": "Repubblica Esteri",
+   "title": "Il Museo Egizio inaugura un nuovo linguaggio: nella sala immersiva dati e IA danno voce ai reperti",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/il_museo_egizio_inaugura_un_nuovo_linguaggio_nella_sala_immersiva_dati_e_ia_danno_voce_ai_reperti-425745929/?rss",
+   "description": "Si chiama “ECO. Paesaggi in trasformazione” il primo progetto della sala inaugurata a Torino: trenta metri di ledwall e dati astronomici, paleoclimatici e satellitari tradotti in immagini con diverse IA, tra cui Claude. Ma le parole restano dei curatori",
+   "pub_ts": 1795513327,
+   "source": "Repubblica Tecnologia",
    "source_priority": 1,
-   "section": "politica"
+   "section": "tech"
   },
   {
-   "title": "“Una violenza inaccettabile”, ora la leadership israeliana condanna i terroristi coloni",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/coloni_violenze_israele_condanna_eisenkot-425744746/?rss",
-   "description": "L’aumento degli attacchi ai civili in Cisgiordania denunciato da Eisenkot e dal presidente Herzog. “Perseguiremo gli autori”",
-   "pub_ts": 1795478400,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "'A Gaza usate bombe come 13 atomiche, il 99% della terra è avvelenato'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/a-gaza-usate-bombe-come-13-atomiche-il-99-della-terra-e-avvelenato_34a2aeb0-24bb-41f5-8e1d-d22583e088d9.html",
-   "description": "Oxfam: 'Conseguenze sanitarie per decenni. Serve subito una bonifica ambientale'",
-   "pub_ts": 1795472101,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Jensen Huang torna alla guida di Nvidia, Trump esulta",
-   "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/11/23/il-cda-di-nvidia-richiama-jensen-huang-alla-guida-rally-di-wall-street_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
-   "description": "Il presidente sotto attacco si prende il merito, 'l'ho fatto per gli Usa'. Titoli a +30%",
-   "pub_ts": 1795498964,
-   "source": "ANSA",
+   "title": "Jense Huang torna alla guida di Nvidia",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
+   "description": "Usa inseriscono Megaspeed nella lista nera commerciale",
+   "pub_ts": 1795518780,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
@@ -623,74 +641,56 @@
    "section": "tech"
   },
   {
-   "title": "Nvidia richiama Huang su pressione di Trump: “È un patriota”. E le Borse festeggiano",
-   "link": "https://www.repubblica.it/economia/2026/11/24/news/nvidia_huang_pressioni_trump_intelligenza_artificiale_bolla_borse-425745302/",
-   "description": "Il cda ammette: “Ascoltati i pareri di alti funzionari di governo”. Il titolo recupera mille miliardi: +6,5% per il Nasdaq, ma resta l’ombra dei legami con i servizi segreti cinesi. La società dell’amante-spia finisce nella lista nera degli Usa",
-   "pub_ts": 1795478400,
-   "source": "la Repubblica",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Milano sperimenta gli agenti AI per collegare i servizi della città",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/milano_sperimenta_agenti_ai_servizi-425744730/?rss",
-   "description": "Fastweb + Vodafone e BIP avviano una collaborazione nell’ambito di Project NANDA, iniziativa nata al MIT Media Lab. Venticinque squadre hanno sviluppato prototipi per mobilità, accessibilità e ambiente. I progetti saranno messi a disposizione del Comune, che potrà valutarne...",
-   "pub_ts": 1795458842,
-   "source": "Repubblica Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Scontro Conte-Fdi in commissione Covid, 'stop and go' dei lavori",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/23/scontro-conte-fdi-in-commissione-covid-stop-and-go-dei-lavori_ced74e1b-8234-4514-86b9-7f526f0eb932.html",
-   "description": "Il leader M5s: 'Preso sempre decisioni politiche'. Lite con Bignami su Di Donna",
-   "pub_ts": 1795470777,
-   "source": "ANSA",
+   "title": ">>>ANSA/Sanofi compra Insmed per 41 miliardi di dollari",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/ansasanofi-compra-insmed-per-41-miliardi-di-dollari_9895bf97-0657-453f-b4ca-6f61a5a3e64f.html",
+   "description": "Acquisizione per espandersi nel settore dell'immunologia. Titolo brilla in Borsa",
+   "pub_ts": 1795540648,
+   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Sinner vola dal 'guru' finlandese per operazione al ginocchio",
-   "link": "https://www.ansa.it/sito/notizie/sport/2026/11/23/sinner-vola-in-finlandia-per-loperazione-al-ginocchio_1b338822-6ab2-4899-8735-1a254f285307.html",
-   "description": "Il tennista in Finlandia con i suoi consulenti: con intervento stop di 4 mesi",
-   "pub_ts": 1795469578,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Nuova sala immersiva al Museo Egizio, i reperti connessi al territorio",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/23/nuova-sala-immersiva-al-museo-egizio-i-reperti-connessi-al-territorio_0a057a40-e91d-44f7-982c-cec62e992466.html",
-   "description": "\"Eco. Paesaggi in trasformazione\" è il primo progetto curatoriale",
-   "pub_ts": 1795446082,
+   "title": "Fagnani, 'Grillo a Belve? Condizioni inaccettabili, troppi paletti per l'intervista'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/fagnani-grillo-a-belve-condizioni-inaccettabili-troppi-paletti-per-lintervista_5f01fd45-34c1-4c98-929b-5e55c691e6a5.html",
+   "description": "A Un Giorno da Pecora a Rai Radio1: \"Mi avevano proposto Chi l'ha visto, avevo detto sì\"",
+   "pub_ts": 1795540226,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Cate Blanchett 'accende' gli Champs-Elysées per le feste di Natale",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/cate-blanchett-accende-gli-champs-elysees-per-le-feste-di-natale_cbc1afc0-bcf4-4e18-89df-66ef134ed942.html",
-   "description": "FIno al 3 gennaio spettacolo di luci e suoni sul viale simbolo di Parigi",
-   "pub_ts": 1795430252,
+   "title": "Per Chi', doc italiano contro la violenza sulle donne ammesso agli Oscar",
+   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/per-chi-doc-italiano-contro-la-violenza-sulle-donne-ammesso-agli_ccffc1b1-dcd3-472f-87a9-e8f7cc57154b.html",
+   "description": "Il 25 novembre verrà proiettato a Salerno per la Giornata internazionale dell'Onu",
+   "pub_ts": 1795537920,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Biennale Arte, l'edizione 2026 si chiude con 714mila visitatori",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/22/biennale-arte-ledizione-2026-si-chiude-con-714mila-visitatori_8d0b7818-5baa-49c6-8131-ab47ee7c6410.html",
-   "description": "Le 100 partecipazioni nazionali sono il numero più alto di sempre",
-   "pub_ts": 1795428480,
-   "source": "ANSA Cultura",
+   "title": "Atp Finals, 480 ace a segno per la ricerca sul cancro per l'Irccs di Candiolo",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/11/24/atp-finals-480-ace-a-segno-per-la-ricerca-sul-cancro-per_9414185a-d6c8-4853-8b17-e69592cb5165.html",
+   "description": "Prosegue raccolta fondi promossa da Intesa Sanpaolo per Fondazione Allegra Agnelli",
+   "pub_ts": 1795536018,
+   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Zelensky, 'in Libia azione esemplare'. Mosca studia la risposta",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/-zelensky-in-libia-azione-esemplare.-mosca-studia-la-risposta_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
-   "description": "Il leader ucraino rivendica. 'Russi pronti al lancio dell'arma nucleare nello spazio'",
-   "pub_ts": 1795496760,
-   "source": "ANSA",
+   "title": "Che cosa è la sindrome della bandelletta ileotibiale che ha colpito Sinner",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/che-cosa-e-la-sindrome-della-bandelletta-ileotibiale-che-ha-colpito-sinner_3b7bc93c-09ea-4ded-a5d7-ab22f8584d8a.html",
+   "description": "Detta anche 'ginocchio del corridore', è un sovraccarico della fascia lungo il lato esterno della coscia",
+   "pub_ts": 1795535947,
+   "source": "ANSA Salute",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Cosa significano gli attacchi ucraini alle navi russe in Libia",
+   "link": "https://www.ilpost.it/2026/11/24/conseguenze-attacchi-navi-russe-libia/",
+   "description": "Dimostrano la capacità di colpire gli interessi russi anche a grande distanza dal fronte, e che la guerra si è estesa fino a lì",
+   "pub_ts": 1795539175,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "cronaca"
   }
