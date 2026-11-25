@@ -1,6 +1,6 @@
 {
- "generated_at": 1795541021,
- "updated_at": 1795541021,
+ "generated_at": 1795572544,
+ "updated_at": 1795572544,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,11 +10,139 @@
   {
    "category": "politica",
    "area": "mondo",
+   "title": "Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'",
+   "summary": "'Non sono al di sopra del codice di condotta'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_81c02eb9-c2c4-4eea-9027-224f1c5e65eb.html",
+   "pub_ts": 1795559640,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_81c02eb9-c2c4-4eea-9027-224f1c5e65eb.html",
+     "title": "Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/nvidia-jensen-huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia-0a526971-2645-4140-8c6a-da0c00e899c4.html",
+     "title": "Jensen Huang: \"Non è stato Trump a farmi tornare, board ha scelto in autonomia\""
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/24/nvidia-jensen-huang-scuse-dipendenti-terapia/",
+     "title": "Nvidia, Jensen Huang chiede scusa ai dipendenti e nega pressioni politiche: «Ho avuto quattro relazioni, ora sono in terapia»"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/24/news/jensen_huang_scusa_dipendenti_nvidia_relazioni_amanti_terapia_trump-425747583/",
+     "title": "Jensen Huang chiede scusa ai dipendenti Nvidia: “Ho avuto quattro relazioni, ora sono in terapia”"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/nvidia-huang-amanti_ihDICHxUVDRfkkq28OkdR",
+     "title": "Huang si scusa con i dipendenti Nvidia: \"Ho ferito i miei figli e tutti voi, ora sono in terapia\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/24/jensen-huang-nvidia-reintegro-trump-notizie-2/8582914/",
+     "title": "Nvidia, Huang dopo il reintegro: “Ho commesso errori terribili, ora vado in terapia”. Poi difende Trump: “Non è stato lui a farmi tornare”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito",
+   "summary": "Freedom è stato 'perdonato', di Feathers non si hanno tracce ma amministrazione rassicura",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_f3e0fbf4-94aa-4551-bf7f-d5447c931320.html",
+   "pub_ts": 1795560171,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_f3e0fbf4-94aa-4551-bf7f-d5447c931320.html",
+     "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_6e129a09-6c89-4d3f-ad68-f543043ac389.html",
+     "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/24/trump-tacchini-casa-bianca-tacchino-sparito/",
+     "title": "Trump e il giallo dei tacchini alla Casa Bianca: Freedom si prende la grazia mentre Feathers sparisce – Il video"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/trump-grazia-tacchini-thanksgiving_3jWgh90M74d8rUdrCzqhrJ",
+     "title": "Trump grazia i tacchini Freedom e Feathers: \"Vivranno per sempre\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Putin signore della guerra in Africa, il traffico d’armi nel mirino di Kiev",
+   "summary": "Da anni il Cremlino usa la Cirenaica per controllare il Sahel. Ma gli ultimi attacchi mettono in forse tutti gli equilibri",
+   "link": "https://www.repubblica.it/esteri/2026/11/25/news/putin_signore_della_guerra_in_africa_traffico_armi_mirino_kiev-425747787/?rss",
+   "pub_ts": 1795564800,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/25/news/putin_signore_della_guerra_in_africa_traffico_armi_mirino_kiev-425747787/?rss",
+     "title": "Putin signore della guerra in Africa, il traffico d’armi nel mirino di Kiev"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/25/news/putin_signore_della_guerra_in_africa_traffico_armi_mirino_kiev-425747787/",
+     "title": "Putin signore della guerra in Africa, il traffico d’armi nel mirino di Kiev"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-africa-oggi_2dOOz3wC9f48AvKycLGMLp",
+     "title": "Ucraina colpisce le navi russe in Libia, la guerra tra Kiev e Putin si sposta in Africa"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Antimafia divisa, forse il testamento di De Gennaro in commissione",
+   "summary": "L'opposizione: 'Si vedano le lettere e si ascolti Melillo'. Il centrodestra: 'Avanti su mafia e appalti'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/antimafia-divisa-forse-il-testamento-di-de-gennaro-in-commissione-_f547b6cf-2afa-4335-8e33-c8cb26ef8d53.html",
+   "pub_ts": 1795561260,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/antimafia-divisa-forse-il-testamento-di-de-gennaro-in-commissione-_f547b6cf-2afa-4335-8e33-c8cb26ef8d53.html",
+     "title": "Antimafia divisa, forse il testamento di De Gennaro in commissione"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/25/news/commissione_antimafia_la_vignetta_di_ellekappa-425747646/",
+     "title": "Commissione antimafia, la vignetta di Ellekappa"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/24/commissione-antimafia-gianni-de-gennaro-indagine/",
+     "title": "Il discusso ruolo della commissione Antimafia nell’inchiesta su De Gennaro"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue",
    "summary": "Per l'Unione Europea potrebbero essere del 15% o inferiori",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/wsj-trump-pronto-a-nuovi-dazi-contro-la-cina-e-lue_5fc3b30a-039a-45a0-bd14-ee0d61111585.html",
-   "pub_ts": 1795534708,
-   "n_sources": 4,
+   "pub_ts": 1795547522,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -23,90 +151,53 @@
      "title": "Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/dazi-usa-stretta-cina-ue_4uhHwr9mSrI4R8imWcDkYX",
-     "title": "Dazi, Wall Street Journal: \"Usa pronti a nuovi aumenti per Cina, Ue e altri Paesi\""
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/nvidia-ricco-trump-minaccce-nuovi-dazi-unione-europea-cina-fswwzrny",
+     "title": "Nvidia fa ricco Trump: il tycoon minaccia nuovi dazi all’Unione europea"
     },
     {
      "name": "Sole 24 Ore Mondo",
      "link": "https://www.ilsole24ore.com/art/trump-pronto-nuovi-dazi-contro-cina-e-ue-AJa0CJRC",
      "title": "Trump pronto a nuovi dazi contro Cina, Ue e altri Paesi"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/24/dazi-trump-cina-ue-notizie/8582417/",
-     "title": "Wall Street Journal: “Trump pronto ad aumentare i dazi alla Cina e all’Unione Europea”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Il Ft: 'Hegseth blocca la consegna di 60 missili per Patriot all'Ucraina'",
-   "summary": "Gli Usa li hanno promessi ma serve il via libera per esportazione anche da depositi europei. MI5 avverte le aziende della Gran Bretagna che riforniscono Kiev, 'rischio di attacchi russi'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-ft-hegseth-blocca-la-consegna-di-60-missili-per-patriot-allucraina_2d8d9336-6bc5-4470-a273-9eaa8cf9c91c.html",
-   "pub_ts": 1795523580,
-   "n_sources": 3,
+   "title": "Kiev: “Raid in Libia legittimi”. Tripoli condanna l’attacco. Stop Usa all’invio dei Patriot",
+   "summary": "Tajani sente l’omologo ucraino dopo l’attacco alle due navi russe. Ritorsione del Pentagono. L’ira di Zelensky: “Si muovono in linea di Putin”",
+   "link": "https://www.repubblica.it/esteri/2026/11/25/news/kiev_raid_libia_legittimi_italia_preoccupata_usa_fermano_patriot-425747694/?rss",
+   "pub_ts": 1795564800,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-ft-hegseth-blocca-la-consegna-di-60-missili-per-patriot-allucraina_2d8d9336-6bc5-4470-a273-9eaa8cf9c91c.html",
-     "title": "Il Ft: 'Hegseth blocca la consegna di 60 missili per Patriot all'Ucraina'"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/25/news/kiev_raid_libia_legittimi_italia_preoccupata_usa_fermano_patriot-425747694/?rss",
+     "title": "Kiev: “Raid in Libia legittimi”. Tripoli condanna l’attacco. Stop Usa all’invio dei Patriot"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/ft-hegseth-blocca-la-consegna-di-60-missili-per-patriot-allucraina_e0106438-8dcc-498d-8960-a1ccc189ff5c.html",
-     "title": "Ft, Hegseth blocca la consegna di 60 missili per Patriot all'Ucraina"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-ultime-news-oggi-24-novembre_3rKA1bn4MDyU07bBXVV2zN",
-     "title": "Ucraina, Ft: da Hegseth stop a consegna 60 missili Patriot. Zelensky conferma attacco a nave russa in golfo Finlandia"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/25/news/kiev_raid_libia_legittimi_italia_preoccupata_usa_fermano_patriot-425747694/",
+     "title": "Kiev: “Raid in Libia legittimi”. Tripoli condanna l’attacco. Stop Usa all’invio dei Patriot"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027",
-   "summary": "Il commissario europeo all’Economia, Valdis Dombrovskis: «Attualmente si prevede che l'Italia corregga il suo deficit eccessivo nel 2026. È una buona notizia» L'articolo Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027 proviene da Open.",
-   "link": "https://www.open.online/2026/11/24/manovra-commissione-europea-uscita-procedura-deficit-eccessivo-primavera-2027/",
-   "pub_ts": 1795538718,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/24/manovra-commissione-europea-uscita-procedura-deficit-eccessivo-primavera-2027/",
-     "title": "Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/economia/manovra-italia-via-libera-ue-ma-bruxelles-avverte-sui-margini-zero_6HUXHaVvGjRDYTxjFVayJJ",
-     "title": "Manovra Italia: via libera Ue, ma Bruxelles avverte sui margini zero"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/commissione-ue-pronta-chiudere-procedura-deficit-eccessivo-sull-italia-ma-attenti-manovra-AJfUfDRC",
-     "title": "Commissione Ue pronta a chiudere procedura per deficit eccessivo sull’Italia: «Ma attenti alla manovra»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Media: 'Eisenkot pronto a sottoporre al voto il nuovo governo la prossima settimana'",
-   "summary": "La Corte di Israele: 'Lo Stato intervenga contro i coloni estremisti'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/corte-israele-lo-stato-intervenga-contro-i-coloni-estremisti_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
-   "pub_ts": 1795534717,
+   "title": "Eisenkot stringe sul governo, la prossima settimana alla Knesset",
+   "summary": "'Verso un esecutivo ristretto'. Alta Corte ordina un intervento contro le violenze dei coloni",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/eisenkot-stringe-sul-governo-la-prossima-settimana-alla-knesset_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
+   "pub_ts": 1795545026,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/corte-israele-lo-stato-intervenga-contro-i-coloni-estremisti_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
-     "title": "Media: 'Eisenkot pronto a sottoporre al voto il nuovo governo la prossima settimana'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/eisenkot-stringe-sul-governo-la-prossima-settimana-alla-knesset_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
+     "title": "Eisenkot stringe sul governo, la prossima settimana alla Knesset"
     },
     {
      "name": "ANSA Mondo",
@@ -117,111 +208,23 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Dombrovskis: 'Italia conforme alle raccomandazioni Ue, correzione nel 2026'",
-   "summary": "'Nel 2027 competitività, stabilità, innovazione pilastri azione Ue' 'Raccomandiamo un orientamento di bilancio leggermente restrittivo'. La Germania sopra il 3% ma Bruxelles non apre la procedura",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/dombrovskis-italia-conforme-alle-raccomandazioni-ue-bene-correzione-deficit_2e3d1b80-5c76-4474-af33-e274f621afa9.html",
-   "pub_ts": 1795533456,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/dombrovskis-italia-conforme-alle-raccomandazioni-ue-bene-correzione-deficit_2e3d1b80-5c76-4474-af33-e274f621afa9.html",
-     "title": "Dombrovskis: 'Italia conforme alle raccomandazioni Ue, correzione nel 2026'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/economia/conti-pubblici-italia-manovra-2027_1lvjqWHb43UFna9ZHRoI1t",
-     "title": "Conti pubblici, Dombrovskis: \"Italia in linea con le raccomandazioni Ue\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "italia",
-   "title": "Dl scuola: Ciriani pone la fiducia al decreto scuola all'esame della Camera",
-   "summary": "Intesa nella maggioranza sugli ebook, ci sarà un odg",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/dl-scuola-ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_64f5b9f9-17ef-43ba-bae4-14b382401885.html",
+   "title": "Ciriani pone la fiducia al decreto scuola all'esame della Camera",
+   "summary": "Il provvedimento è stato già approvato dal Senato",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_26116dde-43cc-4384-97bd-b24e58491a78.html",
    "pub_ts": 1795526640,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/dl-scuola-ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_64f5b9f9-17ef-43ba-bae4-14b382401885.html",
-     "title": "Dl scuola: Ciriani pone la fiducia al decreto scuola all'esame della Camera"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_26116dde-43cc-4384-97bd-b24e58491a78.html",
+     "title": "Ciriani pone la fiducia al decreto scuola all'esame della Camera"
     },
     {
      "name": "Rai News",
      "link": "https://www.rainews.it/articoli/2026/11/dl-scuola-il-governo-pone-la-fiducia-alla-camera-testo-blindato-e-book-scontati-salvi--b6e4040e-7ee5-4e89-a64e-450aa75175a2.html",
      "title": "Dl Scuola, il governo pone la fiducia alla Camera: testo blindato, e-book scontati salvi"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Nuovo bilancio della guerra in Ucraina: “Settecentomila morti e mille suicidi tra i soldati russi”",
-   "summary": "I dati emergono dai file riservati dell'agenzia statale di statistica russa, Rosstat, ottenuti dal gruppo hacker bielorusso legato all'opposizione “Cyber Partisans” e dal collettivo hacker ucraino “Silent Crow”",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/quanti_soldati_russi_morti_guerra_ucraina_suicidi-425745898/?rss",
-   "pub_ts": 1795518640,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/24/news/quanti_soldati_russi_morti_guerra_ucraina_suicidi-425745898/?rss",
-     "title": "Nuovo bilancio della guerra in Ucraina: “Settecentomila morti e mille suicidi tra i soldati russi”"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/24/news/quanti_soldati_russi_morti_guerra_ucraina_suicidi-425745898/",
-     "title": "Nuovo bilancio della guerra in Ucraina: “Settecentomila morti e mille suicidi tra i soldati russi”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Foto intime diffuse alla stampa, Gisèle Pelicot denuncia la casa editrice: “Scioccata”",
-   "summary": "La donna diventata simbolo mondiale della lotta contro le violenze sessuali, ha scoperto la diffusione di immagini che la ritraggono nuda al fine di promuovere un libro",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/gisele_pelicot_foto_nuda_denuncia_casa_editrice_francia-425745581/?rss",
-   "pub_ts": 1795505626,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/24/news/gisele_pelicot_foto_nuda_denuncia_casa_editrice_francia-425745581/?rss",
-     "title": "Foto intime diffuse alla stampa, Gisèle Pelicot denuncia la casa editrice: “Scioccata”"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/23/gisele-pelicot-vuole-denunciare-una-casa-editrice-per-aver-usato-alcune-sue-foto-intime-per-promuovere-un-libro/",
-     "title": "Gisèle Pelicot vuole denunciare una casa editrice per aver usato alcune sue foto intime per promuovere un libro"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Finita l'euforia tech, si temono nuovi dazi: l'Europa chiude in rosso",
-   "summary": "Milano la peggiore a -1,84%. Francoforte -1,26%, contengono le perdite Londra -0,13% e Parigi -0,05%",
-   "link": "https://www.rainews.it/articoli/2026/11/finita-leuforia-tech-si-temono-nuovi-dazi-leuropa-chiude-in-rosso-d11459bc-2c02-42ea-92ca-528dfecba02e.html",
-   "pub_ts": 1795539540,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/finita-leuforia-tech-si-temono-nuovi-dazi-leuropa-chiude-in-rosso-d11459bc-2c02-42ea-92ca-528dfecba02e.html",
-     "title": "Finita l'euforia tech, si temono nuovi dazi: l'Europa chiude in rosso"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/24/diretta/le_borse_di_oggi_24_novembre_mercati_in_rialzo_con_ritorno_huang-425745545/",
-     "title": "Le Borse di oggi, 24 novembre. Trump pronto a nuovi dazi, Milano e l’Europa in rosso"
     }
    ]
   },
@@ -248,13 +251,30 @@
    ]
   },
   {
+   "category": "politica",
+   "area": "italia",
+   "title": "Riammesso l'emendamento FdI su exit tax. Pressing di Salvini sul condono",
+   "summary": "Meloni vede i comuni e apre sul fondo affitti. Si tratta con il Mef su flat tax giovani",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/pressing-di-salvini-sul-condono.-alt-dei-sindaci-non-ricada-tutto_afb633f3-0b1a-4acd-8a7c-858433efc830.html",
+   "pub_ts": 1795556111,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/pressing-di-salvini-sul-condono.-alt-dei-sindaci-non-ricada-tutto_afb633f3-0b1a-4acd-8a7c-858433efc830.html",
+     "title": "Riammesso l'emendamento FdI su exit tax. Pressing di Salvini sul condono"
+    }
+   ]
+  },
+  {
    "category": "tech",
    "area": null,
    "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
    "summary": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
    "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
-   "pub_ts": 1795519860,
-   "n_sources": 6,
+   "pub_ts": 1795561675,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
@@ -263,14 +283,9 @@
      "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea"
     },
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/23/news/nvidia_alice_huang_007_cinesi_trump-425742991/?rss",
-     "title": "Nvidia, nuove rivelazioni su Alice Huang: contattava 007 cinesi durante la sua relazione, Trump sapeva"
-    },
-    {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/jensen-huang-nvidia-ultime-news-oggi_dceJrpV3WESfeO7Xj7tgL",
-     "title": "Nvidia, sfida bipartisan di Capitol Hill a Trump: \"Continueremo inchieste su Huang\""
+     "link": "https://www.adnkronos.com/internazionale/esteri/jensen-huang-nvidia-donald-trump-guadagno-ultime-news_2EUfRVq41MvgOSnXND2YH1",
+     "title": "Nvidia, Financial Times: Trump ha guadagnato fino a 15 milioni di dollari con il ritorno di Huang"
     },
     {
      "name": "Il Post",
@@ -296,18 +311,13 @@
    "summary": "Si chiama “ECO. Paesaggi in trasformazione” il primo progetto della sala inaugurata a Torino: trenta metri di ledwall e dati astronomici, paleoclimatici e satellitari tradotti in immagini con diverse IA, tra cui Claude. Ma le parole restano dei curatori",
    "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/il_museo_egizio_inaugura_un_nuovo_linguaggio_nella_sala_immersiva_dati_e_ia_danno_voce_ai_reperti-425745929/?rss",
    "pub_ts": 1795513327,
-   "n_sources": 3,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Tecnologia",
      "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/il_museo_egizio_inaugura_un_nuovo_linguaggio_nella_sala_immersiva_dati_e_ia_danno_voce_ai_reperti-425745929/?rss",
      "title": "Il Museo Egizio inaugura un nuovo linguaggio: nella sala immersiva dati e IA danno voce ai reperti"
-    },
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/23/nuova-sala-immersiva-al-museo-egizio-i-reperti-connessi-al-territorio_0a057a40-e91d-44f7-982c-cec62e992466.html",
-     "title": "Nuova sala immersiva al Museo Egizio, i reperti connessi al territorio"
     },
     {
      "name": "Adnkronos Cultura",
@@ -319,46 +329,82 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Jense Huang torna alla guida di Nvidia",
-   "summary": "Usa inseriscono Megaspeed nella lista nera commerciale",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
-   "pub_ts": 1795518780,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Quattro chatbot IA hanno fornito piani per attentati nei test Usa. Abbiamo fatto una prova",
+   "summary": "I test condotti per conto del Congresso americano su ChatGpt, Claude, Gemini e Grok hanno dimostrato che, malgrado i sistemi di sicurezza, tutti e quattro i chatbot possono fornire informazioni sufficienti a pianificare attacchi terroristici. Abbiamo fatto un tentativo anche...",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/chatbot_ia_piani_attentati_test_usa-425747456/?rss",
+   "pub_ts": 1795551495,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
-     "title": "Jense Huang torna alla guida di Nvidia"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/jensen-huang-torna-in-nvidia-accolto-da-applausi-e-promette-di-essere-un-ceo-migliore-5e084799-b400-4127-9df3-f78cc2d15225.html",
-     "title": "Jensen Huang torna in Nvidia accolto da applausi e promette di essere \"un CEO migliore\""
+     "name": "Repubblica Tecnologia",
+     "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/chatbot_ia_piani_attentati_test_usa-425747456/?rss",
+     "title": "Quattro chatbot IA hanno fornito piani per attentati nei test Usa. Abbiamo fatto una prova"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Microsoft dopo i disservizi, 'dobbiamo prepararci per i prossimi mesi'",
-   "summary": "Per il presidente Smith il down dell'infrastruttura 'non si risolve in un paio di settimane'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/23/microsoft-dopo-i-disservizi-dobbiamo-prepararci-per-i-prossimi-mesi_7e383e84-4fb9-4ef9-84d1-763f6065af0f.html",
-   "pub_ts": 1795438368,
+   "title": "Anthropic cambia le regole per proteggere le chat delle aziende con l'IA",
+   "summary": "I clienti potranno salvare le conversazioni sui propri server senza inviarle alla società",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/24/anthropic-cambia-le-regole-per-proteggere-le-chat-delle-aziende-con-lia_835d37e4-a49d-478b-a165-4adfb819e8a1.html",
+   "pub_ts": 1795546946,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/24/anthropic-cambia-le-regole-per-proteggere-le-chat-delle-aziende-con-lia_835d37e4-a49d-478b-a165-4adfb819e8a1.html",
+     "title": "Anthropic cambia le regole per proteggere le chat delle aziende con l'IA"
+    }
+   ]
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Mannoia e Conti contro la violenza sulle donne, torna Una Nessuna Centomila",
+   "summary": "Al concerto-evento tanti vip, da Ligabue a Laura Pausini, per sostenere i centri",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/una-nessuna-centomila-mannoia-e-conti-su-rai1-contro-la-violenza-sulle-donne_b027b7a7-2974-4c7b-8c82-2ddbf43007a4.html",
+   "pub_ts": 1795550280,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/23/microsoft-dopo-i-disservizi-dobbiamo-prepararci-per-i-prossimi-mesi_7e383e84-4fb9-4ef9-84d1-763f6065af0f.html",
-     "title": "Microsoft dopo i disservizi, 'dobbiamo prepararci per i prossimi mesi'"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/una-nessuna-centomila-mannoia-e-conti-su-rai1-contro-la-violenza-sulle-donne_b027b7a7-2974-4c7b-8c82-2ddbf43007a4.html",
+     "title": "Mannoia e Conti contro la violenza sulle donne, torna Una Nessuna Centomila"
     },
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/microsoft-blackout-digitali-ia-rischi-425743792/?rss",
-     "title": "Microsoft avverte: “Preparatevi a nuovi blackout digitali nei prossimi mesi”"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/donne-nessuna-vittima-di-violenza-e-sola-rete-nazionale-forense-f79e9524-fb79-4ce9-aa00-df6378604596.html",
+     "title": "Nessuna vittima di violenza è sola"
     }
-   ]
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Favino a Belve, 'fino da ragazzo sento delle presenze, ancora oggi'",
+   "summary": "Si racconta a Fagnani: \"In Suburra mi sono vergognato molto per una scena di sesso\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/favino-a-belve-fino-da-ragazzo-sento-delle-presenze-ancora-oggi_83701d22-2330-464a-94f6-b7fa288f70cf.html",
+   "pub_ts": 1795542960,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/favino-a-belve-fino-da-ragazzo-sento-delle-presenze-ancora-oggi_83701d22-2330-464a-94f6-b7fa288f70cf.html",
+     "title": "Favino a Belve, 'fino da ragazzo sento delle presenze, ancora oggi'"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/belve-totti-su-di-me-hanno-mangiato-in-tanti-favino-fin-da-ragazzo-sento-delle-presenze-4f3aa976-7d62-4108-b4fb-ac42ed24a4aa.html",
+     "title": "Belve, Totti: \"Su di me hanno mangiato in tanti\". Favino: \"Fin da ragazzo sento delle presenze\""
+    }
+   ],
+   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -382,52 +428,6 @@
     }
    ],
    "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Fagnani, 'Grillo a Belve? Condizioni inaccettabili, troppi paletti per l'intervista'",
-   "summary": "A Un Giorno da Pecora a Rai Radio1: \"Mi avevano proposto Chi l'ha visto, avevo detto sì\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/fagnani-grillo-a-belve-condizioni-inaccettabili-troppi-paletti-per-lintervista_5f01fd45-34c1-4c98-929b-5e55c691e6a5.html",
-   "pub_ts": 1795540226,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/fagnani-grillo-a-belve-condizioni-inaccettabili-troppi-paletti-per-lintervista_5f01fd45-34c1-4c98-929b-5e55c691e6a5.html",
-     "title": "Fagnani, 'Grillo a Belve? Condizioni inaccettabili, troppi paletti per l'intervista'"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/24/fagnani-belve-beppe-grillo-rimbalzato/",
-     "title": "Beppe Grillo rimbalzato a Belve, Fagnani e la trattativa fallita: «Troppi paletti, condizioni inaccettabili». Il no a Vannacci"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Per Chi', doc italiano contro la violenza sulle donne ammesso agli Oscar",
-   "summary": "Il 25 novembre verrà proiettato a Salerno per la Giornata internazionale dell'Onu",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/per-chi-doc-italiano-contro-la-violenza-sulle-donne-ammesso-agli_ccffc1b1-dcd3-472f-87a9-e8f7cc57154b.html",
-   "pub_ts": 1795537920,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/per-chi-doc-italiano-contro-la-violenza-sulle-donne-ammesso-agli_ccffc1b1-dcd3-472f-87a9-e8f7cc57154b.html",
-     "title": "Per Chi', doc italiano contro la violenza sulle donne ammesso agli Oscar"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/maratona/2026/11/giornata-internazionale-per-eliminazione-violenza-donne-rai--4f6e1015-8d07-49d7-a355-9192f4aef2f8.html",
-     "title": "Contro la violenza sulle donne, non solo un giorno: dati, iniziative, voci, cortei"
-    }
-   ],
-   "subtype": "cultura"
   },
   {
    "category": "varia",
@@ -478,120 +478,106 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Cosa significano gli attacchi ucraini alle navi russe in Libia",
-   "summary": "Dimostrano la capacità di colpire gli interessi russi anche a grande distanza dal fronte, e che la guerra si è estesa fino a lì",
-   "link": "https://www.ilpost.it/2026/11/24/conseguenze-attacchi-navi-russe-libia/",
-   "pub_ts": 1795539175,
-   "n_sources": 5,
+   "title": "Donne vittime di violenza, in Italia una su tre ha figli",
+   "summary": "Save the children: 'Episodi su 1,6 milioni, nel 61,5% dei casi davanti ai figli'",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/donne-vittime-di-violenza-in-italia-una-su-tre-ha-figli_1c2f930c-4f33-4d6a-a1be-98e49b46786e.html",
+   "pub_ts": 1795548833,
+   "n_sources": 4,
    "documented": true,
    "sources": [
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/24/conseguenze-attacchi-navi-russe-libia/",
-     "title": "Cosa significano gli attacchi ucraini alle navi russe in Libia"
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/donne-vittime-di-violenza-in-italia-una-su-tre-ha-figli_1c2f930c-4f33-4d6a-a1be-98e49b46786e.html",
+     "title": "Donne vittime di violenza, in Italia una su tre ha figli"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-africa-oggi_2dOOz3wC9f48AvKycLGMLp",
-     "title": "Ucraina colpisce le navi russe in Libia, la guerra tra Kiev e Putin si sposta in Africa"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/24/diretta/guerra_ucraina_russia_news_oggi-425745406/",
-     "title": "Guerra Ucraina-Russia, news. Putin: “Kiev non ascolta Trump e attacca raffinerie russe”"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/violenza-adolescenti-sono-piu-43-milioni-vititme-mondo-oms-AJVSG8KC",
+     "title": "Violenza sulle adolescenti: sono più di 43 milioni le vititme al mondo (Oms)"
     },
     {
      "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/ucraina-15-morti-nei-raid-russi-sulla-regione-di-kiev-nave-russa-colpita-in-libia-qpm9xb0j",
-     "title": "Zelensky rivendica gli attacchi alle navi russe in Libia: «Un’operazione esemplare»"
+     "link": "https://www.editorialedomani.it/fatti/italia-6-milioni-donne-violenza-fisica-o-sessuale-assistita-figli-dati-save-the-children-q9q815y4",
+     "title": "In Italia oltre 6 milioni di donne hanno subito violenza fisica o sessuale"
     },
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/24/campo-largo-armi-ucraina-libia-notizie/8582474/",
-     "title": "Attacco alle navi russe in Libia, Conte e Avs: “Pericoloso, serve una svolta sulle armi a Kiev”. Provenzano: “Pd contro escalation. Ma lì c’è la flotta fantasma”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/24/violenza-donne-italia-vittime-notizie/8582713/",
+     "title": "Violenza sulle donne, in Italia 6 milioni di vittime. Una su 3 ha figli e nel 61,5% dei casi questi hanno assistito agli abusi"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/wsj-trump-pronto-a-nuovi-dazi-contro-la-cina-e-lue_5fc3b30a-039a-45a0-bd14-ee0d61111585.html",
-   "description": "Per l'Unione Europea potrebbero essere del 15% o inferiori",
-   "pub_ts": 1795534708,
+   "title": "Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_81c02eb9-c2c4-4eea-9027-224f1c5e65eb.html",
+   "description": "'Non sono al di sopra del codice di condotta'",
+   "pub_ts": 1795559640,
    "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Il Ft: 'Hegseth blocca la consegna di 60 missili per Patriot all'Ucraina'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-ft-hegseth-blocca-la-consegna-di-60-missili-per-patriot-allucraina_2d8d9336-6bc5-4470-a273-9eaa8cf9c91c.html",
-   "description": "Gli Usa li hanno promessi ma serve il via libera per esportazione anche da depositi europei. MI5 avverte le aziende della Gran Bretagna che riforniscono Kiev, 'rischio di attacchi russi'",
-   "pub_ts": 1795523580,
+   "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_f3e0fbf4-94aa-4551-bf7f-d5447c931320.html",
+   "description": "Freedom è stato 'perdonato', di Feathers non si hanno tracce ma amministrazione rassicura",
+   "pub_ts": 1795560171,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027",
-   "link": "https://www.open.online/2026/11/24/manovra-commissione-europea-uscita-procedura-deficit-eccessivo-primavera-2027/",
-   "description": "Il commissario europeo all’Economia, Valdis Dombrovskis: «Attualmente si prevede che l'Italia corregga il suo deficit eccessivo nel 2026. È una buona notizia» L'articolo Manovra, arriva l’ok da Bruxelles: l’Italia verso l’uscita dalla procedura per deficit eccessivo nella primavera 2027 proviene da Open.",
-   "pub_ts": 1795538718,
-   "source": "Open",
+   "title": "Putin signore della guerra in Africa, il traffico d’armi nel mirino di Kiev",
+   "link": "https://www.repubblica.it/esteri/2026/11/25/news/putin_signore_della_guerra_in_africa_traffico_armi_mirino_kiev-425747787/?rss",
+   "description": "Da anni il Cremlino usa la Cirenaica per controllare il Sahel. Ma gli ultimi attacchi mettono in forse tutti gli equilibri",
+   "pub_ts": 1795564800,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Media: 'Eisenkot pronto a sottoporre al voto il nuovo governo la prossima settimana'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/corte-israele-lo-stato-intervenga-contro-i-coloni-estremisti_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
-   "description": "La Corte di Israele: 'Lo Stato intervenga contro i coloni estremisti'",
-   "pub_ts": 1795534717,
+   "title": "Antimafia divisa, forse il testamento di De Gennaro in commissione",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/antimafia-divisa-forse-il-testamento-di-de-gennaro-in-commissione-_f547b6cf-2afa-4335-8e33-c8cb26ef8d53.html",
+   "description": "L'opposizione: 'Si vedano le lettere e si ascolti Melillo'. Il centrodestra: 'Avanti su mafia e appalti'",
+   "pub_ts": 1795561260,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Dombrovskis: 'Italia conforme alle raccomandazioni Ue, correzione nel 2026'",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/dombrovskis-italia-conforme-alle-raccomandazioni-ue-bene-correzione-deficit_2e3d1b80-5c76-4474-af33-e274f621afa9.html",
-   "description": "'Nel 2027 competitività, stabilità, innovazione pilastri azione Ue' 'Raccomandiamo un orientamento di bilancio leggermente restrittivo'. La Germania sopra il 3% ma Bruxelles non apre la procedura",
-   "pub_ts": 1795533456,
+   "title": "Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/wsj-trump-pronto-a-nuovi-dazi-contro-la-cina-e-lue_5fc3b30a-039a-45a0-bd14-ee0d61111585.html",
+   "description": "Per l'Unione Europea potrebbero essere del 15% o inferiori",
+   "pub_ts": 1795547522,
+   "source": "ANSA Mondo",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Kiev: “Raid in Libia legittimi”. Tripoli condanna l’attacco. Stop Usa all’invio dei Patriot",
+   "link": "https://www.repubblica.it/esteri/2026/11/25/news/kiev_raid_libia_legittimi_italia_preoccupata_usa_fermano_patriot-425747694/?rss",
+   "description": "Tajani sente l’omologo ucraino dopo l’attacco alle due navi russe. Ritorsione del Pentagono. L’ira di Zelensky: “Si muovono in linea di Putin”",
+   "pub_ts": 1795564800,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Eisenkot stringe sul governo, la prossima settimana alla Knesset",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/eisenkot-stringe-sul-governo-la-prossima-settimana-alla-knesset_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
+   "description": "'Verso un esecutivo ristretto'. Alta Corte ordina un intervento contro le violenze dei coloni",
+   "pub_ts": 1795545026,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Dl scuola: Ciriani pone la fiducia al decreto scuola all'esame della Camera",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/dl-scuola-ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_64f5b9f9-17ef-43ba-bae4-14b382401885.html",
-   "description": "Intesa nella maggioranza sugli ebook, ci sarà un odg",
+   "title": "Ciriani pone la fiducia al decreto scuola all'esame della Camera",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_26116dde-43cc-4384-97bd-b24e58491a78.html",
+   "description": "Il provvedimento è stato già approvato dal Senato",
    "pub_ts": 1795526640,
    "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Nuovo bilancio della guerra in Ucraina: “Settecentomila morti e mille suicidi tra i soldati russi”",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/quanti_soldati_russi_morti_guerra_ucraina_suicidi-425745898/?rss",
-   "description": "I dati emergono dai file riservati dell'agenzia statale di statistica russa, Rosstat, ottenuti dal gruppo hacker bielorusso legato all'opposizione “Cyber Partisans” e dal collettivo hacker ucraino “Silent Crow”",
-   "pub_ts": 1795518640,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Foto intime diffuse alla stampa, Gisèle Pelicot denuncia la casa editrice: “Scioccata”",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/gisele_pelicot_foto_nuda_denuncia_casa_editrice_francia-425745581/?rss",
-   "description": "La donna diventata simbolo mondiale della lotta contro le violenze sessuali, ha scoperto la diffusione di immagini che la ritraggono nuda al fine di promuovere un libro",
-   "pub_ts": 1795505626,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Finita l'euforia tech, si temono nuovi dazi: l'Europa chiude in rosso",
-   "link": "https://www.rainews.it/articoli/2026/11/finita-leuforia-tech-si-temono-nuovi-dazi-leuropa-chiude-in-rosso-d11459bc-2c02-42ea-92ca-528dfecba02e.html",
-   "description": "Milano la peggiore a -1,84%. Francoforte -1,26%, contengono le perdite Londra -0,13% e Parigi -0,05%",
-   "pub_ts": 1795539540,
-   "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
@@ -605,10 +591,19 @@
    "section": "politica"
   },
   {
+   "title": "Riammesso l'emendamento FdI su exit tax. Pressing di Salvini sul condono",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/pressing-di-salvini-sul-condono.-alt-dei-sindaci-non-ricada-tutto_afb633f3-0b1a-4acd-8a7c-858433efc830.html",
+   "description": "Meloni vede i comuni e apre sul fondo affitti. Si tratta con il Mef su flat tax giovani",
+   "pub_ts": 1795556111,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
    "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
    "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
    "description": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
-   "pub_ts": 1795519860,
+   "pub_ts": 1795561675,
    "source": "Repubblica Tecnologia",
    "source_priority": 1,
    "section": "tech"
@@ -623,22 +618,40 @@
    "section": "tech"
   },
   {
-   "title": "Jense Huang torna alla guida di Nvidia",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
-   "description": "Usa inseriscono Megaspeed nella lista nera commerciale",
-   "pub_ts": 1795518780,
+   "title": "Quattro chatbot IA hanno fornito piani per attentati nei test Usa. Abbiamo fatto una prova",
+   "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/chatbot_ia_piani_attentati_test_usa-425747456/?rss",
+   "description": "I test condotti per conto del Congresso americano su ChatGpt, Claude, Gemini e Grok hanno dimostrato che, malgrado i sistemi di sicurezza, tutti e quattro i chatbot possono fornire informazioni sufficienti a pianificare attacchi terroristici. Abbiamo fatto un tentativo anche...",
+   "pub_ts": 1795551495,
+   "source": "Repubblica Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Anthropic cambia le regole per proteggere le chat delle aziende con l'IA",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/24/anthropic-cambia-le-regole-per-proteggere-le-chat-delle-aziende-con-lia_835d37e4-a49d-478b-a165-4adfb819e8a1.html",
+   "description": "I clienti potranno salvare le conversazioni sui propri server senza inviarle alla società",
+   "pub_ts": 1795546946,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Microsoft dopo i disservizi, 'dobbiamo prepararci per i prossimi mesi'",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/23/microsoft-dopo-i-disservizi-dobbiamo-prepararci-per-i-prossimi-mesi_7e383e84-4fb9-4ef9-84d1-763f6065af0f.html",
-   "description": "Per il presidente Smith il down dell'infrastruttura 'non si risolve in un paio di settimane'",
-   "pub_ts": 1795438368,
-   "source": "ANSA Tecnologia",
+   "title": "Mannoia e Conti contro la violenza sulle donne, torna Una Nessuna Centomila",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/una-nessuna-centomila-mannoia-e-conti-su-rai1-contro-la-violenza-sulle-donne_b027b7a7-2974-4c7b-8c82-2ddbf43007a4.html",
+   "description": "Al concerto-evento tanti vip, da Ligabue a Laura Pausini, per sostenere i centri",
+   "pub_ts": 1795550280,
+   "source": "ANSA Cultura",
    "source_priority": 1,
-   "section": "tech"
+   "section": "varia"
+  },
+  {
+   "title": "Favino a Belve, 'fino da ragazzo sento delle presenze, ancora oggi'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/favino-a-belve-fino-da-ragazzo-sento-delle-presenze-ancora-oggi_83701d22-2330-464a-94f6-b7fa288f70cf.html",
+   "description": "Si racconta a Fagnani: \"In Suburra mi sono vergognato molto per una scena di sesso\"",
+   "pub_ts": 1795542960,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
   },
   {
    "title": ">>>ANSA/Sanofi compra Insmed per 41 miliardi di dollari",
@@ -646,24 +659,6 @@
    "description": "Acquisizione per espandersi nel settore dell'immunologia. Titolo brilla in Borsa",
    "pub_ts": 1795540648,
    "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Fagnani, 'Grillo a Belve? Condizioni inaccettabili, troppi paletti per l'intervista'",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/fagnani-grillo-a-belve-condizioni-inaccettabili-troppi-paletti-per-lintervista_5f01fd45-34c1-4c98-929b-5e55c691e6a5.html",
-   "description": "A Un Giorno da Pecora a Rai Radio1: \"Mi avevano proposto Chi l'ha visto, avevo detto sì\"",
-   "pub_ts": 1795540226,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Per Chi', doc italiano contro la violenza sulle donne ammesso agli Oscar",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/23/per-chi-doc-italiano-contro-la-violenza-sulle-donne-ammesso-agli_ccffc1b1-dcd3-472f-87a9-e8f7cc57154b.html",
-   "description": "Il 25 novembre verrà proiettato a Salerno per la Giornata internazionale dell'Onu",
-   "pub_ts": 1795537920,
-   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
@@ -686,11 +681,11 @@
    "section": "varia"
   },
   {
-   "title": "Cosa significano gli attacchi ucraini alle navi russe in Libia",
-   "link": "https://www.ilpost.it/2026/11/24/conseguenze-attacchi-navi-russe-libia/",
-   "description": "Dimostrano la capacità di colpire gli interessi russi anche a grande distanza dal fronte, e che la guerra si è estesa fino a lì",
-   "pub_ts": 1795539175,
-   "source": "Il Post",
+   "title": "Donne vittime di violenza, in Italia una su tre ha figli",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/donne-vittime-di-violenza-in-italia-una-su-tre-ha-figli_1c2f930c-4f33-4d6a-a1be-98e49b46786e.html",
+   "description": "Save the children: 'Episodi su 1,6 milioni, nel 61,5% dei casi davanti ai figli'",
+   "pub_ts": 1795548833,
+   "source": "ANSA Cronaca",
    "source_priority": 1,
    "section": "cronaca"
   }
