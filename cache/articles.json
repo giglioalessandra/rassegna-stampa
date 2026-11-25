@@ -1,6 +1,6 @@
 {
- "generated_at": 1795572544,
- "updated_at": 1795572544,
+ "generated_at": 1795609665,
+ "updated_at": 1795609665,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,116 +10,15 @@
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'",
-   "summary": "'Non sono al di sopra del codice di condotta'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_81c02eb9-c2c4-4eea-9027-224f1c5e65eb.html",
-   "pub_ts": 1795559640,
-   "n_sources": 6,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_81c02eb9-c2c4-4eea-9027-224f1c5e65eb.html",
-     "title": "Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/nvidia-jensen-huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia-0a526971-2645-4140-8c6a-da0c00e899c4.html",
-     "title": "Jensen Huang: \"Non è stato Trump a farmi tornare, board ha scelto in autonomia\""
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/24/nvidia-jensen-huang-scuse-dipendenti-terapia/",
-     "title": "Nvidia, Jensen Huang chiede scusa ai dipendenti e nega pressioni politiche: «Ho avuto quattro relazioni, ora sono in terapia»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/24/news/jensen_huang_scusa_dipendenti_nvidia_relazioni_amanti_terapia_trump-425747583/",
-     "title": "Jensen Huang chiede scusa ai dipendenti Nvidia: “Ho avuto quattro relazioni, ora sono in terapia”"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/nvidia-huang-amanti_ihDICHxUVDRfkkq28OkdR",
-     "title": "Huang si scusa con i dipendenti Nvidia: \"Ho ferito i miei figli e tutti voi, ora sono in terapia\""
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/24/jensen-huang-nvidia-reintegro-trump-notizie-2/8582914/",
-     "title": "Nvidia, Huang dopo il reintegro: “Ho commesso errori terribili, ora vado in terapia”. Poi difende Trump: “Non è stato lui a farmi tornare”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito",
-   "summary": "Freedom è stato 'perdonato', di Feathers non si hanno tracce ma amministrazione rassicura",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_f3e0fbf4-94aa-4551-bf7f-d5447c931320.html",
-   "pub_ts": 1795560171,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_f3e0fbf4-94aa-4551-bf7f-d5447c931320.html",
-     "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_6e129a09-6c89-4d3f-ad68-f543043ac389.html",
-     "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/24/trump-tacchini-casa-bianca-tacchino-sparito/",
-     "title": "Trump e il giallo dei tacchini alla Casa Bianca: Freedom si prende la grazia mentre Feathers sparisce – Il video"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-grazia-tacchini-thanksgiving_3jWgh90M74d8rUdrCzqhrJ",
-     "title": "Trump grazia i tacchini Freedom e Feathers: \"Vivranno per sempre\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Putin signore della guerra in Africa, il traffico d’armi nel mirino di Kiev",
-   "summary": "Da anni il Cremlino usa la Cirenaica per controllare il Sahel. Ma gli ultimi attacchi mettono in forse tutti gli equilibri",
-   "link": "https://www.repubblica.it/esteri/2026/11/25/news/putin_signore_della_guerra_in_africa_traffico_armi_mirino_kiev-425747787/?rss",
-   "pub_ts": 1795564800,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/25/news/putin_signore_della_guerra_in_africa_traffico_armi_mirino_kiev-425747787/?rss",
-     "title": "Putin signore della guerra in Africa, il traffico d’armi nel mirino di Kiev"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/25/news/putin_signore_della_guerra_in_africa_traffico_armi_mirino_kiev-425747787/",
-     "title": "Putin signore della guerra in Africa, il traffico d’armi nel mirino di Kiev"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-africa-oggi_2dOOz3wC9f48AvKycLGMLp",
-     "title": "Ucraina colpisce le navi russe in Libia, la guerra tra Kiev e Putin si sposta in Africa"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
    "title": "Antimafia divisa, forse il testamento di De Gennaro in commissione",
    "summary": "L'opposizione: 'Si vedano le lettere e si ascolti Melillo'. Il centrodestra: 'Avanti su mafia e appalti'",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/antimafia-divisa-forse-il-testamento-di-de-gennaro-in-commissione-_f547b6cf-2afa-4335-8e33-c8cb26ef8d53.html",
-   "pub_ts": 1795561260,
+   "pub_ts": 1795594385,
    "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA",
+     "name": "ANSA Politica",
      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/antimafia-divisa-forse-il-testamento-di-de-gennaro-in-commissione-_f547b6cf-2afa-4335-8e33-c8cb26ef8d53.html",
      "title": "Antimafia divisa, forse il testamento di De Gennaro in commissione"
     },
@@ -164,123 +63,209 @@
   },
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Kiev: “Raid in Libia legittimi”. Tripoli condanna l’attacco. Stop Usa all’invio dei Patriot",
-   "summary": "Tajani sente l’omologo ucraino dopo l’attacco alle due navi russe. Ritorsione del Pentagono. L’ira di Zelensky: “Si muovono in linea di Putin”",
-   "link": "https://www.repubblica.it/esteri/2026/11/25/news/kiev_raid_libia_legittimi_italia_preoccupata_usa_fermano_patriot-425747694/?rss",
-   "pub_ts": 1795564800,
+   "area": "italia",
+   "title": "Israele, Change bloc punta a insediare un nuovo governo mercoledì prossimo",
+   "summary": "'Liberman, ci sarà un governo di maggioranza ebraica'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/israele-change-bloc-punta-a-insediare-un-nuovo-governo-mercoledi-prossimo_d382b6df-0b01-413e-94f9-859e88c479f3.html",
+   "pub_ts": 1795606410,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/25/news/kiev_raid_libia_legittimi_italia_preoccupata_usa_fermano_patriot-425747694/?rss",
-     "title": "Kiev: “Raid in Libia legittimi”. Tripoli condanna l’attacco. Stop Usa all’invio dei Patriot"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/israele-change-bloc-punta-a-insediare-un-nuovo-governo-mercoledi-prossimo_d382b6df-0b01-413e-94f9-859e88c479f3.html",
+     "title": "Israele, Change bloc punta a insediare un nuovo governo mercoledì prossimo"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/25/news/kiev_raid_libia_legittimi_italia_preoccupata_usa_fermano_patriot-425747694/",
-     "title": "Kiev: “Raid in Libia legittimi”. Tripoli condanna l’attacco. Stop Usa all’invio dei Patriot"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/25/israele-nuovo-governo-eisenkot/",
+     "title": "Israele verso un nuovo governo senza Netanyahu"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Eisenkot stringe sul governo, la prossima settimana alla Knesset",
-   "summary": "'Verso un esecutivo ristretto'. Alta Corte ordina un intervento contro le violenze dei coloni",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/eisenkot-stringe-sul-governo-la-prossima-settimana-alla-knesset_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
-   "pub_ts": 1795545026,
+   "title": "Manovra, riunione governo-maggioranza a Palazzo Chigi con Mantovano e Giorgetti",
+   "summary": "Partecipano anche Perrotta, Ciriani, Mangialavori, capigruppo e relatori",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/25/manovra-riunione-governo-maggioranza-a-palazzo-chigi-con-mantovano-e-giorgetti_89646261-4185-4169-ae7b-46ca88eab534.html",
+   "pub_ts": 1795605780,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/eisenkot-stringe-sul-governo-la-prossima-settimana-alla-knesset_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
-     "title": "Eisenkot stringe sul governo, la prossima settimana alla Knesset"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/25/manovra-riunione-governo-maggioranza-a-palazzo-chigi-con-mantovano-e-giorgetti_89646261-4185-4169-ae7b-46ca88eab534.html",
+     "title": "Manovra, riunione governo-maggioranza a Palazzo Chigi con Mantovano e Giorgetti"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/manovra-vertice-a-palazzo-chigi-con-mantovano-e-giorgetti-confronto-su-tempi-e-coperture-061e0f34-05db-4a48-a1e4-084ad0476c48.html",
+     "title": "Manovra, vertice a Palazzo Chigi con Mantovano e Giorgetti. Confronto su tempi e coperture"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Mattarella: 'Uscire dalla violenza è possibile, non dipende solo dal coraggio di una donna'",
+   "summary": "Messaggio per la Giornata internazionale per l'eliminazione della violenza contro le donne: 'Le istituzioni garantiscano protezione, accompagnamento, giustizia. Si promuova l'educazione'. Meloni: 'Nessuna vittima resti sola'",
+   "link": "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/mattarella-uscire-da-violenza-e-possibile-non-dipende-solo-dal-coraggio-di-una_41fb8ea3-bf35-4d18-b6f2-6281126d08a1.html",
+   "pub_ts": 1795604564,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/mattarella-uscire-da-violenza-e-possibile-non-dipende-solo-dal-coraggio-di-una_41fb8ea3-bf35-4d18-b6f2-6281126d08a1.html",
+     "title": "Mattarella: 'Uscire dalla violenza è possibile, non dipende solo dal coraggio di una donna'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/25/mattarella-uscire-da-violenza-e-possibile-non-dipende-solo-dal-coraggio-di-una_8ab6cb30-cccb-46f2-9747-4594d98dd742.html",
+     "title": "Mattarella, uscire da violenza è possibile, non dipende solo dal coraggio di una donna"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Pechino sul caso Huawei, 'ci opponiamo a repressione di nostre aziende dagli Usa'",
+   "summary": "",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/pechino-sul-caso-huawei-ci-opponiamo-a-repressione-di-nostre-aziende-dagli-usa_5ecb6989-cc80-4183-84b5-bfc3adf85b3c.html",
+   "pub_ts": 1795595492,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/pechino-sul-caso-huawei-ci-opponiamo-a-repressione-di-nostre-aziende-dagli-usa_5ecb6989-cc80-4183-84b5-bfc3adf85b3c.html",
+     "title": "Pechino sul caso Huawei, 'ci opponiamo a repressione di nostre aziende dagli Usa'"
     },
     {
      "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/24/media-eisenkot-pronto-a-sottoporre-al-voto-il-nuovo-governo-prossima-settimana_4ac471fd-30ea-4b8f-81e6-cf2990e82471.html",
-     "title": "Media, 'Eisenkot pronto a sottoporre al voto il nuovo governo prossima settimana'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/25/pechino-sul-caso-huawei-ci-opponiamo-a-repressione-di-nostre-aziende-dagli-usa_dd0c3184-131a-4a6e-861a-555175a49e5c.html",
+     "title": "Pechino sul caso Huawei, 'ci opponiamo a repressione di nostre aziende dagli Usa'"
     }
    ]
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Ciriani pone la fiducia al decreto scuola all'esame della Camera",
-   "summary": "Il provvedimento è stato già approvato dal Senato",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_26116dde-43cc-4384-97bd-b24e58491a78.html",
-   "pub_ts": 1795526640,
+   "area": "mondo",
+   "title": "Morbillo, negli Usa 14 morti nel 2026. Italia maglia nera in Ue per casi in un anno",
+   "summary": "(Adnkronos) - Terzo morto in Wisconsin: continua ad aggravarsi il bilancio della malattia negli States dove 6 decessi riguardano bambini.",
+   "link": "https://www.adnkronos.com/internazionale/esteri/morbillo-contagi-italia-europa-usa_yVJ7ztJoXFT0bIOKFOs0X",
+   "pub_ts": 1795608534,
    "n_sources": 2,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_26116dde-43cc-4384-97bd-b24e58491a78.html",
-     "title": "Ciriani pone la fiducia al decreto scuola all'esame della Camera"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/dl-scuola-il-governo-pone-la-fiducia-alla-camera-testo-blindato-e-book-scontati-salvi--b6e4040e-7ee5-4e89-a64e-450aa75175a2.html",
-     "title": "Dl Scuola, il governo pone la fiducia alla Camera: testo blindato, e-book scontati salvi"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Domenica il voto anticipato in Spagna: avanti Popolari con Vox, Sanchez sogna una difficile rimonta",
-   "summary": "Dopo le proteste per la crisi abitativa e la bocciatura dei decreti per la casa proposti dal premier socialista, il Paese torna alle urne. Secondo gli ultimi sondaggi, l'asse Feijóo-Abascal consentirebbe alle destre di andare al governo",
-   "link": "https://www.rainews.it/articoli/2026/11/domenica-il-voto-anticipato-in-spagna-avanti-popolari-con-vox-sanchez-sogna-una-difficile-rimonta-db411959-fd02-4782-b497-044d1ade7a4c.html",
-   "pub_ts": 1795537320,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/domenica-il-voto-anticipato-in-spagna-avanti-popolari-con-vox-sanchez-sogna-una-difficile-rimonta-db411959-fd02-4782-b497-044d1ade7a4c.html",
-     "title": "Domenica il voto anticipato in Spagna: avanti Popolari con Vox, Sanchez sogna una difficile rimonta"
-    },
     {
      "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/spagna-domenica-il-voto-anticipato-la-guida-dalle-urne-ai-possibili-governi_3Zhn5fngBlkiZd5r7t1v99",
-     "title": "Spagna, domenica il voto anticipato: la guida dalle urne ai possibili governi"
+     "link": "https://www.adnkronos.com/internazionale/esteri/morbillo-contagi-italia-europa-usa_yVJ7ztJoXFT0bIOKFOs0X",
+     "title": "Morbillo, negli Usa 14 morti nel 2026. Italia maglia nera in Ue per casi in un anno"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/rubriche/tg2italia/video/2026/11/TG2-Italia-Europa-del-25112026-6bfead6b-6cd5-4743-acaa-0f27a4083864.html",
+     "title": "TG2 Italia Europa del 25/11/2026"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Il video di Volodymyr Zelensky e Péter Magyar che giocano a pallavolo",
+   "summary": "",
+   "link": "https://www.ilpost.it/flashes/volodymyr-zelensky-peter-magyar-pallavolo/",
+   "pub_ts": 1795606634,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/flashes/volodymyr-zelensky-peter-magyar-pallavolo/",
+     "title": "Il video di Volodymyr Zelensky e Péter Magyar che giocano a pallavolo"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/il-fuoriprogramma-zelensky-e-il-premier-ungherese-magyar-giocano-a-pallavolo-in-ucraina-0bb465de-455c-4c2d-adc9-0f6be1df5871.html",
+     "title": "Il fuoriprogramma: Zelensky e il premier ungherese Magyar giocano a pallavolo in Ucraina"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Usa, Cnn: router difettoso in Arkansas probabile causa blocco nazionale dei voli",
+   "summary": "(Adnkronos) - Secondo gli investigatori della Federal Aviation Administration, l'interazione tra il nuovo dispositivo e router più vecchi avrebbe causato il guasto alla rete di controllo aereo",
+   "link": "https://www.adnkronos.com/internazionale/esteri/blocco-voli-usa-causa-router-difettoso_2jHELWNNCwZlLVD0SaAain",
+   "pub_ts": 1795601472,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/blocco-voli-usa-causa-router-difettoso_2jHELWNNCwZlLVD0SaAain",
+     "title": "Usa, Cnn: router difettoso in Arkansas probabile causa blocco nazionale dei voli"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/25/usa-blocco-voli-router-arkansas/",
+     "title": "«Il blocco dei voli in Usa? Colpa di un router difettoso in Arkansas»"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Riammesso l'emendamento FdI su exit tax. Pressing di Salvini sul condono",
-   "summary": "Meloni vede i comuni e apre sul fondo affitti. Si tratta con il Mef su flat tax giovani",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/pressing-di-salvini-sul-condono.-alt-dei-sindaci-non-ricada-tutto_afb633f3-0b1a-4acd-8a7c-858433efc830.html",
-   "pub_ts": 1795556111,
-   "n_sources": 1,
-   "documented": false,
+   "title": "Cosa dicono gli ultimi sondaggi per le elezioni spagnole",
+   "summary": "I Socialisti del primo ministro Pedro Sánchez stanno recuperando, ma non abbastanza per vincere contro le destre: si vota domenica",
+   "link": "https://www.ilpost.it/2026/11/24/sondaggi-spagna-finali/",
+   "pub_ts": 1795599952,
+   "n_sources": 2,
+   "documented": true,
    "sources": [
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/pressing-di-salvini-sul-condono.-alt-dei-sindaci-non-ricada-tutto_afb633f3-0b1a-4acd-8a7c-858433efc830.html",
-     "title": "Riammesso l'emendamento FdI su exit tax. Pressing di Salvini sul condono"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/24/sondaggi-spagna-finali/",
+     "title": "Cosa dicono gli ultimi sondaggi per le elezioni spagnole"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/spagna-a-un-passo-dal-voto-cosa-dicono-i-sondaggi-ora-vietati/",
+     "title": "Spagna a un passo dal voto, cosa dicono i sondaggi (ora vietati)"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
-   "summary": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
-   "pub_ts": 1795561675,
-   "n_sources": 5,
+   "title": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'",
+   "summary": "'Dica la verità davanti al Congresso, non deve avvalersi del Quinto emendamento'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_069eddfd-e1fe-47e4-933e-f9f07f338bac.html",
+   "pub_ts": 1795595940,
+   "n_sources": 6,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
-     "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_069eddfd-e1fe-47e4-933e-f9f07f338bac.html",
+     "title": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'"
+    },
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/trump-nella-bufera-per-nvidia-ombre-di-insider-trading_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
+     "title": "Jensen Huang chiede scusa e annuncia: 'Sto andando in terapia'"
+    },
+    {
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/jensen-huang-nega-intervento-donald-trump/",
+     "title": "Jensen Huang nega l’intervento in suo favore di Donald Trump"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/25/jensen-huang-scuse-nvidia/",
+     "title": "Jensen Huang ha detto di aver commesso «errori terribili»"
     },
     {
      "name": "Adnkronos Esteri",
@@ -288,97 +273,87 @@
      "title": "Nvidia, Financial Times: Trump ha guadagnato fino a 15 milioni di dollari con il ritorno di Huang"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/24/ruolo-trump-ritorno-huang-capo-ceo-nvidia/",
-     "title": "Donald Trump e il ritorno di Jensen Huang a capo di Nvidia"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/trump-nvia-huang-torna-amministratore-delegato-tny08092",
-     "title": "Non c’è spia che tenga. Trump salva Huang, che torna a capo di Nvidia"
-    },
-    {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/economia-finanza/ef-economia/jensen-huang-torna-ceo-nvidia-trump-musk-titolo-wall-street/",
-     "title": "Nvidia, colpo di scena: Huang torna al comando. E ora che succede?"
+     "link": "https://www.nicolaporro.it/jensen-huang-si-cura-dalla-figa/",
+     "title": "Jensen Huang si cura dalla figa"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Il Museo Egizio inaugura un nuovo linguaggio: nella sala immersiva dati e IA danno voce ai reperti",
-   "summary": "Si chiama “ECO. Paesaggi in trasformazione” il primo progetto della sala inaugurata a Torino: trenta metri di ledwall e dati astronomici, paleoclimatici e satellitari tradotti in immagini con diverse IA, tra cui Claude. Ma le parole restano dei curatori",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/il_museo_egizio_inaugura_un_nuovo_linguaggio_nella_sala_immersiva_dati_e_ia_danno_voce_ai_reperti-425745929/?rss",
-   "pub_ts": 1795513327,
+   "title": "Editoria, +2.5% il mercato del libro trade nel 2026 grazie al Bonus biblioteche",
+   "summary": "I dati Aie il 4 dicembre alla fiera Più Libri Più Liberi a Roma",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/25/editoria-2.5-il-mercato-del-libro-trade-nel-2026-grazie-al-bonus_2b8cc811-7aa5-4a6e-a3f8-1fc2bd894888.html",
+   "pub_ts": 1795608093,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/il_museo_egizio_inaugura_un_nuovo_linguaggio_nella_sala_immersiva_dati_e_ia_danno_voce_ai_reperti-425745929/?rss",
-     "title": "Il Museo Egizio inaugura un nuovo linguaggio: nella sala immersiva dati e IA danno voce ai reperti"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/25/editoria-2.5-il-mercato-del-libro-trade-nel-2026-grazie-al-bonus_2b8cc811-7aa5-4a6e-a3f8-1fc2bd894888.html",
+     "title": "Editoria, +2.5% il mercato del libro trade nel 2026 grazie al Bonus biblioteche"
     },
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/museo-egizio-torino-ledwall-30-metri_7I9sOz5nGHwIIIpYbd4aRJ",
-     "title": "Al Museo Egizio di Torino la nuova frontiera del racconto: apre la sala immersiva"
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/24/assintel-nel-2026-31-il-mercato-ict-a-684-miliardi.-40-lia_2c0b9651-970c-41c1-ba2a-801bcd852222.html",
+     "title": "Assintel, 'nel 2026 +3,1% il mercato Ict a 68,4 miliardi. +40% l'IA'"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "Quattro chatbot IA hanno fornito piani per attentati nei test Usa. Abbiamo fatto una prova",
-   "summary": "I test condotti per conto del Congresso americano su ChatGpt, Claude, Gemini e Grok hanno dimostrato che, malgrado i sistemi di sicurezza, tutti e quattro i chatbot possono fornire informazioni sufficienti a pianificare attacchi terroristici. Abbiamo fatto un tentativo anche...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/chatbot_ia_piani_attentati_test_usa-425747456/?rss",
-   "pub_ts": 1795551495,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Repubblica Tecnologia",
-     "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/chatbot_ia_piani_attentati_test_usa-425747456/?rss",
-     "title": "Quattro chatbot IA hanno fornito piani per attentati nei test Usa. Abbiamo fatto una prova"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Anthropic cambia le regole per proteggere le chat delle aziende con l'IA",
-   "summary": "I clienti potranno salvare le conversazioni sui propri server senza inviarle alla società",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/24/anthropic-cambia-le-regole-per-proteggere-le-chat-delle-aziende-con-lia_835d37e4-a49d-478b-a165-4adfb819e8a1.html",
-   "pub_ts": 1795546946,
+   "title": "Google vuole creare un canale tv basato sull'IA, anche l'utente protagonista",
+   "summary": "Un brevetto depositato dalla società offre lo sguardo su come vede il futuro dei contenuti",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/25/google-vuole-creare-un-canale-tv-basato-sullia-anche-lutente-protagonista_03b4d8ae-548d-4932-beec-c0a71c3291e0.html",
+   "pub_ts": 1795608175,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/24/anthropic-cambia-le-regole-per-proteggere-le-chat-delle-aziende-con-lia_835d37e4-a49d-478b-a165-4adfb819e8a1.html",
-     "title": "Anthropic cambia le regole per proteggere le chat delle aziende con l'IA"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/25/google-vuole-creare-un-canale-tv-basato-sullia-anche-lutente-protagonista_03b4d8ae-548d-4932-beec-c0a71c3291e0.html",
+     "title": "Google vuole creare un canale tv basato sull'IA, anche l'utente protagonista"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "È online MinervaE, l'IA italiana che 'ragiona' e sfida i modelli stranieri",
+   "summary": "Sapienza e Babelscape pubblicano il nuovo modello che primeggia sulla cultura italiana",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/25/e-online-minervae-lia-italiana-che-ragiona-e-sfida-i-modelli-stranieri_c4e838f1-a5c9-4fe5-b494-0b319dfb338d.html",
+   "pub_ts": 1795608173,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/25/e-online-minervae-lia-italiana-che-ragiona-e-sfida-i-modelli-stranieri_c4e838f1-a5c9-4fe5-b494-0b319dfb338d.html",
+     "title": "È online MinervaE, l'IA italiana che 'ragiona' e sfida i modelli stranieri"
     }
    ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Mannoia e Conti contro la violenza sulle donne, torna Una Nessuna Centomila",
-   "summary": "Al concerto-evento tanti vip, da Ligabue a Laura Pausini, per sostenere i centri",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/una-nessuna-centomila-mannoia-e-conti-su-rai1-contro-la-violenza-sulle-donne_b027b7a7-2974-4c7b-8c82-2ddbf43007a4.html",
-   "pub_ts": 1795550280,
+   "title": "Biennale Arte, a Nick Cave e all'India i 'Leoni dei visitatori'",
+   "summary": "Buttafuoco, 'La Biennale trabocca di nuova energia attraverso la presenza di tutti'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/25/biennale-arte-a-nick-cave-e-allindia-i-leoni-dei-visitatori_1fe1bb5f-58b7-4af5-8b3c-685375a36e83.html",
+   "pub_ts": 1795602977,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/una-nessuna-centomila-mannoia-e-conti-su-rai1-contro-la-violenza-sulle-donne_b027b7a7-2974-4c7b-8c82-2ddbf43007a4.html",
-     "title": "Mannoia e Conti contro la violenza sulle donne, torna Una Nessuna Centomila"
+     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/25/biennale-arte-a-nick-cave-e-allindia-i-leoni-dei-visitatori_1fe1bb5f-58b7-4af5-8b3c-685375a36e83.html",
+     "title": "Biennale Arte, a Nick Cave e all'India i 'Leoni dei visitatori'"
     },
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/donne-nessuna-vittima-di-violenza-e-sola-rete-nazionale-forense-f79e9524-fb79-4ce9-aa00-df6378604596.html",
-     "title": "Nessuna vittima di violenza è sola"
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/biennale-arte-2026-nick-cave-e-lindia-vincono-i-leoni-dei-visitatori-oltre-714mila-presenze-alla-mostra_2vyLyDCyT0VhF9OCYHnO6T",
+     "title": "Biennale Arte 2026, Nick Cave e l'India vincono i Leoni dei Visitatori. Oltre 714mila presenze alla Mostra"
     }
    ],
    "subtype": "cultura"
@@ -389,7 +364,7 @@
    "title": "Favino a Belve, 'fino da ragazzo sento delle presenze, ancora oggi'",
    "summary": "Si racconta a Fagnani: \"In Suburra mi sono vergognato molto per una scena di sesso\"",
    "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/favino-a-belve-fino-da-ragazzo-sento-delle-presenze-ancora-oggi_83701d22-2330-464a-94f6-b7fa288f70cf.html",
-   "pub_ts": 1795542960,
+   "pub_ts": 1795586400,
    "n_sources": 2,
    "documented": true,
    "sources": [
@@ -400,8 +375,31 @@
     },
     {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/belve-totti-su-di-me-hanno-mangiato-in-tanti-favino-fin-da-ragazzo-sento-delle-presenze-4f3aa976-7d62-4108-b4fb-ac42ed24a4aa.html",
-     "title": "Belve, Totti: \"Su di me hanno mangiato in tanti\". Favino: \"Fin da ragazzo sento delle presenze\""
+     "link": "https://www.rainews.it/video/2026/11/belve-favino-fin-da-ragazzo-sento-delle-presenze-36e40f7c-0b47-4f49-a7d0-64d9e40bcb5b.html",
+     "title": "Pierfrancesco Favino: \"Fin da ragazzo sento delle presenze\""
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Snobbata la Batmobile, la vettura rimasta invenduta all'asta di Los Angeles",
+   "summary": "Era stimata tra i 5 e 7 milioni di dollari. Le offerte si sono fermate e 3,25 milioni",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/24/snobbata-la-batmobile-la-vettura-rimasta-invenduta-allasta-di-los-angeles_ea811cf3-7427-4a71-8984-aa38026a58be.html",
+   "pub_ts": 1795544357,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/24/snobbata-la-batmobile-la-vettura-rimasta-invenduta-allasta-di-los-angeles_ea811cf3-7427-4a71-8984-aa38026a58be.html",
+     "title": "Snobbata la Batmobile, la vettura rimasta invenduta all'asta di Los Angeles"
+    },
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/24/snobbata-la-batmobile-la-vettura-rimasta-invenduta-allasta-di-los-angeles_ed462989-4160-49e3-93ae-e92a744204e2.html",
+     "title": "Snobbata la Batmobile, la vettura rimasta invenduta all'asta di Los Angeles"
     }
    ],
    "subtype": "cultura"
@@ -451,97 +449,15 @@
     }
    ],
    "subtype": "scienza"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Che cosa è la sindrome della bandelletta ileotibiale che ha colpito Sinner",
-   "summary": "Detta anche 'ginocchio del corridore', è un sovraccarico della fascia lungo il lato esterno della coscia",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/che-cosa-e-la-sindrome-della-bandelletta-ileotibiale-che-ha-colpito-sinner_3b7bc93c-09ea-4ded-a5d7-ab22f8584d8a.html",
-   "pub_ts": 1795535947,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/che-cosa-e-la-sindrome-della-bandelletta-ileotibiale-che-ha-colpito-sinner_3b7bc93c-09ea-4ded-a5d7-ab22f8584d8a.html",
-     "title": "Che cosa è la sindrome della bandelletta ileotibiale che ha colpito Sinner"
-    },
-    {
-     "name": "Repubblica Salute",
-     "link": "https://www.repubblica.it/salute/2026/11/23/news/operazione_di_sinner_al_ginocchio_tendine-425744077/?rss",
-     "title": "Cos’è la sindrome della bandelletta ileotibiale. E perché è chiamata la malattia dei runner"
-    }
-   ],
-   "subtype": "scienza"
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Donne vittime di violenza, in Italia una su tre ha figli",
-   "summary": "Save the children: 'Episodi su 1,6 milioni, nel 61,5% dei casi davanti ai figli'",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/donne-vittime-di-violenza-in-italia-una-su-tre-ha-figli_1c2f930c-4f33-4d6a-a1be-98e49b46786e.html",
-   "pub_ts": 1795548833,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/donne-vittime-di-violenza-in-italia-una-su-tre-ha-figli_1c2f930c-4f33-4d6a-a1be-98e49b46786e.html",
-     "title": "Donne vittime di violenza, in Italia una su tre ha figli"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/violenza-adolescenti-sono-piu-43-milioni-vititme-mondo-oms-AJVSG8KC",
-     "title": "Violenza sulle adolescenti: sono più di 43 milioni le vititme al mondo (Oms)"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/italia-6-milioni-donne-violenza-fisica-o-sessuale-assistita-figli-dati-save-the-children-q9q815y4",
-     "title": "In Italia oltre 6 milioni di donne hanno subito violenza fisica o sessuale"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/24/violenza-donne-italia-vittime-notizie/8582713/",
-     "title": "Violenza sulle donne, in Italia 6 milioni di vittime. Una su 3 ha figli e nel 61,5% dei casi questi hanno assistito agli abusi"
-    }
-   ]
   }
  ],
  "articles": [
   {
-   "title": "Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_81c02eb9-c2c4-4eea-9027-224f1c5e65eb.html",
-   "description": "'Non sono al di sopra del codice di condotta'",
-   "pub_ts": 1795559640,
-   "source": "ANSA Mondo",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_f3e0fbf4-94aa-4551-bf7f-d5447c931320.html",
-   "description": "Freedom è stato 'perdonato', di Feathers non si hanno tracce ma amministrazione rassicura",
-   "pub_ts": 1795560171,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Putin signore della guerra in Africa, il traffico d’armi nel mirino di Kiev",
-   "link": "https://www.repubblica.it/esteri/2026/11/25/news/putin_signore_della_guerra_in_africa_traffico_armi_mirino_kiev-425747787/?rss",
-   "description": "Da anni il Cremlino usa la Cirenaica per controllare il Sahel. Ma gli ultimi attacchi mettono in forse tutti gli equilibri",
-   "pub_ts": 1795564800,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
    "title": "Antimafia divisa, forse il testamento di De Gennaro in commissione",
    "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/antimafia-divisa-forse-il-testamento-di-de-gennaro-in-commissione-_f547b6cf-2afa-4335-8e33-c8cb26ef8d53.html",
    "description": "L'opposizione: 'Si vedano le lettere e si ascolti Melillo'. Il centrodestra: 'Avanti su mafia e appalti'",
-   "pub_ts": 1795561260,
-   "source": "ANSA",
+   "pub_ts": 1795594385,
+   "source": "ANSA Politica",
    "source_priority": 1,
    "section": "politica"
   },
@@ -555,91 +471,118 @@
    "section": "politica"
   },
   {
-   "title": "Kiev: “Raid in Libia legittimi”. Tripoli condanna l’attacco. Stop Usa all’invio dei Patriot",
-   "link": "https://www.repubblica.it/esteri/2026/11/25/news/kiev_raid_libia_legittimi_italia_preoccupata_usa_fermano_patriot-425747694/?rss",
-   "description": "Tajani sente l’omologo ucraino dopo l’attacco alle due navi russe. Ritorsione del Pentagono. L’ira di Zelensky: “Si muovono in linea di Putin”",
-   "pub_ts": 1795564800,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Eisenkot stringe sul governo, la prossima settimana alla Knesset",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/eisenkot-stringe-sul-governo-la-prossima-settimana-alla-knesset_34a6adfc-638b-4ddc-ad5a-cbe7b13748ed.html",
-   "description": "'Verso un esecutivo ristretto'. Alta Corte ordina un intervento contro le violenze dei coloni",
-   "pub_ts": 1795545026,
+   "title": "Israele, Change bloc punta a insediare un nuovo governo mercoledì prossimo",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/israele-change-bloc-punta-a-insediare-un-nuovo-governo-mercoledi-prossimo_d382b6df-0b01-413e-94f9-859e88c479f3.html",
+   "description": "'Liberman, ci sarà un governo di maggioranza ebraica'",
+   "pub_ts": 1795606410,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Ciriani pone la fiducia al decreto scuola all'esame della Camera",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/ciriani-pone-la-fiducia-al-decreto-scuola-allesame-della-camera_26116dde-43cc-4384-97bd-b24e58491a78.html",
-   "description": "Il provvedimento è stato già approvato dal Senato",
-   "pub_ts": 1795526640,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Domenica il voto anticipato in Spagna: avanti Popolari con Vox, Sanchez sogna una difficile rimonta",
-   "link": "https://www.rainews.it/articoli/2026/11/domenica-il-voto-anticipato-in-spagna-avanti-popolari-con-vox-sanchez-sogna-una-difficile-rimonta-db411959-fd02-4782-b497-044d1ade7a4c.html",
-   "description": "Dopo le proteste per la crisi abitativa e la bocciatura dei decreti per la casa proposti dal premier socialista, il Paese torna alle urne. Secondo gli ultimi sondaggi, l'asse Feijóo-Abascal consentirebbe alle destre di andare al governo",
-   "pub_ts": 1795537320,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Riammesso l'emendamento FdI su exit tax. Pressing di Salvini sul condono",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/pressing-di-salvini-sul-condono.-alt-dei-sindaci-non-ricada-tutto_afb633f3-0b1a-4acd-8a7c-858433efc830.html",
-   "description": "Meloni vede i comuni e apre sul fondo affitti. Si tratta con il Mef su flat tax giovani",
-   "pub_ts": 1795556111,
+   "title": "Manovra, riunione governo-maggioranza a Palazzo Chigi con Mantovano e Giorgetti",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/25/manovra-riunione-governo-maggioranza-a-palazzo-chigi-con-mantovano-e-giorgetti_89646261-4185-4169-ae7b-46ca88eab534.html",
+   "description": "Partecipano anche Perrotta, Ciriani, Mangialavori, capigruppo e relatori",
+   "pub_ts": 1795605780,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Nvidia si riprende Jensen Huang: così il board ha cambiato idea",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/23/news/jensen-huang-nvidia-ritorno-ceo-425744335/?rss",
-   "description": "Il consiglio che aveva escluso il ritorno del fondatore lo reintegra all’unanimità. Sullo sfondo le pressioni di Trump, mentre il New York Times rivela nuovi contatti di Alice Huang con gli 007 cinesi",
-   "pub_ts": 1795561675,
-   "source": "Repubblica Tecnologia",
+   "title": "Mattarella: 'Uscire dalla violenza è possibile, non dipende solo dal coraggio di una donna'",
+   "link": "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/mattarella-uscire-da-violenza-e-possibile-non-dipende-solo-dal-coraggio-di-una_41fb8ea3-bf35-4d18-b6f2-6281126d08a1.html",
+   "description": "Messaggio per la Giornata internazionale per l'eliminazione della violenza contro le donne: 'Le istituzioni garantiscano protezione, accompagnamento, giustizia. Si promuova l'educazione'. Meloni: 'Nessuna vittima resti sola'",
+   "pub_ts": 1795604564,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Pechino sul caso Huawei, 'ci opponiamo a repressione di nostre aziende dagli Usa'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/pechino-sul-caso-huawei-ci-opponiamo-a-repressione-di-nostre-aziende-dagli-usa_5ecb6989-cc80-4183-84b5-bfc3adf85b3c.html",
+   "description": "",
+   "pub_ts": 1795595492,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Morbillo, negli Usa 14 morti nel 2026. Italia maglia nera in Ue per casi in un anno",
+   "link": "https://www.adnkronos.com/internazionale/esteri/morbillo-contagi-italia-europa-usa_yVJ7ztJoXFT0bIOKFOs0X",
+   "description": "(Adnkronos) - Terzo morto in Wisconsin: continua ad aggravarsi il bilancio della malattia negli States dove 6 decessi riguardano bambini.",
+   "pub_ts": 1795608534,
+   "source": "Adnkronos Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Il video di Volodymyr Zelensky e Péter Magyar che giocano a pallavolo",
+   "link": "https://www.ilpost.it/flashes/volodymyr-zelensky-peter-magyar-pallavolo/",
+   "description": "",
+   "pub_ts": 1795606634,
+   "source": "Il Post",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Usa, Cnn: router difettoso in Arkansas probabile causa blocco nazionale dei voli",
+   "link": "https://www.adnkronos.com/internazionale/esteri/blocco-voli-usa-causa-router-difettoso_2jHELWNNCwZlLVD0SaAain",
+   "description": "(Adnkronos) - Secondo gli investigatori della Federal Aviation Administration, l'interazione tra il nuovo dispositivo e router più vecchi avrebbe causato il guasto alla rete di controllo aereo",
+   "pub_ts": 1795601472,
+   "source": "Adnkronos Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Cosa dicono gli ultimi sondaggi per le elezioni spagnole",
+   "link": "https://www.ilpost.it/2026/11/24/sondaggi-spagna-finali/",
+   "description": "I Socialisti del primo ministro Pedro Sánchez stanno recuperando, ma non abbastanza per vincere contro le destre: si vota domenica",
+   "pub_ts": 1795599952,
+   "source": "Il Post",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_069eddfd-e1fe-47e4-933e-f9f07f338bac.html",
+   "description": "'Dica la verità davanti al Congresso, non deve avvalersi del Quinto emendamento'",
+   "pub_ts": 1795595940,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Il Museo Egizio inaugura un nuovo linguaggio: nella sala immersiva dati e IA danno voce ai reperti",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/il_museo_egizio_inaugura_un_nuovo_linguaggio_nella_sala_immersiva_dati_e_ia_danno_voce_ai_reperti-425745929/?rss",
-   "description": "Si chiama “ECO. Paesaggi in trasformazione” il primo progetto della sala inaugurata a Torino: trenta metri di ledwall e dati astronomici, paleoclimatici e satellitari tradotti in immagini con diverse IA, tra cui Claude. Ma le parole restano dei curatori",
-   "pub_ts": 1795513327,
-   "source": "Repubblica Tecnologia",
+   "title": "Editoria, +2.5% il mercato del libro trade nel 2026 grazie al Bonus biblioteche",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/25/editoria-2.5-il-mercato-del-libro-trade-nel-2026-grazie-al-bonus_2b8cc811-7aa5-4a6e-a3f8-1fc2bd894888.html",
+   "description": "I dati Aie il 4 dicembre alla fiera Più Libri Più Liberi a Roma",
+   "pub_ts": 1795608093,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Quattro chatbot IA hanno fornito piani per attentati nei test Usa. Abbiamo fatto una prova",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/24/news/chatbot_ia_piani_attentati_test_usa-425747456/?rss",
-   "description": "I test condotti per conto del Congresso americano su ChatGpt, Claude, Gemini e Grok hanno dimostrato che, malgrado i sistemi di sicurezza, tutti e quattro i chatbot possono fornire informazioni sufficienti a pianificare attacchi terroristici. Abbiamo fatto un tentativo anche...",
-   "pub_ts": 1795551495,
-   "source": "Repubblica Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Anthropic cambia le regole per proteggere le chat delle aziende con l'IA",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/24/anthropic-cambia-le-regole-per-proteggere-le-chat-delle-aziende-con-lia_835d37e4-a49d-478b-a165-4adfb819e8a1.html",
-   "description": "I clienti potranno salvare le conversazioni sui propri server senza inviarle alla società",
-   "pub_ts": 1795546946,
+   "title": "Google vuole creare un canale tv basato sull'IA, anche l'utente protagonista",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/25/google-vuole-creare-un-canale-tv-basato-sullia-anche-lutente-protagonista_03b4d8ae-548d-4932-beec-c0a71c3291e0.html",
+   "description": "Un brevetto depositato dalla società offre lo sguardo su come vede il futuro dei contenuti",
+   "pub_ts": 1795608175,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Mannoia e Conti contro la violenza sulle donne, torna Una Nessuna Centomila",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/una-nessuna-centomila-mannoia-e-conti-su-rai1-contro-la-violenza-sulle-donne_b027b7a7-2974-4c7b-8c82-2ddbf43007a4.html",
-   "description": "Al concerto-evento tanti vip, da Ligabue a Laura Pausini, per sostenere i centri",
-   "pub_ts": 1795550280,
+   "title": "È online MinervaE, l'IA italiana che 'ragiona' e sfida i modelli stranieri",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/25/e-online-minervae-lia-italiana-che-ragiona-e-sfida-i-modelli-stranieri_c4e838f1-a5c9-4fe5-b494-0b319dfb338d.html",
+   "description": "Sapienza e Babelscape pubblicano il nuovo modello che primeggia sulla cultura italiana",
+   "pub_ts": 1795608173,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Biennale Arte, a Nick Cave e all'India i 'Leoni dei visitatori'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/25/biennale-arte-a-nick-cave-e-allindia-i-leoni-dei-visitatori_1fe1bb5f-58b7-4af5-8b3c-685375a36e83.html",
+   "description": "Buttafuoco, 'La Biennale trabocca di nuova energia attraverso la presenza di tutti'",
+   "pub_ts": 1795602977,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -648,8 +591,17 @@
    "title": "Favino a Belve, 'fino da ragazzo sento delle presenze, ancora oggi'",
    "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/24/favino-a-belve-fino-da-ragazzo-sento-delle-presenze-ancora-oggi_83701d22-2330-464a-94f6-b7fa288f70cf.html",
    "description": "Si racconta a Fagnani: \"In Suburra mi sono vergognato molto per una scena di sesso\"",
-   "pub_ts": 1795542960,
+   "pub_ts": 1795586400,
    "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Snobbata la Batmobile, la vettura rimasta invenduta all'asta di Los Angeles",
+   "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/24/snobbata-la-batmobile-la-vettura-rimasta-invenduta-allasta-di-los-angeles_ea811cf3-7427-4a71-8984-aa38026a58be.html",
+   "description": "Era stimata tra i 5 e 7 milioni di dollari. Le offerte si sono fermate e 3,25 milioni",
+   "pub_ts": 1795544357,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
@@ -670,24 +622,6 @@
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
-  },
-  {
-   "title": "Che cosa è la sindrome della bandelletta ileotibiale che ha colpito Sinner",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/che-cosa-e-la-sindrome-della-bandelletta-ileotibiale-che-ha-colpito-sinner_3b7bc93c-09ea-4ded-a5d7-ab22f8584d8a.html",
-   "description": "Detta anche 'ginocchio del corridore', è un sovraccarico della fascia lungo il lato esterno della coscia",
-   "pub_ts": 1795535947,
-   "source": "ANSA Salute",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Donne vittime di violenza, in Italia una su tre ha figli",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/donne-vittime-di-violenza-in-italia-una-su-tre-ha-figli_1c2f930c-4f33-4d6a-a1be-98e49b46786e.html",
-   "description": "Save the children: 'Episodi su 1,6 milioni, nel 61,5% dei casi davanti ai figli'",
-   "pub_ts": 1795548833,
-   "source": "ANSA Cronaca",
-   "source_priority": 1,
-   "section": "cronaca"
   }
  ]
 }
