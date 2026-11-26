@@ -1,6 +1,6 @@
 {
- "generated_at": 1795645107,
- "updated_at": 1795645107,
+ "generated_at": 1795668657,
+ "updated_at": 1795668657,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -10,11 +10,43 @@
   {
    "category": "politica",
    "area": "mondo",
+   "title": "Una no-fly zone al confine con l’Ucraina, la Polonia risponde alle incursioni russe",
+   "summary": "Varsavia chiede alla Nato di poter abbattere i missili prima che sconfinino: “Viviamo in condizioni prebelliche”",
+   "link": "https://www.repubblica.it/esteri/2026/11/26/news/no-fly_zone_al_confine_ucraina_polonia_risposta_a_incursioni_russe-425750359/?rss",
+   "pub_ts": 1795651200,
+   "n_sources": 4,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/26/news/no-fly_zone_al_confine_ucraina_polonia_risposta_a_incursioni_russe-425750359/?rss",
+     "title": "Una no-fly zone al confine con l’Ucraina, la Polonia risponde alle incursioni russe"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/zelensky-continueremo-attacchi-aerei-e-navi-russi-sono-obiettivi-legittimi_276dba84-87a6-4362-9a70-41f2312001ed.html",
+     "title": "Zelensky, 'continueremo attacchi, aerei e navi russi sono obiettivi legittimi'"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-polonia-no-fly-zone_7rpvqrjJUNmpGhoEuCNmCT",
+     "title": "Ucraina, Polonia istituirà no-fly zone vicino al confine. Zelensky: \"Aerei e navi russi obiettivi legittimi\""
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/25/polonia-no-fly-zone-confine-ucraina/",
+     "title": "La Polonia vuole istituire una “no fly zone” sul confine con l’Ucraina"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
    "title": "Usa propongono nuovi dazi per Cina, Ue e altri 12 paesi",
    "summary": "Per Bruxelles fino al 15%",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/25/usa-propongono-nuovi-dazi-per-cina-ue-e-altri-12-paesi_e8a74284-556f-4bc3-a6d5-1a441633372f.html",
    "pub_ts": 1795632660,
-   "n_sources": 5,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -28,19 +60,9 @@
      "title": "Trump rilancia sui dazi: nel mirino Europa, Cina e altri 12 partner"
     },
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/25/news/usa_dazi_ue_cina-425749412/",
-     "title": "Gli Usa lanciano nuovi dazi verso Cina, Ue e altri paesi. Possibile rialzo al 20% per l’Europa"
-    },
-    {
      "name": "Adnkronos Esteri",
      "link": "https://www.adnkronos.com/internazionale/esteri/trump-nuovi-dazi-14-paesi-cina-ue_11Wz2nJGXFR24kacfx2LkD",
      "title": "Trump prepara nuovi dazi, nel mirino 14 Paesi: colpite anche Cina e Ue"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/trump-pronto-nuovi-dazi-contro-cina-e-ue-AJa0CJRC",
-     "title": "Trump pronto a nuovi dazi contro Cina, Ue e altri Paesi"
     }
    ]
   },
@@ -73,50 +95,23 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "L'AI spaventa Wall Street e l'Europa",
-   "summary": "Le borse vanno in netto rosso e poi recuperano leggermente dopo l'apertura di Wall Street, avvenuta nel segno del crollo dei titoli tecnologici e in particolare quelli legati all'Intelligenza artificiale",
-   "link": "https://www.rainews.it/articoli/2026/11/ai-spaventa-wall-street-europa-34a238f7-b1ca-400a-ae8c-44296ef75d61.html",
-   "pub_ts": 1795633445,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/ai-spaventa-wall-street-europa-34a238f7-b1ca-400a-ae8c-44296ef75d61.html",
-     "title": "L'AI spaventa Wall Street e l'Europa"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/economia/2026/11/25/diretta/le_borse_di_oggi_25_novembre-425748269/",
-     "title": "Le Borse di oggi, 25 novembre. Wall street: dj passa in positivo, Nasdaq -1,2%"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/25/wall-street-crollo-tech-dazi-inflazione-notizie/8583787/",
-     "title": "Wall Street affonda di nuovo: il tech crolla con Nvidia. Pesano AI, dazi e paura dell’inflazione"
-    }
-   ]
-  },
-  {
-   "category": "politica",
    "area": "mondo",
-   "title": "La Polonia creerà una no-fly zone al confine con l'Ucraina",
-   "summary": "Viceministro: 'una piccola zona entro fine anno o inizio 2027'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/la-polonia-creera-una-no-fly-zone-al-confine-con-lucraina_5649fc66-47dc-441c-ac1d-564f73422951.html",
-   "pub_ts": 1795644509,
+   "title": "Trump offre la grazia a Huang, in caso di incriminazione Nvidia crolla a Wall Street",
+   "summary": "La rassicurazione della Casa Bianca: “Non ci sono inchieste penali a suo carico può testimoniare al Congresso. E il perdono è sempre un’opzione possibile”",
+   "link": "https://www.repubblica.it/esteri/2026/11/26/news/trump_offre_la_grazia_a_huang_incriminazione_nvidia_crolla_a_wall_street-425750551/?rss",
+   "pub_ts": 1795651200,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/la-polonia-creera-una-no-fly-zone-al-confine-con-lucraina_5649fc66-47dc-441c-ac1d-564f73422951.html",
-     "title": "La Polonia creerà una no-fly zone al confine con l'Ucraina"
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/26/news/trump_offre_la_grazia_a_huang_incriminazione_nvidia_crolla_a_wall_street-425750551/?rss",
+     "title": "Trump offre la grazia a Huang, in caso di incriminazione Nvidia crolla a Wall Street"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/25/polonia-no-fly-zone-confine-ucraina/",
-     "title": "La Polonia vuole istituire una “no fly zone” sul confine con l’Ucraina"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/ai-spaventa-wall-street-europa-34a238f7-b1ca-400a-ae8c-44296ef75d61.html",
+     "title": "L'AI spaventa Wall Street e l'Europa"
     }
    ]
   },
@@ -139,50 +134,6 @@
      "name": "Nicola Porro",
      "link": "https://www.nicolaporro.it/polonia-un-uomo-si-da-fuoco-davanti-al-palazzo-presidenziale/",
      "title": "Polonia, un uomo si dà fuoco davanti al palazzo presidenziale"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "La guerra ha distrutto l’ambiente di Gaza: sostanze tossiche e danni “per le generazioni a venire”",
-   "summary": "La denuncia di Oxfam: il 99% del territorio della Striscia è stato contaminato dai veleni rilasciati dalle armi",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/gaza_ambiente_guerra_sostanze_tossiche_oxfam-425746366/?rss",
-   "pub_ts": 1795637040,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/24/news/gaza_ambiente_guerra_sostanze_tossiche_oxfam-425746366/?rss",
-     "title": "La guerra ha distrutto l’ambiente di Gaza: sostanze tossiche e danni “per le generazioni a venire”"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/a-gaza-durante-la-guerra-e-stato-difficile-anche-venire-alla-luce-da5fb479-0e0d-4e20-a329-6a4a21e73b80.html",
-     "title": "A Gaza, durante la guerra, è stato difficile anche venire alla luce"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Zelensky, 'continueremo attacchi, aerei e navi russi sono obiettivi legittimi'",
-   "summary": "Lo afferma il presidente ucraino Volodymyr Zelensky su X.",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/zelensky-continueremo-attacchi-aerei-e-navi-russi-sono-obiettivi-legittimi_276dba84-87a6-4362-9a70-41f2312001ed.html",
-   "pub_ts": 1795634349,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/zelensky-continueremo-attacchi-aerei-e-navi-russi-sono-obiettivi-legittimi_276dba84-87a6-4362-9a70-41f2312001ed.html",
-     "title": "Zelensky, 'continueremo attacchi, aerei e navi russi sono obiettivi legittimi'"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/25/diretta/guerra_ucraina_russia_news_oggi-425747890/",
-     "title": "Guerra Ucraina-Russia. Zelensky: “Continueremo gli attacchi, aerei e navi di Mosca sono obiettivi legittimi”"
     }
    ]
   },
@@ -232,55 +183,67 @@
   },
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Il governo ripristina l’elezione diretta dei presidenti delle province",
-   "summary": "Via libera in Cdm al disegno di legge delega al governo sul funzionamento delle province, i cui organi dal 2014 vengono eletti in modo indiretto e sono composti dai consiglieri comunali. Tutti i partiti di maggioranza rivendicano la riforma, ma mancano ancora certezze su come questi enti intermedi ritroveranno una centralità di funzioni",
-   "link": "https://www.editorialedomani.it/politica/italia/province-governo-elezione-diretta-presidenti-consiglio-ministri-cosa-cambia-yvi8vsvp",
-   "pub_ts": 1795638132,
+   "area": "mondo",
+   "title": "Gb, oggi in Parlamento l'accordo con l'Ue per il post-Brexit",
+   "summary": "Il testo, sostenuto dalla maggioranza laburista del premier Andy Burnham, dovrebbe ottenere un rapido via libera nonostante le critiche delle opposizioni, che accusano l'esecutivo di aver accettato passivamente le regole di Bruxelles",
+   "link": "https://www.rainews.it/articoli/2026/11/gb-oggi-in-parlamento-laccordo-con-lue-per-il-post-brexit-34648185-9537-45d8-ac03-52a7a549e72b.html",
+   "pub_ts": 1795653540,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/province-governo-elezione-diretta-presidenti-consiglio-ministri-cosa-cambia-yvi8vsvp",
-     "title": "Il governo ripristina l’elezione diretta dei presidenti delle province"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/gb-oggi-in-parlamento-laccordo-con-lue-per-il-post-brexit-34648185-9537-45d8-ac03-52a7a549e72b.html",
+     "title": "Gb, oggi in Parlamento l'accordo con l'Ue per il post-Brexit"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/25/province-elezione-diretta-meloni-riforma-notizie/8583850/",
-     "title": "Dalla promessa di abolizione alla restaurazione, Giorgia Meloni “resuscita” le Province: tornano le poltrone e l’elezione diretta"
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/newsletter/1c010e1c79ba9f7d8c4ae9e65ffde912/",
+     "title": "Evening Post, le storie di oggi"
     }
    ]
   },
   {
-   "category": "tech",
-   "area": null,
-   "title": "Jensen Huang è tornato alla guida di Nvidia",
-   "summary": "Usa inseriscono Megaspeed nella lista nera commerciale",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
-   "pub_ts": 1795621671,
-   "n_sources": 4,
+   "category": "politica",
+   "area": "italia",
+   "title": "Manovra, Meloni striglia i ministri. Per la sanità 500 milioni, arriva l’intesa sulle pensioni",
+   "summary": "La premier infastidita dalla pioggia di modifiche: “Tanto vi bocciamo tutto”. Si allenta la stretta sulle rivalutazioni, finanziata dagli assegni più elevati",
+   "link": "https://www.repubblica.it/economia/2026/11/26/news/manovra_meloni_emendamenti_ministri-425750674/",
+   "pub_ts": 1795651200,
+   "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
-     "title": "Jensen Huang è tornato alla guida di Nvidia"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/economia/2026/11/26/news/manovra_meloni_emendamenti_ministri-425750674/",
+     "title": "Manovra, Meloni striglia i ministri. Per la sanità 500 milioni, arriva l’intesa sulle pensioni"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_069eddfd-e1fe-47e4-933e-f9f07f338bac.html",
-     "title": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/manovra-vertice-a-palazzo-chigi-focus-su-pensioni-e-sanita-7eade0cb-9aa5-4a68-a897-c2f2c06c8182.html",
+     "title": "Manovra, vertice a palazzo Chigi: focus su pensioni e sanità"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Il traguardo di Federica Brignone, la scelta delle leggerezza contro la retorica del dolore",
+   "summary": "La leggenda azzurra dello sci ha annunciato il ritiro. A febbraio l’impresa dei due ori olimpici",
+   "link": "https://www.repubblica.it/sport/sci/2026/11/26/news/federica_brignone_addio_leggerezza_dolore_sci-425750450/",
+   "pub_ts": 1795651200,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/sport/sci/2026/11/26/news/federica_brignone_addio_leggerezza_dolore_sci-425750450/",
+     "title": "Il traguardo di Federica Brignone, la scelta delle leggerezza contro la retorica del dolore"
     },
     {
      "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/25/jensen-huang-scuse-nvidia/",
-     "title": "Jensen Huang ha detto di aver commesso «errori terribili»"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/jensen-huang-si-cura-dalla-figa/",
-     "title": "Jensen Huang si cura dalla figa"
+     "link": "https://www.ilpost.it/2026/11/25/federica-brignone-ritiro-sci-ultima-gara/",
+     "title": "Federica Brignone si ritira"
     }
    ]
   },
@@ -314,6 +277,33 @@
   {
    "category": "tech",
    "area": null,
+   "title": "Jensen Huang è tornato alla guida di Nvidia",
+   "summary": "Usa inseriscono Megaspeed nella lista nera commerciale",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
+   "pub_ts": 1795621671,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Tecnologia",
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
+     "title": "Jensen Huang è tornato alla guida di Nvidia"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/25/jensen-huang-scuse-nvidia/",
+     "title": "Jensen Huang ha detto di aver commesso «errori terribili»"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/jensen-huang-si-cura-dalla-figa/",
+     "title": "Jensen Huang si cura dalla figa"
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
    "title": "L'Ue propone il Quantum Act, obiettivo 50 miliardi per le tecnologie strategiche",
    "summary": "Il nuovo strumento prevede un fondo ad hoc e fornisce forme di finanziamento",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/25/lue-propone-il-quantum-act-obiettivo-50-miliardi-per-le-tecnologie-strategiche_6a374218-3207-4da3-802a-27359b7df0f8.html",
@@ -336,40 +326,30 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Editoria, +2.5% il mercato del libro trade nel 2026 grazie al Bonus biblioteche",
-   "summary": "I dati Aie il 4 dicembre alla fiera Più Libri Più Liberi a Roma",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/25/editoria-2.5-il-mercato-del-libro-trade-nel-2026-grazie-al-bonus_2b8cc811-7aa5-4a6e-a3f8-1fc2bd894888.html",
-   "pub_ts": 1795626144,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Google immagina un canale tv tutto basato sull'IA, gli utenti sono le star",
+   "summary": "Il progetto contenuto in un brevetto, protagonista anche la pubblicità",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/25/google-vuole-creare-un-canale-tv-basato-sullia-anche-lutente-protagonista_03b4d8ae-548d-4932-beec-c0a71c3291e0.html",
+   "pub_ts": 1795621959,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/25/editoria-2.5-il-mercato-del-libro-trade-nel-2026-grazie-al-bonus_2b8cc811-7aa5-4a6e-a3f8-1fc2bd894888.html",
-     "title": "Editoria, +2.5% il mercato del libro trade nel 2026 grazie al Bonus biblioteche"
-    },
-    {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/24/assintel-nel-2026-31-il-mercato-ict-a-684-miliardi.-40-lia_2c0b9651-970c-41c1-ba2a-801bcd852222.html",
-     "title": "Assintel, 'nel 2026 +3,1% il mercato Ict a 68,4 miliardi. +40% l'IA'"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/25/google-vuole-creare-un-canale-tv-basato-sullia-anche-lutente-protagonista_03b4d8ae-548d-4932-beec-c0a71c3291e0.html",
+     "title": "Google immagina un canale tv tutto basato sull'IA, gli utenti sono le star"
     }
    ]
   },
   {
    "category": "varia",
    "area": null,
-   "title": "Violenza sulle donne, le sorelle dominicane Mirabal all'origine della giornata Onu",
-   "summary": "Furono assassinate il 25 novembre 1960 dalla dittatura di Trujillo",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/violenza-sulle-donne-le-sorelle-dominicane-mirabal-allorigine-della-giornata-onu_b31ba29d-5f88-4713-ab2b-eef4280bb2e0.html",
-   "pub_ts": 1795637023,
-   "n_sources": 8,
+   "title": "25 novembre, la Giornata contro la violenza sulle donne TUTTI I VIDEO",
+   "summary": "Le manifestazioni e le iniziative. I video",
+   "link": "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/25-novembre-contro-la-violenza-sulle-donne-tutti-i-video_e2993453-7aeb-4dcf-bc4e-daa908cc8150.html",
+   "pub_ts": 1795651200,
+   "n_sources": 6,
    "documented": true,
    "sources": [
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/violenza-sulle-donne-le-sorelle-dominicane-mirabal-allorigine-della-giornata-onu_b31ba29d-5f88-4713-ab2b-eef4280bb2e0.html",
-     "title": "Violenza sulle donne, le sorelle dominicane Mirabal all'origine della giornata Onu"
-    },
     {
      "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/25-novembre-contro-la-violenza-sulle-donne-tutti-i-video_e2993453-7aeb-4dcf-bc4e-daa908cc8150.html",
@@ -386,14 +366,9 @@
      "title": "Mannoia e Conti contro la violenza sulle donne, torna Una Nessuna Centomila"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/violenza-contro-le-donne-lunicef-rilancia-la-campagna-non-restare-in-silenzio_8fca6fd2-924b-4cc1-a41b-8e08e5daaba5.html",
-     "title": "Violenza contro le donne, l'Unicef rilancia la campagna 'Non restare in silenzio'"
-    },
-    {
      "name": "la Repubblica",
-     "link": "https://genova.repubblica.it/cronaca/2026/11/25/news/violenza_contro_le_donne_scritte_sessiste_contro_la_sindaca_salis_a_pochi_metri_da_casa-425749575/",
-     "title": "Violenza contro le donne, insulti sessisti alla sindaca Salis “a pochi metri da casa”"
+     "link": "https://www.repubblica.it/politica/2026/11/26/news/cari_uomini_perche_combattere_la_violenza_contro_le_donne_riguarda_voi-425750748/",
+     "title": "Cari uomini, ecco perché combattere la violenza contro le donne riguarda voi"
     },
     {
      "name": "Domani",
@@ -414,8 +389,8 @@
    "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran",
    "summary": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/25/morto-andy-taylor-ex-chitarrista-dei-duran-duran-_af6007f1-1f71-4392-84ac-08b6060d3c63.html",
-   "pub_ts": 1795644062,
-   "n_sources": 3,
+   "pub_ts": 1795647804,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
@@ -424,14 +399,47 @@
      "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran"
     },
     {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/25/andy-taylor-morto/",
+     "title": "È morto Andy Taylor, ex chitarrista dei Duran Duran"
+    },
+    {
      "name": "Open",
      "link": "https://www.open.online/2026/11/25/morto-andy-taylor-duran-duran/",
      "title": "Morto a 65 anni Andy Taylor, l’anima rock che rese immortali i Duran Duran"
     },
     {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/spettacoli/musica/2026/11/25/news/andy_taylor_morto_duran_duran-425750634/",
+     "title": "Andy Taylor, morto l’ex chitarrista dei Duran Duran. Era l’anima rock della band"
+    },
+    {
      "name": "Rai News",
      "link": "https://www.rainews.it/articoli/2026/11/-morto-andy-taylor-ex-chitarrista-dei-duran-duran-bf42e97c-2e9f-457a-b4ab-0c50e0c0d913.html",
-     "title": "E' morto Andy Taylor, ex chitarrista dei Duran Duran"
+     "title": "E' morto Andy Taylor, ex chitarrista dei Duran Duran: addio all'anima rock della band"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "È morta l'ex top model tedesca Veruschka, recitò in Blow Up",
+   "summary": "Ha lasciato un segno indelebile nella fotografia di moda degli anni '60",
+   "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/25/e-morta-lex-top-model-tedesca-veruschka-recito-in-blow-up_e25ffe18-7329-4b0b-8174-11549a52f01a.html",
+   "pub_ts": 1795659120,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/25/e-morta-lex-top-model-tedesca-veruschka-recito-in-blow-up_e25ffe18-7329-4b0b-8174-11549a52f01a.html",
+     "title": "È morta l'ex top model tedesca Veruschka, recitò in Blow Up"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/photogallery/2026/11/addio-a-veruschka-la-dea-ribelle-che-invento-la-top-model-e-sedusse-blow-up-02f777f3-97ef-442f-a4cc-b3bf3ddd2b25.html",
+     "title": "Addio a Veruschka, la dea ribelle che inventò la top model e sedusse Blow-Up"
     }
    ],
    "subtype": "cultura"
@@ -462,45 +470,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "È morta l'ex top model tedesca Veruschka, recitò in Blow Up",
-   "summary": "Ha lasciato un segno indelebile nella fotografia di moda degli anni '60",
-   "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/25/e-morta-lex-top-model-tedesca-veruschka-recito-in-blow-up_e25ffe18-7329-4b0b-8174-11549a52f01a.html",
-   "pub_ts": 1795629154,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/25/e-morta-lex-top-model-tedesca-veruschka-recito-in-blow-up_e25ffe18-7329-4b0b-8174-11549a52f01a.html",
-     "title": "È morta l'ex top model tedesca Veruschka, recitò in Blow Up"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/25/morta-veruschka/",
-     "title": "È morta a 87 anni l’attrice e modella tedesca Veruschka, nota per una celebre scena di “Blow-Up”"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Campus Biomedico, oltre 700 richieste in 9 mesi al Centro Antiviolenza",
-   "summary": "Reperibilità telefonica attiva 24 ore su 24, tutti i giorni",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/25/campus-biomedico-oltre-700-richieste-in-9-mesi-al-centro-antiviolenza_fc7ebf07-5fd8-4c87-a094-c08b405dba8a.html",
-   "pub_ts": 1795626601,
+   "title": "L'onda dei 'giovani vecchi', i nati dopo il 2000 rischiano di invecchiare prima",
+   "summary": "Geriatri, 'e peggio dei genitori, è deriva generazionale'. Tra cause obesità, ansia, stress",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/25/londa-di-giovani-vecchi-i-nati-dopo-il-2000-rischiano-di-invecchiare-prima_31dc7594-10dc-464e-8b34-d13c1edb8319.html",
+   "pub_ts": 1795621078,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/25/campus-biomedico-oltre-700-richieste-in-9-mesi-al-centro-antiviolenza_fc7ebf07-5fd8-4c87-a094-c08b405dba8a.html",
-     "title": "Campus Biomedico, oltre 700 richieste in 9 mesi al Centro Antiviolenza"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/25/londa-di-giovani-vecchi-i-nati-dopo-il-2000-rischiano-di-invecchiare-prima_31dc7594-10dc-464e-8b34-d13c1edb8319.html",
+     "title": "L'onda dei 'giovani vecchi', i nati dopo il 2000 rischiano di invecchiare prima"
     },
     {
-     "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/24/centro-antiviolenza-venezia-dallinizio-dellanno-473-richieste_93ba824f-6b6d-4b3c-9660-af3a50ce9826.html",
-     "title": "Centro antiviolenza Venezia, dall'inizio dell'anno 473 richieste"
+     "name": "Repubblica Salute",
+     "link": "https://www.repubblica.it/salute/2026/11/25/news/giovani_vecchi__nati_dopo_2000_rischiano_invecchiare_prima-425749245/?rss",
+     "title": "'Giovani vecchi': i nati dopo il 2000 rischiano di invecchiare prima"
     }
    ],
    "subtype": "scienza"
@@ -511,8 +496,8 @@
    "title": "Egitto: inferno di fuoco sulla tangenziale del Cairo, almeno 30 morti",
    "summary": "Esplode un'autocisterna di petrolio nel traffico dell'ora di punta seminando il panico",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/egitto-inferno-di-fuoco-sulla-tangenziale-del-cairo-almeno-30-morti_3d8b1b48-3476-465e-9b7e-7ae215e3b910.html",
-   "pub_ts": 1795643252,
-   "n_sources": 4,
+   "pub_ts": 1795657920,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -526,46 +511,23 @@
      "title": "Esplode al Cairo un camion con bombole di gas, almeno 21 morti"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/incendio-egitto-cairo-morti-feriti-autocisterna_7ClISslkbZ40OQhjmcBqhZ",
-     "title": "Egitto, maxi incendio a Giza: esplode autocisterna, almeno 30 morti - IL VIDEO"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/25/incendio-autocisterna-egitto/",
-     "title": "In Egitto almeno 30 persone sono morte nell’incendio di un’autocisterna"
-    }
-   ]
-  },
-  {
-   "category": "cronaca",
-   "area": null,
-   "title": "Tensione nel Mediterraneo, Haftar minaccia Kiev di vendetta",
-   "summary": "Due libici morti nel raid ucraino a Bengasi. Mosca: 'Avete il diritto di rispondere'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/libia-haftar-promette-vendetta-dopo-lattacco-ucraino-a-bengasi_06f6f9b1-ac1b-471b-b1e5-ccb05cb45760.html",
-   "pub_ts": 1795635569,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/libia-haftar-promette-vendetta-dopo-lattacco-ucraino-a-bengasi_06f6f9b1-ac1b-471b-b1e5-ccb05cb45760.html",
-     "title": "Tensione nel Mediterraneo, Haftar minaccia Kiev di vendetta"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/media-libia-esercito-di-haftar-promette-risposta-ad-attacco-di-bengasi_073f50de-3bdb-4df1-8d53-f82d542f4991.html",
-     "title": "Media Libia, 'esercito di Haftar promette risposta ad attacco di Bengasi'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-attacco-libia-minaccia-vendetta_7emeTGdztpRxXGfkmQIhcf",
-     "title": "Attacco ucraino a Bengasi, la Libia di Haftar minaccia vendetta: \"Risponderemo\""
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/esplosione-sulla-tangenziale-del-cairo-autocisterna-in-fiamme-travolge-le-auto-almeno-30-morti-042ebbbf-6594-42bd-8b27-48c9998a49ad.html",
+     "title": "Esplosione sulla tangenziale del Cairo: autocisterna in fiamme travolge le auto, almeno 30 morti"
     }
    ]
   }
  ],
  "articles": [
+  {
+   "title": "Una no-fly zone al confine con l’Ucraina, la Polonia risponde alle incursioni russe",
+   "link": "https://www.repubblica.it/esteri/2026/11/26/news/no-fly_zone_al_confine_ucraina_polonia_risposta_a_incursioni_russe-425750359/?rss",
+   "description": "Varsavia chiede alla Nato di poter abbattere i missili prima che sconfinino: “Viviamo in condizioni prebelliche”",
+   "pub_ts": 1795651200,
+   "source": "Repubblica Esteri",
+   "source_priority": 1,
+   "section": "politica"
+  },
   {
    "title": "Usa propongono nuovi dazi per Cina, Ue e altri 12 paesi",
    "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/25/usa-propongono-nuovi-dazi-per-cina-ue-e-altri-12-paesi_e8a74284-556f-4bc3-a6d5-1a441633372f.html",
@@ -585,20 +547,11 @@
    "section": "politica"
   },
   {
-   "title": "L'AI spaventa Wall Street e l'Europa",
-   "link": "https://www.rainews.it/articoli/2026/11/ai-spaventa-wall-street-europa-34a238f7-b1ca-400a-ae8c-44296ef75d61.html",
-   "description": "Le borse vanno in netto rosso e poi recuperano leggermente dopo l'apertura di Wall Street, avvenuta nel segno del crollo dei titoli tecnologici e in particolare quelli legati all'Intelligenza artificiale",
-   "pub_ts": 1795633445,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La Polonia creerà una no-fly zone al confine con l'Ucraina",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/la-polonia-creera-una-no-fly-zone-al-confine-con-lucraina_5649fc66-47dc-441c-ac1d-564f73422951.html",
-   "description": "Viceministro: 'una piccola zona entro fine anno o inizio 2027'",
-   "pub_ts": 1795644509,
-   "source": "ANSA Mondo",
+   "title": "Trump offre la grazia a Huang, in caso di incriminazione Nvidia crolla a Wall Street",
+   "link": "https://www.repubblica.it/esteri/2026/11/26/news/trump_offre_la_grazia_a_huang_incriminazione_nvidia_crolla_a_wall_street-425750551/?rss",
+   "description": "La rassicurazione della Casa Bianca: “Non ci sono inchieste penali a suo carico può testimoniare al Congresso. E il perdono è sempre un’opzione possibile”",
+   "pub_ts": 1795651200,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -608,24 +561,6 @@
    "description": "Il soggetto è stato trasportato in ospedale e, secondo l'agenzia di stampa polacca Pap, si trova ora in terapia intensiva. Al momento non si conoscono le circostanze del gesto né le motivazioni: aperta un’indagine",
    "pub_ts": 1795641749,
    "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "La guerra ha distrutto l’ambiente di Gaza: sostanze tossiche e danni “per le generazioni a venire”",
-   "link": "https://www.repubblica.it/esteri/2026/11/24/news/gaza_ambiente_guerra_sostanze_tossiche_oxfam-425746366/?rss",
-   "description": "La denuncia di Oxfam: il 99% del territorio della Striscia è stato contaminato dai veleni rilasciati dalle armi",
-   "pub_ts": 1795637040,
-   "source": "Repubblica Esteri",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Zelensky, 'continueremo attacchi, aerei e navi russi sono obiettivi legittimi'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/zelensky-continueremo-attacchi-aerei-e-navi-russi-sono-obiettivi-legittimi_276dba84-87a6-4362-9a70-41f2312001ed.html",
-   "description": "Lo afferma il presidente ucraino Volodymyr Zelensky su X.",
-   "pub_ts": 1795634349,
-   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
@@ -648,28 +583,46 @@
    "section": "politica"
   },
   {
-   "title": "Il governo ripristina l’elezione diretta dei presidenti delle province",
-   "link": "https://www.editorialedomani.it/politica/italia/province-governo-elezione-diretta-presidenti-consiglio-ministri-cosa-cambia-yvi8vsvp",
-   "description": "Via libera in Cdm al disegno di legge delega al governo sul funzionamento delle province, i cui organi dal 2014 vengono eletti in modo indiretto e sono composti dai consiglieri comunali. Tutti i partiti di maggioranza rivendicano la riforma, ma mancano ancora certezze su come questi enti intermedi ritroveranno una centralità di funzioni",
-   "pub_ts": 1795638132,
-   "source": "Domani",
+   "title": "Gb, oggi in Parlamento l'accordo con l'Ue per il post-Brexit",
+   "link": "https://www.rainews.it/articoli/2026/11/gb-oggi-in-parlamento-laccordo-con-lue-per-il-post-brexit-34648185-9537-45d8-ac03-52a7a549e72b.html",
+   "description": "Il testo, sostenuto dalla maggioranza laburista del premier Andy Burnham, dovrebbe ottenere un rapido via libera nonostante le critiche delle opposizioni, che accusano l'esecutivo di aver accettato passivamente le regole di Bruxelles",
+   "pub_ts": 1795653540,
+   "source": "Rai News",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Jensen Huang è tornato alla guida di Nvidia",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
-   "description": "Usa inseriscono Megaspeed nella lista nera commerciale",
-   "pub_ts": 1795621671,
-   "source": "ANSA Tecnologia",
+   "title": "Manovra, Meloni striglia i ministri. Per la sanità 500 milioni, arriva l’intesa sulle pensioni",
+   "link": "https://www.repubblica.it/economia/2026/11/26/news/manovra_meloni_emendamenti_ministri-425750674/",
+   "description": "La premier infastidita dalla pioggia di modifiche: “Tanto vi bocciamo tutto”. Si allenta la stretta sulle rivalutazioni, finanziata dagli assegni più elevati",
+   "pub_ts": 1795651200,
+   "source": "la Repubblica",
    "source_priority": 1,
-   "section": "tech"
+   "section": "politica"
+  },
+  {
+   "title": "Il traguardo di Federica Brignone, la scelta delle leggerezza contro la retorica del dolore",
+   "link": "https://www.repubblica.it/sport/sci/2026/11/26/news/federica_brignone_addio_leggerezza_dolore_sci-425750450/",
+   "description": "La leggenda azzurra dello sci ha annunciato il ritiro. A febbraio l’impresa dei due ori olimpici",
+   "pub_ts": 1795651200,
+   "source": "la Repubblica",
+   "source_priority": 1,
+   "section": "politica"
   },
   {
    "title": "Su WhatsApp arrivano i messaggi programmati, da 10 minuti fino a 14 giorni",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/25/su-whatsapp-arrivano-i-messaggi-programmati-da-10-minuti-fino-a-14-giorni_4ed85a82-8822-49cc-b64e-6cc5fd74e94a.html",
    "description": "Funzionano con testo, foto e video. Saranno implementati nelle prossime settimane",
    "pub_ts": 1795635513,
+   "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Jensen Huang è tornato alla guida di Nvidia",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/23/jense-huang-torna-alla-guida-di-nvidia_0948ce1c-857b-442f-ae7f-f1b7bda9b9fb.html",
+   "description": "Usa inseriscono Megaspeed nella lista nera commerciale",
+   "pub_ts": 1795621671,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
@@ -684,20 +637,20 @@
    "section": "tech"
   },
   {
-   "title": "Editoria, +2.5% il mercato del libro trade nel 2026 grazie al Bonus biblioteche",
-   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/25/editoria-2.5-il-mercato-del-libro-trade-nel-2026-grazie-al-bonus_2b8cc811-7aa5-4a6e-a3f8-1fc2bd894888.html",
-   "description": "I dati Aie il 4 dicembre alla fiera Più Libri Più Liberi a Roma",
-   "pub_ts": 1795626144,
-   "source": "ANSA Cultura",
+   "title": "Google immagina un canale tv tutto basato sull'IA, gli utenti sono le star",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/25/google-vuole-creare-un-canale-tv-basato-sullia-anche-lutente-protagonista_03b4d8ae-548d-4932-beec-c0a71c3291e0.html",
+   "description": "Il progetto contenuto in un brevetto, protagonista anche la pubblicità",
+   "pub_ts": 1795621959,
+   "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
   },
   {
-   "title": "Violenza sulle donne, le sorelle dominicane Mirabal all'origine della giornata Onu",
-   "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/violenza-sulle-donne-le-sorelle-dominicane-mirabal-allorigine-della-giornata-onu_b31ba29d-5f88-4713-ab2b-eef4280bb2e0.html",
-   "description": "Furono assassinate il 25 novembre 1960 dalla dittatura di Trujillo",
-   "pub_ts": 1795637023,
-   "source": "ANSA Mondo",
+   "title": "25 novembre, la Giornata contro la violenza sulle donne TUTTI I VIDEO",
+   "link": "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/25-novembre-contro-la-violenza-sulle-donne-tutti-i-video_e2993453-7aeb-4dcf-bc4e-daa908cc8150.html",
+   "description": "Le manifestazioni e le iniziative. I video",
+   "pub_ts": 1795651200,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "varia"
   },
@@ -705,7 +658,16 @@
    "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran",
    "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/25/morto-andy-taylor-ex-chitarrista-dei-duran-duran-_af6007f1-1f71-4392-84ac-08b6060d3c63.html",
    "description": "Aveva 65 anni, nel 2018 la diagnosi di cancro alla prostata",
-   "pub_ts": 1795644062,
+   "pub_ts": 1795647804,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "È morta l'ex top model tedesca Veruschka, recitò in Blow Up",
+   "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/25/e-morta-lex-top-model-tedesca-veruschka-recito-in-blow-up_e25ffe18-7329-4b0b-8174-11549a52f01a.html",
+   "description": "Ha lasciato un segno indelebile nella fotografia di moda degli anni '60",
+   "pub_ts": 1795659120,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
@@ -720,19 +682,10 @@
    "section": "varia"
   },
   {
-   "title": "È morta l'ex top model tedesca Veruschka, recitò in Blow Up",
-   "link": "https://www.ansa.it/sito/notizie/cultura/moda/2026/11/25/e-morta-lex-top-model-tedesca-veruschka-recito-in-blow-up_e25ffe18-7329-4b0b-8174-11549a52f01a.html",
-   "description": "Ha lasciato un segno indelebile nella fotografia di moda degli anni '60",
-   "pub_ts": 1795629154,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Campus Biomedico, oltre 700 richieste in 9 mesi al Centro Antiviolenza",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/25/campus-biomedico-oltre-700-richieste-in-9-mesi-al-centro-antiviolenza_fc7ebf07-5fd8-4c87-a094-c08b405dba8a.html",
-   "description": "Reperibilità telefonica attiva 24 ore su 24, tutti i giorni",
-   "pub_ts": 1795626601,
+   "title": "L'onda dei 'giovani vecchi', i nati dopo il 2000 rischiano di invecchiare prima",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/25/londa-di-giovani-vecchi-i-nati-dopo-il-2000-rischiano-di-invecchiare-prima_31dc7594-10dc-464e-8b34-d13c1edb8319.html",
+   "description": "Geriatri, 'e peggio dei genitori, è deriva generazionale'. Tra cause obesità, ansia, stress",
+   "pub_ts": 1795621078,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
@@ -741,16 +694,7 @@
    "title": "Egitto: inferno di fuoco sulla tangenziale del Cairo, almeno 30 morti",
    "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/egitto-inferno-di-fuoco-sulla-tangenziale-del-cairo-almeno-30-morti_3d8b1b48-3476-465e-9b7e-7ae215e3b910.html",
    "description": "Esplode un'autocisterna di petrolio nel traffico dell'ora di punta seminando il panico",
-   "pub_ts": 1795643252,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "cronaca"
-  },
-  {
-   "title": "Tensione nel Mediterraneo, Haftar minaccia Kiev di vendetta",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/libia-haftar-promette-vendetta-dopo-lattacco-ucraino-a-bengasi_06f6f9b1-ac1b-471b-b1e5-ccb05cb45760.html",
-   "description": "Due libici morti nel raid ucraino a Bengasi. Mosca: 'Avete il diritto di rispondere'",
-   "pub_ts": 1795635569,
+   "pub_ts": 1795657920,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
