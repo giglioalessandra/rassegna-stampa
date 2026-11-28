@@ -1,5 +1,7 @@
 {
+ "ANSA Mondo": "nessun articolo; inizio risposta: <rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\">                     <channel>   <atom:link rel=\"self\" type=\"application/rss+xml\" href=\"https://www.",
  "Galileo": "HTTP 415",
+ "ANSA Politica": "articoli tutti più vecchi di 60 ore (il più recente: 28/11/2026 10:01 UTC)",
  "Repubblica Cultura": "articoli tutti più vecchi di 60 ore (il più recente: 25/11/2026 06:00 UTC)",
  "Repubblica Green": "articoli tutti più vecchi di 60 ore (il più recente: 27/11/2026 21:05 UTC)",
  "EtaBeta Rai": "articoli tutti più vecchi di 60 ore (il più recente: 21/11/2026 00:00 UTC)"

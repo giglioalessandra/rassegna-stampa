@@ -1,6 +1,6 @@
 {
- "generated_at": 1795830596,
- "updated_at": 1795830596,
+ "generated_at": 1795860231,
+ "updated_at": 1795860231,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,53 +9,28 @@
  "items": [
   {
    "category": "politica",
-   "area": "mondo",
-   "title": "Francesca Albanese bloccata in aeroporto, Costa Rica le nega il visto: “Legami terroristici”",
-   "summary": "La relatrice Onu per i territori palestinesi avrebbe dovuto ricevere una laurea honoris causa: “Vergogna, ecco il volto dell’impero”. Israele plaude alla decisione",
-   "link": "https://www.repubblica.it/esteri/2026/11/27/news/francesca_albanese_costa_rica_bloccata_legami_terroristici-425753818/?rss",
-   "pub_ts": 1795798209,
-   "n_sources": 8,
+   "area": "italia",
+   "title": "Nordio ai magistrati: 'Stiamo superando i dissidi, lavoriamo insieme'",
+   "summary": "Il ministro della Giustizia al congresso dell'Anm: 'Preso atto dei risultati del referendum, vanno eseguiti'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
+   "pub_ts": 1795859590,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/27/news/francesca_albanese_costa_rica_bloccata_legami_terroristici-425753818/?rss",
-     "title": "Francesca Albanese bloccata in aeroporto, Costa Rica le nega il visto: “Legami terroristici”"
-    },
-    {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/27/il-costa-rica-respinge-francesca-albanese-relatrice-onu-per-i-territori-palestinesi_a89517c3-d027-4d75-99d6-19f99fa5a15b.html",
-     "title": "Il Costa Rica respinge Francesca Albanese, relatrice Onu per i territori palestinesi"
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
+     "title": "Nordio ai magistrati: 'Stiamo superando i dissidi, lavoriamo insieme'"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/il-costa-rica-respinge-francesca-albanese-relatrice-onu-per-i-territori-palestinesi_bb76923b-c963-4301-8acb-f81e27351088.html",
-     "title": "Il Costa Rica respinge Francesca Albanese, relatrice Onu per i territori palestinesi"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/28/congresso-anm-nordio-dissidi-gratteri-interventi/",
+     "title": "Congresso Anm, Nordio tende la mano: «Superati i dissidi, lavoriamo insieme». Gratteri attacca sugli stipendi: «Soldi per i funzionari di Palazzo Chigi sì e per i magistrati no?»"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/27/albanese-costa-rica/",
-     "title": "Francesca Albanese è bloccata in un aeroporto in Costa Rica, dopo che le è stato impedito di entrare nel paese"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/francesca-albanese-bloccata-in-aeroporto-in-costa-rica-ha-legami-terroristici-t7s3a8ty",
-     "title": "Francesca Albanese bloccata in aeroporto in Costa Rica: «Ha legami terroristici»"
-    },
-    {
-     "name": "Sole 24 Ore Mondo",
-     "link": "https://www.ilsole24ore.com/art/costa-rica-nega-accesso-francesca-albanese-AJrFkXUC",
-     "title": "Costa Rica nega accesso a Francesca Albanese"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/albanese-costa-rica_1UUElHV6ax5ZyK5F0JHArp",
-     "title": "Negato l'ingresso in Costa Rica a Francesca Albanese per \"legami con atti terroristici\""
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/il-costa-rica-sbatte-la-porta-in-faccia-alla-albanese-fermata-dagli-agenti-dellimmigrazione/",
-     "title": "Il Costa Rica sbatte la porta in faccia alla Albanese: fermata dagli agenti dell’immigrazione"
+     "name": "la Repubblica",
+     "link": "https://napoli.repubblica.it/cronaca/2026/11/28/news/congresso_anm_nordio_magistrati_stiamo_superando_i_dissidi_lavoriamo_insieme-425756143/",
+     "title": "Congresso Anm, applausi per il ministro Nordio: “Stiamo superando i dissidi, lavoriamo insieme”"
     }
    ]
   },
@@ -65,8 +40,8 @@
    "title": "Spagna, l’insulto di Feijóo a Colau che può cambiare l’esito del voto: “Stia zitta”",
    "summary": "Durante il confronto televisivo di ieri sera tra i quattro candidati che domenica si contendono la presidenza del Governo, il leader del Partito Popolare si è rivolto così alla rappresentante del Frente Amplio. L’ex sindaca di Barcellona è la vincitrice del faccia a faccia in...",
    "link": "https://www.repubblica.it/esteri/2026/11/27/news/spagna_elezioni_insulto_di_feijoo_a_colau_puo_cambiare_esito_voto_stai_zitta-425754116/?rss",
-   "pub_ts": 1795791840,
-   "n_sources": 5,
+   "pub_ts": 1795859548,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
@@ -75,255 +50,203 @@
      "title": "Spagna, l’insulto di Feijóo a Colau che può cambiare l’esito del voto: “Stia zitta”"
     },
     {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/27/spagna-sanchez-e-colau-in-tandem-credono-nella-rimonta-sul-consorzio-feijoo_ea91670f-862d-4fa7-8026-2204493d546c.html",
-     "title": "Spagna, Sanchez e Colau in tandem credono nella rimonta sul consorzio Feijoo e Abascal"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/27/spagna-sanchez-e-colau-in-tandem-credono-nella-rimonta-sul-consorzio-feijoo_7b6a7c02-6ce8-42fb-9b04-7bb567b887dd.html",
-     "title": "Spagna, Sanchez e Colau in tandem credono nella rimonta sul consorzio Feijoo e Abascal"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/spagna-feijo-dice-zitta-a-colau-snchez-accusa-lavversario-di-machismo-2e18527d-3057-4f1b-b475-899a0a922aee.html",
-     "title": "Spagna, Feijóo zittisce Ada Colau. Sánchez lo accusa di machismo"
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/sanchez-contro-feijoo-l-ultimo-duello-prima-voto-spagna-AJAUdfVC",
+     "title": "Sánchez contro Feijóo, l’ultimo duello prima del voto in Spagna"
     },
     {
      "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/stai-zitta-di-feijoo-a-colau-laccusa-di-maschilismo-e-falsa-ecco-la-verita/",
-     "title": "“Stai zitta” di Feijóo a Colau? L’accusa di maschilismo è falsa: ecco la verità"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "La Camera approva il decreto scuola, 142 i sì, 112 i no",
-   "summary": "Gli astenuti sono stati 4. Sul provvedimento il governo aveva posto la fiducia",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/26/la-camera-approva-il-decreto-scuola-142-i-si-112-i-no_4beb1e8e-8990-4b06-a469-8e026622062b.html",
-   "pub_ts": 1795807199,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/26/la-camera-approva-il-decreto-scuola-142-i-si-112-i-no_4beb1e8e-8990-4b06-a469-8e026622062b.html",
-     "title": "La Camera approva il decreto scuola, 142 i sì, 112 i no"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/fatti/morte-gianni-de-gennaro-autopsia-funerali-camera-ardente-memoriale-abbg94v1",
-     "title": "De Gennaro, l’autopsia: «Nessuna anomalia». La camera ardente alla Scuola superiore di Polizia"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://firenze.repubblica.it/cronaca/2026/11/27/news/de_gennaro_gianni_autopsia_firenze_careggi_camera_ardente_roma-425754144/",
-     "title": "De Gennaro, l’autopsia conferma il suicidio. Camera ardente per familiari, amici e colleghi"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/de-gennaro-finita-lautopsia-sul-corpo/",
-     "title": "De Gennaro, finita l’autopsia sul corpo"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Accordo per De Cos alla Bce, ma è muro contro muro sul bilancio Ue",
-   "summary": "Via libera dei 27 allo spagnolo. Resta lo scontro tra modernizzatori e coesionisti",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/accordo-per-de-cos-alla-bce-ma-e-muro-contro-muro-sul-bilancio_b89e1430-4300-482f-9508-c475065af9d8.html",
-   "pub_ts": 1795759189,
-   "n_sources": 4,
-   "documented": true,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/accordo-per-de-cos-alla-bce-ma-e-muro-contro-muro-sul-bilancio_b89e1430-4300-482f-9508-c475065af9d8.html",
-     "title": "Accordo per De Cos alla Bce, ma è muro contro muro sul bilancio Ue"
-    },
-    {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/macron-non-ci-sara-accordo-sul-bilancio-ue-a-questo-vertice_bf8560fb-315a-4c43-8f7f-aa1cf1864755.html",
-     "title": "Macron, 'non ci sarà accordo sul bilancio Ue a questo vertice'"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/bilancio-ue-consiglio-europeo-dicembre_63HPPDVHLFo4JvOnWN1Ymf",
-     "title": "Ue, l'accordo sul bilancio è lontano \"anni luce\": si va a dicembre"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/europa/meloni-guerra-libia-ucraina-fondi-consiglio-europeo-azffhosu",
-     "title": "Al Consiglio niente accordo sul bilancio Ue. Meloni bifronte sull’Ucraina"
+     "link": "https://www.nicolaporro.it/atlanticoquotidiano/quotidiano/aq-esteri/spagna-al-voto-anche-il-modello-di-potere-sudamericano-di-sanchez/",
+     "title": "Spagna, al voto anche il modello di potere “sudamericano” di Sanchez"
     }
    ]
   },
   {
    "category": "politica",
    "area": "mondo",
-   "title": "Spagna, la gaffe sessista del leader dei popolari. Sánchez torna a sperare",
-   "summary": "Ieri a Madrid l’ultimo appello al voto del premier: “Non torniamo indietro”. In tv Feijóo zittisce Ada Colau e svela il volto più buio della destra spagnola",
-   "link": "https://www.repubblica.it/esteri/2026/11/28/news/sanchez_incubo_franco_assist_machista_pp_feijoo_zittisce_ada_colau_speranza_socialisti-425755545/?rss",
+   "title": "I britannici difendono l’Ucraina: “Operazione del tutto legittima”",
+   "summary": "Ma Tajani, dal palco delle conferenza anglo-italiana di Pontignano, gela la sala: “Un errore grave esportare la guerra nel Mediterraneo”",
+   "link": "https://www.repubblica.it/esteri/2026/11/28/news/ucraina_raid_libia_britannici_difendono_l_ucraina_operazione_legittima-425755489/?rss",
    "pub_ts": 1795824000,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/28/news/sanchez_incubo_franco_assist_machista_pp_feijoo_zittisce_ada_colau_speranza_socialisti-425755545/?rss",
-     "title": "Spagna, la gaffe sessista del leader dei popolari. Sánchez torna a sperare"
+     "link": "https://www.repubblica.it/esteri/2026/11/28/news/ucraina_raid_libia_britannici_difendono_l_ucraina_operazione_legittima-425755489/?rss",
+     "title": "I britannici difendono l’Ucraina: “Operazione del tutto legittima”"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/la-spagna-al-voto-ultima-sfida-in-tv-tra-il-blocco-progressista-e-le-destre_16e91653-bfa6-450d-8daf-d5d5b3b5ef9e.html",
-     "title": "La Spagna al voto, Sanchez attacca Pp e Vox"
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/esteri/2026/11/28/news/ucraina_raid_libia_britannici_difendono_l_ucraina_operazione_legittima-425755489/",
+     "title": "I britannici difendono l’Ucraina: “Operazione del tutto legittima”"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Zelensky: “Libia? Non agiamo senza coordinarci con partner”. Crosetto: “Falso”. Anche Tajani nega",
-   "summary": "Il presidente ucraino sull’attacco di Kiev nelle acque territoriali libiche. Il ministro degli Esteri italiano: “Nessuno di noi era stato informato, nessuno sapeva alcunché di quello che stavano facendo in Libia”. Le reazioni di Lega e M5S",
-   "link": "https://www.repubblica.it/esteri/2026/11/27/news/zelensky_libia_non_agiamo_senza_coordinarci_con_partner_tajani_smentisce_presidente_ucraino_reazioni_italia_conte_lega_m-425755132/?rss",
-   "pub_ts": 1795803310,
+   "title": "Legge elettorale, La Russa: «Il no della Consulta all’indicazione del premier sarebbe un aiuto alla sinistra»",
+   "summary": "Alla Versiliana il presidente del Senato, seconda carica dello Stato, afferma che un intervento della Corte su quel punto sarebbe «una violazione della Costituzione». Parole «di una gravità costituzionale inaudita» per Boccia (Pd), un «intollerabile attacco alla sua indipendenza», ha detto Magi (+Europa)",
+   "link": "https://www.editorialedomani.it/politica/italia/legge-elettorale-la-russa-consulta-indicazione-premier-aiuto-sinistra-reazioni-qqgxynas",
+   "pub_ts": 1795857602,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/27/news/zelensky_libia_non_agiamo_senza_coordinarci_con_partner_tajani_smentisce_presidente_ucraino_reazioni_italia_conte_lega_m-425755132/?rss",
-     "title": "Zelensky: “Libia? Non agiamo senza coordinarci con partner”. Crosetto: “Falso”. Anche Tajani nega"
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/legge-elettorale-la-russa-consulta-indicazione-premier-aiuto-sinistra-reazioni-qqgxynas",
+     "title": "Legge elettorale, La Russa: «Il no della Consulta all’indicazione del premier sarebbe un aiuto alla sinistra»"
     },
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/27/news/zelensky_libia_non_agiamo_senza_coordinarci_con_partner_tajani_smentisce_presidente_ucraino_reazioni_italia_conte_lega_m-425755132/",
-     "title": "Zelensky: “Libia? Non agiamo senza coordinarci con partner”. Crosetto: “Falso”. Anche Tajani nega"
+     "link": "https://www.repubblica.it/politica/2026/11/28/news/legge_elettorale_la_russa_shock_consulta-425755736/",
+     "title": "“Consulta contro la Costituzione se boccia la legge elettorale”: La Russa shock, è polemica"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Gaza, Medici senza Frontiere: \"Uccisi due nostri operatori in un attacco Idf\"",
+   "summary": "\"Sconvolti e indignati per l'uccisione di due membri del proprio personale, entrambi addetti alla sorveglianza. Si tratta di un attacco diretto a MSF\", scrive l'organizzazione in un comunicato",
+   "link": "https://www.rainews.it/video/2026/11/due-operatori-di-msf-uccisi-in-un-attacco-israeliano-a-gaza-ce3589fc-d6e7-464b-ac8f-54aceec93905.html",
+   "pub_ts": 1795855860,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/due-operatori-di-msf-uccisi-in-un-attacco-israeliano-a-gaza-ce3589fc-d6e7-464b-ac8f-54aceec93905.html",
+     "title": "Gaza, Medici senza Frontiere: \"Uccisi due nostri operatori in un attacco Idf\""
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/28/msf-uccisi-gaza/",
+     "title": "Due membri di Medici Senza Frontiere sono stati uccisi in un attacco israeliano a Gaza"
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Melonellum, La Russa attacca la Consulta: “No a indicazione premier? Sarebbe aiuto alla sinistra”",
-   "summary": "Per il presidente del Senato un intervento della Corte sulla nuova legge elettorale sarebbe anche “una violazione della Costituzione”",
-   "link": "https://www.repubblica.it/politica/2026/11/27/news/la_russa_attacco_consulta_legge_elettorale-425755444/",
-   "pub_ts": 1795810105,
+   "title": "Kuwait, attacco con droni iraniani contro una base: morti due tecnici italiani",
+   "summary": "L'emirato del Golfo accusa direttamente Teheran per il raid condotto con velivoli di fabbricazione iraniana, ma la Repubblica Islamica smentisce",
+   "link": "https://www.rainews.it/video/2026/11/kuwait-attacco-con-droni-iraniani-contro-una-base-morti-due-tecnici-italiani-2fb9d0e8-bdb8-4285-92b3-cc50d9748525.html",
+   "pub_ts": 1795825740,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/kuwait-attacco-con-droni-iraniani-contro-una-base-morti-due-tecnici-italiani-2fb9d0e8-bdb8-4285-92b3-cc50d9748525.html",
+     "title": "Kuwait, attacco con droni iraniani contro una base: morti due tecnici italiani"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/attacco-drone-kuwait-italiani-morti-cosa-e-successo-indagine-iran-g8h5e9i0",
+     "title": "Attacco in Kuwait, la versione dei Pasdaran: «Attenti a chi vuol trascinarvi nel conflitto»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Guerra Ucraina-Russia, le news di oggi. Drone di Mosca abbattuto con il laser. “È la prima volta”",
+   "summary": "La sperimentazione confermata dal gruppo per la Difesa sostenuto da Kiev",
+   "link": "https://www.repubblica.it/esteri/2026/11/28/diretta/guerra_ucraina_russia_news_oggi-425755769/",
+   "pub_ts": 1795821275,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/27/news/la_russa_attacco_consulta_legge_elettorale-425755444/",
-     "title": "Melonellum, La Russa attacca la Consulta: “No a indicazione premier? Sarebbe aiuto alla sinistra”"
+     "link": "https://www.repubblica.it/esteri/2026/11/28/diretta/guerra_ucraina_russia_news_oggi-425755769/",
+     "title": "Guerra Ucraina-Russia, le news di oggi. Drone di Mosca abbattuto con il laser. “È la prima volta”"
     },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/vannacci-ucraina-attacco-russia-libia_1nCAO5sUlsB15oZuyLmkNZ",
+     "title": "Ucraina, Vannacci: \"Kiev porta guerra nel Mediterraneo, non la Russia\""
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "“Ho il terrore dell’Alzheimer. Il pensiero di non riconoscere i miei figli, mi fa piangere. Mi ferisce quando mi impegno politicamente e la gente scrive ‘continua a fare l’attore’”: così Pierpaolo Spollon",
+   "summary": "Pierpaolo Spollon il 26 novembre ha salutato i telespettatori al termine della quarta stagione di “Doc-Nelle tue mani”, su Rai Uno, mentre su Netflix è protagonista “Chiaroscuro”. “I medici sono messi in una condizione di stress, portati al limite, ha detto a La Repubblica – per l’assenza di sonno, le aggressioni. Leggi cose incredibili, è […] L'articolo “Ho il terrore dell’Alzheimer. Il pensiero…",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/28/ho-il-terrore-dellalzheimer-il-pensiero-di-non-riconoscere-i-miei-figli-mi-fa-piangere-cosi-pierpaolo-spollon/8586455/",
+   "pub_ts": 1795856169,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
     {
      "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/27/legge-elettorale-la-russa-consulta-polemiche-notizie/8586156/",
-     "title": "Legge elettorale, La Russa: “Se la Consulta dice no all’indicazione del premier è un indebito aiuto alla sinistra”. Le proteste: “È una minaccia”"
+     "link": "https://www.ilfattoquotidiano.it/2026/11/28/ho-il-terrore-dellalzheimer-il-pensiero-di-non-riconoscere-i-miei-figli-mi-fa-piangere-cosi-pierpaolo-spollon/8586455/",
+     "title": "“Ho il terrore dell’Alzheimer. Il pensiero di non riconoscere i miei figli, mi fa piangere. Mi ferisce quando mi impegno politicamente e la gente scrive ‘continua a fare l’attore’”: così Pierpaolo Spollon"
+    },
+    {
+     "name": "Nicola Porro",
+     "link": "https://www.nicolaporro.it/ora-pure-fare-figli-e-meloniano/",
+     "title": "Ora pure fare figli è “meloniano”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Per Zelensky essere amici di Putin oggi è come esserlo stati di Hitler",
+   "summary": "Ha detto che il presidente russo è «un aggressore e un assassino» e che è «strano» che Trump lo definisca un amico",
+   "link": "https://www.ilpost.it/2026/11/27/zelensky-hitler-seconda-guerra-mondiale-putin/",
+   "pub_ts": 1795775579,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/27/zelensky-hitler-seconda-guerra-mondiale-putin/",
+     "title": "Per Zelensky essere amici di Putin oggi è come esserlo stati di Hitler"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/zelensky-foto-trump-putin-ucraina-russia_3kK601bUM3OXNsplox8xUT",
+     "title": "Ucraina, Zelensky: \"Foto Trump con Putin 'amico'? Strano, come dirsi amici di Hitler nella Seconda Guerra Mondiale\""
     }
    ]
   },
   {
    "category": "politica",
    "area": "italia",
-   "title": "Attacchi hacker ai frigoriferi in Slovenia con la faccia di Salvini: “Ringraziate lo zio Matteo”",
-   "summary": "Un’azienda di alimentari a Tolmino (vicino a Udine) è stata colpita: surriscaldate le celle. La foto del vicepremier ha bloccato il sistema informatico. L’allarme delle intelligence europee",
-   "link": "https://www.repubblica.it/politica/2026/11/27/news/attacchi_hacker_frigoriferi_slovenia_salvini-425755367/",
-   "pub_ts": 1795804110,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Come funziona il decreto legge Bollette",
+   "summary": "Dal 1° gennaio scatta un meccanismo che agisce sul prezzo del gas per ridurre le tariffe elettriche",
+   "link": "https://www.ansa.it/sito/videogallery/italia/2026/11/28/come-funziona-il-decreto-legge-bollette_5d20fa62-b3ac-48fd-9cb6-29d7eae45b3e.html",
+   "pub_ts": 1795854359,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/27/news/attacchi_hacker_frigoriferi_slovenia_salvini-425755367/",
-     "title": "Attacchi hacker ai frigoriferi in Slovenia con la faccia di Salvini: “Ringraziate lo zio Matteo”"
-    },
-    {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/27/attacco-hacker-salumificio-slovenia-foto-salvini-ringraziate-zio-matteo/",
-     "title": "Hacker mandano in tilt i frigoriferi di un salumificio in Slovenia, sul sistema spunta la foto di Salvini: «Dovete ringraziare zio Matteo»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Attacco ucraino in Libia, il messaggio della Russia: \"Kiev può usare il territorio dell'Italia per un nuovo attacco\"",
-   "summary": "(Adnkronos) - Dopo l'attacco di Kiev alle navi russe a Bengasi, il post dell'ambasciata russa a Roma: \"L'Italia apra gli occhi\"",
-   "link": "https://www.adnkronos.com/internazionale/esteri/russia-italia-libia-attacco-ucraina_4MHXptXCmwbqFtBCMbHH5N",
-   "pub_ts": 1795802252,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/russia-italia-libia-attacco-ucraina_4MHXptXCmwbqFtBCMbHH5N",
-     "title": "Attacco ucraino in Libia, il messaggio della Russia: \"Kiev può usare il territorio dell'Italia per un nuovo attacco\""
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/27/diretta/guerra_ucraina_russia_news_oggi-425753719/",
-     "title": "Guerra Ucraina-Russia, le news. Russia: “Regime di Kiev una minaccia. Italia apra gli occhi”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Trump su Truth evoca Il Padrino e diventa \"Veto Corleone\": l'immagine con l'Ia per minacciare i democratici",
-   "summary": "(Adnkronos) - Così il presidente ribadisce l'intenzione di bloccare con i poteri presidenziali le leggi a lui sgradite varate dal nuovo Congresso",
-   "link": "https://www.adnkronos.com/internazionale/esteri/trump-post-truth-padrino-veto-corleone_1TE9CShxRxggvtEfqeoRgn",
-   "pub_ts": 1795800457,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/trump-post-truth-padrino-veto-corleone_1TE9CShxRxggvtEfqeoRgn",
-     "title": "Trump su Truth evoca Il Padrino e diventa \"Veto Corleone\": l'immagine con l'Ia per minacciare i democratici"
-    },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/trump-si-sente-padrino-pubblica-un-meme-su-veto-corleone-e1a9be49-eda1-4095-99ff-77064fe48578.html",
-     "title": "Trump si sente padrino: pubblica un meme su \"Veto Corleone\""
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/videogallery/italia/2026/11/28/come-funziona-il-decreto-legge-bollette_5d20fa62-b3ac-48fd-9cb6-29d7eae45b3e.html",
+     "title": "Come funziona il decreto legge Bollette"
     }
    ]
   },
   {
    "category": "tech",
    "area": null,
-   "title": "LinkedIn in Italia ha oltre 27 milioni di utenti, l'IA ridefinisce le professioni",
-   "summary": "Piattafforma festeggia 15 anni nel paese, lavoro ibrido richiesto e resta gender gap",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/ansa-linkedin-in-italia-ha-oltre-27-milioni-di-utenti-ia-ridefinisce-le-professioni_dab62c4b-9b18-4f00-b169-e4927c50902b.html",
-   "pub_ts": 1795808058,
-   "n_sources": 2,
+   "title": "Più satelliti che stelle nel cielo notturno di molte città",
+   "summary": "Un centinaio sono visibili grazie alla luce solare dopo il tramonto e prima dell'alba",
+   "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/28/piu-satelliti-che-stelle-nel-cielo-notturno-di-molte-citta_6c95c2c1-f28e-4269-94e8-24e9cc6a2172.html",
+   "pub_ts": 1795850291,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
-     "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/ansa-linkedin-in-italia-ha-oltre-27-milioni-di-utenti-ia-ridefinisce-le-professioni_dab62c4b-9b18-4f00-b169-e4927c50902b.html",
-     "title": "LinkedIn in Italia ha oltre 27 milioni di utenti, l'IA ridefinisce le professioni"
+     "name": "ANSA",
+     "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/28/piu-satelliti-che-stelle-nel-cielo-notturno-di-molte-citta_6c95c2c1-f28e-4269-94e8-24e9cc6a2172.html",
+     "title": "Più satelliti che stelle nel cielo notturno di molte città"
     },
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/linkedin-compie-15-anni-in-italia-da-2-a-oltre-27-milioni-di-membri-57d69861-886b-4f2d-b43d-083340909d41.html",
-     "title": "LinkedIn compie 15 anni in Italia: da 2 a oltre 27 milioni di membri"
-    }
-   ]
-  },
-  {
-   "category": "tech",
-   "area": null,
-   "title": "Elon Musk potrà lanciare un milione di satelliti per l’IA: rischi e utopia dei data center orbitali",
-   "summary": "La FCC ha autorizzato SpaceX a costruire la più grande costellazione satellitare mai proposta, destinata a ospitare computer per l’intelligenza artificiale. Il progetto promette energia solare quasi continua e una capacità di calcolo enorme. Ma affronterà problemi tecnici,...",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/27/news/spacex-milione-satelliti-ia-data-center-elon-musk-425754676/?rss",
-   "pub_ts": 1795806246,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
     {
      "name": "Repubblica Tecnologia",
      "link": "https://www.repubblica.it/tecnologia/2026/11/27/news/spacex-milione-satelliti-ia-data-center-elon-musk-425754676/?rss",
@@ -339,22 +262,22 @@
   {
    "category": "tech",
    "area": null,
-   "title": "Mattarella, l'IA presenta prospettive suggestive ma anche rischio di arretramento",
-   "summary": "Il presidente all'inaugurazione dell'anno accademico Pontificia Università Lateranense",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/mattarella-ia-presenta-prospettive-suggestive-ma-anche-rischio-di-arretramento_a2437731-ed0b-4685-ba30-647ca7b0b4c2.html",
-   "pub_ts": 1795703048,
+   "title": "LinkedIn in Italia ha oltre 27 milioni di utenti, l'IA ridefinisce le professioni",
+   "summary": "La piattafforma festeggia 15 anni nel paese, lavoro ibrido richiesto e resta gender gap",
+   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/ansa-linkedin-in-italia-ha-oltre-27-milioni-di-utenti-ia-ridefinisce-le-professioni_dab62c4b-9b18-4f00-b169-e4927c50902b.html",
+   "pub_ts": 1795846420,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Tecnologia",
-     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/mattarella-ia-presenta-prospettive-suggestive-ma-anche-rischio-di-arretramento_a2437731-ed0b-4685-ba30-647ca7b0b4c2.html",
-     "title": "Mattarella, l'IA presenta prospettive suggestive ma anche rischio di arretramento"
+     "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/ansa-linkedin-in-italia-ha-oltre-27-milioni-di-utenti-ia-ridefinisce-le-professioni_dab62c4b-9b18-4f00-b169-e4927c50902b.html",
+     "title": "LinkedIn in Italia ha oltre 27 milioni di utenti, l'IA ridefinisce le professioni"
     },
     {
-     "name": "ANSA Politica",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/26/mattarella-ia-presenta-prospettive-suggestive-ma-anche-rischio-di-arretramento_4b559ed6-2abf-4449-94b2-db7c93b46ec2.html",
-     "title": "Mattarella: 'IA presenta prospettive suggestive ma anche rischio di arretramento'"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/linkedin-compie-15-anni-in-italia-da-2-a-oltre-27-milioni-di-membri-57d69861-886b-4f2d-b43d-083340909d41.html",
+     "title": "LinkedIn compie 15 anni in Italia: da 2 a oltre 27 milioni di membri"
     }
    ]
   },
@@ -376,24 +299,64 @@
    ]
   },
   {
+   "category": "tech",
+   "area": null,
+   "title": "All'aeroporto di Fiumicino arriva lo Spazio: un'area interattiva per l'esplorazione con l'AI",
+   "summary": "Il cosmo (interattivo) atterra a Fiumicino. Per i passeggeri in transito modelli tridimensionali, animazioni, un astronauta ad oleogramma. Parmitano testimonial d'eccezione. Inaugurata una nuova area",
+   "link": "https://www.rainews.it/articoli/2026/11/allaeroporto-di-fiumicino-arriva-lo-spazio-unarea-interattiva-per-lesplorazione-con-lai-roma-3bf2f1d1-50c6-448d-960c-945599f33c00.html",
+   "pub_ts": 1795853040,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/allaeroporto-di-fiumicino-arriva-lo-spazio-unarea-interattiva-per-lesplorazione-con-lai-roma-3bf2f1d1-50c6-448d-960c-945599f33c00.html",
+     "title": "All'aeroporto di Fiumicino arriva lo Spazio: un'area interattiva per l'esplorazione con l'AI"
+    }
+   ]
+  },
+  {
    "category": "varia",
    "area": null,
-   "title": "David Fincher ammette l'uso dell'IA nel film su Cliff Booth",
-   "summary": "Il regista ne difende l'uso \"per valorizzare il lavoro di esseri umani in carne e ossa\"",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/26/david-fincher-ammette-luso-dellia-nel-film-su-cliff-booth_403cada8-e50b-4a32-9b59-5ee950a57c27.html",
-   "pub_ts": 1795793498,
+   "title": "Che Tempo Che Fa, tra gli ospiti Nanni Moretti, Jasmine Trinca e Stefano De Martino",
+   "summary": "Nel salotto di Fabio Fazio anche Ambra Angiolini e Max Pezzali",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/che-tempo-che-fa-tra-gli-ospiti-nanni-moretti-jasmine-trinca_46fdf72b-9df6-41a2-a437-5cedf9c43e67.html",
+   "pub_ts": 1795858502,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/26/david-fincher-ammette-luso-dellia-nel-film-su-cliff-booth_403cada8-e50b-4a32-9b59-5ee950a57c27.html",
-     "title": "David Fincher ammette l'uso dell'IA nel film su Cliff Booth"
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/che-tempo-che-fa-tra-gli-ospiti-nanni-moretti-jasmine-trinca_46fdf72b-9df6-41a2-a437-5cedf9c43e67.html",
+     "title": "Che Tempo Che Fa, tra gli ospiti Nanni Moretti, Jasmine Trinca e Stefano De Martino"
     },
     {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/27/tarantino-fincher-disavventure-cliff-booth/",
-     "title": "Il film di Quentin Tarantino e David Fincher"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/28/per-nanni-moretti-ho-cantato-achille-lauro-e-ho-ballato-vergognandomi-molto-per-le-scene-di-sesso-ha-fatto-tutto-jasmine-trinca-cosi-louis-garrel/8586448/",
+     "title": "“Per Nanni Moretti ho cantato Achille Lauro e ho ballato, vergognandomi molto. Per le scene di sesso ha fatto tutto Jasmine Trinca”: così Louis Garrel"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
+   "category": "varia",
+   "area": null,
+   "title": "Corrado Augias, oggi la commemorazione all'Auditorium con Ezio Mauro e Nicola Piovani",
+   "summary": "Sul palco i ricordi dei familiari e degli amici di una vita ma soprattutto le musiche più amate. Un maxischermo nella Cavea per il commiato al giornalista scomparso il 19 novembre",
+   "link": "https://roma.repubblica.it/cronaca/2026/11/28/diretta/augias_commemorazione_oggi_auditorium_diretta-425756070/",
+   "pub_ts": 1795857185,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "la Repubblica",
+     "link": "https://roma.repubblica.it/cronaca/2026/11/28/diretta/augias_commemorazione_oggi_auditorium_diretta-425756070/",
+     "title": "Corrado Augias, oggi la commemorazione all'Auditorium con Ezio Mauro e Nicola Piovani"
+    },
+    {
+     "name": "Adnkronos Cultura",
+     "link": "https://www.adnkronos.com/cultura/corrado-augias-omaggio-auditorium-parco-della-musica_13xB4PdQMmYRYmP6Qk5lNh",
+     "title": "Corrado Augias, oggi il ricordo in musica e parole all'Auditorium Parco Musica: la scaletta"
     }
    ],
    "subtype": "cultura"
@@ -424,22 +387,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Nella basilica di Ss. Annunziata 'rinasce' la Cappella del Giambologna",
-   "summary": "Completato percorso restauro iniziato nel 2008 grazie a finanziamento Friends of Florence",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/26/nella-basilica-di-ss.-annunziata-rinasce-la-cappella-del-giambologna_83dbaca5-b862-479d-b148-6a2748e1eaf5.html",
-   "pub_ts": 1795706327,
-   "n_sources": 2,
-   "documented": true,
+   "title": "Pierino e il lupo, a Santa Cecilia la fiaba musicale con la voce di Danilo Bertazzi",
+   "summary": "Il 30 novembre appuntamento per i bambini all'Auditorium con la JuniOrchestra",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/28/pierino-e-il-lupo-a-santa-cecilia-la-fiaba-musicale-con-la-voce-di-danilo-bertazzi_069b4beb-64f3-4930-a78e-72d28362e914.html",
+   "pub_ts": 1795859634,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/26/nella-basilica-di-ss.-annunziata-rinasce-la-cappella-del-giambologna_83dbaca5-b862-479d-b148-6a2748e1eaf5.html",
-     "title": "Nella basilica di Ss. Annunziata 'rinasce' la Cappella del Giambologna"
-    },
-    {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/completato-il-restauro-della-cappella-del-giambologna-nella-basilica-della-santissima-annunziata-di-firenze_4fubi7PgBIbmGXYbUgzS9J",
-     "title": "Completato il restauro della Cappella del Giambologna nella basilica della Santissima Annunziata di Firenze"
+     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/28/pierino-e-il-lupo-a-santa-cecilia-la-fiaba-musicale-con-la-voce-di-danilo-bertazzi_069b4beb-64f3-4930-a78e-72d28362e914.html",
+     "title": "Pierino e il lupo, a Santa Cecilia la fiaba musicale con la voce di Danilo Bertazzi"
     }
    ],
    "subtype": "cultura"
@@ -447,35 +405,17 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Corrado Augias, oggi il ricordo in musica e parole all'Auditorium Parco Musica: la scaletta",
-   "summary": "(Adnkronos) - Familiari, amici e colleghi celebrano il giornalista morto lo scorso 19 novembre con interventi, filmati e l'esibizione al pianoforte di Nicola Piovani",
-   "link": "https://www.adnkronos.com/cultura/corrado-augias-omaggio-auditorium-parco-della-musica_13xB4PdQMmYRYmP6Qk5lNh",
-   "pub_ts": 1795820461,
+   "title": "Un ponte sanitario tra Genova e Camerun, al via il progetto",
+   "summary": "Promosso da Filmi e dalla Fondazione Pallavicino",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/26/un-ponte-sanitario-tra-genova-e-camerun-al-via-progetto_3bfc20ce-29e8-456c-9bf2-1fc8e7a43a62.html",
+   "pub_ts": 1795847255,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/corrado-augias-omaggio-auditorium-parco-della-musica_13xB4PdQMmYRYmP6Qk5lNh",
-     "title": "Corrado Augias, oggi il ricordo in musica e parole all'Auditorium Parco Musica: la scaletta"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Ballando con le Stelle, Paolo Belli: \"Il lavoro è la mia medicina\"",
-   "summary": "Il cantante ha definito il ritorno sul palco una vera e propria \"medicina\" per ricominciare a vivere, ringraziando la moglie Deana e tutta la squadra del programma per il sostegno ricevuto in questo periodo difficile",
-   "link": "https://www.rainews.it/video/2026/11/ballando-con-le-stelle-paolo-belli-il-lavoro-e-la-mia-medicina-c783629d-e2fc-42a4-b43e-50899524b3b2.html",
-   "pub_ts": 1795816440,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/ballando-con-le-stelle-paolo-belli-il-lavoro-e-la-mia-medicina-c783629d-e2fc-42a4-b43e-50899524b3b2.html",
-     "title": "Ballando con le Stelle, Paolo Belli: \"Il lavoro è la mia medicina\""
+     "name": "ANSA Salute",
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/26/un-ponte-sanitario-tra-genova-e-camerun-al-via-progetto_3bfc20ce-29e8-456c-9bf2-1fc8e7a43a62.html",
+     "title": "Un ponte sanitario tra Genova e Camerun, al via il progetto"
     }
    ],
    "subtype": "scienza"
@@ -483,68 +423,48 @@
   {
    "category": "cronaca",
    "area": null,
-   "title": "Attacco con droni in Kuwait, morti due tecnici italiani",
-   "summary": "\"E' stato l'Iran\". Ma Teheran sente Tajani e nega, 'pronti ad inchiesta congiunta'",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html",
-   "pub_ts": 1795808033,
-   "n_sources": 9,
+   "title": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto",
+   "summary": "I carabinieri, su ordine della Procura di Patti, hanno arrestato Agostino Segreto, amico dell'82enne Antonio Gatani, la più anziana delle vittime. E' accusato di omicidio volontario",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto-_3c7f37fd-7c54-41a9-94ee-23f1d3463981.html",
+   "pub_ts": 1795857177,
+   "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html",
-     "title": "Attacco con droni in Kuwait, morti due tecnici italiani"
-    },
-    {
-     "name": "Repubblica Esteri",
-     "link": "https://www.repubblica.it/esteri/2026/11/26/news/attacco_iraniano_in_kuwait_due_italiani_feriti_gravi_condizioni-425752146/?rss",
-     "title": "Attacco in Kuwait: morti due tecnici italiani della Rheinmetall. Telefonata Tajani- Araghchi: “Drone costruito in Iran ma negano ruolo”"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto-_3c7f37fd-7c54-41a9-94ee-23f1d3463981.html",
+     "title": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto"
     },
     {
      "name": "ANSA Cronaca",
-     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/saccoccio-e-lo-russo-chi-erano-i-due-tecnici-morti-in-kuwait_25cdff06-f763-4a56-840c-5983e2295a1e.html",
-     "title": "Saccoccio e Lo Russo, chi erano i due tecnici morti in Kuwait"
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto_0a77eadc-dc4c-40fb-98f8-bdd66e511d8f.html",
+     "title": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto"
     },
     {
-     "name": "ANSA Mondo",
-     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/26/araghchi-a-tajani-cordoglio-per-vittime-dellattacco-in-kuwait_583ac7a2-08c6-47b8-8aa0-0ffacecb9234.html",
-     "title": "Araghchi a Tajani, 'cordoglio per vittime dell'attacco in Kuwait'"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/28/cacciatori-morti-montagnareale-arrestato-superstite-sparatoria-agostino-segreto/",
+     "title": "Svolta nel giallo dei cacciatori uccisi a Montagnareale: arrestato l’unico superstite della sparatoria"
     },
     {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/attacco-drone-kuwait-italiani-morti-cosa-e-successo-indagine-iran-g8h5e9i0",
-     "title": "Attacco in Kuwait, la versione dei Pasdaran: «Attenti a chi vuol trascinarvi nel conflitto»"
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/tre-cacciatori-morti-analisi-confermano-arrestato-unico-superstite-e762de29-fc11-4809-a374-5b00d6d9ecd5.html",
+     "title": "Tre cacciatori morti, le analisi confermano: arrestato unico superstite"
     },
     {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/kuwait-attacco-drone-italiani-morti-cosa-sappiamo_5gZ5lXDuqgcBWqfDRvdje3",
-     "title": "Droni sul Kuwait, morti due tecnici italiani di 65 e 36 anni. Le accuse all'Iran, la smentita di Teheran"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/cronaca/2026/11/26/news/attacco_con_droni_kuwait_chi_sono_tecnici_italiani_uccisi-425752764/",
-     "title": "Attacco con droni in Kuwait, chi sono i due tecnici italiani rimasti uccisi"
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/26/kuwait-droni-italiani-uccisi/",
-     "title": "L’attacco di droni iraniani che ha ucciso due italiani in Kuwait"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/i-droni-intercettati-le-schegge-liran-cosi-sono-morti-i-due-italiani-in-kuwait/",
-     "title": "I droni intercettati, le schegge, l’Iran: così sono morti i due italiani in Kuwait"
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/28/cacciatori-morti-montagnareale-segreto-arrestato-notizie/8586454/",
+     "title": "Svolta nel giallo dei tre cacciatori morti: arrestato un quarto uomo, è accusato di omicidio volontario"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Francesca Albanese bloccata in aeroporto, Costa Rica le nega il visto: “Legami terroristici”",
-   "link": "https://www.repubblica.it/esteri/2026/11/27/news/francesca_albanese_costa_rica_bloccata_legami_terroristici-425753818/?rss",
-   "description": "La relatrice Onu per i territori palestinesi avrebbe dovuto ricevere una laurea honoris causa: “Vergogna, ecco il volto dell’impero”. Israele plaude alla decisione",
-   "pub_ts": 1795798209,
-   "source": "Repubblica Esteri",
+   "title": "Nordio ai magistrati: 'Stiamo superando i dissidi, lavoriamo insieme'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
+   "description": "Il ministro della Giustizia al congresso dell'Anm: 'Preso atto dei risultati del referendum, vanno eseguiti'",
+   "pub_ts": 1795859590,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
@@ -552,106 +472,97 @@
    "title": "Spagna, l’insulto di Feijóo a Colau che può cambiare l’esito del voto: “Stia zitta”",
    "link": "https://www.repubblica.it/esteri/2026/11/27/news/spagna_elezioni_insulto_di_feijoo_a_colau_puo_cambiare_esito_voto_stai_zitta-425754116/?rss",
    "description": "Durante il confronto televisivo di ieri sera tra i quattro candidati che domenica si contendono la presidenza del Governo, il leader del Partito Popolare si è rivolto così alla rappresentante del Frente Amplio. L’ex sindaca di Barcellona è la vincitrice del faccia a faccia in...",
-   "pub_ts": 1795791840,
+   "pub_ts": 1795859548,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "La Camera approva il decreto scuola, 142 i sì, 112 i no",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/26/la-camera-approva-il-decreto-scuola-142-i-si-112-i-no_4beb1e8e-8990-4b06-a469-8e026622062b.html",
-   "description": "Gli astenuti sono stati 4. Sul provvedimento il governo aveva posto la fiducia",
-   "pub_ts": 1795807199,
-   "source": "ANSA Politica",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Accordo per De Cos alla Bce, ma è muro contro muro sul bilancio Ue",
-   "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/accordo-per-de-cos-alla-bce-ma-e-muro-contro-muro-sul-bilancio_b89e1430-4300-482f-9508-c475065af9d8.html",
-   "description": "Via libera dei 27 allo spagnolo. Resta lo scontro tra modernizzatori e coesionisti",
-   "pub_ts": 1795759189,
-   "source": "ANSA",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Spagna, la gaffe sessista del leader dei popolari. Sánchez torna a sperare",
-   "link": "https://www.repubblica.it/esteri/2026/11/28/news/sanchez_incubo_franco_assist_machista_pp_feijoo_zittisce_ada_colau_speranza_socialisti-425755545/?rss",
-   "description": "Ieri a Madrid l’ultimo appello al voto del premier: “Non torniamo indietro”. In tv Feijóo zittisce Ada Colau e svela il volto più buio della destra spagnola",
+   "title": "I britannici difendono l’Ucraina: “Operazione del tutto legittima”",
+   "link": "https://www.repubblica.it/esteri/2026/11/28/news/ucraina_raid_libia_britannici_difendono_l_ucraina_operazione_legittima-425755489/?rss",
+   "description": "Ma Tajani, dal palco delle conferenza anglo-italiana di Pontignano, gela la sala: “Un errore grave esportare la guerra nel Mediterraneo”",
    "pub_ts": 1795824000,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Zelensky: “Libia? Non agiamo senza coordinarci con partner”. Crosetto: “Falso”. Anche Tajani nega",
-   "link": "https://www.repubblica.it/esteri/2026/11/27/news/zelensky_libia_non_agiamo_senza_coordinarci_con_partner_tajani_smentisce_presidente_ucraino_reazioni_italia_conte_lega_m-425755132/?rss",
-   "description": "Il presidente ucraino sull’attacco di Kiev nelle acque territoriali libiche. Il ministro degli Esteri italiano: “Nessuno di noi era stato informato, nessuno sapeva alcunché di quello che stavano facendo in Libia”. Le reazioni di Lega e M5S",
-   "pub_ts": 1795803310,
-   "source": "Repubblica Esteri",
+   "title": "Legge elettorale, La Russa: «Il no della Consulta all’indicazione del premier sarebbe un aiuto alla sinistra»",
+   "link": "https://www.editorialedomani.it/politica/italia/legge-elettorale-la-russa-consulta-indicazione-premier-aiuto-sinistra-reazioni-qqgxynas",
+   "description": "Alla Versiliana il presidente del Senato, seconda carica dello Stato, afferma che un intervento della Corte su quel punto sarebbe «una violazione della Costituzione». Parole «di una gravità costituzionale inaudita» per Boccia (Pd), un «intollerabile attacco alla sua indipendenza», ha detto Magi (+Europa)",
+   "pub_ts": 1795857602,
+   "source": "Domani",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Melonellum, La Russa attacca la Consulta: “No a indicazione premier? Sarebbe aiuto alla sinistra”",
-   "link": "https://www.repubblica.it/politica/2026/11/27/news/la_russa_attacco_consulta_legge_elettorale-425755444/",
-   "description": "Per il presidente del Senato un intervento della Corte sulla nuova legge elettorale sarebbe anche “una violazione della Costituzione”",
-   "pub_ts": 1795810105,
+   "title": "Gaza, Medici senza Frontiere: \"Uccisi due nostri operatori in un attacco Idf\"",
+   "link": "https://www.rainews.it/video/2026/11/due-operatori-di-msf-uccisi-in-un-attacco-israeliano-a-gaza-ce3589fc-d6e7-464b-ac8f-54aceec93905.html",
+   "description": "\"Sconvolti e indignati per l'uccisione di due membri del proprio personale, entrambi addetti alla sorveglianza. Si tratta di un attacco diretto a MSF\", scrive l'organizzazione in un comunicato",
+   "pub_ts": 1795855860,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Kuwait, attacco con droni iraniani contro una base: morti due tecnici italiani",
+   "link": "https://www.rainews.it/video/2026/11/kuwait-attacco-con-droni-iraniani-contro-una-base-morti-due-tecnici-italiani-2fb9d0e8-bdb8-4285-92b3-cc50d9748525.html",
+   "description": "L'emirato del Golfo accusa direttamente Teheran per il raid condotto con velivoli di fabbricazione iraniana, ma la Repubblica Islamica smentisce",
+   "pub_ts": 1795825740,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Guerra Ucraina-Russia, le news di oggi. Drone di Mosca abbattuto con il laser. “È la prima volta”",
+   "link": "https://www.repubblica.it/esteri/2026/11/28/diretta/guerra_ucraina_russia_news_oggi-425755769/",
+   "description": "La sperimentazione confermata dal gruppo per la Difesa sostenuto da Kiev",
+   "pub_ts": 1795821275,
    "source": "la Repubblica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Attacchi hacker ai frigoriferi in Slovenia con la faccia di Salvini: “Ringraziate lo zio Matteo”",
-   "link": "https://www.repubblica.it/politica/2026/11/27/news/attacchi_hacker_frigoriferi_slovenia_salvini-425755367/",
-   "description": "Un’azienda di alimentari a Tolmino (vicino a Udine) è stata colpita: surriscaldate le celle. La foto del vicepremier ha bloccato il sistema informatico. L’allarme delle intelligence europee",
-   "pub_ts": 1795804110,
-   "source": "la Repubblica",
+   "title": "“Ho il terrore dell’Alzheimer. Il pensiero di non riconoscere i miei figli, mi fa piangere. Mi ferisce quando mi impegno politicamente e la gente scrive ‘continua a fare l’attore’”: così Pierpaolo Spollon",
+   "link": "https://www.ilfattoquotidiano.it/2026/11/28/ho-il-terrore-dellalzheimer-il-pensiero-di-non-riconoscere-i-miei-figli-mi-fa-piangere-cosi-pierpaolo-spollon/8586455/",
+   "description": "Pierpaolo Spollon il 26 novembre ha salutato i telespettatori al termine della quarta stagione di “Doc-Nelle tue mani”, su Rai Uno, mentre su Netflix è protagonista “Chiaroscuro”. “I medici sono messi in una condizione di stress, portati al limite, ha detto a La Repubblica – per l’assenza di sonno, le aggressioni. Leggi cose incredibili, è […] L'articolo “Ho il terrore dell’Alzheimer. Il pensiero…",
+   "pub_ts": 1795856169,
+   "source": "Il Fatto Quotidiano",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Attacco ucraino in Libia, il messaggio della Russia: \"Kiev può usare il territorio dell'Italia per un nuovo attacco\"",
-   "link": "https://www.adnkronos.com/internazionale/esteri/russia-italia-libia-attacco-ucraina_4MHXptXCmwbqFtBCMbHH5N",
-   "description": "(Adnkronos) - Dopo l'attacco di Kiev alle navi russe a Bengasi, il post dell'ambasciata russa a Roma: \"L'Italia apra gli occhi\"",
-   "pub_ts": 1795802252,
-   "source": "Adnkronos Esteri",
+   "title": "Per Zelensky essere amici di Putin oggi è come esserlo stati di Hitler",
+   "link": "https://www.ilpost.it/2026/11/27/zelensky-hitler-seconda-guerra-mondiale-putin/",
+   "description": "Ha detto che il presidente russo è «un aggressore e un assassino» e che è «strano» che Trump lo definisca un amico",
+   "pub_ts": 1795775579,
+   "source": "Il Post",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Trump su Truth evoca Il Padrino e diventa \"Veto Corleone\": l'immagine con l'Ia per minacciare i democratici",
-   "link": "https://www.adnkronos.com/internazionale/esteri/trump-post-truth-padrino-veto-corleone_1TE9CShxRxggvtEfqeoRgn",
-   "description": "(Adnkronos) - Così il presidente ribadisce l'intenzione di bloccare con i poteri presidenziali le leggi a lui sgradite varate dal nuovo Congresso",
-   "pub_ts": 1795800457,
-   "source": "Adnkronos Esteri",
+   "title": "Come funziona il decreto legge Bollette",
+   "link": "https://www.ansa.it/sito/videogallery/italia/2026/11/28/come-funziona-il-decreto-legge-bollette_5d20fa62-b3ac-48fd-9cb6-29d7eae45b3e.html",
+   "description": "Dal 1° gennaio scatta un meccanismo che agisce sul prezzo del gas per ridurre le tariffe elettriche",
+   "pub_ts": 1795854359,
+   "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
+  },
+  {
+   "title": "Più satelliti che stelle nel cielo notturno di molte città",
+   "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/28/piu-satelliti-che-stelle-nel-cielo-notturno-di-molte-citta_6c95c2c1-f28e-4269-94e8-24e9cc6a2172.html",
+   "description": "Un centinaio sono visibili grazie alla luce solare dopo il tramonto e prima dell'alba",
+   "pub_ts": 1795850291,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "tech"
   },
   {
    "title": "LinkedIn in Italia ha oltre 27 milioni di utenti, l'IA ridefinisce le professioni",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/ansa-linkedin-in-italia-ha-oltre-27-milioni-di-utenti-ia-ridefinisce-le-professioni_dab62c4b-9b18-4f00-b169-e4927c50902b.html",
-   "description": "Piattafforma festeggia 15 anni nel paese, lavoro ibrido richiesto e resta gender gap",
-   "pub_ts": 1795808058,
-   "source": "ANSA Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Elon Musk potrà lanciare un milione di satelliti per l’IA: rischi e utopia dei data center orbitali",
-   "link": "https://www.repubblica.it/tecnologia/2026/11/27/news/spacex-milione-satelliti-ia-data-center-elon-musk-425754676/?rss",
-   "description": "La FCC ha autorizzato SpaceX a costruire la più grande costellazione satellitare mai proposta, destinata a ospitare computer per l’intelligenza artificiale. Il progetto promette energia solare quasi continua e una capacità di calcolo enorme. Ma affronterà problemi tecnici,...",
-   "pub_ts": 1795806246,
-   "source": "Repubblica Tecnologia",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Mattarella, l'IA presenta prospettive suggestive ma anche rischio di arretramento",
-   "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/mattarella-ia-presenta-prospettive-suggestive-ma-anche-rischio-di-arretramento_a2437731-ed0b-4685-ba30-647ca7b0b4c2.html",
-   "description": "Il presidente all'inaugurazione dell'anno accademico Pontificia Università Lateranense",
-   "pub_ts": 1795703048,
+   "description": "La piattafforma festeggia 15 anni nel paese, lavoro ibrido richiesto e resta gender gap",
+   "pub_ts": 1795846420,
    "source": "ANSA Tecnologia",
    "source_priority": 1,
    "section": "tech"
@@ -666,11 +577,29 @@
    "section": "tech"
   },
   {
-   "title": "David Fincher ammette l'uso dell'IA nel film su Cliff Booth",
-   "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/26/david-fincher-ammette-luso-dellia-nel-film-su-cliff-booth_403cada8-e50b-4a32-9b59-5ee950a57c27.html",
-   "description": "Il regista ne difende l'uso \"per valorizzare il lavoro di esseri umani in carne e ossa\"",
-   "pub_ts": 1795793498,
+   "title": "All'aeroporto di Fiumicino arriva lo Spazio: un'area interattiva per l'esplorazione con l'AI",
+   "link": "https://www.rainews.it/articoli/2026/11/allaeroporto-di-fiumicino-arriva-lo-spazio-unarea-interattiva-per-lesplorazione-con-lai-roma-3bf2f1d1-50c6-448d-960c-945599f33c00.html",
+   "description": "Il cosmo (interattivo) atterra a Fiumicino. Per i passeggeri in transito modelli tridimensionali, animazioni, un astronauta ad oleogramma. Parmitano testimonial d'eccezione. Inaugurata una nuova area",
+   "pub_ts": 1795853040,
+   "source": "Rai News",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "Che Tempo Che Fa, tra gli ospiti Nanni Moretti, Jasmine Trinca e Stefano De Martino",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/che-tempo-che-fa-tra-gli-ospiti-nanni-moretti-jasmine-trinca_46fdf72b-9df6-41a2-a437-5cedf9c43e67.html",
+   "description": "Nel salotto di Fabio Fazio anche Ambra Angiolini e Max Pezzali",
+   "pub_ts": 1795858502,
    "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Corrado Augias, oggi la commemorazione all'Auditorium con Ezio Mauro e Nicola Piovani",
+   "link": "https://roma.repubblica.it/cronaca/2026/11/28/diretta/augias_commemorazione_oggi_auditorium_diretta-425756070/",
+   "description": "Sul palco i ricordi dei familiari e degli amici di una vita ma soprattutto le musiche più amate. Un maxischermo nella Cavea per il commiato al giornalista scomparso il 19 novembre",
+   "pub_ts": 1795857185,
+   "source": "la Repubblica",
    "source_priority": 1,
    "section": "varia"
   },
@@ -684,37 +613,28 @@
    "section": "varia"
   },
   {
-   "title": "Nella basilica di Ss. Annunziata 'rinasce' la Cappella del Giambologna",
-   "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/26/nella-basilica-di-ss.-annunziata-rinasce-la-cappella-del-giambologna_83dbaca5-b862-479d-b148-6a2748e1eaf5.html",
-   "description": "Completato percorso restauro iniziato nel 2008 grazie a finanziamento Friends of Florence",
-   "pub_ts": 1795706327,
+   "title": "Pierino e il lupo, a Santa Cecilia la fiaba musicale con la voce di Danilo Bertazzi",
+   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/28/pierino-e-il-lupo-a-santa-cecilia-la-fiaba-musicale-con-la-voce-di-danilo-bertazzi_069b4beb-64f3-4930-a78e-72d28362e914.html",
+   "description": "Il 30 novembre appuntamento per i bambini all'Auditorium con la JuniOrchestra",
+   "pub_ts": 1795859634,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Corrado Augias, oggi il ricordo in musica e parole all'Auditorium Parco Musica: la scaletta",
-   "link": "https://www.adnkronos.com/cultura/corrado-augias-omaggio-auditorium-parco-della-musica_13xB4PdQMmYRYmP6Qk5lNh",
-   "description": "(Adnkronos) - Familiari, amici e colleghi celebrano il giornalista morto lo scorso 19 novembre con interventi, filmati e l'esibizione al pianoforte di Nicola Piovani",
-   "pub_ts": 1795820461,
-   "source": "Adnkronos Cultura",
+   "title": "Un ponte sanitario tra Genova e Camerun, al via il progetto",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/26/un-ponte-sanitario-tra-genova-e-camerun-al-via-progetto_3bfc20ce-29e8-456c-9bf2-1fc8e7a43a62.html",
+   "description": "Promosso da Filmi e dalla Fondazione Pallavicino",
+   "pub_ts": 1795847255,
+   "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Ballando con le Stelle, Paolo Belli: \"Il lavoro è la mia medicina\"",
-   "link": "https://www.rainews.it/video/2026/11/ballando-con-le-stelle-paolo-belli-il-lavoro-e-la-mia-medicina-c783629d-e2fc-42a4-b43e-50899524b3b2.html",
-   "description": "Il cantante ha definito il ritorno sul palco una vera e propria \"medicina\" per ricominciare a vivere, ringraziando la moglie Deana e tutta la squadra del programma per il sostegno ricevuto in questo periodo difficile",
-   "pub_ts": 1795816440,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Attacco con droni in Kuwait, morti due tecnici italiani",
-   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html",
-   "description": "\"E' stato l'Iran\". Ma Teheran sente Tajani e nega, 'pronti ad inchiesta congiunta'",
-   "pub_ts": 1795808033,
+   "title": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto-_3c7f37fd-7c54-41a9-94ee-23f1d3463981.html",
+   "description": "I carabinieri, su ordine della Procura di Patti, hanno arrestato Agostino Segreto, amico dell'82enne Antonio Gatani, la più anziana delle vittime. E' accusato di omicidio volontario",
+   "pub_ts": 1795857177,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
