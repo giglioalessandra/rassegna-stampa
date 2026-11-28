@@ -1,6 +1,6 @@
 {
- "generated_at": 1795860231,
- "updated_at": 1795860231,
+ "generated_at": 1795891521,
+ "updated_at": 1795891521,
  "quotas": {
   "politica": 10,
   "tech": 4,
@@ -9,45 +9,38 @@
  "items": [
   {
    "category": "politica",
-   "area": "italia",
-   "title": "Nordio ai magistrati: 'Stiamo superando i dissidi, lavoriamo insieme'",
-   "summary": "Il ministro della Giustizia al congresso dell'Anm: 'Preso atto dei risultati del referendum, vanno eseguiti'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
-   "pub_ts": 1795859590,
-   "n_sources": 3,
+   "area": "mondo",
+   "title": "Giornata di riflessione in famiglia per i candidati alle elezioni politiche in Spagna",
+   "summary": "Ma il leader del Pp Feijoo rompe la tradizione e vola a Ceuta",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/28/giornata-di-riflessione-in-famiglia-per-i-candidati-alle-elezioni-politiche-in-spagna_c1fed763-2de7-4c1a-8320-0dadf7a8ca3b.html",
+   "pub_ts": 1795889040,
+   "n_sources": 7,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
-     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
-     "title": "Nordio ai magistrati: 'Stiamo superando i dissidi, lavoriamo insieme'"
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/28/giornata-di-riflessione-in-famiglia-per-i-candidati-alle-elezioni-politiche-in-spagna_c1fed763-2de7-4c1a-8320-0dadf7a8ca3b.html",
+     "title": "Giornata di riflessione in famiglia per i candidati alle elezioni politiche in Spagna"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/28/congresso-anm-nordio-dissidi-gratteri-interventi/",
-     "title": "Congresso Anm, Nordio tende la mano: «Superati i dissidi, lavoriamo insieme». Gratteri attacca sugli stipendi: «Soldi per i funzionari di Palazzo Chigi sì e per i magistrati no?»"
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/28/giornata-di-riflessione-in-famiglia-per-i-candidati-alle-elezioni-politiche-in-spagna_391e207b-91d3-4eeb-8ff5-1916b31ce7c6.html",
+     "title": "Giornata di riflessione in famiglia per i candidati alle elezioni politiche in Spagna"
     },
-    {
-     "name": "la Repubblica",
-     "link": "https://napoli.repubblica.it/cronaca/2026/11/28/news/congresso_anm_nordio_magistrati_stiamo_superando_i_dissidi_lavoriamo_insieme-425756143/",
-     "title": "Congresso Anm, applausi per il ministro Nordio: “Stiamo superando i dissidi, lavoriamo insieme”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Spagna, l’insulto di Feijóo a Colau che può cambiare l’esito del voto: “Stia zitta”",
-   "summary": "Durante il confronto televisivo di ieri sera tra i quattro candidati che domenica si contendono la presidenza del Governo, il leader del Partito Popolare si è rivolto così alla rappresentante del Frente Amplio. L’ex sindaca di Barcellona è la vincitrice del faccia a faccia in...",
-   "link": "https://www.repubblica.it/esteri/2026/11/27/news/spagna_elezioni_insulto_di_feijoo_a_colau_puo_cambiare_esito_voto_stai_zitta-425754116/?rss",
-   "pub_ts": 1795859548,
-   "n_sources": 3,
-   "documented": true,
-   "sources": [
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/27/news/spagna_elezioni_insulto_di_feijoo_a_colau_puo_cambiare_esito_voto_stai_zitta-425754116/?rss",
      "title": "Spagna, l’insulto di Feijóo a Colau che può cambiare l’esito del voto: “Stia zitta”"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/maratona/2026/11/elezioni-politiche-in-spagna-oltre-38-milioni-di-cittadini-al-voto-sfida-partido-popular-psoe-feijoo-sanchez-38d150e0-41cf-410c-98da-7573b6f392b4.html",
+     "title": "Elezioni politiche in Spagna: oltre 38 milioni di cittadini al voto"
+    },
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/spagna-elezioni-sanchez-sfida_4386DaOaMhsf8vd4uZi3N",
+     "title": "Spagna al voto, domani le elezioni: sfida Sanchez-Feijòo, il premier cerca il 'miracolo'"
     },
     {
      "name": "Sole 24 Ore Mondo",
@@ -63,9 +56,245 @@
   },
   {
    "category": "politica",
+   "area": "italia",
+   "title": "Nordio: 'Stiamo superando i dissidi, completa sintonia con Meloni. I magistrati accettino di rateizzare gli stipendi arretrati'",
+   "summary": "Il ministro della Giustizia al congresso dell'Anm: 'Preso atto dei risultati del referendum, vanno eseguiti'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
+   "pub_ts": 1795889880,
+   "n_sources": 6,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
+     "title": "Nordio: 'Stiamo superando i dissidi, completa sintonia con Meloni. I magistrati accettino di rateizzare gli stipendi arretrati'"
+    },
+    {
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-magistrati-accettino-di-rateizzare-gli-stipendi-arretrati_7cb815b1-af65-40af-a4d1-9355db20d6d3.html",
+     "title": "Nordio, magistrati accettino di rateizzare gli stipendi arretrati"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/anm-scontro-stipendi-magistrati-nordio-rateizziamoli-tg3-antonello-b4e8e8b2-bdeb-4b5b-b56e-4e7a0ee33424.html",
+     "title": "Scontro sugli stipendi dei magistrati, Nordio: \"Rateizziamoli\""
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/28/congresso-anm-nordio-dissidi-gratteri-interventi/",
+     "title": "Nordio tende la mano ai magistrati: «Gli stipendi arretrati? Le sentenze vanno eseguite». Poi la nota: «Completa sintonia con Meloni»"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/nordio-contro-meloni-congresso-anm-arretrati-magistrati-rateizzati-gratteri-q4h6o3nz",
+     "title": "Nordio all’Anm: «Sì agli arretrati ai magistrati, ma potrebbero essere rateizzati»"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://napoli.repubblica.it/cronaca/2026/11/28/news/congresso_anm_nordio_magistrati_stiamo_superando_i_dissidi_lavoriamo_insieme-425756143/",
+     "title": "Nordio apre ai magistrati: “Le sentenze vanno eseguite, pagare gli arretrati”. Ma propone le rate"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Legge elettorale, Schlein: 'Inaccettabile l'intimidazione di La Russa, piantatela con gli attacchi ai giudici'",
+   "summary": "La segretaria dem: \"Avete già provato a stravolgere la Costituzione e vi hanno fermato 15 milioni di persone\"",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/schlein-inaccettabile-intimidazione-la-russa-piantatela-con-attacchi-ai-giudici_e6901f62-1455-4688-8e67-f225f4840ba2.html",
+   "pub_ts": 1795890404,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/schlein-inaccettabile-intimidazione-la-russa-piantatela-con-attacchi-ai-giudici_e6901f62-1455-4688-8e67-f225f4840ba2.html",
+     "title": "Legge elettorale, Schlein: 'Inaccettabile l'intimidazione di La Russa, piantatela con gli attacchi ai giudici'"
+    },
+    {
+     "name": "ANSA Cronaca",
+     "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/schlein-inaccettabile-intimidazione-di-la-russa-piantatela-con-attacchi-ai-giudici_0cd6bdbd-2bdd-4c16-825e-aa93ce0a1bb8.html",
+     "title": "Schlein, inaccettabile intimidazione di La Russa, piantatela con attacchi ai giudici"
+    },
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/28/news/schlein_la_russa_intimidazione_consulta-425756691/",
+     "title": "La Russa, Schlein: “Inaccettabile l’intimidazione alla Consulta”. Conte: “Ingerenza indebita”"
+    },
+    {
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/28/legge-elettorale-la-russa-consulta-opposizione-voto-anticipato/",
+     "title": "«Togliere l’indicazione del premier favorisce la sinistra»: bufera sulle parole di La Russa alla Consulta. Schlein: «Intimidazione inaccettabile»"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/italia/legge-elettorale-la-russa-consulta-indicazione-premier-aiuto-sinistra-reazioni-qqgxynas",
+     "title": "Legge elettorale, La Russa: «Il no della Consulta all’indicazione del premier sarebbe un aiuto alla sinistra»"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Israele, la mossa di Netanyahu: “Governo con Eisenkot”",
+   "summary": "Bibi prova a evitare la nascita di un esecutivo senza di lui: “Pronto a fare il premier a rotazione”",
+   "link": "https://www.repubblica.it/esteri/2026/11/28/news/israele_elezioni_mossa_netanyahu_governo_con_eisenkot-425757511/?rss",
+   "pub_ts": 1795887645,
+   "n_sources": 5,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/28/news/israele_elezioni_mossa_netanyahu_governo_con_eisenkot-425757511/?rss",
+     "title": "Israele, la mossa di Netanyahu: “Governo con Eisenkot”"
+    },
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/28/netanyahu-accetto-che-eisenkot-sia-primo-premier-in-governo-di-unita-a-rotazione_222aa7d3-7ad2-40e4-acbb-21b5555dd807.html",
+     "title": "Netanyahu, 'accetto che Eisenkot sia primo premier in governo di unità a rotazione'"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/due-operatori-medici-senza-frontiere-uccisi-gaza-attacco-israeliano-AJAdnvVC",
+     "title": "Israele, Netanyahu apre a un governo di unità nazionale con Eisenkot inizialmente premier"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/israele-netanyahu-accetto-eisenkot-premier-governo-unita-rotazione-j4hrjvaj",
+     "title": "Israele, Netanyahu: «Accetto che Eisenkot sia il primo premier in un governo di unità a rotazione»"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/28/israele-netanyahu-eisenkot-governo-notizie/8586918/",
+     "title": "Israele, Netanyahu rilancia: “Governo di unità nazionale con Eisenkot premier per primo, poi ci alterniamo”. E divide i partiti"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "Violenta protesta a Tirana, sassi e molotov contro la polizia",
+   "summary": "I manifestanti chiedono le dimissioni del premier socialista Edi Rama",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/28/violenta-protesta-a-tirana-sassi-e-molotov-contro-la-polizia_8f11c110-3199-4517-98f0-28dd9053a5ad.html",
+   "pub_ts": 1795881889,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/28/violenta-protesta-a-tirana-sassi-e-molotov-contro-la-polizia_8f11c110-3199-4517-98f0-28dd9053a5ad.html",
+     "title": "Violenta protesta a Tirana, sassi e molotov contro la polizia"
+    },
+    {
+     "name": "Sole 24 Ore Mondo",
+     "link": "https://www.ilsole24ore.com/art/albania-scontri-polizia-e-manifestanti-contro-premier-rama-AJi76qVC",
+     "title": "Albania, scontri tra polizia e manifestanti contro il premier Rama"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/28/proteste-albania-scontri-tirana-notizie/8586862/",
+     "title": "Albania, migliaia di persone ancora in piazza contro il governo: scontri tra polizia e manifestanti a Tirana"
+    }
+   ]
+  },
+  {
+   "category": "politica",
    "area": "mondo",
-   "title": "I britannici difendono l’Ucraina: “Operazione del tutto legittima”",
-   "summary": "Ma Tajani, dal palco delle conferenza anglo-italiana di Pontignano, gela la sala: “Un errore grave esportare la guerra nel Mediterraneo”",
+   "title": "Ucraina, media: Zelensky vuole distruggere completamente il ponte di Crimea",
+   "summary": "(Adnkronos) - Il 18 novembre droni e missili da crociera ucraini avevano colpito il ponte, in quello che è stato uno degli attacchi dal maggiore valore simbolico dall'inizio dell'invasione russa del 2022",
+   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-ponte-crimea_3Bo0cLk8LuuovkFCNfr5Xl",
+   "pub_ts": 1795864023,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-ponte-crimea_3Bo0cLk8LuuovkFCNfr5Xl",
+     "title": "Ucraina, media: Zelensky vuole distruggere completamente il ponte di Crimea"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/politica/mondo/russia-ucraina-ponte-crimea-attacchi-morti-caso-italia-libia-notizie-oggi-28-novembre-dkoecw5w",
+     "title": "Media, Kiev vuole abbattere del tutto il ponte di Crimea"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/media-zelensky-vuole-distruggere-completamente-il-ponte-della-crimea-la-guerra-in-ucraina-73e54686-d859-4e55-81d1-a17a319a44b0.html",
+     "title": "Media, Zelensky vuole distruggere completamente il ponte della Crimea"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "'Melania Trump potrebbe ambire al Nobel per la pace dopo la tregua in Ucraina'",
+   "summary": "Per gli esperti è una candidata 'più solida' del marito",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/28/melania-trump-potrebbe-ambire-al-nobel-per-la-pace-dopo-la-tregua-in-ucraina_49586e9d-9bcb-47bf-b1c3-9871dfa2dc99.html",
+   "pub_ts": 1795883804,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA Mondo",
+     "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/28/melania-trump-potrebbe-ambire-al-nobel-per-la-pace-dopo-la-tregua-in-ucraina_49586e9d-9bcb-47bf-b1c3-9871dfa2dc99.html",
+     "title": "'Melania Trump potrebbe ambire al Nobel per la pace dopo la tregua in Ucraina'"
+    },
+    {
+     "name": "Repubblica Esteri",
+     "link": "https://www.repubblica.it/esteri/2026/11/28/news/ossessione_famiglia_trump_per_nobel_pace_passa_a_melania-425756623/?rss",
+     "title": "L'ossessione dei Trump per il Nobel per la Pace, dopo Donald ora il sogno passa a Melania"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "Ucraina, Vannacci: \"Kiev porta guerra nel Mediterraneo, non la Russia\"",
+   "summary": "(Adnkronos) - Il leader di Futuro Nazionale dopo l'attacco ucraino alle navi russe a Bengasi",
+   "link": "https://www.adnkronos.com/internazionale/esteri/vannacci-ucraina-attacco-russia-libia_1nCAO5sUlsB15oZuyLmkNZ",
+   "pub_ts": 1795887380,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "Adnkronos Esteri",
+     "link": "https://www.adnkronos.com/internazionale/esteri/vannacci-ucraina-attacco-russia-libia_1nCAO5sUlsB15oZuyLmkNZ",
+     "title": "Ucraina, Vannacci: \"Kiev porta guerra nel Mediterraneo, non la Russia\""
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/28/vannacci-report-segreto-invasione-ucraina-notizie/8586928/",
+     "title": "“Improbabile un’invasione russa dell’Ucraina”. Ecco cosa scriveva Vannacci nel report segreto 8 giorni prima della guerra. Lui ribadisce: “Documento perfetto”"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "italia",
+   "title": "E Mattarella scrive al governo: terzo richiamo in un mese",
+   "summary": "Il Quirinale promulga la legge sull’agricoltura ma l’accompagna con una contestazione della norma sulla raccolta dei tartufi",
+   "link": "https://www.repubblica.it/politica/2026/11/28/news/mattarella_governo_richiamo_legge_agricoltura-425755718/",
+   "pub_ts": 1795877623,
+   "n_sources": 2,
+   "documented": true,
+   "sources": [
+    {
+     "name": "la Repubblica",
+     "link": "https://www.repubblica.it/politica/2026/11/28/news/mattarella_governo_richiamo_legge_agricoltura-425755718/",
+     "title": "E Mattarella scrive al governo: terzo richiamo in un mese"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/28/mattarella-scrive-a-meloni-rilievi-sulla-legge-coltivaitalia-e-il-terzo-richiamo-in-un-mese/8586767/",
+     "title": "Mattarella scrive a Meloni, rilievi sulla legge sull’agricoltura: è il terzo richiamo in un mese"
+    }
+   ]
+  },
+  {
+   "category": "politica",
+   "area": "mondo",
+   "title": "I britannici difendono l’Ucraina: “Operazione in Libia del tutto legittima”",
+   "summary": "Ma Tajani, dal palco della conferenza anglo-italiana di Pontignano, gela la sala: “Un errore grave esportare la guerra nel Mediterraneo”",
    "link": "https://www.repubblica.it/esteri/2026/11/28/news/ucraina_raid_libia_britannici_difendono_l_ucraina_operazione_legittima-425755489/?rss",
    "pub_ts": 1795824000,
    "n_sources": 2,
@@ -74,161 +303,12 @@
     {
      "name": "Repubblica Esteri",
      "link": "https://www.repubblica.it/esteri/2026/11/28/news/ucraina_raid_libia_britannici_difendono_l_ucraina_operazione_legittima-425755489/?rss",
-     "title": "I britannici difendono l’Ucraina: “Operazione del tutto legittima”"
+     "title": "I britannici difendono l’Ucraina: “Operazione in Libia del tutto legittima”"
     },
     {
      "name": "la Repubblica",
      "link": "https://www.repubblica.it/esteri/2026/11/28/news/ucraina_raid_libia_britannici_difendono_l_ucraina_operazione_legittima-425755489/",
-     "title": "I britannici difendono l’Ucraina: “Operazione del tutto legittima”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Legge elettorale, La Russa: «Il no della Consulta all’indicazione del premier sarebbe un aiuto alla sinistra»",
-   "summary": "Alla Versiliana il presidente del Senato, seconda carica dello Stato, afferma che un intervento della Corte su quel punto sarebbe «una violazione della Costituzione». Parole «di una gravità costituzionale inaudita» per Boccia (Pd), un «intollerabile attacco alla sua indipendenza», ha detto Magi (+Europa)",
-   "link": "https://www.editorialedomani.it/politica/italia/legge-elettorale-la-russa-consulta-indicazione-premier-aiuto-sinistra-reazioni-qqgxynas",
-   "pub_ts": 1795857602,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/italia/legge-elettorale-la-russa-consulta-indicazione-premier-aiuto-sinistra-reazioni-qqgxynas",
-     "title": "Legge elettorale, La Russa: «Il no della Consulta all’indicazione del premier sarebbe un aiuto alla sinistra»"
-    },
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/politica/2026/11/28/news/legge_elettorale_la_russa_shock_consulta-425755736/",
-     "title": "“Consulta contro la Costituzione se boccia la legge elettorale”: La Russa shock, è polemica"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Gaza, Medici senza Frontiere: \"Uccisi due nostri operatori in un attacco Idf\"",
-   "summary": "\"Sconvolti e indignati per l'uccisione di due membri del proprio personale, entrambi addetti alla sorveglianza. Si tratta di un attacco diretto a MSF\", scrive l'organizzazione in un comunicato",
-   "link": "https://www.rainews.it/video/2026/11/due-operatori-di-msf-uccisi-in-un-attacco-israeliano-a-gaza-ce3589fc-d6e7-464b-ac8f-54aceec93905.html",
-   "pub_ts": 1795855860,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/due-operatori-di-msf-uccisi-in-un-attacco-israeliano-a-gaza-ce3589fc-d6e7-464b-ac8f-54aceec93905.html",
-     "title": "Gaza, Medici senza Frontiere: \"Uccisi due nostri operatori in un attacco Idf\""
-    },
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/28/msf-uccisi-gaza/",
-     "title": "Due membri di Medici Senza Frontiere sono stati uccisi in un attacco israeliano a Gaza"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Kuwait, attacco con droni iraniani contro una base: morti due tecnici italiani",
-   "summary": "L'emirato del Golfo accusa direttamente Teheran per il raid condotto con velivoli di fabbricazione iraniana, ma la Repubblica Islamica smentisce",
-   "link": "https://www.rainews.it/video/2026/11/kuwait-attacco-con-droni-iraniani-contro-una-base-morti-due-tecnici-italiani-2fb9d0e8-bdb8-4285-92b3-cc50d9748525.html",
-   "pub_ts": 1795825740,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/video/2026/11/kuwait-attacco-con-droni-iraniani-contro-una-base-morti-due-tecnici-italiani-2fb9d0e8-bdb8-4285-92b3-cc50d9748525.html",
-     "title": "Kuwait, attacco con droni iraniani contro una base: morti due tecnici italiani"
-    },
-    {
-     "name": "Domani",
-     "link": "https://www.editorialedomani.it/politica/mondo/attacco-drone-kuwait-italiani-morti-cosa-e-successo-indagine-iran-g8h5e9i0",
-     "title": "Attacco in Kuwait, la versione dei Pasdaran: «Attenti a chi vuol trascinarvi nel conflitto»"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Guerra Ucraina-Russia, le news di oggi. Drone di Mosca abbattuto con il laser. “È la prima volta”",
-   "summary": "La sperimentazione confermata dal gruppo per la Difesa sostenuto da Kiev",
-   "link": "https://www.repubblica.it/esteri/2026/11/28/diretta/guerra_ucraina_russia_news_oggi-425755769/",
-   "pub_ts": 1795821275,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "la Repubblica",
-     "link": "https://www.repubblica.it/esteri/2026/11/28/diretta/guerra_ucraina_russia_news_oggi-425755769/",
-     "title": "Guerra Ucraina-Russia, le news di oggi. Drone di Mosca abbattuto con il laser. “È la prima volta”"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/vannacci-ucraina-attacco-russia-libia_1nCAO5sUlsB15oZuyLmkNZ",
-     "title": "Ucraina, Vannacci: \"Kiev porta guerra nel Mediterraneo, non la Russia\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "“Ho il terrore dell’Alzheimer. Il pensiero di non riconoscere i miei figli, mi fa piangere. Mi ferisce quando mi impegno politicamente e la gente scrive ‘continua a fare l’attore’”: così Pierpaolo Spollon",
-   "summary": "Pierpaolo Spollon il 26 novembre ha salutato i telespettatori al termine della quarta stagione di “Doc-Nelle tue mani”, su Rai Uno, mentre su Netflix è protagonista “Chiaroscuro”. “I medici sono messi in una condizione di stress, portati al limite, ha detto a La Repubblica – per l’assenza di sonno, le aggressioni. Leggi cose incredibili, è […] L'articolo “Ho il terrore dell’Alzheimer. Il pensiero…",
-   "link": "https://www.ilfattoquotidiano.it/2026/11/28/ho-il-terrore-dellalzheimer-il-pensiero-di-non-riconoscere-i-miei-figli-mi-fa-piangere-cosi-pierpaolo-spollon/8586455/",
-   "pub_ts": 1795856169,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/28/ho-il-terrore-dellalzheimer-il-pensiero-di-non-riconoscere-i-miei-figli-mi-fa-piangere-cosi-pierpaolo-spollon/8586455/",
-     "title": "“Ho il terrore dell’Alzheimer. Il pensiero di non riconoscere i miei figli, mi fa piangere. Mi ferisce quando mi impegno politicamente e la gente scrive ‘continua a fare l’attore’”: così Pierpaolo Spollon"
-    },
-    {
-     "name": "Nicola Porro",
-     "link": "https://www.nicolaporro.it/ora-pure-fare-figli-e-meloniano/",
-     "title": "Ora pure fare figli è “meloniano”"
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "mondo",
-   "title": "Per Zelensky essere amici di Putin oggi è come esserlo stati di Hitler",
-   "summary": "Ha detto che il presidente russo è «un aggressore e un assassino» e che è «strano» che Trump lo definisca un amico",
-   "link": "https://www.ilpost.it/2026/11/27/zelensky-hitler-seconda-guerra-mondiale-putin/",
-   "pub_ts": 1795775579,
-   "n_sources": 2,
-   "documented": true,
-   "sources": [
-    {
-     "name": "Il Post",
-     "link": "https://www.ilpost.it/2026/11/27/zelensky-hitler-seconda-guerra-mondiale-putin/",
-     "title": "Per Zelensky essere amici di Putin oggi è come esserlo stati di Hitler"
-    },
-    {
-     "name": "Adnkronos Esteri",
-     "link": "https://www.adnkronos.com/internazionale/esteri/zelensky-foto-trump-putin-ucraina-russia_3kK601bUM3OXNsplox8xUT",
-     "title": "Ucraina, Zelensky: \"Foto Trump con Putin 'amico'? Strano, come dirsi amici di Hitler nella Seconda Guerra Mondiale\""
-    }
-   ]
-  },
-  {
-   "category": "politica",
-   "area": "italia",
-   "title": "Come funziona il decreto legge Bollette",
-   "summary": "Dal 1° gennaio scatta un meccanismo che agisce sul prezzo del gas per ridurre le tariffe elettriche",
-   "link": "https://www.ansa.it/sito/videogallery/italia/2026/11/28/come-funziona-il-decreto-legge-bollette_5d20fa62-b3ac-48fd-9cb6-29d7eae45b3e.html",
-   "pub_ts": 1795854359,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA",
-     "link": "https://www.ansa.it/sito/videogallery/italia/2026/11/28/come-funziona-il-decreto-legge-bollette_5d20fa62-b3ac-48fd-9cb6-29d7eae45b3e.html",
-     "title": "Come funziona il decreto legge Bollette"
+     "title": "I britannici difendono l’Ucraina: “Operazione in Libia del tutto legittima”"
     }
    ]
   },
@@ -265,19 +345,31 @@
    "title": "LinkedIn in Italia ha oltre 27 milioni di utenti, l'IA ridefinisce le professioni",
    "summary": "La piattafforma festeggia 15 anni nel paese, lavoro ibrido richiesto e resta gender gap",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/ansa-linkedin-in-italia-ha-oltre-27-milioni-di-utenti-ia-ridefinisce-le-professioni_dab62c4b-9b18-4f00-b169-e4927c50902b.html",
-   "pub_ts": 1795846420,
-   "n_sources": 2,
-   "documented": true,
+   "pub_ts": 1795868393,
+   "n_sources": 1,
+   "documented": false,
    "sources": [
     {
      "name": "ANSA Tecnologia",
      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/ansa-linkedin-in-italia-ha-oltre-27-milioni-di-utenti-ia-ridefinisce-le-professioni_dab62c4b-9b18-4f00-b169-e4927c50902b.html",
      "title": "LinkedIn in Italia ha oltre 27 milioni di utenti, l'IA ridefinisce le professioni"
-    },
+    }
+   ]
+  },
+  {
+   "category": "tech",
+   "area": null,
+   "title": "OpenAI denuncia Apple per furto di segreti commerciali",
+   "summary": "OpenAI ha accusato Apple di aver rubato i suoi segreti commerciali e di minacciare i fornitori hardware che collaborano con entrambe le aziende. The post OpenAI denuncia Apple per furto di segreti commerciali appeared first on Punto Informatico .",
+   "link": "https://www.punto-informatico.it/openai-denuncia-apple-furto-segreti-commerciali/",
+   "pub_ts": 1795883202,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
     {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/linkedin-compie-15-anni-in-italia-da-2-a-oltre-27-milioni-di-membri-57d69861-886b-4f2d-b43d-083340909d41.html",
-     "title": "LinkedIn compie 15 anni in Italia: da 2 a oltre 27 milioni di membri"
+     "name": "Punto Informatico",
+     "link": "https://www.punto-informatico.it/openai-denuncia-apple-furto-segreti-commerciali/",
+     "title": "OpenAI denuncia Apple per furto di segreti commerciali"
     }
    ]
   },
@@ -299,41 +391,29 @@
    ]
   },
   {
-   "category": "tech",
-   "area": null,
-   "title": "All'aeroporto di Fiumicino arriva lo Spazio: un'area interattiva per l'esplorazione con l'AI",
-   "summary": "Il cosmo (interattivo) atterra a Fiumicino. Per i passeggeri in transito modelli tridimensionali, animazioni, un astronauta ad oleogramma. Parmitano testimonial d'eccezione. Inaugurata una nuova area",
-   "link": "https://www.rainews.it/articoli/2026/11/allaeroporto-di-fiumicino-arriva-lo-spazio-unarea-interattiva-per-lesplorazione-con-lai-roma-3bf2f1d1-50c6-448d-960c-945599f33c00.html",
-   "pub_ts": 1795853040,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/allaeroporto-di-fiumicino-arriva-lo-spazio-unarea-interattiva-per-lesplorazione-con-lai-roma-3bf2f1d1-50c6-448d-960c-945599f33c00.html",
-     "title": "All'aeroporto di Fiumicino arriva lo Spazio: un'area interattiva per l'esplorazione con l'AI"
-    }
-   ]
-  },
-  {
    "category": "varia",
    "area": null,
-   "title": "Che Tempo Che Fa, tra gli ospiti Nanni Moretti, Jasmine Trinca e Stefano De Martino",
-   "summary": "Nel salotto di Fabio Fazio anche Ambra Angiolini e Max Pezzali",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/che-tempo-che-fa-tra-gli-ospiti-nanni-moretti-jasmine-trinca_46fdf72b-9df6-41a2-a437-5cedf9c43e67.html",
-   "pub_ts": 1795858502,
-   "n_sources": 2,
+   "title": "Il Memorial per Augias, i ricordi di famiglia e i Beatles suonati da Piovani",
+   "summary": "Mauro: 'Fu testimone del secolo'. La figlia Natalia: 'Amava l'Europa, ha vissuto di corsa'",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/augias-il-ricordo-dei-familiari-al-memoriale-fino-allultimo-ha-fatto-progetti_72dccf87-a050-4fe8-89ac-22d6f110d0fd.html",
+   "pub_ts": 1795888937,
+   "n_sources": 3,
    "documented": true,
    "sources": [
     {
      "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/che-tempo-che-fa-tra-gli-ospiti-nanni-moretti-jasmine-trinca_46fdf72b-9df6-41a2-a437-5cedf9c43e67.html",
-     "title": "Che Tempo Che Fa, tra gli ospiti Nanni Moretti, Jasmine Trinca e Stefano De Martino"
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/augias-il-ricordo-dei-familiari-al-memoriale-fino-allultimo-ha-fatto-progetti_72dccf87-a050-4fe8-89ac-22d6f110d0fd.html",
+     "title": "Il Memorial per Augias, i ricordi di famiglia e i Beatles suonati da Piovani"
     },
     {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/28/per-nanni-moretti-ho-cantato-achille-lauro-e-ho-ballato-vergognandomi-molto-per-le-scene-di-sesso-ha-fatto-tutto-jasmine-trinca-cosi-louis-garrel/8586448/",
-     "title": "“Per Nanni Moretti ho cantato Achille Lauro e ho ballato, vergognandomi molto. Per le scene di sesso ha fatto tutto Jasmine Trinca”: così Louis Garrel"
+     "name": "ANSA Politica",
+     "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/il-memorial-per-augias-i-ricordi-di-famiglia-e-i-beatles-suonati-da-piovani_050b09a4-1807-4d60-a514-c919694f17a9.html",
+     "title": "Il Memorial per Augias, i ricordi di famiglia e i Beatles suonati da Piovani"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/articoli/2026/11/corrado-augias-lultimo-saluto-allauditorium-piovani-al-pianoforte-e-i-ricordi-di-famiglia-ef5d4ec3-9dbd-4809-b774-1e1631e654c5.html",
+     "title": "Corrado Augias, l'ultimo saluto all'Auditorium: Piovani al pianoforte e i ricordi di famiglia"
     }
    ],
    "subtype": "cultura"
@@ -341,22 +421,22 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Corrado Augias, oggi la commemorazione all'Auditorium con Ezio Mauro e Nicola Piovani",
-   "summary": "Sul palco i ricordi dei familiari e degli amici di una vita ma soprattutto le musiche più amate. Un maxischermo nella Cavea per il commiato al giornalista scomparso il 19 novembre",
-   "link": "https://roma.repubblica.it/cronaca/2026/11/28/diretta/augias_commemorazione_oggi_auditorium_diretta-425756070/",
-   "pub_ts": 1795857185,
+   "title": "Caso Diaco-Ravagnani, anche il Garante per la Privacy accende un faro",
+   "summary": "Il Codacons: \"Accolto il nostro ricorso, possibili sanzioni fino a 20 milioni\"",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/caso-diaco-ravagnani-anche-il-garante-per-la-privacy-accende-un-faro_7b147da5-d7aa-41d3-91ef-abb40547d6d5.html",
+   "pub_ts": 1795887810,
    "n_sources": 2,
    "documented": true,
    "sources": [
     {
-     "name": "la Repubblica",
-     "link": "https://roma.repubblica.it/cronaca/2026/11/28/diretta/augias_commemorazione_oggi_auditorium_diretta-425756070/",
-     "title": "Corrado Augias, oggi la commemorazione all'Auditorium con Ezio Mauro e Nicola Piovani"
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/caso-diaco-ravagnani-anche-il-garante-per-la-privacy-accende-un-faro_7b147da5-d7aa-41d3-91ef-abb40547d6d5.html",
+     "title": "Caso Diaco-Ravagnani, anche il Garante per la Privacy accende un faro"
     },
     {
-     "name": "Adnkronos Cultura",
-     "link": "https://www.adnkronos.com/cultura/corrado-augias-omaggio-auditorium-parco-della-musica_13xB4PdQMmYRYmP6Qk5lNh",
-     "title": "Corrado Augias, oggi il ricordo in musica e parole all'Auditorium Parco Musica: la scaletta"
+     "name": "Open",
+     "link": "https://www.open.online/2026/11/28/diaco-ravagnani-indagine-garante-privacy-intervista/",
+     "title": "Diaco-Ravagnani, si muove anche il Garante per la privacy: cosa rischia la Rai per l’intervista sulla sessualità dell’ex prete"
     }
    ],
    "subtype": "cultura"
@@ -387,53 +467,90 @@
   {
    "category": "varia",
    "area": null,
-   "title": "Pierino e il lupo, a Santa Cecilia la fiaba musicale con la voce di Danilo Bertazzi",
-   "summary": "Il 30 novembre appuntamento per i bambini all'Auditorium con la JuniOrchestra",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/28/pierino-e-il-lupo-a-santa-cecilia-la-fiaba-musicale-con-la-voce-di-danilo-bertazzi_069b4beb-64f3-4930-a78e-72d28362e914.html",
-   "pub_ts": 1795859634,
-   "n_sources": 1,
-   "documented": false,
-   "sources": [
-    {
-     "name": "ANSA Cultura",
-     "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/28/pierino-e-il-lupo-a-santa-cecilia-la-fiaba-musicale-con-la-voce-di-danilo-bertazzi_069b4beb-64f3-4930-a78e-72d28362e914.html",
-     "title": "Pierino e il lupo, a Santa Cecilia la fiaba musicale con la voce di Danilo Bertazzi"
-    }
-   ],
-   "subtype": "cultura"
-  },
-  {
-   "category": "varia",
-   "area": null,
-   "title": "Un ponte sanitario tra Genova e Camerun, al via il progetto",
-   "summary": "Promosso da Filmi e dalla Fondazione Pallavicino",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/26/un-ponte-sanitario-tra-genova-e-camerun-al-via-progetto_3bfc20ce-29e8-456c-9bf2-1fc8e7a43a62.html",
-   "pub_ts": 1795847255,
+   "title": "Turni fiume e pochi diritti, i medici specializzandi sono 42mila",
+   "summary": "\"Fino a 250 ore al mese. Serve riforma strutturale\". Anche loro il 5 dicembre in piazza",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/28/specializzandi-turni-fino-a-250-ore-al-mese-serve-contratto-di-lavoro_57d56ba5-9277-4a8d-9067-b542c7ea0415.html",
+   "pub_ts": 1795889773,
    "n_sources": 1,
    "documented": false,
    "sources": [
     {
      "name": "ANSA Salute",
-     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/26/un-ponte-sanitario-tra-genova-e-camerun-al-via-progetto_3bfc20ce-29e8-456c-9bf2-1fc8e7a43a62.html",
-     "title": "Un ponte sanitario tra Genova e Camerun, al via il progetto"
+     "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/28/specializzandi-turni-fino-a-250-ore-al-mese-serve-contratto-di-lavoro_57d56ba5-9277-4a8d-9067-b542c7ea0415.html",
+     "title": "Turni fiume e pochi diritti, i medici specializzandi sono 42mila"
     }
    ],
    "subtype": "scienza"
   },
   {
+   "category": "varia",
+   "area": null,
+   "title": "A Roberto Colonnelli il premio letterario Melina Doti",
+   "summary": "Racconti brevi di over 50, a Potenza la cerimonia finale della settima edizione",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/28/a-roberto-colonnelli-il-premio-letterario-melina-doti_630db95f-0b05-4336-ba62-926df0d4d5b1.html",
+   "pub_ts": 1795889506,
+   "n_sources": 1,
+   "documented": false,
+   "sources": [
+    {
+     "name": "ANSA Cultura",
+     "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/28/a-roberto-colonnelli-il-premio-letterario-melina-doti_630db95f-0b05-4336-ba62-926df0d4d5b1.html",
+     "title": "A Roberto Colonnelli il premio letterario Melina Doti"
+    }
+   ],
+   "subtype": "cultura"
+  },
+  {
    "category": "cronaca",
    "area": null,
-   "title": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto",
-   "summary": "I carabinieri, su ordine della Procura di Patti, hanno arrestato Agostino Segreto, amico dell'82enne Antonio Gatani, la più anziana delle vittime. E' accusato di omicidio volontario",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto-_3c7f37fd-7c54-41a9-94ee-23f1d3463981.html",
-   "pub_ts": 1795857177,
+   "title": "Colpita una clinica di Medici Senza Frontiere a Gaza, morti due membri del personale",
+   "summary": "L'esercito israeliano li ha definiti terroristi. Lavoravano come addetti alla sicurezza della struttura. Ira dell'Oms: 'Attacchi scandalosi e inaccettabili'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/28/colpita-una-clinica-di-medici-senza-frontiere-a-gaza-morti-due-membri_36fef5d0-d3c6-434a-be1a-afbdc702532f.html",
+   "pub_ts": 1795889958,
    "n_sources": 5,
    "documented": true,
    "sources": [
     {
      "name": "ANSA",
+     "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/28/colpita-una-clinica-di-medici-senza-frontiere-a-gaza-morti-due-membri_36fef5d0-d3c6-434a-be1a-afbdc702532f.html",
+     "title": "Colpita una clinica di Medici Senza Frontiere a Gaza, morti due membri del personale"
+    },
+    {
+     "name": "Rai News",
+     "link": "https://www.rainews.it/video/2026/11/due-operatori-di-msf-uccisi-in-un-attacco-israeliano-a-gaza-ce3589fc-d6e7-464b-ac8f-54aceec93905.html",
+     "title": "Gaza, Israele uccide due operatori di Medici senza Frontiere"
+    },
+    {
+     "name": "Il Post",
+     "link": "https://www.ilpost.it/2026/11/28/msf-uccisi-gaza/",
+     "title": "Due membri di Medici Senza Frontiere sono stati uccisi in un attacco israeliano a Gaza"
+    },
+    {
+     "name": "Domani",
+     "link": "https://www.editorialedomani.it/fatti/coop-al-fianco-di-medici-senza-frontiere-raccolta-fondi-per-lospedale-di-amman-yvyg4wm9",
+     "title": "Coop al fianco di Medici senza frontiere: raccolta fondi per l’ospedale di Amman"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "link": "https://www.ilfattoquotidiano.it/2026/11/28/gaza-raid-israele-ospedale-morti-medici-senza-frontiere/8586668/",
+     "title": "Gaza, raid di Israele su una clinica: uccisi due collaboratori di Medici Senza Frontiere"
+    }
+   ]
+  },
+  {
+   "category": "cronaca",
+   "area": null,
+   "title": "Strage dei cacciatori nel messinese, arrestato il superstite",
+   "summary": "Accusato di omicidio volontario, la svolta dalle analisi del Ris",
+   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto-_3c7f37fd-7c54-41a9-94ee-23f1d3463981.html",
+   "pub_ts": 1795885346,
+   "n_sources": 3,
+   "documented": true,
+   "sources": [
+    {
+     "name": "ANSA",
      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto-_3c7f37fd-7c54-41a9-94ee-23f1d3463981.html",
-     "title": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto"
+     "title": "Strage dei cacciatori nel messinese, arrestato il superstite"
     },
     {
      "name": "ANSA Cronaca",
@@ -441,111 +558,101 @@
      "title": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto"
     },
     {
-     "name": "Open",
-     "link": "https://www.open.online/2026/11/28/cacciatori-morti-montagnareale-arrestato-superstite-sparatoria-agostino-segreto/",
-     "title": "Svolta nel giallo dei cacciatori uccisi a Montagnareale: arrestato l’unico superstite della sparatoria"
-    },
-    {
      "name": "Rai News",
-     "link": "https://www.rainews.it/articoli/2026/11/tre-cacciatori-morti-analisi-confermano-arrestato-unico-superstite-e762de29-fc11-4809-a374-5b00d6d9ecd5.html",
-     "title": "Tre cacciatori morti, le analisi confermano: arrestato unico superstite"
-    },
-    {
-     "name": "Il Fatto Quotidiano",
-     "link": "https://www.ilfattoquotidiano.it/2026/11/28/cacciatori-morti-montagnareale-segreto-arrestato-notizie/8586454/",
-     "title": "Svolta nel giallo dei tre cacciatori morti: arrestato un quarto uomo, è accusato di omicidio volontario"
+     "link": "https://www.rainews.it/video/2026/11/cacciatori-uccisi-messina-arrestato-omicidio-unico-superstite-85f77a5e-9304-40fb-992d-c063e898b72f.html",
+     "title": "Cacciatori uccisi nel Messinese, arrestato per omicidio l'unico superstite"
     }
    ]
   }
  ],
  "articles": [
   {
-   "title": "Nordio ai magistrati: 'Stiamo superando i dissidi, lavoriamo insieme'",
-   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
-   "description": "Il ministro della Giustizia al congresso dell'Anm: 'Preso atto dei risultati del referendum, vanno eseguiti'",
-   "pub_ts": 1795859590,
+   "title": "Giornata di riflessione in famiglia per i candidati alle elezioni politiche in Spagna",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/28/giornata-di-riflessione-in-famiglia-per-i-candidati-alle-elezioni-politiche-in-spagna_c1fed763-2de7-4c1a-8320-0dadf7a8ca3b.html",
+   "description": "Ma il leader del Pp Feijoo rompe la tradizione e vola a Ceuta",
+   "pub_ts": 1795889040,
    "source": "ANSA",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Spagna, l’insulto di Feijóo a Colau che può cambiare l’esito del voto: “Stia zitta”",
-   "link": "https://www.repubblica.it/esteri/2026/11/27/news/spagna_elezioni_insulto_di_feijoo_a_colau_puo_cambiare_esito_voto_stai_zitta-425754116/?rss",
-   "description": "Durante il confronto televisivo di ieri sera tra i quattro candidati che domenica si contendono la presidenza del Governo, il leader del Partito Popolare si è rivolto così alla rappresentante del Frente Amplio. L’ex sindaca di Barcellona è la vincitrice del faccia a faccia in...",
-   "pub_ts": 1795859548,
+   "title": "Nordio: 'Stiamo superando i dissidi, completa sintonia con Meloni. I magistrati accettino di rateizzare gli stipendi arretrati'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/nordio-allanm-stiamo-superando-i-dissidi-lavoriamo-insieme_af50b19d-d167-46af-aa7b-f48854eaa83f.html",
+   "description": "Il ministro della Giustizia al congresso dell'Anm: 'Preso atto dei risultati del referendum, vanno eseguiti'",
+   "pub_ts": 1795889880,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Legge elettorale, Schlein: 'Inaccettabile l'intimidazione di La Russa, piantatela con gli attacchi ai giudici'",
+   "link": "https://www.ansa.it/sito/notizie/politica/2026/11/28/schlein-inaccettabile-intimidazione-la-russa-piantatela-con-attacchi-ai-giudici_e6901f62-1455-4688-8e67-f225f4840ba2.html",
+   "description": "La segretaria dem: \"Avete già provato a stravolgere la Costituzione e vi hanno fermato 15 milioni di persone\"",
+   "pub_ts": 1795890404,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "politica"
+  },
+  {
+   "title": "Israele, la mossa di Netanyahu: “Governo con Eisenkot”",
+   "link": "https://www.repubblica.it/esteri/2026/11/28/news/israele_elezioni_mossa_netanyahu_governo_con_eisenkot-425757511/?rss",
+   "description": "Bibi prova a evitare la nascita di un esecutivo senza di lui: “Pronto a fare il premier a rotazione”",
+   "pub_ts": 1795887645,
    "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "I britannici difendono l’Ucraina: “Operazione del tutto legittima”",
-   "link": "https://www.repubblica.it/esteri/2026/11/28/news/ucraina_raid_libia_britannici_difendono_l_ucraina_operazione_legittima-425755489/?rss",
-   "description": "Ma Tajani, dal palco delle conferenza anglo-italiana di Pontignano, gela la sala: “Un errore grave esportare la guerra nel Mediterraneo”",
-   "pub_ts": 1795824000,
-   "source": "Repubblica Esteri",
+   "title": "Violenta protesta a Tirana, sassi e molotov contro la polizia",
+   "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/28/violenta-protesta-a-tirana-sassi-e-molotov-contro-la-polizia_8f11c110-3199-4517-98f0-28dd9053a5ad.html",
+   "description": "I manifestanti chiedono le dimissioni del premier socialista Edi Rama",
+   "pub_ts": 1795881889,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Legge elettorale, La Russa: «Il no della Consulta all’indicazione del premier sarebbe un aiuto alla sinistra»",
-   "link": "https://www.editorialedomani.it/politica/italia/legge-elettorale-la-russa-consulta-indicazione-premier-aiuto-sinistra-reazioni-qqgxynas",
-   "description": "Alla Versiliana il presidente del Senato, seconda carica dello Stato, afferma che un intervento della Corte su quel punto sarebbe «una violazione della Costituzione». Parole «di una gravità costituzionale inaudita» per Boccia (Pd), un «intollerabile attacco alla sua indipendenza», ha detto Magi (+Europa)",
-   "pub_ts": 1795857602,
-   "source": "Domani",
+   "title": "Ucraina, media: Zelensky vuole distruggere completamente il ponte di Crimea",
+   "link": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-ponte-crimea_3Bo0cLk8LuuovkFCNfr5Xl",
+   "description": "(Adnkronos) - Il 18 novembre droni e missili da crociera ucraini avevano colpito il ponte, in quello che è stato uno degli attacchi dal maggiore valore simbolico dall'inizio dell'invasione russa del 2022",
+   "pub_ts": 1795864023,
+   "source": "Adnkronos Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Gaza, Medici senza Frontiere: \"Uccisi due nostri operatori in un attacco Idf\"",
-   "link": "https://www.rainews.it/video/2026/11/due-operatori-di-msf-uccisi-in-un-attacco-israeliano-a-gaza-ce3589fc-d6e7-464b-ac8f-54aceec93905.html",
-   "description": "\"Sconvolti e indignati per l'uccisione di due membri del proprio personale, entrambi addetti alla sorveglianza. Si tratta di un attacco diretto a MSF\", scrive l'organizzazione in un comunicato",
-   "pub_ts": 1795855860,
-   "source": "Rai News",
+   "title": "'Melania Trump potrebbe ambire al Nobel per la pace dopo la tregua in Ucraina'",
+   "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/28/melania-trump-potrebbe-ambire-al-nobel-per-la-pace-dopo-la-tregua-in-ucraina_49586e9d-9bcb-47bf-b1c3-9871dfa2dc99.html",
+   "description": "Per gli esperti è una candidata 'più solida' del marito",
+   "pub_ts": 1795883804,
+   "source": "ANSA Mondo",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Kuwait, attacco con droni iraniani contro una base: morti due tecnici italiani",
-   "link": "https://www.rainews.it/video/2026/11/kuwait-attacco-con-droni-iraniani-contro-una-base-morti-due-tecnici-italiani-2fb9d0e8-bdb8-4285-92b3-cc50d9748525.html",
-   "description": "L'emirato del Golfo accusa direttamente Teheran per il raid condotto con velivoli di fabbricazione iraniana, ma la Repubblica Islamica smentisce",
-   "pub_ts": 1795825740,
-   "source": "Rai News",
+   "title": "Ucraina, Vannacci: \"Kiev porta guerra nel Mediterraneo, non la Russia\"",
+   "link": "https://www.adnkronos.com/internazionale/esteri/vannacci-ucraina-attacco-russia-libia_1nCAO5sUlsB15oZuyLmkNZ",
+   "description": "(Adnkronos) - Il leader di Futuro Nazionale dopo l'attacco ucraino alle navi russe a Bengasi",
+   "pub_ts": 1795887380,
+   "source": "Adnkronos Esteri",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "Guerra Ucraina-Russia, le news di oggi. Drone di Mosca abbattuto con il laser. “È la prima volta”",
-   "link": "https://www.repubblica.it/esteri/2026/11/28/diretta/guerra_ucraina_russia_news_oggi-425755769/",
-   "description": "La sperimentazione confermata dal gruppo per la Difesa sostenuto da Kiev",
-   "pub_ts": 1795821275,
+   "title": "E Mattarella scrive al governo: terzo richiamo in un mese",
+   "link": "https://www.repubblica.it/politica/2026/11/28/news/mattarella_governo_richiamo_legge_agricoltura-425755718/",
+   "description": "Il Quirinale promulga la legge sull’agricoltura ma l’accompagna con una contestazione della norma sulla raccolta dei tartufi",
+   "pub_ts": 1795877623,
    "source": "la Repubblica",
    "source_priority": 1,
    "section": "politica"
   },
   {
-   "title": "“Ho il terrore dell’Alzheimer. Il pensiero di non riconoscere i miei figli, mi fa piangere. Mi ferisce quando mi impegno politicamente e la gente scrive ‘continua a fare l’attore’”: così Pierpaolo Spollon",
-   "link": "https://www.ilfattoquotidiano.it/2026/11/28/ho-il-terrore-dellalzheimer-il-pensiero-di-non-riconoscere-i-miei-figli-mi-fa-piangere-cosi-pierpaolo-spollon/8586455/",
-   "description": "Pierpaolo Spollon il 26 novembre ha salutato i telespettatori al termine della quarta stagione di “Doc-Nelle tue mani”, su Rai Uno, mentre su Netflix è protagonista “Chiaroscuro”. “I medici sono messi in una condizione di stress, portati al limite, ha detto a La Repubblica – per l’assenza di sonno, le aggressioni. Leggi cose incredibili, è […] L'articolo “Ho il terrore dell’Alzheimer. Il pensiero…",
-   "pub_ts": 1795856169,
-   "source": "Il Fatto Quotidiano",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Per Zelensky essere amici di Putin oggi è come esserlo stati di Hitler",
-   "link": "https://www.ilpost.it/2026/11/27/zelensky-hitler-seconda-guerra-mondiale-putin/",
-   "description": "Ha detto che il presidente russo è «un aggressore e un assassino» e che è «strano» che Trump lo definisca un amico",
-   "pub_ts": 1795775579,
-   "source": "Il Post",
-   "source_priority": 1,
-   "section": "politica"
-  },
-  {
-   "title": "Come funziona il decreto legge Bollette",
-   "link": "https://www.ansa.it/sito/videogallery/italia/2026/11/28/come-funziona-il-decreto-legge-bollette_5d20fa62-b3ac-48fd-9cb6-29d7eae45b3e.html",
-   "description": "Dal 1° gennaio scatta un meccanismo che agisce sul prezzo del gas per ridurre le tariffe elettriche",
-   "pub_ts": 1795854359,
-   "source": "ANSA",
+   "title": "I britannici difendono l’Ucraina: “Operazione in Libia del tutto legittima”",
+   "link": "https://www.repubblica.it/esteri/2026/11/28/news/ucraina_raid_libia_britannici_difendono_l_ucraina_operazione_legittima-425755489/?rss",
+   "description": "Ma Tajani, dal palco della conferenza anglo-italiana di Pontignano, gela la sala: “Un errore grave esportare la guerra nel Mediterraneo”",
+   "pub_ts": 1795824000,
+   "source": "Repubblica Esteri",
    "source_priority": 1,
    "section": "politica"
   },
@@ -562,8 +669,17 @@
    "title": "LinkedIn in Italia ha oltre 27 milioni di utenti, l'IA ridefinisce le professioni",
    "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/26/ansa-linkedin-in-italia-ha-oltre-27-milioni-di-utenti-ia-ridefinisce-le-professioni_dab62c4b-9b18-4f00-b169-e4927c50902b.html",
    "description": "La piattafforma festeggia 15 anni nel paese, lavoro ibrido richiesto e resta gender gap",
-   "pub_ts": 1795846420,
+   "pub_ts": 1795868393,
    "source": "ANSA Tecnologia",
+   "source_priority": 1,
+   "section": "tech"
+  },
+  {
+   "title": "OpenAI denuncia Apple per furto di segreti commerciali",
+   "link": "https://www.punto-informatico.it/openai-denuncia-apple-furto-segreti-commerciali/",
+   "description": "OpenAI ha accusato Apple di aver rubato i suoi segreti commerciali e di minacciare i fornitori hardware che collaborano con entrambe le aziende. The post OpenAI denuncia Apple per furto di segreti commerciali appeared first on Punto Informatico .",
+   "pub_ts": 1795883202,
+   "source": "Punto Informatico",
    "source_priority": 1,
    "section": "tech"
   },
@@ -577,29 +693,20 @@
    "section": "tech"
   },
   {
-   "title": "All'aeroporto di Fiumicino arriva lo Spazio: un'area interattiva per l'esplorazione con l'AI",
-   "link": "https://www.rainews.it/articoli/2026/11/allaeroporto-di-fiumicino-arriva-lo-spazio-unarea-interattiva-per-lesplorazione-con-lai-roma-3bf2f1d1-50c6-448d-960c-945599f33c00.html",
-   "description": "Il cosmo (interattivo) atterra a Fiumicino. Per i passeggeri in transito modelli tridimensionali, animazioni, un astronauta ad oleogramma. Parmitano testimonial d'eccezione. Inaugurata una nuova area",
-   "pub_ts": 1795853040,
-   "source": "Rai News",
-   "source_priority": 1,
-   "section": "tech"
-  },
-  {
-   "title": "Che Tempo Che Fa, tra gli ospiti Nanni Moretti, Jasmine Trinca e Stefano De Martino",
-   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/che-tempo-che-fa-tra-gli-ospiti-nanni-moretti-jasmine-trinca_46fdf72b-9df6-41a2-a437-5cedf9c43e67.html",
-   "description": "Nel salotto di Fabio Fazio anche Ambra Angiolini e Max Pezzali",
-   "pub_ts": 1795858502,
+   "title": "Il Memorial per Augias, i ricordi di famiglia e i Beatles suonati da Piovani",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/augias-il-ricordo-dei-familiari-al-memoriale-fino-allultimo-ha-fatto-progetti_72dccf87-a050-4fe8-89ac-22d6f110d0fd.html",
+   "description": "Mauro: 'Fu testimone del secolo'. La figlia Natalia: 'Amava l'Europa, ha vissuto di corsa'",
+   "pub_ts": 1795888937,
    "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Corrado Augias, oggi la commemorazione all'Auditorium con Ezio Mauro e Nicola Piovani",
-   "link": "https://roma.repubblica.it/cronaca/2026/11/28/diretta/augias_commemorazione_oggi_auditorium_diretta-425756070/",
-   "description": "Sul palco i ricordi dei familiari e degli amici di una vita ma soprattutto le musiche più amate. Un maxischermo nella Cavea per il commiato al giornalista scomparso il 19 novembre",
-   "pub_ts": 1795857185,
-   "source": "la Repubblica",
+   "title": "Caso Diaco-Ravagnani, anche il Garante per la Privacy accende un faro",
+   "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/28/caso-diaco-ravagnani-anche-il-garante-per-la-privacy-accende-un-faro_7b147da5-d7aa-41d3-91ef-abb40547d6d5.html",
+   "description": "Il Codacons: \"Accolto il nostro ricorso, possibili sanzioni fino a 20 milioni\"",
+   "pub_ts": 1795887810,
+   "source": "ANSA Cultura",
    "source_priority": 1,
    "section": "varia"
   },
@@ -613,28 +720,37 @@
    "section": "varia"
   },
   {
-   "title": "Pierino e il lupo, a Santa Cecilia la fiaba musicale con la voce di Danilo Bertazzi",
-   "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/28/pierino-e-il-lupo-a-santa-cecilia-la-fiaba-musicale-con-la-voce-di-danilo-bertazzi_069b4beb-64f3-4930-a78e-72d28362e914.html",
-   "description": "Il 30 novembre appuntamento per i bambini all'Auditorium con la JuniOrchestra",
-   "pub_ts": 1795859634,
-   "source": "ANSA Cultura",
-   "source_priority": 1,
-   "section": "varia"
-  },
-  {
-   "title": "Un ponte sanitario tra Genova e Camerun, al via il progetto",
-   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/26/un-ponte-sanitario-tra-genova-e-camerun-al-via-progetto_3bfc20ce-29e8-456c-9bf2-1fc8e7a43a62.html",
-   "description": "Promosso da Filmi e dalla Fondazione Pallavicino",
-   "pub_ts": 1795847255,
+   "title": "Turni fiume e pochi diritti, i medici specializzandi sono 42mila",
+   "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/28/specializzandi-turni-fino-a-250-ore-al-mese-serve-contratto-di-lavoro_57d56ba5-9277-4a8d-9067-b542c7ea0415.html",
+   "description": "\"Fino a 250 ore al mese. Serve riforma strutturale\". Anche loro il 5 dicembre in piazza",
+   "pub_ts": 1795889773,
    "source": "ANSA Salute",
    "source_priority": 1,
    "section": "varia"
   },
   {
-   "title": "Svolta nel giallo dei cacciatori uccisi nel Messinese, un arresto",
+   "title": "A Roberto Colonnelli il premio letterario Melina Doti",
+   "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/28/a-roberto-colonnelli-il-premio-letterario-melina-doti_630db95f-0b05-4336-ba62-926df0d4d5b1.html",
+   "description": "Racconti brevi di over 50, a Potenza la cerimonia finale della settima edizione",
+   "pub_ts": 1795889506,
+   "source": "ANSA Cultura",
+   "source_priority": 1,
+   "section": "varia"
+  },
+  {
+   "title": "Colpita una clinica di Medici Senza Frontiere a Gaza, morti due membri del personale",
+   "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/28/colpita-una-clinica-di-medici-senza-frontiere-a-gaza-morti-due-membri_36fef5d0-d3c6-434a-be1a-afbdc702532f.html",
+   "description": "L'esercito israeliano li ha definiti terroristi. Lavoravano come addetti alla sicurezza della struttura. Ira dell'Oms: 'Attacchi scandalosi e inaccettabili'",
+   "pub_ts": 1795889958,
+   "source": "ANSA",
+   "source_priority": 1,
+   "section": "cronaca"
+  },
+  {
+   "title": "Strage dei cacciatori nel messinese, arrestato il superstite",
    "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/28/svolta-nel-giallo-dei-cacciatori-uccisi-nel-messinese-un-arresto-_3c7f37fd-7c54-41a9-94ee-23f1d3463981.html",
-   "description": "I carabinieri, su ordine della Procura di Patti, hanno arrestato Agostino Segreto, amico dell'82enne Antonio Gatani, la più anziana delle vittime. E' accusato di omicidio volontario",
-   "pub_ts": 1795857177,
+   "description": "Accusato di omicidio volontario, la svolta dalle analisi del Ris",
+   "pub_ts": 1795885346,
    "source": "ANSA",
    "source_priority": 1,
    "section": "cronaca"
